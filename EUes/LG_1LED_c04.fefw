@@ -1,0 +1,93 @@
+﻿MID_LGV_1LED_c04_B01_m01: <TH>
+MID_LGV_1LED_c04_B01_m01_001: Eres Leda, ¿verdad? He oído hablar de ti.\nHan admitido tu inscripción en los Juegos Heroicos.
+MID_LGV_1LED_c04_B01_m01_002: La ceremonia de apertura dará comienzo pronto.\nPor favor, busca acomodo en las gradas.
+MID_LGA_1LED_c04_B01_m01: <BLN>Trabajo en la organización.
+MID_LGV_1LED_c04_Sci_m01: <TH>
+MID_LGV_1LED_c04_Sci_m01_001: Lechner entrará en acción poco antes de la próxima\nluna nueva, así que nosotros deberíamos ponernos\nen movimiento el {SetColor=Gold}{DateTime=Day} de {LowercaseNextLetter}{DateTime=Month}{SetColor=Default}.
+MID_LGA_1LED_c04_Sci_m01: <BLN>¿Todo listo?
+MID_LGV_1LED_c04_Sci_m05: <TH>
+MID_LGV_1LED_c04_Sci_m05_001: La luna nueva es esta noche, de modo que Lechner\nentrará en acción. Y nosotros también.
+MID_LGA_1LED_c04_Sci_m05: <BLN>¿Todo listo?
+MID_LGV_1LED_c04_Buc_m01: <TH>
+MID_LGV_1LED_c04_Buc_m01_001: Cuando vivía aquí, en Dagsion, llegué a ocupar\nel cargo de primípilo.
+MID_LGV_1LED_c04_Buc_m01_002: Pero tiempo después nombraron a lord Guillermo\nvirrey de Cydonia, así que abandoné la capital\npara ponerme a su servicio.
+MID_LGA_1LED_c04_Buc_m01: <BLN>Ha pasado tanto tiempo...
+MID_LGV_1LED_c04_Sci_m02: <TH>
+MID_LGV_1LED_c04_Sci_m02_001: Hacía mucho tiempo que no visitaba la capital.\nMe alegro de volver a sentir la dulce brisa\nde las calles de Dagsion acariciar mi piel.
+MID_LGV_1LED_c04_Sci_m02_002: Aunque me complacería más aún compartir\ncama esta noche con alguna belleza local.\n¡Que comience la cacería!
+MID_LGA_1LED_c04_Sci_m02: <BLN>¿Con quién pasaré la noche?
+MID_LGV_1LED_c04_Moo_m01: <TH>
+MID_LGV_1LED_c04_Moo_m01_001: Dagsion es una ciudad increíble...\n¡Todavía no me creo que nos hayamos colado aquí!
+MID_LGV_1LED_c04_Moo_m01_002: Si los dioses han creado un lugar así,\ndeben de ser muy poderosos.
+MID_LGA_1LED_c04_Moo_m01: <BLN>¡Todavía no me lo creo!
+MID_LGV_1LED_c04_Oly_m01: <TH>
+MID_LGV_1LED_c04_Oly_m01_001: ¡Adoro esta ciudad! En parte porque apenas\nhay insectos de esos que pican por la noche.
+MID_LGV_1LED_c04_Oly_m01_002: Ay, ya casi ni recuerdo cuándo fue la última vez\nque visité Dagsion...
+MID_LGA_1LED_c04_Oly_m01: <BLN>¿Cuándo fue la última vez?
+MID_LGV_1LED_c04_Buc_m02: <TH>
+MID_LGV_1LED_c04_Buc_m02_001: Cuando abandoné Dagsion, me hice una promesa\na mí mismo:
+MID_LGV_1LED_c04_Buc_m02_002: que protegería a lord Guillermo con mi vida,\nsi fuera preciso.
+MID_LGV_1LED_c04_Buc_m02_003: Y sin embargo aquí sigo, de una pieza,\naños después de que a él lo asesinaran.
+MID_LGV_1LED_c04_Buc_m02_004: No, no os compadezcáis de mí, mi señora.\nA partir de ahora, me entregaré en cuerpo\ny alma a mi único deber: protegeros.
+MID_LGV_1LED_c04_Buc_m02_005: Y esta vez cumpliré mi cometido, cueste lo que\ncueste. Haré que esta prórroga que se me ha\nconcedido valga la pena.
+MID_LGA_1LED_c04_Buc_m02: <BLN>Cumpliré mi cometido.
+MID_LGV_1LED_c04_Sci_m03: <TH>
+MID_LGV_1LED_c04_Sci_m03_001: ¿Es la primera vez que visitas Dagsion, Leda?
+MID_LGV_1LED_c04_Sci_m03_002: Me encantaría hacer las veces de guía para ti,\nsi lo deseas.
+MID_LGV_1LED_c04_Sci_m03_003: <NCA>Decirle que te lo pensarás
+MID_LGV_1LED_c04_Sci_m03_004: <NCB>Decirle que te deje en paz
+MID_LGV_1LED_c04_Sci_m03_005: <ACA>¡Perfecto! Te mostraré el teatro, la taberna,\nel puerto...
+MID_LGV_1LED_c04_Sci_m03_006: <ACA>o el jardín secreto donde se refugian los amantes\npara susurrarse las más dulces palabras.
+MID_LGV_1LED_c04_Sci_m03_007: <ACA>¿Por qué me miras así?
+MID_LGV_1LED_c04_Sci_m03_008: <ACB>¿No te hace falta nadie para conocer la ciudad?\nSiempre te muestras tan inaccesible...
+MID_LGV_1LED_c04_Sci_m03_009: <ACB>No soy de piedra, Leda. A mí también me afecta\nque se me rechace constantemente...
+MID_LGV_1LED_c04_Sci_m03_010: En fin, si quieres ir a la {SetColor=Gold}taberna{SetColor=Default}, solo tienes\nque seguir esas escaleras a los {SetColor=Gold}barrios bajos{SetColor=Default}.
+MID_LGV_1LED_c04_Sci_m03_011: Es un ambiente muy diferente a este...\npero imagino que a ti te resultará familiar.
+MID_LGA_1LED_c04_Sci_m03: <BLN>Me encantaría hacerte de guía.
+MID_LGV_1LED_c04_Moo_m02: <TH>
+MID_LGV_1LED_c04_Moo_m02_001: ¡La ceremonia de inauguración ha sido alucinante!\nHabía decenas de miles de espectadores...
+MID_LGV_1LED_c04_Moo_m02_002: ¡Miraras donde miraras, veías gente, gente\ny más gente!
+MID_LGV_1LED_c04_Moo_m02_003: Sé que la capital es gigantesca, pero, de verdad...\n¿cómo caben tantas personas?
+MID_LGA_1LED_c04_Moo_m02: <BLN>¡Ha sido alucinante!
+MID_LGV_1LED_c04_Oly_m02: <TH>
+MID_LGV_1LED_c04_Oly_m02_001: Como cabe esperar de toda gran metrópolis,\nDagsion es un dechado de sofisticación.
+MID_LGV_1LED_c04_Oly_m02_002: Tendré que pasarme por el mercado en algún\nmomento para ponerme al día de las últimas\ntendencias.
+MID_LGV_1LED_c04_Oly_m02_003: ¡Tomaré cumplida nota de cuanto aprenda\npara después informar a Kalla!
+MID_LGA_1LED_c04_Oly_m02: <BLN>Tendré que pasar por el mercado.
+MID_LGV_1LED_c04_Buc_m03: <TH>
+MID_LGV_1LED_c04_Buc_m03_001: Preferiría solucionar nuestros asuntos pendientes\ncon Lechner antes de que comiencen los Juegos.
+MID_LGV_1LED_c04_Buc_m03_002: Comparto vuestra opinión sobre él: no podría\nparecerme más despreciable.
+MID_LGV_1LED_c04_Buc_m03_003: De no haber sido por su intervención,\nquizá lord Guillermo seguiría vivo hoy.
+MID_LGA_1LED_c04_Buc_m03: <BLN>Un tipo despreciable...
+MID_LGV_1LED_c04_Sci_m04: <TH>
+MID_LGV_1LED_c04_Sci_m04_001: Disponemos de tiempo libre hasta que empiecen\nlos Juegos. Sugiero aprovecharlo.
+MID_LGV_1LED_c04_Sci_m04_002: Conozco a más de un individuo en esta ciudad\nque, por desgracia para ellos y para fortuna nuestra,\nprecisa ayuda.
+MID_LGV_1LED_c04_Sci_m04_003: Puede que resolver sus problemas\nnos reporte algún tipo de beneficio.
+MID_LGV_1LED_c04_Moo_m03: <TH>
+MID_LGV_1LED_c04_Moo_m03_001: Oye, Leda... ¿y si nos colamos en el coliseo?
+MID_LGV_1LED_c04_Moo_m03_002: ¡Igual así podríamos hablar con los gladiadores\nque van a participar en los Juegos Heroicos!
+MID_LGV_1LED_c04_Moo_m03_003: Aunque, bien pensado... ahora somos criminales\nen busca y captura.
+MID_LGV_1LED_c04_Moo_m03_004: Quizá no nos convenga presentarnos en lugares\nplagados de representantes del Templo y de soldados.
+MID_LGA_1LED_c04_Moo_m03: <BLN>Se me ocurre una idea...
+MID_LGV_1LED_c04_Oly_m03: <TH>
+MID_LGV_1LED_c04_Oly_m03_001: Me duele tanto como a ti que el canalla de Lechner\nno haya pagado aún por sus crímenes.
+MID_LGV_1LED_c04_Oly_m03_002: Lo que te hizo fue imperdonable. ¡Llevas años\ny años sufriendo por su culpa!
+MID_LGV_1LED_c04_Oly_m03_003: Cuando recuerdo lo pura e inocente que eras\nel día que te presentaste en el templo, se me antoja\ntodavía más cruel, si cabe.
+MID_LGA_1LED_c04_Oly_m03: <BLN>¡Menudo canalla!
+MID_LGV_1LED_c04_Car_m03: <TH>
+MID_LGV_1LED_c04_Car_m03_001: Leilidahna, ¿te encuentras bien? Me han dicho\nque no has tenido problemas, cosa que me alivia\nenormemente.
+MID_LGV_1LED_c04_Car_m03_002: Seguro que no hace falta recordártelo,\npero en los Juegos Heroicos se darán cita\nlos guerreros más poderosos del continente.
+MID_LGV_1LED_c04_Car_m03_003: Así que habrás de seguir puliendo tus habilidades\nsi aspiras a alcanzar tu meta.
+MID_LGV_1LED_c04_Car_m03_004: Ni tú ni tus compañeros debéis escatimar\nesfuerzos en pos del objetivo.
+MID_LGA_1LED_c04_Car_m03: <BLN>No escatiméis esfuerzos.
+MID_LGV_1LED_c04_B02_m01: <TH>
+MID_LGV_1LED_c04_B02_m01_001: El divino soberano está a punto de declarar\ninaugurados los Juegos Heroicos.
+MID_LGV_1LED_c04_B02_m01_002: Si os dirigís al coliseo, solo tenéis que bajar\npor las escaleras y seguir el camino.
+MID_LGA_1LED_c04_B02_m01: <BLN>Ya falta poco...
+MID_LGV_1LED_c04_B03_B04_m01: <TH>
+MID_LGV_1LED_c04_B03_B04_m01_001: Dicen que el divino soberano concederá cualquier\ndeseo al ganador de los Juegos. ¿Es eso posible?
+MID_LGV_1LED_c04_B03_B04_m01_002: Si lo llego a saber antes, me apunto de cabeza.
+MID_LGV_1LED_c04_B03_B04_m01_003: Ya, claro. Lo dices como si supieras distinguir\nuna espada de una escoba... Te habrían eliminado\na las primeras de cambio.
+MID_LGV_1LED_c04_B03_B04_m01_004: ¿O te has olvidado de que en los Juegos\nparticipan los mejores luchadores de Dagda?
+MID_LGA_1LED_c04_B03_m01: <BLN>Debería haberme apuntado...
+MID_LGA_1LED_c04_B04_m01: <BLN>Ya, claro.

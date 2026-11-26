@@ -1,0 +1,86 @@
+﻿MID_ScoutInfo_NegotiationConditions_Yes_Easy: Se presta a negociar (fácil)
+MID_ScoutInfo_NegotiationConditions_Yes_Normal: Se presta a negociar (normal)
+MID_ScoutInfo_NegotiationConditions_Yes_Hard: Se presta a negociar (difícil)
+MID_ScoutInfo_NegotiationConditions_Yes_VeryHard: Se presta a negociar (muy difícil)
+MID_ScoutInfo_NegotiationConditions_Win: Se presta a echarlo a suertes
+MID_ScoutInfo_NegotiationConditions_Price: Solicita una compensación
+MID_ScoutInfo_NegotiationConditions_Question: Tiene preguntas
+MID_ScoutInfo_NegotiationConditions_Item: Solicita un obsequio apropiado
+MID_ScoutInfo_NegotiationConditions_Talk: Quiere contar una historia
+MID_ScoutInfo_NegotiationConditions_Clear: Superar (?)
+MID_ScoutInfo_NegotiationConditions_SideStoryClear: Superar anexo ({Variable=0})
+MID_ScoutInfo_NegotiationConditions_ClearAndAction: Superar (?) y (?)
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndAction: Superar anexo ({Variable=0}) y (?)
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndDefeat: Superar anexo ({Variable=0}) y esperar a que pierda.
+MID_ScoutInfo_Characteristic_Aur: Hija de la diosa Yu Phas que lucha contra las huestes\ndel inframundo con un misterioso poder.
+MID_ScoutInfo_Characteristic_Pet0: Buen arquero que puede valerse de las técnicas\nde combate para atacar a distancia a los enemigos.
+MID_ScoutInfo_Characteristic_Hur: Joven muchacha de gran corazón, capaz de plantar\ncara al enemigo y sanar a sus aliados.
+MID_ScoutInfo_Characteristic_Jes: Disfruta confundiendo a sus rivales con su uso\nde la técnica de combate Trocar y su velocidad.
+MID_ScoutInfo_Characteristic_Gol: Guerrero con un gran poderío ofensivo y defensivo.\nSu colosal físico le permite llevar armadura pesada.
+MID_ScoutInfo_Characteristic_Dan: Literata y hechicera avezada capaz de potenciar\nlas habilidades de sus aliados con su retórica.
+MID_ScoutInfo_Characteristic_Esm: Joven lancera capaz de plantar cara a todo el mundo\ny portar cualquier armadura, por pesada que sea.
+MID_ScoutInfo_Characteristic_Sim: Guerrero curtido en mil batallas. Hace falta más\nque un golpe mortal para tumbarlo.
+MID_ScoutInfo_Characteristic_Lou: Diestra espadachina que atosiga a sus adversarios\ncon una lluvia de estocadas. Ninguno se le escapa.
+MID_ScoutInfo_Characteristic_Fia: Sacerdotisa con un aura tenebrosa que domina\nla magia y puede sanar a varios aliados a la vez.
+MID_ScoutInfo_Characteristic_Lor0: Muchacha ágil y combativa que, cuando tiene\nun buen día, esquiva cualquier ataque rival.
+MID_ScoutInfo_Characteristic_Set: Viajero sabio con un gran dominio de la lanza, capaz\nde contratacar ante cualquier agresión enemiga.
+MID_ScoutInfo_Characteristic_Nin: Vulcana siniestra que se comunica con los espíritus\ny repele los ataques mágicos.
+MID_ScoutInfo_Characteristic_Lil: Arquera con muy buena puntería que ataca\na distancia para impedir los contrataques rivales.
+MID_ScoutInfo_Characteristic_Lys: Caballero formidable que sabe aprovechar\nsu velocidad para asestar el primer golpe.
+MID_ScoutInfo_Characteristic_Sci: Trovador sibilino que domina la espada y la magia,\ny sabe manejar un amplio repertorio de armas.
+MID_ScoutInfo_Characteristic_Moo0: Joven luchadora que compensa su poca experiencia\nen combate con un enorme potencial de crecimiento.
+MID_ScoutInfo_Characteristic_Mic: Experta en el combate cuerpo a cuerpo. Lee bien\nlos movimientos del rival y castiga su punto débil.
+MID_ScoutInfo_Characteristic_Oly: Sacerdotisa y cantante que domina la magia blanca.\nNo deja que nada se interponga entre ella y el éxito.
+MID_ScoutInfo_Characteristic_Naz: Un joven espadachín con una fuerza extraordinaria.\nSi toma la iniciativa, sus ataques ganan potencia.
+MID_ScoutInfo_Characteristic_Dai: Guerrero con una formidable fuerza física\nque no se guarda nada en combate.
+MID_ScoutInfo_Characteristic_Hal: Artista circense con talento para el arco que\nse adapta muy bien a cualquier situación.
+MID_ScoutInfo_Characteristic_Guj: Mercenario proclive a exagerar sus hazañas\ny virtudes, aunque algunas son verídicas.
+MID_ScoutInfo_Characteristic_Yan: Monje peregrino con la misma pericia para combatir\nque para curar. Sus técnicas son del todo inusuales.
+MID_ScoutInfo_Characteristic_Iio: Joven mercenario que jamás se separa de su fiel\ncorcel y aprovecha su gran movilidad en combate.
+MID_ScoutInfo_Characteristic_Pep: Cazador experto y veloz con las armas que acecha\na las presas heridas para asestarles el golpe de gracia.
+MID_ScoutInfo_Characteristic_Noc: Luchadora que lanza puñetazos rápidos y potentes.\nSe concentra en combate para esquivar los ataques.
+MID_ScoutInfo_Characteristic_Sop: Sacerdotisa con un apetito voraz. Domina la magia\nde sanación hasta el punto de aumentar sus efectos.
+MID_ScoutInfo_Characteristic_Cat: Mercenaria de primer nivel que aprovecha su gran\nvelocidad para lanzar ataques certeros.
+MID_ScoutInfo_Characteristic_Ned: A lomos de su ornius, maniobra con tal agilidad\nque desata el nerviosismo en las filas rivales.
+MID_ScoutInfo_Characteristic_Zac: Guerrero taimado que se crio entre bandoleros\ny maneja el hacha con gran precisión.
+MID_ScoutInfo_Characteristic_Maj: Un salvaje conocido por su fuerza y violencia,\nque se ven multiplicadas cuando empuña un hacha.
+MID_ScoutInfo_Characteristic_Ven: Jinete veterano y apasionado de las cuadrigas.\nCuando va montado en una, ataca con más precisión.
+MID_ScoutInfo_Characteristic_Ini: Arquera experimentada cuyas flechas perforan\nhasta la coraza más resistente.
+MID_ScoutInfo_Characteristic_Jas: Mercenaria con grandes dotes defensivas que,\nademás, no suele fallar ni un contrataque.
+MID_ScoutInfo_Characteristic_Ale: Caballera pegaso de esbelta figura que parece danzar\npor el cielo. La compañía de sus aliados le da alas.
+MID_ScoutInfo_Characteristic_Cle: 
+MID_ScoutInfo_Characteristic_Mys: 
+MID_ScoutInfo_Characteristic_Cen: Guerrero veterano con un poderío defensivo que\nle permite soportar hasta los ataques más potentes.
+MID_ScoutInfo_Characteristic_Asw: Tiradora con una destreza y una puntería\ncasi propias de los dioses.
+MID_ScoutInfo_Characteristic_Nat: General que vale por mil hombres, con un gran poder\nofensivo y siempre dispuesto a llevar la iniciativa.
+MID_ScoutInfo_Characteristic_Hri: General con un extraordinario sentido táctico que\nprioriza la defensa para desesperar a su enemigo.
+MID_ScoutInfo_Characteristic_Gra: 
+MID_ScoutInfo_Characteristic_Kir: Pirata infame sin barco ni tripulación. Sus ataques\nson más efectivos contra los rivales indefensos.
+MID_ScoutInfo_Characteristic_Nuz: Guerrero tribal y asesino nato. Aprovecha los puntos\ndébiles de los enemigos y no tiene piedad de ellos.
+MID_ScoutInfo_Characteristic_Kra: Guerrero leal con buenas cualidades defensivas que\ndomina la magia curativa. Nada doblega su espíritu.
+MID_ScoutInfo_Characteristic_Ann: A lomos de un elefante, destroza las líneas\nenemigas en el campo de batalla.
+MID_ScoutInfo_Characteristic_Tia0: Estratega de primer nivel que siempre saca\nel máximo partido a sus aliados en combate.
+MID_ScoutInfo_Characteristic_Fab: Misionero enigmático que domina la magia oscura\ny destruye la moral del enemigo.
+MID_ScoutInfo_Characteristic_Bon: El Cerebro de Saramis, diestro con la espada\ny la magia. Mejora la precisión de los aliados.
+MID_ScoutInfo_Characteristic_Tob: El Corazón de León de Saramis, tan fuerte\ncomo aparenta. No hay rival que le haga sombra.
+MID_ScoutInfo_Characteristic_Buc: Guardián veterano, apodado el Oso Diabólico\nporque soporta impávido los ataques enemigos.
+MID_ScoutInfo_Characteristic_Gat: Espadachín entrenado en las tierras del este. Se abre\npaso hacia la victoria con un talento excepcional.
+MID_ScoutInfo_Characteristic_Urs: La sagaz directora de la Sociedad Mercantil Vandahl.\nPermite que las unidades accedan al convoy.
+MID_ScoutInfo_Characteristic_Die: Guerrero del bosque con un gran talento defensivo.\nNo deja que ataquen dos veces a sus protegidos.
+MID_ScoutInfo_Characteristic_Sar: Especialista en magia espiritual, capaz de poner\na salvo a aliados en peligro y de sanar sus heridas.
+MID_ScoutInfo_Characteristic_Kai0: Un chico vivaracho motivado por el amor a su\nfamilia. Posee una habilidad innata para el combate.
+MID_ScoutInfo_Characteristic_Dit: Un forastero con una sed insaciable de lucha. Cuando\nun oponente ve el brillo de su espada, está condenado.
+MID_ScoutInfo_Characteristic_Seo: La valerosa reina de Saramis. Jamás duda ante\nel peligro ni cede ante las adversidades.
+MID_ScoutInfo_Characteristic_Led: Bailarina e intérprete de gran talento musical.\nSus gráciles pasos le facilitan evitar contrataques.
+MID_ScoutInfo_Characteristic_Bel: Este orgulloso guerrero lucha por su libertad. Su gran\nexperiencia le permite apabullar a sus enemigos.
+MID_ScoutInfo_Characteristic_Tal: El comerciante con más éxito de Dagda. Le sonríe\nla fortuna y su ambición lo impulsa hacia la aventura.
+MID_ScoutInfo_Characteristic_Orh: Una misteriosa doncella de increíble fortaleza.\nA pesar de su fuerza, algunas clases le están vetadas.
+MID_ScoutInfo_Characteristic_Anh: Lucha por salvar a su pueblo. Hábil esquivando y en\nlas artes marciales basadas en los flujos de energía.
+MID_ScoutInfo_Characteristic_Kou: Hechicera instruida en la magia de Kunlun\nque ataca con gran velocidad y precisión.
+MID_ScoutInfo_Characteristic_Tro: Guerrera cuya avanzada edad da fe de su experiencia\nen combate. Destaca en el uso de guanteletes.
+MID_ScoutInfo_Characteristic_Kai1: Un joven vivaracho motivado por el amor a su\nfamilia. Posee una habilidad innata para el combate.
+MID_ScoutInfo_Characteristic_Tia1: Estratega de primer nivel que siempre saca\nel máximo partido a sus aliados en combate.
+MID_ScoutInfo_Characteristic_Pet1: Buen arquero que puede valerse de las técnicas\nde combate para atacar a distancia a los enemigos.
+MID_ScoutInfo_Characteristic_Moo1: Joven guerrera con una amplia experiencia\nen combate y un gran potencial de crecimiento.
+MID_ScoutInfo_Characteristic_Lor1: Muchacha ágil y combativa que, cuando tiene\nun buen día, esquiva cualquier ataque rival.
+MID_ScoutInfo_Characteristic_Tah: Guerrera experta en la técnica de la pitón.\nProtege decididamente a su señora y sus aliados.

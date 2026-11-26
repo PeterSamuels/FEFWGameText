@@ -1,0 +1,421 @@
+﻿MID_Shop_Weapon: 武器店
+MID_Shop_Tool: 道具店
+MID_Shop_Blacksmith: 打铁铺
+MID_Shop_Market: 礼物店
+MID_Shop_Drink: 调饮师
+MID_Shop_Legion: 军兵运输
+MID_Shop_Trader: 旅行商人
+MID_Shop_Talimun: 旺达尔商会
+MID_Shop_Anna: 安娜的秘密商店
+MID_Shop_Bill: 票证店
+MID_Shop_Bazaar: 市场
+MID_DiningMenu_Recipe_Meat01: 烤山羊肉
+MID_DiningMenu_Recipe_Meat01_Help: 将预先调味的山羊肉猛火烤制而成的\n肉类料理。鲜美的肉汁和香草的香气\n让人食欲大开。
+MID_DiningMenu_Recipe_Meat02: 岩盐火腿
+MID_DiningMenu_Recipe_Meat02_Help: 将抹了岩盐的沙猪肉\n长时间烟熏而成的食物。\n香气与强烈的咸味让人欲罢不能。
+MID_DiningMenu_Recipe_Meat03: 豆炖沙猪
+MID_DiningMenu_Recipe_Meat03_Help: 微苦的豆子和肥美的肉相得益彰。\n搭配汤一起享用吧。
+MID_DiningMenu_Recipe_Meat04: 卤甜辣鞑古扎七节虫
+MID_DiningMenu_Recipe_Meat04_Help: 炸煮过的七节虫口感酥脆，\n令人食欲大开。\n是萨拉弥斯王国的特色料理之一。
+MID_DiningMenu_Recipe_Fish01: 炭烤蒜香扇贝
+MID_DiningMenu_Recipe_Fish01_Help: 将酪脂放在扇贝上，\n经炭火慢慢烤制而成的奢华菜肴。\n海洋与陆地的风味完美结合。
+MID_DiningMenu_Recipe_Fish02: 鱼酱汤
+MID_DiningMenu_Recipe_Fish02_Help: 用满满一锅海鲜熬成的汤\n和绝搭的鱼酱调味而成的料理。\n好吃得让人停不下来。
+MID_DiningMenu_Recipe_Fish03: 炭烤鱼
+MID_DiningMenu_Recipe_Fish03_Help: 将清晨捕到的鲜鱼用炭火慢慢烤制，\n是鱼类料理中的经典。\n应把带有苦味的肠子也一起吃掉。
+MID_DiningMenu_Recipe_Fish04: 芝士烤小龙虾
+MID_DiningMenu_Recipe_Fish04_Help: 将大只的小龙虾和大量干酪\n一起烤制而成的海鲜料理。\n是一道色彩鲜艳的豪华菜肴。
+MID_DiningMenu_Recipe_Vegee01: 糖浆炖梨
+MID_DiningMenu_Recipe_Vegee01_Help: 用大量糖浆将甜梨\n炖至软烂的水果料理。\n可享受到极致的甜美风味。
+MID_DiningMenu_Recipe_Vegee02: 玛达津
+MID_DiningMenu_Recipe_Vegee02_Help: 将大量蔬菜揉进巴谷粉中，\n炸得香喷喷的甜面包。\n不论当作零食还是主食都很合适。
+MID_DiningMenu_Recipe_Vegee03: 特芙果酱
+MID_DiningMenu_Recipe_Vegee03_Help: 将特芙果熬煮至甘甜的果酱。\n满满地涂在各种食物上一起享用，\n可谓无上的幸福。
+MID_DiningMenu_Recipe_Vegee04: 南瓜汤
+MID_DiningMenu_Recipe_Vegee04_Help: 将掏空的南瓜作为容器，\n豪爽而味浓的蔬菜料理。\n甜味与辣味的绝妙组合让人上瘾。
+MID_ThermaeMenu_Spring01: 温热之泉
+MID_ThermaeMenu_Spring01_Help: 温度偏高，促进血液循环的温泉。\n可获得“力量效能”\n“必杀效能”等特技。
+MID_ThermaeMenu_Spring02: 爽快之泉
+MID_ThermaeMenu_Spring02_Help: 温度适中，令人神清气爽的温泉。\n可获得“速度效能”\n“回避效能”等特技。
+MID_ThermaeMenu_Spring03: 药治之泉
+MID_ThermaeMenu_Spring03_Help: 浸泡了对身体有益的药草袋的温泉。\n可获得“怒发冲天效能”\n“体格效能”等特技。
+MID_ThermaeMenu_Spring04: 芳花之泉
+MID_ThermaeMenu_Spring04_Help: 用芬芳的花朵增添香气的温泉。\n可获得“伤愈效能”\n“魔力效能”等特技。
+MID_ThermaeMenu_SpringA01: 红玉之泉
+MID_ThermaeMenu_SpringA01_Help: 混入了红玉粉末的活力温泉。\n可获得“力量效能”\n“战技效能”等特技。
+MID_ThermaeMenu_SpringA02: 黄金之泉
+MID_ThermaeMenu_SpringA02_Help: 使用了大量金粉，闪烁金光的温泉。\n可获得“回避效能”\n“超活性效能”等特技。
+MID_ThermaeMenu_SpringA03: 翡翠之泉
+MID_ThermaeMenu_SpringA03_Help: 经翡翠之桶净化，振奋精神的温泉。\n可获得“怒发冲天效能”\n“命中效能”等特技。
+MID_ThermaeMenu_SpringA04: 金刚之泉
+MID_ThermaeMenu_SpringA04_Help: 从极深的地层中汲取出的稀有温泉。\n可获得“必杀效能”\n“大胆无畏效能”等特技。
+MID_ThermaeMenu_SpringB01: 骏风之泉
+MID_ThermaeMenu_SpringB01_Help: 沐浴后神清气爽，加了果实的温泉。\n可获得“速度效能”\n“回避效能”等特技。
+MID_ThermaeMenu_SpringB02: 生命树之泉
+MID_ThermaeMenu_SpringB02_Help: 浸有昂贵古木的滋养温泉。\n可获得“超活性效能”\n“追击效能”等特技。
+MID_ThermaeMenu_SpringB03: 火吹山之泉
+MID_ThermaeMenu_SpringB03_Help: 浸有滚烫火山石，令人斗志昂扬的\n温泉。可获得“必杀效能”\n“大胆无畏效能”等特技。
+MID_ThermaeMenu_SpringB04: 圆月之泉
+MID_ThermaeMenu_SpringB04_Help: 于满月之夜祈祷过的圣水温泉。\n可获得“力量效能”\n“技巧效能”等特技。
+MID_ThermaeMenu_Special01: 特别温泉 巨人之泉
+MID_ThermaeMenu_Special01_Help: 亚特拉山山脚处巨大温泉的泉水。\n可获得“力量效能+”\n“必杀效能+”等特技。
+MID_ThermaeMenu_Special02: 特别温泉 独角兽之泉
+MID_ThermaeMenu_Special02_Help: 连幻之兽都会造访的欧加斯山秘泉。\n可获得“速度效能+”\n“回避效能+”等特技。
+MID_ThermaeMenu_Special03: 特别温泉 海王之泉
+MID_ThermaeMenu_Special03_Help: 里尔海鲜为人知的海底温泉泉水。\n可获得“生命力效能+”\n“防守效能+”等特技。
+MID_ThermaeMenu_Special04: 特别温泉 魔鸟之泉
+MID_ThermaeMenu_Special04_Help: 于乌拉诺司山高处涌出的神秘温泉。\n可获得“伤愈效能+”\n“魔力效能+”等特技。
+MID_VolunteerMenu_Pray: 打扫神殿
+MID_VolunteerMenu_Pray_Help: 欧若拉神殿的侍奉活动。\n静下心来仔细打扫神殿内部，\n即可获得欧若拉神的加护。
+MID_VolunteerMenu_Guard: 护卫神殿
+MID_VolunteerMenu_Guard_Help: 马兹神殿的侍奉活动。\n参加神殿的护卫任务，\n即可获得马兹神的加护。
+MID_VolunteerMenu_Caring: 照顾猫咪
+MID_VolunteerMenu_Caring_Help: 史米尔诺斯神殿与众不同的侍奉活动。\n照顾神殿内饲养的猫咪们，\n即可获得史米尔诺斯神的加护。
+MID_VolunteerMenu_Library: 整理书库
+MID_VolunteerMenu_Library_Help: 茱拉神殿的侍奉活动。\n整理神殿内保管的大量藏书，\n即可获得茱拉神的加护。
+MID_VolunteerMenu_Song: 献上神歌
+MID_VolunteerMenu_Song_Help: 卡拉神殿的侍奉活动。\n加入神殿的圣歌队并用心歌唱，\n即可获得卡拉神的加护。
+MID_VolunteerMenu_Statue: 制作神像
+MID_VolunteerMenu_Statue_Help: 柯雷尔神殿的侍奉活动。\n制作或修复放置于神殿内的雕像，\n即可获得柯雷尔神的加护。
+MID_TrainingMenu_Training01: 步兵训练
+MID_TrainingMenu_Training01_Help: 能学习步兵基础战斗方式的训练。\n可锻炼剑术、箭术和步兵术。
+MID_TrainingMenu_Training02: 斗兵训练
+MID_TrainingMenu_Training02_Help: 能学习斗技场剑斗士所持\n各种武器的使用方法的训练。\n可锻炼剑术、斧术和格斗术。
+MID_TrainingMenu_Training03: 重装兵训练
+MID_TrainingMenu_Training03_Help: 能学习士兵和重装知识的训练。\n除了枪术、斧术和重装术，\n还能锻炼指挥术。
+MID_TrainingMenu_Training04: 魔法兵训练
+MID_TrainingMenu_Training04_Help: 能提高攻击魔法、回复魔法等\n魔道士能力的训练。\n可锻炼黑魔术、白魔术和指挥术。
+MID_TrainingMenu_Training05: 骑兵飞行训练
+MID_TrainingMenu_Training05_Help: 能学习骑兵和天翼兵战斗方式的\n训练。除了枪术、马术和飞行术，\n还能锻炼指挥术。
+MID_TrainingMenu_TrainingP3_01: 上级步兵训练
+MID_TrainingMenu_TrainingP3_01_Help: 能学习步兵更高阶战斗技术的训练。\n可锻炼剑术、箭术和步兵术。
+MID_TrainingMenu_TrainingP3_02: 上级斗兵训练
+MID_TrainingMenu_TrainingP3_02_Help: 以老练剑斗士们的教诲为基础，\n学习更好地驾驭各种武器的训练。\n可锻炼剑术、斧术和格斗术。
+MID_TrainingMenu_TrainingP3_03: 上级重装兵训练
+MID_TrainingMenu_TrainingP3_03_Help: 学习更为纯熟的士兵和重装知识的\n训练。除了枪术、斧术和重装术，\n还能锻炼指挥术。
+MID_TrainingMenu_TrainingP3_04: 上级魔法兵训练
+MID_TrainingMenu_TrainingP3_04_Help: 面向以更高阶魔道士为目标之人的\n上级魔法战斗训练。\n可锻炼黑魔术、白魔术和指挥术。
+MID_TrainingMenu_TrainingP3_05: 上级骑兵飞行训练
+MID_TrainingMenu_TrainingP3_05_Help: 面向骑兵和天翼兵的严格训练。\n除了枪术、马术和飞行术，\n还能锻炼指挥术。
+MID_WatchMenu_WD11_05: 
+MID_WatchMenu_WD11_05_Help: 
+MID_WatchMenu_WD13_04: 预赛 忘却的开阳增一等
+MID_WatchMenu_WD13_04_Help: “忘却的开阳增一”等\n其他族盟对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD11_06: 预赛 雷云骑士团等
+MID_WatchMenu_WD11_06_Help: “雷云骑士团”等\n其他族盟对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD14_06: 预赛 帕鲁马之雨等
+MID_WatchMenu_WD14_06_Help: “帕鲁马之雨”等\n其他族盟对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD12_09: 
+MID_WatchMenu_WD12_09_Help: 
+MID_WatchMenu_WD12_10: 预赛 亚拉格双璧等
+MID_WatchMenu_WD12_10_Help: “亚拉格军”等\n其他族盟对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD11_09: 预赛 布拉甘萨同胞团等
+MID_WatchMenu_WD11_09_Help: “布拉甘萨同胞团”等\n其他族盟对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD15_11: 特别对决 白发鬼对死亡宣告者
+MID_WatchMenu_WD15_11_Help: “斗技场的白发鬼”与\n“死亡宣告者”进行\n特别对决的日子。可于斗技场观战。
+MID_WatchMenu_WD11_10: 正赛 凯伊对蕾达
+MID_WatchMenu_WD11_10_Help: “利贝拉之风”与\n“蔷薇风暴”对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD13_11: 正赛 赛奥朵拉对谭利穆恩
+MID_WatchMenu_WD13_11_Help: “美盖拉的灯火”与\n“月之谎言”对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD15_13: 正赛 贝特兰对欧露赫露
+MID_WatchMenu_WD15_13_Help: “炎之鬃”与\n“姬金鱼草的朝露”对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD12_15: 正赛 迪托利希对爱娜特莉亚
+MID_WatchMenu_WD12_15_Help: “拉弥努家族”与\n“白鸦新娘团”对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD13_12: 半决赛 凯伊对赛奥朵拉
+MID_WatchMenu_WD13_12_Help: “利贝拉之风”与\n“美盖拉的灯火”对决的日子。\n可于斗技场观战。
+MID_WatchMenu_WD12_16: 半决赛 迪托利希对贝特兰
+MID_WatchMenu_WD12_16_Help: “拉弥努家族”与\n“炎之鬃”对决的日子。\n可于斗技场观战。
+MID_WatchMenu_BD15_08: 
+MID_WatchMenu_BD15_08_Help: 
+MID_WatchMenu_WD15_09: 御前比试 白发鬼对岩进
+MID_WatchMenu_WD15_09_Help: “斗技场的白发鬼”与\n“岩进”进行御前比试的日子。\n可于水晶宫观战。
+MID_Lesson_Title_Explanation1: 战斗的基础讲座
+MID_Lesson_Detail_Explanation1: 为了欧若拉大人的安全和鞑古席翁的和平，\n我至今与无数对手交战过。\n因此，我想和神子殿下聊一聊\n关于战斗中所具备的基本心态。
+MID_Lesson_Title_Explanation2: 活用地形优势的方法
+MID_Lesson_Detail_Explanation2: 迄今为止，我已经教了你很多……\n但也有一些是没机会好好教的。\n现在我在牢里，只能口头说明，\n但这能在战斗中派上用场，听了没坏处。
+MID_Lesson_Title_Explanation3: 避免受伤的方法
+MID_Lesson_Detail_Explanation3: 毕竟凯伊和卡司托尔很像，\n莫非你在战斗中也总是乱来？\n在你受到无法挽回的重伤之前，\n让我来教你避免受伤的战斗方法吧。
+MID_Lesson_Title_Practice1: 与各种敌人战斗的方法
+MID_Lesson_Detail_Practice1: 世界很宽广……你今后应该会和各种各样的兵种，\n和战斗方法各不相同的敌人对抗。\n但无论是什么样的敌人，都有能将其打败的方法。\n我让我的同伴当你的对手。你就在实战中领会吧。
+MID_Lesson_Title_Practice2: 与巨大敌人战斗的方法
+MID_Lesson_Detail_Practice2: 在战斗中，有时也不得不面对\n战象或巨人这类巨大的敌人。\n为了能在这种情况下不慌不忙、有效应对，\n就让我们以实战的形式进行训练吧。
+MID_Lesson_Title_Subjugation1: 来自父亲的秘密委托
+MID_Lesson_Detail_Subjugation1: 你对新兵种有兴趣吗？\n如果你能完成我的委托，我就私下\n帮你说点好话，让你能参加新兵种的资格考试。\n这也是指导的一环，拜托啦！
+MID_Lesson_Title_Subjugation2: 来自母亲的特别委托
+MID_Lesson_Detail_Subjugation2: 因为我觉得这会对凯伊的战斗有所帮助，\n所以特别拜托了神殿，\n以便你能参加新兵种的考试。\n如果你想挑战，就接下我的委托吧。
+MID_Lesson_Title_Subjugation3: 来自白发鬼的委托
+MID_Lesson_Detail_Subjugation3: 在我看来，你的战斗技术很适合用于实战，\n这可能是归功于教了你这些的人。\n所以，在外战斗应该能成为更好的训练。\n试着顺利解决我接下来要拜托你的事吧。
+MID_Access_Common: 调查
+MID_Access_ExitPos: 离开
+MID_Access_AreaChange: 前往深处
+MID_Access_DngBanquet: 休息
+MID_Access_Question: ？？？
+MID_Access_Spire: 因果祭坛
+MID_Access_Goto_KAI_steeple: 狐之方尖塔
+MID_Access_Goto_DIT_steeple: 狮之方尖塔
+MID_Access_Goto_SEO_steeple: 狼之方尖塔
+MID_Access_Goto_LED_steeple: 鹫之方尖塔
+MID_Access_Goto_BEL_steeple: 
+MID_Access_Goto_TAL_steeple: 
+MID_Access_Goto_ORH_steeple: 
+MID_Access_Goto_ANH_steeple: 
+MID_Access_Goto_2_steeple: 战栗方尖塔
+MID_Access_Goto_3_steeple: 通往未来的门
+MID_Access_GodlyPortal: 神道之门
+MID_Access_ExPortal: 转移装置
+MID_Access_QuestBoard: 告示板
+MID_Access_Bird: 白鸦的栖木
+MID_Access_Goto_Temple_Aurora: 前往欧若拉神殿
+MID_Access_Goto_Temple_Jura: 前往茱拉神殿
+MID_Access_Goto_Temple_Mars: 前往马兹神殿
+MID_Access_Goto_Temple_Smyrnos: 前往史米尔诺斯神殿
+MID_Access_Goto_Temple_Claire: 前往柯雷尔神殿
+MID_Access_Goto_Temple_Soleil: 前往索雷尔神殿
+MID_Access_Goto_AutomatonCorridor: 
+MID_Access_Goto_Temple_Carla: 前往卡拉神殿
+MID_Access_Goto_Temple_YuPhas: 前往幽·法丝神殿
+MID_Access_Goto_Sewar: 前往下水道
+MID_Access_Goto_Shop_Bar: 前往酒馆
+MID_Access_Goto_Guest_Salamis: 前往萨拉弥斯迎宾馆
+MID_Access_Goto_ArenaUnderground: 前往大斗技场 地下区域
+MID_Access_Goto_Temple_YuPhasGarden: 前往庭园
+MID_Access_Goto_Garden_Aurora: 前往欧若拉的室内庭园
+MID_Access_Goto_Boudoir: 前往欧若拉的房间
+MID_Access_Goto_BackRoad: 前往小路
+MID_Access_Goto_UrbanArea: 前往市区
+MID_Access_Goto_UpperLayer: 前往鞑古席翁 上层
+MID_Access_Goto_MiddleLayer: 前往鞑古席翁 中层
+MID_Access_Goto_UnderLayer: 前往鞑古席翁 下层
+MID_Access_Goto_Gmap: 离开鞑古席翁
+MID_Access_Goto_Throne: 前往赛尔西沃的房间
+MID_Access_Goto_Dng_022_A2: 少女之厅
+MID_Access_Goto_Dng_022_A3: 预言者之厅
+MID_Access_Goto_Dng_022_A4: 追随者之厅
+MID_Access_Goto_Dng_022_A5: 歪形之厅
+MID_Access_Goto_Dng_022_A6: 天狼之厅
+MID_Access_Out_Outland: 离开村庄
+MID_Access_Out_Town: 离开城镇
+MID_Access_Out_Village: 离开乡里
+MID_Access_Out_Temple: 离开神殿
+MID_Access_Out_Sewar: 离开下水道
+MID_Access_Out_Shop_Bar: 离开酒馆
+MID_Access_Out_Guest: 离开迎宾馆
+MID_Access_Goto_TopLayer: 前往鞑古席翁 最上层
+MID_Access_Goto_Prison_Lindo: 前往特殊牢房
+MID_Map_Area_Arena: 大斗技场前 广场
+MID_Map_Area_Shop: 露天市场
+MID_Map_Area_Hotel: 市区
+MID_Map_Area_Temple_Lower: 下参道
+MID_Map_Area_Temple_Upper: 上参道
+MID_Map_Area_Port: 港口
+MID_Map_Area_Stable: 厩舍前 通道
+MID_Map_Area_Slums: 贫民窟
+MID_Map_Area_Affluent: 富裕区
+MID_Map_Area__Commercial: 游乐区
+MID_Map_Area_Guest_Salamis: 萨拉弥斯王国迎宾馆
+MID_Map_Area_Temple_Dagda: 鞑古扎神殿前
+MID_Map_Area_Arena_Underground: 大斗技场 地下区域
+MID_Map_Area_Sewar: 下水道
+MID_Map_Area_Bar: 酒馆
+MID_Map_Area_Room_Aurora: 欧若拉的房间
+MID_Map_Area_Garden_Aurora: 欧若拉的室内庭园
+MID_Map_Area_Temple_Jura: 茱拉神殿 分殿
+MID_Map_Area_Temple_Mars: 马兹神殿 分殿
+MID_Map_Area_Temple_Smyrnos: 史米尔诺斯神殿 分殿
+MID_Map_Area_Temple_YuPhas: 幽·法丝神殿 分殿
+MID_Map_Area_Temple_Carla: 卡拉神殿 分殿
+MID_Map_Area_Temple_Claire: 柯雷尔神殿 分殿
+MID_Map_Area_Temple_Aurora: 欧若拉神殿 分殿
+MID_Map_Facility_Shop_Bill: 票证商人
+MID_Map_Facility_Shop_Bill_Help: 可购买参加资格考试时所需的\n考试票证。
+MID_Map_Facility_Shop_Market: 礼物店 市区
+MID_Map_Facility_Shop_Market_Help: 贩卖各地特产和美术品等\n各种精致礼物的商店。
+MID_Map_Facility_Shop_Bar: 礼物店 酒馆
+MID_Map_Facility_Shop_Bar_Help: 于酒馆的一角向酒客出售礼物的商店。\n价格实惠的商品很多。
+MID_Map_Facility_Shop_Weapon: 武器店
+MID_Map_Facility_Shop_Weapon_Help: 武器种类齐全的专卖店，\n以贩卖流通广泛的商品为主。
+MID_Map_Facility_Shop_Tool: 道具店
+MID_Map_Facility_Shop_Tool_Help: 道具种类齐全的专卖店，\n贩卖能在危险冒险中派上用场的商品。
+MID_Map_Facility_Shop_Anna: 安娜的秘密商店
+MID_Map_Facility_Shop_Anna_Help: 安娜秘密经营的商店，\n贩卖各种此店特有的稀有商品。
+MID_Map_Facility_Subquest_Hotel: 告示板 市区
+MID_Map_Facility_Subquest_Temple: 告示板 参道
+MID_Map_Facility_Subquest_Affluent: 告示板 富裕区
+MID_Map_Facility_Subquest_Port: 告示板 港口
+MID_Map_Facility_Subquest_Help: 汇集各种商店和设施情报的布告栏。\n开张的设施会发出来店邀请，\n达成后可提高名声，并得到不错的物品。
+MID_Map_Facility_LegionShop: 军兵运输长
+MID_Map_Facility_LegionShop_Help: 可办理将军团兵送回萨拉弥斯王国的手续。\n送回军团兵能加强萨拉弥斯的防守，\n还能获得对战斗有所帮助的道具。
+MID_Map_Facility_Blacksmith: 打铁铺
+MID_Map_Facility_Blacksmith_Help: 可修复破损的武器\n或锻造更强力的武器。
+MID_Map_Facility_Theater: 剧场
+MID_Map_Facility_Theater_Help: 可观赏人气戏曲的设施。\n邀请渴望关系变亲密之人，即可与其\n增进感情。变得有名后，还能出演戏曲。
+MID_Map_Facility_Hotel: 旅舍 市区
+MID_Map_Facility_Hotel_Help: 造访鞑古席翁的旅行者们休憩的地方。\n不但能休息，还能通过用餐与人增进感情。\n可合理利用零碎时间。
+MID_Map_Facility_Hotel_2_Help: 在行军据点养精蓄锐的士兵们的宿舍。\n虽无法住宿或用餐，\n但可观看支援对话。
+MID_Map_Facility_Hotel_Slums: 旅舍 贫民窟
+MID_Map_Facility_Hotel_Slums_Help: 为造访鞑古席翁的贫穷旅行者们\n准备的廉价旅舍。无法用餐，\n但可住宿，或合理利用零碎时间。
+MID_Map_Facility_Thermae: 公共浴场
+MID_Map_Facility_Thermae_Help: 鞑古扎之地首屈一指的公共浴场设施。\n邀请渴望关系变亲密之人一起泡澡，不但能与其\n增进感情，还能获得各种有益身心的效能。
+MID_Map_Facility_Temple_Aurora: 欧若拉神殿 分殿
+MID_Map_Facility_Temple_Claire: 柯雷尔神殿 分殿
+MID_Map_Facility_Temple_Carla: 卡拉神殿 分殿
+MID_Map_Facility_Temple_Smyrnos: 史米尔诺斯神殿 分殿
+MID_Map_Facility_Temple_Mars: 马兹神殿 分殿
+MID_Map_Facility_Temple_Jura: 茱拉神殿 分殿
+MID_Map_Facility_Temple_Help: 可谒见诸神和进行侍奉活动等的设施。\n一起进行侍奉活动的人感情会加深，\n还能获得诸神的加护。
+MID_Map_Facility_Temple_2_Help: 为虔诚的士兵们设立的简易神殿设施。\n可选择至今为止获得的诸神的加护。\n无法进行侍奉活动。（由行军管理官负责）
+MID_Map_Facility_ClassExaminer: 资格考试官
+MID_Map_Facility_ClassExaminer_Help: 可参加资格考试。\n参加考试需要与目标兵种阶级\n相对应的考试票证。
+MID_Map_Facility_StableBlock: 厩舍
+MID_Map_Facility_StableBlock_Help: 可将捕获到的动物保管至此的设施。\n能通过照顾来与其增进感情，\n还能为其取名。
+MID_Map_Facility_Perch_Hotel: 白鸦的栖木 市区
+MID_Map_Facility_Perch_Temple: 白鸦的栖木 参道
+MID_Map_Facility_Perch_Affluent: 白鸦的栖木 富裕区
+MID_Map_Facility_Perch_Port: 白鸦的栖木 港口
+MID_Map_Facility_Perch_Underground: 白鸦的栖木 地下区域
+MID_Map_Facility_Perch_Help: 不知是谁在何时搭的栖木。\n上面经常有一只不可思议的白色小鸟停留，\n可与其互动。
+MID_Map_Facility_Perch_2_Help: 不知是谁带来据点的栖木。\n行军中白色的小鸟不会出现，\n但可确认伟业录与先见的建言。
+MID_Map_Facility_Firm: 旺达尔商会
+MID_Map_Facility_Firm_Help: 可用所持材料进行物物交换的设施。\n将人与物相连即旺达尔商会的座右铭。\n不论是普通商品还是珍品都有卖。
+MID_Map_Facility_TempleWarp: 神道之门
+MID_Map_Facility_TempleWarp_Help: 连接神殿主殿与分殿的不可思议之门。\n可瞬间在两座神殿间移动。\n若想使用门，必须先得到各个神位的许可。
+MID_Map_Facility_Arena: 斗技场
+MID_Map_Facility_Arena_Help: 鞑古扎帝国引以为傲的大斗技场，\n剑斗士们日夜激战的战斗圣地。\n其一角会开放给人训练。
+MID_Map_Facility_Divination: 占卜店
+MID_Map_Facility_Divination_Help: 鞑古席翁人气颇高的占卜店，\n因使用不可思议的道具来预测运势而广受好评。\n是否相信占卜的结果取决于你自身。
+MID_Map_Facility_DitArranger: 掮客
+MID_Map_Facility_DitArranger_Help: 利用个人渠道，与潜藏在鞑古扎之地各地\n对实力充满信心的强者有所联系的神秘人物。\n可向其领取来自各地强者的挑战书。
+MID_Map_Facility_SeoProcurement: 战备增强负责人
+MID_Map_Facility_SeoProcurement_Help: 可办理将支援物资送至萨拉弥斯王国的手续。\n由女王赛奥朵拉亲自发放物资，\n不但能提高名声，还能获得资金。
+MID_Map_Facility_LedShowman: 酒馆老板
+MID_Map_Facility_LedShowman_Help: 看中蕾达的稀世才华，向她发出表演委托的人物。\n若委托的表演成功，\n即可掌握新的咒歌和新的土地情报。
+MID_Map_Facility_LedDrinkSeller: 调饮师
+MID_Map_Facility_LedDrinkSeller_Help: 继承了独门秘制饮料的人物。\n特殊调制的饮料可大幅提升能力。\n蕾达的名声越高，提供的饮料种类就越多。
+MID_Map_Facility_Revivalist: 酒馆老板
+MID_Map_Facility_Revivalist_Help: 看中蕾达的稀世才华，向她发出表演委托\n以给人们带去勇气与希望的人物。
+MID_Map_Facility_SortiePlan: 行军管理官
+MID_Map_Facility_SortiePlan_Help: 战争期间负责训练和出阵的人物。\n此外，还会负责安排神殿的侍奉活动。
+MID_Map_Facility_Temple_Main: 参拜者接待员
+MID_Map_Facility_Temple_Main_Help: 可进行对诸神的侍奉活动等。\n一起进行侍奉活动的人感情会加深，\n还能获得诸神的加护。
+MID_Map_Facility_Shop_Bazaar: 市场
+MID_Map_Facility_Shop_Bazaar_Help: 小型市场。旅行商人在此贩卖\n从各地采购来的商品。其中以礼物为主。
+MID_AreaTelop_UpperLayer: 鞑古席翁 上层
+MID_AreaTelop_MiddleLayer: 鞑古席翁 中层
+MID_AreaTelop_UnderLayer: 鞑古席翁 下层
+MID_AreaTelop_Guest_Salamis: 萨拉弥斯王国迎宾馆
+MID_AreaTelop_Guest_Arago: 亚拉格王国迎宾馆
+MID_AreaTelop_Arena_Underground: 大斗技场 地下区域
+MID_AreaTelop_Sewar: 下水道
+MID_AreaTelop_Shop_Bar: 酒馆
+MID_AreaTelop_Temple_Jura: 茱拉神殿 分殿
+MID_AreaTelop_Temple_Mars: 马兹神殿 分殿
+MID_AreaTelop_Temple_Smyrnos: 史米尔诺斯神殿 分殿
+MID_AreaTelop_Temple_YuPhas: 幽·法丝神殿 分殿
+MID_AreaTelop_Temple_Carla: 卡拉神殿 分殿
+MID_AreaTelop_Temple_Claire: 柯雷尔神殿 分殿
+MID_AreaTelop_Temple_Aurora: 欧若拉神殿 分殿
+MID_AreaTelop_Obelisk: 方尖塔大厅
+MID_AreaTelop_TopLayer: 鞑古席翁 最上层
+MID_AreaTelop_Cydonia: 希多尼亚总督府
+MID_AreaTelop_Prison: 特殊牢房
+MID_AreaTelop_Garden: 室内庭园
+MID_FT_CharacterHelp_Kai: 充满活力、关心家人的直爽少年。
+MID_FT_CharacterHelp_Kai1: 充满活力、关心家人的直爽青年。
+MID_FT_CharacterHelp_Dit: 为排解饥渴而寻求厮杀的异国剑客。
+MID_FT_CharacterHelp_Seo: 勇猛果敢且刚毅果断的萨拉弥斯的女王。
+MID_FT_CharacterHelp_Led: 演奏着魅惑旋律的美丽舞姬。
+MID_FT_CharacterHelp_Bel: 为自由而战的高洁战士。
+MID_FT_CharacterHelp_Tal: 胸怀非凡野心，鞑古扎之地首屈一指的大商人。
+MID_FT_CharacterHelp_Orh: 身怀诸多秘密的神秘少女。
+MID_FT_CharacterHelp_Anh: 为拯救故乡同胞而战的白衣少女。
+MID_FT_CharacterHelp_Tia: 拥有丰富知识的少女。
+MID_FT_CharacterHelp_Tia1: 拥有丰富知识的女性。
+MID_FT_CharacterHelp_Pet: 擅长用弓的少年。
+MID_FT_CharacterHelp_Pet1: 擅长用弓的青年。
+MID_FT_CharacterHelp_Hur: 侍奉于神殿的温柔女性。
+MID_FT_CharacterHelp_Fab: 来自异国的传教士。
+MID_FT_CharacterHelp_Esm: 出身渔村，以怪力为傲的女性。
+MID_FT_CharacterHelp_Mic: 名声大噪的前佣兵女性。
+MID_FT_CharacterHelp_Bon: 擅长智谋的萨拉弥斯王国将军。
+MID_FT_CharacterHelp_Tob: 豪爽奔放的萨拉弥斯王国将军。
+MID_FT_CharacterHelp_Lil: 萨拉弥斯王国的弓箭手。
+MID_FT_CharacterHelp_Lys: 萨拉弥斯王国的骑士。
+MID_FT_CharacterHelp_Buc: 身经百战的守护骑士。
+MID_FT_CharacterHelp_Sci: 喜欢女性的吟游诗人。
+MID_FT_CharacterHelp_Moo: 关心家人的率真少女。
+MID_FT_CharacterHelp_Moo1: 关心家人的率真女性。
+MID_FT_CharacterHelp_Oly: 拥有“凯路斯的蔷薇”称号的歌之巫女。
+MID_FT_CharacterHelp_Gat: 曾在东方修行过的武术高手。
+MID_FT_CharacterHelp_Jes: 化着战妆的小丑。
+MID_FT_CharacterHelp_Max: 曾是小丑的温柔青年。
+MID_FT_CharacterHelp_Gol: 拥有屠牛者别名的彪形大汉。
+MID_FT_CharacterHelp_Dan: 被誉为稀世剧作家的文豪。
+MID_FT_CharacterHelp_Urs: 旺达尔商会的理事。
+MID_FT_CharacterHelp_Sim: 历经死斗的佣兵。
+MID_FT_CharacterHelp_Lou: 旺达尔商会的年轻商会成员。
+MID_FT_CharacterHelp_Fia: 受旺达尔商会庇护的女性。
+MID_FT_CharacterHelp_Die: 欧露赫露忠实的随从。
+MID_FT_CharacterHelp_Lor: 侍奉欧露赫露的活泼少女。
+MID_FT_CharacterHelp_Lor1: 仰慕欧露赫露的活泼少女。
+MID_FT_CharacterHelp_Set: 游历鞑古扎之地的旅行者。
+MID_FT_CharacterHelp_Nin: 担任瓦尔坎的神秘少女。
+MID_FT_CharacterHelp_Sar: 性格稳重的女性。
+MID_FT_CharacterHelp_Naz: 脾气暴躁的少年剑客。
+MID_FT_CharacterHelp_Dai: 豪爽且擅长摆弄机械的青年。
+MID_FT_CharacterHelp_Hal: 擅长街头表演的江湖艺人。
+MID_FT_CharacterHelp_Kou: 拥有强大魔力的女性魔道士。
+MID_FT_CharacterHelp_Tro: 知识与经验丰富的年长女性。
+MID_FT_CharacterHelp_Guj: 爱吹牛且自由奔放的佣兵。
+MID_FT_CharacterHelp_Ned: 萨拉弥斯出身的佣兵。
+MID_FT_CharacterHelp_Noc: 争强好胜的女性剑斗士。
+MID_FT_CharacterHelp_Sop: 贪吃的神官。
+MID_FT_CharacterHelp_Yan: 嗜酒的流浪破戒僧。
+MID_FT_CharacterHelp_Cat: 自诩一流的佣兵。
+MID_FT_CharacterHelp_Maj: 以体力和暴力见长的暴徒。
+MID_FT_CharacterHelp_Kir: 残忍且臭名昭著的海贼团前首领。
+MID_FT_CharacterHelp_Iio: 和爱马一同驰骋战场的青年佣兵。
+MID_FT_CharacterHelp_Nuz: 森之民部族的战士。
+MID_FT_CharacterHelp_Pep: 来自异国的青年。
+MID_FT_CharacterHelp_Zac: 招式承袭山贼的男性。
+MID_FT_CharacterHelp_Ven: 性格傲慢的老兵。
+MID_FT_CharacterHelp_Jas: 担任佣兵团团长的女性。
+MID_FT_CharacterHelp_Ale: 与心爱的天马并肩作战，惹人怜爱的骑士。
+MID_FT_CharacterHelp_Ini: 乡下出身的卓越弓箭手。
+MID_FT_CharacterHelp_Nat: 亚拉格王国一以当千的将领。
+MID_FT_CharacterHelp_Hri: 亚拉格王国足智多谋的将领。
+MID_FT_CharacterHelp_Cen: 侍奉欧若拉的神殿骑士。
+MID_FT_CharacterHelp_Cle: 容貌美丽的阿加尔塔魔道士。
+MID_FT_CharacterHelp_Mys: 容貌低调的阿加尔塔魔道士。
+MID_FT_CharacterHelp_Ann: 索雷尔神殿的副祭。
+MID_FT_CharacterHelp_Asw: 继承了大王血脉的亚拉格王族。
+MID_FT_CharacterHelp_Gra: 继承了大英雄血脉的剑圣。
+MID_FT_CharacterHelp_Kra: 莫札教主国的将军。
+MID_FT_CharacterHelp_Cas: 凯伊的父亲。
+MID_FT_CharacterHelp_Lon: 年长的武术大师。
+MID_FT_CharacterHelp_Tah: 亚丝望的忠实侍从。
+MID_FT_CharacterHelp_Jun: 丰饶女神。
+MID_FT_CharacterHelp_Mar: 司掌武艺的军神。
+MID_FT_CharacterHelp_Smi: 司掌魔道的神明。
+MID_FT_CharacterHelp_Cla: 司掌锻造的神明。
+MID_FT_CharacterHelp_Car: 司掌狩猎与艺术的女神。
+MID_FT_CharacterHelp_Aur: 司掌星与航海的女神。
+MID_FT_CharacterHelp_Gab: 斗技场地下的管理人。
+MID_FT_CharacterHelp_Che: 
+MID_FT_CharacterHelp_Cir: 
+MID_FT_CharacterHelp_Nom: 
+MID_FT_CharacterHelp_Ile: 
+MID_FT_CharacterHelp_Mta: 
+MID_FT_CharacterHelp_Sol: 
+MID_FT_CharacterHelp_Shi: 
+MID_FT_CharacterHelp_Hyo: 
+MID_FT_CharacterHelp_Gan: 
+MID_FT_CharacterHelp_Gil: 
+MID_FT_CharacterHelp_Sua: 
+MID_FT_CharacterHelp_Har: 
+MID_FT_CharacterHelp_Ger: 
+MID_FT_CharacterHelp_Kar: 
+MID_FT_CharacterHelp_Bou: 
+MID_FT_CharacterHelp_Lin: 
+MID_FT_CharacterHelp_Miw: 
+MID_FT_CharacterHelp_Ver: 
+MID_FT_CharacterHelp_Kyo: 

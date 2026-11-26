@@ -1,0 +1,1047 @@
+﻿MID_Sys_EXFont_ButtonA: {ButtonA}
+MID_Sys_EXFont_ButtonB: {ButtonB}
+MID_Sys_EXFont_ButtonX: {ButtonX}
+MID_Sys_EXFont_ButtonY: {ButtonY}
+MID_Sys_EXFont_ButtonL: {ButtonL}
+MID_Sys_EXFont_ButtonR: {ButtonR}
+MID_Sys_EXFont_ButtonZL: {ButtonZL}
+MID_Sys_EXFont_ButtonZR: {ButtonZR}
+MID_Sys_EXFont_ButtonSL: {ButtonSL}
+MID_Sys_EXFont_ButtonSR: {ButtonSR}
+MID_Sys_EXFont_ButtonPlus: {ButtonPlus}
+MID_Sys_EXFont_ButtonMinus: {ButtonMinus}
+MID_Sys_EXFont_StickL: {StickL}
+MID_Sys_EXFont_StickL_Up: {StickL_Up}
+MID_Sys_EXFont_StickL_UD: {StickL_UD}
+MID_Sys_EXFont_StickL_LR: {StickL_LR}
+MID_Sys_EXFont_StickR: {StickR}
+MID_Sys_EXFont_StickR_Down: {StickR_Down}
+MID_Sys_EXFont_StickR_UD: {StickR_UD}
+MID_Sys_EXFont_StickR_LR: {StickR_LR}
+MID_Sys_EXFont_StickLPush: {StickLPush}
+MID_Sys_EXFont_StickRPush: {StickRPush}
+MID_Sys_EXFont_Up: {Up}
+MID_Sys_EXFont_Down: {Down}
+MID_Sys_EXFont_Left: {Left}
+MID_Sys_EXFont_Right: {Right}
+MID_Sys_EXFont_UD: {UD}
+MID_Sys_EXFont_LR: {LR}
+MID_Sys_EXFont_Mouse: {Mouse}
+MID_Sys_EXFont_Mouse_UD: {Mouse_UD}
+MID_Sys_EXFont_Mouse_LR: {Mouse_LR}
+MID_Sys_EXFont_MouseR: {MouseR}
+MID_Sys_EXFont_MouseR_Up: {MouseR_Up}
+MID_Sys_EXFont_MouseR_UD: {MouseR_UD}
+MID_Sys_EXFont_MouseR_LR: {MouseR_LR}
+MID_Sys_EXFont_MouseZR: {MouseZR}
+MID_Sys_Localize_CN_Third_M: 他
+MID_Sys_Localize_CN_Third_F: 她
+MID_Sys_Localize_TW_Third_M: 他
+MID_Sys_Localize_TW_Third_F: 她
+MID_Sys_Singular_Magic: 마법
+MID_Sys_Singular_Skill: 스킬
+MID_Sys_Singular_Arts: 전투 기술
+MID_Sys_Singular_Special: 블레이즈 아츠
+MID_Sys_Singular_BlazeSkill: 블레이즈 스킬
+MID_Sys_Plural_Class: 병과
+MID_Sys_Null: 
+MID_Sys_Plus: +
+MID_Sys_Minus: {Minus}
+MID_Sys_Multiply: {Multiply}
+MID_Sys_Percent: %
+MID_Sys_Solidus: /
+MID_Sys_Tilde: ~
+MID_Sys_Over: ~
+MID_Sys_RightArrow: →
+MID_Sys_Increase_Value: +{Variable=0}
+MID_Sys_Increase_Ratio: {Variable=0}%
+MID_Sys_Distance: {Variable=0}m
+MID_Sys_Ellipsis: …
+MID_Sys_Reliance_Rank_C: C
+MID_Sys_Reliance_Rank_B: B
+MID_Sys_Reliance_Rank_A: A
+MID_Sys_Reliance_Rank_S: S
+MID_Sys_ValueEmpty: --
+MID_Sys_ValueEmptyLong: ----
+MID_Sys_ValueUnknown: ?
+MID_Sys_Unknown: ???
+MID_Sys_unlimited: ∞
+MID_Sys_MAX: MAX
+MID_Sys_Total: 합계
+MID_Sys_Empty: 없음
+MID_Sys_NoEquipment: 장비 없음
+MID_Sys_Equipped: 장비
+MID_Sys_Deployed: 배치
+MID_Sys_WeaponEndure: 내구
+MID_Sys_MagicEndure: 잔여 마법
+MID_Sys_Remaining: 잔여
+MID_Sys_Turn: 턴
+MID_Sys_Saving: Saving...
+MID_Sys_FastForward: 빠른 재생
+MID_Sys_RequiredCondition: 해방 조건
+MID_Sys_EnemySilhouette: 투시
+MID_Sys_Gold: 골드
+MID_Sys_HonorLv: 명성 LV
+MID_Sys_HonorLV_Part3: 구세 LV
+MID_Sys_Rewind: 천각의 백사
+MID_Sys_Fragment: 인과의 파편
+MID_Sys_Award: 병비치
+MID_Sys_Motivation: 의욕
+MID_Sys_Item: 아이템
+MID_Sys_ItemEtc: 아이템 등
+MID_Sys_ReliancePt: 지원도
+MID_Sys_Contribution: 공헌도
+MID_Sys_ForcePower: 전력
+MID_Sys_Material: 소재
+MID_Sys_Exp: EXP
+MID_Sys_ClassEXP: 병과 EXP
+MID_Sys_SkillEXP: 기술 능력 EXP
+MID_Sys_HonorExp: 명성치
+MID_Sys_HonorExp_Part3: 구세치
+MID_Sys_Hp: HP
+MID_H_Sys_Hp: 생명력.\n0이 되면 전투 불능이 된다
+MID_Sys_Str: 힘
+MID_H_Sys_Str: 힘의 세기.\n높을수록 물리 공격의\n대미지가 커진다
+MID_Sys_Mag: 마력
+MID_H_Sys_Mag: 마력의 세기.\n높을수록 마법 공격의\n대미지가 커진다
+MID_Sys_Tec: 기술
+MID_H_Sys_Tec: 기량.\n높을수록 명중과 필살이 상승한다
+MID_Sys_Spd: 속도
+MID_H_Sys_Spd: 민첩함.\n높을수록 회피가 상승한다.\n또한 공격 속도에도 영향을 미친다
+MID_Sys_Lck: 행운
+MID_H_Sys_Lck: 운의 정도.\n다양한 영향을 미치며, 높을수록\n필살의 일격을 받지 않게 된다
+MID_Sys_Def: 수비
+MID_H_Sys_Def: 수비력.\n높을수록 적의 물리 공격의\n대미지가 줄어든다
+MID_Sys_Res: 마방
+MID_H_Sys_Res: 마법 방어력.\n높을수록 적의 마법 공격의\n대미지가 줄어든다
+MID_Sys_Cha: 매력
+MID_H_Sys_Cha: 본인이 가진 매력.\n높을수록 계략의 명중이 올라간다
+MID_Sys_Mov: 이동
+MID_H_Sys_Mov: 이동력.\n높을수록 많은 칸을 이동할 수 있다
+MID_H_Sys_HPStock: HP가 0이 되면\n1개를 소비해 HP를 전부 회복한다
+MID_Sys_Attack: 공격
+MID_H_Sys_Attack: 무기나 마법의 공격력
+MID_Sys_Physicalattack: 물공
+MID_H_Sys_Physicalattack: 물리 공격력.\n검 등의 무기를\n장비했을 때의 공격력
+MID_Sys_Magicattack: 마공
+MID_H_Sys_Magicattack: 마법 공격력.\n마법이나 마법 무기를\n사용할 때의 공격력
+MID_Sys_Otherattack: 특수
+MID_H_Sys_Otherattack: 특수한 공격의 공격력.\n적의 물방과 항마에\n영향을 받지 않는다
+MID_Sys_Power: 위력
+MID_Sys_Recovery: 회복
+MID_H_Sys_Recovery: 대상이 회복하는 HP의 양
+MID_Sys_HealPower: 치유
+MID_H_Sys_HealPower: 무구의 치유력
+MID_Sys_Hit: 명중
+MID_H_Sys_Hit: 공격을 명중시키는 능력.\n높을수록 공격이 명중하기 쉬워진다
+MID_Sys_Attackspeed: 공속
+MID_H_Sys_Attackspeed: 공격 속도.\n상대보다 4 이상 높으면 추격 가능
+MID_Sys_Avoid: 회피
+MID_H_Sys_Avoid: 공격을 회피하는 능력.\n높을수록 적의 공격을 피하기 쉬워진다
+MID_Sys_Secure: 필살 회피
+MID_H_Sys_Secure: 필살의 일격을 방지하는 능력.\n높을수록 적이 필살의 일격을\n발동하기 어려워진다
+MID_Sys_Critical: 필살
+MID_H_Sys_Critical: 필살의 일격을 발동하는 능력.\n높을수록 필살의 일격을\n발동하기 쉬워진다 (대미지 3배)
+MID_Sys_Protection: 물방
+MID_H_Sys_Protection: 높을수록 적의 검 등의\n물리 공격의 대미지가 줄어든다
+MID_Sys_Enduremagic: 항마
+MID_H_Sys_Enduremagic: 높을수록 적의\n마법 공격의 대미지가 줄어든다
+MID_Sys_Rng: 사정
+MID_H_Sys_Rng: 적을 공격할 수 있는 거리
+MID_Sys_Phy: 체격
+MID_H_Sys_Phy: 신체 조건의 우수함. 높을수록\n무거운 무기나 장비품을 장비해도\n공속이 떨어지지 않게 된다
+MID_Sys_Target: 대상
+MID_Sys_Self: 자신
+MID_Sys_Range: 범위
+MID_Sys_RangeOther: 특수
+MID_Sys_Status: 전투 능력
+MID_Sys_Capability: 기본 능력
+MID_Sys_StatusTotal: 종합 능력
+MID_H_Sys_StatusTotal: 유닛의 종합적인 강함의 척도
+MID_Sys_GrowthRate: 성장치
+MID_H_Sys_GrowthRate: {Variable=0}의 성장 가능성
+MID_Sys_Skill: 스킬
+MID_Sys_Arts: 전투 기술
+MID_Sys_FollowUp: 추격
+MID_Sys_ExpNext: 앞으로
+MID_Sys_Lv: LV
+MID_H_Sys_Lv: 쌓아 온 경험을 가늠하는 척도.\n높을수록 능력이 상승한다\n(다음 LV까지 앞으로 {Variable=0}EXP)
+MID_H_Sys_Lv_Max: 쌓아 온 경험을 가늠하는 척도\n(최고 레벨)
+MID_H_Sys_Lv_NotGrow: 쌓아 온 경험을 가늠하는 척도
+MID_Sys_SkillLv: 기술 능력 LV
+MID_Sys_RelianceLv: 지원 LV
+MID_Sys_RideLv: 우호 LV
+MID_Sys_MiracleLv: 가호 LV
+MID_Sys_NowLv: 현재  LV
+MID_Sys_Concentration: LP
+MID_Sys_ItemStatus_Weight: 무게
+MID_Sys_ItemStatus_Eff: 특효
+MID_Sys_ItemStatus_Valid: 유효
+MID_Sys_ItemStatus_Skill: 기술능력
+MID_Sys_Blaze: 블레이즈 타입
+MID_Sys_Blaze_Hell: 명부
+MID_Sys_Blaze_Hell_Help: 주보를 장비하고 전투하면\n블레이즈 게이지가 증가한다.\n버스트 시, 최대 HP가 감소한다
+MID_Sys_Blaze_Heaven: 천주
+MID_Sys_Blaze_Heaven_Help: 공격 시, 블레이즈 게이지가 증가한다.\n주보를 장비하고 전투하면\n블레이즈 게이지가 감소한다
+MID_Sys_Blaze_Machine: 기계
+MID_Sys_Blaze_Machine_Help: 주보를 장비하고 전투해도\n블레이즈 게이지가 변화하지 않는다
+MID_Sys_BlazeSkill: 블레이즈 스킬
+MID_Sys_BlazeOrigin: 원천
+MID_Sys_Blaze_UnlockPollution: 해방
+MID_Sys_Blaze_ChangePollution: 혼염치
+MID_Sys_Blaze_Curse: 원주력
+MID_Sys_Person: 개인
+MID_Sys_Ride: 기승
+MID_Sys_Class: 병과
+MID_Sys_Proper: 고유
+MID_Sys_SkillPerson: 개인 스킬
+MID_Sys_SkillRide: 기승 스킬
+MID_Sys_SkillClass: 병과 스킬
+MID_Sys_SkillEquipped: 장비 스킬
+MID_Sys_Acquire: {Variable=0}일 때 발현
+MID_Sys_Reinforce: {Variable=0}일 때 강화
+MID_Sys_Acquired: 습득 완료
+MID_Sys_UnopendRide_Help: 우호 LV 3일 때 발현된다
+MID_Sys_UnusableCommand_Help: 퀵 배틀에서는 효과가 없습니다
+MID_H_Sys_Skill_Sword: 검술.\n검을 다루기 위한 기술 능력
+MID_H_Sys_Skill_Lance: 창술.\n창을 다루기 위한 기술 능력
+MID_H_Sys_Skill_Axe: 도끼술.\n도끼를 다루기 위한 기술 능력
+MID_H_Sys_Skill_Bow: 궁술.\n활을 다루기 위한 기술 능력
+MID_H_Sys_Skill_Fist: 격투술.\n건틀릿을 다루기 위한 기술 능력
+MID_H_Sys_Skill_Black: 흑마술.\n흑마법과 암흑마법을 다루기 위한\n기술 능력
+MID_H_Sys_Skill_White: 백마술.\n백마법을 다루기 위한 기술 능력
+MID_Sys_Skill_Foot: 보병술
+MID_H_Sys_Skill_Foot: 보병술.\n보병 병과에 요구되는 기술 능력
+MID_Sys_Skill_Cavalry: 기마술
+MID_H_Sys_Skill_Cavalry: 기마술.\n기병 병과에 요구되는 기술 능력
+MID_Sys_Skill_Heavy: 중갑술
+MID_H_Sys_Skill_Heavy: 중갑술.\n중갑 병과에 요구되는 기술 능력
+MID_Sys_Skill_Fly: 비행술
+MID_H_Sys_Skill_Fly: 비행술.\n비행 병과에 요구되는 기술 능력
+MID_Sys_Skill_Tactics: 지휘술
+MID_H_Sys_Skill_Tactics: 지휘술.\n군단병을 지휘하기 위한 기술 능력
+MID_Sys_Effect_Foot: 보병
+MID_Sys_Effect_Fly: 비행
+MID_H_Sys_Effect_Fly: 비행 유효·비행 특효 효과를 받는다.\n지형의 영향을 받지 않는다
+MID_Sys_Effect_Cavalry: 기병
+MID_H_Sys_Effect_Cavalry: 기병 유효·기병 특효 효과를 받는다
+MID_Sys_Effect_Heavy: 중갑
+MID_H_Sys_Effect_Heavy: 중갑 유효·중갑 특효 효과를 받는다
+MID_Sys_Effect_Dragon: 용
+MID_H_Sys_Effect_Dragon: 용 유효·용 특효 효과를 받는다
+MID_Sys_Effect_Beast: 야수
+MID_H_Sys_Effect_Beast: 야수 유효·야수 특효 효과를 받는다
+MID_Sys_Effect_Hell: 명귀
+MID_H_Sys_Effect_Hell: 명귀 유효·명귀 특효 효과를 받는다
+MID_Sys_Legion_Physic: 물공
+MID_Sys_Legion_Magic: 마공
+MID_Sys_Legion_HealRatio: 회복
+MID_Sys_Legion_Formation: 봉쇄
+MID_Sys_Ride_Horse: 말
+MID_Sys_Ride_Ostrich: 비약 타조
+MID_Sys_Ride_Pegasus: 천마
+MID_Sys_Ride_Dragon: 비룡
+MID_Sys_Ride_Elephant: 코끼리
+MID_Sys_Food_Meet: 고기
+MID_Sys_Food_Fish: 물고기
+MID_Sys_Food_Vegee: 야채
+MID_Sys_Taste_Sweet: 단맛
+MID_Sys_Taste_Spicy: 매운맛
+MID_Sys_Taste_Bitter: 쓴맛
+MID_Sys_TasteCate: 진미
+MID_Sys_DateTime_YMD: {Variable=0}/{Variable=1}/{Variable=2}
+MID_Sys_DateTime_MD: {Variable=0}/{Variable=1}
+MID_Sys_DateTime_MD_Message: {Variable=0} {Variable=1}
+MID_Sys_DateTime_HM: {Variable=0}:{Variable=1}
+MID_Sys_DateTime_Mon: 월
+MID_Sys_DateTime_Tue: 화
+MID_Sys_DateTime_Wed: 수
+MID_Sys_DateTime_Thu: 목
+MID_Sys_DateTime_Fri: 금
+MID_Sys_DateTime_Sat: 토
+MID_Sys_DateTime_Sun: 일
+MID_Sys_DateTime_Timeframe_EarlyMorning: 이른 아침
+MID_Sys_DateTime_Timeframe_Morning: 아침
+MID_Sys_DateTime_Timeframe_Noon: 낮
+MID_Sys_DateTime_Timeframe_Evening: 저녁
+MID_Sys_DateTime_Timeframe_Night: 밤
+MID_Sys_DateTime_Timeframe_Midnight: 심야
+MID_Chapter_PartStoryChapter: {Variable=0}  {Variable=1}  {Variable=2}
+MID_Chapter_PartChapter: {Variable=0}  {Variable=1}
+MID_Chapter_PartStory: {Variable=0}  {Variable=1}
+MID_Sys_FreeAction_Start: 행동 개시
+MID_Sys_SearchAction_Start: 수색 개시
+MID_Sys_FreeAction_BattlePrepare_Start: 전투 준비 개시
+MID_Sys_HellGatePeriod_Start: 문 파괴 작전 개시
+MID_Sys_FinishPeriod_Start: 최종 기간 개시
+MID_Sys_FreeAction_Purpose: 목적
+MID_Sys_FreeAction_Limit: 기일
+MID_Sys_Area_Title_FacilityOpen: 시설 개방
+MID_Sys_Area_NewOpen: New Open
+MID_Sys_Area_Title_AreaOpen: 스폿 개방
+MID_Sys_Area_Msg_AreaOpen: {Variable=0}{ConsonantVowel=이|가} 월드 맵에 등록되었다
+MID_Sys_Reliance_Notification_LvUp_Units: {Variable=0}{ConsonantVowel=과|와} {Variable=1} 사이의 지원
+MID_Sys_Reliance_Notification_LvUp_Unlock: {Icon}새로운 지원 회화를 감상할 수 있게 되었다
+MID_Sys_Known_NewBond: New Bond
+MID_Sys_Known_Unlock_Scout: 「스카우트」를 할 수 있게 되었다
+MID_Sys_Known_Unlock_InviteDining: 식사에 초대할 수 있게 되었다
+MID_Sys_Known_Unlock_InviteFacility: 식사 및 연극 관람에 초대할 수 있게 되었다
+MID_Sys_InfoTelop_ReliancePt_Up: 지원도 상승
+MID_Sys_InfoTelop_ReliancePt_Up_Big: 지원도 대폭 상승
+MID_Sys_InfoTelop_ReliancePt_Down: 지원도 하락
+MID_Sys_InfoTelop_Get: 획득
+MID_Sys_InfoTelop_Reportable: 보고 가능
+MID_Sys_InfoTelop_Achieve_Unlock: 기록 달성
+MID_Sys_InfoTelop_Tutorial_Add: 새 튜토리얼
+MID_Sys_InfoTelop_Tutorial: 튜토리얼
+MID_Sys_InfoTelop_Transport_Full: {Icon}{Variable=0}{ConsonantVowel=을|를} 더 가질 수 없어서 버렸다
+MID_Sys_InfoTelop_GetCancel: 수확을 취소했다
+MID_Sys_InfoTelop_Regist_SideStory: 캘린더에 외전의 정보가 추가되었다
+MID_Sys_InfoTelop_Regist_Event: 캘린더에 새로운 정보가 추가되었다
+MID_Sys_InfoTelop_LegionComback: {Variable=0}{ConsonantVowel=이|가} {Variable=1}에서 귀환
+MID_Sys_InfoTelop_Recover_Blade: 칼날 울림의 힘이 회복되었다
+MID_Sys_InfoTelop_Cancel_LegionDispatch: 독기가 발생한 스폿에 파병 중이던 군단병이 귀환했다
+MID_Sys_InfoTelop_Cancel_MaterialCommand: 독기가 발생한 스폿에 있던 소재가 소실되었다
+MID_Sys_InfoTelop_NextMoveDanger: 적이 다그시온에 접근 중
+MID_Sys_InfoTelop_GainCycleExp: 대기 중인 동료가 훈련을 통해 EXP를 획득했다
+MID_Sys_InfoTelop_GainExp: EXP를 획득했다
+MID_Sys_InfoTelop_CmdBtl_Support: {Variable=0}{ConsonantVowel=이|가} 가세했다
+MID_Sys_InfoTelop_CmdBtl_IshAttack: 강렬한 바람이 불어온다……!
+MID_Sys_Result_Msg_SkillLv_Up: 기술 능력 LV이 상승했다
+MID_Sys_Result_Msg_SendTransport: {Icon}{Variable=0}{ConsonantVowel=을|를} 도구 주머니로 보냈다
+MID_Sys_Result_Headline_Result: Result
+MID_Sys_Result_Headline_Bad: Bad
+MID_Sys_Result_Headline_Good: Good
+MID_Sys_Result_Headline_Great: Great
+MID_Sys_Result_Headline_Perfect: Perfect
+MID_Sys_Result_Perch_Perfect: Perfect Bird Time
+MID_Sys_Result_QuestClear: Quest Clear
+MID_Sys_Result_Headline_EXP_Get: EXP 획득
+MID_Sys_Result_Headline_EXP_Bonus: 보너스 EXP 획득
+MID_Sys_Result_Headline_Join: 동료 가입
+MID_Sys_Result_Headline_Show: 공연 완료
+MID_Sys_Result_Headline_Reconstruction: 재건 완료
+MID_Sys_Result_Headline_Destroyed_Miasma: 독기 제거
+MID_Sys_Result_Headline_Destroyed_Hell: 문 파괴 완료
+MID_Sys_LevelUp: Level Up
+MID_Sys_Result_StageClear: Stage Clear
+MID_Sys_Result_Win: Win
+MID_Sys_Result_MVP: MVP
+MID_Menu_ItemGet_Message: 다음을 획득
+MID_Menu_ItemAdd_Message: 추가 획득
+MID_Menu_FundGet_Message: 군자금을 획득했다
+MID_Menu_ItemStolen_Message: 적에게 빼앗겼다
+MID_Sys_ItemBroken_Message: {Variable=1}의 {Icon}{Variable=0}{ConsonantVowel=이|가} 파손되어\n위력과 명중이 저하되었다
+MID_Menu_ImportantGet_Message: 중요한 아이템을 획득했다
+MID_Sys_Result_Msg_GetItem: 다음을 획득
+MID_Sys_Result_Msg_GetQuestItem: 보수를 획득
+MID_Sys_Result_Msg_GetGold: 보수 {Icon}{Variable=0}골드를 획득했다
+MID_Sys_Result_Msg_GetReward: 보수 「{Icon}{Variable=0}{ConsonantVowel=」을|」를} 획득했다
+MID_Sys_Result_Msg_Status_Up: {Variable=0}의 스테이터스가 상승했다
+MID_Sys_Result_Msg_Blacksmith_Change: 무기가 변화했다
+MID_Sys_Result_Headline_Acquisition: 습득
+MID_Sys_Result_Headline_NewAction: 기능 해방
+MID_Sys_Result_Headline_Acquisition_Special: 능력 해방
+MID_Sys_Result_ClassTrial_Unlock: 병과 해방
+MID_Sys_Result_Msg_Acquired: {Variable=0} 「{Icon}{Variable=1}{ConsonantVowel=」을|」를} 습득했다
+MID_Sys_Result_Msg_Acquired_Title: {Variable=0}{ConsonantVowel=이|가} {Variable=1}{ConsonantVowel=을|를} 습득했다
+MID_Sys_Result_Msg_JobMaster: 병과 {Variable=0}{ConsonantVowel=을|를} 마스터했다
+MID_Sys_Result_Msg_Stable_GetSkill1: {Variable=0}{ConsonantVowel=과|와} {Icon}{Variable=1} 간의\n기승 스킬이 발현되었다
+MID_Sys_Result_Msg_ClassTrial_Unlock: 새로운 자격 시험을 칠 수 있게 되었다
+MID_Sys_Result_Headline_Recruit: 군단병 합류
+MID_Sys_Result_Msg_Recruit_Get_Legion: 새로운 군단병이 합류했다
+MID_Sys_Result_Msg_Recruit_Get_Legion_Gambit: 사용 가능한 계략
+MID_Sys_Result_Headline_Recruit_Boost: 병사 모집 정보가 갱신되었다
+MID_Sys_Result_Msg_Recruit_Boost: {Variable=0}의 격려 연설이 우수한 인재를 끌어들였다
+MID_Sys_Result_Msg_Recruit_Boost_Bad: {Variable=0}의 격려 연설은 그다지 효과가 없었다……
+MID_Sys_Result_Headline_Scout_Success: 스카우트 성공
+MID_Sys_Result_Headline_Scout_Failed: 스카우트 실패
+MID_Sys_Result_Msg_Join: {Variable=0}{ConsonantVowel=이|가} 동료로 가입했다
+MID_Sys_Result_Msg_Join_Maxim: 맥심(제스터)이 동료로 가입했다
+MID_Sys_Result_Msg_Join_SideStory: {Variable=0}{ConsonantVowel=이|가} 한정적인 동료로 가입했다
+MID_Sys_Result_Msg_LevelUp: {Variable=0}의 LV이 {Variable=1}까지 상승했다
+MID_Sys_Result_Success: Success
+MID_Sys_Result_Failure: Miss
+MID_Sys_Result_Msg_Get_Animal: 「{Icon}{Variable=0}」의 포획에 성공했다
+MID_Sys_Result_Msg_Get_Animal_Failed: 「{Icon}{Variable=0}」의 포획에 실패했다
+MID_Sys_Result_Msg_Get_Animal_Skill: 발현 가능한 기승 스킬
+MID_Sys_Result_Msg_FullMem_HP_MagicCount_Recovery_Max: 전원의 HP, 마법 횟수, 의욕이 최대치까지 회복되었다
+MID_Sys_Result_Msg_FullMem_Reliance_EXP_Up_Small: 전원의 지원도가 조금 상승했다
+MID_Sys_Result_Msg_FullMem_Watching_EXP_Up: 관전을 통해 기술 능력 EXP를 획득했다
+MID_Sys_Result_Msg_FullMem_Motivation_Up: 취향과 일치하여 의욕이 회복되었다
+MID_Sys_Result_Msg_HP_MagicCount_Recovery_Max: {Variable=0}명의 HP와 마법 횟수가 최대치까지 회복되었다
+MID_Sys_Result_Msg_Reliance_EXP_Up: {Variable=0}명의 지원도가 상승했다
+MID_Sys_Result_Msg_Reliance_EXP_Up_Big: {Variable=0}명의 지원도가 대폭 상승했다
+MID_Sys_Result_Msg_Reliance_EXP_Up_Perch: {AvatarName}{ConsonantVowel=과|와}의 지원도가 상승했다
+MID_Sys_Result_Msg_Reliance_EXP_Up_Big_Perch: {AvatarName}{ConsonantVowel=과|와}의 지원도가 대폭 상승했다
+MID_Sys_Result_Msg_Skill_EXP_Up: {Variable=0}의 기술 능력 EXP가 상승했다
+MID_Sys_Result_Msg_Thermae_Acquired: {Variable=0}{ConsonantVowel=이|가} 일시적으로 스킬을 습득했다
+MID_Sys_Result_Msg_Temple_Contribution_Up: {Variable=0}에 대한 공헌도가 상승했다
+MID_Sys_Result_Msg_Miracle_LevelUp_First: {Variable=0}{ConsonantVowel=을|를} 사용할 수 있게 되었다
+MID_Sys_Result_Msg_Miracle_LevelUp: {Variable=0}에 새로운 효과가 추가되었다
+MID_Sys_Result_Msg_Reliance_EXP_Up_Divination: 아나톨리아와의 지원도가 상승했다
+MID_Sys_Result_Causation_Established: 인과 성립
+MID_Sys_Result_Msg_Causation_Established: {Variable=0}의 동료가\n결전에 참가하게 되었습니다
+MID_Sys_Result_Causation_Marged: 인과 융합
+MID_Sys_Result_Msg_Causation_Marged: 구세편의 {Variable=0}{ConsonantVowel=이|가} 융합을 통해 강해졌습니다
+MID_Sys_Result_Causation_Updated: 인과율 변동
+MID_Sys_Result_Msg_Causation_Updated: {Variable=0}{ConsonantVowel=이|가} 전쟁편에 도전할 수 있게 되었습니다
+MID_Sys_Result_Msg_Causation_Second: {Variable=0}의 인과율이 새롭게 변동했습니다\n전율의 방첨탑에서 다시 인과를 성립시켜 해당 변동을 반영해 봅시다
+MID_Sys_Result_Msg_Causation_Condition: 새로운 축복이 추가되었습니다
+MID_SysMenu_Lobby_Title: 거점 메뉴
+MID_SysMenu_Gmap_Title: 월드 맵 메뉴
+MID_SysMenu_Sortie_Title: 전투 준비 메뉴
+MID_SysMenu_SortieCmdBtl_Title: 퀵 배틀 준비 메뉴
+MID_SysMenu_SortieDungeon_Title: 던전 탐색 준비 메뉴
+MID_SysMenu_Bmap_Title: 배틀 메뉴
+MID_SysMenu_Dungeon_Title: 던전 메뉴
+MID_SysMenu_Inventory: 정비
+MID_SysMenu_Inventory_Help: 소지품이나 스킬 등을 정비한다
+MID_SysMenu_Item: 소지품
+MID_SysMenu_Trade: 교환
+MID_SysMenu_Skill: 스킬
+MID_SysMenu_Arts: 전투 기술
+MID_SysMenu_Deploy: 배치
+MID_SysMenu_ClassChange: 병과 변경
+MID_SysMenu_ClassChange_Help: 자격을 가진 병과로 변경한다
+MID_SysMenu_Guide: 모험 안내서
+MID_SysMenu_Quest: 퀘스트 목록
+MID_SysMenu_Honor: 명성의 혜택
+MID_SysMenu_Honor_Part3: 구세의 혜택
+MID_SysMenu_Calendar: 캘린더
+MID_SysMenu_Info: 정보
+MID_SysMenu_Info_Help: 동료의 정보나 소재를 확인한다
+MID_SysMenu_TroopList: 부대표
+MID_SysMenu_Roster: 명부
+MID_SysMenu_Reliance: 지원 정보
+MID_SysMenu_Material: 소재 주머니
+MID_SysMenu_GuideTop: 모험 수첩
+MID_SysMenu_LegionComback: 파병 정보
+MID_SysMenu_Facility: 시설
+MID_SysMenu_Facility_Help: 간이 시설을 이용한다
+MID_SysMenu_Temple: 신전
+MID_SysMenu_Map: 지도
+MID_SysMenu_Map_Help: 시설이나 인물의 위치를 확인한다
+MID_SysMenu_GmapMap: 대륙 전체 지도
+MID_SysMenu_GmapMap_Help: 각지의 정보를 확인한다
+MID_SysMenu_Assist: 이동/어시스트
+MID_SysMenu_Assist_Help: 진행을 돕는 기능을 사용한다
+MID_SysMenu_Gmap: 월드 맵으로
+MID_SysMenu_Escape: 스타트 지점으로
+MID_SysMenu_NextTimeline: 메인 퀘스트로
+MID_SysMenu_HellGatePeriod: 문 파괴 작전으로
+MID_SysMenu_Save: 저장
+MID_SysMenu_Save_Help: 현재 진행 상황을 보존한다
+MID_SysMenu_Suspend: 
+MID_SysMenu_Suspend_Help: 
+MID_SysMenu_System: 시스템
+MID_SysMenu_System_Help: 환경 설정 등을 실행한다
+MID_SysMenu_Tutorial: 튜토리얼
+MID_SysMenu_Tutorial_Help: 플레이 방법을 확인한다
+MID_SysMenu_Config: 환경 설정
+MID_SysMenu_MouseGuide: 마우스 조작 설명
+MID_SysMenu_StartBattle: 전투 개시
+MID_SysMenu_StartBattle_Help: 준비를 마치고 전투를 시작한다
+MID_SysMenu_StartExplore: 탐색 개시
+MID_SysMenu_StartExplore_Help: 준비를 마치고 던전 탐색에 도전한다
+MID_SysMenu_UnitSelect: 유닛 선택
+MID_SysMenu_UnitSelect_Help: 출격할 아군을 선택한다
+MID_SysMenu_Change_Position: 배치 변경
+MID_SysMenu_Change_Position_Help: 아군의 출격 위치를 변경한다
+MID_SysMenu_Miracle: 가호 발동
+MID_SysMenu_Miracle_Help: 신의 힘으로 아군을 지원한다
+MID_SysMenu_Order: 위임
+MID_SysMenu_Order_Help: 아군의 행동을 위임한다
+MID_SysMenu_Order_Advance: 진군
+MID_SysMenu_Order_Rush: 돌격
+MID_SysMenu_Order_Escort: 호위
+MID_SysMenu_Order_Withdraw: 후퇴
+MID_SysMenu_Retired: 퇴각
+MID_SysMenu_Retired_Help: 퇴각하여 월드 맵으로 돌아간다
+MID_SysMenu_Retired_Hub_Help: 퇴각하여 거점으로 돌아간다
+MID_SysMenu_Retired_Dungeon_Help: 퇴각하여 던전으로 돌아간다
+MID_SysMenu_Back: 뒤로
+MID_SysMenu_Back_Help: 방첨탑의 방으로 간다
+MID_SysMenu_End_Phase: 페이즈 종료
+MID_SysMenu_End_Phase_Help: 아군의 행동을 종료한다
+MID_SysMenu_End_Turn: 턴 종료
+MID_SysMenu_End_Turn_Help: 모든 아군 부대의 행동을 종료한다
+MID_Sys_Yes: 예
+MID_Sys_No: 아니요
+MID_Menu_Decide: 결정
+MID_Menu_Equip: 장비
+MID_Menu_Use: 사용
+MID_Menu_Remove: 해제
+MID_Menu_Discard: 버리기
+MID_Menu_Receive: 받기
+MID_Menu_Store: 위탁
+MID_Menu_Open: 개봉
+MID_Menu_Trade: 교환
+MID_Menu_Cancel: 취소
+MID_Menu_CorpsCancel: 대기 명령
+MID_Menu_CorpsLeader: 리더 임명
+MID_Menu_Default: 기본
+MID_Menu_Lv_Ascending: LV 오름차순
+MID_Menu_Lv_Descending: LV 내림차순
+MID_Menu_Lv_Rare: 희귀도
+MID_Menu_All: 전체
+MID_Menu_Detail: 항목
+MID_Menu_Stock: 소지 수
+MID_Menu_StockGold: 소지금
+MID_Transporter_Stock: 총 소지 수
+MID_Menu_Own: 소유자
+MID_Menu_Unit: 유닛
+MID_Menu_Person: 인물
+MID_Menu_SideStory: {Variable=0} 외전
+MID_Menu_ParticipantsNum: 참가 인원
+MID_SysMenu_NextTimeline_Unreached: 목적지에 방문한 적이 없으므로 사용할 수 없습니다
+MID_SysMenu_NextTimeline_Unreached_Part3: 명계의 문에 도전하려면 부대가 직접 해당 스폿으로 이동해야 합니다
+MID_SysMenu_NextTimeline_Invalid: 지금은 사용할 수 없습니다
+MID_SysMenu_HellGatePeriod_Invalid: 지금은 사용할 수 없습니다
+MID_SysMenu_Map_Confirm: 월드 맵으로 이동하겠습니까?
+MID_SysMenu_Progress_Confirm: 확인을 종료하겠습니까?
+MID_Menu_StartBattle_Confirm: 전투를 시작하겠습니까?
+MID_Menu_StartExplore_Confirm: 탐색을 시작하겠습니까?
+MID_Menu_Retired_Confirm: 퇴각하겠습니까?
+MID_Menu_UnitSelect_Help: 유닛을 선택해 주십시오
+MID_Menu_Facility_UnitSelect_Help: 참가자를 {Variable=0}명 선택해 주십시오
+MID_Menu_PlayerFacility_UnitSelect_Help: 동료를 {Variable=0}명 선택해 주십시오
+MID_Menu_Food_UnitSelect_Help: 먹을 것을 줄 동료를 선택해 주십시오
+MID_Menu_Cause_Invalid: 현재는 이용할 수 없습니다
+MID_Menu_Cause_UsedDay: 오늘은 더 이상 이용할 수 없습니다
+MID_Menu_Cause_UsedWeek: 이번 주에는 더 이상 이용할 수 없습니다
+MID_Menu_Cause_UsedChapter: 이 장에서는 더 이상 이용할 수 없습니다
+MID_Menu_Cause_ShortagePersonArg: 인원수가 부족합니다({Variable=0}/{Variable=1})
+MID_Menu_Cause_NotMotivation: 의욕이 부족합니다
+MID_Menu_Cause_NotPerson: 대상 유닛이 없습니다
+MID_Menu_Cause_NotRide: 동물이 없습니다
+MID_Menu_Cause_NotLegion: 군단병이 없습니다
+MID_Menu_Cause_NotResource: 먹일 것이 없습니다
+MID_Menu_Cause_NotGift: 선물이 없습니다
+MID_Menu_Cause_NotScout: 지금은 스카우트할 수 없습니다
+MID_Menu_Cause_UsedLesson: 지도받을 수 있는 항목이 없습니다
+MID_Menu_Cause_Complete_Procurement: 실행 가능한 군비 증강 항목이 없습니다
+MID_Menu_Cause_NotHero_Educate: 디트리히가 이곳에 존재하지 않습니다
+MID_Menu_Cause_NotMainTemple: 본전에서만 가능합니다
+MID_Menu_Cause_NotWatching: 현재는 시합이 없습니다
+MID_Menu_Cause_FinishedWatching: 시합이 종료되었습니다
+MID_Menu_Cause_Complete_Heal: 회복할 필요가 없습니다
+MID_Menu_Cause_NotSunday: 일요일에만 이용할 수 있습니다
+MID_Menu_Cause_NotPerson_BottomUp: 효과를 얻을 수 있는 동료가 없습니다
+MID_Menu_Cause_LvMaxVolunteer: 모든 가호 LV이 최대입니다
+MID_Menu_Cause_ShortageFood: 식재료가 부족합니다
+MID_Menu_Cause_InvalidBoostFarm: 이미 사용한 상태입니다
+MID_Menu_Cause_CompletedBoostRecruit: 효과가 발생 중입니다
+MID_Menu_Cause_ShortageBlade: 대상 스폿이 없습니다
+MID_Menu_Cause_ShortageMaterial: 소재가 부족합니다
+MID_Menu_Cause_NotCorpsPool: 편성할 수 있는 유닛이 없습니다
+MID_Menu_Cause_NotRideJob: 적합하지 않은 유닛이 있습니다
+MID_Menu_Cause_NoCleared: 제1부를 클리어하면 개방됩니다
+MID_Menu_Cause_NotRelianceTalk: 감상 가능한 지원 회화가 없습니다
+MID_Menu_Cause_ShortageRelianceLv: 지원 LV이 부족합니다
+MID_Menu_Cause_NotPlayable: 특별 조건이 충족되지 않았습니다
+MID_Menu_Cause_NotPlayable_Part: 현재 부에서는 감상할 수 없습니다
+MID_Menu_Cause_NotPlayable_Chapter: 현재 장에서는 감상할 수 없습니다
+MID_Menu_Cause_NotAvailable_Facility: 시설 이용 불가
+MID_Menu_Cause_NotPerson_Absence: 부재
+MID_Menu_Cause_DeadAlive: 전선 이탈
+MID_Menu_Cause_Dead: 사망
+MID_GuideMenu_Disable: 이야기를 진행하세요
+MID_GuideMenu_BattleHint_Unconfirmed: 백아의 횃대에서\n길잡이 예언을 확인하세요
+MID_GuideMenu_BattleHint_NotFound: 전투에 대한 정보가 없습니다
+MID_GuideMenu_Guide_Help: 이 장에서 추천하는 행동을 확인할 수 있습니다
+MID_GuideMenu_Guide_FromDagsion: 제도 다그시온에서부터
+MID_GuideMenu_Honor_Help: 명성 LV이 올라가면 얻는 혜택을 확인할 수 있습니다
+MID_GuideMenu_Honor_Part3_Help: 구세 LV이 올라가면 얻는 혜택을 확인할 수 있습니다
+MID_GuideMenu_Quest_Help: 각종 퀘스트의 진행 상황을 확인할 수 있습니다
+MID_GuideMenu_Calender_Help: 메인 퀘스트의 기한 및 기념일, 행사 등을 확인할 수 있습니다
+MID_GuideMenu_BattleHint_Help: 다음 메인 배틀의 공략 정보를 확인할 수 있습니다
+MID_MaterialMenu_Help: 갖고 있는 소재나 귀중품을 확인할 수 있습니다
+MID_MaterialMenu_Present: 선물
+MID_MaterialMenu_Food: 식재료
+MID_MaterialMenu_Ore: 광석
+MID_MaterialMenu_ClassPass: 시험 증서
+MID_MaterialMenu_Stock: 그 외
+MID_TutorialMenu_Help: 과거에 본 튜토리얼을 확인할 수 있습니다
+MID_TutorialMenu_Battle: 전투
+MID_TutorialMenu_Hub: 거점
+MID_TutorialMenu_Gmap: 월드 맵
+MID_TutorialMenu_Dungeon: 던전
+MID_TutorialMenu_System: 진영장
+MID_TutorialMenu_PickUp: 픽업
+MID_RelianceMenu_Help: 동료 간 지원 관계를 확인할 수 있습니다
+MID_RelianceMenu_Hotel_UnitSelect_Help: 누구의 지원 회화를 감상할지 선택해 주십시오
+MID_RelianceMenu_Hotel_Help: 지원 상대를 선택해 주십시오
+MID_RelianceMenu_Target: 지원 상대
+MID_RelianceMenu_Confirm: 지원 회화를 감상하겠습니까?
+MID_RelianceMenu_OtherRoute_Help: 감상한 적이 있는 지원 회화입니다
+MID_RelianceMenu_CanRead_Help: 다시 감상하지 않고 확인 완료로 표시할 수 있습니다
+MID_RelianceMenu_AllRead_Confirm: 다른 진영장의 루트에서 감상한 지원 회화를 포함하여\n지금까지 감상한 모든 지원 회화를 확인 완료로 표시합니다\n괜찮겠습니까?
+MID_RelianceMenu_CantTalk_Message: 지원 회화는 여관에서 감상할 수 있습니다
+MID_ProfileMenu_Help: 동료의 능력과 정보를 확인할 수 있습니다
+MID_ProfileMenu_Page1: 스테이터스
+MID_ProfileMenu_Page2: 전투 기술/마법
+MID_ProfileMenu_Page3: 병과
+MID_ProfileMenu_Page4: 특수 능력
+MID_ProfileMenu_Page5: 경력
+MID_ProfileMenu_Blood: 혈인
+MID_ProfileMenu_Job: 현재 병과 정보
+MID_ProfileMenu_JobExpNext: 마스터까지 앞으로
+MID_ProfileMenu_JobList: 병과 목록
+MID_ProfileMenu_JobHunter: 사냥병 계열
+MID_ProfileMenu_JobWarrior: 투사 계열
+MID_ProfileMenu_JobSoldier: 병사 계열
+MID_ProfileMenu_JobFlyingostrichsoldier: 비행 계열
+MID_ProfileMenu_JobCurseMage: 마도 계열
+MID_ProfileMenu_Basic: 기본 정보
+MID_ProfileMenu_Clan: 소속
+MID_ProfileMenu_Hobby: 취미
+MID_ProfileMenu_Like: 좋아하는 것
+MID_ProfileMenu_Dislike: 싫어하는 것
+MID_ProfileMenu_GoodFriends: 인연이 깊은 동료
+MID_ProfileMenu_Age: 연령
+MID_ProfileMenu_AgeUnit: {Variable=0}세
+MID_ProfileMenu_Birthday: 생일
+MID_ProfileMenu_Height: 신장
+MID_ProfileMenu_HeightUnit: {Variable=0}cm
+MID_ProfileMenu_Unknown: 불명
+MID_TroopList_PlayerTeam: 아군
+MID_TroopList_EnemyTeam: 적군
+MID_TroopList_AllyTeam: 우군
+MID_TroopList_ThirdTeam: 제3군
+MID_TroopList_Page1: 상태
+MID_TroopList_Page2: 기술 능력
+MID_TroopList_Page3: 전투 능력
+MID_TroopList_Page4: 기본 능력
+MID_AutoMenu_Equip: 장비 위임
+MID_AutoMenu_Deposit: 모든 소지품 위탁
+MID_AutoMenu_Skill: 스킬 위임
+MID_AutoMenu_Arts: 전투 기술 위임
+MID_AutoMenu_Deploy: 배치 위임
+MID_AllAutoMenu_Equip: 전원 장비 위임
+MID_AllAutoMenu_Deposit: 전원 모든 소지품 위탁
+MID_AllAutoMenu_Skill: 전원 스킬 위임
+MID_AllAutoMenu_Arts: 전원 전투 기술 위임
+MID_AllAutoMenu_Deploy: 전원 배치 위임
+MID_AutoMenu_Deposit_Failure_Message: 도구 주머니에 충분한 공간이 없으므로 사용할 수 없습니다
+MID_TransportMenu_Help: 아이템을 정리할 수 있습니다
+MID_TradeMenu_Help: 아이템을 교환합니다
+MID_TransportMenu_Sword: 검
+MID_TransportMenu_Lance: 창
+MID_TransportMenu_Axe: 도끼
+MID_TransportMenu_Bow: 활
+MID_TransportMenu_Fist: 건틀릿
+MID_TransportMenu_Accout: 장비품
+MID_TransportMenu_Tool: 도구
+MID_Menu_Magic: 마법
+MID_Menu_AttackMagic: 공격 마법
+MID_Menu_SupportMagic: 보조 마법
+MID_Menu_ExclusiveItem: 병과 전용 공격
+MID_Menu_ItemUse_Confirm: 다음 아이템을 사용하겠습니까?
+MID_Menu_ItemDiscard_Confirm: 다음 아이템을 정말로 버리겠습니까?
+MID_Menu_ItemSend_Confirm: 다음 아이템을 건네주겠습니까?
+MID_Menu_Part2Sortie_Message: 소지품에 있는 무기와 장비품만 제2부로 계승됩니다\n사용하고 싶은 무기와 장비품을 각 유닛이 소지하도록 해 주십시오\n(1부에서 획득한 무기, 장비품, 아이템, 소재 등은\n2부 클리어 후 모두 계승됩니다)
+MID_Menu_Part2Sortie_Confirm: 이것으로 괜찮겠습니까?
+MID_SendUnitMenu_ItemFull_Message: 소지품이 가득 찼습니다\n도구 주머니로 보낼 소지품을 선택해 주십시오
+MID_SendUnitMenu_Help: 도구 주머니로 보낼 아이템을 선택해 주십시오
+MID_SendUnitMenu_Transport_Confirm: 다음 아이템을 도구 주머니로 보내겠습니까?
+MID_SendUnitMenu_MapDrop_Confirm: 현재 맵 전용 아이템이므로\n도구 주머니로 보낼 수 없습니다\n해당 아이템을 내려놓겠습니까?
+MID_DeleteTransportMenu_ItemFull_Message: 도구 주머니가 가득 찼습니다\n버릴 아이템을 선택해 주십시오
+MID_DeleteTransportMenu_Help: 버릴 아이템을 선택해 주십시오
+MID_EquipMenu_Help: 장비 및 변경이 가능합니다
+MID_DeployMenu_Animal_Help: 승용 동물을 선택하거나 변경할 수 있습니다
+MID_DeployMenu_Ride: 승용 동물
+MID_DeployMenu_NotRide_Message: {Variable=0}의 병과 「{Variable=1}」에는\n{Variable=2}만 배치할 수 있습니다
+MID_DeployMenu_Legion_Help: 군단병을 선택하거나 변경할 수 있습니다
+MID_DeployMenu_Legion: 군단병
+MID_DeployMenu_Command: 지휘 LV
+MID_DeployMenu_Dispatch: 파병 중
+MID_DeployMenu_DispatchDeploy_Confirm: 이 군단병은 {Variable=0}에 파병 중입니다\n파병을 중단하고 배치하겠습니까?
+MID_DeployMenu_NotTactics_Message: {Variable=0}의 지휘 LV이 부족하여\n배치할 수 없습니다
+MID_Config_Battle: 전투
+MID_Config_Hub: 거점/던전
+MID_Config_Common: 공통
+MID_Config_Enable: ON
+MID_Config_Disable: OFF
+MID_Config_Simple: 연출 간략화
+MID_Config_Enable_Scale: ON(축소 있음)
+MID_Config_Enable_NotScale: ON(축소 없음)
+MID_Config_Enable_Thin: ON(연하게)
+MID_Config_Enable_Thick: ON(진하게)
+MID_Config_Enable_Small: ON(소)
+MID_Config_Enable_Big: ON(대)
+MID_Config_Standard: 표준
+MID_Config_Detail: 상세
+MID_Config_Reverse: 반전
+MID_Config_Manual: 수동
+MID_Config_Auto: 자동
+MID_Config_Speed_Fast: 빠름
+MID_Config_Speed_Normal: 보통
+MID_Config_Button_Hold: 길게 누르기
+MID_Config_Button_Trigger: 짧게 누르기
+MID_Config_AnimType_PlayerUnit: 아군 유닛만
+MID_Config_AnimType_PlayerPhase: 아군 페이즈만
+MID_Config_Sound_Default: 기본 곡 재생
+MID_Config_Status_Split: {Variable=0}/{Variable=1}
+MID_Config_Anim: 전투 연출
+MID_Config_Anim_Battle: 공격 연출
+MID_Config_Anim_Battle_Help: 공격 시의 전투 연출을 변경할 수 있습니다
+MID_Config_Anim_Assist: 보조/춤추기 연출
+MID_Config_Anim_Assist_Help: 보조(회복 등) 및 춤추기 사용 시의\n전투 연출을 변경할 수 있습니다
+MID_Config_Anim_Special: 오버 블레이즈 연출
+MID_Config_Anim_Special_Help: 오버 블레이즈 시의 전투 연출을 변경할 수 있습니다
+MID_Config_UI: UI 표시
+MID_Config_UI_Status: 스테이터스 창
+MID_Config_UI_Status_Help: 전투 중 표시되는 스테이터스 창의 내용을 변경할 수 있습니다
+MID_Config_UI_HP: HP 게이지
+MID_Config_UI_HP_Help: 전투 맵에서의 HP 게이지 표시 여부를 선택할 수 있습니다
+MID_Config_UI_Face: 얼굴 아이콘
+MID_Config_UI_Face_Help: 전투 맵에서의 얼굴 아이콘 표시 여부를 선택할 수 있습니다
+MID_Config_UI_GridAlpha: 그리드 표시
+MID_Config_UI_GridAlpha_Help: 전투 맵에서의 그리드 표시 여부 및 농도를 변경할 수 있습니다
+MID_Config_UI_EnemyRangeAlpha: 전체 위험 범위의 농도
+MID_Config_UI_EnemyRangeAlpha_Help: 전투 맵에 표시되는 위험 범위의 농도를 변경할 수 있습니다
+MID_Config_UI_SupportInfo_Unit: 유닛 보조 정보
+MID_Config_UI_SupportInfo_Unit_Help: 전투 맵에 표시되는 유닛 정보를 변경할 수 있습니다
+MID_Config_UI_Minimap_Bmap: 전투 미니맵 표시
+MID_Config_UI_Minimap_Bmap_Help: 전투 맵에서의 미니맵 표시 여부 및\n사이즈를 변경할 수 있습니다
+MID_Config_UI_MinimapRotate_Bmap: 전투 미니맵 회전
+MID_Config_UI_MinimapRotate_Bmap_Help: 전투 맵에서 미니맵을 카메라 회전에 맞춰 회전시킬지 여부 및\n회전 시의 사이즈를 변경할 수 있습니다
+MID_Config_UI_Minimap_Hub: 거점 미니맵 표시
+MID_Config_UI_Minimap_Hub_Help: 거점 산책 시의 미니맵 표시 여부를 선택할 수 있습니다
+MID_Config_UI_MinimapRotate_Hub: 거점 미니맵 회전
+MID_Config_UI_MinimapRotate_Hub_Help: 거점 산책 시 미니맵을\n카메라 회전에 맞춰 회전시킬지 여부를 선택할 수 있습니다
+MID_Config_TopCamera: 톱 뷰 카메라
+MID_Config_TopCamera_ReverseX: 좌우 회전 조작
+MID_Config_TopCamera_ReverseX_Help: 전투 맵에서 카메라를 좌우로 회전시킬 때의\n조작 방법을 선택할 수 있습니다
+MID_Config_TopCamera_ReverseY: 줌 조작
+MID_Config_TopCamera_ReverseY_Help: 전투 맵에서 카메라를 확대/축소시킬 때의\n조작 방법을 선택할 수 있습니다
+MID_Config_Camera_Sense: 조작 감도(마우스)
+MID_Config_Camera_Sense_Help: 전투 맵에서 마우스로 카메라를 조작할 때의\n감도를 변경할 수 있습니다
+MID_Config_Cursor_Sense: 맵 커서 속도(마우스)
+MID_Config_Cursor_Sense_Help: 마우스 조작 시의 맵 커서 이동 속도를 변경할 수 있습니다
+MID_Config_BackCamera: 백 뷰 카메라
+MID_Config_BackCamera_ReverseX: 수평 방향 조작
+MID_Config_BackCamera_ReverseX_Help: 거점/던전에서 카메라를 좌우로 회전시킬 때의\n조작 방법을 선택할 수 있습니다
+MID_Config_BackCamera_ReverseY: 수직 방향 조작
+MID_Config_BackCamera_ReverseY_Help: 거점/던전에서 카메라를 상하로 회전시킬 때의\n조작 방법을 선택할 수 있습니다
+MID_Config_BackCamera_Sens: 조작 감도(스틱)
+MID_Config_BackCamera_Sens_Help: 거점/던전에서 스틱으로 카메라를 조작할 때의\n감도를 변경할 수 있습니다
+MID_Config_BackCamera_Mouse_Sens: 조작 감도(마우스)
+MID_Config_BackCamera_Mouse_Sens_Help: 거점/던전에서 마우스로 카메라를 조작할 때의\n감도를 변경할 수 있습니다
+MID_Config_BackCamera_AutoSens: 자동 회전 강도
+MID_Config_BackCamera_AutoSens_Help: 거점/던전에서 움직임에 따라 카메라가 자동으로 회전하는\n강도를 변경할 수 있습니다
+MID_Config_BGM: BGM 설정
+MID_Config_BGM_Encount: 조우전
+MID_Config_BGM_Encount_Help: 조우전 시의 BGM을 선택할 수 있습니다
+MID_Config_BGM_CmdBattle: 퀵 배틀
+MID_Config_BGM_CmdBattle_Help: 퀵 배틀 시의 BGM을 선택할 수 있습니다
+MID_Config_System: 그 외
+MID_Config_System_Speed: 게임 속도
+MID_Config_System_Speed_Help: 게임 전체의 속도를 변경할 수 있습니다\n(전투 맵과 월드 맵에서의 이동 속도 및\n각종 연출의 템포 등이 달라집니다)
+MID_Config_System_TurnEndConfirm: 턴 종료 확인(월드 맵)
+MID_Config_System_TurnEndConfirm_Help: 새로운 부대를 만들 수 있는 상태에서 모든 부대가 행동했을 때\n턴 종료 확인 메시지를 표시할지 여부를 선택할 수 있습니다
+MID_Config_System_AI: AI 자동 스킵
+MID_Config_System_AI_Help: 위임 또는 적군 페이즈 등, AI가 조작을 하고 있을 때\n자동으로 연출을 스킵할지 여부를 선택할 수 있습니다
+MID_Config_System_Vibration: 진동 강도
+MID_Config_System_Vibration_Help: 게임 전체의 진동 강도를 변경할 수 있습니다
+MID_Config_System_MouseMode: 마우스로 조작 전환 방식
+MID_Config_System_MouseMode_Help: 마우스 기능이 유효화되었을 때\n마우스 조작으로 자동 전환할지 여부를 선택할 수 있습니다\n(수동으로 설정 시 {ButtonSL}과 {ButtonSR}을 동시에 눌러 전환할 수 있습니다)
+MID_Config_System_MouseSense: 메뉴 커서 속도(마우스)
+MID_Config_System_MouseSense_Help: 마우스 조작 시의 메뉴 커서 이동 속도를 변경할 수 있습니다
+MID_Config_System_Tutorial: 튜토리얼 표시
+MID_Config_System_Tutorial_Help: 새로운 튜토리얼이 발생했을 때 게임을 멈추고 내용을 확인할지\n또는 게임을 멈추지 않고 알림만 표시할지 선택할 수 있습니다\n(일부 특별한 튜토리얼은 설정에 관계없이 무조건 표시됩니다)
+MID_Config_System_Bug: 특정 적의 외형 변경
+MID_Config_System_Bug_Help: 게임에 등장하는 특정한 적의 외형을 선택할 수 있습니다\nON일 경우 곤충과 유사한 일부 적의 외형이 변경됩니다
+MID_Config_Graphics: 화면
+MID_Config_Graphics_Brightness: 밝기
+MID_Config_Graphics_Brightness_Help: 게임 전체의 화면 밝기를 변경할 수 있습니다
+MID_Config_Graphics_Brightness_UI: UI 밝기
+MID_Config_Graphics_Brightness_UI_Help: 게임 전체의 UI 밝기를 변경할 수 있습니다\n(HDR 적용 시에만 반영됩니다)
+MID_Config_Sound: 음량
+MID_Config_Sound_BGM: BGM
+MID_Config_Sound_BGM_Help: 게임 전체의 BGM 음량을 변경할 수 있습니다
+MID_Config_Sound_SE: SE
+MID_Config_Sound_SE_Help: 게임 전체의 SE 음량을 변경할 수 있습니다
+MID_Config_Sound_SystemSE: 시스템 SE
+MID_Config_Sound_SystemSE_Help: 게임 전체의 시스템 SE 음량을 변경할 수 있습니다
+MID_Config_Sound_Voice: 보이스
+MID_Config_Sound_Voice_Help: 게임 전체의 보이스 음량을 변경할 수 있습니다
+MID_Config_Event: 이벤트
+MID_Config_Event_Auto: 대화 진행
+MID_Config_Event_Auto_Help: 대화 시 페이지를 넘기는 방법을 선택할 수 있습니다
+MID_Config_Event_Subtitles: 무비 자막 표시
+MID_Config_Event_Subtitles_Help: 무비의 자막 표시 여부를 선택할 수 있습니다
+MID_Config_Event_Skip: 스킵 입력 방법
+MID_Config_Event_Skip_Help: 이벤트 등을 스킵할 때\n{ButtonPlus}를 눌러야 하는 시간을 선택할 수 있습니다
+MID_Config_Reset_Confirm: 모든 항목을 초기 설정값으로 되돌립니다\n괜찮겠습니까?
+MID_Calendar_Event: 행사
+MID_Calendar_Birthday: 생일
+MID_Calendar_Today: 오늘
+MID_Calendar_NoEvent: 예정 없음
+MID_XHelp_Base: 기본치
+MID_XHelp_Reinforce: 부여
+MID_XHelp_Blaze: 블레이즈
+MID_XHelp_Burst: 버스트
+MID_XHelp_Reliance: 지원 효과
+MID_XHelp_Class: 병과
+MID_KeyHelp_Cancel: 뒤로
+MID_KeyHelp_Next: 다음
+MID_KeyHelp_Tutorial: 튜토리얼
+MID_KeyHelp_Menu: 메뉴
+MID_KeyHelp_Dash: 대시
+MID_KeyHelp_Camera: 카메라 조작
+MID_KeyHelp_Map: 지도
+MID_KeyHelp_GmapMap: 대륙 전체 지도
+MID_KeyHelp_ShowTrace: 궤적 표시
+MID_KeyHelp_Attack: 공격
+MID_KeyHelp_EnemySilhouette: 길게 눌러 투시
+MID_KeyHelp_AutoCancel: 위임 해제
+MID_KeyHelp_CmdBtlSkip: 전투 결과로 스킵
+MID_KeyHelp_ShowDanger: 위험 범위 전환
+MID_KeyHelp_Config: 환경 설정
+MID_KeyHelp_Config_Detail: 환경 설정 상세
+MID_KeyHelp_ForceChange: 세력 전환
+MID_KeyHelp_ZoomViewMove: 주위 확인
+MID_KeyHelp_Sortie_UnitSelect: 출격 선택
+MID_KeyHelp_BattleHint: 길잡이 예언
+MID_KeyHelp_BattleRule: 승리 조건
+MID_KeyHelp_Status: 스테이터스
+MID_KeyHelp_ItemChange: 전환
+MID_KeyHelp_ListChange: 표시 전환
+MID_KeyHelp_StatusChange: 정보 전환
+MID_KeyHelp_Costume: 의상 변경
+MID_KeyHelp_HelpDetail: 상세 정보
+MID_KeyHelp_Auto: 위임
+MID_KeyHelp_AutoUnitSelect: 자동 선발
+MID_KeyHelp_AutoAll: 전원 위임
+MID_KeyHelp_MultiSelection: 복수 선택
+MID_KeyHelp_LongPressSkip: 길게 눌러 스킵
+MID_KeyHelp_WindowHide: UI 비표시
+MID_KeyHelp_AutoPlay: 자동 재생
+MID_KeyHelp_TalkLog: 로그
+MID_KeyHelp_ShowSubtitle: 자막
+MID_KeyHelp_ShowAll: 전문 표시
+MID_KeyHelp_Config_Reset: 설정 초기화
+MID_KeyHelp_Reminder: 일정 알림
+MID_KeyHelp_Pin: 목표 핀
+MID_KeyHelp_OpenCalendar: 캘린더 열기
+MID_KeyHelp_Receive: 받기
+MID_KeyHelp_AllReceive: 모두 받기
+MID_KeyHelp_Watch: 감상하기
+MID_KeyHelp_Read: 확인 완료로 표시
+MID_KeyHelp_AllRead: 일괄 확인 처리
+MID_KeyHelp_CameraChange: 이동
+MID_KeyHelp_BirdSing: 지저귄다
+MID_KeyHelp_GmapSpotPage: 페이지 {Variable=0}
+MID_KeyHelp_HowToPlay: 이 진영장의 특징
+MID_KeyHelp_AnimalRelease: 놓아주기
+MID_KeyHelp_Mantle: 망토 표시 전환
+MID_KeyHelp_CameraZoom: 줌
+MID_KeyHelp_Play: 재생
+MID_KeyHelp_Stop: 정지
+MID_KeyHelp_FastTravel: 근처로 이동
+MID_KeyHelp_MouseCalibration: 이동 각도 보정
+MID_KeyHelp_MouseReset: 보정 각도 초기화
+MID_NextSelect_Main: 자유행동을 종료하고 메인 퀘스트로 넘어가겠습니까?\n(HP, 마법 횟수, 천각의 백사는 회복됩니다)
+MID_NextSelect_Main_Part2: 전투 준비를 종료하고 메인 퀘스트로 넘어가겠습니까?\n(HP, 마법 횟수, 천각의 백사는 회복됩니다)
+MID_NextSelect_Main_HellGatePeriod: 자유행동을 종료하고 문 파괴 작전으로 넘어가겠습니까?\n(HP, 마법 횟수, 천각의 백사는 회복됩니다)
+MID_NextSelect_Main_Free_Confirm: 기한은 {Variable=0} {Variable=1} {Variable=2}입니다\n그때로 시간을 건너뛰겠습니까?
+MID_NextSelect_SideStory: {Variable=0}\n『{Variable=1}{ConsonantVowel=』을|』를} 시작하겠습니까?\n(HP, 마법 횟수, 천각의 백사는 회복됩니다)
+MID_NextSelect_SideStory_Confirm: 개시 시각은 {Variable=0} {Variable=1} {Variable=2}입니다\n그때로 시간을 건너뛰겠습니까?
+MID_NextSelect_Yes: 예(시간 건너뛰기)
+MID_NextSelect_Yes_Individual: 예(개별 행동 실행)
+MID_NextSelect_Yes_Confirm: 개별 행동을 실행하지 않는 경우에는\n어떠한 행동도 취하지 않습니다\n정말로 시간을 건너뛰겠습니까?
+MID_Reminder_MiddleDay_Caution: 아직 목적지에 한 번도 도달한 적이 없습니다\n기한 내에 도달하지 못하면 메인 퀘스트에 실패하게 됩니다
+MID_Reminder_ReminderDay_Message: 일정 알림을 설정한 날이 되었습니다
+MID_Reminder_TimeLimit_Message: 메인 퀘스트 당일이 되었습니다
+MID_Reminder_MiddleDay_Message: 메인 퀘스트까지 절반의 기간이 경과했습니다
+MID_Reminder_FacilityReset_Message: 주 1회 행동의 횟수가 모두 초기화되었습니다
+MID_Reminder_BirthSend_Confirm: {Variable=0}의 생일입니다\n선물을 주겠습니까?\n(다른 날보다 좋은 효과를 얻을 수 있습니다)
+MID_Reminder_BirthSend_NotPresent_Message: {Variable=0}의 생일입니다\n선물을 주면 다른 날보다 좋은 효과를 얻을 수 있습니다
+MID_Part2Chapter_ItemSupply_Message: 모두에게 아이템이 지급되었습니다
+MID_Part2Clear_Reward_Message: 전쟁편의 클리어 보수를 획득했다
+MID_Part2Clear_First_Message: {LordName}의 전쟁편 클리어 데이터가 갱신되었습니다
+MID_Part2Clear_Merge_Message: 지금까지의 플레이로\n{LordName}의 전쟁편 클리어 데이터가 갱신되었습니다
+MID_Part2Clear_ItemSend_Message: 제1부 클리어 시점에 소지하고 있던\n아이템, 소재, 동물, 군단병은\n「안식처의 성궤」에 등록되었습니다\n인과의 파편을 사용하여 생성할 수 있습니다
+MID_Part2Clear_ItemSend_Annotation: 과거에 클리어했을 때의 아이템 등도 등록되어 있습니다
+MID_Part2Clear_AddMemory_EV20_103: 조건이 충족되었으므로 이벤트 감상에\n「타리문과 린드」가 추가되었습니다
+MID_Converge_Success_Message: {Variable=0}{ConsonantVowel=이|가} 소지했던\n도구 주머니와 소재 주머니의 내용물을 받았습니다
+MID_Converge_Failure_Message: 도구 주머니로 보내지 못한 아이템은\n가치가 낮은 순으로 소실되었습니다
+MID_Result_ItemFull_Message: 도구 주머니로 보내지 못한 아이템은\n가치가 낮은 순으로 소실되었습니다
+MID_Result_LegionFull_Message: 수용 범위 외의 군단병은\n지휘 LV이 낮은 순으로 사라졌습니다
+MID_Subquest_ChapterReward_Message: 이전 플레이에서 달성한 서브 퀘스트가\n달성 상태로 변경되어 보수를 획득했다
+MID_ContinueNewGame_Reload_Message: 여기서부터 「재강림」 실행 시의 진행 상황을 이어받습니다
+MID_Clear_Message: 클리어 데이터를 저장했습니다\n(발로르와의 결전 이전부터 플레이를 계속할 수 있습니다)
+MCID_0_ISM_title03_2: 인과를 잇는 자
+MCID_3_ISM_title07: 최종 결전
+MID_Restart_Retry: 다시 시작할 지점을 선택한다
+MID_Restart_Retry_Help: 어디서부터 다시 시작할지 선택합니다
+MID_Restart_Battle: 전투를 다시 시작한다
+MID_Restart_Battle_Help: 전투를 처음부터 다시 시작합니다
+MID_Restart_Battle_Confirm: 이 전투를 다시 시작하겠습니까?
+MID_Restart_Battle_Comment: 전투 중에 획득한 경험치를 유지한 채로\n전투를 다시 시작할 수도 있습니다
+MID_Restart_Battle_Annotation: 전투를 개시하기 전의 상황으로 되돌립니다
+MID_Restart_Battle_Yes: 예(획득 경험치를 무효로 한다)
+MID_Restart_Battle_Yes_Exp: 예(획득 경험치를 유지한다)
+MID_Restart_BeforeBattle: 도전하기 전부터 다시 시작한다
+MID_Restart_BeforeBattle_Help: 전투에 도전하기 전의 상황으로 되돌립니다
+MID_Restart_BeforeBattle_Disable: 턴이 남지 않은 상태에서 전투에 도전했으므로 선택할 수 없습니다
+MID_Restart_BeforeBattle_Confirm: 이 전투에 도전하기 전의 시점부터 다시 시작하겠습니까?
+MID_Restart_Chapter: 장을 다시 시작한다
+MID_Restart_Chapter_Help: 현재의 장을 처음부터 다시 시작합니다
+MID_Restart_Chapter_Confirm: 이 장을 다시 시작하겠습니까?
+MID_Restart_Chapter_Annotation: 동료의 레벨, 소지 아이템 등은\n이 장을 시작했을 때의 상태로 돌아갑니다
+MID_Restart_Chapter_Part3: 구분을 다시 시작한다
+MID_Restart_Chapter_Part3_Help: 현재의 구분을 처음부터 다시 시작합니다
+MID_Restart_Chapter_Part3_Confirm: 이 구분을 다시 시작하겠습니까?
+MID_Restart_Chapter_Part3_Annotation: 동료의 레벨, 소지 아이템 등은\n이 구분을 시작했을 때의 상태로 돌아갑니다
+MID_Restart_Hellgate: 문 파괴 작전을 다시 시작한다
+MID_Restart_Hellgate_Help: 현재 구분의 문 파괴 작전을\n처음부터 다시 시작합니다
+MID_Restart_Hellgate_Confirm: 문 파괴 작전을 처음부터 다시 시작하겠습니까?
+MID_Restart_Hellgate_Annotation: 동료의 레벨, 소지 아이템 등은\n문 파괴 작전을 시작했을 때의 상태로 돌아갑니다
+MID_Restart_Dit8Search: 케투스 수색을 다시 시작한다
+MID_Restart_Dit8Search_Help: 케투스 수색을 개시했을 때의 상황으로 되돌립니다
+MID_Restart_Dit8Search_Confirm: 케투스 수색을 다시 시작하겠습니까?
+MID_Restart_Dit8Search_Annotation: 케투스 수색을 개시했을 때의 상황으로 되돌립니다
+MID_Restart_UseHistory: 포트나의 가호를 사용한다
+MID_Restart_UseHistory_Help: 시간을 되돌려 행동을 다시 선택합니다
+MID_Restart_UseHistory_Annotation: 천각의 백사가 부족합니다
+MID_Restart_ReturnObelisk: 방첨탑의 방으로 간다
+MID_Restart_ReturnObelisk_Help: 진행을 포기하고 방첨탑의 방으로 돌아갑니다\n(장을 처음부터 다시 시작하거나\n다른 이야기를 진행할 수 있습니다)
+MID_Restart_ReturnObelisk_Confirm: 방첨탑의 방으로 돌아가겠습니까?
+MID_Restart_ReturnObelisk_Annotation: {Variable=0}{ConsonantVowel=을|를} 재개하면\n현재의 장을 처음부터 다시 시작하게 됩니다
+MID_Restart_ReturnObelisk_Part3: 방첨탑의 방으로 간다
+MID_Restart_ReturnObelisk_Part3_Help: 구분의 진행을 포기하고 방첨탑의 방으로 돌아갑니다\n(진영장의 이야기를 진행해 새로운 인과를 엮거나\n이 구분을 처음부터 다시 시작할 수 있습니다)
+MID_Restart_ReturnObelisk_Part3_Confirm: 방첨탑의 방으로 돌아가겠습니까?
+MID_Restart_ReturnObelisk_Part3_Annotation: 다시 구세편으로 돌아오면\n이 구분을 처음부터 다시 시작하게 됩니다
+MID_Restart_ReturnObelisk_Part3_Chapter1_Annotation: 구세편을 개시하기 전의 상황으로 되돌립니다
+MID_Restart_ReturnObelisk_Hellgate: 방첨탑의 방으로 간다
+MID_Restart_ReturnObelisk_Hellgate_Help: 구분의 진행을 포기하고 방첨탑의 방으로 돌아갑니다\n(진영장의 이야기를 진행해 새로운 인과를 엮거나\n문 파괴 기간을 처음부터 다시 시작할 수 있습니다)
+MID_Restart_ReturnObelisk_Hellgate_Confirm: 방첨탑의 방으로 돌아가겠습니까?
+MID_Restart_ReturnObelisk_Hellgate_Annotation: 다시 구세편으로 돌아오면\n이 구분의 문 파괴 기간을 처음부터 다시 시작하게 됩니다
+MID_Restart_ReturnTitle: 타이틀로 돌아간다
+MID_Restart_ReturnTitle_Help: 타이틀로 돌아갑니다
+MID_Restart_ReturnTitle_Confirm: 데이터를 저장하지 않고 타이틀로 돌아가겠습니까?
+MID_GameOver_Title: Game Over
+MID_GameOver_Title_TimeOver: Time Over
+MID_Save_State_Hub: 거점
+MID_Save_State_Hub_Part2: 출진 준비
+MID_Save_State_Dungeon: 던전
+MID_Save_State_Gmap: 월드 맵
+MID_Save_State_Sortie: 전투 전
+MID_Save_State_Battle: 전투 중
+MID_Save_State_Timeline: 부 클리어
+MID_Save_State_Chapter: 장 시작
+MID_Save_State_Chapter_Part3: 구분 시작
+MID_Save_State_MakeComplete: 외형, 이름 설정 후
+MID_Save_Year_Timeline: 14--
+MID_Save_Continue_Confirm: 계속해서 진행하겠습니까?
+MID_Save_Save_Confirm: 현재 플레이 상황을 저장합니다. 괜찮겠습니까?\n(마지막 자동 저장 또는 수동 저장 데이터가 덮어씌워집니다)
+MID_Save_Save_Result: 저장했습니다
+MID_Save_Load_Failed: 저장 데이터의 버전이 달라\n불러오기에 실패했습니다\n게임을 종료하고 최신판으로 업데이트해 주십시오
+MID_Record_Title: 전적
+MID_AfterEp_Scout: 스카우트 횟수
+MID_AfterEp_Battle: 개인전
+MID_AfterEp_CmdBtl: 퀵 배틀 MVP
+MID_AfterEp_Count: {Variable=0}회
+MID_AfterEp_BattleCount: {Variable=0}전
+MID_AfterEp_KillCount: {Variable=0}승
+MID_Ending_Fin_LastReliance: 만나고 싶은 이
+MID_Ending_Fin: Fin
+MID_Title_Continue: 이어서 시작
+MID_Title_Continue_Help: 저장 데이터를 불러와 플레이를 재개합니다
+MID_Title_ContinueNewGame: 재강림
+MID_Title_ContinueNewGame_Help: 각 루트의 진행 상황 등을 유지한 채\n게임을 처음부터 시작하여 조정자의 육체를 재구성합니다\n모드 및 난이도를 변경할 수 있습니다
+MID_Title_ContinueNewGame_Confirm: 각 루트의 진행 상황 및\n유닛의 성장 상태 등을 유지한 채\n게임을 처음부터 시작하겠습니까?
+MID_Title_ContinueNewGame_Comment: 시작 직후에는 정해진 성장 상태로 진행되지만\n방첨탑의 방에 도달하면 재강림 전의 성장 상태로 돌아갑니다
+MID_Title_ContinueNewGame_Attention: 진행 상황을 이어받지 않고 게임을 새로 시작하고 싶은 경우에는\n「엑스트라」 메뉴에서 저장 데이터를 삭제해 주십시오
+MID_Title_ContinueNewGame_Condition_Message: 재강림을 하려면 방첨탑의 방에서 저장한 데이터가 필요합니다\n「이어서 시작」을 선택해 플레이를 재개한 후\n방첨탑의 방으로 돌아가 저장해 주십시오
+MID_Title_Extra: 엑스트라
+MID_Title_Extra_Help: 게임 설정 등을 실행합니다
+MID_Title_SettingVoice: 음성 전환
+MID_Title_SettingVoice_Help: 게임 전체의 보이스 언어를 선택할 수 있습니다
+MID_Title_SettingVoice_Jp: 일본어
+MID_Title_SettingVoice_En: 영어
+MID_Title_SettingBug: 특정 적의 외형 변경
+MID_Title_SettingBug_Help: 게임 전반에 걸친 특정한 적의 표시 설정입니다\nON일 경우 곤충과 유사한 일부 적의 외형이 변경됩니다
+MID_Title_SaveDelete: 저장 데이터 삭제
+MID_Title_SaveDelete_Help: 저장 데이터를 완전히 삭제합니다\n(모든 데이터를 이어받지 않고\n게임을 처음부터 새로 시작할 수 있습니다)
+MID_Title_SaveDelete_Confirm: 저장 데이터를 삭제하겠습니까?
+MID_Title_SaveDelete_Attention: 각 루트의 진행 상황 등이 모두 삭제됩니다
+MID_Title_SaveDelete_Reconfirm: 이 조작은 취소할 수 없습니다\n정말로 괜찮겠습니까?
+MID_Title_SaveDelete_Result: 저장 데이터를 삭제했습니다
+MID_Title_Continue_RollBack_Confirm: 데이터를 강제로 되돌린 후 플레이를 재개합니다\n괜찮겠습니까?
+MID_Title_Continue_RollBack_Comment: 장 또는 구분을 더 이상 진행할 수 없는 상태인 경우\n해당 문제가 해결될 수도 있습니다
+MID_Title_Continue_RollBack_Attention: 이 장 또는 구분에서 플레이한 내용은 초기화됩니다
+MID_Difficulty_Message: 난이도를 선택해 주십시오
+MID_Difficulty_Normal: 노멀
+MID_Difficulty_Normal_Help: 초보자·중급자용
+MID_Difficulty_Hard: 하드
+MID_Difficulty_Hard_Help: 상급자용
+MID_Difficulty_Lunatic: 
+MID_Difficulty_Lunatic_Help: 
+MID_Mode_Message: 모드를 선택해 주십시오
+MID_Mode_Casual: 캐주얼
+MID_Mode_Casual_Help: 쓰러진 동료가 전투 종료 후에 복귀하는\n간편한 모드
+MID_Mode_Classic: 클래식
+MID_Mode_Classic_Help: 쓰러진 동료가 돌아오지 않는\n심사숙고 모드
+MID_Mouse_Notice: 마우스 조작
+MID_MouseGuide_Battle: 전투
+MID_MouseGuide_Gmap: 월드 맵
+MID_MouseGuide_Hub: 거점/던전
+MID_MouseGuide_KeyHelp_Hold: 길게 누르기
+MID_MouseGuide_Situation_Manual: 수동 전환 설정 시
+MID_MouseGuide_Situation_Stay: 이동 정지 중
+MID_MouseGuide_Situation_Unit: 유닛 선택 시
+MID_MouseGuide_Situation_Free: 유닛 미선택 시
+MID_MouseGuide_Situation_CmdAuto: 위임 시
+MID_MouseGuide_Situation_OnEmpty: 빈 칸
+MID_MouseGuide_MouseOnOff: 마우스 조작 ON/OFF
+MID_MouseGuide_Access: 조사
+MID_MouseGuide_Decide: 결정
+MID_MouseGuide_Cancel: 취소
+MID_MouseGuide_Skip: 스킵
+MID_MouseGuide_Menu: 메뉴
+MID_MouseGuide_Guide: 모험 수첩
+MID_MouseGuide_Map: 지도
+MID_MouseGuide_Dash: 대시
+MID_MouseGuide_ShowTrase: 궤적 표시
+MID_MouseGuide_Attack: 공격
+MID_MouseGuide_ZoomView: 클로즈업 뷰
+MID_MouseGuide_PersonView: 일인칭 시점
+MID_MouseGuide_CameraZoom: 카메라 줌
+MID_MouseGuide_Camera: 카메라 조작
+MID_MouseGuide_CameraReset: 카메라 리셋
+MID_MouseGuide_Cursor: 커서 이동
+MID_MouseGuide_Move: 이동
+MID_MouseGuide_SelectUnit: 아군 유닛 선택
+MID_MouseGuide_SelectCorps: 부대 선택
+MID_MouseGuide_SelectReset: 커서 리셋
+MID_MouseGuide_MapRotate: 맵 회전
+MID_MouseGuide_ShowUnitDetail: 유닛 상세 표시
+MID_MouseGuide_ShowDangerAll: 전체 위험 범위로 전환
+MID_MouseGuide_ShowDangerUnit: 개별 위험 범위로 전환
+MID_MouseGuide_ChangeWeapon: 무기 변경
+MID_MouseGuide_ChaneUnit: 유닛 변경
+MID_MouseGuide_ChangeArts: 전투 기술 변경
+MID_MouseGuide_ChangeLinkUnit: 연계 상대의 변경
+MID_MouseGuide_ChangeLinkWeapon: 연계 상대의 무기 변경
+MID_MouseGuide_HelpTerrain: 지형 효과 도움말
+MID_MouseGuide_Pin: 목표 핀 ON/OFF
+MID_MouseGuide_OpenShopGuide: 상품 정보
+MID_MouseGuide_GmapDash: 이동 고속화
+MID_MouseGuide_Reset_Message: 이동 각도 보정을 초기화합니다\n괜찮겠습니까?
+MID_MouseCalibration_Message: 움직이기 쉬운 각도로 조작할 수 있도록\n마우스의 이동 각도를 보정합니다
+MID_MouseCalibration_Check: 움직이기 쉬운 각도로 Joy-Con 2 (R)를 잡고\n게이지가 채워질 때까지 반복해서 앞으로 움직여 주십시오
+MID_MouseCalibration_Failure: 정확히 측정할 수 없었습니다\n올바른 예를 참고하여 {ButtonR} 버튼이 앞으로 가도록\nJoy-Con 2 (R)를 잡아 주십시오
+MID_Title_KeyWait: Press Any Button
+MID_Title_Previlefe: ©Nintendo / INTELLIGENT SYSTEMS
+MID_Title_Version: Ver. {Variable=0}
+MID_Memory_NotData_Message: 
+MID_Save_Suspend_Confirm: 
+MID_HeroMenu_UnOpen_Message: 
+MID_HeroMenu_UnOpen_TAL_Message: 
+MID_HeroMenu_UnOpen_BEL_Message: 
+MID_HeroMenu_UnOpen_ANH_Message: 
+MID_HeroMenu_UnOpen_ORH_Message: 

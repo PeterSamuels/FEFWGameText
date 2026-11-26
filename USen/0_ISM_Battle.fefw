@@ -1,0 +1,175 @@
+﻿MID_SC00_00_m01: <TH>
+MID_SC00_00_m01_001: This is an artificially created, virtual space.
+MID_SC00_00_m01_002: I'm using it to simulate the performance of your new\nbody once it's complete.
+MID_SC00_00_m01_003: In truth, you are still asleep. Your body is not yet\nready for you.
+MID_SC00_00_m01_004: But if we train you now, then you'll be ready to fight\nas soon as you wake up in your new form.
+MID_SC00_00_m01_005: I can start the scenario whenever you're ready.
+MID_SC00_00_m01_006: <ICA>"I'm ready."
+MID_SC00_00_m01_007: <ICB>"I don't need training."
+MID_SC00_00_m01_008: <ACA>Alright. Let us begin.
+MID_SC00_00_m01_009: <ACB>Are you sure? We won't force it on you.
+MID_SC00_00_m01_010: <ACB>But a Mediator's body is entirely custom-made.\nIt's very different from a normal human.
+MID_SC00_00_m01_011: <ACB>I think it might be good to spend at least a little time\ngetting used to it.
+MID_SC00_00_m01_012: <ICA>"You're right."
+MID_SC00_00_m01_013: <ICB>"No need."
+MID_SC00_00_m01_016: <ACA>Alright. Let us begin.
+MID_SC00_00_m01_015: <ACA>
+MID_SC00_00_m01_014: <ACB>You know best, I suppose. We'll skip the training\nscenario.
+MID_SC00_00_m03: <TH>
+MID_SC00_00_m03_001: What I have told you will apply to every battle you\nface. Remember it.
+MID_SC00_00_m03_002: Now then, on to the next scenario.
+MID_SC00_00_e01: <TH>
+MID_SC00_00_e01_001: This is you.
+MID_SC00_00_e02: <TH>
+MID_SC00_00_e02_001: And this is your foe. You must defeat them.
+MID_SC00_00_e02_002: First, {SetColor=Gold}move {SetColor=Default}close to your opponent.
+MID_SC00_00_e03: <TH>
+MID_SC00_00_e03_001: <DLG>Move the cursor over {AvatarName} and then\npress {ButtonA}.
+MID_SC00_00_e04: <TH>
+MID_SC00_00_e04_001: <DLG>Next, move the cursor to the space you want to\nmove to and press {ButtonA}.
+MID_SC00_00_e05: <TH>
+MID_SC00_00_e05_001: What is it you think you're doing? {SetColor=Gold}Move {SetColor=Default}close so\nyou can reach your foe.
+MID_SC00_00_e06: <TH>
+MID_SC00_00_e06_001: Alright. Now {SetColor=Gold}move {SetColor=Default}even closer to your foe\nand {SetColor=Gold}attack{SetColor=Default}.
+MID_SC00_00_e07: <TH>
+MID_SC00_00_e07_001: Good. But stay focused. {SetColor=Gold}Your opponent is going to\nact now.{SetColor=Default}
+MID_SC00_00_e08: <TH>
+MID_SC00_00_e08_001: Well done!
+MID_SC00_00_e09: <TH>
+MID_SC00_00_e09_001: <DLG>Enemy reinforcements have arrived.
+MID_SC00_00_e10: <TH>
+MID_SC00_00_e10_001: During battle, {SetColor=Gold}new foes may appear{SetColor=Default}. Keep this in\nmind as you fight.
+MID_SC00_00_e11: <TH>
+MID_SC00_00_e11_001: Were you wounded by your foe? Use this to\n{SetColor=Gold}heal {SetColor=Default}yourself.
+MID_SC00_00_e12: <TH>
+MID_SC00_00_e12_001: For now, I have no more to teach you. Defeat your\nfoe using what you've learned so far.
+MID_SC00_00_e17: <TH>
+MID_SC00_00_e17_001: There are other things I can teach you as well.
+MID_SC00_00_e13: <TH>
+MID_SC00_00_e13_001: <DLG>Would you like to try mouse controls on the battle map?\n(You will see an explanation of the controls afterward.)
+MID_SC00_00_e14: <TH>
+MID_SC00_00_e14_001: <DLG>You can review the details of mouse controls in Tutorials.\nCheck there if you're interested in using mouse controls.
+MID_SC00_00_e15: <TH>
+MID_SC00_00_e15_001: <DLG>You can move the cursor on the battle\nmap by moving the Joy-Con 2 (R).
+MID_SC00_00_e15_002: <DLG>Left click {MouseR}({ButtonR}): Confirm\nRight click {MouseZR}({ButtonZR}): Cancel
+MID_SC00_00_e15_003: <DLG>Now try moving a unit. Place the cursor\nover {AvatarName} and select them.
+MID_SC00_00_e16: <TH>
+MID_SC00_00_e16_001: <DLG>Let's try out movement. Using mouse controls, place the\ncursor over the space you want to move to, then select it.
+MID_SC00_00_e18: <TH>
+MID_SC00_00_e18_001: You're a quick study. Very good. Now, go on and\nsee if you can defeat your foe like this.
+MID_SC00_01_m02: <TH>
+MID_SC00_01_m02_001: On the battlefield, it is important to be aware of your\nsurroundings and their effect on your plans.
+MID_SC00_01_m02_002: Now then, on to the next scenario.
+MID_SC00_01_e01: <TH>
+MID_SC00_01_e01_001: To defeat foes with ease, you must {SetColor=Gold}use the terrain to\nyour advantage{SetColor=Default}.
+MID_SC00_01_e02: <TH>
+MID_SC00_01_e02_001: Stand in one of these spots and you will be {SetColor=Gold}harder to\nhit{SetColor=Default}. Try it yourself.
+MID_SC00_01_e03: <TH>
+MID_SC00_01_e03_001: A fine position. Now {SetColor=Gold}attack {SetColor=Default}your foe.
+MID_SC00_02_m02: <TH>
+MID_SC00_02_m02_001: Refine your skills and explore new classes to expand\nyour tactical options.
+MID_SC00_02_m02_002: Always remember that no single method is suited for\nevery opponent.
+MID_SC00_02_m02_003: This may be a virtual space, but you seem to be\ngetting a genuine feel for your new body.
+MID_SC00_02_m02_004: So let's wrap things up with one final scenario.
+MID_SC00_02_e01: <TH>
+MID_SC00_02_e01_001: Notice your enemy is {SetColor=Gold}beyond a wall{SetColor=Default}.
+MID_SC00_02_e02: <TH>
+MID_SC00_02_e02_001: This time, you've been given a different weapon—\na {SetColor=Gold}bow{SetColor=Default}.
+MID_SC00_02_e02_002: {SetColor=Gold}Bows {SetColor=Default}are used to {SetColor=Gold}attack distant foes{SetColor=Default}. You will use\nyours to {SetColor=Gold}shoot over the wall{SetColor=Default}.
+MID_SC00_02_e03: <TH>
+MID_SC00_02_e03_001: Now, {SetColor=Gold}defeat your foe {SetColor=Default}using that {SetColor=Gold}bow{SetColor=Default}.
+MID_SC00_02_e04: <TH>
+MID_SC00_02_e04_001: No trouble for you at all, I see.
+MID_SC00_02_e05: <TH>
+MID_SC00_02_e05_001: {SetColor=Menu}This is a {SetColor=Gold}flying {SetColor=Menu}foe. Enemies of this type are\n{SetColor=Gold}vulnerable to bows{SetColor=Menu}.{SetColor=Default}
+MID_SC00_02_e05_002: Use your {SetColor=Gold}bow {SetColor=Default}to {SetColor=Gold}defeat {SetColor=Default}the flying foe.
+MID_SC00_03_m02: <TH>
+MID_SC00_03_m02_001: That's enough adjusting to your body for today.
+MID_SC00_03_m02_002: Though it will still take some time before the real\nthing is complete in the physical world.
+MID_SC00_03_m02_003: Rest now while you can. Once you wake up, there's\nmuch work to be done.
+MID_SC00_03_e01: <TH>
+MID_SC00_03_e01_001: Careful. This opponent is strong—far stronger than\nany you've faced so far.
+MID_SC00_03_e01_002: Act without consideration, and you will be punished\nby a counterattack. You must use your {SetColor=Gold}combat arts{SetColor=Default}.
+MID_SC00_03_e02: <TH>
+MID_SC00_03_e02_001: {SetColor=Gold}Defeat{SetColor=Default} your foe using {SetColor=Gold}combat arts{SetColor=Default}.
+MID_SC00_04_m01: <TH>
+MID_SC00_04_m01_001: Whew. I see your new body is working just fine.
+MID_SC00_04_m02_001: I'd be dead if you hadn't arrived. Thank you for that.
+MID_SC00_04_m02_002: You're just the one we were promised.
+MID_SC00_04_m01_002: But there are still a few enemies left to clear out.\nI'll need your help with that.
+MID_SC00_04_m03: <TH>
+MID_SC00_04_m03_001: Good. We've eliminated their forces.
+MID_SC00_04_m03_002: Although...I worry about Master Zenon.
+MID_SC00_04_e02: <TH>
+MID_SC00_04_e02_001: Incredible... Maybe you really do have the power to\nsave us all.
+MID_SC00_04_e05: <TH>
+MID_SC00_04_e05_001: This is a bit like trying to teach a fish to swim, but\nsince you just awakened, I have a couple of pointers.
+MID_SC00_04_e05_002: I'm a {SetColor=Gold}magic {SetColor=Default}user. Magic {SetColor=Gold}has the range to strike{SetColor=Default} even\n{SetColor=Gold}distant enemies{SetColor=Default}.
+MID_SC00_04_e06: <TH>
+MID_SC00_04_e06_001: An effective tactic is for one person to {SetColor=Gold}attack from\na distance {SetColor=Default}and another to {SetColor=Gold}deliver the finishing blow{SetColor=Default}.
+MID_SC00_04_e07: <TH>
+MID_SC00_04_e07_001: Weapons like spears are less effective against\n{SetColor=Gold}armored foes{SetColor=Default}. Leave them to {SetColor=Gold}magic {SetColor=Default}users like me.
+MID_SC00_04_e08: <TH>
+MID_SC00_04_e08_001: Weapons like spears are less effective than {SetColor=Gold}magic{SetColor=Default}\nagainst {SetColor=Gold}armored foes{SetColor=Default}. Leave this one to me.
+MID_SC00_04_e09: <TH>
+MID_SC00_04_e09_001: It's dangerous to plunge headlong into the fray.\nAt least check {SetColor=Gold}the range of the nearest enemies{SetColor=Default}.
+MID_SC00_04_e10: <TH>
+MID_SC00_04_e10_001: Ngh... There's too many of them.
+MID_SC00_04_e10_002: We'll need you to dig deep, Promised One.
+MID_SC00_04_e11: <TH>
+MID_SC00_04_e11_001: <DLG>Try using {AvatarName}'s Blaze Art,\nPurifying Flash{SetColor=Menu}.{SetColor=Default}
+MID_SC00_04_e12: <TH>
+MID_SC00_04_e12_001: I knew there was nothing to worry about with you\non our side. Together, we'll rid this land of them!
+MID_SC00_05_m01: <TH>
+MID_SC00_05_m01_001: Can you hear them? The voices of the dead?
+MID_SC00_05_m01_002: That's the sound of the forest of corpses rustling.\nThey ache for you to join them.
+MID_SC00_05_m01_003: Come forth, my dead legion...the warriors of Balor...
+MID_SC00_05_m08: <TH>
+MID_SC00_05_m01_004: Uhhh...
+MID_SC00_05_m09: <TH>
+MID_SC00_05_m01_005: Rrrgh...
+MID_SC00_05_m10: <TH>
+MID_SC00_05_m01_006: Ohhh...
+MID_SC00_05_m11: <TH>
+MID_SC00_05_m01_007: Hrrrgh...
+MID_SC00_05_m12: <TH>
+MID_SC00_05_m01_008: This is terrible... Even they're under the\nenemy's sway?
+MID_SC00_05_m01_009: Damn it! Lind is one thing, but I don't know if we\ncan win against the likes of these.
+MID_SC00_05_m01_010: I remember them from the Heroic Games five years\nago. Strong competitors, as I recall.
+MID_SC00_05_m01_011: Watch yourself! These are not your average\nundead soldiers!
+MID_SC00_05_m02: <TH>
+MID_SC00_05_m02_001: How did this happen... I just...wanted a happy life...
+MID_SC00_05_m03: <TH>
+MID_SC00_05_m03_001: Do you...indulge in pleasure?
+MID_SC00_05_m04: <TH>
+MID_SC00_05_m04_001: The howls of my ancestors... The grief of Yu Phas...\nFor them...I will destroy everything!
+MID_SC00_05_m05: <TH>
+MID_SC00_05_m05_001: I can't rest...until I cut open that man's chest...\nand rip out his heart...
+MID_SC00_05_m06: <TH>
+MID_SC00_05_m06_001: So... I wasn't imagining it. I did sense something\noff about you...
+MID_SC00_05_m06_002: So familiar, yet I can't put my finger on it... But that's\nalright. It won't matter once you're dead.
+MID_SC00_05_m07: <TH>
+MID_SC00_05_m07_001: The living are a wretched lot. Let me release you\nfrom your suffering...
+MID_SC00_05_e01: <TH>
+MID_SC00_05_e01_001: Ouch... He's serious about taking us out.
+MID_SC00_05_e01_002: You got a vulnerary? If not, I know some {SetColor=Gold}recovery\nmagic{SetColor=Default} I can use on you.
+MID_SC00_05_e02: <TH>
+MID_SC00_05_e02_001: That boy is Hell's-Eye Cai. His specialty is putting\nhis mount's {SetColor=Gold}high mobility{SetColor=Default} to use in battle.
+MID_SC00_05_e02_002: That's on top of the power you just saw him unleash.\nBe very careful around him.
+MID_SC00_05_e03: <TH>
+MID_SC00_05_e03_001: If he thinks he can ride in and take us all on, he's\nsorely mistaken. Focus everything on him!
+MID_SC00_05_e04: <TH>
+MID_SC00_05_e04_001: Ugh... I see Lind's not going to make it easy for us to\nget to him.
+MID_SC00_05_e05: <TH>
+MID_SC00_05_e05_001: There's {SetColor=Gold}magic {SetColor=Default}in these {SetColor=Gold}tiles{SetColor=Default}. It might help to spend\na moment {SetColor=Gold}recovering{SetColor=Default} here before we advance.
+MID_SC00_05_e06: <TH>
+MID_SC00_05_e06_001: He closed even more distance after moving?!
+MID_SC00_05_e06_002: That's Dietrich, the Ravishing Shadow. His cloak\ngives him the power to {SetColor=Gold}teleport{SetColor=Default}.
+MID_SC00_05_e06_003: It makes him a fearsome predator. Keep your\ndistance and try to catch him after he moves.
+MID_SC00_05_e07: <TH>
+MID_SC00_05_e07_001: Leda, Siren of the Six-String... Her playing can{SetColor=Gold}\nmesmerize her audience{SetColor=Default}.
+MID_SC00_05_e08: <TH>
+MID_SC00_05_e08_001: Watch yourself! That's Theodora, the Breaker of\nArmies—her {SetColor=Gold}sheer power is immense{SetColor=Default}!
+MID_SC00_05_e08_002: And she backs it up with a strong defense too.\nMagic will be our best counter here.
+MID_SC00_05_e09: <TH>
+MID_SC00_05_e09_001: We're up against some very powerful foes. It's crucial\nthat we {SetColor=Gold}support one another as we fight{SetColor=Default}.

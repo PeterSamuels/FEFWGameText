@@ -1,0 +1,644 @@
+﻿MID_LGV_1KAI_c01_LG11_001_m01: <TH>
+MID_LGV_1KAI_c01_LG11_001_m01_001: 그건 그렇고\n참 이상한 일이 많은 하루였어……
+MID_LGV_1KAI_c01_LG11_001_m01_002: 슬슬 해가 질 것 같으니까\n나도 그만 {SetColor=Gold}집으로 돌아갈까{SetColor=Default}.
+MID_LGV_1KAI_c01_LG11_001_m02: <TH>
+MID_LGV_1KAI_c01_LG11_001_m02_001: 멋대로 마을 밖으로 나가면\n어른들한테 혼날 거야.
+MID_LGV_1KAI_c02_Cas_Closed_m01: <TH>
+MID_LGV_1KAI_c02_Cas_Closed_m01_001: 이 녀석아, 어디 가냐.\n그쪽이 아니라고.
+MID_LGV_1KAI_c02_GM11_001_m01: <TH>
+MID_LGV_1KAI_c02_GM11_001_m01_001: 일단은 승합 마차를 타러\n길을 따라 카르멘타 가도까지 가자.
+MID_LGV_1KAI_c02_GM11_001_m02: <TH>
+MID_LGV_1KAI_c02_GM11_001_m02_001: 잠깐, 카이. 저쪽에……\n엄청 인상이 사나운 사람들이 길을 막고 있어!
+MID_LGV_1KAI_c02_GM11_001_m02_002: 보석을 훔치려 했던 그 사람들이야!\n숨어서 우리를 기다렸나 봐!
+MID_LGV_1KAI_c02_GM11_001_m02_003: 어떡하지, 아버지?
+MID_LGV_1KAI_c02_GM11_001_m02_004: 그런 거라면 나한테 맡겨라.\n한번 이야기를 나눠 보도록 하지.
+MID_LGV_1KAI_c02_GM11_001_m02_005: 이럴 때 카스톨씨가 있어서 든든한걸!
+MID_LGV_1KAI_c02_GM11_001_m02_006: ……어라? 그런데 아저씨가\n엄청 허둥대며 돌아오고 있는데?
+MID_LGV_1KAI_c02_GM11_001_m02_007: 다들 빨리 무기를 쥐어라!\n전투다!
+MID_LGV_1KAI_c02_GM11_001_m02_008: 에엑~!?
+MID_LGV_1KAI_c02_DN11_001_m01: <TH>
+MID_LGV_1KAI_c02_DN11_001_m01_001: 녀석들은 요새 옛터로 도망쳤나.\n갈 길이 바쁘니 못 본 척하고 싶지만……
+MID_LGV_1KAI_c02_DN11_001_m01_002: 쓸데없는 원한을 남기면 귀찮으니\n인사를 하러 가는 편이 좋겠군.
+MID_LGV_1KAI_c02_DN11_001_m01_003: <ICA>도적들을 쫓는다
+MID_LGV_1KAI_c02_DN11_001_m01_004: <ICB>다그시온으로 향한다
+MID_LGV_1KAI_c02_DN11_001_m01_005: <ACA>쫓아가자! 마을 바로 근처에 저런 녀석들이 있으면\n우리가 없는 동안 마을이 위험에 빠질 거야.
+MID_LGV_1KAI_c02_DN11_001_m01_006: <ACA>그럼 결정됐군.\n이대로 요새 옛터로 쳐들어가자.
+MID_LGV_1KAI_c02_DN11_001_m01_007: <ACB>내버려두자. 저 정도로 혼쭐이 났으면\n한동안은 나쁜 짓을 못 할 거야.
+MID_LGV_1KAI_c02_DN11_001_m01_008: <ACB>좋아, 결정됐군.\n그럼 잠깐 쉬었다가 출발하자.
+MID_LGV_1KAI_c02_DN11_001_m02: <TH>
+MID_LGV_1KAI_c02_DN11_001_m02_001: 있지, 여기 왠지……\n많은 사람들이 살았던 것 같지 않아?
+MID_LGV_1KAI_c02_DN11_001_m02_002: ……마을 근처에 산적의 아지트가 있으면\n마음 편하게 잘 수 없을 거야.
+MID_LGV_1KAI_c02_DN11_001_m02_003: 확실히 이대로 둘 수는 없어.\n아무튼 {SetColor=Gold}주변을 조사해{SetColor=Default} 보자.
+MID_LGV_1KAI_TG11_001_m01: <TH>
+MID_LGV_1KAI_TG11_001_m01_001: 어, 어라……?\n내 눈이 왜 이러지……?
+MID_LGV_1KAI_TG11_001_m01_002: 벽 너머의 적이 보여.\n설마 이 보석 때문……인가?
+MID_LGV_1KAI_TG11_001_m02: <TH>
+MID_LGV_1KAI_TG11_001_m02_001: 익숙해질 때까지 시간은 걸리겠지만\n이로써 좀 더 유리하게 움직일 수 있겠어.
+MID_LGV_1KAI_GM11_001_m03: <TH>
+MID_LGV_1KAI_GM11_001_m03_001: 어라? 마차가 갑자기 멈췄는데 무슨 일이지?
+MID_LGV_1KAI_GM11_001_m03_002: 이상하네……\n이 주변에는 역이 없을 텐데……
+MID_LGV_1KAI_GM11_001_m03_003: ……뭘까, 밖이 조금 소란스러운 것 같아.
+MID_LGV_1KAI_GM11_001_m03_004: 다들 빨리 내려라!\n도적들이 습격했다!
+MID_LGV_1KAI_GM11_001_m03_005: 에엑!?\n전에도 비슷한 일이 있지 않았나?
+MID_LGV_1KAI_c02_LG11_002_m01: <TH>
+MID_LGV_1KAI_c02_LG11_002_m01_001: 여긴 처음일 테니\n거리 구경이라도 하고 오는 게 어떠냐.
+MID_LGV_1KAI_c02_LG11_002_m01_002: 자, 군자금이다.\n낭비는 하지 말거라.
+MID_LGV_1KAI_LG11_002_m03: <TH>
+MID_LGV_1KAI_LG11_002_m03_001: 숙소는 잡았으니\n적당히 시간을 보내다가 돌아와라.
+MID_LGV_1KAI_LG11_002_m03_002: 아 참, 그러고 보니 거기 있는 {SetColor=Gold}안내판{SetColor=Default}에\n좀 신경 쓰이는 내용이 적혀 있던데.
+MID_LGV_1KAI_LG11_002_m03_003: {SetColor=Gold}도구상{SetColor=Default}이나 {SetColor=Gold}무기상{SetColor=Default}에 가면\n뭔가를 받을 수 있다는 것 같더군.
+MID_LGV_1KAI_LG11_002_m03_004: 그럼 나는 볼일이 있어서 어디 좀 다녀올 테니\n한 바퀴 둘러본 다음에 숙소로 돌아와라.
+MID_LGV_1KAI_TG11_101_m01: <TH>
+MID_LGV_1KAI_TG11_101_m01_001: 어라? 카스톨 아저씨,\n어디로 가신 걸까.
+MID_LGV_1KAI_TG11_101_m01_002: 시가지 안쪽으로\n걸어가는 건 봤는데……
+MID_LGV_1KAI_TG11_101_m01_003: 그나저나 카이,\n같이 다그시온을 둘러보지 않을래?
+MID_LGV_1KAI_TG11_101_m01_004: 번화한 곳이라는 건 알고 있었지만\n상상 이상으로 굉장한 도시야!
+MID_LGV_1KAI_TG11_101_m01_005: 이 광경이 현실이라니 말도 안 돼. 사람이 너무\n많아서 서 있는 것만으로도 멀미가 날 것 같아……
+MID_LGV_1KAI_TG11_101_m01_006: 으음…… 왠지 나는\n도시에서 살기 힘들 것 같네……
+MID_LGV_1KAI_TG11_101_m01_007: 그래도 뭐, 이왕 온 거니까\n나도 카이를 따라갈래.
+MID_LGV_1KAI_TG11_101_m01_008: 좋아, 그럼 일단\n안내판부터 봐 볼까.
+MID_LGV_1KAI_TG11_101_m02: <TH>
+MID_LGV_1KAI_TG11_101_m02_001: 도구상도 무기상도 훌륭해.\n역시 도시의 가게야!
+MID_LGV_1KAI_TG11_101_m02_002: 으음, 다그시온은 어디든 돌이 깔려 있고\n계단이 너무 많아서 다리가 아픈 것 같아……
+MID_LGV_1KAI_TG11_101_m03: <TH>
+MID_LGV_1KAI_TG11_101_m03_001: 후우…… 많이 걸었더니 피곤하네.\n나 먼저 돌아가도 되지?
+MID_LGV_1KAI_TG11_101_m03_002: 우리가 묵을 {SetColor=Gold}여관{SetColor=Default}은 저기인 것 같아.\n쉬면서 기다리고 있을게.
+MID_LGV_1KAI_TG11_101_m03_003: 그럼 우리는\n좀 더 {SetColor=Gold}거리를 돌아보다{SetColor=Default} 가자.
+MID_LGV_1KAI_TG11_101_m04: <TH>
+MID_LGV_1KAI_TG11_101_m04_001: 다그시온은 충분히 둘러봤어?\n그럼 밥 먹자. 배고파!
+MID_LGV_1KAI_TG11_101_m04_002: <ICA>그래
+MID_LGV_1KAI_TG11_101_m04_003: <ICB>좀 더 둘러볼래
+MID_LGV_1KAI_TG11_101_m04_004: <ACB>더 둘러볼 거야?\n음, 역시 카이는 기운이 넘치네.
+MID_LGA_1KAI_TG11_101_m04: <BLN>이제 다 둘러봤어?
+MID_LGV_1KAI_TG11_101_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_101_Closed_m01_001: 저기, 이쪽으로 가기 전에\n안내판을 확인해 보는 게 어때?
+MID_LGV_1KAI_c02_LG11_002_m02: <TH>
+MID_LGV_1KAI_c02_LG11_002_m02_001: 저건 틀림없이\n아버지랑 그때 그 아저씨야.
+MID_LGV_1KAI_c02_LG11_002_m02_002: 멀어서 잘 들리지는 않았지만\n왠지…… 분위기가 심각했어.
+MID_LGV_1KAI_c02_LG11_003_m01: <TH>
+MID_LGV_1KAI_c02_LG11_003_m01_001: 자~ 배도 찼겠다\n슬슬 나가 볼까.
+MID_LGV_1KAI_c02_LG11_003_m01_002: 나가다니…… 어디로 말인가요?\n곧 해가 질 텐데.
+MID_LGV_1KAI_c02_LG11_003_m01_003: 일단은 {SetColor=Gold}하수도{SetColor=Default}로 갈 거야.\n노점 거리의 {SetColor=Gold}도구상 근처{SetColor=Default}에 {SetColor=Gold}입구{SetColor=Default}가 있다.
+MID_LGV_1KAI_c02_LG11_003_m01_004: 자, 잠깐 기다려.\n정말이지, 아버지는 항상 멋대로라니까.
+MID_LGV_1KAI_c02_LG11_003_m06: <TH>
+MID_LGV_1KAI_c02_LG11_003_m06_001: 입구에 도착하기는 했는데……\n안 열려 있잖아.
+MID_LGV_1KAI_c02_LG11_003_m06_002: 걱정할 필요 없어.\n내가 열쇠를 가지고 있거든.
+MID_LGV_1KAI_c02_LG11_003_m06_003: 어어어…… 아버지?\n왜 그런 걸 가지고 있는 거야?
+MID_LGV_1KAI_c02_LG11_003_m06_004: 사소한 건 신경 쓰지 마.\n이건 너한테 줄 테니까 후딱 들어가라.
+MID_LGV_1KAI_c02_LG11_003_m02: <TH>
+MID_LGV_1KAI_c02_LG11_003_m02_001: 아~ 저쪽이 지름길이었는데\n아쉽게도 막혀 버렸군.
+MID_LGV_1KAI_c02_LG11_003_m02_002: 어쩔 수 없지. 조금 돌아서 가게 되지만\n일단은 이대로 나아가자.
+MID_LGV_1KAI_c02_LG11_003_m03: <TH>
+MID_LGV_1KAI_c02_LG11_003_m03_001: 저 문, 여기서라면 열 수 있지 않을까?
+MID_LGV_1KAI_c02_LG11_003_m03_002: 상관은 없는데 {SetColor=Gold}목적지{SetColor=Default}는 {SetColor=Gold}우측 통로 안쪽{SetColor=Default}이다.\n싸다니다 길이나 잃지 마라.
+MID_LGV_1KAI_c02_LG11_003_m04: <TH>
+MID_LGV_1KAI_c02_LG11_003_m04_001: 어라? 엄청 깨끗한 곳으로 나왔는데\n여기는……?
+MID_LGV_1KAI_c02_LG11_003_m04_002: 신전의 실내 정원이다. 오랜만이군.\n그날 나는 여기서 네 어머니와 만났지.
+MID_LGV_1KAI_c02_LG11_003_m04_003: 하지만 목적지는 여기가 아냐.\n지하도로 돌아간 다음 좀 더 안쪽이다.
+MID_LGV_1KAI_c02_LG11_003_m05: <TH>
+MID_LGV_1KAI_c02_LG11_003_m05_001: 저 {SetColor=Gold}통로로 갈{SetColor=Default} 거다.\n어두우니까 발밑 조심해라.
+MID_LGV_1KAI_c03_LG11_004_m01: <TH>
+MID_LGV_1KAI_c03_LG11_004_m01_001: {SetColor=Gold}살라미스 왕의 행렬{SetColor=Default}이라니 멋지겠다!\n어디로 가면 볼 수 있을까.
+MID_LGV_1KAI_c03_LG11_004_m01_002: 무지무지 호화롭다고 했으니……\n분명 엄청 눈에 띌 테니까 금방 찾을 수 있을걸?
+MID_LGV_1KAI_c03_LG11_004_m01_003: 그렇겠네. 그럼 주변을 돌아다니면서\n{SetColor=Gold}행렬을 찾아{SetColor=Default} 보자.
+MID_LGV_1KAI_c03_LG11_005_m01: <TH>
+MID_LGV_1KAI_c03_LG11_005_m01_001: 그런데 어떻게 하면\n대검투제에 참가할 수 있을까?
+MID_LGV_1KAI_c03_LG11_005_m01_002: ……이름만 들어서는\n투기장에서 진행되는 축제 같은데.
+MID_LGV_1KAI_c03_LG11_005_m01_003: 아! 그러면……
+MID_LGV_1KAI_LG11_005_m02: <TH>
+MID_LGV_1KAI_LG11_005_m02_001: 저 투기장 앞에 있는 {SetColor=Gold}언니{SetColor=Default}한테\n참가 접수를 받고 있는지 {SetColor=Gold}물어보자{SetColor=Default}!
+MID_LGV_1KAI_TG11_002_m01: <TH>
+MID_LGV_1KAI_TG11_002_m01_001: 나, 생각해 봤는데…… 이왕이면\n엄청 강한 사람한테 도움받는 게 좋잖아.
+MID_LGV_1KAI_TG11_002_m01_002: 그럼 센트리온씨한테\n동료가 되어 달라고 하면 되지 않을까?
+MID_LGV_1KAI_TG11_002_m01_003: ……그 사람은 신전의 발칸이라서\n그건 무리일 거야.
+MID_LGV_1KAI_TG11_002_m01_004: 하, 하지만 우리 같은 어린애들의 이야기를\n다른 어른들이 제대로 들어 주려나.
+MID_LGV_1KAI_TG11_002_m01_005: 그럼 거액의 현상금이 걸린 악당을 퇴치한다든가 해서\n{SetColor=Gold}명성을 높여{SetColor=Default} 보는 건 어떨까.
+MID_LGV_1KAI_TG11_002_m02: <TH>
+MID_LGV_1KAI_TG11_002_m02_001: 에엑!?\n아냐, 더 안전해 보이는 것부터 시작하자.
+MID_LGV_1KAI_TG11_002_m02_002: ……그렇다면 거리에서 {SetColor=Gold}도움이 필요한 사람을\n찾아 도와주는{SetColor=Default} 건 어떨까.
+MID_LGV_1KAI_TG11_002_m02_003: 나쁘지 않은 생각 같긴 한데\n그렇게 때마침 도움이 필요한 사람이 있으려나?
+MID_LGV_1KAI_TG11_002_m02_004: ……?\n저기, 잠깐만.
+MID_LGV_1KAI_TG11_002_m02_005: 울고 있는 아이가 있어. 무슨 일일까?\n가서 말 걸어 보자.
+MID_LGV_1KAI_TG11_002_m03: <TH>
+MID_LGV_1KAI_TG11_002_m03_001: ……저 아이가 도움이 필요한 건 알겠는데\n우리가 나서도 될까……?
+MID_LGV_1KAI_TG11_002_m03_002: 아까 그 아이, 산적이 서성거리고 있어서\n가까이 갈 수 없다고 했지?
+MID_LGV_1KAI_TG11_002_m03_003: 그런 곳에서 머리 장식을 가지고 돌아오면\n분명 유명해질 거야!
+MID_LGV_1KAI_TG11_002_m03_004: 그렇겠네.\n머리 장식을 떨어뜨렸다는 곳을 찾아 보자.
+MID_LGV_1KAI_TG11_002_m03_005: 그럼 일단 다그시온 밖으로\n나가야겠네……
+MID_LGV_1KAI_TG11_002_m04: <TH>
+MID_LGV_1KAI_TG11_002_m04_001: {SetColor=Gold}저 문을 통해 나갈 수 있나{SetColor=Default} 봐.\n바로 가 보자!
+MID_LGV_1KAI_TG11_002_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_002_Closed_m01_001: 카이!\n도시의 출구는 그쪽이 아니야!
+MID_LGV_1KAI_TG11_002_GM_m01: <TH>
+MID_LGV_1KAI_TG11_002_GM_m01_001: 저기…… 니글리아 광산으로 가는 길을\n가로막고 있는 사람들이 있는 것 같은데……?
+MID_LGV_1KAI_TG11_002_GM_m01_002: 저곳을 지나가야 한다면……\n힘으로 뚫고 가겠어!
+MID_LGV_1KAI_TG11_002_GM_m01_003: 해 보자, 카이!\n나도 전력으로 도울게!
+MID_LGV_1KAI_TG11_002_GM_m02: <TH>
+MID_LGV_1KAI_TG11_002_GM_m02_001: 후우, 어떻게든 쓰러뜨렸네.
+MID_LGV_1KAI_TG11_002_GM_m02_002: 그럼 서둘러\n니글리아 광산으로 가자.
+MID_LGV_1KAI_TG11_002_DN_m01: <TH>
+MID_LGV_1KAI_TG11_002_DN_m01_001: 으아…… 여기, 어둡고 좁아서……\n엄청 무섭네……
+MID_LGV_1KAI_TG11_002_DN_m01_002: 피터르, 정신 차려!\n자, {SetColor=Gold}머리 장식{SetColor=Default}을 {SetColor=Gold}찾아 보자{SetColor=Default}!
+MID_LGV_1KAI_TG11_002_DN_m02: <TH>
+MID_LGV_1KAI_TG11_002_DN_m02_001: 그러고 보니 출구에서 {SetColor=Gold}머리 장식{SetColor=Default}을\n떨어뜨렸다고 했는데……
+MID_LGV_1KAI_TG11_002_DN_m02_002: ……안쪽에서 바람이 불어오는 걸 보니\n이 앞에 {SetColor=Gold}다른 출구{SetColor=Default}가 있는 것 같아.
+MID_LGV_1KAI_TG11_002_DN_m02_003: 그러게……\n더 안쪽으로 들어가 보자.
+MID_LGV_1KAI_TG11_002_DN_m03: <TH>
+MID_LGV_1KAI_TG11_002_DN_m03_001: 좋아!\n무사히 분실물을 찾았네!
+MID_LGV_1KAI_TG11_002_DN_m03_002: 저기, 이왕 왔으니 들어왔던 곳 말고\n{SetColor=Gold}이쪽 출구{SetColor=Default}를 통해 나가 보는 건 어때?
+MID_LGV_1KAI_TG11_002_DN_m03_003: 그거 괜찮네!\n왠지 모험 같은걸.
+MID_LGV_1KAI_TG11_002_DN_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_002_DN_Closed_m01_001: 카이! 그쪽이 아니야.
+MID_LGV_1KAI_TG11_002_GM_m03: <TH>
+MID_LGV_1KAI_TG11_002_GM_m03_001: 아하……\n이쪽으로 나올 수도 있구나!
+MID_LGV_1KAI_TG11_002_GM_m03_002: 세계가 넓어진 것 같은 기분이야.\n이런 거, 나쁘지 않은걸……
+MID_LGV_1KAI_TG11_002_GM_m04: <TH>
+MID_LGV_1KAI_TG11_002_GM_m04_001: 저길 봐! 돌아가는 길을\n또 누군가가 막고 있어!
+MID_LGV_1KAI_TG11_002_GM_m04_002: 한 번 더\n싸워야 하는 건가……
+MID_LGV_1KAI_TG11_002_GM_m05: <TH>
+MID_LGV_1KAI_TG11_002_GM_m05_001: 괜찮아!\n남쪽으로 돌아가면 마주치지 않을 거야.
+MID_LGV_1KAI_TG11_002_GM_m05_002: 정말이네……\n다른 출구로 나오길 잘했어!
+MID_LGV_1KAI_TG11_002_GM_m05_003: 좋아. 그럼 여자아이에게\n분실물을 돌려주러 가자!
+MID_LGV_1KAI_TG11_002_m05: <TH>
+MID_LGV_1KAI_TG11_002_m05_001: 고맙다는 말도 듣고 {SetColor=Gold}명성도 높아지다{SetColor=Default}니!\n{SetColor=Gold}남을 돕는다{SetColor=Default}는 건 기분 좋은 일이네!
+MID_LGV_1KAI_TG11_002_m05_002: 그 밖에도 {SetColor=Gold}도움이 필요한 사람들{SetColor=Default}이 있을지도 몰라.\n그런 사람들을 발견하면 {SetColor=Gold}말을 걸어{SetColor=Default} 보자!
+MID_LGV_1KAI_TG11_103_m01: <TH>
+MID_LGV_1KAI_TG11_103_m01_001: 이번 일로 우리도\n조금은 유명해지지 않았을까……?
+MID_LGV_1KAI_TG11_103_m01_002: 응. 지금이라면 동료가 되어 달라는\n부탁을 들어줄 사람이 있을지도 모르겠네.
+MID_LGV_1KAI_TG11_103_m01_003: 그러게…… 그럼……!
+MID_LGV_1KAI_TG11_103_m01_004: 저 {SetColor=Gold}용병처럼 보이는 사람{SetColor=Default}을\n바로 {SetColor=Gold}스카우트{SetColor=Default}해 보는 게 어때?
+MID_LGV_1KAI_TG11_103_m01_005: 하지만 갑자기 그런 말을 꺼내는 건 실례니까……\n{SetColor=Gold}이걸 주면서{SetColor=Default} 부탁해 보자!
+MID_LGV_1KAI_TG11_103_m02: <TH>
+MID_LGV_1KAI_TG11_103_m02_001: 야호! 이로써 대검투제 우승에\n한 발짝 더 가까워졌네.
+MID_LGV_1KAI_TG11_103_m02_002: 불안한 마음뿐이었는데\n동료가 늘어난 덕분에 안심됐어.
+MID_LGV_1KAI_TG11_103_m02_003: 좋아, 이 기세로\n함께 싸워 줄 {SetColor=Gold}동료를{SetColor=Default} 계속 {SetColor=Gold}늘려{SetColor=Default} 나가자!
+MID_LGV_1KAI_TG11_103_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_103_Closed_m01_001: 그쪽에는 없을 것 같아.
+MID_LGV_1KAI_TG11_104_m01: <TH>
+MID_LGV_1KAI_TG11_104_m01_001: 어라? 뭐지, 저 하얀 새는……
+MID_LGV_1KAI_TG11_105_m01: <TH>
+MID_LGV_1KAI_TG11_105_m01_001: 이건……\n혹시 {SetColor=Gold}다음 전투{SetColor=Default}에 대한 {SetColor=Gold}조언{SetColor=Default}인가?
+MID_LGV_1KAI_TG11_105_m02: <TH>
+MID_LGV_1KAI_TG11_105_m02_001: 도움이 될 만한 정보를 정리해 뒀어.\n무엇을 해야 할지 모르겠다면 {SetColor=Gold}모험 수첩{SetColor=Default}을 참고해.
+MID_LGV_1KAI_c04_LG11_007_m01: <TH>
+MID_LGV_1KAI_c04_LG11_007_m01_001: 그런데……\n투기장에 지하 감옥 입구가 있었던가?
+MID_LGV_1KAI_c04_LG11_007_m01_002: 분명 사람 눈에 띄지 않는 곳에 있을 거야.
+MID_LGV_1KAI_c04_LG11_007_m01_003: 지하 감옥이라고 부를 정도니까……\n당연히 지하에 있겠지?
+MID_LGV_1KAI_c04_LG11_007_m01_004: 다그시온의 지하라면\n{SetColor=Gold}그쪽{SetColor=Default}과 이어져 있으려나……?
+MID_LGV_1KAI_c04_LG11_007_m02: <TH>
+MID_LGV_1KAI_c04_LG11_007_m02_001: 예상대로야. 저 통로……\n{SetColor=Gold}투기장 지하{SetColor=Default}로 이어져 있는 것 같아.
+MID_LGV_1KAI_c04_LG11_010_m03: <TH>
+MID_LGV_1KAI_c04_LG11_010_m03_001: 어라? 떠들썩한 곳으로 나왔는데\n여긴 어디지……?
+MID_LGV_1KAI_c04_LG11_010_m03_002: 아마도 지하에 있는……\n검투사들을 위한 훈련장이 아닐까.
+MID_LGV_1KAI_c04_LG11_008_m01: <TH>
+MID_LGV_1KAI_c04_LG11_008_m01_001: 여기보다 {SetColor=Gold}더 안쪽 감옥{SetColor=Default}……이랬지.
+MID_LGV_1KAI_TG11_106_m01: <TH>
+MID_LGV_1KAI_TG11_106_m01_001: 대검투제에서 승리하려면\n더 제대로 된 장비를 갖추는 게 좋겠지.
+MID_LGV_1KAI_TG11_106_m01_002: 무기상에서 파는 것도 나쁘지 않지만\n그보다 더 강한 무기를 구할 수 있으면 좋을 텐데……
+MID_LGV_1KAI_TG11_106_m02: <TH>
+MID_LGV_1KAI_TG11_106_m02_001: 실례합니다. 그렇다면 세계 굴지의 상회,\n{SetColor=Gold}반달 상회{SetColor=Default}를 이용해 보는 건 어떠십니까?
+MID_LGV_1KAI_TG11_106_m02_002: 상회에선 {SetColor=Gold}소재{SetColor=Default}를 다양한 물건과 {SetColor=Gold}교환{SetColor=Default}할 수 있습니다.\n이를 통해 강력한 장비를 손에 넣는 것도 가능하죠.
+MID_LGV_1KAI_TG11_106_m02_003: 상회 지부는 {SetColor=Gold}하층{SetColor=Default}의 {SetColor=Gold}항구 근처{SetColor=Default}에 있습니다.\n꼭 한번 방문해 보십시오.
+MID_LGV_1KAI_TG11_106_m02_004: 반달 상회…… 들어 본 적 있어!\n나, 먼저 가서 보고 올게!
+MID_LGV_1KAI_TG11_106_m03: <TH>
+MID_LGV_1KAI_TG11_106_m03_001: 으음…… 저 {SetColor=Gold}문 너머{SetColor=Default}에 있는 {SetColor=Gold}계단을 통해{SetColor=Default}\n{SetColor=Gold}하층{SetColor=Default}으로 {SetColor=Gold}내려갈 수{SetColor=Default} 있던가.
+MID_LGV_1KAI_TG11_106_m04: <TH>
+MID_LGV_1KAI_TG11_106_m04_001: 아, 카이!\n여기야, 여기!
+MID_LGV_1KAI_TG11_106_m04_002: 굉장해! 노점 거리의 가게에는 없는 물건도\n취급하고 있어. 카이도 봐 봐!
+MID_LGV_1KAI_TG11_106_Pet_m01: <TH>
+MID_LGV_1KAI_TG11_106_Pet_m01_001: 그 소재를 이 무기랑 교환할 수 있는 거구나……\n소재를 더 모아야겠네!
+MID_LGA_1KAI_TG11_106_Pet_m01: <BLN>이걸 그거랑……
+MID_LGV_1KAI_TG11_106_Tia_m01: <TH>
+MID_LGV_1KAI_TG11_106_Tia_m01_001: 으음, 어떤 걸로 교환할까?\n좋은 물건들이 많아서 고민되네……
+MID_LGA_1KAI_TG11_106_Tia_m01: <BLN>필요한 소재는……
+MID_LGV_1KAI_TG11_106_m05: <TH>
+MID_LGV_1KAI_TG11_106_m05_001: 어때?\n마음에 드는 상품은 있어?
+MID_LGV_1KAI_TG11_106_m05_002: 있긴 있는데 소재가 많이 필요해.\n어떻게 모아야 할까……?
+MID_LGV_1KAI_TG11_106_m05_003: 그럼 {SetColor=Gold}탐색{SetColor=Default}을 하러 가는 건 어때?\n밖으로 나가서 소재를 얻을 수 있는 곳을 찾아 보자.
+MID_LGV_1KAI_TG11_107_GM_m01: <TH>
+MID_LGV_1KAI_TG11_107_GM_m01_001: 어딜 가야 소재를 찾을 수 있을까……\n아, 저기 있는 {SetColor=Gold}네이피어 숲{SetColor=Default}이 괜찮아 보이는데?
+MID_LGV_1KAI_TG11_107_GM_m02: <TH>
+MID_LGV_1KAI_TG11_107_GM_m02_001: 좋아. 그럼 이곳을\n{SetColor=Gold}탐색{SetColor=Default}해 보자!
+MID_LGV_1KAI_TG11_107_GM_m03: <TH>
+MID_LGV_1KAI_TG11_107_GM_m03_001: 아싸! 근데 아직 더 많이 필요하네……\n나중에 여기저기 {SetColor=Gold}탐색{SetColor=Default}해 보자!
+MID_LGV_1KAI_TG11_107_GM_m03_002: 응. {SetColor=Gold}소재를 모아서{SetColor=Default} 예선 시합 전까지는\n{SetColor=Gold}좋은 장비로 교환{SetColor=Default}할 수 있도록 노력하자!
+MID_LGV_1KAI_TG11_003_m01: <TH>
+MID_LGV_1KAI_TG11_003_m01_001: 도련님, 대검투제 출전을 축하드립니다.\n개인적으로는 조금 복잡한 심경입니다만……
+MID_LGV_1KAI_TG11_003_m01_002: 아, 센트리온씨.\n나, 꼭 우승할 거야!
+MID_LGV_1KAI_TG11_003_m01_003: 하하하…… 믿음직스럽군요. 하지만 대검투제에서는\n예상치 못한 강적들이 등장하겠지요.
+MID_LGV_1KAI_TG11_003_m01_004: 그래서 이 강옥의 센트리온이 조금이나마\n도련님께 도움을 드리고자 합니다.
+MID_LGV_1KAI_TG11_003_m01_005: 강습을 비롯해 실전과 원정을 통한 훈련 등……\n발칸의 경험을 살려 성심성의껏 {SetColor=Gold}지도{SetColor=Default}해 드리지요.
+MID_LGV_1KAI_TG11_003_m01_006: 정말?\n그거 고마운걸!
+MID_LGV_1KAI_TG11_003_m02: <TH>
+MID_LGV_1KAI_TG11_003_m02_001: 도련님, 심기체라는 말도 있듯이\n기술과 몸은 마음과 밀접한 관련이 있습니다.
+MID_LGV_1KAI_TG11_003_m02_002: 그러므로 이 다그시온에서 다양한 사람을 만나\n마음의 수양을 쌓는 것이 중요합니다.
+MID_LGV_1KAI_TG11_003_m02_003: 그렇게 마음이 충분히 다듬어지면\n도련님의 명성도 저절로 높아지겠지요.
+MID_LGV_1KAI_TG11_003_m02_004: 그러면 여러 실력자들이 도련님을 위해\n힘을 빌려줄 것입니다.
+MID_LGV_1KAI_TG11_003_m02_005: 즉…… {SetColor=Gold}명성을 높이면{SetColor=Default}\n{SetColor=Gold}많은 사람들이 지도{SetColor=Default}해 줄 거라는 소리지?
+MID_LGV_1KAI_TG11_003_m02_006: 좋아, 열심히 할게!
+MID_LGV_1KAI_LG11_010_m01: <TH>
+MID_LGV_1KAI_LG11_010_m01_001: 그럼 예선 시합 전까지\n이것저것 할 수 있는 일들을 해 보자.
+MID_LGV_1KAI_LG11_010_m01_002: 도움이 필요한 사람들을 도와 {SetColor=Gold}명성 높이기{SetColor=Default},\n탐색을 통해 모은 {SetColor=Gold}소재를 무기로 교환하기{SetColor=Default} 등……
+MID_LGV_1KAI_LG11_010_m01_003: 그리고 가끔씩\n저 새가 있는 곳에도 가 보자.
+MID_LGV_1KAI_c05_LG11_011_m01: <TH>
+MID_LGV_1KAI_c05_LG11_011_m01_001: 부탁드려요. 제발 저를\n{SetColor=Gold}백발귀{SetColor=Default}가 있는 곳으로 데려가 주세요……!
+MID_LGV_1KAI_c05_LG11_011_m12: <TH>
+MID_LGV_1KAI_c05_LG11_011_m12_001: 저기…… 백발귀와 만나고 싶은데\n정말 이쪽이 맞나요……?
+MID_LGV_1KAI_TG11_004_m01: <TH>
+MID_LGV_1KAI_TG11_004_m01_001: ……어떻게 하면 베르트랑 형처럼\n강해질 수 있을까.
+MID_LGV_1KAI_TG11_004_m01_002: 으음…… 그 사람에게는 그 사람만의,\n카이에게는 카이만의 방법이 있을 거야.
+MID_LGV_1KAI_TG11_004_m01_003: 예를 들면 카이는 남들보다\n동물을 훨씬 더 잘 다루잖아.
+MID_LGV_1KAI_TG11_004_m01_004: 그러니 {SetColor=Gold}기병{SetColor=Default}이 되면\n그 강점을 더 살릴 수 있지 않을까?
+MID_LGV_1KAI_TG11_004_m01_005: 딱히 생각해 본 적은 없었는데……\n듣고 보니 확실히 그런 게 내 강점인 것 같아!
+MID_LGV_1KAI_TG11_004_m01_006: 기병이라…… 어떻게 하면 될 수 있을까……?\n누군가 알려 주면 좋을 텐데……
+MID_LGV_1KAI_TG11_004_m01_007: 그러고 보니 기병이 타는 동물을 맡아 주는\n{SetColor=Gold}축사{SetColor=Default}가 어딘가에 있었던 것 같은데……
+MID_LGV_1KAI_TG11_004_m01_008: 그곳에 가면\n이것저것 알려 주지 않을까?
+MID_LGV_1KAI_TG11_004_m01_009: 분명 {SetColor=Gold}계단으로 하층에 내려가서 쭉 가면{SetColor=Default} 있었어.\n나, 먼저 가서 보고 올게!
+MID_LGV_1KAI_TG11_004_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_004_Closed_m01_001: 음……\n축사는 이쪽이 아니었던 것 같은데.
+MID_LGV_1KAI_TG11_004_m02: <TH>
+MID_LGV_1KAI_TG11_004_m02_001: {SetColor=Gold}축사{SetColor=Default} 이용은 처음이야?\n여기에 동물을 맡기면 그 동물에게 {SetColor=Gold}먹이를 줄{SetColor=Default} 수 있어.
+MID_LGV_1KAI_TG11_004_m03: <TH>
+MID_LGV_1KAI_TG11_004_m03_001: {SetColor=Gold}먹이{SetColor=Default}를 주면 {SetColor=Gold}동물과의 유대감{SetColor=Default}이 강해져\n더 큰 힘을 발휘할 수 있게 되지.
+MID_LGV_1KAI_TG11_004_m03_002: 오르니우스나 말은 물론,\n페가수스나 바우도 돌볼 수 있다고.
+MID_LGV_1KAI_TG11_004_m03_003: 아직 동물이 없는데……\n어떻게 하면 얻을 수 있나요?
+MID_LGV_1KAI_TG11_004_m03_004: {SetColor=Gold}기병{SetColor=Default}의 {SetColor=Gold}자격 시험에 합격{SetColor=Default}하면\n신전에서 승용 동물을 {SetColor=Gold}한 마리 준비{SetColor=Default}해 줄 거야.
+MID_LGV_1KAI_TG11_004_m03_005: 하지만 그보다는 직접 {SetColor=Gold}잡아서 돌본 동물{SetColor=Default}이\n더 {SetColor=Gold}든든한 파트너{SetColor=Default}가 되어 주겠지!
+MID_LGV_1KAI_TG11_004_m03_006: 시험은 아직 보지 않았지만……\n먼저 동물을 잡고 싶은데 어떻게 해야 하려나.
+MID_LGV_1KAI_TG11_004_m03_007: {SetColor=Gold}유인{SetColor=Default}하는 것이 제일 좋은 방법이야.\n밖에 나가서 {SetColor=Gold}동물이 올 것 같은 곳{SetColor=Default}에 {SetColor=Gold}미끼{SetColor=Default}를 놔둬 봐.
+MID_LGV_1KAI_TG11_004_m03_008: 기다리다 보면 동물이 올 테니\n그곳으로 돌아가서 {SetColor=Gold}포획{SetColor=Default}하면 돼!
+MID_LGV_1KAI_TG11_004_m03_009: 감사합니다! 재미있겠네……\n얘들아, 지금부터 잡으러 가자!
+MID_LGV_1KAI_TG11_004_GM_m01: <TH>
+MID_LGV_1KAI_TG11_004_GM_m01_001: 동물을 유인할 장소로……\n{SetColor=Gold}저기{SetColor=Default}는 어떨까?
+MID_LGV_1KAI_TG11_004_GM_m02: <TH>
+MID_LGV_1KAI_TG11_004_GM_m02_001: 봐 봐! 동물의 발자국이 있어.\n이건…… 오르니우스인가……?
+MID_LGV_1KAI_TG11_004_GM_m02_002: 좋아, 그럼 여기에 {SetColor=Gold}미끼{SetColor=Default}를 설치해서\n동물을 {SetColor=Gold}유인{SetColor=Default}해 보자.
+MID_LGV_1KAI_TG11_004_GM_m03: <TH>
+MID_LGV_1KAI_TG11_004_GM_m03_001: 아, 맞다. 괜찮으면 이거 써.\n예전에 산 건데 다 못 먹었거든.
+MID_LGV_1KAI_TG11_004_GM_m04: <TH>
+MID_LGV_1KAI_TG11_004_GM_m04_001: 좋아, 미끼는 이걸로 괜찮겠지!\n이제 동물이 오기만을 기다리면 돼.
+MID_LGV_1KAI_TG11_004_GM_m04_002: 일단 다른 곳으로 갔다가\n{SetColor=Gold}시간이 지난 후{SetColor=Default}에 다시 와 보자.
+MID_LGV_1KAI_TG11_004_GM_m05: <TH>
+MID_LGV_1KAI_TG11_004_GM_m05_001: 봐 봐! 동물이 온 것 같아!\n빨리 돌아가서 {SetColor=Gold}포획{SetColor=Default}하자!
+MID_LGV_1KAI_TG11_004_GM_m06: <TH>
+MID_LGV_1KAI_TG11_004_GM_m06_001: 아싸! 오르니우스다!\n진짜 잡혔네.
+MID_LGV_1KAI_TG11_004_GM_m06_002: 얼른 축사로 돌아가서\n얘한테 먹이를 줘 보자!
+MID_LGV_1KAI_TG11_004_m04: <TH>
+MID_LGV_1KAI_TG11_004_m04_001: 이 아이는 어떤 먹이를 좋아할까?\n{SetColor=Gold}좋아하는 걸{SetColor=Default} 주면 {SetColor=Gold}금방 친해질 수 있을{SetColor=Default} 것 같아.
+MID_LGV_1KAI_TG11_004_m05: <TH>
+MID_LGV_1KAI_TG11_004_m05_001: 엄청 기뻐하고 있어!\n나중에 또 돌보러 오자!
+MID_LGV_1KAI_TG11_108_m01: <TH>
+MID_LGV_1KAI_TG11_108_m01_001: 그럼 다음은\n기병 자격 시험을 보러 갈까?
+MID_LGV_1KAI_TG11_108_m01_002: 사육사 오빠가 그러던데\n다그시온에서 시험을 볼 수 있대.
+MID_LGV_1KAI_TG11_108_m01_003: 자격 시험은…… 자격에 필요한 {SetColor=Gold}기술 능력{SetColor=Default}이\n{SetColor=Gold}높지 않으면 합격할 수 없는{SetColor=Default} 거 아니야……?
+MID_LGV_1KAI_TG11_108_m01_004: 그것도 그렇네…… 시험을 보기 전에\n{SetColor=Gold}기술 능력을 더 연마해{SetColor=Default} 두는 게 좋으려나?
+MID_LGV_1KAI_TG11_108_m01_005: ……그러고 보니 지금의 우리라면\n투기장 안에 있는 {SetColor=Gold}훈련장{SetColor=Default}을 이용할 수 있지 않을까?
+MID_LGV_1KAI_TG11_108_m01_006: 그러네! 당장 {SetColor=Gold}투기장 접수처{SetColor=Default}에 가서\n이용할 수 있는지 물어보자.
+MID_LGV_1KAI_TG11_108_m02: <TH>
+MID_LGV_1KAI_TG11_108_m02_001: 어…… 훈련장을 쓰고 싶은데……\n대검투제 참가자라면 이용할 수 있는 거죠?
+MID_LGV_1KAI_TG11_108_m02_002: 그래, 맞아.\n이용할 거야?
+MID_LGV_1KAI_TG11_108_m02_003: 물론이죠! 근데…… 잠깐.\n이용하려면 {SetColor=Gold}돈이 필요{SetColor=Default}한 거 아냐?
+MID_LGV_1KAI_TG11_108_m02_004: 후후후! 실은 카스톨씨한테 받은\n비상금이 있지. 이걸 써!
+MID_LGV_1KAI_TG11_108_m03: <TH>
+MID_LGV_1KAI_TG11_108_m03_001: 어…… 훈련장을 쓰고 싶은데……\n대검투제 참가자라면 이용할 수 있는 거죠?
+MID_LGV_1KAI_TG11_108_m03_002: 그래, 맞아.\n하지만 훈련은 {SetColor=Gold}혼자서는 할 수 없는데{SetColor=Default}?
+MID_LGV_1KAI_TG11_108_m03_003: 그래요?\n음…… 아쉽네……
+MID_LGV_1KAI_TG11_108_m04: <TH>
+MID_LGV_1KAI_TG11_108_m04_001: 도련님, 훈련을 하고 싶으신가요?\n저라도 괜찮으시다면 함께할게요.
+MID_LGV_1KAI_TG11_108_m04_002: 정말?\n울턴드 누나가 괜찮다면 부탁할게.
+MID_LGV_1KAI_TG11_108_m04_003: 카이, 잠깐만……\n여길 이용하려면 {SetColor=Gold}돈이 필요{SetColor=Default}한 거 아냐……?
+MID_LGV_1KAI_TG11_108_m04_004: 훈련장 이용은 처음이시죠?\n이번에는 특별히 제가 내 드릴게요.
+MID_LGV_1KAI_TG11_109_m01: <TH>
+MID_LGV_1KAI_TG11_109_m01_001: 좋아, 기술 능력도 충분히 연마했으니\n이번에야말로 {SetColor=Gold}자격 시험{SetColor=Default}을 보러 가자!
+MID_LGV_1KAI_TG11_109_m01_002: 사육사 오빠가 말하길\n자격 시험의 접수처는……
+MID_LGV_1KAI_TG11_109_m01_003: {SetColor=Gold}저 문{SetColor=Default}을 지나\n{SetColor=Gold}순롓길의 계단{SetColor=Default}을 {SetColor=Gold}쭉 올라가면{SetColor=Default} 있대.
+MID_LGV_1KAI_TG11_109_WrongPerson_m01: <TH>
+MID_LGV_1KAI_TG11_109_WrongPerson_m01_001: 카이, 자격 시험관은 이 사람이 아니라\n옆에 서 있는 언니 같아.
+MID_LGV_1KAI_TG11_109_m02: <TH>
+MID_LGV_1KAI_TG11_109_m02_001: 카이, 자격 시험을 보기 위해 필요한\n시험 증서 말인데……
+MID_LGV_1KAI_TG11_109_m02_002: 보통은 옆에 있는 {SetColor=Gold}시험 증서 상인{SetColor=Default}한테서\n{SetColor=Gold}되고 싶은 병과의 직급에 맞는 시험 증서{SetColor=Default}를 사야 해.
+MID_LGV_1KAI_TG11_109_m03: <TH>
+MID_LGV_1KAI_TG11_109_m03_001: 근데 사실은 카스톨씨한테\n시험 증서도 하나 받았거든.
+MID_LGV_1KAI_TG11_109_m03_002: 카이에게 줄 테니\n그걸로 시험에 응시해 봐!
+MID_LGV_1KAI_TG11_109_m04: <TH>
+MID_LGV_1KAI_TG11_109_m04_001: 우와~! 합격 축하해!\n드디어 기병 자격을 얻었구나!
+MID_LGV_1KAI_TG11_109_m04_002: 이제 아까 {SetColor=Gold}잡은 오르니우스{SetColor=Default}도 탈 수 있겠네.\n잊어버리기 전에 {SetColor=Gold}배치{SetColor=Default}해 두자.
+MID_LGV_1KAI_LG11_012_m01: <TH>
+MID_LGV_1KAI_LG11_012_m01_001: 기병 자격 시험에도 합격하고, 동물에 대해서도\n이것저것 배워서 전력이 많이 강화됐네!
+MID_LGV_1KAI_LG11_012_m01_002: 우리 {SetColor=Gold}모두 새로운 병과가 될 수 있도록{SetColor=Default}\n시간 날 때 {SetColor=Gold}훈련장{SetColor=Default}에 가서 {SetColor=Gold}기술 능력을 연마{SetColor=Default}하자!
+MID_LGV_1KAI_LG11_012_m01_003: 아, 맞다. 그러고 보니 각 {SetColor=Gold}신전{SetColor=Default}에 가면\n여러 가지 {SetColor=Gold}봉사 활동{SetColor=Default}을 할 수 있대.
+MID_LGV_1KAI_LG11_012_m01_004: 봉사 활동을 열심히 하면 {SetColor=Gold}좋은 일이 생긴다{SetColor=Default}고 들었어.\n나중에 가 보자!
+MID_LGV_1KAI_c06_LG11_013_m01: <TH>
+MID_LGV_1KAI_c06_LG11_013_m01_001: 도련님, 잠시 시간 괜찮으십니까.
+MID_LGV_1KAI_c06_LG11_013_m01_002: 아우로라님께서\n지금 바로 찾아와 달라고 하십니다.
+MID_LGV_1KAI_c06_LG11_013_m01_003: 어머니가?\n무슨 일이지……?
+MID_LGV_1KAI_c06_LG11_013_m01_004: 카이의 왼손에 박힌 보석에 대해서\n무언가 알아내셨을지도 몰라!
+MID_LGV_1KAI_c06_LG11_013_m01_005: 그렇다면 바로 가 볼까!
+MID_LGV_1KAI_c06_LG11_014_m01: <TH>
+MID_LGV_1KAI_c06_LG11_014_m01_001: 그러고 보니 카이,\n매번 하수도를 통해서 오는 것도 힘들지 않니?
+MID_LGV_1KAI_c06_LG11_014_m01_003: 센트리온한테 말해서 카이가 신전에서\n이 방으로 바로 올 수 있도록 해 두었어.
+MID_LGV_1KAI_c06_LG11_014_m01_002: 다음부터 {SetColor=Gold}내 방{SetColor=Default}에 오고 싶을 때는\n신전에 있는 {SetColor=Gold}센트리온{SetColor=Default}에게 말하렴.
+MID_LGV_1KAI_LG11_014_m02: <TH>
+MID_LGV_1KAI_LG11_014_m02_001: 여신님께서 직접 부탁하신 일이라니\n생각해 보면 정말 대단하네.
+MID_LGV_1KAI_LG11_014_m02_002: 혹시 우리도\n이제 믿음직스러워 보이나?
+MID_LGV_1KAI_LG11_014_m02_003: 그럴 수도 있겠지만\n그렇다고 여기서 자만하면 안 돼!
+MID_LGV_1KAI_LG11_014_m02_004: 맞아. 어머니와의 약속 날까지 계속\n우리가 할 수 있는 일을 해 나가자.
+MID_LGV_1KAI_LG11_014_m02_005: 그래, 도움이 필요한 사람들을 도와주면서\n{SetColor=Gold}전력도 강화{SetColor=Default}해 나가는 거야!
+MID_LGV_1KAI_TG11_005_m01: <TH>
+MID_LGV_1KAI_TG11_005_m01_001: 너희, 히베이라 마을에서 왔지……?\n잠깐 내 이야기를 들어 주지 않겠니?
+MID_LGV_1KAI_TG11_005_m01_002: 히베이라 출신이긴 한데……\n무슨 일이야?
+MID_LGV_1KAI_TG11_005_m02: <TH>
+MID_LGV_1KAI_TG11_005_m02_001: 덜컥 수락하긴 했는데……\n그 많은 야채를 어떻게 구하지……?
+MID_LGV_1KAI_TG11_005_m02_002: 그러게…… 마을에서 했던 것처럼\n어딘가에 밭을 만들어서 {SetColor=Gold}재배{SetColor=Default}할 수는 없을까?
+MID_LGV_1KAI_TG11_005_m02_003: 아하! 그럼 어떻게든 될지도 모르겠네.\n괜찮으면 이거 심어 봐!
+MID_LGV_1KAI_TG11_005_GM_m01: <TH>
+MID_LGV_1KAI_TG11_005_GM_m01_001: 저기는 어떨까?\n{SetColor=Gold}재배{SetColor=Default}에 적합할 것 같은데……
+MID_LGV_1KAI_TG11_005_GM_m02: <TH>
+MID_LGV_1KAI_TG11_005_GM_m02_001: 좋아! 이제 {SetColor=Gold}수확을 기다리는{SetColor=Default} 일만 남았네.\n그사이에 다른 곳에도 밭을 만들까?
+MID_LGV_1KAI_TG11_005_GM_m02_002: 에엑~! 일단 다그시온으로 돌아가서 좀 쉬자.\n오랜만에 밭일을 했더니 지쳤어……
+MID_LGV_1KAI_TG11_005_GM_m03: <TH>
+MID_LGV_1KAI_TG11_005_GM_m03_001: 슬슬 수확할 때가 됐네.\n{SetColor=Gold}작물을 심은 곳{SetColor=Default}으로 가 보자.
+MID_LGV_1KAI_TG11_005_GM_m03_002: 작물은 동물처럼 발이 달린 게 아니니\n밭을 {SetColor=Gold}지나가기만 해도{SetColor=Default} 바로 {SetColor=Gold}수확할 수 있어{SetColor=Default}.
+MID_LGV_1KAI_TG11_005_GM_m04: <TH>
+MID_LGV_1KAI_TG11_005_GM_m04_001: 신난다!\n잔뜩 수확했어!
+MID_LGV_1KAI_TG11_005_GM_m04_002: 그러고 보니 밭에선 뜻밖의 작물이 자라나기도 하지?\n다음엔 {SetColor=Gold}희귀한 작물{SetColor=Default}이 수확되면 좋겠다.
+MID_LGV_1KAI_TG11_005_GM_m05: <TH>
+MID_LGV_1KAI_TG11_005_GM_m05_001: 꽤 많이 모았네. 좀 더 모아서\n의뢰한 사람에게 가져다주자.
+MID_LGV_1KAI_TG11_005_GM_m05_002: {SetColor=Gold}야채를 모을 때{SetColor=Default}는 여기저기 탐색하는 것보다\n이렇게 {SetColor=Gold}재배{SetColor=Default}를 하는 게 더 {SetColor=Gold}효율적{SetColor=Default}이네.
+MID_LGV_1KAI_TG11_005_GM_m05_003: 야채는 반달 상회에서 {SetColor=Gold}교환용 소재{SetColor=Default}로 쓸 수도 있으니\n앞으로도 시간 날 때마다 재배를 해 보자.
+MID_LGV_1KAI_TG11_005_GM_m05_004: 그래.\n그럼 도시로 돌아갈까.
+MID_LGV_1KAI_LG11_014_m03: <TH>
+MID_LGV_1KAI_LG11_014_m03_001: 그러고 보니 {SetColor=Gold}대장간{SetColor=Default}이 문을 열었대.\n나중에 가 보자.
+MID_LGV_1KAI_LG11_014_m03_002: 낡은 {SetColor=Gold}무기{SetColor=Default}를 {SetColor=Gold}수리{SetColor=Default}하거나\n{SetColor=Gold}연성을 통해 강화{SetColor=Default}해 준다더라!
+MID_LGV_1KAI_c06_GM11_003_m01: <TH>
+MID_LGV_1KAI_c06_GM11_003_m01_001: 배를 빌려줘서 고마워!
+MID_LGV_1KAI_c06_GM11_003_m01_002: 조심해라.\n그 섬은…… 발로르의 섬이니까.
+MID_LGV_1KAI_c06_LG11_016_m01: <TH>
+MID_LGV_1KAI_c06_LG11_016_m01_001: 여기가 아무 르……\n다마스쿠르 왕국의 왕도였던 장소……
+MID_LGV_1KAI_c06_LG11_016_m01_002: 와, 완전히 폐허잖아.\n다 무너져 내린 데다 아무도 없어……
+MID_LGV_1KAI_c06_LG11_016_m01_003: 거리를 조금 {SetColor=Gold}둘러봐도{SetColor=Default} 될까?\n무언가 남아 있을지도 모르니……
+MID_LGV_1KAI_c06_LG11_016_m01_004: 상관은 없습니다만 조심하십시오.\n이곳은 죽음의 도시라 불리는 장소입니다.
+MID_LGV_1KAI_c06_DN11_004_m01: <TH>
+MID_LGV_1KAI_c06_DN11_004_m01_001: 피터르……? 티아라?\n울턴드 누나, 센트리온씨……?
+MID_LGV_1KAI_c06_DN11_004_m01_002: ……다들 어디 갔지.\n………………
+MID_LGV_1KAI_c06_DN11_004_m01_003: 여기가 어딘지는 모르겠지만\n{SetColor=Gold}앞으로 나아갈{SetColor=Default} 수밖에 없나……
+MID_LGV_1KAI_c06_DN11_005_m01: <TH>
+MID_LGV_1KAI_c06_DN11_005_m01_001: 이이이이이, 이게\n뭐뭐뭐뭐뭐, 뭐야아!?
+MID_LGV_1KAI_c06_DN11_005_m01_002: 피터르, 놀라고 있을 시간 없어!\n{SetColor=Gold}잡히기 전에{SetColor=Default} 빨리 {SetColor=Gold}도망치자{SetColor=Default}!
+MID_LGV_1KAI_c08_LG11_027_m01: <TH>
+MID_LGV_1KAI_c08_LG11_027_m01_001: 그러고 보니 조금 있으면\n베르트랑씨의 {SetColor=Gold}특별 시합{SetColor=Default}이지?
+MID_LGV_1KAI_c08_LG11_027_m01_002: 결과가 어떻게 될지 보고 싶어.\n{SetColor=Gold}투기장{SetColor=Default}으로 가자!
+MID_LGV_1KAI_c08_LG11_018_m01: <TH>
+MID_LGV_1KAI_c08_LG11_018_m01_001: ……잠깐.\n너는 "히베이라의 바람"의 카이로군.
+MID_LGV_1KAI_c08_LG11_018_m01_002: 네게 할 말이 있다.\n잠시 이야기를 할 수 있겠나.
+MID_LGV_1KAI_c09_LG11_019_m01: <TH>
+MID_LGV_1KAI_c09_LG11_019_m01_001: 도련님, {SetColor=Gold}신전 내부 조사{SetColor=Default}를 부탁드립니다.
+MID_LGV_1KAI_c09_LG11_019_m01_002: 아우로라님의 방으로 가실 때에는\n제게 말을 걸어 주십시오.
+MID_LGV_1KAI_c09_LG11_019_m02: <TH>
+MID_LGV_1KAI_c09_LG11_019_m02_005: 이건 「영원의 낙원」이라는 그림이야.\n신들이 생각하는 낙원이 그려져 있어.
+MID_LGV_1KAI_c09_LG11_019_m02_001: 이 그림…… 기분 탓인가?\n조금 이상하지 않아……?
+MID_LGV_1KAI_c09_LG11_019_m02_002: 그런가?\n엄청 예쁜 그림이라 생각되는데.
+MID_LGV_1KAI_c09_LG11_019_m02_003: 잘 표현은 못하겠지만……\n신전 안에서 여기만 분위기가 다른 것 같아.
+MID_LGV_1KAI_c09_LG11_019_m02_004: 카이가 그렇게 말한다면\n이 그림에 조금은 신경을 써 두자.
+MID_LGV_1KAI_c09_LG11_019_m05: <TH>
+MID_LGV_1KAI_c09_LG11_019_m05_001: 신전의 출입구는 막혀 있어.\n실종된 자들이나 범인은 아직 내부에 있는 건가?
+MID_LGV_1KAI_c09_LG11_019_m05_002: 하지만 만약 실종 사건이 일어났다는 것이 알려져서\n시끄러워지기도 전에 도망쳤다면……
+MID_LGV_1KAI_c09_LG11_019_m05_003: 그, 그치만 누군가를 붙잡은 채로\n밖으로 나가는 게 가능해?
+MID_LGV_1KAI_c09_LG11_019_m05_004: 사람을 조그맣게 만들어서 주머니에 넣고\n데려간 것은 아닐까……?
+MID_LGV_1KAI_c09_LG11_019_m05_005: 뭐어!? 그런 말을 들으니까\n여기도 신경 쓰이기 시작했어……
+MID_LGV_1KAI_c09_LG11_019_m06: <TH>
+MID_LGV_1KAI_c09_LG11_019_m06_001: 여기는 우리가 늘 이용하는\n지하 하수도로 통하는 곳이야.
+MID_LGV_1KAI_c09_LG11_019_m06_002: ……이 숨겨진 통로의 위장은\n그렇게 쉽게 들키지 않을 것 같은데.
+MID_LGV_1KAI_c09_LG11_019_m06_003: 하, 하지만 범인도 이 구멍을 발견해서\n이곳으로 빠져나갔을 수도 있잖아……?
+MID_LGV_1KAI_c09_LG11_019_m06_004: 아니라고는 못 하겠네.\n일단은 신경 써 두도록 하자.
+MID_LGV_1KAI_c09_LG11_019_m07: <TH>
+MID_LGV_1KAI_c09_LG11_019_m07_001: 그건 그렇고 엄청 튼튼해 보이는 쇠 격자네……
+MID_LGV_1KAI_c09_LG11_019_m07_002: ……너무 과한걸.\n어머니를 가두기 위해 이런 것까지 만들다니.
+MID_LGV_1KAI_c09_LG11_019_m07_003: 소렐 할아버지는……\n어머니한테 왜 이렇게까지?
+MID_LGV_1KAI_c09_LG11_019_m07_004: ………………
+MID_LGV_1KAI_c09_LG11_019_m08: <TH>
+MID_LGV_1KAI_c09_LG11_019_m08_001: 이 조각상 엄청 크네.\n설마 안에 숨어 있다거나……
+MID_LGV_1KAI_c09_LG11_019_m08_002: ……딱히 그런 장치는 없는 것 같네.
+MID_LGV_1KAI_c09_LG11_019_m09: <TH>
+MID_LGV_1KAI_c09_LG11_019_m09_001: 설마 화톳불에 뛰어들어서\n불에 타 버린 건 아니겠지?
+MID_LGV_1KAI_c09_LG11_019_m09_002: 자, 잠깐, 카이.\n무서운 소리 하지 마!
+MID_LGV_1KAI_c09_LG11_019_m09_003: ……정말 그렇다 하더라도\n뼈도 남지 않고 사라지지는 않았을 거야.
+MID_LGV_1KAI_c09_LG11_019_m03: <TH>
+MID_LGV_1KAI_c09_LG11_019_m03_001: 이걸로 신전 내부는 대강 돌아본 것 같은데……\n이렇다 할 단서는 없네.
+MID_LGV_1KAI_c09_LG11_019_m03_002: 그러게. 일단 조사 결과를\n{SetColor=Gold}어머니한테 보고{SetColor=Default}하자.
+MID_LGV_1KAI_c09_LG11_019_m04: <TH>
+MID_LGV_1KAI_c09_LG11_019_m04_001: 꺄악~~~~!!
+MID_LGV_1KAI_c09_LG11_019_m04_002: 이 소리는……\n울턴드씨의 목소리!?
+MID_LGV_1KAI_c09_LG11_019_m04_003: 로비에서 비명이 들렸어!
+MID_LGV_1KAI_c09_LG11_019_m04_004: 무슨 일이 일어났나 봐!\n빨리 가자!
+MID_LGV_1KAI_LG11_019_m01: <TH>
+MID_LGV_1KAI_LG11_019_m01_001: 울턴드 누나,\n무슨 일이야!?
+MID_LGV_1KAI_LG11_019_m01_002: ……울턴드씨가\n보이질 않네.
+MID_LGV_1KAI_LG11_019_m01_003: ………………?
+MID_LGV_1KAI_LG11_019_m01_004: 왠지…… 신전 안의 분위기가\n아까와는 좀 다른 것 같은데……?
+MID_LGV_1KAI_c09_LG11_020_m01: <TH>
+MID_LGV_1KAI_c09_LG11_020_m01_001: 울턴드가 걱정되기는 하지만……\n지금은 적의 정체를 파악하는 게 우선이겠지……
+MID_LGV_1KAI_c09_LG11_020_m01_002: 나는 젠젤에 대해서 조사해 볼 테니\n조금만 시간을 주지 않을래?
+MID_LGV_1KAI_c09_LG11_020_m01_003: 최대한 정보를 모아 볼게.\n그동안 카이는 준비를 마쳐 줘.
+MID_LGV_1KAI_c09_LG11_021_m01: <TH>
+MID_LGV_1KAI_c09_LG11_021_m01_001: 처…… 처음 보는 장소로 나왔는데\n정말 그림 속으로 들어온 거야!?
+MID_LGV_1KAI_c09_LG11_021_m01_002: 맞아, 주변을 잘 보렴.\n그림에 그려져 있는 낙원의 풍경과 똑같아.
+MID_LGV_1KAI_c09_LG11_021_m01_003: 여기가 낙원……\n엄청 아름다운 장소이기는 한데……
+MID_LGV_1KAI_c09_LG11_021_m01_004: 응…… 왠지 섬뜩한 느낌이 들어.\n낙원의 그림에서 느껴졌던 위화감과 똑같아.
+MID_LGV_1KAI_c09_LG11_021_m01_005: 빨리 {SetColor=Gold}울턴드 누나를 찾아서{SetColor=Default} 구해 내자!
+MID_LGV_1KAI_c09_LG11_021_m02: <TH>
+MID_LGV_1KAI_c09_LG11_021_m02_001: 울턴드 누나!\n괜찮아!?
+MID_LGV_1KAI_c09_LG11_021_m02_002: ………………도련님?\n어라…… 여기가 어디더라……?
+MID_LGV_1KAI_c09_LG11_021_m02_003: 울턴드!\n다행이야! 다치지는 않았니?
+MID_LGV_1KAI_c09_LG11_021_m02_004: 어…… 아우로라님…… 어떻게?\n방에서 나오셔도 괜찮으신 거예요!?
+MID_LGV_1KAI_c09_LG11_021_m02_006: 아…… 그렇구나……\n난 꿈을 꾸고 있는 거야.
+MID_LGV_1KAI_c09_LG11_021_m02_005: 울턴드 누나, 가자!\n이 소동의 원흉을 멈춰야만 해!
+MID_LGV_1KAI_c11_LG11_023_m01: <TH>
+MID_LGV_1KAI_c11_LG11_023_m01_001: 다시 한번 확인하겠다만\n정말로 아우로라님과 만날 수 있는 것인가?
+MID_LGV_1KAI_c11_LG11_023_m01_002: 응. 날 믿고 따라와 줘.
+MID_LGV_1KAI_c11_LG11_023_m01_003: ……그래.\n너는 믿을 수 있는 전사다.
+MID_LGV_1KAI_c11_LG11_023_m02: <TH>
+MID_LGV_1KAI_c11_LG11_023_m02_001: ……퍽 지독한 냄새로군. 어째서 내가\n이런 곳에 발을 들여야 하는지 설명해라.
+MID_LGV_1KAI_c11_LG11_023_m02_002: 음…… 왜냐고 물어봐도\n그럴 필요가 있다고밖에 설명이 안 되는데……
+MID_LGV_1KAI_c11_LG11_023_m02_003: 하, 감히 살라미스의 여왕을……\n네가 아니었으면 진작에 응징했을 것이다.
+MID_LGV_1KAI_c11_LG11_023_m02_004: 애초에 이런 곳에 아우로라님이 계실 것이라\n믿은 내가…… 히익!?
+MID_LGV_1KAI_c11_LG11_023_m02_005: 왜 그래, 세오도라 누나? 몸이 굳었어.\n……설마 벌레가 무서운 거야?
+MID_LGV_1KAI_c11_LG11_023_m02_006: ………………불쾌하다.\n역시 그만 돌아가겠다.
+MID_LGV_1KAI_c11_LG11_023_m02_007: ……아우로라님이랑 만나고 싶지 않아?
+MID_LGV_1KAI_c11_LG11_023_m02_008: 큭……!\n이 녀석, 아픈 곳을 찌르는군……!
+MID_LGV_1KAI_c11_LG11_023_m03: <TH>
+MID_LGV_1KAI_c11_LG11_023_m03_001: 세오도라 누나가 벌인 일 때문에\n병사들이 많아졌어.
+MID_LGV_1KAI_c11_LG11_023_m03_002: 이렇게 보는 눈이 많으면 어머니의 방에\n평소처럼 들여보내 주지 않을 것 같네……
+MID_LGV_1KAI_c11_LG11_023_m03_003: ……역시 {SetColor=Gold}그 비밀 통로{SetColor=Default}를 이용할 수밖에 없나.
+MID_LGV_1KAI_c11_LG11_025_m01: <TH>
+MID_LGV_1KAI_c11_LG11_025_m01_001: 카이, 마중 나와 줘서 고마워.\n센트리온한테도 들키지 않았네.
+MID_LGV_1KAI_c11_LG11_025_m01_002: 후훗…… 가고 싶은 곳이 많으니까\n오늘은 잘 부탁해.
+MID_LGV_1KAI_c11_LG11_025_m01_003: 일단 이곳을 벗어나\n{SetColor=Gold}다그시온 중층{SetColor=Default}으로 가자.
+MID_LGV_1KAI_c11_Aur_Closed_m01: <TH>
+MID_LGV_1KAI_c11_Aur_Closed_m01_001: 아…… 그쪽으로 가면\n신전의 관계자들한테 들켜 버릴 거야.
+MID_LGV_1KAI_c11_Aur_Closed_m01_002: 그래? 붙잡히면 곤란하니\n이쪽으로 가는 건 그만두자.
+MID_LGV_1KAI_c11_Aur_Closed_m01_003: 난 시가지로 가고 싶으니까\n그쪽으로 안내해 주겠니?
+MID_LGV_1KAI_c11_LG11_025_m08: <TH>
+MID_LGV_1KAI_c11_LG11_025_m08_001: 우와……!\n여기도 예전 그대로구나.
+MID_LGV_1KAI_c11_LG11_025_m08_002: 어디 가고 싶은 곳 있어?
+MID_LGV_1KAI_c11_LG11_025_m08_003: 사고 싶은 것이 있어.\n아마도 {SetColor=Gold}노점 거리{SetColor=Default}에 있을 거야……
+MID_LGV_1KAI_c11_LG11_025_m08_004: 그리고…… 항구를 내려다볼 수 있는 높은 장소에서\n{SetColor=Gold}풍경을 바라보고{SetColor=Default} 싶어.
+MID_LGV_1KAI_c11_LG11_025_m08_005: 나는 줄곧 신전 안에 틀어박혀 있었으니까.
+MID_LGV_1KAI_c11_LG11_025_m08_006: 알겠어!\n일단은 쭉 돌아볼까.
+MID_LGV_1KAI_c11_LG11_025_m02: <TH>
+MID_LGV_1KAI_c11_LG11_025_m02_001: 음……\n그건 더 이상 안 파는 걸까……?
+MID_LGV_1KAI_c11_LG11_025_m02_002: 다른 가게도 있으니까\n좀 더 둘러보자.
+MID_LGV_1KAI_c11_LG11_025_m02_003: 그래! 그렇게 하자.
+MID_LGV_1KAI_c11_LG11_025_m03: <TH>
+MID_LGV_1KAI_c11_LG11_025_m03_001: 이거야! 그리운걸……\n우후후, 역시 아직 있었구나.
+MID_LGV_1KAI_c11_LG11_025_m03_002: 저기, 이걸 사고 싶은데 얼마인가요……?
+MID_LGV_1KAI_c11_LG11_025_m03_005: 어머! 그거면 되나요?\n그럼 살게요.
+MID_LGV_1KAI_c11_LG11_025_m03_003: 다행이네.\n어머니가 원하던 물건이 있어서.
+MID_LGV_1KAI_c11_LG11_025_m03_004: 시장에 온 게 얼마 만이람!\n어색하지는 않았니?
+MID_LGV_1KAI_c11_LG11_025_m04: <TH>
+MID_LGV_1KAI_c11_LG11_025_m04_001: 오늘은 정말 많이 돌아다녔네.\n슬슬 돌아갈까?
+MID_LGV_1KAI_c11_LG11_025_m04_002: 음…… 마지막으로 딱 한 곳만 더 가고 싶어.
+MID_LGV_1KAI_c11_LG11_025_m04_004: {SetColor=Gold}카스톨{SetColor=Default}이 있는 곳인데……\n카이는 투기장 지하에 출입할 수 있었지?
+MID_LGV_1KAI_c11_LG11_025_m04_003: 응, 나한테 맡겨!
+MID_LGV_1KAI_c11_LG11_025_m09: <TH>
+MID_LGV_1KAI_c11_LG11_025_m09_001: 있지, 카이는 오늘이 무슨 날인지 알아?
+MID_LGV_1KAI_c11_LG11_025_m09_002: 어라……?\n무슨 날이었어?
+MID_LGV_1KAI_c11_LG11_025_m09_003: 우후후…… 우리에게 정말 소중한 날이란다.
+MID_LGV_1KAI_c11_LG11_025_m09_004: ……?\n뭐가 있었나……?
+MID_LGV_1KAI_c11_LG11_025_m10: <TH>
+MID_LGV_1KAI_c11_LG11_025_m10_001: 여전하네.\n아름다운 풍경이야.
+MID_LGV_1KAI_c11_LG11_025_m10_002: 여기서 바라보는 이 도시의 풍경을 참 좋아했어.
+MID_LGV_1KAI_c11_LG11_025_m10_003: 넓은 하늘과 광활한 바알호,\n그리고 수많은 사람들의 생활을 직접 느낄 수 있어서.
+MID_LGV_1KAI_c11_LG11_025_m10_004: 나도 좋아해.\n히베이라 마을은 산속에 있었거든.
+MID_LGV_1KAI_c11_LG11_025_m10_005: 그이와 함께 바라보던 풍경을\n이렇게 다 큰 아들과 함께 바라보고 있다니……
+MID_LGV_1KAI_c11_LG11_025_m10_006: 왠지……\n신기하고 행복한 기분인걸.
+MID_LGV_1KAI_c11_LG11_025_m05: <TH>
+MID_LGV_1KAI_c11_LG11_025_m05_001: 어이, 거기 형씨.\n귀여운 아가씨랑 함께 다니네?
+MID_LGV_1KAI_c11_LG11_025_m05_002: 미안, 우리가 지금 좀 바빠서.\n나중에 다시 이야기하자.
+MID_LGV_1KAI_c11_LG11_025_m05_003: 호오, 그럼 쓴맛을 좀 봐야겠군?\n나랑도 같이 놀자고!
+MID_LGV_1KAI_c11_LG11_025_m11: <TH>
+MID_LGV_1KAI_c11_LG11_025_m11_001: ……악!?\n이, 이 여자가 무슨 짓이야……!
+MID_LGV_1KAI_c11_LG11_025_m11_002: 조용히 하세요! 제 소중한 아들에게\n손을 대시다니 용서하지 않겠어요!
+MID_LGV_1KAI_c11_LG11_025_m11_003: 이…… 이봐, 이 꼬맹이, 그 녀석 아니야?\n대검투제에 나왔던 "히베이라의 바람"이라는……!
+MID_LGV_1KAI_c11_LG11_025_m11_004: 뭐!?\n히이이익, 실례했습니다~!
+MID_LGV_1KAI_c11_LG11_025_m12: <TH>
+MID_LGV_1KAI_c11_LG11_025_m12_001: 이런…… 가 버렸네.
+MID_LGV_1KAI_c11_LG11_025_m12_002: 카이.\n나, 이번에는 엄마다웠을까?
+MID_LGV_1KAI_c11_LG11_025_m12_003: 응, 완벽했어.\n어머니가 그렇게 말해 줘서 엄청 기뻤다고.
+MID_LGV_1KAI_c11_DN11_007_m02: <TH>
+MID_LGV_1KAI_c11_DN11_007_m02_001: 자, 그럼 녀석들을 쫓아 볼까.
+MID_LGV_1KAI_c11_DN11_007_m02_002: 그분들, 우리가 이용한 하수도로\n들어간 것 같은데……
+MID_LGV_1KAI_c11_DN11_007_m02_004: 그러고 보니 여기 {SetColor=Gold}아래층 안쪽{SetColor=Default}에\n{SetColor=Gold}엄청 큰 문{SetColor=Default}이 있다고 하지 않았던가?
+MID_LGV_1KAI_c11_DN11_007_m02_003: 그럼 그곳으로 가지.\n뒤는 내가 맡을 테니 앞을 부탁한다.
+MID_LGV_1KAI_c11_DN11_007_m03: <TH>
+MID_LGV_1KAI_c11_DN11_007_m03_001: 음…… 녀석들은 어디로 갔지?
+MID_LGV_1KAI_c11_DN11_007_m03_002: 잠깐…… 누군가 있어!\n저쪽이야!
+MID_LGV_1KAI_c11_DN11_007_m01: <TH>
+MID_LGV_1KAI_c11_DN11_007_m01_001: 어라? 이런 곳에\n길이 있었나……?
+MID_LGV_1KAI_c11_DN11_007_m01_006: 그러고 보니 여기에 문이 있었지……\n녀석들이 억지로 열고 들어간 것 같군.
+MID_LGV_1KAI_c11_DN11_007_m01_002: 대투기장 지하……\n그 안쪽에 있는 건…… 설마……!
+MID_LGV_1KAI_c11_DN11_007_m01_003: ……?\n어머니, 뭐 아는 거 있어?
+MID_LGV_1KAI_c11_DN11_007_m01_004: 어이, 꾸물거릴 시간 없어!\n이야기는 나중에 하고 서둘러라, 카이!
+MID_LGV_Lesson_Firsttime_Bel_m01: <TH>
+MID_LGV_Lesson_Firsttime_Bel_m01_001: 너의 그 진지하게 배우려는 자세……\n가르치는 이쪽이 더 긴장될 정도군.
+MID_LGV_Lesson_Firsttime_Cas_m01: <TH>
+MID_LGV_Lesson_Firsttime_Cas_m01_001: 너한테 아직 전수하지 않은 게 있던가……\n꼼꼼히 되짚어 봐야겠군.
+MID_LGV_Lesson_Firsttime_Aur_m01: <TH>
+MID_LGV_Lesson_Firsttime_Aur_m01_001: 너한테 엄마다운 일을 해 줄 수 있도록\n나도 노력해야겠지……
+MID_LGV_Lesson_Explanation01_Introduction_m01: <TH>
+MID_LGV_Lesson_Explanation01_Introduction_m01_001: 저는 아우로라 신전의 주천장으로서\n지금까지 다양한 자들을 상대해 왔습니다.
+MID_LGV_Lesson_Explanation01_Introduction_m01_002: 대화로 해결되는 경우도 있지만\n때로는 무력으로 해결해야 하는 경우도 있지요.
+MID_LGV_Lesson_Explanation01_Introduction_m01_003: 그럴 때 먼저 기억해 주셨으면\n하는 것이 있습니다.
+MID_LGV_Lesson_Explanation01_Introduction_m01_004: 그건 바로 {SetColor=Gold}한 명의 적{SetColor=Default}을 {SetColor=Gold}여러 명이서 상대{SetColor=Default}하는 게\n모든 전투의 기본이라는 것입니다.
+MID_LGV_Lesson_Explanation01_Introduction_m01_005: 그렇게 하면 이쪽의 피해를\n최소화할 수 있겠지요.
+MID_LGV_Lesson_Explanation01_Introduction_m01_006: 일대일로 싸우는 것만이 전투는 아닙니다.\n이건 비겁한 게 아니라 전술이지요.
+MID_LGV_Lesson_Explanation01_Introduction_m01_007: 그리고 만약 {SetColor=Gold}입장이 뒤바뀌었다면{SetColor=Default}\n{SetColor=Gold}즉시 후퇴{SetColor=Default}해야 합니다.
+MID_LGV_Lesson_Explanation01_Introduction_m01_008: 적절한 때에 도망치는 것도 전술입니다.\n이 점을 항상 기억해 주시기 바랍니다.
+MID_LGV_Lesson_Explanation02_Introduction_m01: <TH>
+MID_LGV_Lesson_Explanation02_Introduction_m01_001: 그럼 이번에는 지형의 활용에 대해\n차근차근 알려 주지.
+MID_LGV_Lesson_Explanation02_Introduction_m01_002: 이미 알고 있겠지만 {SetColor=Gold}초목이 우거진 곳{SetColor=Default}에\n서 있을 때는 적의 {SetColor=Gold}공격을 피하기 쉽다{SetColor=Default}.
+MID_LGV_Lesson_Explanation02_Introduction_m01_003: 반대로 사막이나 여울처럼 {SetColor=Gold}발이 잘 빠지는 곳{SetColor=Default}에서는\n적의 {SetColor=Gold}공격을 피하기 어려우니{SetColor=Default} 조심해라.
+MID_LGV_Lesson_Explanation02_Introduction_m01_004: 다음은 이동에 대해 설명하지. {SetColor=Gold}병과{SetColor=Default}에 따라\n{SetColor=Gold}이동할 수 있는 범위{SetColor=Default}가 크게 {SetColor=Gold}달라지는데{SetColor=Default}
+MID_LGV_Lesson_Explanation02_Introduction_m01_005: {SetColor=Gold}비행 병과{SetColor=Default}를 생각하면 이해하기 쉬워.\n보병은 갈 수 없는 {SetColor=Gold}높은 곳{SetColor=Default}도 자유롭게 {SetColor=Gold}오갈 수 있지{SetColor=Default}.
+MID_LGV_Lesson_Explanation02_Introduction_m01_006: {SetColor=Gold}기병{SetColor=Default} 또한 보병보다 {SetColor=Gold}이동 범위가 훨씬 넓지{SetColor=Default}만……\n한 가지 주의해야 할 점이 있어.
+MID_LGV_Lesson_Explanation02_Introduction_m01_007: 그건 바로 아까 말했던 발이 잘 빠지는 곳에서는\n오히려 움직이기 힘들어진다는 거다.
+MID_LGV_Lesson_Explanation02_Introduction_m01_008: 그렇게 {SetColor=Gold}불리하다고 생각될 경우{SetColor=Default}에는 과감히\n{SetColor=Gold}말에서 내리는{SetColor=Default} 것도 하나의 방법이지.
+MID_LGV_Lesson_Explanation02_Introduction_m01_009: 그러니 싸울 때는 먼저\n발밑에 신경 쓰는 것을 잊지 마라.
+MID_LGV_Lesson_Explanation03_Introduction_m01: <TH>
+MID_LGV_Lesson_Explanation03_Introduction_m01_001: 상대를 공격할 때 반격을 받으면\n예상치 못한 큰 부상을 입을 수도 있어.
+MID_LGV_Lesson_Explanation03_Introduction_m01_002: 하지만 공격 수단에 따라서는\n반격을 받지 않는 경우도 있지.
+MID_LGV_Lesson_Explanation03_Introduction_m01_003: {SetColor=Gold}활과 마법{SetColor=Default}이 그 예야. 상대에게 접근하지 않고도\n공격할 수 있기 때문에 {SetColor=Gold}반격을 받지 않지{SetColor=Default}.
+MID_LGV_Lesson_Explanation03_Introduction_m01_004: 그리고 {SetColor=Gold}투척이 가능한 창이나 도끼{SetColor=Default}로 공격하거나\n{SetColor=Gold}전투 기술{SetColor=Default}을 잘 활용해도 반격을 받지 않아.
+MID_LGV_Lesson_Explanation03_Introduction_m01_005: 하지만 전투 기술에만 의존하면\n무기가 금방 망가질 수 있어.
+MID_LGV_Lesson_Explanation03_Introduction_m01_006: 그렇게 되기 전에 틈틈이 {SetColor=Gold}대장간{SetColor=Default}에 가서\n{SetColor=Gold}무기를 수리{SetColor=Default}해 두는 것을 잊지 마.
+MID_LGV_Lesson_Explanation03_Introduction_m01_007: 물론 상대도 반격을 받지 않도록\n행동할 테니 조심해야겠지.
+MID_LGV_Lesson_Explanation03_Introduction_m01_008: 일방적으로 당하지 않게끔\n항상 사정거리를 의식하면서 영리하게 싸우도록 해.
+MID_LGV_Lesson_Practice01_Introduction_m01: <TH>
+MID_LGV_Lesson_Practice01_Introduction_m01_001: 그럼 장소를 옮기도록 하지.
+MID_LGV_Lesson_Practice02_Introduction_m01: <TH>
+MID_LGV_Lesson_Practice02_Introduction_m01_001: 그럼 장소를 옮기도록 하지요.
+MID_LGV_Lesson_Subjugation01_Introduction_m01: <TH>
+MID_LGV_Lesson_Subjugation01_Introduction_m01_001: 그럼 열심히 해 봐라.
+MID_LGV_Lesson_Subjugation02_Introduction_m01: <TH>
+MID_LGV_Lesson_Subjugation02_Introduction_m01_001: 그럼 열심히 하고 와!
+MID_LGV_Lesson_Subjugation03_Introduction_m01: <TH>
+MID_LGV_Lesson_Subjugation03_Introduction_m01_001: 너의 분투를 기대하지.
+MID_Lesson_Practice01_During_e01: <TH>
+MID_Lesson_Practice01_During_e01_001: 그러면 병과별 상성에 대한\n실전 연습을 해 볼까.
+MID_Lesson_Practice01_During_e01_002: 적에게 효과적인 공격을 가하면\n전투를 유리하게 이끌 수 있다.
+MID_Lesson_Practice01_During_e02: <TH>
+MID_Lesson_Practice01_During_e02_001: 그럼 {SetColor=Gold}중갑 보병{SetColor=Default}을 쓰러뜨려 봐라.\n저들에게는 {SetColor=Gold}마법 공격이 효과적{SetColor=Default}이지.
+MID_Lesson_Practice01_During_e03: <TH>
+MID_Lesson_Practice01_During_e03_001: 잘했다.
+MID_Lesson_Practice01_During_e04: <TH>
+MID_Lesson_Practice01_During_e04_001: 다음에는 저 {SetColor=Gold}천익병{SetColor=Default}을 쓰러뜨려 봐라.\n하늘을 나는 적에게는 일반적으로 {SetColor=Gold}활이 효과적{SetColor=Default}이지.
+MID_Lesson_Practice01_During_e05: <TH>
+MID_Lesson_Practice01_During_e05_001: 잘했다. 역시 습득이 빠르군.
+MID_Lesson_Practice01_During_e06: <TH>
+MID_Lesson_Practice01_During_e06_001: 다음에는 저 {SetColor=Gold}중갑 보병{SetColor=Default}과 {SetColor=Gold}사냥병{SetColor=Default}의 {SetColor=Gold}속도{SetColor=Default}에 주목하면서\n저들을 상대해 봐라.
+MID_Lesson_Practice01_During_e06_002: 적의 {SetColor=Gold}속도{SetColor=Default}에 따라 {SetColor=Gold}추격이 발생{SetColor=Default}하기도 하기에\n경우에 따라서는 큰 피해를 입을 수도 있지.
+MID_Lesson_Practice01_During_e07: <TH>
+MID_Lesson_Practice01_During_e07_001: 잘했다. 앞으로의 전투에서도\n오늘 배운 것들을 잘 활용하면서 싸우도록.
+MID_Lesson_Practice02_During_e01: <TH>
+MID_Lesson_Practice02_During_e01_001: 이번에는 {SetColor=Gold}거대한 적{SetColor=Default}을\n상대하는 방법을 전수해 드리겠습니다.
+MID_Lesson_Practice02_During_e02: <TH>
+MID_Lesson_Practice02_During_e02_001: 거대한 적은 {SetColor=Gold}배리어{SetColor=Default}를 갖고 있는데\n그것을 {SetColor=Gold}파괴{SetColor=Default}하는 것이 중요합니다.
+MID_Lesson_Practice02_During_e02_002: 배리어를 한 칸 파괴하는 것을\n브레이크라고 하지요.
+MID_Lesson_Practice02_During_e02_003: {SetColor=Gold}배리어가 파괴된 부분{SetColor=Default}은 배리어가 있는 부분보다\n{SetColor=Gold}공격이 잘 통합니다{SetColor=Default}.
+MID_Lesson_Practice02_During_e02_004: 백문이 불여일견이니\n직접 해 보시지요.
+MID_Lesson_Practice02_During_e03: <TH>
+MID_Lesson_Practice02_During_e03_001: 훌륭하군요. 바로 그겁니다.
+MID_Lesson_Practice02_During_e04: <TH>
+MID_Lesson_Practice02_During_e04_001: 잘하셨습니다.
+MID_Lesson_Practice02_During_e05: <TH>
+MID_Lesson_Practice02_During_e05_001: 적의 {SetColor=Gold}배리어를 모두 파괴한 상태{SetColor=Default}를\n{SetColor=Gold}올 브레이크{SetColor=Default}라고 합니다.
+MID_Lesson_Practice02_During_e05_002: 이때 적은 {SetColor=Gold}행동 불능 상태{SetColor=Default}가 되므로\n공격하기 {SetColor=Gold}아주 좋은 기회{SetColor=Default}입니다.
+MID_Lesson_Practice02_During_e06: <TH>
+MID_Lesson_Practice02_During_e06_001: 잘하셨습니다.
+MID_Lesson_Practice02_During_e07: <TH>
+MID_Lesson_Practice02_During_e07_001: ……도련님, 단순히 적을 쓰러뜨리기만 하면\n되는 것이 아닙니다.
+MID_Lesson_Practice02_During_e07_002: 제가 가르쳐 드린 대로 하시지 않으면\n제대로 익히실 수 없습니다.
+MID_Lesson_Practice02_During_e08: <TH>
+MID_Lesson_Practice02_During_e08_001: 으음……\n조금 더 해 볼까요.
+MID_Lesson_Practice02_During_e09: <TH>
+MID_Lesson_Practice02_During_e09_001: 그럼 이번 훈련은\n여기까지 하겠습니다.
+MID_Lesson_Practice02_During_e10: <TH>
+MID_Lesson_Practice02_During_e10_001: ……가르쳐 드리고 싶었던 것과는 조금 다르지만\n거대한 적과 싸우는 방법은 충분히 익히신 것 같군요.
+MID_LGV_Lesson_Explanation01_Finish_m01: <TH>
+MID_LGV_Lesson_Explanation01_Finish_m01_001: 이걸 드리지요.\n계속 단련에 힘써 주시기 바랍니다.
+MID_LGV_Lesson_Explanation02_Finish_m01: <TH>
+MID_LGV_Lesson_Explanation02_Finish_m01_001: 뭐, 장황하게 늘어놓긴 했는데\n너는 몸을 움직이는 게 성미에 더 맞겠지.
+MID_LGV_Lesson_Explanation02_Finish_m01_002: 내가 알려 준 것을 잊지 말고\n실전에 잘 활용하도록 해라.
+MID_LGV_Lesson_Explanation03_Finish_m01: <TH>
+MID_LGV_Lesson_Explanation03_Finish_m01_001: 카이, 내가 가르쳐 준 대로 조심하고\n다음에 또 건강한 모습으로 만나러 와 줘.
+MID_LGV_Lesson_Practice01_Finish_m01: <TH>
+MID_LGV_Lesson_Practice01_Finish_m01_001: ……흠,\n제법이군.
+MID_LGV_Lesson_Practice02_Finish_m01: <TH>
+MID_LGV_Lesson_Practice02_Finish_m01_001: 강해지십시오, 도련님.\n저 센트리온도 최선을 다해 돕겠습니다.
+MID_LGV_Lesson_Subjugation01_Finish_m01: <TH>
+MID_LGV_Lesson_Subjugation01_Finish_m01_001: 여유로웠다는 표정이잖아?\n정말이지, 이제는 다 컸군……
+MID_LGV_Lesson_Subjugation02_Finish_m01: <TH>
+MID_LGV_Lesson_Subjugation02_Finish_m01_001: 카이, 나도 모르는 사이에\n정말 강해진 것 같구나.
+MID_LGV_Lesson_Subjugation02_Finish_m01_002: 조금 쓸쓸하지만 그래도 기쁘네.\n항상 다치지 않게 조심해.
+MID_LGV_Lesson_Subjugation03_Finish_m01: <TH>
+MID_LGV_Lesson_Subjugation03_Finish_m01_001: 몰라보게 강해졌구나, 카이.

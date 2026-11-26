@@ -1,0 +1,251 @@
+﻿MID_LGV_Divination_Start_TypeA_m01: <TH>
+MID_LGV_Divination_Start_TypeA_m01_001: Prego. Ora leggerò il futuro con l'aiuto dei\nsessantaquattro esagrammi.
+MID_LGV_Divination_Start_TypeB_m01: <TH>
+MID_LGV_Divination_Start_TypeB_m01_001: Non si tratta di una vera e propria predizione, ma\nsolo di una lettura del flusso degli eventi.
+MID_LGV_Divination_Start_TypeC_m01: <TH>
+MID_LGV_Divination_Start_TypeC_m01_001: Il mio lavoro è diverso dagli oracoli del Tempio.\nLa mia è una tecnica simile a quella dei popoli\nantichi.
+MID_LGV_Divination_Start_TypeD_m01: <TH>
+MID_LGV_Divination_Start_TypeD_m01_001: La mia lettura sarà volutamente vaga, in modo\nda essere aperta alla libera interpretazione del\nrichiedente.
+MID_LGV_Divination_OtherRoute_FirstTime_m01: <TH>
+MID_LGV_Divination_OtherRoute_FirstTime_m01_001: Su richiesta, posso dare una lettura personalizzata\ncon tanto di sconto speciale.
+MID_LGV_Divination_Close_m01: <TH>
+MID_LGV_Divination_Close_m01_001: Per ora, può bastare.
+MID_LGV_Divination_Come_Customer_m01: <TH>
+MID_LGV_Divination_Come_Customer_m01_001: <TLP>{Variable=0} vuole conoscere il suo futuro.
+MID_LGV_Divination_result_Reaction_m04: <TH>
+MID_LGV_Divination_result_Reaction_m04_001: Va tutto a gonfie vele!
+MID_LGV_Divination_result_Reaction_m04_002: <ICA>Forse è il caso di accettare questa interpretazione.
+MID_LGV_Divination_result_Reaction_m04_003: <ICB>Forse c'è un'interpretazione diversa...
+MID_LGV_Divination_result_Reaction_m05: <TH>
+MID_LGV_Divination_result_Reaction_m05_001: Sembra tutto a posto.
+MID_LGV_Divination_result_Reaction_m05_002: <ICA>Forse è il caso di accettare questa interpretazione.
+MID_LGV_Divination_result_Reaction_m05_003: <ICB>Forse c'è un'interpretazione diversa...
+MID_LGV_Divination_result_Reaction_m06: <TH>
+MID_LGV_Divination_result_Reaction_m06_001: Non va affatto bene...
+MID_LGV_Divination_result_Reaction_m06_002: <ICA>Forse è il caso di accettare questa interpretazione.
+MID_LGV_Divination_result_Reaction_m06_003: <ICB>Forse c'è un'interpretazione diversa...
+MID_LGV_Divination_result_Reaction_m07: <TH>
+MID_LGV_Divination_result_Reaction_m07_001: Non potrebbe andare peggio.
+MID_LGV_Divination_result_Reaction_m07_002: <ICA>Forse è il caso di accettare questa interpretazione.
+MID_LGV_Divination_result_Reaction_m07_003: <ICB>Forse c'è un'interpretazione diversa...
+MID_LGV_Divination_result_Reaction_m02: <TH>
+MID_LGV_Divination_result_Reaction_m02_001: <TLP>Accetta l'interpretazione così com'è.
+MID_LGV_Divination_result_Reaction_m03: <TH>
+MID_LGV_Divination_result_Reaction_m03_001: <TLP>Pensa che ci sia un'altra interpretazione.
+MID_LGV_Divination_result_MainCharacter_Reaction_m01: <TH>
+MID_LGV_Divination_result_MainCharacter_Reaction_m01_001: <TLP>Sembra tutto a posto.
+MID_LGV_Divination_result_MainCharacter_Reaction_m02: <TH>
+MID_LGV_Divination_result_MainCharacter_Reaction_m02_001: <TLP>Non c'è da lamentarsi.
+MID_LGV_Divination_result_MainCharacter_Reaction_m03: <TH>
+MID_LGV_Divination_result_MainCharacter_Reaction_m03_001: <TLP>Sembra che non sia andata bene.
+MID_LGV_Divination_result_Customer_Reaction_m01: <TH>
+MID_LGV_Divination_result_Customer_Reaction_m01_001: <TLP>{Variable=0} ha l'aria soddisfatta.
+MID_LGV_Divination_result_Customer_Reaction_m02: <TH>
+MID_LGV_Divination_result_Customer_Reaction_m02_001: <TLP>{Variable=0} riflette sulle parole di Anatolia.
+MID_LGV_Divination_result_Customer_Reaction_m03: <TH>
+MID_LGV_Divination_result_Customer_Reaction_m03_001: <TLP>{Variable=0} ha l'aria nervosa.
+MID_LGV_Divination_Continue_m01: <TH>
+MID_LGV_Divination_Continue_m01_001: Cosa faccio? Continuo a predire il futuro?
+MID_LGV_Divination_Continue_m01_002: <ICA>Continua.
+MID_LGV_Divination_Continue_m01_003: <ICB>Basta così.
+MID_LGV_Divination_Continue_m02: <TH>
+MID_LGV_Divination_Continue_m02_001: Oggi mi sento ispirata. Posso continuare a predire\nil futuro?
+MID_LGV_Divination_Continue_m02_002: <ICA>Continua.
+MID_LGV_Divination_Continue_m02_003: <ICB>Basta così.
+MID_LGV_Divination_Result_m01: <TH>
+MID_LGV_Divination_Result_m01_001: Qian, il Creativo. Rappresenta una grande\nresponsabilità sulle spalle. Sono in arrivo dei\ngravami.
+MID_LGV_Divination_Result_m01_002: Consiglio di non sforzarsi troppo. È preferibile\nprendere le cose alla leggera, finché le difficoltà\nnon saranno acqua passata.
+MID_LGV_Divination_Result_m02: <TH>
+MID_LGV_Divination_Result_m02_001: Qun, il Ricettivo. Questo esagramma rappresenta\nla figura materna del pianeta e suggerisce di\ndedicare del tempo alla protezione.
+MID_LGV_Divination_Result_m02_002: Nei momenti di difficoltà, è meglio non opporsi e\ncercare di reagire come un salice che si piega al\nvento. Verranno sicuramente momenti migliori.
+MID_LGV_Divination_Result_m03: <TH>
+MID_LGV_Divination_Result_m03_001: Zhun, la Difficoltà iniziale. Percepisco un senso\ndi stallo e di fatica. Che sia indizio di qualche\ntormento?
+MID_LGV_Divination_Result_m03_002: A prescindere dal tipo di difficoltà, una volta\nsuperata, la strada si aprirà del tutto.
+MID_LGV_Divination_Result_m03_003: Tuttavia, non è il momento per le scorciatoie.\nLa felicità premia chi ha pazienza e procede\nper la sua strada.
+MID_LGV_Divination_Result_m04: <TH>
+MID_LGV_Divination_Result_m04_001: Meng, la Stoltezza. Rappresenta una condizione di\nincertezza e di prospettive complicate. Non sarà\nfacile uscire dalla situazione attuale senza aiuto.
+MID_LGV_Divination_Result_m04_002: Consiglio di appoggiarsi a una figura saggia.\nTramite i suoi consigli, i problemi si risolveranno.
+MID_LGV_Divination_Result_m05: <TH>
+MID_LGV_Divination_Result_m05_001: Xü, l'Attesa. Ci vorrà un po' di tempo prima\ndi liberarsi dei problemi. Conviene studiare la\nsituazione con calma.
+MID_LGV_Divination_Result_m05_002: L'opportunità tanto attesa si presenterà, prima o poi.\nProprio come quando si attende la pioggia, occorre\navere pazienza.
+MID_LGV_Divination_Result_m06: <TH>
+MID_LGV_Divination_Result_m06_001: Song, la Lite. Al momento è in corso un conflitto\ndi natura privata.
+MID_LGV_Divination_Result_m06_002: La situazione va esaminata nel dettaglio. Non è\nconsigliato condividere la propria opinione, per il\nmomento.
+MID_LGV_Divination_Result_m07: <TH>
+MID_LGV_Divination_Result_m07_001: Shi, l'Esercito. Come un guerriero abile e veloce, che\nsi apre la strada tra numerosi ostacoli...
+MID_LGV_Divination_Result_m07_002: ... bisogna riflettere sulle proprie azioni e poi\navanzare a spada tratta.
+MID_LGV_Divination_Result_m08: <TH>
+MID_LGV_Divination_Result_m08_001: Bi, la Solidarietà. In questo momento, il supporto\naltrui è fondamentale.
+MID_LGV_Divination_Result_m08_002: Suggerisco di coltivare le proprie relazioni sociali,\nma anche di essere selettivi prima di creare amicizie.
+MID_LGV_Divination_Result_m09: <TH>
+MID_LGV_Divination_Result_m09_001: Xiao Xü, la Forza domatrice del piccolo. Questa è\nchiaramente una fase di stallo.
+MID_LGV_Divination_Result_m09_002: Non ha senso precipitarsi ad agire, se l'opportunità\nnon si presenta. La pazienza e l'attesa, a volte, sono\nl'unica soluzione.
+MID_LGV_Divination_Result_m10: <TH>
+MID_LGV_Divination_Result_m10_001: Lü, il Procedere. Talvolta, è bene affidarsi agli altri.\nI problemi attuali richiedono proprio questo\napproccio.
+MID_LGV_Divination_Result_m10_002: Bisogna trattare con rispetto e umiltà i nostri simili,\nsenza mai trascurare l'obbedienza nei confronti dei\nsuperiori.
+MID_LGV_Divination_Result_m11: <TH>
+MID_LGV_Divination_Result_m11_001: Tai, la Pace. È una condizione ideale. Vedo molte\npersone buone, circostanze favorevoli e tanta\nsoddisfazione.
+MID_LGV_Divination_Result_m11_002: Sarebbe arrogante pensare che la felicità duri per\nsempre, però. Bisogna sempre essere pronti a nuovi\ndisagi.
+MID_LGV_Divination_Result_m12: <TH>
+MID_LGV_Divination_Result_m12_001: Pi, il Ristagno. È un periodo sterile in cui, pur\ninseguendo obiettivi validi, non ci sarà modo\ndi raggiungerli.
+MID_LGV_Divination_Result_m12_002: Non è il momento giusto e questa situazione di stallo\ntotale si protrarrà ancora per un certo tempo.
+MID_LGV_Divination_Result_m12_003: È meglio non agire, pur sapendo di essere nel giusto.\nÈ tempo di proteggersi e di evitare conflitti inutili.
+MID_LGV_Divination_Result_m13: <TH>
+MID_LGV_Divination_Result_m13_001: Tong Ren, l'Associazione. Chi mostra giustizia e\nfedeltà a tutti si circonderà di persone affini.
+MID_LGV_Divination_Result_m13_002: Tuttavia, occorre valutare bene ogni persona che\nincrocia il nostro cammino, in modo da aprirsi\nsolo con qualcuno di fidato.
+MID_LGV_Divination_Result_m14: <TH>
+MID_LGV_Divination_Result_m14_001: Da You, il Possesso grande. Un periodo di energia\ne vitalità, proprio come i raggi del sole.
+MID_LGV_Divination_Result_m14_002: La forza fisica e mentale sono al loro apice, a patto\ndi non calcare la mano.
+MID_LGV_Divination_Result_m15: <TH>
+MID_LGV_Divination_Result_m15_001: Qi An, la Modestia. Questa qualità permetterà di\nrealizzare ogni ambizione futura.
+MID_LGV_Divination_Result_m15_002: D'altro canto, troppa umiltà può portare alla\nmancanza di amor proprio e al mancato\nraggiungimento degli obiettivi. Ci vuole equilibrio.
+MID_LGV_Divination_Result_m16: <TH>
+MID_LGV_Divination_Result_m16_001: Yü, il Fervore. Rappresenta il cambiamento che si\nmette in moto, un po' come i germogli che spuntano\nin primavera.
+MID_LGV_Divination_Result_m16_002: Anche quando tutto procede per il meglio, non\nbisogna mai adagiarsi sugli allori se si vuole ottenere\nil successo.
+MID_LGV_Divination_Result_m17: <TH>
+MID_LGV_Divination_Result_m17_001: Sui, il Seguire. Di questi tempi, è meglio seguire\nqualcun altro, piuttosto che agire da soli.
+MID_LGV_Divination_Result_m17_002: Ma non si deve perdere del tutto la propria\nautonomia. Tornerà utile al momento opportuno,\ncon la giusta dose di attenzione e prontezza.
+MID_LGV_Divination_Result_m18: <TH>
+MID_LGV_Divination_Result_m18_001: Gu, l'Emendamento delle cose guaste. Sotto la\nsuperficie apparentemente piatta, si agitano\nmolti problemi.
+MID_LGV_Divination_Result_m18_002: Quando capita di assistere a qualche misfatto\no comportamento di dubbia natura, bisogna\ncorreggerlo.
+MID_LGV_Divination_Result_m19: <TH>
+MID_LGV_Divination_Result_m19_001: Lin, l'Avvicinamento. La fortuna fiorisce come\nle piante in primavera e si fanno progressi.
+MID_LGV_Divination_Result_m19_002: Non è consigliabile restare passivi. Bisogna saper\ncogliere l'occasione quando arriva.
+MID_LGV_Divination_Result_m20: <TH>
+MID_LGV_Divination_Result_m20_001: Guan, la Contemplazione. È fondamentale riflettere\nsulla situazione e sulle proprie scelte di vita.
+MID_LGV_Divination_Result_m20_002: Conviene mantenere le cose come stanno, ma\nsfruttare questo momento per ampliare i propri\norizzonti e prepararsi al futuro.
+MID_LGV_Divination_Result_m21: <TH>
+MID_LGV_Divination_Result_m21_001: Shi He, il Morso che spezza. C'è un certo slancio,\nma la strada è bloccata.
+MID_LGV_Divination_Result_m21_002: L'indecisione porta solo problemi. La forza di volontà\nè ciò che spianerà la strada.
+MID_LGV_Divination_Result_m22: <TH>
+MID_LGV_Divination_Result_m22_001: Bih, l'Avvenenza. I tramonti sono belli da vedere,\nma la loro luce si affievolisce in fretta e durano poco.
+MID_LGV_Divination_Result_m22_002: L'aspetto fisico è parimenti fugace. Meglio coltivare\nanche la bellezza interiore.
+MID_LGV_Divination_Result_m23: <TH>
+MID_LGV_Divination_Result_m23_001: Bo, la Frantumazione. L'immagine di una frana\ne della terra che manca da sotto i piedi.
+MID_LGV_Divination_Result_m23_002: È richiesta molta cautela. I pericoli sono in agguato.
+MID_LGV_Divination_Result_m24: <TH>
+MID_LGV_Divination_Result_m24_001: Fu, il Ritorno. L'inverno sta per concludersi\ne si prospetta l'arrivo di un periodo di rinascita,\ncome la primavera.
+MID_LGV_Divination_Result_m24_002: La fretta è cattiva consigliera. Bisogna fare un passo\nper volta, per recuperare gradualmente le forze.
+MID_LGV_Divination_Result_m25: <TH>
+MID_LGV_Divination_Result_m25_001: Wu Wang, l'Innocenza. Abbandonando la negatività,\nsi può seguire la strada più facile.
+MID_LGV_Divination_Result_m25_002: L'universo guida coloro che hanno la mente lucida\ne sono liberi dai desideri mondani.
+MID_LGV_Divination_Result_m26: <TH>
+MID_LGV_Divination_Result_m26_001: Da Xü, la Forza domatrice del grande. È un ottimo\nmomento per accumulare ricchezze e conoscenze.
+MID_LGV_Divination_Result_m26_002: Con tutti gli occhi puntati addosso, bisogna avere\naudacia. Andare oltre le aspettative degli altri e\nconcentrarsi sul compito di migliorare sé stessi.
+MID_LGV_Divination_Result_m27: <TH>
+MID_LGV_Divination_Result_m27_001: Yi, gli Angoli della bocca. Inaspettati disastri\npotrebbero sorgere a causa delle proprie parole\no addirittura del cibo che si mangia.
+MID_LGV_Divination_Result_m27_002: Occorre praticare la moderazione. Non è obbligatorio\nmangiare fino a scoppiare.
+MID_LGV_Divination_Result_m28: <TH>
+MID_LGV_Divination_Result_m28_001: Da Guo, la Preponderanza del grande. Presto sarà\nil momento di mettere alla prova la propria forza.
+MID_LGV_Divination_Result_m28_002: Meglio non prendere decisioni affrettate.\nOccorre, invece, lavorare sulle basi e prepararsi\nalle sfide future.
+MID_LGV_Divination_Result_m29: <TH>
+MID_LGV_Divination_Result_m29_001: Kan, l'Acqua. Questa è una situazione estremamente\ndura: sembra di cadere in un pozzo profondo.
+MID_LGV_Divination_Result_m29_002: D'ora in avanti, andrà sempre peggio. Le difficoltà\naumenteranno a vista d'occhio.
+MID_LGV_Divination_Result_m29_003: Potrebbe essere d'aiuto immaginarsi già sul fondo.\nPiù in basso non si può andare. Superato questo\nmomento, sarà possibile risalire e rivedere la luce.
+MID_LGV_Divination_Result_m30: <TH>
+MID_LGV_Divination_Result_m30_001: Li, il Fuoco. Si preannuncia una forza potente quanto\nil sole. Gli obiettivi sembrano più raggiungibili.
+MID_LGV_Divination_Result_m30_002: Le grandi imprese non sono più impossibili.\nAttenzione, però, a non intimidire gli altri.
+MID_LGV_Divination_Result_m31: <TH>
+MID_LGV_Divination_Result_m31_001: Xian, la Stimolazione. L'equilibrio tra yin e yang\nè ottimale. L'amore e le unioni sono favoriti.
+MID_LGV_Divination_Result_m31_002: Siccome questo esagramma rappresenta l'armonia,\npotrebbe essere un buon momento anche per le\ntrattative negli affari.
+MID_LGV_Divination_Result_m32: <TH>
+MID_LGV_Divination_Result_m32_001: Heng, la Durata. La vita proseguirà senza scossoni\npositivi o negativi.
+MID_LGV_Divination_Result_m32_002: Non è il momento per provare cose nuove.\nBisogna solo dedicarsi alle solite attività.
+MID_LGV_Divination_Result_m33: <TH>
+MID_LGV_Divination_Result_m33_001: Dun, la Ritirata. L'energia dello yin è in aumento.\nLa fortuna sta per finire.
+MID_LGV_Divination_Result_m33_002: L'importante è sapere quando tirarsi indietro con\ndignità, in modo da evitare conflitti.
+MID_LGV_Divination_Result_m34: <TH>
+MID_LGV_Divination_Result_m34_001: Da Zhuang, la Potenza del grande. L'energia dello\nyang è in aumento, così come la forza fisica.
+MID_LGV_Divination_Result_m34_002: Tuttavia, la fretta può condurre al fallimento. Prima\ndi agire, conviene fare un passo indietro e studiare\nla situazione complessiva.
+MID_LGV_Divination_Result_m35: <TH>
+MID_LGV_Divination_Result_m35_001: Jin, il Progresso. Il sole sorge, portando prosperità.
+MID_LGV_Divination_Result_m35_002: È ora di mostrare proattività. Solo così i risultati\nsaranno a portata di mano.
+MID_LGV_Divination_Result_m36: <TH>
+MID_LGV_Divination_Result_m36_001: Ming Yi, l'Ottenebramento della luce. Come il sole\ntramonta, così la buona sorte precipita.
+MID_LGV_Divination_Result_m36_002: Meglio nascondere i propri talenti e mostrarsi\nincompetenti, in modo da non dare nell'occhio.
+MID_LGV_Divination_Result_m37: <TH>
+MID_LGV_Divination_Result_m37_001: Jia Ren, la Famiglia. Come il vento alimenta\nil fuoco, anche le relazioni umane possono\nessere corroboranti.
+MID_LGV_Divination_Result_m37_002: Bisogna sempre coltivare i legami con i propri cari.\nLa collaborazione e l'attenzione reciproca sono\nfondamentali.
+MID_LGV_Divination_Result_m38: <TH>
+MID_LGV_Divination_Result_m38_001: Kui, la Contrapposizione. All'interno della cerchia\ndi amici ci sono elementi di ribellione e sfida,\noltre a opinioni contrastanti.
+MID_LGV_Divination_Result_m38_002: Per il momento, conviene accettare compromessi\ne prestare attenzione agli altri.
+MID_LGV_Divination_Result_m39: <TH>
+MID_LGV_Divination_Result_m39_001: Jian, l'Impedimento. Indica che la strada è bloccata\nda vari fattori che porteranno a situazioni difficili e\na una fase di stallo.
+MID_LGV_Divination_Result_m39_002: Cambiare abitudini in momenti come questi è\nestremamente pericoloso. Occorre mantenere\nuna grande cautela.
+MID_LGV_Divination_Result_m39_003: Per un po' è sconsigliato intraprendere viaggi\nnotturni o frequentare zone pericolose. Sono da\npreferire i percorsi meno accidentati.
+MID_LGV_Divination_Result_m40: <TH>
+MID_LGV_Divination_Result_m40_001: Jie, la Liberazione. È un buon momento per\nrisolvere i problemi intervenendo attivamente.
+MID_LGV_Divination_Result_m40_002: Le decisioni rapide saranno propizie. La fortuna\nè dalla parte di chi agisce con sicurezza.
+MID_LGV_Divination_Result_m41: <TH>
+MID_LGV_Divination_Result_m41_001: Sun, la Diminuzione. Anche le scelte che a prima\nvista sembrano portare alla sconfitta possono rivelarsi\npropizie.
+MID_LGV_Divination_Result_m41_002: I risultati maggiori si avranno lasciando spazio agli\naltri e mostrando rispetto.
+MID_LGV_Divination_Result_m42: <TH>
+MID_LGV_Divination_Result_m42_001: Ii, l'Accrescimento. Indica un periodo favorevole,\nin cui è facile ottenere la cooperazione degli altri.
+MID_LGV_Divination_Result_m42_002: Ora è il momento giusto per iniziare qualcosa\ndi grande. Più in fretta si agisce, migliori saranno\ni risultati.
+MID_LGV_Divination_Result_m43: <TH>
+MID_LGV_Divination_Result_m43_001: Guai, la Risolutezza. Potrebbe non essere un buon\nmomento per agire.
+MID_LGV_Divination_Result_m43_002: C'è rischio di incorrere nella malasorte, ma presto\nsi presenteranno altre opportunità.
+MID_LGV_Divination_Result_m44: <TH>
+MID_LGV_Divination_Result_m44_001: Gou, il Farsi incontro. L'energia dello yin sta\naumentando e potrebbe portare a un inaspettato\ncolpo di sfortuna.
+MID_LGV_Divination_Result_m44_002: Questo è il momento di stare attenti alle relazioni.\nÈ una buona idea tenere d'occhio l'ambiente\ncircostante.
+MID_LGV_Divination_Result_m45: <TH>
+MID_LGV_Divination_Result_m45_001: Cui, la Raccolta. Rappresenta l'abbondanza\ndi persone e risorse.
+MID_LGV_Divination_Result_m45_002: La generosità porterà alla prosperità, molto più\ndell'avarizia.
+MID_LGV_Divination_Result_m46: <TH>
+MID_LGV_Divination_Result_m46_001: Sheng, l'Ascendere. È in arrivo una crescita\nsignificativa, come le piante che spuntano\ndal terreno.
+MID_LGV_Divination_Result_m46_002: Tuttavia, la fretta non porta a buoni risultati.\nÈ importante crescere costantemente, ma senza\nmostrare impazienza.
+MID_LGV_Divination_Result_m47: <TH>
+MID_LGV_Divination_Result_m47_001: Kun, l'Esaurimento, mh? Ecco... Non so come\nspiegarlo in maniera delicata.
+MID_LGV_Divination_Result_m47_002: Sono in arrivo enormi difficoltà e sofferenze\ninimmaginabili.
+MID_LGV_Divination_Result_m47_003: Tuttavia, come si suol dire, tutto ha una fine.\nAnche le avversità si possono superare, basta\ncrederci.
+MID_LGV_Divination_Result_m48: <TH>
+MID_LGV_Divination_Result_m48_001: Jing, il Pozzo. Indica un'attitudine consapevole,\nfedele ai propri doveri e ricca di fermezza.
+MID_LGV_Divination_Result_m48_002: È consigliabile mantenere la situazione attuale,\nsenza spingere per un cambiamento.
+MID_LGV_Divination_Result_m49: <TH>
+MID_LGV_Divination_Result_m49_001: Ge, il Sovvertimento. Una collisione tra vecchio\ne nuovo sta per portare grandi cambiamenti.
+MID_LGV_Divination_Result_m49_002: È tempo di accantonare le idee obsolete e di\nintrodurne di nuove. Tutto inizierà a muoversi\nverso una direzione positiva.
+MID_LGV_Divination_Result_m50: <TH>
+MID_LGV_Divination_Result_m50_001: Ding, il Crogiolo. La stabilità e persino l'equilibrio\npossono giungere attraverso l'armonia.
+MID_LGV_Divination_Result_m50_002: Quando si è in difficoltà, è meglio chiedere l'opinione\ndi chi si ha intorno, piuttosto che cercare di affidarsi\ninteramente al proprio giudizio.
+MID_LGV_Divination_Result_m51: <TH>
+MID_LGV_Divination_Result_m51_001: Zhen, lo Scuotimento. Perdendo il controllo delle\nproprie emozioni, si finisce per influenzare chi ci\ncirconda, nel bene e nel male.
+MID_LGV_Divination_Result_m51_002: È consigliabile più cautela del solito, tenendo sotto\ncontrollo le emozioni.
+MID_LGV_Divination_Result_m52: <TH>
+MID_LGV_Divination_Result_m52_001: Gen, la Quiete. Adesso non è il momento di fare\nalcuna mossa nella vita.
+MID_LGV_Divination_Result_m52_002: Bisogna rimanere immobili come una montagna,\nconsiderando con calma la situazione attuale ed\nevitando qualsiasi tipo di cambiamento.
+MID_LGV_Divination_Result_m53: <TH>
+MID_LGV_Divination_Result_m53_001: Jan, lo Sviluppo. La situazione attuale progredirà,\na patto di prendere le misure giuste.
+MID_LGV_Divination_Result_m53_002: Le cose stanno decisamente andando nella direzione\ndesiderata: basta credere in sé stessi e continuare\nper la propria strada.
+MID_LGV_Divination_Result_m54: <TH>
+MID_LGV_Divination_Result_m54_001: Gui Mei, la Ragazza che si sposa. I desideri\nimmediati hanno il sopravvento.
+MID_LGV_Divination_Result_m54_002: Sconsiglio di lasciarsi travolgere da emozioni\ntemporanee. Molto meglio mantenere la lucidità.
+MID_LGV_Divination_Result_m55: <TH>
+MID_LGV_Divination_Result_m55_001: Feng, l'Abbondanza. Percepisco molta vitalità.\nQuesta darà lo slancio per fare le cose nel modo\ndesiderato.
+MID_LGV_Divination_Result_m55_002: Meglio non rimandare niente. Prendere decisioni\nrapide contribuirà a orientare la vita verso la giusta\ndirezione.
+MID_LGV_Divination_Result_m56: <TH>
+MID_LGV_Divination_Result_m56_001: Lu, il Viandante. La vita è un viaggio senza meta\ne avvolge il viandante nell'incertezza.
+MID_LGV_Divination_Result_m56_002: Non ha senso preoccuparsi troppo del futuro,\nanche quando la solitudine è una costante.
+MID_LGV_Divination_Result_m57: <TH>
+MID_LGV_Divination_Result_m57_001: Xun, il Mite. Il senso di instabilità della vita potrebbe\nportare a un attacco di ansia. Ma non è il caso di\nfarsi prendere dal panico.
+MID_LGV_Divination_Result_m57_002: Una figura di rispetto dispenserà i consigli giusti\nsu quale strada intraprendere.
+MID_LGV_Divination_Result_m58: <TH>
+MID_LGV_Divination_Result_m58_001: Dui, il Sereno. In questo momento di tentazione,\nil piacere sembra irresistibile.
+MID_LGV_Divination_Result_m58_002: La bocca può essere fonte di guai. Meglio mantenere\ntutte le discussioni calme e pacifiche.
+MID_LGV_Divination_Result_m59: <TH>
+MID_LGV_Divination_Result_m59_001: Huan, la Dissoluzione. Cambiare ambiente potrebbe\nessere ciò che serve per risolvere alcuni dei maggiori\nproblemi di questo momento.
+MID_LGV_Divination_Result_m59_002: D'altra parte, se si vive una situazione stabile, c'è\nil rischio di perdere qualcosa nel processo.
+MID_LGV_Divination_Result_m60: <TH>
+MID_LGV_Divination_Result_m60_001: Je, la Delimitazione. La consapevolezza e la\nmoderazione sono grandi virtù. Il troppo stroppia.
+MID_LGV_Divination_Result_m60_002: Non va bene né spendere troppo, né risparmiare\ntroppo. Ci vuole equilibrio.
+MID_LGV_Divination_Result_m61: <TH>
+MID_LGV_Divination_Result_m61_001: Zhong Fu, la Verità interiore. C'è qualcuno legato\nda una relazione profonda basata sulla fiducia.
+MID_LGV_Divination_Result_m61_002: Ora è un buon momento per affrontare tutto con\narmonia e senza ostinazione.
+MID_LGV_Divination_Result_m62: <TH>
+MID_LGV_Divination_Result_m62_001: Xiao Guo, la Preponderanza del piccolo. C'è uno\nsquilibrio energetico che propende per lo yin. Se gli\nsforzi sono eccessivi, meglio riconsiderare le scelte.
+MID_LGV_Divination_Result_m62_002: Meglio evitare i grandi progetti per un po',\nmantenendo un atteggiamento calmo nei\nconfronti di tutto.
+MID_LGV_Divination_Result_m63: <TH>
+MID_LGV_Divination_Result_m63_001: Ji Ji, Dopo il compimento. La situazione attuale è già\nstata completata e tutto è stabile.
+MID_LGV_Divination_Result_m63_002: La fortuna sorride su ogni fronte, ma ora è anche\nil momento di iniziare a prepararsi per i guai futuri.
+MID_LGV_Divination_Result_m64: <TH>
+MID_LGV_Divination_Result_m64_001: Wei Ji, Prima del compimento. È necessario\nun grande impegno per completare gli obiettivi.
+MID_LGV_Divination_Result_m64_002: Tuttavia, è il momento perfetto per iniziare ad agire.

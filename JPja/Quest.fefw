@@ -1,0 +1,884 @@
+﻿MSQID_Goal_CommonDelivery: 以下の物を納品
+MSQID_Title_TUT_ToolMaker: 道具屋にお越しください
+MSQID_Detail_TUT_ToolMaker: 新しく帝都へ来た人も、帝都から遠くへ旅立つ人も\nみんな１度は立ち寄りたい店、それが道具屋さ！\n今なら来店された方全員に記念品を進呈中。\nお気軽にお立ち寄りください！
+MSQID_Comp_TUT_ToolMaker: よく来てくれた！　記念にこの傷薬をどうぞ！\nうちの店では、役に立つ物を色々取りそろえてる。\n備え多くばなんとやら。道具袋に余裕があるなら\n是非、うちの商品をたくさん買っていってくれよ！
+MSQID_Goal_TUT_ToolMaker: 道具屋と話す
+MSQID_Client_TUT_ToolMaker: 道具屋
+MSQID_Title_TUT_WeaponShop: うちの武器屋へ寄ってくれ
+MSQID_Detail_TUT_WeaponShop: うちの武器屋は腕利きの職人が揃っててね、\n商品は、切れ味も、使いやすさも折り紙付きさ！\n口ではなんとでも言える？　嘘なもんか。\n試しに剣を一振りやるよ。店に来てくれ。
+MSQID_Comp_TUT_WeaponShop: 店に来てくれて感謝だよ！　これはうちの木刀さ。\n作りには自信がある。使い心地を確かめてくれ。\nこれから品揃えもたくさん増えていく予定さ。\nまたちょくちょくのぞきに来ておくれよ。
+MSQID_Goal_TUT_WeaponShop: 武器屋と話す
+MSQID_Client_TUT_WeaponShop: 武器屋
+MSQID_Title_TUT_TripHotel: 宿屋でお待ちしています
+MSQID_Detail_TUT_TripHotel: 帝都への長旅でおつかれでしょう。\n宿屋では安らぎの寝床と、美味しい料理を用意して、\nいつでもお客様をお待ちしています。\n粗品を差し上げますので、是非一度お越しください！
+MSQID_Comp_TUT_TripHotel: わざわざ来てもらってありがとうございます！\nつまらない物ですが、約束の粗品をどうぞ。\n宿屋は朝から晩まで１日中営業しています。\nひと休みしたくなったら気軽に立ち寄ってください。
+MSQID_Goal_TUT_TripHotel: 宿屋と話す
+MSQID_Client_TUT_TripHotel: 宿屋
+MSQID_Title_TUT_Temple: 一度は神殿を参拝ください
+MSQID_Detail_TUT_Temple: ダグザには偉大なる幾柱もの神々がおわし、\n上層の参道には、その方々を奉る神殿があります。\n一度は参詣しなければ、不敬にあたりましょう。\nどの神殿でも構いません。参拝にいらしてください。
+MSQID_Comp_TUT_Temple: よく参られました！　記念の品を差し上げましょう。\n神殿では清らかなる労働によって、偉大なる神々へ\n奉仕を捧げることができます。神は見ておられます。\n信心篤き者には、奇跡を授けてくださるでしょう。
+MSQID_Goal_TUT_Temple: 参殿者受付と話す
+MSQID_Client_TUT_Temple: 参殿者受付
+MSQID_Title_TUT_Blacksmith: 鍛冶屋を使ったことあるかい？
+MSQID_Detail_TUT_Blacksmith: 武器って奴は、鍛えれば切れ味が上がるし\n修理してやれば長く使えるもんさ。\n鍛冶屋にくれば、あんたの得物を見てやるぜ。\n興味があるなら訪ねてくれ。良い物をやるよ。
+MSQID_Comp_TUT_Blacksmith: わざわざ来てもらって悪かったな！\nあんたには、特別にこの錬成石をやるよ。\nこいつで好きな武器を鍛えることができる。\nいつでも声をかけてくれ！
+MSQID_Goal_TUT_Blacksmith: 鍛冶屋と話す
+MSQID_Client_TUT_Blacksmith: 鍛冶屋
+MSQID_Title_TUT_Theater_Watch: 劇場で感動の一時を
+MSQID_Detail_TUT_Theater_Watch: 溢れる感動！　やまぬ喝采！　娯楽の殿堂である\n劇場では、古今東西の名作劇を毎日上演中です！\n今なら来場記念にささやかな品をご用意しています。\n是非、大切な方と一緒に素敵なひと時を！
+MSQID_Comp_TUT_Theater_Watch: おお……よくぞお越しくださいました！\n当劇場では素敵な演目を日替わりで上演しています。\n一度観劇なさってください。そして気に入ったなら\n明日もここでお会いしましょう！
+MSQID_Goal_TUT_Theater_Watch: 劇場受付と話す
+MSQID_Client_TUT_Theater_Watch: 劇場受付
+MSQID_Title_TUT_Thermae: テルマエで美と健康を
+MSQID_Detail_TUT_Thermae: 帝都に集う高貴な紳士淑女が、心身の疲れを癒やし\n美と健康を得る場所……それがテルマエです！\n是非一度、その素晴らしさを体験してみませんか？\nただいま受付で、湯上がりのお土産を進呈中です。
+MSQID_Comp_TUT_Thermae: お越しいただき誠にありがとうございます！\nテルマエでは様々な効能の湯をご用意しております。\n従業員一同、またのご来訪、そしてご入浴を\n心よりお待ちしております！
+MSQID_Goal_TUT_Thermae: テルマエ受付と話す
+MSQID_Client_TUT_Thermae: テルマエ受付
+MSQID_Title_TUT_MarketShop: 素敵な贈り物は贈り物屋で！
+MSQID_Detail_TUT_MarketShop: あんた、仲良くなりたい相手がいたらどうする？\nそう、心のこもった贈り物を渡すのが一番だよな？\nあたいの市場には、素敵な贈り物が売ってるぜ。\n店は道具屋や武器屋の並びにある。遊びにきてくれ！
+MSQID_Comp_TUT_MarketShop: 来てくれて感謝！　あたいから贈り物をあげるよ。\n贈り物っていいよね。みんなを笑顔にする。\nまあ気に入らないものも、あるかもだけどさ……\nまた何か買っていってよ。勉強させてもらうから！
+MSQID_Goal_TUT_MarketShop: 贈り物屋と話す
+MSQID_Client_TUT_MarketShop: 贈り物屋
+MSQID_Title_Makeup: ダーリンに釣り合うために
+MSQID_Detail_Makeup: 良い化粧品を手に入れて、化粧の仕方を覚えて\nダーリンに釣り合う、大人の女になってやる！！\nでも、大人っぽい化粧品ってどこで手に入るのかな？\nダーリン知らない？　持ってたり……しないよね？
+MSQID_Comp_Makeup: 本当に化粧品を持ってきてくれたの！？\nダーリンありがとう！！　すっごくうれしい！！　\nこれであたいも一気に大人の女……って、言いたい\nとこだけど、もったいないからちょっとずつ使うね！
+MSQID_Goal_Makeup: 以下の物を納品
+MSQID_Client_Makeup: エスメラルダ
+MSQID_Title_BattleStrangeness: 化け物は夜歩く
+MSQID_Detail_BattleStrangeness: 夜に化け物が現れて店を襲っていくんだ！\nなんでもそいつは市街地の奥に消えていくらしい。\n報酬ならはずむ！　あんた、退治してくれないか？\n俺は夜は家に籠もるから、また昼に会いに来てくれ！
+MSQID_Comp_BattleStrangeness: 本当に例の化け物を退治してくれたのか！？\nこれで商店のみんなもまた安心して商売ができる！\nあんたには大きな借りができちまったな。\nささ、言ってた報酬を受け取ってやってくれ。
+MSQID_Goal_BattleStrangeness: 闇夜の怪異を倒す
+MSQID_Client_BattleStrangeness: 商店の店主
+MSQID_Title_MardleInquiry: マードルの聞き込み調査
+MSQID_Detail_MardleInquiry: マードル殿のことがおれにはどうも引っかかる。\n彼の情報を集めることを君にも協力してほしい。\n街で聞き込みを行って十分な情報が集まったら、\nおれのところに来てほしい。
+MSQID_Comp_MardleInquiry: ご苦労だった。思っていたよりも情報が集まったな。\nやはりマードル殿に何かあるらしいことは分かった。\n後は、引き続き、おれたちカーラ神殿のほうで\n調査は続行しよう。
+MSQID_Goal_MardleInquiry: マードルの情報を集める
+MSQID_Client_MardleInquiry: シロッコ
+MSQID_Title_HrihRequest: 亡き妹の装身具
+MSQID_Detail_HrihRequest: 情けない話さ。かけがえのない妹の形見を\nくだらぬ賊に盗み出されてしまった。\n俺は今この街から離れる事ができぬ。\n奪還を代わりに頼むことはできないだろうか？
+MSQID_Comp_HrihRequest: おお……本当に取り返してくれるとは！\n俺は、貴公に大きな借りができてしまったな。\nこのキリーク、己の名に懸けて、\n貴公への恩をいつか必ず返すと、約束しよう。
+MSQID_Goal_HrihRequest: 以下の物を納品
+MSQID_Client_HrihRequest: キリーク
+MSQID_Title_Relief1: セントリオンからの救援要請
+MSQID_Detail_Relief1: 我々はあの方と共に、リベイラ村からダグシオンへと\n向かおうとしているのですが、巨人の冥界兵に遭遇し\n道を塞がれ、大変苦戦しております。\n急ぎ、冥界兵の排除を御願い致します！
+MSQID_Comp_Relief1: 障害の排除、ありがとうございます！\nこれで無事にダグシオンに向かうことができます！\nあの方はご無事です。どうか救世主殿も\nお怪我のないようご帰還ください。
+MSQID_Goal_Relief1: 冥界兵を倒す
+MSQID_Client_Relief1: セントリオン
+MSQID_Title_ReconstructionArena1: 大闘技場再建計画
+MSQID_Detail_ReconstructionArena1: 破壊されたダグシオン大闘技場を再建すれば、\nそれが人々の希望につながると信じています。\nしかしその再建には、多くの物資が必要です。\n再建資材を集めてきていただけませんか？
+MSQID_Comp_ReconstructionArena1: 必要な再建資材を集めてくださったんですね！\n苦労なさったでしょう……ありがとうございます！\n集まった資材は無駄に致しません。\n大闘技場再建に、皆で全力を尽くします！
+MSQID_Goal_ReconstructionArena1: 以下の物を納品
+MSQID_Client_ReconstructionArena1: 闘技場再建係
+MSQID_Reward_Menu_ReconstructionArena1: 訓練ができるようになる
+MSQID_Reward_Result_ReconstructionArena1: 訓練ができるようになった
+MSQID_Title_ReconstructionArena2: 続、大闘技場再建計画
+MSQID_Detail_ReconstructionArena2: ご覧ください！　闘技場の再建が進んでいます！\n外観ができ、訓練もできるようになりました。\nしかし……完全な再建には、もっと資材が必要です。\n今一度、再建資材を集めてもらえないでしょうか？
+MSQID_Comp_ReconstructionArena2: 素晴らしい……必要な資材が全て揃いました！\nこれで大闘技場はかつての姿を取り戻し、\n人々の心にも、希望の光が差すことでしょう。\n救世主様のお陰です。本当に有り難うございました！
+MSQID_Goal_ReconstructionArena2: 以下の物を納品
+MSQID_Client_ReconstructionArena2: 闘技場再建係
+MSQID_Reward_Menu_ReconstructionArena2: 訓練の効果の上昇
+MSQID_Reward_Result_ReconstructionArena2: 訓練の効果が上昇しました
+MSQID_Title_ReconstructionDining1: 失われた帝都の味
+MSQID_Detail_ReconstructionDining1: 宿屋の調理場が壊れてしまっていて……\n今はお料理を出すことができないんです。\n直すための資材もなかなか手に入らなくて……\nもしお持ちなら分けてやってください。
+MSQID_Comp_ReconstructionDining1: 資材を分けていただけるなんて……\nこれで、温かい料理を作れるようになります！\nありがとうございます。みんな喜びます。\nまた食べに来てやってください！
+MSQID_Goal_ReconstructionDining1: 以下の物を納品
+MSQID_Client_ReconstructionDining1: 宿屋の店員
+MSQID_Reward_Menu_ReconstructionDining1: 食事ができるようになる
+MSQID_Reward_Result_ReconstructionDining1: 食事ができるようになった
+MSQID_Title_ReconstructionDining2: 復活の帝都の味
+MSQID_Detail_ReconstructionDining2: もっと資材があれば、宿屋の調理場をさらに直して\nさらに美味しい料理を出せると思うのです。\nこのご時世に、我が儘なのは承知ですが、\n資材に余裕があれば分けてやってください。
+MSQID_Comp_ReconstructionDining2: またもや資材を持ってきてくださるなんて……\nこれで宿屋の調理場は完全に元通りです！\nみんな大喜びですよ、本当に感謝です！\n救世主様も、今度ゆっくり食べていってください！
+MSQID_Goal_ReconstructionDining2: 以下の物を納品
+MSQID_Client_ReconstructionDining2: 宿屋の店員
+MSQID_Reward_Menu_ReconstructionDining2: 食事の効果が上がる
+MSQID_Reward_Result_ReconstructionDining2: 食事の効果が上がりました
+MSQID_Title_ReconstructionTemple: 祈りを支えるもの
+MSQID_Detail_ReconstructionTemple: 神殿に参拝者が続々と訪れているのですが\n祈りの儀式を行うための道具が不足しています。\n資材があれば、揃えることができるのですが……\n寄付していただくことはできないでしょうか？
+MSQID_Comp_ReconstructionTemple: 資材を寄付いただけるんですね！\nおお……ありがとうございます！\n貴方の行いを神々は見てくださっています。\nそのご加護が貴方と共にありますように……！
+MSQID_Goal_ReconstructionTemple: 以下の物を納品
+MSQID_Client_ReconstructionTemple: 復興を進める神官
+MSQID_Reward_Menu_ReconstructionTemple: 奉仕活動の効果が上がる
+MSQID_Reward_Result_ReconstructionTemple: 奉仕活動の効果が上がりました
+MSQID_Title_KAI_FirstSubjugation: 怒りの仇討ち
+MSQID_Detail_KAI_FirstSubjugation: うちの父ちゃんを襲った悪い盗賊を\nやっつけてやりたいんだ！\nえ？　お兄ちゃんが退治してくれる？\n無理しなくていいよ？　弱そうだもん！
+MSQID_Comp_KAI_FirstSubjugation: 父ちゃんの仇をとってくれたの？\n弱そうっていってごめんね……ありがとう！\nお兄ちゃんたちのことみんなに話すね。\nきっと評判になるよ！
+MSQID_Goal_KAI_FirstSubjugation: 盗賊を倒す
+MSQID_Client_KAI_FirstSubjugation: 怒っている少年
+MSQID_Title_KAI_FirstDelivery: 大切な髪留め
+MSQID_Detail_KAI_FirstDelivery: 「ニグリア鉱山」で遊んでた時に\n出口でお気に入りの髪留めを落としちゃったの。\n山賊がうろつくようになって、捜しにいけなくて……\n誰か見つけてきてくれないかな……
+MSQID_Comp_KAI_FirstDelivery: 髪留め、本当に大切にしてたから\nあきらめきれなかったの……ありがとう！\nお兄ちゃんたちすごいね。\n困ったことがあったら、またお願いしてもいい？
+MSQID_Goal_KAI_FirstDelivery: 以下の物を納品
+MSQID_Client_KAI_FirstDelivery: 泣いている少女
+MSQID_Title_KAI_SearchSunset: 幻の夕日
+MSQID_Detail_KAI_SearchSunset: マグナス台地から見る夕日が綺麗なんじゃが\n最近は気性の荒い動物どもが跋扈しておってのう。\nとても夕日なんぞ見ておれる状況ではない。\n誰か追っ払ってくれんかのう……
+MSQID_Comp_KAI_SearchSunset: 動物どもを追っ払ってくれたのか！\n若いくせに、中々やるのう！\nばあさんと逢い引きをした思い出の場所でのう。\nこれでまたあの夕日をゆっくり拝めるわい。
+MSQID_Goal_KAI_SearchSunset: 動物の群れを倒す
+MSQID_Client_KAI_SearchSunset: 夕日が見たい老人
+MSQID_Title_KAI_SearchingGranddaughter: 孫の捜索依頼
+MSQID_Detail_KAI_SearchingGranddaughter: うちの孫がどこかに遊びにいったまま\n一向に戻って来る様子がないんじゃ！\nなあ、あんた、うちの孫を見かけたら\n戻って来るように伝えてもらえんかの？
+MSQID_Comp_KAI_SearchingGranddaughter: あんたのお陰で、無事に孫が戻って来た。\n心配したわい、本当にすまんかったな！\nちょっと目を離すとすぐどっかへ行くんじゃ……\nま、ワシも若い頃はそうじゃったがな。
+MSQID_Goal_KAI_SearchingGranddaughter: 老人の孫と話す
+MSQID_Client_KAI_SearchingGranddaughter: 孫を探す老婆
+MSQID_Title_KAI_SolitaryFlower: 熱き想いよ届け
+MSQID_Detail_KAI_SolitaryFlower: ああ……アレキサンドラちゃん！　\nおじさん、彼女に一目惚れしちゃった！\n一生の御願いだ、ボクがしたためた\nこの恋文を彼女に届けてくれ、頼む！！！！
+MSQID_Comp_KAI_SolitaryFlower: アレキサンドラちゃんが、ボクの手紙を\n受け取ってくれたんだ！　やったぜ！\nおじさんの気持ちに応えてくれるかな……\nいや、絶対応えてくれる！　楽しみだなあ！
+MSQID_Goal_KAI_SolitaryFlower: アレキサンドラと話す
+MSQID_Client_KAI_SolitaryFlower: 熱い想いの男性
+MSQID_Title_KAI_Doppelganger: 謎の伝言
+MSQID_Detail_KAI_Doppelganger: 私のように、箒を持った女性が、あと２人います。\n上層や下層には行っていないはず……\n彼女たちを探し出して、『目標は達した』\nと伝えてもらえませんか？　御願いします！
+MSQID_Comp_KAI_Doppelganger: 掃除に夢中で姉妹とはぐれてしまって……\n見つからなくて帰れないところでした。\n親切な人っているんですね。感動しました。\nうふふ……私の心が綺麗になりました。
+MSQID_Goal_KAI_Doppelganger: 箒を持った女性２人と話す
+MSQID_Client_KAI_Doppelganger: 箒を持つ女性
+MSQID_Title_KAI_SearchingNobleman: 大旦那様はいずこに
+MSQID_Detail_KAI_SearchingNobleman: 大旦那様が、いなくなってしまったの！\nこのダグシオンからは出ていないと思うけど……\n上の方は見たから、下層が怪しいわね。\n一緒に大旦那様を探して！　御願いよ！
+MSQID_Comp_KAI_SearchingNobleman: 大旦那様が見つかってよかったわ！\nこれで、私も解雇されずに済みそう。\nだけど、どうしてそんな場所に……\nもし海に落ちていたら危ないところだったわ……
+MSQID_Goal_KAI_SearchingNobleman: 富豪の老人と話す
+MSQID_Client_KAI_SearchingNobleman: 使用人の女性
+MSQID_Title_KAI_LostCat: 神殿の迷い猫
+MSQID_Detail_KAI_LostCat: 当神殿でお世話をしている猫が一匹、\n最近、姿が見えないのです……\nひょっとしたら参道を下りていったのかも。\n闘技場付近などを捜してもらえませんか？
+MSQID_Comp_KAI_LostCat: あれからずっと心配していました。\n見つかって実によかったです！\nえ？　噴水の近くにいたんですか？\n喉でも渇いていたんでしょうか。
+MSQID_Goal_KAI_LostCat: 迷い猫を見つける
+MSQID_Client_KAI_LostCat: 猫の世話係の神官
+MSQID_Title_KAI_DeepestSinner: 悠久の囚われ人
+MSQID_Detail_KAI_DeepestSinner: 大闘技場の地下のどっかに、何百年も前から\n捕まってる極悪人がいるんだってよ！\nそんな奴が本当にいたら見てみたいもんだ。\nお前、もしそいつに会ったら俺に教えてくれよ。
+MSQID_Comp_KAI_DeepestSinner: 『誰もいなかった』って言ってたのか？\nやっぱり嘘かよ。そんなことだろうと思……\nえ？　じゃあ、誰がそれを言ったんだ？\nなんで隠すんだよ！　おい！
+MSQID_Goal_KAI_DeepestSinner: リンドと話す
+MSQID_Client_KAI_DeepestSinner: 噂好きな市民
+MSQID_Title_KAI_Courage: 憧れの黒き剣士
+MSQID_Detail_KAI_Courage: わたし、ディートリヒさんを応援してるんです！\n戦っている姿を見て、素敵だなって思ってて……\nその気持ちを詩にしたので、届けて貰えませんか？\nお姿は、よくマーズ神殿の近くでお見かけします。
+MSQID_Comp_KAI_Courage: 例の物、届けていただけたんですね！\nしかも、喜んで貰えたみたいで嬉しいです！\nわたし、勇気がでてきました！　今度から、\n直接贈り物をしてみます。ありがとうございました！
+MSQID_Goal_KAI_Courage: ディートリヒと話す
+MSQID_Client_KAI_Courage: 熱い眼差しの女性
+MSQID_Title_KAI_UsedHarness: 帝都でも手に入らぬ物
+MSQID_Detail_KAI_UsedHarness: 馬車が動かなくなってしもうてな……\n壊れた車軸はメガエラの職人にしか作れん。\n坊や、ついでがあれば買ってきてくれんか…？\n特別に、乗合馬車を使えるようにしてやるぞ！
+MSQID_Comp_KAI_UsedHarness: 本当にメガエラまで行ってきてくれたのか！？\n坊やのことを見くびっておったな……\n小さいなりで、大人も顔負けの行動力じゃ。\nそんな坊やにこそ、乗合馬車は必要じゃろう。
+MSQID_Goal_KAI_UsedHarness: 以下の物を納品
+MSQID_Client_KAI_UsedHarness: 乗合馬車の御者
+MSQID_Reward_Menu_KAI_UsedHarness: 乗合馬車が使用できるようになる
+MSQID_Reward_Result_KAI_UsedHarness: 乗合馬車が使用できるようになった
+MSQID_Title_KAI_MemoriesTreasure: 隠された思い出
+MSQID_Detail_KAI_MemoriesTreasure: 若い頃、兵士として北の砦に務めておった時に\n任務の合間に、木で人形を彫っておったんじゃ。\n砦を囲む、石壁の隙間に隠したんじゃが……\n今でもあるのか、見てきてくれんか？
+MSQID_Comp_KAI_MemoriesTreasure: あったのか！？　おお……もう１度こいつを\n手にすることができるとは……嬉しいのう！\nわしはジュラ様に憧れおってのう。\nこいつを眺めて辛い仕事に耐えておったんじゃ。
+MSQID_Goal_KAI_MemoriesTreasure: 以下の物を納品
+MSQID_Client_KAI_MemoriesTreasure: 元兵士の老人
+MSQID_Title_KAI_LargeBouquet: 永遠の愛の花束
+MSQID_Detail_KAI_LargeBouquet: もうすぐ、うちのばあさんの誕生日でな。\nあいつの好きな花を花束にして贈ってやりたい。\nお前さん、元気が有り余っていそうじゃな。\n代わりに集めて来てくれんか？　頼んだぞ。
+MSQID_Comp_KAI_LargeBouquet: ありがとう。お前さんが花を集めてくれたから、\nばあさんの墓に花を供えることができそうじゃ。\n毎年、誕生日に花を持っていくんじゃ。\nこの命続く限り、供えてやりたいもんじゃ。
+MSQID_Goal_KAI_LargeBouquet: 以下の物を納品
+MSQID_Client_KAI_LargeBouquet: 妻想いの老人
+MSQID_Title_KAI_LikePegasus: 天翔ける相棒
+MSQID_Detail_KAI_LikePegasus: ペガサスなら私の相棒に相応しいと思って\nわざわざ帝都まで来たのに、売ってないの。\n私の為に、美しい野生のペガサスを用意して！\nお礼ならするわ、御願いね！
+MSQID_Comp_KAI_LikePegasus: ペガサスって、男の私は乗せてくれないの！？\n……これは意外な盲点だったわ。\nでも、そういう所も私と似てるかも？\n相棒じゃなく友達として迎えることにするわ。
+MSQID_Goal_KAI_LikePegasus: 以下の物を納品
+MSQID_Client_KAI_LikePegasus: ペガサスが欲しい傭兵
+MSQID_Title_KAI_BigAndSmall: 好きなこと苦手なこと
+MSQID_Detail_KAI_BigAndSmall: ボクの母ちゃんが魚が好きなんだけど\n今、病気で寝込んじゃってるんだ。\n好きな魚を食べさせたいけど、触れないから……\nお兄ちゃん、代わりに獲ってきてくれない？
+MSQID_Comp_KAI_BigAndSmall: 新鮮な魚を持ってきてくれてありがとう！\nこれで母ちゃんもきっと元気になるよ！\n魚に触れないのに、どうやって料理するのかって？\n香草と一緒に麺包の生地にくるんで蒸し焼きさ。
+MSQID_Goal_KAI_BigAndSmall: 以下の物を納品
+MSQID_Client_KAI_BigAndSmall: 魚が欲しい子供
+MSQID_Title_KAI_AdultSituation: 関に居座る者たち
+MSQID_Detail_KAI_AdultSituation: 今、カスタリア地方へ行こうとすると\nフーゴ関に怪しい連中がいて進めないんだ。\n……あそこ、通れないと困るなあ。\n誰か連中を追っ払ってくれないかなあ。
+MSQID_Comp_KAI_AdultSituation: あの怪しいやつらは盗賊団だったのか！\n関を根城にするなんて、ふてえ連中だ。\nま、とにかくこれで、カスタリア地方に\nいけるようになったな。助かった、感謝だぜ！
+MSQID_Goal_KAI_AdultSituation: “アインジャ盗賊団”を倒す
+MSQID_Client_KAI_AdultSituation: カスタリアからの旅人
+MSQID_Reward_Menu_KAI_AdultSituation: フーゴ関が通行できるようになる
+MSQID_Title_KAI_NoEntry: 猛獣の待つ帰り路
+MSQID_Detail_KAI_NoEntry: 私、イデュイア地方から商売で来たのですが\n帰り道の途中に、猛獣がたむろしてるらしくて……\n藁にもすがる気持ちなのです。\n猛獣どもを追っ払ってもらえないでしょうか？
+MSQID_Comp_KAI_NoEntry: 猛獣を追っ払っていただいて、助かりました！\nこれでようやく自分の店に帰れます。\nリーベルタス関から東も面白い所ですよ。\nまたゆっくり訪ねてみてね、お兄ちゃん！
+MSQID_Goal_KAI_NoEntry: “不動の翼”を倒す
+MSQID_Client_KAI_NoEntry: イデュイアから来た行商人
+MSQID_Reward_Menu_KAI_NoEntry: リーベルタス関が通行できるようになる
+MSQID_Title_KAI_BattlePest: 虫嫌いの代理任務
+MSQID_Detail_KAI_BattlePest: 大問題だ！　最近、クリュテイオス平原で\nサンドバアルが大量発生し、民に危険が及んでいる！\n少年、虫が好きだろ？　虫嫌いのおじさんの代わりに\n駆除してサンドバアルの尾を集めてくれないかな？
+MSQID_Comp_KAI_BattlePest: 虫が好きなのに、戦わせてすまない。\n大人として、罪悪感でいっぱいだ。\nだが、自分も含め、多くの人を救ってくれた。\n君は立派だ！　礼を言うよ。
+MSQID_Goal_KAI_BattlePest: 以下の物を納品
+MSQID_Client_KAI_BattlePest: 虫嫌いの兵士
+MSQID_Title_KAI_DreamHome: 廃屋の支配者
+MSQID_Detail_KAI_DreamHome: バアル湖の南側にある「湖畔の廃屋」を\n所有者が競売にかけることにしたんだ。\nしかし、今では猛獣の住処になっていてね。\n誰か駆除してくれないだろうか？
+MSQID_Comp_KAI_DreamHome: 実はあの廃屋の所有者は私なのだ。\n猛獣たちも私が飼っていたんだが\nある日、檻の鍵をかけ忘れてね……\nお陰で邪魔者はいなくなった。礼をいうぞ！
+MSQID_Goal_KAI_DreamHome: 廃墟の猛獣を倒す
+MSQID_Client_KAI_DreamHome: 廃屋が気になる男性
+MSQID_Title_KAI_AnnoyingResident: 平原の暴れん坊
+MSQID_Detail_KAI_AnnoyingResident: イデュイア地方にあるブラン平原で\n暴れ回っている山賊たちをなんとかして欲しいんだ。\n子供相手なら、奴らも油断するかもしれない。\n危なそうなら逃げていいから、頼んだよ！
+MSQID_Comp_KAI_AnnoyingResident: え！？　あの連中をやっつけたって！？\nこいつはたまげたな。あんたら何者なんだ？\nえ、あの噂の“リベイラの風”！？\n握手してくれよ、未来の優勝者とさ！
+MSQID_Goal_KAI_AnnoyingResident: “僭上の山賊団”を倒す
+MSQID_Client_KAI_AnnoyingResident: 地方を護る兵士
+MSQID_Title_KAI_DeadPeace: 迷える御霊に安らぎを
+MSQID_Detail_KAI_DeadPeace: ムルキベル湿地帯に亡者が出現するのですが\nその数が最近増えているようで……\nよほどこの顕世に恨みを持っているのでしょう。\n彼らの魂を鎮められるといいのですが……
+MSQID_Comp_KAI_DeadPeace: 迷える亡者の御霊を鎮めていただけたのですね。\nわずかの間に過ぎないかもしれませんが……\nこれで旅人たちも安全に旅をすることが\n出来るでしょう。ご苦労さまでした。
+MSQID_Goal_KAI_DeadPeace: “黄泉からの襲来者”を倒す
+MSQID_Client_KAI_DeadPeace: 安全を祈る神官
+MSQID_Title_KAI_DragonValley: 首狩り岩の怪
+MSQID_Detail_KAI_DragonValley: 「首狩り岩」というのを知ってるか？\n近くを通った兵士が、蠢く大きな影を見たらしい。\n少し遠いが、噂の正体を確かめたい……\n何かの見間違いだと思うんだが、俺も気になってね。
+MSQID_Comp_KAI_DragonValley: ドラゴンゾンビとやらが徘徊していたのか。\n過去の怨念が怪物を呼び込んだのだろうか……？\n違う興味が湧いてきたな。よし､俺も行ってみよう。\n今度はどんな化け物に出会えるか……楽しみだ！
+MSQID_Goal_KAI_DragonValley: ドラゴンゾンビを倒す
+MSQID_Client_KAI_DragonValley: 神殿兵
+MSQID_Title_KAI_Practice1: 父からの秘密の依頼
+MSQID_Detail_KAI_Practice1: とある花を採ってきてくれねえか？　咲いてる場所は\n教えてやるから、そこに行ってくればいい。\n道中、あぶねえ猛獣も出るかもな？　やられんなよ。\nやられちまったら稽古にならねえからな！
+MSQID_Comp_KAI_Practice1: おお……懐かしいな、この香り！\nこいつは母さんが好きだった花だ。ありがとよ。\n殺風景な牢屋生活だが、これで居心地が良くなった。\nただのお使いじゃねえかって？　稽古だ、稽古！
+MSQID_Goal_KAI_Practice1: 以下の物を納品
+MSQID_Client_KAI_Practice1: カストール
+MSQID_Title_KAI_Practice2: 母からの特別な依頼
+MSQID_Detail_KAI_Practice2: フォトナ神殿の本殿に行って、そこにいる\n神殿兵の人たちと戦って勝てば、新しい兵種の\n資格試験が受けられるようになるわ。\nカイくんなら絶対できる。頑張ってね！
+MSQID_Comp_KAI_Practice2: おめでとう、カイくん！\nこれで、新しい兵種の試験が受けられるわ。\n大剣闘祭で、きっと役に立つはずよ。\nだけど、絶対に無理をしちゃ駄目だからね！
+MSQID_Goal_KAI_Practice2: 神殿兵を倒す
+MSQID_Client_KAI_Practice2: アウロラ
+MSQID_Title_KAI_Practice3: 白髪鬼からの依頼
+MSQID_Detail_KAI_Practice3: 闘技場の地下には意外と世間の噂が届いてな。\nガレーン砦跡を根城にしている盗賊がいると聞いた。\nお前の稽古の相手には丁度良い連中だろう。\n終わったら良い物をやる。討伐してみろ。
+MSQID_Comp_KAI_Practice3: 盗賊を倒したようだな。よくやったぞ。\n奴らは付近の住人を随分悩ませていたらしい。\n珍しい話ではないが、救える者は救いたい。\n約束の品を持っていけ。これからも精進を怠るなよ。
+MSQID_Goal_KAI_Practice3: 盗賊を倒す
+MSQID_Client_KAI_Practice3: ベルトラン
+MSQID_Title_KAI_OrniuGroup: オルニウス捕獲依頼
+MSQID_Detail_KAI_OrniuGroup: オルニウスっているだろう？　でっかい鳥さ！\nあれが２頭、どうしても必要なんだ。\n君、もし捕まえたら、譲ってくれない？\n助けると思って、よろしく頼むよ！
+MSQID_Comp_KAI_OrniuGroup: 実は僕の彼女の父親が、僕らの結婚に大反対でね。\n彼女を屋敷の中に閉じ込めちゃったんだ。\nでも、諦めるわけないよね？　このオルニウスで\n飛び込んで、連れ出して、そのまま駆け落ちさ！
+MSQID_Goal_KAI_OrniuGroup: 以下の物を納品
+MSQID_Client_KAI_OrniuGroup: 飛駝が欲しい市民
+MSQID_Title_KAI_OrderVegetables1: サラミス迎賓館への野菜納入
+MSQID_Detail_KAI_OrderVegetables1: サラミスの迎賓館に、食材を納めるはずが\n運んでた船が座礁して沈んじまってね……\nテフノミ、ザンゲ、ポンゴ、なんでもいいから\n合計で３０個届けてくれないかい？
+MSQID_Comp_KAI_OrderVegetables1: 実はサラミス迎賓館にも、正直に連絡したんだ。\nそしたら、事情を汲んで待ってくれるってさ。\n噂なんかを信じるもんじゃないね……\n信じられるのは、ぼうやみたいな良い子だけだよ。
+MSQID_Goal_KAI_OrderVegetables1: 以下の物を納品
+MSQID_Client_KAI_OrderVegetables1: 食材を扱う商人
+MSQID_Title_KAI_OrderVegetables2: アラゴ迎賓館への野菜納入
+MSQID_Detail_KAI_OrderVegetables2: アラゴ迎賓館から野菜を頼まれたんだけど\n野菜が傷物になって大弱りなんだ！\nメララ、シャクトウ、ウサモス……どれでもいい。\n合計で３０個、かき集めてきてもらえないかな？
+MSQID_Comp_KAI_OrderVegetables2: アラゴ王って、恐ろしくて有名だろ？\n晩餐会が中止にでもなったら殺されかねない。\nそろそろ遺書でも書こうって思ってたところさ。\nきみは命の恩人だよ！　本当にありがとう！
+MSQID_Goal_KAI_OrderVegetables2: 以下の物を納品
+MSQID_Client_KAI_OrderVegetables2: 高級食材を扱う商人
+MSQID_Title_KAI_OrderVegetables3: 闘技場地下への野菜納入
+MSQID_Detail_KAI_OrderVegetables3: 納めた野菜がネズミに囓られ糞まみれになり\n地下の連中の健康が危ぶまれておるそうじゃ。\nココミンジ、オドモンジュ、キンバショウ、\nそいつらを合計で３０個用意できんか？
+MSQID_Comp_KAI_OrderVegetables3: ぼうず、よう集めて来てくれたのう！\nお前の親御さんが畑をやっとるのか？\nなに？　親は地下牢に入っとるじゃと！？\nならこの野菜、新鮮なうちに届けてやらんとな。
+MSQID_Goal_KAI_OrderVegetables3: 以下の物を納品
+MSQID_Client_KAI_OrderVegetables3: 野菜専門の商人
+MSQID_Title_DIT_Challenge1: 挑戦者求む！ 吸血鬼ボルヘス
+MSQID_Detail_DIT_Challenge1: 血は最高だ……！　特に死闘を繰り広げた相手を\n俺の斧で切り裂いて、浴びる熱い血はな……！\n鮮血が、傷ついた身体に力を与えてくれる。\nさあ、俺の所へ来い……その血で俺を満たしてくれ！
+MSQID_Comp_DIT_Challenge1: 血は最高だ……惨めに敗れた自分の身体から\n流れる汚くて臭い血もまた愛おしい……\n満足したぜ。俺の技をお前に伝える。\nその技で血を啜り、せいぜい生き延びてくれ。
+MSQID_Goal_DIT_Challenge1: “吸血鬼ボルヘス”を倒す
+MSQID_Client_DIT_Challenge1: 吸血鬼ボルヘス
+MSQID_Title_DIT_Challenge2: 挑戦者求む！ 鷹斬りアギーレ
+MSQID_Detail_DIT_Challenge2: 飢えって奴は嫌だよねえ。家族は皆それで死んだ。\nだから覚えたのさ。飛ぶ鳥を落とし、食らう技を。\n鳥は素早いけど。オレは逃がしたことはない。\n人間はどうかねえ？　ちょっと試させておくれよ。
+MSQID_Comp_DIT_Challenge2: 鳥って奴は普段から人を見下ろしてるから\nどっか自分が上だって驕ってやがるのさ。\nけど、オレも、同じだったのかな……\nオレの技を使いたい？　……好きにしなよ。
+MSQID_Goal_DIT_Challenge2: “鷹斬りアギーレ”を倒す
+MSQID_Client_DIT_Challenge2: 鷹斬りアギーレ
+MSQID_Title_DIT_Challenge3: 挑戦者求む！ 双頭蛇セピエンテ
+MSQID_Detail_DIT_Challenge3: 当方、普段は裏稼業で糊口をしのぐ身だが、\n此度は、金銭と関係なく、自らの技を試したい。\n『セピエンテは刺されず２度刺す』と称されし\n我が秘伝。見切れると思いし御仁は挑戦あれ。
+MSQID_Comp_DIT_Challenge3: 知っておるか？　蛇は泳ぐことができる。\nなめらかに水面を這い、確実に獲物を捕らえる。\nその様子を見ながら、この技は編み出した。\nおろそかにせず使われるよう、お頼み申す。
+MSQID_Goal_DIT_Challenge3: “双頭蛇セピエンテ”を倒す
+MSQID_Client_DIT_Challenge3: 双頭蛇セピエンテ
+MSQID_Title_DIT_Challenge4: 挑戦者求む！ 巨人殺しのカミロ
+MSQID_Detail_DIT_Challenge4: 闘ってると、自分が生きてるって感じがする。\n相手がでかいと、その感じが、よりでかくて最高だ！\nだから、技を磨いて巨人と闘う剣を会得した。\n斬られに来てくれるなら、教えてやってもいいぜ？
+MSQID_Comp_DIT_Challenge4: ひゃー！　やられちまったな……！\nあんた巨人なみに強かったぜ。\n負けたけど、生きてるって感じる闘いだった。\n約束通り、俺の技は教えてやるよ。またな！
+MSQID_Goal_DIT_Challenge4: “巨人殺しのカミロ”を倒す
+MSQID_Client_DIT_Challenge4: 巨人殺しのカミロ
+MSQID_Title_DIT_Challenge5: 挑戦者求む！ 飛槍のイル・イラ
+MSQID_Detail_DIT_Challenge5: 「堅固な鎧」と「鍛えた投げ槍」と「強いツキ」……\nあたしゃ、その3つを武器に戦場を渡り歩いてきた。\nけど、最近ヤワな連中しか相手をしてなくて退屈さ。\nあたしに久しぶりに「恐怖」を教えておくれよ。
+MSQID_Comp_DIT_Challenge5: あたしの鎧と投げ槍程度じゃ、\nあんたにゃあ、まるで歯が立たなかったね……\nでも、やっぱツイてる。充分「恐怖」を味わえた。\nあたしの技は、どうぞ好きに使っておくれよ。
+MSQID_Goal_DIT_Challenge5: “飛槍のイル・イラ”を倒す
+MSQID_Client_DIT_Challenge5: 飛槍のイル・イラ
+MSQID_Title_DIT_Challenge6: 挑戦者求む！ 剣狩り騎カバイエ
+MSQID_Detail_DIT_Challenge6: 必殺を放つ剣士こそ、究極の兵種だって奴がいるが、\n神話の時代にでも生きてるのかって話さ。\n今は騎兵こそが最強だって教えてやるよ……\n特に剣士は血祭りだ。かかってきな！
+MSQID_Comp_DIT_Challenge6: 戦いに究極や最強なんてないって？\nわかってる、そんなのわかってるんだ。\n死んだ親父は剣士だった。親父は弱くなかった。\nもっと強い奴がいただけ……そう思いたいのかもな。
+MSQID_Goal_DIT_Challenge6: “剣狩り騎カバイエ”を倒す
+MSQID_Client_DIT_Challenge6: 剣狩り騎カバイエ
+MSQID_Title_DIT_Challenge7: 挑戦者求む！ 乾坤一射ダミアン
+MSQID_Detail_DIT_Challenge7: 戦いは美しい……「自分の攻撃を当てること」、\n「敵の攻撃に当たらぬこと」、必要なのは２つだけ。\n我は射貫く、地平の彼方より真っ直ぐお前の眉間を。\nこの美を体感したくば、是非挑戦しに来られよ。
+MSQID_Comp_DIT_Challenge7: 美がなぜ美しいかわかるか？　それは壊れるからだ。\n我が美は、お前に壊された。だが、変わらず美しい。\n何を言っているかわからないか？　……構わぬさ。\n我が技を授けよう。お前にも美を感じられるように。
+MSQID_Goal_DIT_Challenge7: “乾坤一射ダミアン”を倒す
+MSQID_Client_DIT_Challenge7: 乾坤一射ダミアン
+MSQID_Title_DIT_Challenge8: 挑戦者求む！ 聖拳ベレンゲラ
+MSQID_Detail_DIT_Challenge8: 私は魔が嫌いだ。魔法も、もちろん嫌いだ。\n戦いを求める者たちは魔に魅入られている。\n私の拳は破邪の拳。世に蔓延る魔を打ち砕く。\n我が元へ来い。その魂を浄化してくれよう。
+MSQID_Comp_DIT_Challenge8: 私は聖なるものが好きだ。清浄な世界が大好きだ。\n魔を祓い、このダグザの地を綺麗に浄化したかった。\n貴様の剣は魔剣だ。だが、純粋で清らかでもあった。\n私は混乱している。この技は貴様に託すとしよう。
+MSQID_Goal_DIT_Challenge8: “聖拳ベレンゲラ”を倒す
+MSQID_Client_DIT_Challenge8: 聖拳ベレンゲラ
+MSQID_Title_DIT_Challenge9: 挑戦者求む！ 必滅のオウコ
+MSQID_Detail_DIT_Challenge9: 俺は神を殺したい。神は長命だが人と同じ命を持つ。\nならば命を刈り続ければ、神殺しに至る道理。\n道半ばだが、抜かば魂散る、必殺の刃を編み出した。\n誰かを斬りたくて堪らない。試し斬りをさせてくれ。
+MSQID_Comp_DIT_Challenge9: 俺は口減らしのため、砂虫の巣に捨てられた。\n偶然錆びた剣を掴み、必死で振って生き延びた。\n俺を救ったのは剣だ。神じゃない。だから知りたい。\n剣は神より強いのか？　もしわかったら教えてくれ。
+MSQID_Goal_DIT_Challenge9: “必滅のオウコ”を倒す
+MSQID_Client_DIT_Challenge9: 必滅のオウコ
+MSQID_Title_SEO_Procurement1: ヒシバナの戦備増強
+MSQID_Detail_SEO_Procurement1: 陛下が留守の間、我々でモーザの脅威に備えたいと\n思っております。本日は将来を担う子供たちのために\nヒシバナを集めていただけませんでしょうか。\n私の記憶ではアマルテア州に生育しております。
+MSQID_Comp_SEO_Procurement1: 陛下、ありがとうございます！\n子供たちも陛下の優しさに触れて喜んでいました。\nお心遣いに、兵士の士気も高まることでしょう。\n引き続き、本国の守りはお任せくださいませ。
+MSQID_Goal_SEO_Procurement1: 以下の物を納品
+MSQID_Client_SEO_Procurement1: コン・ムー
+MSQID_Title_SEO_Procurement2: 玉鋼の戦備増強
+MSQID_Detail_SEO_Procurement2: 陛下、我々は国境付近を警備しているのですが\n玉鋼が足りず、武器が不足しているのです。\n私の記憶ではアマルテア州の洞窟などで採掘できると\n聞き及んでおります。よろしくお願いします。
+MSQID_Comp_SEO_Procurement2: セオドラ陛下が直々に玉鋼を採掘していただいたと\n聞き及びました。我々などに勿体なきお力添え！\nこのご恩を胸に粉骨砕身の気持ちで職務に励みます。\n本国の守りはお任せください！
+MSQID_Goal_SEO_Procurement2: 以下の物を納品
+MSQID_Client_SEO_Procurement2: 国境付近の兵士
+MSQID_Title_SEO_Procurement3: サンノミの戦備増強
+MSQID_Detail_SEO_Procurement3: 兵のみなさんの携行食を作る糧食担当なのですが\nサンノミを使った料理を開発すれば戦意向上を\n見込めます。アマルテア州で採取できると聞き及んで\nおりますので、恐れながらよろしくお願いします！
+MSQID_Comp_SEO_Procurement3: この度は私達の願いを叶えていただき感謝致します。\n陛下のお陰で長持ちして美味しい糧食が作れます。\n試験品をつくりましたが、想像以上に良い物です。\n本国を守る兵士達の胃袋はお任せください！
+MSQID_Goal_SEO_Procurement3: 以下の物を納品
+MSQID_Client_SEO_Procurement3: 糧食開発担当
+MSQID_Title_SEO_Procurement4: ホワイトトラウトの戦備増強
+MSQID_Detail_SEO_Procurement4: 陛下、緊急事態です！　恐れながら保存食にする\nホワイトトラウトをお送りいただけないでしょうか？\nサラミスでも漁獲量の多い魚ではありますが、\n海獣により漁船が転覆してしまったのです。
+MSQID_Comp_SEO_Procurement4: セオドラ様、本当にありがとうございます！\nこれで緊急時でも食料の備えは万全です。\nサラミス近海の安全を守れるように兵士達と協力して\n今後は海獣対策を強化していくつもりです！
+MSQID_Goal_SEO_Procurement4: 以下の物を納品
+MSQID_Client_SEO_Procurement4: 保存備蓄係
+MSQID_Title_SEO_Procurement5: ハードフィッシュの戦備増強
+MSQID_Detail_SEO_Procurement5: 陛下に我らの言葉を届けられるとは光栄の至りです。\n恐れながら前線の兵士達のためにハードフィッシュを\nお送りいただけると幸いです。王都メガエラに近い\nダナン海の南に生息する、なかなかに美味な魚です。
+MSQID_Comp_SEO_Procurement5: お心遣い、この老婆には勿体なく感謝致します。\n陛下のおかげで故郷の味を兵士達に届けられました。\nこの機会に私も厨房働きを始めました。彼らに\n元気の出る食事を作らせていただきたく存じます。
+MSQID_Goal_SEO_Procurement5: 以下の物を納品
+MSQID_Client_SEO_Procurement5: ベネトナシュの老人
+MSQID_Title_SEO_Procurement6: ラドンローチの戦備増強
+MSQID_Detail_SEO_Procurement6: 先日、行商していた私を助けてくれた兵士達のため\nラドンローチを使って干物を作り、行商を行なって\n質の良い武器を購入して贈りたいと考えております。\n女王陛下、この願いをどうぞお聞き届けください。
+MSQID_Comp_SEO_Procurement6: ありがとうございます！　良い品を届けていただき、\nとても良い武器を手に入れることができました！\n兵士達も喜んでおり、微力ながらサラミス軍の\n士気向上に寄与できたかと思います。
+MSQID_Goal_SEO_Procurement6: 以下の物を納品
+MSQID_Client_SEO_Procurement6: メガエラの行商人
+MSQID_Title_SEO_Procurement7: ロカの戦備増強
+MSQID_Detail_SEO_Procurement7: セオドラ様に願いを伝えられるなど、夢のようです！\n女王はロカという野菜をご存じでしょうか。\n私の妹の部隊全員が好きな野菜でして、モーザとの\n最前線に赴く彼女達に御馳走してあげたいのです。
+MSQID_Comp_SEO_Procurement7: 冷静になって考えれば、個人的な願いで女王陛下の\nお手を煩わせてしまい、無礼千万、恐悦至極です！\nしかしお優しい陛下のお陰で、妹の部隊は気力充填、\n次にモーザ軍と戦う時は、秒で蹴散らしてみせます！
+MSQID_Goal_SEO_Procurement7: 以下の物を納品
+MSQID_Client_SEO_Procurement7: 妹想いの兵士
+MSQID_Title_SEO_Procurement8: コーシャルーガーの戦備増強
+MSQID_Detail_SEO_Procurement8: 私は王都で食堂を営む者です。日々訪れる国民に\n元気の出るコーシャルーガーの料理を出したいと\n考えております。このような願いで恐れ入りますが\n私の願いを叶えていただけませんでしょうか。
+MSQID_Comp_SEO_Procurement8: 陛下、お聞きください！　うちの料理を気に入った\n商人が、防具を扱うのが専門で、今後、商品を\n安くおろしてくれるそうです。思いがけず国に\n貢献ができました。ありがとうございます！
+MSQID_Goal_SEO_Procurement8: 以下の物を納品
+MSQID_Client_SEO_Procurement8: メガエラの料理店主
+MSQID_Title_SEO_Procurement9: サバクキビの戦備増強
+MSQID_Detail_SEO_Procurement9: セオドラさま、はじめまして。ぼくのおとうさんは\nモーザというこわいひとたちからくにをまもっている\nときいています。おとうさんのためにサバクキビを\nたくさんほしいとおもいます。おねがいします。
+MSQID_Comp_SEO_Procurement9: 息子が大変失礼しました。願いを出した者の父です。\n息子からキビの焼き菓子が届いた時は驚きましたが、\n携帯性も良く同僚達にも好評です。これも女王陛下の\nお優しさの賜。本当にありがとうございました！
+MSQID_Goal_SEO_Procurement9: 以下の物を納品
+MSQID_Client_SEO_Procurement9: サラミスの親子
+MSQID_Title_SEO_Procurement10: 毒石の戦備増強
+MSQID_Detail_SEO_Procurement10: サラミスの女王よ、森の民の族長としてお願い申す。\n我々は毒石を使った武器を考案した。作るには\n沢山の毒石が必要である。森を守るため、サラミスの\nために、是非女王に協力を願いたい。
+MSQID_Comp_SEO_Procurement10: 毒石の提供、森の民の族長として感謝を申す。\nサラミスの兵士達にも武器の製法を伝授しておいた。\n卑怯と言う者もいるが、殺し殺されるのが世の常だ。\n何より、人々の安寧には代えられまいて。
+MSQID_Goal_SEO_Procurement10: 以下の物を納品
+MSQID_Client_SEO_Procurement10: 森の民の族長
+MSQID_Title_SEO_Procurement11: リルフィッシュの戦備増強
+MSQID_Detail_SEO_Procurement11: 王都の鍛冶屋から奇妙な願いが届いております。\nリルフィッシュを集めてほしいとのことですが鮮度は\n一切問わないとのことです。食料に使うわけでもない\nのに何に使うつもりなのでしょうか。お願いします。
+MSQID_Comp_SEO_Procurement11: 鍛冶屋の頭領から報告が届いております。\n『リルフィッシュの牙を使った護身用の小型の刃物を\n製造致しました。獰猛な魚の牙で鋭い裂傷を与える\n良い武器になったと自負しております』とのことです。
+MSQID_Goal_SEO_Procurement11: 以下の物を納品
+MSQID_Client_SEO_Procurement11: コン・ムー
+MSQID_Title_SEO_Procurement12: 海星石の戦備増強
+MSQID_Detail_SEO_Procurement12: セオドラ様、海星石をご存じでしょうか？\n海を愛するサラミス王国民にとって、海の力を宿した\nあの石をあしらえば、兵が喜ぶ武器を製造できます。\n恐れながら、ご採掘の際は本国までお送りください！
+MSQID_Comp_SEO_Procurement12: 用意いただけたんですね！　お礼申し上げます。\n武器に使って余った分は御守りとして加工しました。\n兵士だけでなく、一般の民も喜んでおります。\nそれもこれも陛下のお陰、ありがとうございました！
+MSQID_Goal_SEO_Procurement12: 以下の物を納品
+MSQID_Client_SEO_Procurement12: 鍛冶屋の職人
+MSQID_Title_SEO_Procurement13: メララの戦備増強
+MSQID_Detail_SEO_Procurement13: 先日、王都でメララを食べて気絶した者が出ました。\n医者が言うにはメララに特殊な性質があるとのこと。\nこれを利用すれば、新たな武器ができるかも？\n可能なら陛下に調達をお願い致します。
+MSQID_Comp_SEO_Procurement13: 陛下！　メララから薬効のある液体を抽出し\n荒れ狂う猛獣も無力化できる武器を作りました！\nまだ研究段階ですが、開発に意欲を燃やしています。\nやる気が出てきました。ありがとうございます！
+MSQID_Goal_SEO_Procurement13: 以下の物を納品
+MSQID_Client_SEO_Procurement13: 武具の研究家
+MSQID_Title_SEO_Procurement14: カーネボニートの戦備増強
+MSQID_Detail_SEO_Procurement14: 陛下、先日モーザの間者を発見し、捕獲しました。\n恐れながら、発見した部隊の兵士に褒美として\nカーネボニートをいただけると、大変喜ぶでしょう。\nご賛同いただけるなら、よろしく御願い致します。
+MSQID_Comp_SEO_Procurement14: カーネボニートを功労部隊の兵士に渡したところ\n彼らから歓喜の声が次々と上がり、泣き出す者まで\n現れて大変な騒ぎとなりました。感謝致します。\n引き続きモーザへの監視の目は怠らぬよう致します。
+MSQID_Goal_SEO_Procurement14: 以下の物を納品
+MSQID_Client_SEO_Procurement14: コン・ムー
+MSQID_Title_LED_ShowProvince1_1: ヤーマン村からの興行依頼
+MSQID_Detail_LED_ShowProvince1_1: 地元の猟師たちが、最近不猟で困ってるんだ。\nだから、昔やってた村のお祭りを復活させて\n今後の大猟を祈願したい考えなのさ。\nその祭りを盛り上げたい。踊り手を一人頼むよ！
+MSQID_Comp_LED_ShowProvince1_1: 俺たちの村に来てくれて、ありがとうよ！\nあんたが元気な踊りを披露してくれたおかげか\n前より獲物がとれはじめた気がする……\nま、気がするだけかもだけどな？　ありがとうよ！
+MSQID_Goal_LED_ShowProvince1_1: 目的地で興行する
+MSQID_Client_LED_ShowProvince1_1: ヤーマンの村人
+MSQID_Title_LED_ShowProvince1_2: レギアの町からの興行依頼
+MSQID_Detail_LED_ShowProvince1_2: 俺たちの町、レギアは今日も平穏そのものさ。\nでも、それは自警団の連中の頑張りのおかげなんだ。\nいつもケチな町長が、どういう訳か金をくれてね。\n連中の労をねぎらう舞を披露してやってくれよ。
+MSQID_Comp_LED_ShowProvince1_2: ありがとう！　素晴らしい舞だった。\nみんな喜んだんだが、町長が一番興奮してたぜ。\nこんな楽しいの、これっきりかって思ってたけど、\nまた次があるって期待できそうだ。感謝だぜ！
+MSQID_Goal_LED_ShowProvince1_2: 目的地で興行する
+MSQID_Client_LED_ShowProvince1_2: レギアの町人
+MSQID_Title_LED_ShowProvince1_3: デモニクの村からの興行依頼
+MSQID_Detail_LED_ShowProvince1_3: ワシはこの村に住んどる年寄りなんじゃが、\nありがたいことに孫娘が生まれてのう。\nそのお祝いの宴を開きたいんじゃ。\nたいした礼もできんが、舞い手を頼めんかのう？
+MSQID_Comp_LED_ShowProvince1_3: 実に見事な舞じゃった！\n孫は踊りを見るのは初めてじゃったが、笑っとった。\nワシはもう長くはないが……孫がこの日のことを\nかすかでも、ずっと覚えておってくれたらええのう。
+MSQID_Goal_LED_ShowProvince1_3: 目的地で興行する
+MSQID_Client_LED_ShowProvince1_3: デモニクの老人
+MSQID_Title_LED_ShowProvince2_1: カリアネイラの港からの興行依頼
+MSQID_Detail_LED_ShowProvince2_1: 我が輩はダグザの東海を巡る商いをしておる者だが\n海賊の被害が酷くてな……武装商船を新造したのだ。\nその出港式の景気づけに、曲と共に舞を興じたい。\n勇壮なものが良いな。頼んだぞ！
+MSQID_Comp_LED_ShowProvince2_1: 諸君のおかげで最高の出港式となった！\nヴァンダル商会の連中にも見せつけてやったわい。\nこれから我が輩の船が海賊どもを蹴散らして\nがっぽり稼ぐさまを見せつけてやる！　がっはっは！
+MSQID_Goal_LED_ShowProvince2_1: 目的地で興行する
+MSQID_Client_LED_ShowProvince2_1: カリアネイラ商人
+MSQID_Title_LED_ShowProvince2_2: ライ・オーの港からの興行依頼
+MSQID_Detail_LED_ShowProvince2_2: 噂話で、帝都に素敵な踊り手さんがいて\nとても上手くて評判だってきいたわ。\nねえ、それってあなたのことよね？\nぜひ私の所にも来てほしいの。興行を頼めるかしら？
+MSQID_Comp_LED_ShowProvince2_2: んもう！　噂なんて、全然当てにならないものね！\nあなた……噂以上に上手で、素敵だったわ！\n教えてくれた人に言っておかなくっちゃ。\n噂なんて信じるなって！　ありがとう！
+MSQID_Goal_LED_ShowProvince2_2: 目的地で興行する
+MSQID_Client_LED_ShowProvince2_2: ライ・オーの噂好きの女性
+MSQID_Title_LED_ShowProvince3_1: ザスタの集落からの興行依頼
+MSQID_Detail_LED_ShowProvince3_1: オレっちの集落は、塩の生産で稼いでるんす。\n今度、塩の取引先の偉い人を呼んで\n契約の話をするんで、その取引がうまくいくよう、\n綺麗な踊りを頼みたいっす。よろしく御願いしやす！
+MSQID_Comp_LED_ShowProvince3_1: 契約はどうだったかって？　超バッチリだったっす！\nうちの塩は手を抜かず、品質が高いのが売りっす。\nけど、あんたはうちの塩と同じくらい素敵っすよ。\n今回は本当に感謝っす！
+MSQID_Goal_LED_ShowProvince3_1: 目的地で興行する
+MSQID_Client_LED_ShowProvince3_1: ザスタの塩商人
+MSQID_Title_LED_ShowProvince3_2: 城塞都市モンスからの興行依頼
+MSQID_Detail_LED_ShowProvince3_2: 突然の依頼、失礼致します！\nこのたび、警備隊長がご引退されることになり、\n相応の宴を催して送り出したいのであります！\nお時間あれば、お立ち寄りください！
+MSQID_Comp_LED_ShowProvince3_2: 先日は素敵な踊りをありがとうございました！\n隊長のみならず、兵士一同、心身ともに癒やされ\n隊長の穴を埋めるべく、仕事に励んでおります！\nご足労、ありがとうございました！
+MSQID_Goal_LED_ShowProvince3_2: 目的地で興行する
+MSQID_Client_LED_ShowProvince3_2: モンスの兵士
+MSQID_Title_LED_ShowProvince3_3: 海都アレクトーからの興行依頼
+MSQID_Detail_LED_ShowProvince3_3: 港の交易商人が食い物や酒を仕入れすぎちまった。\nそいつが太っ腹でさ、このまま悪くなるくらいなら\n振る舞うから宴でも開こうぜって話になったんだ。\n宴といえば踊りだよな？　待ってるから来てくれよ！
+MSQID_Comp_LED_ShowProvince3_3: 待ちきれなくて宴ははじめちまってたんだが、\n食い物と酒がなくなるまえに間に合って良かったぜ。\nあんた、なかなか……いや、最高にイカしてたぜ！\n今度はシラフで拝みたいね……また来てくれよ！
+MSQID_Goal_LED_ShowProvince3_3: 目的地で興行する
+MSQID_Client_LED_ShowProvince3_3: アレクトーの町人
+MSQID_Title_LED_ShowProvince4_1: バスク宿場町からの興行依頼
+MSQID_Detail_LED_ShowProvince4_1: 旅人にひと時の憩いと寝床を提供する場所……\nそれが、我らがバスク宿場町さ！\n今回、それに加えて、元気の出る舞でもてなしたい。\n客がわんさと押し寄せる、素敵な舞台を頼むぜ！
+MSQID_Comp_LED_ShowProvince4_1: いやいや、あんた、実にたいしたもんだね！\nお客は大盛り上がり！　酒場は大繁盛！\n酔い潰れた客で、宿も満床ってありさまだ！\n定期的に来てくんないかな……考えといてよ！
+MSQID_Goal_LED_ShowProvince4_1: 目的地で興行する
+MSQID_Client_LED_ShowProvince4_1: バスクの宿屋
+MSQID_Title_LED_ShowProvince5_1: オレンスの町からの興行依頼
+MSQID_Detail_LED_ShowProvince5_1: 昔はウチの町も、旅人が毎日たくさん立ち寄って、\nそれはそれは賑わったもんなのさ。\n今じゃ畑を荒らすスナブタしか寄りつきゃしない……\nひとつ、派手な踊りで町を活気づかせておくれよ。
+MSQID_Comp_LED_ShowProvince5_1: あんたの踊り、実に大したもんだなあ！\n大人だけじゃなくて、ガキどもも大喜びさ。\nこれで少しは賑わいが戻るといいが……\nま、そう簡単じゃあねえよな。また来ておくれよ！
+MSQID_Goal_LED_ShowProvince5_1: 目的地で興行する
+MSQID_Client_LED_ShowProvince5_1: オレンスの町人
+MSQID_Title_LED_ShowProvince5_2: パンドラの港町からの興行依頼
+MSQID_Detail_LED_ShowProvince5_2: 我が港町はフォドラとの交易が盛んでね。\nそれで、あっちには芸術って奴があるって知ったよ。\nウチの町にもそいつを呼び込みたい。まずは\n美しい舞で芸術の風を吹かせてくれ。頼んだぜ。
+MSQID_Comp_LED_ShowProvince5_2: 自分の見込み違いだったようだ……\n芸術の風どころか嵐が吹いたな！\n舞台の熱気がまだ町に漂っているみたいだ。\n最高の一時だった。また是非頼むよ。
+MSQID_Goal_LED_ShowProvince5_2: 目的地で興行する
+MSQID_Client_LED_ShowProvince5_2: パンドラの交易商人
+MSQID_Title_LED_ShowProvince5_3: マオン城郭からの興行依頼
+MSQID_Detail_LED_ShowProvince5_3: ウチは変わった奴が多くてね。個人個人で\nそれぞれ好きなことをやってて、交流がなくってさ、\n団結力？　ってのが足りない気がするんだよ。\n宴を開いてみんなの心を1つにしたい。よろしくな。
+MSQID_Comp_LED_ShowProvince5_3: 実は踊り手を呼ぶといいって占ってくれた奴がいて、\nそいつの言うとおりだったよ。盛り上がったな！\n楽しみ方も変わってたけど、いい奴らだったろ？\nまた連中に会いに来てやってくれよ。
+MSQID_Goal_LED_ShowProvince5_3: 目的地で興行する
+MSQID_Client_LED_ShowProvince5_3: マオンのまとめ役の兵士
+MSQID_Title_LED_ShowProvince5_4: トバリンの村からの興行依頼
+MSQID_Detail_LED_ShowProvince5_4: トバリンは辺鄙な村じゃが、特産品をもとめて、\n旅人が毎年、遠路はるばる訪れるんじゃ。\n何もできんが、綺麗な舞の１つも見せてやりたい。\n砂漠を越えて来なければならんが、よろしく頼むぞ。
+MSQID_Comp_LED_ShowProvince5_4: お前さんら、遠いところ大儀じゃったのう。\nじゃが、そのかいあって最高の舞台じゃったぞ。\n特産品もいつもよりよく売れたわい！\nほっほっほ、また頼むぞ！
+MSQID_Goal_LED_ShowProvince5_4: 目的地で興行する
+MSQID_Client_LED_ShowProvince5_4: トバリンの村長
+MSQID_Title_LED_ShowProvince5_5: 王都ブレストンからの興行依頼
+MSQID_Detail_LED_ShowProvince5_5: 我が都には、出世を狙って仕官の口を求める者や、\n闘技場で名をあげたい者など、国中の猛者が集まる。\n勇猛で結構なことだが、血の気が多く争いも絶えん。\n美しい舞で彼らの心を鎮めてやってもらえないか？
+MSQID_Comp_LED_ShowProvince5_5: 興奮しすぎた荒くれが舞台に上がろうとしたが\nあんた、そいつを一撃でのしてて格好良かったな！\n警備の不手際は詫びるが、見惚れてしまったよ。\nこれからも応援させてもらう。また寄ってくれ！
+MSQID_Goal_LED_ShowProvince5_5: 目的地で興行する
+MSQID_Client_LED_ShowProvince5_5: ブレザラント兵
+MSQID_Title_LED_ShowProvince5_6: ウィリー村からの興行依頼
+MSQID_Detail_LED_ShowProvince5_6: 猛獣が出るたび、村を護るため駆除するんだが、\n理由はあっても殺生は殺生……供養してやりたい。\n供養碑……つっても石を積んだ程度のものだが、\nそれの前で慰霊の舞を披露してほしい。頼んだぜ！
+MSQID_Comp_LED_ShowProvince5_6: うちのガキがさ、あんたが舞ってる時に供養碑から\n煙みたいなのが昇っていくのを見たって言うんだ……\nあんた、見えたか？　オレには見えなかった。\nなんにせよ、いい舞だった。頼んで良かったよ！
+MSQID_Goal_LED_ShowProvince5_6: 目的地で興行する
+MSQID_Client_LED_ShowProvince5_6: ウィリーの村人
+MSQID_Title_LED_ShowProvince6_1: オシリスの村からの興行依頼
+MSQID_Detail_LED_ShowProvince6_1: 先祖が掘った深い井戸が涸れちまった……\n占いができる奴が言うには『帝都の美しい踊り手が\n舞を披露すればまた水が湧き出す』って話でさ……\n藁にもすがる気持ちだ。一丁来てくれねえか？
+MSQID_Comp_LED_ShowProvince6_1: どういう訳だか、あんたの踊りが終わった後で\n地の底が震えて、また水が湧くようになった……！\nいや驚いたね！　あんたも、占いも！　とにかく、\nあんたは村の恩人だ、また遊びに来てくれよ！
+MSQID_Goal_LED_ShowProvince6_1: 目的地で興行する
+MSQID_Client_LED_ShowProvince6_1: オシリスの村人
+MSQID_Title_LED_ShowProvince6_2: ニーザの港からの興行依頼
+MSQID_Detail_LED_ShowProvince6_2: 今、交易相手のブリギットの偉いさんが逗留してて、\n美味い酒と食い物でもてなししてるんだが……\n踊りとなると地方の舞い手じゃ腕前が心配だ。\n帝都で評判の人に御願いしたい。頼んだぞ！
+MSQID_Comp_LED_ShowProvince6_2: 大盛り上がりだったな！　ありがとうよ！\n文化の違いってもんがあるから、心配してたんだが\n一流の芸ってのはそういうのを超越してるよな。\nこれからも先方と仲良くできそうだ。感謝だぜ！
+MSQID_Goal_LED_ShowProvince6_2: 目的地で興行する
+MSQID_Client_LED_ShowProvince6_2: ニーザの交易商人
+MSQID_Title_LED_ShowProvince7_1: アギーニョ村からの興行依頼
+MSQID_Detail_LED_ShowProvince7_1: ウチの村にアウロラ神殿への巡礼者が立ち寄ります。\n危険な旅なのに信心深くて実に結構なことです。\n彼らを舞で祝福し、旅の安全を祈りたいのです。\n良き舞い手の方がおられたら、是非我が村へ……
+MSQID_Comp_LED_ShowProvince7_1: 彼らが危険な巡礼の旅をするのは、それぞれ抱えた\n悩みや苦しみ、哀しみや辛い想いがあるからです。\nあなたの舞は、一時、そんな彼らを笑顔にしました。\n素晴らしいことです。御願いして本当に良かった……
+MSQID_Goal_LED_ShowProvince7_1: 目的地で興行する
+MSQID_Client_LED_ShowProvince7_1: アギーニョの神官
+MSQID_Title_LED_ShowProvince7_2: ベネトナシュの村からの興行依頼
+MSQID_Detail_LED_ShowProvince7_2: おらたちの村は何にもねえけんども……\n眺めが良くて、それはそれは綺麗な海が見られるだ！\n海の神様にその感謝を込めて祭りさ開きたい。\n奉納の踊りを、だれかに頼めんもんかいのう？
+MSQID_Comp_LED_ShowProvince7_2: おらたちの村は何にもねえけんども……\n綺麗な海の見える丘は最高の舞台だったろう？\nその最高の舞台で、最高の踊りが見られただ！\nこれ以上嬉しいもんはねえ。ありがたやありがたや。
+MSQID_Goal_LED_ShowProvince7_2: 目的地で興行する
+MSQID_Client_LED_ShowProvince7_2: ベネトナシュの村人
+MSQID_Title_LED_ShowBar1: 酒場店主からの出演依頼
+MSQID_Detail_LED_ShowBar1: 大切な舞台の出演者が怪我をして\n急に来られなくなってしまった……\nどこかに、一流の踊り手はいないだろうか？\nできれば代わりに舞台に立ってもらいたい。
+MSQID_Comp_LED_ShowBar1: 本当に素晴らしい踊りだった！\n今日を最後に店を畳むつもりだったが……\nもう少し頑張ってもいいのかもしれない。\nまた、うちの店に来てくれよ。
+MSQID_Goal_LED_ShowBar1: 酒場店主と話す
+MSQID_Client_LED_ShowBar1: 酒場店主
+MSQID_Title_LED_ShowBar2: 新商品を作ってお披露目したい
+MSQID_Detail_LED_ShowBar2: きみのおかげでもう少し頑張る気力が湧いてきたよ。\n新しく飲み物を売って、客に振る舞おうと思う。\n素材を持ってきてくれたら、貧民街の連中を呼んで\nそのお披露目会を開こう。一曲、踊りも頼むよ。
+MSQID_Comp_LED_ShowBar2: 飲み物も、きみの舞台も大好評だった！\nうちの店も、まだまだ捨てたもんじゃないな……\nまた頼みたいことがある。\n時間があるときに、うちに寄ってくれ。
+MSQID_Goal_LED_ShowBar2: 以下の物を納品
+MSQID_Client_LED_ShowBar2: 酒場店主
+MSQID_Reward_Menu_LED_ShowBar2: 飲み物が交換できるようになる
+MSQID_Reward_Result_LED_ShowBar2: 飲み物が交換できるようになりました
+MSQID_Title_LED_ShowBar3: 新商品を作ってお披露目したい２
+MSQID_Detail_LED_ShowBar3: 飲み物の販売も、きみの舞台も好評だった。\n今度は新しい飲み物を作ってみたくなってきたよ。\n素材を持ってきてくれ。次は商船の船長たちを呼ぶ。\nきみの舞と一緒に彼らに新商品のお披露目といこう。
+MSQID_Comp_LED_ShowBar3: あの目の肥えた船長たちが賞賛しか口にしない。\nきみの踊りは、やっぱりたいしたもんだな！\n次にきみが出演する日はいつかって聞かれてる。\nまた頼みたいから、近くに来たときは教えてくれ。
+MSQID_Goal_LED_ShowBar3: 以下の物を納品
+MSQID_Client_LED_ShowBar3: 酒場店主
+MSQID_Reward_Menu_LED_ShowBar3: 新しい飲み物が交換できるようになる
+MSQID_Reward_Result_LED_ShowBar3: 新しい飲み物が交換できるようになりました
+MSQID_Title_LED_ShowBar4: 新商品を作ってお披露目したい３
+MSQID_Detail_LED_ShowBar4: きみの踊りは大評判、新しい飲み物も大好評！\nおかげでお客が増える一方だ。有り難いよ。\n次は中層の名士たちに声をかけるつもりだ。\n新しい商品の材料と舞を頼みたい。よろしくな。
+MSQID_Comp_LED_ShowBar4: あんまりお客さんが来るもんだから\n入れない人には謝って帰ってもらったよ。\nそれ位、きみの舞台と、飲み物が人気になってる。\n嬉しい悲鳴さ。また遊びにきてくれよ。
+MSQID_Goal_LED_ShowBar4: 以下の物を納品
+MSQID_Client_LED_ShowBar4: 酒場店主
+MSQID_Reward_Menu_LED_ShowBar4: 新しい飲み物が交換できるようになる
+MSQID_Reward_Result_LED_ShowBar4: 新しい飲み物が交換できるようになりました
+MSQID_Title_LED_ShowBar5: 新商品を作ってお披露目したい４
+MSQID_Detail_LED_ShowBar5: きみの舞台と飲み物が評判で上層で噂になっている。\n次は、富豪や貴族たちがきみの舞を見たいとさ。\n嘘みたいだ。失礼のないようにしないとな。\nとびきりの新商品を作りたい。素材と舞を頼むよ！
+MSQID_Comp_LED_ShowBar5: 貧乏人も金持ちも一緒になって盛り上がっていたな。\nうちみたいな小さい店に、こんな日が来るなんて……\nあの時、諦めて店を閉めなくて良かった。\nきみはこの店の恩人だ。本当にありがとう！
+MSQID_Goal_LED_ShowBar5: 以下の物を納品
+MSQID_Client_LED_ShowBar5: 酒場店主
+MSQID_Reward_Menu_LED_ShowBar5: 新しい飲み物が交換できるようになる
+MSQID_Reward_Result_LED_ShowBar5: 新しい飲み物が交換できるようになりました
+MSQID_Title_LED_ShowReconstruction1: 復興した４町村への興行依頼
+MSQID_Detail_LED_ShowReconstruction1: 町や村を巡って、きみの踊りで、\nそこの人たちに、生きる希望を与えてやってほしい。\n行って欲しい場所は４箇所だ。\nそこが復興したら訪ねてやってくれ。
+MSQID_Comp_LED_ShowReconstruction1: おお……行ってきてくれたんだな！\n苦労をかけたが、喜んでくれただろう。\n世界は蘇りつつあるが、まだ闇の中にある。\nきみの舞が、それを照らす光になったことだろう。
+MSQID_Goal_LED_ShowReconstruction1: 以下の場所で興行する
+MSQID_Client_LED_ShowReconstruction1: 酒場店主
+MSQID_Title_LED_ShowReconstruction2: 復興した４都市への興行依頼
+MSQID_Detail_LED_ShowReconstruction2: 少し遠いが、他の国の都市にも足を延ばして\nきみの踊りで元気を与えてやってほしい。\n行って欲しい場所は４箇所だ。\nそこが復興したら訪ねてやってくれ。
+MSQID_Comp_LED_ShowReconstruction2: 私のところに、きみが訪ねてくれた\n４つの都市からお礼が届いているよ。\n大変な時期に、無理な御願いだったが\nよくやってくれた。きみはもう一人の救世主だ。
+MSQID_Goal_LED_ShowReconstruction2: 以下の場所で興行する
+MSQID_Client_LED_ShowReconstruction2: 酒場店主
+MSQID_Title_LED_Dancer: 踊り子の後継者
+MSQID_Detail_LED_Dancer: 踊り子の後継者になるには必要な品があるんだが、\nあるとき暴漢に襲われて破損してしまってね……\nその品の修理に必要な素材を持って来てくれないか？\n手に入ったら、酒場にいる僕に声をかけてくれ。
+MSQID_Comp_LED_Dancer: 素材を手に入れてくれたのか！？\n流石は僕が後継者に見込んだ人間だ！\nさあ「踊姫の首飾り」を受け取ってくれ。\n良き後継者に巡り会えて、最高の気分だよ。
+MSQID_Goal_LED_Dancer: 以下の物を納品
+MSQID_Client_LED_Dancer: “ミデアの至宝”ヴァレーオ
+MSQID_Title_NegotiationPeter: ピーテルの頼み
+MSQID_Detail_NegotiationPeter: 実は、ずっと食べたいものがあって……\nその名も「幻のギンジ」っていうんだけど。\nめったに実らなくて、すっごく不思議な\n味なんだって。それをとってきてほしいな。
+MSQID_Comp_NegotiationPeter: 本当に手に入れてくるなんて……\nここまでされちゃ仕方ない。\nこれからは、あなたのことも手伝ってあげる。\nそれじゃ、これからよろしくね！
+MSQID_Goal_NegotiationPeter: 以下の物を納品
+MSQID_Client_NegotiationPeter: ピーテル
+MSQID_Title_NegotiationHurtando: ウルタンドの頼み
+MSQID_Detail_NegotiationHurtando: とても悩んでいることがあって……\n母が、家族のために送ってくれた贈り物が\n盗賊に盗まれてある砦跡に隠されてしまったの。\nそれを探し出してきて貰えないかしら？
+MSQID_Detail_NegotiationHurtando_DIF: とても悩んでいることがあって……\n母が、家族のために送ってくれた贈り物が\n盗賊に盗まれてある砦跡に隠されてしまったの。\nそれを探し出してきて貰えないかしら？
+MSQID_Comp_NegotiationHurtando: あなたは私の……いいえ、私たち家族全員の恩人よ！\nその恩に、報いなくっちゃね。\nウルタンド・セルロワネ……これからは、\nあなたの力になります。よろしくお願いします！
+MSQID_Comp_NegotiationHurtando_DIF: あなたは私の……いいえ、私たち家族全員の恩人よ！\nその恩に、報いなくっちゃね。\nウルタンド・セルロワネ……これからは、\nあなたの力になります。よろしくお願いします！
+MSQID_Goal_NegotiationHurtando: 以下の物を納品
+MSQID_Client_NegotiationHurtando: ウルタンド
+MSQID_Title_NegotiationEsmeralda: エスメラルダの頼み
+MSQID_Detail_NegotiationEsmeralda: あたいの故郷の近くのダマセン岬に\n気性の荒い海獣どもの巣があるんだ。\nそこにいる海獣をみんなやっつけてきなよ。\nま、あんたたちじゃ、絶対無理だろうけどさ。
+MSQID_Comp_NegotiationEsmeralda: 無理だと思ったのに……なかなかやるじゃん。\nこれで心配はなくなっちゃった。\nダーリン一筋なのは変わらないけど、特別に\nあんたの戦いにも、手を貸してあげる！
+MSQID_Goal_NegotiationEsmeralda: 荒くれ海獣を倒す
+MSQID_Client_NegotiationEsmeralda: エスメラルダ
+MSQID_Title_NegotiationScirocco: シロッコの頼み
+MSQID_Detail_NegotiationScirocco: おれは、ある詩人を目標としている。\nそう……「伝説の詩人」としておこうか。\nとある場所に、その人物の碑があるという。\nその歌碑を探し、句を写し取ってきて欲しい。
+MSQID_Detail_NegotiationScirocco_DIF: おれは、ある詩人を目標としている。\nそう……「伝説の詩人」としておこうか。\nとある場所に、その人物の碑があるという。\nその歌碑を探し、句を写し取ってきて欲しい。
+MSQID_Comp_NegotiationScirocco: これぞまさに「伝説の詩人」の作に相違ない。\nよく探し出してくれた、感謝をさせてもらう。\n以後は、このシロッコを頼るがいい。\nお呼びとあらば、いつでも疾風の如く参じよう。
+MSQID_Comp_NegotiationScirocco_DIF: これぞまさに「伝説の詩人」の作に相違ない。\nよく探し出してくれた、感謝をさせてもらう。\n以後は、このシロッコを頼るがいい。\nお呼びとあらば、いつでも疾風の如く参じよう。
+MSQID_Goal_NegotiationScirocco: 以下の物を納品
+MSQID_Client_NegotiationScirocco: シロッコ
+MSQID_Title_NegotiationOlympia1: オリンピアの頼み
+MSQID_Detail_NegotiationOlympia1: あたくしは紅茶を好んで嗜みますの。\n我が心を射止めたいのなら、まずは\n極上の紅茶をお持ちになって。\n望むのは「緋灼の雫」という稀有な茶葉です。
+MSQID_Comp_NegotiationOlympia1: お持ちになってくださったの？\nええ、間違いありませんわね。\nご苦労様。でもここまでなら、\n叶えてくださる方は大勢おられましてよ。
+MSQID_Goal_NegotiationOlympia1: 以下の物を納品
+MSQID_Client_NegotiationOlympia1: オリンピア
+MSQID_Title_NegotiationOlympia2: オリンピアの頼み２
+MSQID_Detail_NegotiationOlympia2: 時に、過酷な環境で咲く花は、より美しく\n咲き誇り、神々しささえ漂わせます。\n砂漠の熱砂に耐えて咲く黄金の薔薇、\n「アウラムローズ」をお持ちになって。
+MSQID_Detail_NegotiationOlympia2_DIF: 時に、過酷な環境で咲く花は、より美しく\n咲き誇り、神々しささえ漂わせます。\n乾風吹きすさぶ平原に咲く黄金の薔薇、\n「アウラムローズ」をお持ちになって。
+MSQID_Comp_NegotiationOlympia2: 何と美しい色……それに堂々たる姿……\nここまで大輪のものは珍しいですわ。\nさぞや苦労をされたでしょう。お陰様で\n大変素晴らしいものが見られました。
+MSQID_Goal_NegotiationOlympia2: 以下の物を納品
+MSQID_Client_NegotiationOlympia2: オリンピア
+MSQID_Title_NegotiationOlympia3: オリンピアの頼み３
+MSQID_Detail_NegotiationOlympia3: 海の如く深く、空の如く明朗な碧水晶、\n「碧き心臓」を持ってきてくださいまし。\n少し遠方ですが……あたくしの望みであれば\n苦ではございませんわよね？　お願い致しますわ。
+MSQID_Comp_NegotiationOlympia3: あなたの、あたくしを求める強い想い、そして\n目的を必ず果たす強い心、感服致しましたわ。\nオリンピア・アイリス、あなたと共に参りましょう。\n我が華麗なる戦い振り、特等席で照覧あれ！
+MSQID_Goal_NegotiationOlympia3: 以下の物を納品
+MSQID_Client_NegotiationOlympia3: オリンピア
+MSQID_Title_NegotiationMaxim1: ジェスターの頼み
+MSQID_Detail_NegotiationMaxim1: 帝都の南のダダ平原を根城にしている\n“ベイル血殲衆”って一味が残忍な連中でね。\nその連中と血まみれの戦いを繰り広げてきなよ。\n仲間になる話はそうしたらまた考えてあげる。
+MSQID_Comp_NegotiationMaxim1: “ベイル血殲衆”を倒したのかい？\nへえ……思ったよりやるじゃないか……\nいや、オマエたちに倒されるなんて\n奴らが噂ほどじゃなかったってことかな？
+MSQID_Goal_NegotiationMaxim1: “ベイル血殲衆”を倒す
+MSQID_Client_NegotiationMaxim1: ジェスター
+MSQID_Title_NegotiationMaxim2: ジェスターの頼み２
+MSQID_Detail_NegotiationMaxim2: つねに死臭を漂わせるくらいじゃなきゃ\nボクの仲間には相応しくないよ。\n“屍獄のデュナンゾ”と、一戦交えてみなよ！\n仲間になるって話はその後考えるからさ。
+MSQID_Comp_NegotiationMaxim2: え？　“屍獄のデュナンゾ”を殲滅した！？\nあの連中を？　そ、そいつは凄いね……\nオマエ……奴らを倒せて安心した顔をしてるね？\nでも、そんな気になるのはまだ早いよ。
+MSQID_Goal_NegotiationMaxim2: “屍獄のデュナンゾ”を倒す
+MSQID_Client_NegotiationMaxim2: ジェスター
+MSQID_Title_NegotiationMaxim3: ジェスターの頼み３
+MSQID_Detail_NegotiationMaxim3: 囁き岩にいる、その名も\n“冥府の彷徨団”を倒してきなよ。\nボクを仲間にしたければ行っておいで。でも、\n諦めたほうが身のためさ。命が惜しいならね。
+MSQID_Comp_NegotiationMaxim3: ひっひっひ！　オマエたちは、血の海を渡り\n死者の山を越え、冥府を覗いたみたいだね！\nでも、真の地獄を見るのはこれからさ。\nなにせ、ボクが隣にいるんだからね？
+MSQID_Goal_NegotiationMaxim3: “冥府の彷徨団”を倒す
+MSQID_Client_NegotiationMaxim3: ジェスター
+MSQID_Title_NegotiationLourdija: ルルディヤーの頼み
+MSQID_Detail_NegotiationLourdija: ルルのお父様が、ヴァンダル商会の新しくできた\n新支部のことを気にしてて……その情報を、\nカリアネイラの港で集めて\n報告して貰えないかな？　お願いです！
+MSQID_Detail_NegotiationLourdija_DIF: ルルのお父様が、ヴァンダル商会の新しくできた\n新支部のことを気にしてて……その情報を、\nカリアネイラの港で集めて\n報告して貰えないかな？　お願いです！
+MSQID_Comp_NegotiationLourdija: これからも、こんな風に手伝って貰えると\n大助かりだわ……ルルは商会に籍を残したまま\nあなたたちのことを手伝ってあげる。\n代わりに協力してください。きまりね！
+MSQID_Comp_NegotiationLourdija_DIF: これからも、こんな風に手伝って貰えると\n大助かりだわ……ルルは商会に籍を残したまま\nあなたたちのことを手伝ってあげる。\n代わりに協力してください。きまりね！
+MSQID_Goal_NegotiationLourdija: 港の人間から情報を聞く
+MSQID_Client_NegotiationLourdija: ルルディヤー
+MSQID_Title_NegotiationSeteth: セテスの頼み
+MSQID_Detail_NegotiationSeteth: とある村人たちのために私が作った剣を\n村を襲った盗賊の頭が使っているという。\nよければ彼らを倒して、その武器を\n彼らごと葬ってくれないだろうか？
+MSQID_Comp_NegotiationSeteth: おお……例の盗賊を倒してくれたのか！\nありがとう。村人たちの供養にもなったろう。\nなにやら君は気を許せる相手のようだ。\nこれからは、私のことを頼りにするがいい。
+MSQID_Goal_NegotiationSeteth: “黄昏の凶笛”を倒す
+MSQID_Client_NegotiationSeteth: セテス
+MSQID_Title_JuraRequest: ジュラの依頼
+MSQID_Detail_JuraRequest: 神威大帝ダグザ様の……なにか身体の一部でも\nよいので、手に入れたいのです。あの方が生前に\n戦った場所の近くにいけば見つけられるの\nではないかと思うのですが……
+MSQID_Comp_JuraRequest: これは、間違いなくあの方の……！\nああ……ありがとうございます。\n私のこのような願いを聞いてもらって、\nあなたに心からの感謝を……
+MSQID_Goal_JuraRequest: 以下の物を納品
+MSQID_Client_JuraRequest: ジュラ
+MSQID_Title_MarsRequest: マーズの依頼
+MSQID_Detail_MarsRequest: 盗み出された俺の黄金の兜を取り戻しては\nもらえぬだろうか。留守中のこととはいえ、\nこのようなことを放置していては\n俺の威厳にかかわるのでな。
+MSQID_Comp_MarsRequest: 今回のことは悪くは思わんでくれ。\n噂に聞く救世主がどれほどのものか俺としても\n興味があって、一芝居打たせてもらった。\n今後、俺もお前に協力することを約束しよう。
+MSQID_Goal_MarsRequest: 以下の物を納品
+MSQID_Client_MarsRequest: マーズ
+MSQID_Title_SmirnothRequest: スミルノスの依頼
+MSQID_Detail_SmirnothRequest: イアペトス大洞窟の中に発生している\n炎を消火してほしいのです。僕が思うに、\n炎の前でフィンブルの夜の魔法を使えば\n十分に対処可能なはずなのですが。
+MSQID_Comp_SmirnothRequest: どうやら無事に消火してもらえたようで、\nありがとうございました。あの洞窟は個人的に\n魔道の実験のための素材集めに重宝していた\n場所だったので助かりましたよ。
+MSQID_Goal_SmirnothRequest: 目的地の炎を消す
+MSQID_Client_SmirnothRequest: スミルノス
+MSQID_Title_ClairRequest: クレールの依頼
+MSQID_Detail_ClairRequest: 砂漠の太陽石を手に入れてほしい。\n昔、クロノス砂漠にある竜骨の森で\n採集したことはあるから、辿り着くことが\nできれば今でも手に入るかもしれない。
+MSQID_Comp_ClairRequest: まさにこれが欲しかったんだよ！　\n十分な力を貯め込んでいるみたいだ。\nお疲れ様だったね。これさえあれば大丈夫だ。\nすぐにでも神の道の門を修理してみせるよ。
+MSQID_Goal_ClairRequest: 以下の物を納品
+MSQID_Client_ClairRequest: クレール
+MSQID_Title_CaraRequest: カーラの依頼
+MSQID_Detail_CaraRequest: 亡者どもが嫌がる香を放つ香木があれば\nこの神殿で魔除けの護符を作ることができる。\n希少なものではあるが……ビャクダンの香木を\n手に入れてきてもらえぬだろうか。
+MSQID_Comp_CaraRequest: よい香木を見つけてきてくれたものだ。\n気休め程度にしかならぬかもしれんが、\nこのような事でも……人々の心に\n希望を与えることができるかもしれんからな。
+MSQID_Goal_CaraRequest: 以下の物を納品
+MSQID_Client_CaraRequest: カーラ
+MSQID_Title_AuroraRequest: アウロラの依頼
+MSQID_Detail_AuroraRequest: お薬を作るために必要な材料を手に入れて\nほしいのです。こんな時勢ですし、\n少し調達が難しい品だとは思うのですが、\nなにとぞお願いいたしますわ。
+MSQID_Comp_AuroraRequest: まあ！　救世主さま、\n材料を見つけてきてくださいましたのね。\nこれで、多くの方々を救うことができますわ。\n本当にありがとうございました。
+MSQID_Goal_AuroraRequest: 以下の物を納品
+MSQID_Client_AuroraRequest: アウロラ
+MSSID_Detail_Kai: 地下牢にいる親父を助け出す計画があるんだ。\n近いうちに闘技場で大きな騒ぎが起きるらしくて\nその騒ぎに混じって脱走させようと思ってる。\nよかったら、手伝ってくれたら嬉しいんだけど。
+MSSID_Comp_Kai: 手伝ってくれて、本当にありがとう！\nオレたちはリベイラ村に帰るけど……\nもし困ることがあったら、すぐに呼んでよ。\n何があっても絶対に、助けに行くから！
+MSSID_Goal_Kai: カイと話し外伝に挑む
+MSSID_Detail_Ditlih: とある場所に封印された地下機構……\n遺跡の調査を行いたいのです。\n場所が場所だけに危険が伴いそうですが、\n興味があるのなら、ぜひ助力をお願いします。
+MSSID_Comp_Ditlih: 私の目的は無事に果たせました。感謝します。\n結果的には依頼をして正解でしたね。\nディートリヒは貴方に良い印象をもったようです。\n何かあれば手を貸してくれることでしょう。
+MSSID_Goal_Ditlih: 目的地で外伝に挑む
+MSSID_Detail_Seodola: ダグシオンにあったサラミスの勇士を模した石像、\nどこかの愚か者がそれを盗んだとのことでな。\n我らも動き、盗人を成敗してやるつもりだ。\nその討伐、おぬしも助力してくれぬか？
+MSSID_Comp_Seodola: 今回の厄介事への助力、感謝する。\nお前という誇るべき勇士がいることがわかって\n有り難く思う。大きな借りができてしまったな、\nいつか返せる時が来れば良いが……
+MSSID_Goal_Seodola: 目的地で外伝に挑む
+MSSID_Detail_Leda: あたしは“闘技場の白髪鬼”にどうしても会いたい。\nそのためには、地下牢に潜入しなきゃいけないの。\nでも、当然見張りがいる筈だわ。\nできたら、その陽動をお願いできないかしら？
+MSSID_Detail_Leda_DIF: あたしは“闘技場の白髪鬼”にどうしても会いたい。\nそのためには、地下牢に潜入しなきゃいけないの。\nでも、当然見張りがいる筈だわ。\nできたら、その陽動をお願いできないかしら？
+MSSID_Comp_Leda: 白髪鬼……ベルトランを殺すのはまだ先よ……\nその日が来るまで精々震えてもらうわ！\n今回は迷惑をかけたわね。何かお礼をしないと。\n何かあったら呼んで。絶対力になるって約束する！
+MSSID_Comp_Leda_DIF: 白髪鬼……ベルトランを殺すのはまだ先よ……\nその日が来るまで精々震えてもらうわ！\n今回は迷惑をかけたわね。何かお礼をしないと。\n何かあったら呼んで。絶対力になるって約束する！
+MSSID_Goal_Leda: レダと話し外伝に挑む
+MSSID_Detail_Beltran: 大剣闘祭とは別に、重要な試合が予定されている。\nブリギットの王様との、いわゆる親善試合だ。\n“闘技場の白髪鬼”を出場させるつもりだが、\n戦力を増やしておきたい。参加しちゃくれないか？
+MSSID_Comp_Beltran: 見事ブリギットを降したな！　おめでとうよ。\nお前さんが引き受けてくれて、本当に良かった。\n白髪鬼が言っていた。『お前と共に戦えて良かった。\n機会があれば、また肩を並べたいものだ』……とな。
+MSSID_Goal_Beltran: ガブリエルと話し外伝に挑む
+MSSID_Detail_Talimun: うちの商会の連中に、ある物を運ばせてたんだが、\n何とそいつが馬車ごと行方不明になっちまった。\n俺様直々に調査と回収に向かいたいんだが……\nどうだ？　手伝ってみる気はないか？
+MSSID_Comp_Talimun: 万事解決だな。依頼をしておいて正解だったぜ！\n今回のことは、くれぐれも内密に頼む。\n本当に感謝してるぜ。今度そっちに何かあったら、\n俺様を呼んでくれていい。
+MSSID_Goal_Talimun: 目的地で外伝に挑む
+MSSID_Detail_Orhel: ヤシン提督という方が、女神ユ・ファスが肌身離さず\n着けていたとされる指輪を持っているそうです。\nそれを、どうしても譲っていただきたいのです。\n交渉の場に、一緒に来ていただけませんか？
+MSSID_Comp_Orhel: 今回はとてもお世話になりました！\nお陰で無事に指輪を取り戻せました……\n本当にありがとうございます。\nもし皆さんに何かあれば、私が力になりますね。
+MSSID_Goal_Orhel: 目的地で外伝に挑む
+MSSID_Detail_Anhatolyah: 僕の故郷、コンロンの里に住まう民を、とある\n地下空間へ逃がす手伝いをしていただけませんか？\n僕だけでは民全員を無事に逃がすことは不可能です。\n最善を尽くせるよう、どうかご助力ください。
+MSSID_Comp_Anhatolyah: 里の皆を代表して感謝を伝えます。\n次は、僕があなたの力になりたいです！\nもし困ったことがあれば、呼んでください。\nどんなに遠くにいても、きっと駆けつけますから！
+MSSID_Goal_Anhatolyah: 目的地で外伝に挑む
+MSSID_Detail_Soleil: ダグシオンの外れにある古い礼拝施設の跡地を\nどうも無断で使っている人がいるみたいなの。\nそこを調査をしないといけないんだけど……\nその護衛をお願いできないかしら？
+MSSID_Comp_Soleil: いろいろ予想外のこともあったけど……\n目的を無事達成できて、良かったわ。\n協力に感謝です。あと、今回のことは\n決して他言しないよう御願いしますね。
+MSSID_Goal_Soleil: アンナと話し外伝に挑む
+MSQID_Title_BattleValeri: ヴァレリの八つ牙
+MSQID_Detail_BattleValeri: 知っているか？　帝都の南東「ヴァレリ峡谷」に、\n凶暴な狼の群れが住み着いていて、\n周辺では「八つ牙」と呼ばれ、恐れられている。\n腕に自信があるなら、退治に行ってみないか？
+MSQID_Comp_BattleValeri: あの獣たちを退治してくれるとは！\nもっと早く依頼をすれば良かったよ。\n最近帝都周辺も物騒なんだが\nあんたらがいれば安心だな。
+MSQID_Goal_BattleValeri: “八つ牙”を倒す
+MSQID_Client_BattleValeri: 帝都を警備中の兵士
+MSQID_Title_BattleNapier: ならず者への報復
+MSQID_Detail_BattleNapier: ベヘルダ暴斧団をご存知ですか？\n奴らには商会の荷馬車を何台もやられています。\nお願いしてもいいですか？　依頼は奴らの殲滅です。\n一人残らず倒してください！
+MSQID_Comp_BattleNapier: 殲滅、と言いましたが、凶暴な奴らのこと\nせいぜい怪我を負わせるくらいでいいと\n考えていましたが……お見事です！\nあなたたちを敵にまわしたくないですね……
+MSQID_Goal_BattleNapier: “ベヘルダ暴斧団”を倒す
+MSQID_Client_BattleNapier: 怒っているヴァンダル商会員
+MSQID_Title_BattleGranada: グランナダの盗賊退治
+MSQID_Detail_BattleGranada: 故郷へ帰る途中のグランナダ砦跡って場所に\n盗賊の一団がたむろしていて通れないんだ……\n病気のおふくろに薬を届けなきゃいけないのに……\n誰でもいい、奴らを追い払ってくれ！
+MSQID_Comp_BattleGranada: 奴らを退治してくれたのか！？　ありがとう！\n本当に盗賊って奴は次から次に湧いてくるよなあ……\nあんたには世話になったな。礼を受け取ってくれ。\n俺とおふくろ二人分の感謝の気持ちだぜ！
+MSQID_Goal_BattleGranada: “ザロン盗賊団”を倒す
+MSQID_Client_BattleGranada: 故郷へ帰りたい旅人
+MSQID_Title_BattleMidea: 禍々しき生贄集団
+MSQID_Detail_BattleMidea: 呪い師の集団“シシアの秘印”という連中が\n日没砦を根城にしているようだ。\nこいつらは生贄の儀式で魔力が高まると信じてる。\n家畜が何頭も消えてる。誰か奴らを追い払えないか？
+MSQID_Comp_BattleMidea: 奴らがいなくなったあとを調べたら\n夥しい数の獣の骨、骨、骨……！\nそんなことで魔力が高まるものか。\nまあいい。依頼は完了だ。助かったよ。
+MSQID_Goal_BattleMidea: “シシアの秘印”を倒す
+MSQID_Client_BattleMidea: 相談を受けた神官
+MSQID_Title_StoneOrder: 錬成石の仕入れ依頼
+MSQID_Detail_StoneOrder: 錬成石が余ってたら分けてくれないか？\n俺は傭兵だ。武器は商売道具なんだが\nこのままじゃ使い物にならなくなっちまう。\n鉱山に行って掘り返してくるしかないか……？
+MSQID_Comp_StoneOrder: 錬成石を分けてくれるのか！？\nありがたい！　坑夫にならずに済んだよ。\nしかしここまで錬成石が無くなるとは……\nたぶん例の大剣闘祭の所為だな。
+MSQID_Goal_StoneOrder: 以下の物を納品
+MSQID_Client_StoneOrder: 錬成石が欲しい傭兵
+MSQID_Title_YamanOrder: 花びらにのせる想い
+MSQID_Detail_YamanOrder: 応援している剣闘士がいるんだけど、試合の時に\nその人の好きな花をまいてあげたいの。\nヤーマンギクって花が好きみたい。\n持っていたら分けてくれない？
+MSQID_Comp_YamanOrder: 手に入れてくれてありがとう！\nこの花のこと、きっと気付いてくれるわよね？\nわたしの方、見てくれるわよね？\nうーん、楽しみ！　ありがとう！
+MSQID_Goal_YamanOrder: 以下の物を納品
+MSQID_Client_YamanOrder: 剣闘士を応援する観客
+MSQID_Title_BattleSunPass: 毛むくじゃらのでけえ獣
+MSQID_Detail_BattleSunPass: あのさあ、月見峠に、毛むくじゃらのでけえ獣が\nウロついててよ、旅人や商人を襲うんだよお。\n腕自慢の奴がいたら、その退治を頼みたい。　\n俺の仲間の仇をとってくれ！　よろしく頼むよお！
+MSQID_Comp_BattleSunPass: 仇をとってくれて感謝だよお！\nあのでけえの、アトラスベアってえのか？\n腹あ空かせてたのかもしれねえが……こっちだって\n毎日必死に生きてるんだ。恨みっこなしだよお！
+MSQID_Goal_BattleSunPass: 大食らいの獣を倒す
+MSQID_Client_BattleSunPass: 仲間が襲われた行商人
+MSQID_Title_AguinhoShopping: 遠きにありて思う味
+MSQID_Detail_AguinhoShopping: 帝都には美味しいものがたくさんあるけど\n時折故郷の味が無性に恋しくなってしまうわ。\n故郷のアギーニョ村でしか買えない果物、\nジョッパが欲しいの。持ってたら分けてくれない？
+MSQID_Comp_AguinhoShopping: これこれ！　これぞまさしくジョッパだわ！\nああ……この食べるのに一手間いる感じ！\nなつかしい……涙でてきちゃった。\n早く帰って調理しないと。ありがとう！
+MSQID_Goal_AguinhoShopping: 以下の物を納品
+MSQID_Client_AguinhoShopping: 故郷の味を求める市民
+MSQID_Title_BattleTower: 奪われた星の記録
+MSQID_Detail_BattleTower: 夜空に浮かぶ星々を古代より観測してきた\n天体観察記録が何ものかに盗まれてしまった……\n犯人は星を恐れ、忌むべき存在としているようだ。\n彼らを討伐し、奪還してくれ給え！
+MSQID_Comp_BattleTower: 奪い返してくれたこと、礼を言うよ。\n奴らは、何故、星を怖がるのだろうな？\n夜空の闇の向こうに、何か恐ろしいものでも\n潜んでいるとでも言うのだろうか……？
+MSQID_Goal_BattleTower: “星奪いの弓兵団”を倒す
+MSQID_Client_BattleTower: 天文を学ぶ神官
+MSQID_Title_EnrietteOrder: 元気の出る木の実
+MSQID_Detail_EnrietteOrder: エンリエットという木の実を手に入れて欲しい。\n何でも、非常に精がつくとかいう噂で\n私の主人が特に所望しているのだ。\n陽光の花園に実るらしい。急ぎ頼む。
+MSQID_Comp_EnrietteOrder: まさしく注文通りの品だ。礼をいう。\n我が主人がこれを何に使うのかって？　\n実はご子息が元気がなくてな。\nこれで元気を出してくだされば良いのだが。
+MSQID_Goal_EnrietteOrder: 以下の物を納品
+MSQID_Client_EnrietteOrder: 富豪の使用人
+MSQID_Title_SearchingMegrez: 集落跡の土壌調査
+MSQID_Detail_SearchingMegrez: 土地全体が作物を枯らす病に侵され、うち捨てられた\nメグレズの集落跡だが、再び人が住めるように\nなったかどうかを調べたい。集落跡に赴いて、\nそこの砂を持ち帰ってきてくれないか？
+MSQID_Comp_SearchingMegrez: 足労だった。砂は早速調査に回した。\n恐らくだが、汚染は消えているだろう。\n実はメグレズは私の故郷なのだ。\nおかげで久しぶりに里帰りができそうだ。
+MSQID_Goal_SearchingMegrez: 以下の物を納品
+MSQID_Client_SearchingMegrez: 土壌を調査する兵士
+MSQID_Title_BattleMound: 蠢く異形の影
+MSQID_Detail_BattleMound: 死将の塚は、亡者共が跋扈する不浄な土地だ。\nその場所に、最近、異形の化け物が出没するという。\n調査に神殿兵を向かわせたが、いずれも行方不明だ。\n礼ははずむ。原因の調査と排除をしてくれないか？
+MSQID_Comp_BattleMound: ドラゴンゾンビ？\nそれが異形の正体か……不浄ここに極まれりだな。\nいや、あの場所を放置していた我々にも責任がある。\n苦労をかけたな。報酬を受け取ってくれ。
+MSQID_Goal_BattleMound: 謎の化け物を倒す
+MSQID_Client_BattleMound: 異形を気にかける神官
+MSQID_Title_BattleGalgo: でっけえ鳥が出た！
+MSQID_Detail_BattleGalgo: 鳥が出た！　象ほどもあるでっけえ鳥だ！\n場所は「ブロンテス湖」ってところなんだが\n子供たちが襲われた！\n誰かあいつを退治してくれ！　頼む！
+MSQID_Comp_BattleGalgo: 退治してくれて、本当にありがとう！\n子供達は怯えちまって、小鳥を見ても逃げ出すんだ。\nでも、もう大丈夫だって伝えるよ。\nまた、元気になってくれるといいな。
+MSQID_Goal_BattleGalgo: 大翼の怪鳥を倒す
+MSQID_Client_BattleGalgo: ブロンテス湖近くの村人
+MSQID_Title_BattleClove: 遺構を彷徨う骸骨
+MSQID_Detail_BattleClove: 呪われし地……クローヴの竪穴都市には\nかつての住民が、歩く骸骨スケルトンと化し、\n彷徨っているという。彼らを弔ってやって欲しい。\n１体残らず、打ち倒してくれ。
+MSQID_Comp_BattleClove: 彼らを眠りにつかせてくれたのだな？\n我が家に伝わる系譜図を紐解くと\nどうやら、彼らは私の先祖にあたるようだ。\nいい供養ができた。恩に着る。
+MSQID_Goal_BattleClove: 竪穴の死者を倒す
+MSQID_Client_BattleClove: 竪穴都市に縁のある貴族
+MSQID_Title_SearchingJewelry: 秘密のかがやき
+MSQID_Detail_SearchingJewelry: いつも結婚記念日に宝石を贈っているんだが\n次の記念日は、特にいい物を用意してやりたくて、\n美しいと名高いアイギーナ水晶が欲しいんだ。\n輝石の洞にあるらしいが……頼めるかな？
+MSQID_Comp_SearchingJewelry: 水晶の納品、ありがとうございます。\n聞いた通り不思議な輝きで、贈り物にピッタリです。\nさあ、次は職人に頼んで加工してもらわないと。\n首飾り？　それともフィビュラ？　うーん迷うなあ。
+MSQID_Goal_SearchingJewelry: 以下の物を納品
+MSQID_Client_SearchingJewelry: 愛妻家の市民
+MSQID_Title_BattleDuel: 天下無双の果たし状
+MSQID_Detail_BattleDuel: 大剣闘祭参加者よ、貴様達の戦いは不甲斐ない！\n我々と勝負せよ、そして、敗れたならば\n参加資格をおいて、ダグシオンを去るがいい！\nソナイ峠に来い！　待っているぞ！
+MSQID_Comp_BattleDuel: わ、我々を倒すとは……参加者の中にも、\n少しは骨のある奴がいるようだな。\n参加資格を奪ってやろうと思ったがやめだ！\nこのままでは済まさん……今に見ていろ！
+MSQID_Goal_BattleDuel: “天下無双真剣衆”を倒す
+MSQID_Client_BattleDuel: 天下無双真剣衆
+MSQID_Title_BattleTartarus: 暴れゴーレムの討伐
+MSQID_Detail_BattleTartarus: ゴーレムって見たことあるか？　でっかい身体の\n動く銅像みたいな奴だ。そいつがどうも\n「クルデリンデ遺跡」で派手に暴れてるらしい。\nこのままでは遺跡が崩れちまう。鎮めてやってくれ。
+MSQID_Comp_BattleTartarus: なんとかしてくれたみたいだな。ありがとう！\nゴーレムって奴はやっかいだろ？　なにせ\n眠らないから寝込みも襲えねえし、\n飯を食わないから罠にもかからないしよ。
+MSQID_Goal_BattleTartarus: 遺跡のゴーレムを倒す
+MSQID_Client_BattleTartarus: ゴーレムに悩む兵士
+MSQID_Title_BattleSandHole: ワラジムシの駆除依頼
+MSQID_Detail_BattleSandHole: 虫穴って場所に、ワラジムシが出やがるんだ。\n一匹二匹なら怖くねえが群れで湧いてきやがって……\n討伐隊を組みたいんだが、もう志願者が居ねえ……\n誰でもいい、駆除してくれると大助かりだ！
+MSQID_Comp_BattleSandHole: あそこは昔、ワラジムシの狩り場だったんだが\n返り討ちに遭った奴をエサに、凶暴な奴が育って……\n人間様が狩られる側になっちまったのさ。\n礼はさせてもらうぜ。とっといてくれ！
+MSQID_Goal_BattleSandHole: 群れを成す害虫を倒す
+MSQID_Client_BattleSandHole: 害虫討伐隊の兵士
+MSQID_Title_BattleLakeside: 人の消える森
+MSQID_Detail_BattleLakeside: 仲間の猟師や村人の行方が判らないんだ。\nどこかに捕まってるのかもしれない……\nファウヌスの森にいる呪術師の集団が犯人だ。\n奴らと戦って気を引いてくれないか？
+MSQID_Comp_BattleLakeside: あんたらが奴らと戦ってくれている間に\n行方不明になった奴らを捜したんだが……\n一人も見つかりやしねえ。死体すらねえ。\n何が起きているんだか……スッキリしねえな。
+MSQID_Goal_BattleLakeside: “影纏いの呪術師団”を倒す
+MSQID_Client_BattleLakeside: 友人を捜す猟師
+MSQID_Title_BattleDamasen: 天下無双の果たし状２
+MSQID_Detail_BattleDamasen: 大剣闘祭の参加者に告ぐ！　以前は\n油断をしたが、今度はそうはいかん！\n我々と戦う栄誉を貴様にくれてやろう。\nダマセン岬に来い！　待っているぞ！
+MSQID_Comp_BattleDamasen: 名誉と誇りをかけた闘い……実に良い勝負だった。\n死力を尽くしたのだ、後悔など……など……\nい……いや、納得出来んぞー！\nこの礼はまたする。剣を磨いて待っていろ！
+MSQID_Goal_BattleDamasen: “天下無双真剣衆”を倒す
+MSQID_Client_BattleDamasen: 天下無双真剣衆
+MSQID_Title_ReclaimAmulet: 姿を消す呪術道具
+MSQID_Detail_ReclaimAmulet: 腕が立つハル・ハリ族の連中に\n運んでいた大事な商品を盗まれちまった……\n盗まれたのは呪術師の古具だ。その連中が\nいるのは秘奥の祭壇らしい。取り返してくれるか？
+MSQID_Comp_ReclaimAmulet: 取り返してくれて助かったよ！\nこの呪術師の古具だが、なんだか\n盗まれやすい気がするな……\n何か、怪しい魔力でもでていたりしてな？
+MSQID_Goal_ReclaimAmulet: 以下の物を納品
+MSQID_Client_ReclaimAmulet: 呪術道具を扱う商人
+MSQID_Title_PandoraBargain: 神が口にするもの
+MSQID_Detail_PandoraBargain: 神殿に神饌として、特別な魚を献上したいのです。\nラーランという魚がふさわしいと思っています。\n噂ではパンドラの港町で水揚げされたとか。\n一尾、仕入れてきていただけませんか？
+MSQID_Comp_PandoraBargain: 希少な魚だけあって、なかなか面白い見た目を\nしていますね。長い胸びれが翼のようで、\n気品があり、まるで神の使いの如き優美さです。\nこれは神饌にふさわしい！　大変満足しました！
+MSQID_Goal_PandoraBargain: 以下の物を納品
+MSQID_Client_PandoraBargain: 神饌を探す参拝者
+MSQID_Title_StandUp: 消えた金貨の追跡
+MSQID_Detail_StandUp: 私は珍しい金貨や硬貨を蒐集している者です。\nジール硬貨の持ち主を探していたのですが\n巨人の足跡砦で、その足取りが途絶えました。\n今でもそこに？　確認と確保をお願いできますか？
+MSQID_Comp_StandUp: ジール硬貨だけが落ちていた……ということは\n持ち主は、命を落とされたということでしょうか。\nご苦労様です。対価はお支払いします。硬貨は\nご家族の元へ、お返ししようと思います。
+MSQID_Goal_StandUp: 以下の物を納品
+MSQID_Client_StandUp: 硬貨蒐集家
+MSQID_Title_BattleUranus: 天下無双の果たし状３
+MSQID_Detail_BattleUranus: 大剣闘祭の参加者よ聞け！\nとうとう我々を本気にさせてしまったようだな。\n次の戦いで因縁の戦いに終止符を打つとしよう。\nウラノス山で待つ。いいか？　逃げるなよ！
+MSQID_Comp_BattleUranus: またまた勝てなかったな……\n山ごもりまでして鍛えたのに、ザマあねえぜ。\n大剣闘祭に出るのは、お前たちこそ相応しい。\n健闘を祈ってるぜ。あばよ！
+MSQID_Goal_BattleUranus: “天下無双真剣衆”を倒す
+MSQID_Client_BattleUranus: 天下無双真剣衆
+MSQID_Title_LegiaShopping: 名高き必殺の剣
+MSQID_Detail_LegiaShopping: 必殺の剣と名高いキルソードを所望している。\nなんでもレギアの町で手に入ると聞くが……\nそれを納めてはもらえないだろうか？\n負けられぬ戦いを控えている。是非に頼む。
+MSQID_Comp_LegiaShopping: キルソードの手配、かたじけない。\nこの刀身の見事さ、目を見張るものがあるな！\nだが、どうやら対戦相手もこれを入手したとか。\n結局は己が腕次第……ふ、それもまた一興！
+MSQID_Goal_LegiaShopping: 以下の物を納品
+MSQID_Client_LegiaShopping: 試合を控えた剣闘士
+MSQID_Title_HeartfulGift: 彼のことが知りたくて
+MSQID_Detail_HeartfulGift: 彼に誕生日の贈り物がしたいんですが\n何が好きなのか知りたくて……\n宿屋の近くに立っています。\nこっそり聞いてきてもらえませんか？
+MSQID_Comp_HeartfulGift: ゴーシュと珍味……そうだったんですね……！\nついに彼の好きなものを知ることができました！\nあとは彼の名前と家と誕生日を\n知ることができれば……ふふ…ふふふ……
+MSQID_Goal_HeartfulGift: 女性の想い人と話す
+MSQID_Client_HeartfulGift: 悩んでいる女性
+MSQID_Title_HungryElefant: 戦象乗りの絆
+MSQID_Detail_HungryElefant: あたしの戦象に食べ物を恵んでもらえませんか？\n滋養のあるハクレンって野菜をやりたいんです。\n特定の場所で、稀に栽培できる珍しい品種でして、\n一度「岩が３つ並ぶ場所」でも採れた覚えが……
+MSQID_Comp_HungryElefant: ありがとうございます！　あたしの戦象を\n救世主様の軍に加えてやっちゃもらえませんか？\n不甲斐ない主人に代わって、是非、\n救世主様のお役に立ててください！
+MSQID_Goal_HungryElefant: 以下の物を納品
+MSQID_Client_HungryElefant: 怪我をした戦象兵
+MSQID_Title_LittleRevenge: 失われた試合観戦
+MSQID_Detail_LittleRevenge: 広場にたむろしているごろつきを倒してくれ！\n俺は大剣闘祭を見に来たんだが\nその入場料を奴らに奪われちまった……\n報酬なら払う。頼まれてくれないか？
+MSQID_Comp_LittleRevenge: あいつらをやっつけてくれたよな！\n実はこっそり見てたんだ。ありがとう！\nあんたの戦い、実に見事だった。\n胸がすいたよ！　もう満足だ。
+MSQID_Goal_LittleRevenge: ごろつきを倒す
+MSQID_Client_LittleRevenge: 大剣闘祭の観客
+MSQID_Title_RarePearl1: 幻の虫真珠
+MSQID_Detail_RarePearl1: ワラジムシという生き物を見たことがあるかね？\nそいつの体内で虫真珠が生成されることがある。\nもしそれを手に入れたら、持ってきてくれないか？\n高値で買い取らせてもらうよ。
+MSQID_Comp_RarePearl1: おお……希少な物を納品ありがとう！\n僕も本物を見たのは久しぶりだよ。\nきみはワラジムシ退治の名人か何か？\nまた必要ができたら頼みにくるよ。
+MSQID_Goal_RarePearl1: 以下の物を納品
+MSQID_Client_RarePearl1: 虫真珠を探すマンダラン商会員
+MSQID_Title_RarePearl2: 幻の虫真珠２
+MSQID_Detail_RarePearl2: もっと虫真珠がほしい。できれば次は\n大粒なものを、との更なるご所望なのだ。\nもし手に入れることができたら、持ってきてくれ。\n高値で買い取らせてもらうよ。
+MSQID_Comp_RarePearl2: 感謝する！　これで依頼主の\n機嫌を損ねずに済んだよ。\n葡萄酒に混ぜて飲むのが美容にいいのだとか。\n高貴なお方のすることは理解できん。
+MSQID_Goal_RarePearl2: 以下の物を納品
+MSQID_Client_RarePearl2: 虫真珠を探すマンダラン商会員
+MSQID_Title_RarePearl3: 幻の虫真珠３
+MSQID_Detail_RarePearl3: お得意様のご機嫌をとるために\n膨大な量の虫真珠を納品しなければならない。\nきみ、僕のために虫真珠を沢山手に入れて\n貰えないだろうか？
+MSQID_Comp_RarePearl3: 大、大、大感謝だ！\nお陰で首の皮一枚のところ繋がったよ。\n商会の信頼も保たれた。\nきみは僕だけじゃなく商会の恩人だ。
+MSQID_Goal_RarePearl3: 以下の物を納品
+MSQID_Client_RarePearl3: 虫真珠を探すマンダラン商会員
+MSQID_Title_GarmCommitment1: ガルム・ガルム・ガルム！
+MSQID_Detail_GarmCommitment1: ガ……ガルムを切らしてしまったんだ。\nあれがないと、私は……私は……\nもう１歩も動けない……\nとにかく急いでガルムを届けてくれ！
+MSQID_Comp_GarmCommitment1: 恥ずかしいところを見せた。だが、\nきみが来てくれて本当に助かった！\nきみが持ってきてくれたガルムは実に\n美味かった。また機会があれば頼むよ！
+MSQID_Goal_GarmCommitment1: 以下の物を納品
+MSQID_Client_GarmCommitment1: ガルム好きの富豪
+MSQID_Title_MessengerRequest: 届かぬ密書
+MSQID_Detail_MessengerRequest: ある国からの密書を回収してほしいのだ。\n密書を運んでいた使いが殺されてな。\n死ぬ前にある場所に隠したらしい。\nそいつを見つけてここへ持ってきてくれ。
+MSQID_Comp_MessengerRequest: ほう……頼んだものを\n無事に届けてくれたようだな？\n流石は俺が見込んだお前。\n完璧な仕事だ。恐れ入った。
+MSQID_Goal_MessengerRequest: 以下の物を納品
+MSQID_Client_MessengerRequest: 怪しい騎士
+MSQID_Title_DisturbingElements: 帝国の安全のために
+MSQID_Detail_DisturbingElements: 私は現在、とある集団を追っています。\nもしもあなたが、誰かから怪しいものを\n届けるように頼まれることがあったときには\nそれを私のところに届けてはくれませんか？
+MSQID_Comp_DisturbingElements: え！？　怪しい者の密書？\n恐らく暗号化された文章でしょう。\n我々では足取りをつかめなかった\n奴らに接触して出し抜くとは。流石です！
+MSQID_Goal_DisturbingElements: 以下の物を納品
+MSQID_Client_DisturbingElements: 帝国の百人将ダニエル
+MSQID_Title_Assassination: 理由なき暗殺
+MSQID_Detail_Assassination: 依頼自体は単純だ。とある場所にいる\nイノーという人物を殺すだけさ。\n気乗りしないなら何もしなければいい。\nだが、お前はやるさ。必ずな……
+MSQID_Comp_Assassination: やはり俺の思った通りだ。\nお前はやってくれると信じてた。\nご苦労だったな。お前は英雄だよ。\n……それを知るのは、俺だけだがな。
+MSQID_Goal_Assassination: イノーを倒す
+MSQID_Client_Assassination: 怪しい騎士
+MSQID_Title_RelicRecovery: 謎のブツ回収依頼
+MSQID_Detail_RelicRecovery: 過去に盗まれたブツの在処がわかったのさ。\nアラゴ王国の最北西、ソリダス地方の\nイアペトス大洞窟だ。探索を頼みたい。\n口止め料込みで報酬は弾ませてもらう。
+MSQID_Comp_RelicRecovery: 偽物じゃない……これぞまさしく\n手に入れたかったブツだ！\n上もさぞ喜ぶことだろう。\nやはりお前に頼んで正解だった。
+MSQID_Goal_RelicRecovery: 以下の物を納品
+MSQID_Client_RelicRecovery: 怪しい騎士
+MSQID_Title_FulamaSmuggler: 不可侵なる取引
+MSQID_Detail_FulamaSmuggler: フラーマというものをご存知ですか？\n最近、使用者が増えているようなのです。\nメラク峠に潜伏している連中が出所です。\n奴らを倒し、それを回収してください！
+MSQID_Comp_FulamaSmuggler: ご協力ありがとうございました！\nこれで被害を食い止めることができます。\n奴らの正体を暴いてやりますよ！\n楽しみにしておいてください！
+MSQID_Goal_FulamaSmuggler: 以下の物を納品
+MSQID_Client_FulamaSmuggler: 帝国の百人将ダニエル
+MSQID_Title_DaMinaDelivery: その名はダ・ミナ
+MSQID_Detail_DaMinaDelivery: ある方の希望でね。ダ・ミナの武器を\nたくさん集めなければならない。\n君、暇なら協力してくれないか？　相場の\n倍出してもいい、持っていたら譲ってくれ。
+MSQID_Comp_DaMinaDelivery: え！？　譲ってくれるのか？\n願ったり叶ったりだ！\n君はやっぱり暇……じゃなくて\n時間に余裕があったんだな。ありがたい。
+MSQID_Goal_DaMinaDelivery: 以下の物を納品
+MSQID_Client_DaMinaDelivery: 武器を扱う商人
+MSQID_Title_ResearchTeam: 洞窟調査隊は何処に
+MSQID_Detail_ResearchTeam: 遺跡のひとつである異教徒の洞窟という場所に\n調査隊を派遣したのですが、\n連絡が途絶えてしまったのです。\nその安否を確認に行っていただけませんか？
+MSQID_Comp_ResearchTeam: 彼らは見つかりませんでしたか……\nなんらかの事故に巻き込まれたのでしょう。\n今回は経費の回収は諦めますか。\nまた資金を作り、挑むとしましょう。
+MSQID_Goal_ResearchTeam: 洞窟調査隊の情報を集める
+MSQID_Client_ResearchTeam: 調査隊を心配する商人
+MSQID_Title_SoulCrystal: 原初なる結晶
+MSQID_Detail_SoulCrystal: 魂の結晶の実物があれば、手詰まりの研究に\n新しい切り口が生まれるかもしれない。\nもし魂の結晶を見つけたら\n私のところへ持ってきてくれないか？
+MSQID_Comp_SoulCrystal: まさか本当に手に入れてくれるとは\nきみは一体何者なんだ？\n我々の研究は、大きく飛躍するだろう。\n実によくやってくれた……！
+MSQID_Goal_SoulCrystal: 以下の物を納品
+MSQID_Client_SoulCrystal: フラーマを研究する魔道士
+MSQID_Title_SandorLegacy: 伝説の彫刻家の遺産
+MSQID_Detail_SandorLegacy: 伝説の彫刻家シャンドール作の４人の女神像が\n帝都の東の「神殿」、北の「峠」、西の「草原」\n南の「湖」のどこかにあると睨んでいます。\n発見したら届けていただけないでしょうか？
+MSQID_Comp_SandorLegacy: おお……これが数多の人々が追い求めた\n伝説の彫刻家の作品ですか！\n将軍も大切にされることでしょう。\nこの度は本当にありがとうございました！
+MSQID_Goal_SandorLegacy: 以下の物を納品
+MSQID_Client_SandorLegacy: サンゴール将軍の部下
+MSQID_Title_AcademicFreedom: 狙われた古の石板
+MSQID_Detail_AcademicFreedom: 古代イスカンダリアの文明について\n新たなる資料となる遺物の発見に成功したのだ！\nだが、研究所が荒らされ、盗まれてしまった……\n古代の石板を見つけたら、すぐに私へ届けてくれ！
+MSQID_Comp_AcademicFreedom: ありがとう。きみには感謝を禁じ得ないよ。\nミトラス修道会の連中にこれ以上研究を\n邪魔されるなど、我慢できない。\n早晩帝都を発つよ。縁があったらまた会おう。
+MSQID_Goal_AcademicFreedom: 以下の物を納品
+MSQID_Client_AcademicFreedom: イスカンダリアの研究者キンカラ
+MSQID_Title_PopeSecret: 神威法王の秘め事
+MSQID_Detail_PopeSecret: 実は神威法王殿が、時折我々の目を盗んで\n神殿を抜け出し、どこかへ姿を消されるのです。\n行き先を突き止めていただけませんか？\nきっと目撃した者など居ることでしょう。
+MSQID_Comp_PopeSecret: はっきりとした場所までは分かりませんでしたか。\nしかし、あなたが私の話を聞いてくださって\n動いてくださって、心が晴れました。\n感謝致します。依頼は完了とさせてください。
+MSQID_Goal_PopeSecret: 神威法王の情報を集める
+MSQID_Client_PopeSecret: ソレル神殿の神官
+MSQID_Title_VillageDefense: アギーニョの盗賊退治
+MSQID_Detail_VillageDefense: うちの村が、近くに住む盗賊たちから\n頻繁に襲撃をうけて困っているんです！\n追い払ってくれたら、お礼を差し上げます。\nどなたか……どうか私たちの村を救ってください！
+MSQID_Comp_VillageDefense: 盗賊たちを追い払っていただき、\n本当にありがとうございました！\nこれで、彼らも少しは\n懲りてくれるといいのですが……
+MSQID_Goal_VillageDefense: 盗賊を倒す
+MSQID_Client_VillageDefense: アギーニョの村人
+MSQID_Title_BarkeeperTroubles: 酒場に来ない酒飲み
+MSQID_Detail_BarkeeperTroubles: うちの常連のガストロって客なんだけど。\nぱたりとうちの店に来なくなってね。\nちょっと心配になっちまって……\n良ければ家まで見に行ってやっておくれよ。
+MSQID_Comp_BarkeeperTroubles: ガストロのやつ。そんな杯を作ってたのか……\nとにかく無事で何よりさ。安心したよ。\n新しい杯は確かに売り上げが上がりそうだ。\n期待しておこうかしら。
+MSQID_Goal_BarkeeperTroubles: ガストロと話す
+MSQID_Client_BarkeeperTroubles: 客を心配する酒場の店員
+MSQID_Title_SmallCastle1: 思い出の我が家
+MSQID_Detail_SmallCastle1: 家が知らない富豪にとられたんだ！\n取り返すには証明できるものが必要で……\n鍵を見つけ出せれば、証明になるよね？\nお願いだよ。もし見つけたら持ってきて！
+MSQID_Comp_SmallCastle1: 間違いない！\nこれ、僕の家の鍵だよ！\nこれさえあれば、家が取り返せるよ。\n本当に、本当にありがとう！
+MSQID_Goal_SmallCastle1: 以下の物を納品
+MSQID_Client_SmallCastle1: 絵に閉じ込められていた少年
+MSQID_Title_SmallCastle2: 思い出の我が家２
+MSQID_Detail_SmallCastle2: 家を売って、誰も知らないところへ\n引っ越そうかなって思ってるんだ。\nねえ、誰かいい買い手さんがいないかな？\nもし、良さそうな人に会ったら、教えてよ！
+MSQID_Comp_SmallCastle2: え！　家を探してる人が居た！？\nふんふん、なんだかいい感じの人そうだね。\n僕からも話してみるよ。何から何まで\nいろいろと、本当にありがとう！
+MSQID_Goal_SmallCastle2: 家の買い手を探す
+MSQID_Client_SmallCastle2: 絵に閉じ込められていた少年
+MSQID_Title_CollectingStones1: 奇石の採集依頼
+MSQID_Detail_CollectingStones1: 今取り掛かっている研究の実験に\n珍しい石が必要になってしまってな。\n欲しいのはウラノタイトという石じゃ。\nおぬし、もし良かったら採ってきてくれんか？
+MSQID_Comp_CollectingStones1: 頼んでいたものを持ってきてくれたのか！\n若いくせに、なかなか感心なことじゃ！\nじゃが、おかげで助かったわい。これで、\n心置きなく実験を続けられる……！
+MSQID_Goal_CollectingStones1: 以下の物を納品
+MSQID_Client_CollectingStones1: 奇石の研究家ロユウ
+MSQID_Title_GiscoTreasure: ギスコの財宝のありか
+MSQID_Detail_GiscoTreasure: ギスコは財宝の隠し場所を暗号で書き残した。\n『バアルの恵みの水面を見つめし巨像、\n彼女の指差す石柱を調べよ』\nもし解けたら、財宝を持ち帰ってくれ。
+MSQID_Comp_GiscoTreasure: な……なんと！？　ギスコの暗号を解いて、\n財宝を持ち帰ってきたのか？\nわしが教えた謎だ。この財宝はわしが\nもらっておくぞ！　ほっほっほ！
+MSQID_Goal_GiscoTreasure: 以下の物を納品
+MSQID_Client_GiscoTreasure: 財宝の謎に挑む老人
+MSQID_Title_UnforgettableTaste: 懐かしく苦き味
+MSQID_Detail_UnforgettableTaste: 里でよく食べた「砂虫」の味が懐かしくてな\nどうしても忘れられん……\nなあ、お若い人よ。「砂虫肉」を持っておったら\n少しばかりわけてくれんか？
+MSQID_Comp_UnforgettableTaste: これじゃこれじゃ！　苦労をかけたな。\nこの色、この匂い、懐かしいのう……！\n今ではもっと美味いものも知っておるが\n当時がこれが何よりのご馳走だったんじゃ。
+MSQID_Goal_UnforgettableTaste: 砂虫
+MSQID_Client_UnforgettableTaste: 故郷の味を求める老人

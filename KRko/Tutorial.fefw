@@ -1,0 +1,822 @@
+﻿MID_TUT_Hub_Spire_t: 방첨탑의 방
+MID_TUT_Hub_Spire_m01_001: 이 방에 늘어서 있는 {SetColor=Gold}방첨탑과 접촉{SetColor=Default}하면\n각 {SetColor=Gold}진영장의 이야기{SetColor=Default}를 {SetColor=Gold}시작{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_Spire_m01_002: 원하는 {SetColor=Gold}탑을 선택{SetColor=Default}하여 그 운명에 접해 보고\n{SetColor=Gold}많은 진영장들{SetColor=Default}을 이 땅으로 {SetColor=Gold}인도{SetColor=Default}해 봅시다
+MID_TUT_Hub_Warehouse_t: 안식처의 성궤
+MID_TUT_Hub_Warehouse_m01_001: {SetColor=Gold}안식처의 성궤{SetColor=Default}에는 {SetColor=Gold}전쟁편을 클리어할 때마다{SetColor=Default}\n전쟁편의 {SetColor=Gold}클리어 보수{SetColor=Default}와 제1부에서 {SetColor=Gold}소지{SetColor=Default}하고 있던\n아이템, 소재, 동물, 군단병 등이 {SetColor=Gold}등록{SetColor=Default}됩니다
+MID_TUT_Hub_Warehouse_m01_002: {SetColor=Gold}인과의 파편{SetColor=Default}을 사용하면 원하는 것을 {SetColor=Gold}생성하여\n구세편{SetColor=Default}에서 활용할 수 있습니다
+MID_TUT_Hub_Causal_t: 
+MID_TUT_Hub_Causal_m01_001: 
+MID_TUT_Hub_Merge_t: 동료의 인과 융합
+MID_TUT_Hub_Merge_m01_001: 인과의 파편을 사용하면 {SetColor=Gold}진영장 외의 동료{SetColor=Default}도\n{SetColor=Gold}인과 융합{SetColor=Default}을 할 수 있습니다
+MID_TUT_Hub_Merge_m01_002: {SetColor=Gold}스킬과 전투 기술{SetColor=Default}은 그대로 이어받으며\n{SetColor=Gold}스테이터스{SetColor=Default}는 {SetColor=Gold}높은 쪽{SetColor=Default}을 이어받습니다
+MID_TUT_Hub_Destination_t: 목표 아이콘
+MID_TUT_Hub_Destination_m01_001: {SetColor=Gold}이야기를 진행하기{SetColor=Default} 위한 {SetColor=Gold}목표가 있는 곳{SetColor=Default}에는\n{Icon} {SetColor=Gold}아이콘이 표시{SetColor=Default}됩니다
+MID_TUT_Hub_Destination_m01_002: 무엇을 해야 할지 {SetColor=Gold}모르겠다면{SetColor=Default} 이 {SetColor=Gold}아이콘이\n표시된 곳{SetColor=Default}을 방문하거나 조사해 봅시다
+MID_TUT_Hub_Advice_t: 길잡이 예언
+MID_TUT_Hub_Advice_m01_001: 이야기에서 중요한 전투를\n{SetColor=Gold}메인 배틀{SetColor=Default}이라고 부르며, 백아의 횃대에서\n그에 관한 {SetColor=Gold}정보를 확인{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_Advice_m01_002: 추천 LV, 무기 랭크 등 여러 정보를 참고하여\n이를 토대로 전력을 강화해 봅시다
+MID_TUT_Hub_AdventureNotebook_t: 모험 수첩
+MID_TUT_Hub_AdventureNotebook_m01_001: 다음에 무엇을 해야 할지 모르겠다면\n{ButtonX}를 눌러 {SetColor=Gold}모험 수첩{SetColor=Default}을 열어 봅시다
+MID_TUT_Hub_AdventureNotebook_m01_002: {SetColor=Gold}추천하는 행동{SetColor=Default} 및 {SetColor=Gold}행사{SetColor=Default} 등을 확인할 수 있습니다\n내용은 이야기가 진행됨에 따라 {SetColor=Gold}갱신{SetColor=Default}됩니다
+MID_TUT_Hub_Map_t: 거점 지도
+MID_TUT_Hub_Map_m01_001: 다그시온에서 「{SetColor=Gold}지도{SetColor=Default}」를 선택하면\n{SetColor=Gold}거점 지도{SetColor=Default}가 표시되어 가게 및 시설의 위치나\n동료 등의 인물이 있는 곳을 확인할 수 있습니다
+MID_TUT_Hub_Map_m01_002: 또한 이벤트 등 특정 상황을 제외하고\n가고 싶은 지역이나 시설, 인물을 선택하여\n{SetColor=Gold}{ButtonA}를 누르면{SetColor=Default} 근처까지 {SetColor=Gold}단번에 이동{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_SectionFree_t: 자유행동 기간
+MID_TUT_Hub_SectionFree_m01_001: {SetColor=Gold}잔여 턴이 0{SetColor=Default}이 될 때까지 자유롭게 {SetColor=Gold}행동{SetColor=Default}할 수 있으니\n월드 맵을 모험하거나 거점에서 시설을 이용하며\n전력을 강화해 봅시다
+MID_TUT_Hub_SectionFree_m01_002: {SetColor=Gold}턴{SetColor=Default}은 주로 {SetColor=Gold}월드 맵에서 이동{SetColor=Default}을 하거나\n{SetColor=Gold}입장한 거점 또는 던전에서 나올 때{SetColor=Default} 경과합니다
+MID_TUT_Hub_SectionFree_m01_003: 거점 내 {SetColor=Gold}시설{SetColor=Default}은 숙박 등 일부 행동을 제외하고\n이용해도 {SetColor=Gold}턴이 경과하지 않지만{SetColor=Default}\n그 대신 의욕 또는 골드가 소비됩니다
+MID_TUT_Hub_Scout_t: 스카우트
+MID_TUT_Hub_Scout_m01_001: {SetColor=Gold}동료로 삼을 수 있는 인물{SetColor=Default}에게 {SetColor=Gold}선물{SetColor=Default}을 주면\n「{SetColor=Gold}스카우트{SetColor=Default}」 제의를 할 수 있게 됩니다
+MID_TUT_Hub_Scout_m01_002: 스카우트에 성공하려면 {SetColor=Gold}명성 LV{SetColor=Default}이나 {SetColor=Gold}플레이 중인\n진영장과의 지원 LV{SetColor=Default} 등, {SetColor=Gold}조건{SetColor=Default}을 만족시켜야 합니다\n필요한 조건은 「{SetColor=Gold}인물 정보{SetColor=Default}」에서 확인할 수 있습니다
+MID_TUT_Hub_Scout_m01_003: 「스카우트」 제의뿐만 아니라 {SetColor=Gold}식사 등에 초대{SetColor=Default}하는\n것도 가능해지니 선물과 함께 활용하며\n{SetColor=Gold}지원 LV을 올려 봅시다{SetColor=Default}
+MID_TUT_Hub_Subquest_t: 퀘스트
+MID_TUT_Hub_Subquest_m01_001: {SetColor=Gold}퀘스트를 수락{SetColor=Default}하여 의뢰를 {SetColor=Gold}달성{SetColor=Default}하면\n다양한 {SetColor=Gold}보수를 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_Subquest_m01_002: 수락한 퀘스트의 {SetColor=Gold}내용 및 진행 상황{SetColor=Default}은 모험 수첩의\n{SetColor=Gold}퀘스트 목록{SetColor=Default} 페이지에서 {SetColor=Gold}확인{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_Subquest_m01_003: {SetColor=Gold}기한{SetColor=Default}이 정해져 있는 퀘스트도 있으니 주의합시다
+MID_TUT_Hub_Inn_t: 여관
+MID_TUT_Hub_Inn_m01_001: {SetColor=Gold}여관{SetColor=Default}에서는 {SetColor=Gold}동료를 회복시키거나 교류를 나누는 등{SetColor=Default}\n효율적으로 {SetColor=Gold}시간을 보낼{SetColor=Default} 수 있습니다
+MID_TUT_Hub_Inn_m01_002: 전투로 동료가 지쳤을 때나 지원 LV을 올리고 싶을 때\n또는 자유행동을 효율적으로 하고 싶을 때 이용합시다
+MID_TUT_Hub_IndividualAction_t: 개별 행동
+MID_TUT_Hub_IndividualAction_m01_001: 동료의 {SetColor=Gold}행동{SetColor=Default}을 선택하고 {SetColor=Gold}턴 수{SetColor=Default}를 지정한 후 {SetColor=Gold}실행{SetColor=Default}하면\n{SetColor=Gold}보수를 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_IndividualAction_m01_002: {SetColor=Gold}탐색{SetColor=Default}으로는 주로 {SetColor=Gold}골드 또는 소재{SetColor=Default}를,\n{SetColor=Gold}실전{SetColor=Default} 및 {SetColor=Gold}훈련{SetColor=Default}으로는 {SetColor=Gold}각종 EXP{SetColor=Default}를 획득할 수 있습니다
+MID_TUT_Hub_Meal_t: 식사
+MID_TUT_Hub_Meal_m01_001: 3명을 선택해 {SetColor=Gold}식사{SetColor=Default}를 하면 {SetColor=Gold}HP와 마법 횟수가\n회복{SetColor=Default}되며, 먹은 {SetColor=Gold}요리에 대한 호불호{SetColor=Default}에 따라\n{SetColor=Gold}지원도도 상승{SetColor=Default}합니다
+MID_TUT_Hub_Meal_m01_002: 또한 {SetColor=Gold}의욕도 회복{SetColor=Default}되는데\n{SetColor=Gold}좋아하는 요리{SetColor=Default}를 먹은 사람은 {SetColor=Gold}더 많이 회복{SetColor=Default}되지만\n싫어하는 요리를 먹은 사람은 회복되지 않습니다
+MID_TUT_Hub_Market_t: 선물 가게
+MID_TUT_Hub_Market_m01_001: {SetColor=Gold}선물 가게{SetColor=Default}에서는 거점에 있는 인물에게 줄\n{SetColor=Gold}선물을 구입{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_Market_m01_002: 선물을 주면 {SetColor=Gold}지원도가 상승{SetColor=Default}하며\n{SetColor=Gold}좋아하는 선물{SetColor=Default}을 주면 {SetColor=Gold}더 많이 상승{SetColor=Default}합니다
+MID_TUT_Hub_WeaponShop_t: 무기상
+MID_TUT_Hub_WeaponShop_m01_001: {SetColor=Gold}무기상{SetColor=Default}에서는 전투에 사용되는 {SetColor=Gold}무기를\n구입{SetColor=Default}하거나 {SetColor=Gold}매각{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_WeaponShop_m01_002: 이야기를 진행하다 보면 신상품이 들어와\n상품 종류가 늘어납니다
+MID_TUT_Hub_ToolShop_t: 도구상
+MID_TUT_Hub_ToolShop_m01_001: {SetColor=Gold}도구상{SetColor=Default}에서는 상처약 등의 {SetColor=Gold}아이템{SetColor=Default}이나\n방패 같은 {SetColor=Gold}장비품{SetColor=Default}을 {SetColor=Gold}구입 또는 매각{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_ToolShop_m01_002: 이야기를 진행하다 보면 신상품이 들어와\n상품 종류가 늘어납니다
+MID_TUT_Hub_Temple_t: 신전
+MID_TUT_Hub_Temple_m01_001: 신을 위한 {SetColor=Gold}봉사 활동{SetColor=Default}을 해서 {SetColor=Gold}가호를 얻거나{SetColor=Default}\n전투에서 사용할 {SetColor=Gold}가호{SetColor=Default}를 선택할 수 있습니다
+MID_TUT_Hub_Temple_m01_002: 또한 명성이 높아지면\n신을 {SetColor=Gold}알현{SetColor=Default}할 수 있게 됩니다
+MID_TUT_Hub_GodGate_t: 신로의 문
+MID_TUT_Hub_GodGate_m01_001: {SetColor=Gold}신로의 문{SetColor=Default}은 허가를 받으면 사용할 수 있으며\n신전의 {SetColor=Gold}본전과 분전 사이{SetColor=Default}를 {SetColor=Gold}순간 이동{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_ClassTrial_t: 자격 시험
+MID_TUT_Hub_ClassTrial_m01_001: 병과의 {SetColor=Gold}자격 시험{SetColor=Default}에 응시해서 합격하면\n{SetColor=Gold}새로운 병과{SetColor=Default}에 종사할 수 있습니다
+MID_TUT_Hub_ClassTrial_m01_002: 시험에 도전하기 위해서는 {SetColor=Gold}되고 싶은 병과{SetColor=Default}에\n{SetColor=Gold}해당하는 랭크의 시험 증서{SetColor=Default}가 필요합니다\n이는 시험 증서 상인에게서 구입할 수 있습니다
+MID_TUT_Hub_ClassTrial_m01_003: 응시자의 {SetColor=Gold}유닛 LV{SetColor=Default}과 {SetColor=Gold}기술 능력 LV{SetColor=Default}이\n해당 병과가 요구하는 기준에 미치지 못하면\n{SetColor=Gold}합격 확률이 낮아집니다{SetColor=Default}
+MID_TUT_Hub_ClassChange_t: 병과 변경
+MID_TUT_Hub_ClassChange_m01_001: {SetColor=Gold}병과 변경{SetColor=Default}을 통해, 합격한 병과로\n언제든지 변경할 수 있습니다
+MID_TUT_Hub_GodFormation_t: 가호
+MID_TUT_Hub_GodFormation_m01_001: 봉사 활동으로 얻은 {SetColor=Gold}가호{SetColor=Default} 중\n{SetColor=Gold}전투에서 사용할 가호{SetColor=Default}를 {SetColor=Gold}선택{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_GodFormation_m01_002: {SetColor=Gold}가호{SetColor=Default}마다 {SetColor=Gold}효과{SetColor=Default}와 {SetColor=Gold}천각의 백사 소비량{SetColor=Default}이 다르니\n잘 확인해서 선택합시다
+MID_TUT_Hub_Volunteer_t: 봉사 활동
+MID_TUT_Hub_Volunteer_m01_001: 2명을 선택해 {SetColor=Gold}봉사 활동{SetColor=Default}을 하면\n신전에서 받드는 신에 대한 {SetColor=Gold}공헌도{SetColor=Default}와\n2명의 {SetColor=Gold}지원도{SetColor=Default}가 {SetColor=Gold}상승{SetColor=Default}합니다
+MID_TUT_Hub_Volunteer_m01_002: 공헌도가 일정 수준 이상이 되면 {SetColor=Gold}가호 LV이 상승{SetColor=Default}하여\n각각 효과가 다른, 신의 다양한 {SetColor=Gold}가호{SetColor=Default}를\n{SetColor=Gold}전투에서 사용{SetColor=Default}할 수 있게 됩니다
+MID_TUT_Hub_Volunteer_m01_003: 참고로 각 신마다 {SetColor=Gold}길일{SetColor=Default}이 있는데\n해당 요일에는 {SetColor=Gold}반드시 봉사 활동에 대한 평가가\n높아지므로{SetColor=Default} 많은 {SetColor=Gold}공헌도{SetColor=Default}를 얻을 수 있습니다
+MID_TUT_Hub_Gift_t: 선물
+MID_TUT_Hub_Gift_m01_001: 「{SetColor=Gold}선물{SetColor=Default}」을 통해, 선택한 선물을 주면\n상대와의 {SetColor=Gold}지원도가 상승{SetColor=Default}합니다
+MID_TUT_Hub_Gift_m01_002: {SetColor=Gold}좋아하는 선물{SetColor=Default}을 주면\n{SetColor=Gold}지원도가 더욱 상승{SetColor=Default}합니다
+MID_TUT_Hub_Training_t: 훈련
+MID_TUT_Hub_Training_m01_001: 동료를 2명 선택해 {SetColor=Gold}훈련{SetColor=Default}을 하면\n{SetColor=Gold}기술 능력 EXP를 획득{SetColor=Default}하고 {SetColor=Gold}지원도가 상승{SetColor=Default}합니다
+MID_TUT_Hub_Training_m01_002: {SetColor=Gold}훈련 내용{SetColor=Default}은 {SetColor=Gold}매주 바뀌며{SetColor=Default}, 선택한 훈련에 따라\n획득할 수 있는 {SetColor=Gold}기술 능력 EXP{SetColor=Default}가 달라집니다
+MID_TUT_Hub_Arena_t: 관전
+MID_TUT_Hub_Arena_m01_001: 다른 {SetColor=Gold}클랜의 시합이 개최 중{SetColor=Default}일 때\n투기장 접수원에게 가면 {SetColor=Gold}관전{SetColor=Default}을 할 수 있습니다
+MID_TUT_Hub_Arena_m01_002: {SetColor=Gold}시합 일정{SetColor=Default}은 {SetColor=Gold}투기장 접수처{SetColor=Default}나\n{SetColor=Gold}캘린더{SetColor=Default}에서 확인할 수 있습니다
+MID_TUT_Hub_firm_t: 반달 상회
+MID_TUT_Hub_firm_m01_001: 가지고 있는 {SetColor=Gold}소재{SetColor=Default}를\n원하는 {SetColor=Gold}무기나 아이템으로 교환{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_firm_m01_002: 일반 상점에서는 구할 수 없는 {SetColor=Gold}희귀한 상품{SetColor=Default}이\n진열되어 있는 경우도 있으니 꼭 방문해 봅시다
+MID_TUT_Hub_Perch_t: 백아와 교류한다
+MID_TUT_Hub_Perch_m01_001: {SetColor=Gold}백아의 횃대{SetColor=Default}에 하얀 새({AvatarName})가\n앉아 있을 때는 「{SetColor=Gold}백아와 교류한다{SetColor=Default}」를\n선택할 수 있습니다
+MID_TUT_Hub_Perch_m01_002: 동료를 선택하여 먹이를 주면\n{AvatarName}{ConsonantVowel=과|와}의 {SetColor=Gold}교류{SetColor=Default}가 시작됩니다
+MID_TUT_Hub_Perch_m01_003: 하얀 새의 시점에서 {SetColor=Gold}동료가 원하는 반응{SetColor=Default}을 선택하면\n그 횟수에 따라 2명의 {SetColor=Gold}지원도가 상승{SetColor=Default}합니다
+MID_TUT_Hub_AdventBonds_t: 인연의 강림
+MID_TUT_Hub_AdventBonds_m01_001: 가끔 전투 맵 또는 퀵 배틀에서\n{SetColor=Gold}{AvatarName}{ConsonantVowel=이|가} 도와주러 나타나는데{SetColor=Default}\n이를 {SetColor=Gold}인연의 강림{SetColor=Default}이라고 합니다
+MID_TUT_Hub_AdventBonds_m01_002: 종류는 {SetColor=Gold}백광의 가호{SetColor=Default}와 {SetColor=Gold}백섬의 비창{SetColor=Default}으로 총 2가지이며\n{AvatarName}{ConsonantVowel=과|와}의 {SetColor=Gold}지원 LV이 높은 동료{SetColor=Default}일수록\n발생 {SetColor=Gold}확률이 높아집니다{SetColor=Default}
+MID_TUT_Hub_AdventBonds_m01_003: 백광의 가호는 {SetColor=Gold}전투 맵{SetColor=Default}에서\n{SetColor=Gold}치명상을 입을 것 같은 순간{SetColor=Default}에 발동되며\n{AvatarName}{ConsonantVowel=이|가} {SetColor=Gold}공격을 막아{SetColor=Default} 줍니다
+MID_TUT_Hub_AdventBonds_m01_004: 백섬의 비창은 {SetColor=Gold}퀵 배틀{SetColor=Default}에서\n{SetColor=Gold}아군의 전체 HP가 적을 때{SetColor=Default} 발동되며\n{AvatarName}{ConsonantVowel=이|가} {SetColor=Gold}적 부대를 쓸어버립니다{SetColor=Default}
+MID_TUT_Hub_DestinyKarma_t: 위업록/구세의 축복
+MID_TUT_Hub_DestinyKarma_m01_001: {SetColor=Gold}위업록{SetColor=Default}에서는 지금까지 달성한\n여러 {SetColor=Gold}기록을 확인{SetColor=Default}하고 보수로\n{SetColor=Gold}인과의 파편을 받을{SetColor=Default} 수 있습니다
+MID_TUT_Hub_DestinyKarma_m01_002: {SetColor=Gold}구세의 축복{SetColor=Default}에서는 수집한 인과의 파편을 사용해\n게임 플레이에 도움이 되는 {SetColor=Gold}다양한 효과를\n얻을{SetColor=Default} 수 있습니다
+MID_TUT_Hub_DestinyKarma_m01_003: 또한 조건을 만족시키면 효과가 증대되거나\n새로운 항목이 추가되기도 합니다
+MID_TUT_Hub_Thermae_t: 테르메
+MID_TUT_Hub_Thermae_m01_001: 2명을 선택해 {SetColor=Gold}입욕{SetColor=Default}을 하면\n탕의 종류에 따라 {SetColor=Gold}해당 장의 메인 배틀이 끝날 때까지{SetColor=Default}\n특별한 {SetColor=Gold}스킬을 얻을{SetColor=Default} 수 있습니다
+MID_TUT_Hub_Thermae_m01_002: 또한 2명의 지원도가 상승하고\n{SetColor=Gold}HP, 마법 횟수, 의욕이 회복{SetColor=Default}됩니다
+MID_TUT_Hub_TheaterViewing_t: 관람
+MID_TUT_Hub_TheaterViewing_m01_001: 2명을 선택해 {SetColor=Gold}관람{SetColor=Default}을 하면 {SetColor=Gold}서로의 지원도가 상승{SetColor=Default}하며\n{SetColor=Gold}좋아하는 작품{SetColor=Default}이거나 2명의 {SetColor=Gold}취향이 일치{SetColor=Default}한 경우에는\n지원도가 {SetColor=Gold}더 많이 상승{SetColor=Default}합니다
+MID_TUT_Hub_TheaterViewing_m01_002: 또한 {SetColor=Gold}의욕도 회복{SetColor=Default}되는데\n{SetColor=Gold}좋아하는 작품{SetColor=Default}을 관람한 사람은 {SetColor=Gold}더 많이 회복{SetColor=Default}되지만\n싫어하는 작품을 관람한 사람은 회복되지 않습니다
+MID_TUT_Hub_Theater_t: 출연
+MID_TUT_Hub_Theater_m01_001: 동료들을 선택해 연극에 {SetColor=Gold}출연{SetColor=Default}시키면\n참가한 동료 사이의 {SetColor=Gold}지원도가 상승{SetColor=Default}하고\n골드 등의 {SetColor=Gold}보수를 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_Theater_m01_002: 각 막마다 {SetColor=Gold}연기 방침{SetColor=Default}을 선택해야 하는데{SetColor=Gold}{SetColor=Default}\n적절한 방침을 선택하여 높은 평가를 받으면\n{SetColor=Gold}더 좋은 보수{SetColor=Default}를 획득할 수 있습니다
+MID_TUT_Hub_Blacksmith_t: 대장간
+MID_TUT_Hub_Blacksmith_m01_001: {SetColor=Gold}대장간{SetColor=Default}에서는 소재와 골드를 사용하여\n{SetColor=Gold}무기{SetColor=Default}를 {SetColor=Gold}연성{SetColor=Default}하거나 {SetColor=Gold}수리{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_Blacksmith_m01_002: {SetColor=Gold}연성{SetColor=Default}은 {SetColor=Gold}무기를 강화{SetColor=Default}하는 것입니다\n강하게 만들수록 더 많은 소재와 골드가 필요합니다
+MID_TUT_Hub_Blacksmith_m01_003: {SetColor=Gold}수리{SetColor=Default}는 전투 기술 사용으로 줄어든\n무기의 {SetColor=Gold}내구도를 회복{SetColor=Default}하는 것입니다
+MID_TUT_Hub_SideStory_t: 외전
+MID_TUT_Hub_SideStory_m01_001: {SetColor=Gold}외전{SetColor=Default}은 진영장 또는 주요 인물이 의뢰하는\n{SetColor=Gold}특별한 퀘스트{SetColor=Default}입니다
+MID_TUT_Hub_SideStory_m01_002: 의뢰를 달성하면 {SetColor=Gold}보수{SetColor=Default}를 받을 수 있는 것은 물론이고\n퀘스트와 관련된 인물의 {SetColor=Gold}이야기에 변화{SetColor=Default}가 생깁니다
+MID_TUT_Hub_SideStory_m01_003: 기간 내에 의뢰인을 찾아 퀘스트를 수락합시다\n수락 후에는 퀘스트 목록과 캘린더에\n퀘스트 정보가 추가됩니다
+MID_TUT_Hub_InformationBoard_t: 안내판
+MID_TUT_Hub_InformationBoard_m01_001: {SetColor=Gold}안내판{SetColor=Default}에서 수락할 수 있는 가게나 시설의 방문 의뢰를\n달성하면 {SetColor=Gold}명성이 높아지고 보수를 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_InformationBoard_m01_002: 이용 가능한 시설이 늘어나면\n새로운 의뢰가 들어오니 확인해 봅시다
+MID_TUT_Hub_Fame_t: 명성
+MID_TUT_Hub_Fame_m01_001: {SetColor=Gold}명성{SetColor=Default}은 {SetColor=Gold}이야기를 진행{SetColor=Default}하는 것 외에도\n퀘스트, 일부 {SetColor=Gold}시설 등을 통해 높일{SetColor=Default} 수 있습니다
+MID_TUT_Hub_Fame_m01_002: 명성이 일정 수준 이상이 되면 {SetColor=Gold}명성 LV{SetColor=Default}이 상승하고\n다양한 {SetColor=Gold}요소가 해방{SetColor=Default}됩니다
+MID_TUT_Hub_PreparationMarch_t: 전투 준비 기간
+MID_TUT_Hub_PreparationMarch_m01_001: 전쟁편의 {SetColor=Gold}전투 준비 기간{SetColor=Default}에는 턴이나 {SetColor=Gold}기한이 없으며{SetColor=Default}\n{SetColor=Gold}거점 내에서만 행동{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_PreparationMarch_m01_002: 상점은 이용할 수 없지만 각 장마다\n{SetColor=Gold}아이템이 지급{SetColor=Default}되고 {SetColor=Gold}무기가 수리{SetColor=Default}됩니다
+MID_TUT_Hub_PreparationMarch_m01_003: 준비가 완료되면 {SetColor=Gold}행군 관리관{SetColor=Default}에게 말을 걸어\n메인 퀘스트로 넘어갑시다
+MID_TUT_Hub_MarchingOfficer_t: 행군 관리관
+MID_TUT_Hub_MarchingOfficer_m01_001: {SetColor=Gold}행군 관리관{SetColor=Default}에게 말을 걸어 {SetColor=Gold}메인 퀘스트{SetColor=Default}를 선택하면\n전투 준비 기간이 종료되고 이야기가 진행됩니다
+MID_TUT_Hub_MarchingOfficer_m01_002: {SetColor=Gold}전군 행동{SetColor=Default}은 {SetColor=Gold}각 장마다 한 번{SetColor=Default}만 선택 가능하며\n아군의 전력을 향상시키는 세 가지 행동 중\n{SetColor=Gold}하나를 실행{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_SectionFree3_t: 구세주군의 전투 준비
+MID_TUT_Hub_SectionFree3_m01_001: 명계의 문이 실체화되기 전에 동료를 늘리고\n세계를 재건하면서 {SetColor=Gold}전투 준비{SetColor=Default}를 합시다
+MID_TUT_Hub_SectionFree3_m01_002: 다그시온에는 {SetColor=Gold}인과로 엮인 전사들{SetColor=Default}이 있습니다\n먼저 그들에게 말을 걸어 {SetColor=Gold}동료로 만듭시다{SetColor=Default}
+MID_TUT_Hub_SectionFree3_m01_003: 투기장 같은 일부 시설은 이용이 불가능하지만\n{SetColor=Gold}재건용 자재{SetColor=Default}를 가져다주면 이용할 수 있게 됩니다
+MID_TUT_Hub_SectionFree3_m01_004: 재건용 자재는 {SetColor=Gold}도시나 마을에서 구입{SetColor=Default}할 수 있습니다\n월드 맵으로 이동하여 해당 스폿들을 방문해 봅시다
+MID_TUT_Hub_TempleCrown_t: 천관의 신전
+MID_TUT_Hub_TempleCrown_m01_001: {SetColor=Gold}천관의 신전{SetColor=Default}에는 {SetColor=Gold}신장직 시험을 보기 위해\n필요한 아이템{SetColor=Default}이 안치되어 있는 방이\n총 5개 있습니다
+MID_TUT_Hub_TempleCrown_m01_002: 모든 방들은 {SetColor=Gold}잠겨{SetColor=Default} 있는데\n각각 {SetColor=Gold}천관의 열쇠{SetColor=Default}를 하나씩 소비하여\n안으로 들어갈 수 있습니다
+MID_TUT_Hub_TempleCrown_m01_003: 천관의 열쇠는 각지의 {SetColor=Gold}던전{SetColor=Default}에 있는\n5개의 {SetColor=Gold}보물 상자 안{SetColor=Default}에 숨겨져 있습니다
+MID_TUT_Hub_LegendPass_t: 신장 시험 아이템
+MID_TUT_Hub_LegendPass_m01_001: {SetColor=Gold}신장 시험 아이템{SetColor=Default}은 신장직의 자격 시험을\n치르기 위해 필요한 {SetColor=Gold}특별 아이템{SetColor=Default}입니다
+MID_TUT_Hub_LegendPass_m01_002: 시험 아이템은 {SetColor=Gold}1개당 1명{SetColor=Default}밖에 사용할 수 없지만\n{SetColor=Gold}자격 반납{SetColor=Default}을 하면 {SetColor=Gold}다른 동료도 사용{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_DueDate1_t: 메인 퀘스트로 넘어가는 방법
+MID_TUT_Hub_DueDate1_m01_001: 기한이 되기 전이라도 {SetColor=Gold}목적지{SetColor=Default}에서\n「{SetColor=Gold}메인 퀘스트{SetColor=Default}」를 선택하면\n언제든지 {SetColor=Gold}메인 퀘스트로 넘어갈{SetColor=Default} 수 있습니다
+MID_TUT_Hub_DueDate1_m01_002: 참고로 {SetColor=Gold}한 번이라도 목적지에 방문{SetColor=Default}한 적이 있으면\n{SetColor=Gold}어디에 있든{SetColor=Default} 「메인 퀘스트로」를 {SetColor=Gold}선택{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_DueDate1_m01_003: 또한 목적지가 아닌 곳에서 {SetColor=Gold}기한{SetColor=Default}을 맞이해도\n{SetColor=Gold}자동으로 메인 퀘스트로 넘어갈{SetColor=Default} 수 있습니다
+MID_TUT_Hub_DueDate2_t: 타임 오버
+MID_TUT_Hub_DueDate2_m01_001: {SetColor=Gold}다그시온이 아닌 다른 곳이 목적지{SetColor=Default}일 때\n{SetColor=Gold}기한{SetColor=Default}이 되었는데 해당 스폿에 {SetColor=Gold}도달하지 못한{SetColor=Default} 상태라면\n{SetColor=Gold}타임 오버{SetColor=Default}가 됩니다
+MID_TUT_Hub_DueDate2_m01_002: 이러한 경우에는 메인 퀘스트로 넘어가지 못하고\n{SetColor=Gold}해당 장을 처음{SetColor=Default}부터 {SetColor=Gold}다시 플레이{SetColor=Default}해야 하니 주의합시다
+MID_TUT_Hub_DueDate2_m01_003: 단, 한 번이라도 {SetColor=Gold}목적지에 방문{SetColor=Default}한 적이 있으면\n{SetColor=Gold}도달 완료 마크{SetColor=Default}가 표시되며, 목적지가 아닌 곳에서\n{SetColor=Gold}기한{SetColor=Default}을 맞이해도 {SetColor=Gold}메인 퀘스트로 넘어갈{SetColor=Default} 수 있습니다
+MID_TUT_Hub_FacilityReset_t: 시설 등의 재사용
+MID_TUT_Hub_FacilityReset_m01_001: {SetColor=Gold}시설 등에서 할 수 있는 행동{SetColor=Default} 중에는\n{SetColor=Gold}주 1회{SetColor=Default}만 가능한 것도 있습니다
+MID_TUT_Hub_FacilityReset_m01_002: {SetColor=Gold}일요일을 맞이하거나 새로운 장으로 넘어가면{SetColor=Default}\n초기화되어 {SetColor=Gold}다시 할{SetColor=Default} 수 있게 됩니다
+MID_TUT_Hub_HonorPart3_t: 구세 LV
+MID_TUT_Hub_HonorPart3_m01_001: {SetColor=Gold}구세치를 높이면 구세 LV이 상승{SetColor=Default}하고\n전투에 도움이 되는\n다양한 {SetColor=Gold}아이템을 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Hub_HonorPart3_m01_002: 구세치는 퀘스트 달성, 시설 복구 등\n{SetColor=Gold}세상을 구하는 행동{SetColor=Default}을 통해 높일 수 있습니다
+MID_TUT_Bmap_Move_t: 유닛과 이동
+MID_TUT_Bmap_Move_m01_001: 아군 및 적을 {SetColor=Gold}유닛{SetColor=Default}이라고 부르며\n유닛을 조작하여 게임을 진행할 수 있습니다
+MID_TUT_Bmap_Move_m01_002: 유닛을 {SetColor=Gold}이동{SetColor=Default}시키려면\n해당 유닛에게 {SetColor=Gold}커서{SetColor=Default}를 맞추고 {SetColor=Gold}{ButtonA}를 누릅니다{SetColor=Default}
+MID_TUT_Bmap_Move_m01_003: {SetColor=Gold}이동할 수 있는 범위{SetColor=Default}가 {SetColor=Gold}파란색{SetColor=Default}으로 표시되면\n{SetColor=Gold}이동하고자 하는 칸에 커서{SetColor=Default}를 맞추고\n한 번 더 {SetColor=Gold}{ButtonA}를 누릅니다{SetColor=Default}
+MID_TUT_Bmap_UnitCommand_t_: 유닛 커맨드 「대기」
+MID_TUT_Bmap_UnitCommand_m01_001: 유닛이 {SetColor=Gold}이동{SetColor=Default}하면 {SetColor=Gold}유닛 커맨드{SetColor=Default}가 표시되며\n「{SetColor=Gold}대기{SetColor=Default}」를 선택하면 이동이 완료됩니다
+MID_TUT_Bmap_UnitCommand_m01_002: 이동할 곳을 {SetColor=Gold}다시 선택하고 싶을{SetColor=Default} 경우에는\n커맨드 표시 중에 {SetColor=Gold}{ButtonB}를 눌러 취소{SetColor=Default}합니다
+MID_TUT_Bmap_Attack_t: 유닛 커맨드 「공격」
+MID_TUT_Bmap_Attack_m01_001: 적에게 {SetColor=Gold}공격이 닿는 곳{SetColor=Default}까지 이동하면\n유닛 커맨드에서 「{SetColor=Gold}공격{SetColor=Default}」을 선택할 수 있습니다
+MID_TUT_Bmap_Attack_m01_002: 「{SetColor=Gold}공격{SetColor=Default}」을 선택한 후\n사용할 {SetColor=Gold}무기{SetColor=Default} 등 {SetColor=Gold}공격 방법{SetColor=Default}을 선택합니다
+MID_TUT_Bmap_Attack_m01_003: 마지막에 표시되는 {SetColor=Gold}전투 예측{SetColor=Default}을 확인하고\n{SetColor=Gold}{ButtonA}를 누르면{SetColor=Default} 전투가 시작됩니다
+MID_TUT_Bmap_Attack_m01_004: 결정하기 전에 {SetColor=Gold}{ButtonB}를 눌러 취소{SetColor=Default}하면\n{SetColor=Gold}이동할 곳부터 다시 선택{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_ExperienceValue_t: 경험치와 레벨 업
+MID_TUT_Bmap_ExperienceValue_m01_001: 유닛은 적과 {SetColor=Gold}전투{SetColor=Default}를 하거나 적을 {SetColor=Gold}격파{SetColor=Default}하여\n{SetColor=Gold}경험치{SetColor=Default}를 획득할 수 있습니다
+MID_TUT_Bmap_ExperienceValue_m01_002: {SetColor=Gold}경험치{SetColor=Default}가 일정 수치 이상 쌓이면 {SetColor=Gold}레벨이 올라{SetColor=Default}\n{SetColor=Gold}최대 HP{SetColor=Default}와 {SetColor=Gold}기본 능력{SetColor=Default}이 {SetColor=Gold}상승{SetColor=Default}합니다
+MID_TUT_Bmap_PhaseChange_t: 페이즈와 턴
+MID_TUT_Bmap_PhaseChange_m01_001: 아군과 적군은 {SetColor=Gold}번갈아 가며 행동{SetColor=Default}합니다\n이 {SetColor=Gold}차례{SetColor=Default}를 {SetColor=Gold}페이즈{SetColor=Default}라고 합니다
+MID_TUT_Bmap_PhaseChange_m01_002: {SetColor=Gold}모든 아군 유닛{SetColor=Default}이 {SetColor=Gold}행동을 끝내면{SetColor=Default}\n{SetColor=Gold}아군 페이즈가 종료{SetColor=Default}되고 {SetColor=Gold}적군 페이즈{SetColor=Default}로 넘어갑니다
+MID_TUT_Bmap_PhaseChange_m01_003: {SetColor=Gold}모든 진영의 페이즈가 끝날 때까지{SetColor=Default}를 {SetColor=Gold}턴{SetColor=Default}이라고 합니다\n턴이 끝나면 다시 아군 페이즈가 시작됩니다
+MID_TUT_Bmap_Reinforcements_t: 적의 증원군
+MID_TUT_Bmap_Reinforcements_m01_001: 특정 전투 맵에서는 전투 도중에\n{SetColor=Gold}적의 증원군{SetColor=Default}이 출현하는 경우도 있습니다
+MID_TUT_Bmap_Reinforcements_m01_002: {SetColor=Gold}맵의 가장자리{SetColor=Default}나 {SetColor=Gold}소환 마법진{SetColor=Default} 등에서 출현하는\n경우가 많으니 항상 경계를 늦추지 맙시다
+MID_TUT_Bmap_Recovery_t: HP 회복
+MID_TUT_Bmap_Recovery_m01_001: 적의 공격 등으로 {SetColor=Gold}HP가 감소했을 때{SetColor=Default}\n「{SetColor=Gold}소지품{SetColor=Default}」의 {SetColor=Gold}상처약{SetColor=Default}으로 {SetColor=Gold}회복{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_Recovery_m01_002: {SetColor=Gold}HP가 0이 되면{SetColor=Default} 해당 유닛은\n전투 맵에서 {SetColor=Gold}퇴각{SetColor=Default}해 버리니\n그렇게 되기 전에 틈틈이 회복합시다
+MID_TUT_Bmap_Topography_t: 지형 효과
+MID_TUT_Bmap_Topography_m01_001: {SetColor=Gold}수풀{SetColor=Default}에서 대기 중일 때는 유닛의 {SetColor=Gold}회피가 상승{SetColor=Default}하여\n적이 공격을 {SetColor=Gold}명중시키기 어려워집니다{SetColor=Default}
+MID_TUT_Bmap_Topography_m01_002: 이를 {SetColor=Gold}지형 효과{SetColor=Default}라고 부르며, {SetColor=Gold}화면 왼쪽 아래{SetColor=Default}의\n{SetColor=Gold}지형 정보{SetColor=Default}에서 효과를 지닌 칸을 확인할 수 있습니다
+MID_TUT_Bmap_Range_t: 사정
+MID_TUT_Bmap_Range_m01_001: 공격이 닿는 범위인 {SetColor=Gold}사정{SetColor=Default}은 무기마다 다릅니다\n예를 들어 {SetColor=Gold}활{SetColor=Default}은 {SetColor=Gold}사정{SetColor=Default}이 {SetColor=Gold}2{SetColor=Default}로\n{SetColor=Gold}2칸 떨어진 적{SetColor=Default}을 공격할 수 있습니다
+MID_TUT_Bmap_Range_m01_002: 이때 적이 검 같은 {SetColor=Gold}사정이 1인 무기{SetColor=Default}를 장비하고 있으면\n{SetColor=Gold}반격을 받지 않고 공격{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_Range_m01_003: 반대로 활로는 {SetColor=Gold}1칸 떨어진 곳을 공격할 수 없으므로{SetColor=Default}\n인접한 적에게 공격받으면\n반격이 불가능하니 주의합시다
+MID_TUT_Bmap_SpecialAttack_t: 특효와 유효
+MID_TUT_Bmap_SpecialAttack_m01_001: {SetColor=Gold}활{SetColor=Default}은 {SetColor=Gold}비행 특효{SetColor=Default} 무기로\n{SetColor=Gold}날아다니는 적{SetColor=Default}에게 {SetColor=Gold}3배의 위력{SetColor=Default}을 발휘합니다
+MID_TUT_Bmap_SpecialAttack_m01_002: 무기 또는 마법의 {SetColor=Gold}특효{SetColor=Default}는 {SetColor=Gold}아이콘{SetColor=Default}으로 표시되며\n{SetColor=Gold}같은 아이콘을 가진 상대{SetColor=Default}에게 효과를 발휘합니다
+MID_TUT_Bmap_SpecialAttack_m01_003: 특효 효과 외에 {SetColor=Gold}유효{SetColor=Default} 효과를 지닌 것도 있는데\n유효의 경우 {SetColor=Gold}2배의 위력{SetColor=Default}을 발휘합니다
+MID_TUT_Bmap_CombatTechnique_t: 전투 기술
+MID_TUT_Bmap_CombatTechnique_m01_001: {SetColor=Gold}전투 기술{SetColor=Default}은 위력을 높이거나 사정을 변화시키는 등\n{SetColor=Gold}무기에 특수한 효과{SetColor=Default}를 부여하는 공격 방법입니다
+MID_TUT_Bmap_CombatTechnique_m01_002: 「{SetColor=Gold}전투 기술{SetColor=Default}」에서 {SetColor=Gold}발동하고 싶은 전투 기술{SetColor=Default}과\n해당 {SetColor=Gold}전투 기술에 사용할 무기{SetColor=Default}를 선택하면 발동됩니다
+MID_TUT_Bmap_CombatTechnique_m01_003: 전투 기술은 일반 공격과 달리 무기 {SetColor=Gold}내구도를\n소비{SetColor=Default}하는데, {SetColor=Gold}내구도가 0{SetColor=Default}이 되면 해당 무기의\n{SetColor=Gold}위력과 명중이 저하{SetColor=Default}됩니다
+MID_TUT_Bmap_Xhelp_t: 유닛의 스테이터스
+MID_TUT_Bmap_Xhelp_m01_001: {SetColor=Gold}유닛에게 커서{SetColor=Default}를 맞추고 {SetColor=Gold}{ButtonX}를 누르면{SetColor=Default}\n해당 유닛의 {SetColor=Gold}스테이터스{SetColor=Default}를 볼 수 있습니다
+MID_TUT_Bmap_Xhelp_m01_002: 한 번 더 {SetColor=Gold}{ButtonX}를 누르면{SetColor=Default}\n각 항목의 {SetColor=Gold}상세 정보{SetColor=Default}가 표시됩니다
+MID_TUT_Bmap_Magic_t: 공격 마법
+MID_TUT_Bmap_Magic_m01_001: {SetColor=Gold}공격 마법{SetColor=Default}은 {SetColor=Gold}사정이 1-2{SetColor=Default}인 것이 대부분으로\n{SetColor=Gold}인접한 적{SetColor=Default}도 {SetColor=Gold}떨어져 있는 적{SetColor=Default}도 {SetColor=Gold}공격{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_Magic_m01_002: 검 등의 물리 공격과 달리\n{SetColor=Gold}사용 횟수{SetColor=Default}에 {SetColor=Gold}제한{SetColor=Default}이 있으니\n남은 횟수에 주의하면서 사용합시다
+MID_TUT_Bmap_Magic_m01_003: 적이 중갑을 둘러 물방이 높더라도\n{SetColor=Gold}항마가 낮으면 큰 대미지{SetColor=Default}를 줄 수 있습니다
+MID_TUT_Bmap_HazardRange_t: 위험 범위
+MID_TUT_Bmap_HazardRange_m01_001: 적 유닛에게 {SetColor=Gold}커서{SetColor=Default}를 맞추면\n해당 적이 공격할 수 있는 {SetColor=Gold}위험 범위{SetColor=Default}가 표시됩니다
+MID_TUT_Bmap_HazardRange_m01_002: 그 상태에서 {SetColor=Gold}{ButtonA}를 누르면 {SetColor=Default}해당 적 유닛의\n위험 범위를 {SetColor=Gold}표시한 상태로 유지{SetColor=Default}할 수 있습니다\n(한 번 더 {ButtonA}를 누르면 해제됩니다)
+MID_TUT_Bmap_HazardRange_m01_003: {SetColor=Gold}{ButtonZL}을 누르면{SetColor=Default} 개별 위험 범위와는 별개로\n{SetColor=Gold}적군 전체의 위험 범위{SetColor=Default}를 {SetColor=Gold}상시 표시{SetColor=Default}할 수 있습니다\n(한 번 더 {ButtonZL}을 누르면 해제됩니다)
+MID_TUT_Bmap_WeaponType_t: 무기 종류별 특성
+MID_TUT_Bmap_WeaponType_m01_001: 무기는 종류에 따라 다른 특성을 가지고 있습니다\n{SetColor=Gold}검{SetColor=Default}은 추격 시 {SetColor=Gold}대미지가 1.2배{SetColor=Default}로 증가하며\n{SetColor=Gold}창{SetColor=Default}은 {SetColor=Gold}기병 유효{SetColor=Default} 효과를 지닙니다
+MID_TUT_Bmap_WeaponType_m01_002: {SetColor=Gold}도끼{SetColor=Default}는 {SetColor=Gold}최소 5 이상의 대미지{SetColor=Default}를 줄 수 있으며\n{SetColor=Gold}활{SetColor=Default}은 {SetColor=Gold}비행 특효{SetColor=Default} 효과를 지닙니다
+MID_TUT_Bmap_WeaponType_m01_003: {SetColor=Gold}건틀릿{SetColor=Default}은 {SetColor=Gold}건틀릿 외의 무기로 공격받을 때{SetColor=Default}\n회피하기 쉬워집니다\n각각의 특성을 잘 활용하면서 싸웁시다
+MID_TUT_Bmap_BlazeArts_t: 블레이즈 아츠
+MID_TUT_Bmap_BlazeArts_m01_001: {SetColor=Gold}일부 유닛{SetColor=Default}은 {SetColor=Gold}블레이즈 아츠{SetColor=Default}라고 하는\n{SetColor=Gold}특별한 기술{SetColor=Default}을 사용할 수 있습니다
+MID_TUT_Bmap_BlazeArts_m01_002: 사용하려면 {SetColor=Gold}HP가 필요{SetColor=Default}하지만\n{SetColor=Gold}효과{SetColor=Default}는 매우 {SetColor=Gold}강력{SetColor=Default}합니다
+MID_TUT_Bmap_WhiteRaven_t: 파사섬격({AvatarName})
+MID_TUT_Bmap_WhiteRaven_m01_001: {AvatarName}의 블레이즈 아츠\n{SetColor=Gold}파사섬격{SetColor=Default}은 {SetColor=Gold}십자 범위{SetColor=Default}에 있는 적 {SetColor=Gold}다섯을\n동시에 공격{SetColor=Default}할 수 있는 기술입니다
+MID_TUT_Bmap_WhiteRaven_m01_002: 유닛 커맨드의 「{SetColor=Gold}블레이즈 아츠{SetColor=Default}」에서\n{SetColor=Gold}파사섬격{SetColor=Default}을 선택해\n{SetColor=Gold}공격할 곳을 지정{SetColor=Default}하면 발동됩니다
+MID_TUT_Bmap_OverBlaze_t: 오버 블레이즈
+MID_TUT_Bmap_OverBlaze_m01_001: 블레이즈 아츠를 사용하면\n{SetColor=Gold}블레이즈 게이지{SetColor=Default}가 쌓입니다
+MID_TUT_Bmap_OverBlaze_m01_002: {SetColor=Gold}절반 이상{SetColor=Default} 쌓이면 {SetColor=Gold}오버 블레이즈{SetColor=Default} 상태가 되어\n{SetColor=Gold}각종 능력{SetColor=Default}과 {SetColor=Gold}블레이즈 아츠{SetColor=Default}가 {SetColor=Gold}강화{SetColor=Default}됩니다
+MID_TUT_Bmap_OverBlaze_m01_003: 게이지가 최대치까지 쌓이면 {SetColor=Gold}버스트{SetColor=Default}가 발생하고\n{SetColor=Gold}오버 블레이즈{SetColor=Default} 상태가 {SetColor=Gold}해제{SetColor=Default}됩니다
+MID_TUT_Bmap_Hell_t: 명부(블레이즈 타입)
+MID_TUT_Bmap_Hell_m01_001: 블레이즈 타입이 {SetColor=Gold}명부{SetColor=Default}인 유닛은\n버스트를 하면 {SetColor=Gold}최대 HP가 감소{SetColor=Default}하며\n이 상태는 맵이 끝날 때까지 유지됩니다
+MID_TUT_Bmap_HeavenlyPillar_t: 천주(블레이즈 타입)
+MID_TUT_Bmap_HeavenlyPillar_m01_001: 블레이즈 타입이 {SetColor=Gold}천주{SetColor=Default}인 유닛은\n{SetColor=Gold}일반 공격 시{SetColor=Default}에도 {SetColor=Gold}블레이즈 게이지가 상승{SetColor=Default}합니다
+MID_TUT_Bmap_HeavenlyPillar_m01_002: 반대로 {SetColor=Gold}주보 무기{SetColor=Default}나 {SetColor=Gold}주보 장비품{SetColor=Default}을 사용하면\n{SetColor=Gold}블레이즈 게이지가 감소{SetColor=Default}합니다
+MID_TUT_Bmap_Mechanism_t: 기계(블레이즈 타입)
+MID_TUT_Bmap_Mechanism_m01_001: 블레이즈 타입이 {SetColor=Gold}기계{SetColor=Default}인 유닛은\n{SetColor=Gold}주보 무기{SetColor=Default}나 {SetColor=Gold}주보 장비품{SetColor=Default}을 사용해도\n블레이즈 게이지가 {SetColor=Gold}상승하지 않습니다{SetColor=Default}
+MID_TUT_Bmap_Grasp_t: 장악(블레이즈 스킬)
+MID_TUT_Bmap_Grasp_m01_001: 블레이즈 스킬 {SetColor=Gold}장악{SetColor=Default}을 보유한 유닛은\n{SetColor=Gold}블레이즈 게이지를 0{SetColor=Default}으로 되돌리는\n「{SetColor=Gold}블레이즈 제어{SetColor=Default}」(명정)를 사용할 수 있습니다
+MID_TUT_Bmap_Grasp_m01_002: 블레이즈 게이지가 최대치에 도달하기 전에 사용하면\n{SetColor=Gold}버스트에 의한 최대 HP 감소를 방지{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_Runaway_t: 폭주(블레이즈 스킬)
+MID_TUT_Bmap_Runaway_m01_001: 블레이즈 스킬 {SetColor=Gold}폭주{SetColor=Default}를 보유한 유닛은\n{SetColor=Gold}블레이즈 게이지를 50%까지 상승{SetColor=Default}시키는\n「{SetColor=Gold}블레이즈 제어{SetColor=Default}」(명광)를 사용할 수 있습니다
+MID_TUT_Bmap_Runaway_m01_002: 사용 후에는 버스트가 발생해도\n{SetColor=Gold}오버 블레이즈가 해제되지 않습니다{SetColor=Default}
+MID_TUT_Bmap_Resistance_t: 저항(블레이즈 스킬)
+MID_TUT_Bmap_Resistance_m01_001: 블레이즈 스킬 {SetColor=Gold}저항{SetColor=Default}을 보유한 유닛은\n버스트를 해도 {SetColor=Gold}최대 HP{SetColor=Default}가 {SetColor=Gold}감소하지 않습니다{SetColor=Default}
+MID_TUT_Bmap_MechanicalSkills_t: 수호천사 해방(블레이즈 스킬)
+MID_TUT_Bmap_MechanicalSkills_m01_001: 블레이즈 스킬 {SetColor=Gold}수호천사 해방{SetColor=Default}을 보유한 유닛은\n즉시 {SetColor=Gold}오버 블레이즈 상태가 되는{SetColor=Default}\n「{SetColor=Gold}블레이즈 제어{SetColor=Default}」(엘리자베스)를 사용할 수 있습니다
+MID_TUT_Bmap_MechanicalSkills_m01_002: 오버 블레이즈 후 {SetColor=Gold}블레이즈 게이지가\n매 턴 감소{SetColor=Default}하여 {SetColor=Gold}0이 되면{SetColor=Default}\n오버 블레이즈 상태가 {SetColor=Gold}해제{SetColor=Default}됩니다
+MID_TUT_Bmap_HeavenlyPillarSkills_t: 각성(블레이즈 스킬)
+MID_TUT_Bmap_HeavenlyPillarSkills_m01_001: 블레이즈 스킬 {SetColor=Gold}각성{SetColor=Default}을 보유한 유닛은\n{SetColor=Gold}블레이즈 게이지가 상승{SetColor=Default}할수록\n더 {SetColor=Gold}강력한 블레이즈 아츠를 사용{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_CursedTreasure_t: 주보
+MID_TUT_Bmap_CursedTreasure_m01_001: {SetColor=Gold}원주력{SetColor=Default}을 지닌 무기나 장비품을 {SetColor=Gold}주보{SetColor=Default}라고 합니다\n주보로 공격하거나 주보를 장비하고 전투하면\n원주력만큼 {SetColor=Gold}블레이즈 게이지가 상승{SetColor=Default}합니다
+MID_TUT_Bmap_ReturnQualification_t: 자격 반납
+MID_TUT_Bmap_ReturnQualification_m01_001: 동시에 한 명만 될 수 있는 {SetColor=Gold}특수 병과{SetColor=Default}는\n{SetColor=Gold}자격 반납{SetColor=Default}이 가능합니다
+MID_TUT_Bmap_ReturnQualification_m01_002: 자격을 반납하면 {SetColor=Gold}전용 아이템{SetColor=Default}이 {SetColor=Gold}반환{SetColor=Default}되어\n{SetColor=Gold}다른 동료{SetColor=Default}가 {SetColor=Gold}자격 시험을 볼{SetColor=Default} 수 있게 됩니다
+MID_TUT_Bmap_RecoveryMagic_t: 회복 마법
+MID_TUT_Bmap_RecoveryMagic_m01_001: {SetColor=Gold}라이브{SetColor=Default} 등의 {SetColor=Gold}회복 마법{SetColor=Default}을 사용하면\n아군의 HP를 회복시킬 수 있습니다
+MID_TUT_Bmap_RecoveryMagic_m01_002: 회복 마법은 「{SetColor=Gold}보조{SetColor=Default}」에서 사용 가능하며\n{SetColor=Gold}회복이 필요한 아군{SetColor=Default}이 {SetColor=Gold}사정거리 내{SetColor=Default}에 있어야 합니다
+MID_TUT_Bmap_RecoveryMagic_m01_003: 마법마다 사용할 수 있는 {SetColor=Gold}횟수가\n정해져{SetColor=Default} 있으니 주의합시다
+MID_TUT_Bmap_SupportingEffect_t: 지원 효과
+MID_TUT_Bmap_SupportingEffect_m01_001: {SetColor=Gold}지원 LV{SetColor=Default}이 높은 아군 옆에서 전투를 하면\n{SetColor=Gold}지원 효과{SetColor=Default}가 발생하여 {SetColor=Gold}스테이터스가 상승{SetColor=Default}합니다
+MID_TUT_Bmap_SupportingEffect_m01_002: {SetColor=Gold}지원 LV{SetColor=Default}은 동료 {SetColor=Gold}근처에서 전투를 하거나{SetColor=Default}\n동료에게 {SetColor=Gold}회복 마법을 사용{SetColor=Default}하면 상승합니다
+MID_TUT_Bmap_TurnBackTime_t: 포트나의 가호
+MID_TUT_Bmap_TurnBackTime_m01_001: {SetColor=Gold}포트나의 가호{SetColor=Default}는 시간을 되돌려 원하는 시점부터\n{SetColor=Gold}전투 맵을 다시 플레이{SetColor=Default}할 수 있는 가호입니다
+MID_TUT_Bmap_TurnBackTime_m01_002: 사용하려면 {ButtonPlus} 또는 {ButtonA}로 메뉴를 연 후\n「{SetColor=Gold}가호 발동{SetColor=Default}」에서 「{SetColor=Gold}포트나의 가호{SetColor=Default}」를 선택합니다
+MID_TUT_Bmap_TurnBackTime_m01_003: 그다음, {SetColor=Gold}과거에 취한 행동의 목록{SetColor=Default}에서\n{SetColor=Gold}돌아가고 싶은 시점을 선택{SetColor=Default}하면\n해당 시점부터 다시 플레이할 수 있습니다
+MID_TUT_Bmap_TurnBackTime_m01_004: 가호를 사용하기 위해서는 {SetColor=Gold}천각의 백사{SetColor=Default}가 필요합니다\n천각의 백사는 {SetColor=Gold}이야기가 진행되면 회복{SetColor=Default}됩니다\n(소비량은 난이도에 따라 다릅니다)
+MID_TUT_Bmap_Guest_t: GUEST 참전
+MID_TUT_Bmap_Guest_m01_001: {SetColor=Gold}전투 맵을 클리어할 때까지{SetColor=Default}\n{SetColor=Gold}일시적으로 동료{SetColor=Default}가 되는 유닛인 {SetColor=Gold}GUEST{SetColor=Default}는\n{SetColor=Gold}청록색{SetColor=Default}으로 표시되며 조작할 수 있습니다
+MID_TUT_Bmap_Guest_m01_002: GUEST가 적을 쓰러뜨리고 {SetColor=Gold}획득한 경험치{SetColor=Default}는\n클리어 시 {SetColor=Gold}아군 전원에게 분배{SetColor=Default}됩니다
+MID_TUT_Bmap_Guest_m01_003: 또한 GUEST가 원래 가지고 있던 것을 제외하고\n해당 유닛이 {SetColor=Gold}맵에서 획득한 아이템{SetColor=Default}은\n클리어 시 모두 {SetColor=Gold}도구 주머니{SetColor=Default}로 보내집니다
+MID_TUT_Bmap_Conversation_t: 대화
+MID_TUT_Bmap_Conversation_m01_001: {SetColor=Gold}말풍선{SetColor=Default}이 표시된 유닛 {SetColor=Gold}옆으로 이동{SetColor=Default}하면\n유닛 커맨드에 「{SetColor=Gold}대화{SetColor=Default}」가 나타납니다
+MID_TUT_Bmap_Conversation_m01_002: 이때 「{SetColor=Gold}대화{SetColor=Default}」를 선택하면 {SetColor=Gold}상대와 이야기{SetColor=Default}할 수 있습니다\n대화만으로 {SetColor=Gold}행동이 종료되지는 않으니{SetColor=Default} 꼭 해 봅시다
+MID_TUT_Bmap_SortiePreparation_t: 전투 준비
+MID_TUT_Bmap_SortiePreparation_m01_001: {SetColor=Gold}전투 준비 메뉴{SetColor=Default}에서는 무기나 스킬을 교체하거나\n적의 배치를 확인하고 아군의 배치를 변경하는 등\n{SetColor=Gold}여러 가지 준비{SetColor=Default}를 할 수 있습니다
+MID_TUT_Bmap_SortiePreparation_m01_002: 준비가 완료되면 {SetColor=Gold}전투 개시{SetColor=Default}를 선택합시다
+MID_TUT_Bmap_UnitSelection_t: 유닛 선택
+MID_TUT_Bmap_UnitSelection_m01_001: {SetColor=Gold}유닛 선택{SetColor=Default}에서는 {SetColor=Gold}출격시킬 동료를 변경{SetColor=Default}할 수 있으며\n출격 여부는 {SetColor=Gold}{ButtonA}를 눌러 선택{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_UnitSelection_m01_002: 단, {SetColor=Gold}자물쇠 표시{SetColor=Default}가 있는 유닛은\n출격 {SetColor=Gold}취소가 불가능{SetColor=Default}합니다
+MID_TUT_Bmap_UnitSelection_m01_003: {SetColor=Gold}출격 가능한 인원{SetColor=Default}은 맵마다 다르지만\n정해진 범위 내에서 자유롭게 선택할 수 있습니다
+MID_TUT_Bmap_GettingDressed_t: 정비
+MID_TUT_Bmap_GettingDressed_m01_001: {SetColor=Gold}정비{SetColor=Default}에서는 유닛이 보유한 {SetColor=Gold}무기{SetColor=Default}, {SetColor=Gold}장비품{SetColor=Default},\n{SetColor=Gold}아이템{SetColor=Default} 등을 {SetColor=Gold}정리{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_GettingDressed_m01_002: 또한 사용할 {SetColor=Gold}스킬{SetColor=Default}이나 {SetColor=Gold}전투 기술{SetColor=Default}도 {SetColor=Gold}바꿀{SetColor=Default} 수 있으니\n상황에 맞게 정비를 해 봅시다
+MID_TUT_Bmap_Realignment_t: 배치 변경
+MID_TUT_Bmap_Realignment_m01_001: {SetColor=Gold}배치 변경{SetColor=Default}에서는 {SetColor=Gold}전투 개시 전에 아군 유닛의 위치{SetColor=Default}를\n{SetColor=Gold}변경{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_Realignment_m01_002: {SetColor=Gold}아군 2명을 {ButtonA}로 선택하면{SetColor=Default} 위치가 {SetColor=Gold}뒤바뀌니{SetColor=Default}\n이를 반복하여 원하는 배치로 변경해 봅시다
+MID_TUT_Bmap_Realignment_m01_003: 단, {SetColor=Gold}녹색 칸{SetColor=Default}의 유닛은\n위치 {SetColor=Gold}변경이 불가능{SetColor=Default}합니다
+MID_TUT_Bmap_Carriage_t: 승합 마차 방어
+MID_TUT_Bmap_Carriage_m01_001: 적의 공격으로 {SetColor=Gold}승합 마차{SetColor=Default}의\n{SetColor=Gold}내구 HP가 0{SetColor=Default}이 되면 {SetColor=Gold}패배{SetColor=Default}하게 됩니다
+MID_TUT_Bmap_Carriage_m01_002: 다가오는 적을 격파하거나 적의 진로를 막아\n{SetColor=Gold}마차가 공격받지 않도록{SetColor=Default} 합시다
+MID_TUT_Bmap_Carriage_m01_003: {SetColor=Gold}마차에 커서{SetColor=Default}를 맞추면\n화면 왼쪽 아래에 남은 내구 HP가 표시됩니다
+MID_TUT_Bmap_TerrainDestruction_t: 지형 파괴
+MID_TUT_Bmap_TerrainDestruction_m01_001: 정보에 {SetColor=Gold}내구 HP{SetColor=Default}가 표시되어 있는 지형은\n{SetColor=Gold}공격으로 파괴{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_TerrainDestruction_m01_002: 해당 지형을 {SetColor=Gold}파괴{SetColor=Default}하면 {SetColor=Gold}통행이 가능{SetColor=Default}해지며\n파괴하지 않고 {SetColor=Gold}장애물로 이용{SetColor=Default}할 수도 있습니다\n상황에 따라 적절히 활용합시다
+MID_TUT_Bmap_HPStock_t: HP 스톡
+MID_TUT_Bmap_HPStock_m01_001: 적에게 {SetColor=Gold}빨간 마크{SetColor=Default}가 표시되어 있는 경우가 있는데\n이를 {SetColor=Gold}HP 스톡{SetColor=Default}이라고 합니다
+MID_TUT_Bmap_HPStock_m01_002: {SetColor=Gold}HP 스톡{SetColor=Default}을 가진 적은 스톡 {SetColor=Gold}1개당 1번씩{SetColor=Default},\n{SetColor=Gold}HP가 0이 되면 HP를 전부 회복{SetColor=Default}합니다
+MID_TUT_Bmap_HPStock_m01_003: {SetColor=Gold}HP 스톡이 없는 상태{SetColor=Default}에서 {SetColor=Gold}HP를 0{SetColor=Default}으로 만들면\n해당 적을 {SetColor=Gold}격파{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_Withdrawal_t: 이탈
+MID_TUT_Bmap_Withdrawal_m01_001: 맵에서 {SetColor=Gold}이탈{SetColor=Default}하는 것이 승리 조건인\n전투 맵도 있습니다
+MID_TUT_Bmap_Withdrawal_m01_002: {SetColor=Gold}지정된 유닛{SetColor=Default}을 {SetColor=Gold}지정된 칸{SetColor=Default}으로 이동시키면\n「이탈」을 선택할 수 있습니다
+MID_TUT_Bmap_GiantEnemy_t: 대형 유닛의 배리어
+MID_TUT_Bmap_GiantEnemy_m01_001: {SetColor=Gold}배리어{SetColor=Default}를 가지고 있는 대형 유닛을 공격하면\n{SetColor=Gold}해당 부분의 배리어를 파괴{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_GiantEnemy_m01_002: 배리어를 1칸 파괴하면 적은 일시적으로\n반격이 불가능해지며, 배리어가 파괴된 부분을\n공격하면 높은 대미지를 줄 수 있습니다
+MID_TUT_Bmap_GiantEnemy_m01_003: 모든 배리어를 파괴하면\n적을 1턴 동안 행동 불능 상태로 만들며\n때때로 아이템을 획득하는 경우도 있습니다
+MID_TUT_Bmap_Onslaught_t: 맹격
+MID_TUT_Bmap_Onslaught_m01_001: 일부 적들은 {SetColor=Gold}강력한 범위 공격{SetColor=Default}인 {SetColor=Gold}맹격{SetColor=Default}을\n사용할 수 있습니다
+MID_TUT_Bmap_Onslaught_m01_002: 적이 맹격 준비에 들어가면 {SetColor=Gold}공격 범위{SetColor=Default}가\n{SetColor=Gold}보라색{SetColor=Default}으로 표시되며, {SetColor=Gold}다음 페이즈에 발동{SetColor=Default}됩니다
+MID_TUT_Bmap_Onslaught_m01_003: 맹격이 발동되면 범위 내에 있는\n모든 아군이 공격받고 장애물이 파괴됩니다
+MID_TUT_Bmap_Pillar_t: 허술한 기둥
+MID_TUT_Bmap_Pillar_m01_001: {SetColor=Gold}허술한 기둥{SetColor=Default}과 인접한 상태에서\n「{SetColor=Gold}허술한 기둥{SetColor=Default}」을 선택해 기둥을 쓰러뜨리면\n{SetColor=Gold}장애물{SetColor=Default}로 활용할 수 있습니다
+MID_TUT_Bmap_Pillar_m01_002: 비행 병과 외의 유닛은 {SetColor=Gold}통과할 수 없으므로{SetColor=Default}\n적을 옴짝달싹 못 하게 만들 수 있습니다
+MID_TUT_Bmap_TreasureChest_t: 보물 상자
+MID_TUT_Bmap_TreasureChest_m01_001: {SetColor=Gold}보물 열쇠를 보유한 유닛{SetColor=Default}이\n{SetColor=Gold}보물 상자와 인접{SetColor=Default}한 상태라면\n「{SetColor=Gold}보물 상자{SetColor=Default}」로 내용물을 획득할 수 있습니다
+MID_TUT_Bmap_TreasureChest_m01_002: 적이 {SetColor=Gold}보물 열쇠{SetColor=Default}를 가지고 있는 경우도 있는데\n해당 적을 {SetColor=Gold}격파{SetColor=Default}하면 열쇠를 {SetColor=Gold}획득{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_FogMap_t: 탐색 맵
+MID_TUT_Bmap_FogMap_m01_001: 안개나 모래 폭풍 등으로 시야가 제한되어\n적의 위치를 알 수 없는 전투 맵을\n{SetColor=Gold}탐색 맵{SetColor=Default}이라고 합니다
+MID_TUT_Bmap_FogMap_m01_002: 아군이 {SetColor=Gold}행동을 종료{SetColor=Default}하면 {SetColor=Gold}시야가 갱신{SetColor=Default}되는데\n이때 {SetColor=Gold}새로운 적을 발견{SetColor=Default}하면\n해당 적을 {SetColor=Gold}혼란 상태{SetColor=Default}로 만들 수 있습니다
+MID_TUT_Bmap_FogMap_m01_003: 단, 아군이 {SetColor=Gold}이동 중{SetColor=Default}에\n{SetColor=Gold}미처 발견하지 못했던 적{SetColor=Default}과 {SetColor=Gold}부딪치면{SetColor=Default}\n아군의 {SetColor=Gold}행동이 종료{SetColor=Default}되니 주의합시다
+MID_TUT_Bmap_BowBattery_t: 병기
+MID_TUT_Bmap_BowBattery_m01_001: {SetColor=Gold}포대{SetColor=Default}나 {SetColor=Gold}투석기{SetColor=Default} 등, 맵에 설치된 {SetColor=Gold}병기{SetColor=Default}는\n{SetColor=Gold}유닛을 배치{SetColor=Default}해서 {SetColor=Gold}사용{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_BowBattery_m01_002: {SetColor=Gold}활 포대{SetColor=Default}는 {SetColor=Gold}활을 쓸 수 있는 병과{SetColor=Default}, {SetColor=Gold}마도 포대{SetColor=Default}는\n{SetColor=Gold}마법을 쓸 수 있는 병과{SetColor=Default}만 사용할 수 있으며\n{SetColor=Gold}투석기{SetColor=Default}는 {SetColor=Gold}모든 병과{SetColor=Default}가 사용 가능합니다
+MID_TUT_Bmap_BowBattery_m01_003: 병기들은 {SetColor=Gold}탄 수가 제한되어{SetColor=Default} 있지만 사정이 길어\n{SetColor=Gold}멀리 있는 유닛을 공격{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_BowBattery_m01_004: 참고로 아군뿐만 아니라 {SetColor=Gold}적도 사용할 수 있으니{SetColor=Default}\n주의합시다
+MID_TUT_Bmap_Explosives_t: 폭발물
+MID_TUT_Bmap_Explosives_m01_001: {SetColor=Gold}폭발물{SetColor=Default}을 공격하면 {SetColor=Gold}주위에 있는 적{SetColor=Default}에게\n{SetColor=Gold}대미지{SetColor=Default}를 주고 {SetColor=Gold}1턴 동안 이동 불능{SetColor=Default} 상태로 만듭니다
+MID_TUT_Bmap_Explosives_m01_002: 참고로 {SetColor=Gold}적이 사용{SetColor=Default}한 경우에는\n{SetColor=Gold}아군이 해당 피해를 입게{SetColor=Default} 되니 주의합시다
+MID_TUT_Bmap_ControllerKaiEdited_t: 격리된 카이
+MID_TUT_Bmap_ControllerKaiEdited_m01_001: 격리된 카이를 돕기 위해서는\n{SetColor=Gold}마법 방벽{SetColor=Default}을 {SetColor=Gold}해제{SetColor=Default}해야 합니다
+MID_TUT_Bmap_ControllerKaiEdited_m01_002: {SetColor=Gold}제어 장치와 인접{SetColor=Default}한 상태에서 「{SetColor=Gold}장치{SetColor=Default}」를 선택하면\n해당 장치를 조작할 수 있으며, 2개의 제어 장치를\n{SetColor=Gold}모두 조작{SetColor=Default}하면 마법 방벽을 해제할 수 있습니다
+MID_TUT_Bmap_ControllerKaiEdited_m01_003: 마법 방벽은 {SetColor=Gold}카스톨을 격파{SetColor=Default}한 경우에도 해제됩니다
+MID_TUT_Bmap_BattleOfCastor_t: 마법진의 사용 제한
+MID_TUT_Bmap_BattleOfCastor_m01_001: 회복 마법진 등, 이 맵에 있는 {SetColor=Gold}마법진{SetColor=Default}은\n한 번 {SetColor=Gold}효과를 발동{SetColor=Default}하면 {SetColor=Gold}다음 턴{SetColor=Default}부터\n{SetColor=Gold}기능이 정지{SetColor=Default}됩니다
+MID_TUT_Bmap_BattleOfCastor_m01_002: 회복, 수비 강화와 같이 여러 효과가 있으니\n언제 어느 것을 쓸지 잘 생각해서 사용합시다
+MID_TUT_Bmap_SpecialEffectsFlooring_t: 특수 지형
+MID_TUT_Bmap_SpecialEffectsFlooring_m01_001: 페이즈가 개시될 때 HP가 회복되는 회복 마법진 등\n{SetColor=Gold}다양한 효과를 가진 지형{SetColor=Default}이\n맵에 배치되어 있는 경우가 있습니다
+MID_TUT_Bmap_SpecialEffectsFlooring_m01_002: 유용한 효과를 가진 지형뿐만 아니라\n{SetColor=Gold}대미지를 주는 지형{SetColor=Default}도 있으니\n이동하기 전에 잘 확인합시다
+MID_TUT_Bmap_Rain_t: 우천
+MID_TUT_Bmap_Rain_m01_001: 전투 맵에서는 {SetColor=Gold}우천{SetColor=Default} 시\n{SetColor=Gold}포대를 사용할 수 없습니다{SetColor=Default}
+MID_TUT_Bmap_Rain_m01_002: 또한 {SetColor=Gold}번개 공격의 대미지가 증가{SetColor=Default}하고\n{SetColor=Gold}화염 공격의 대미지가 감소{SetColor=Default}합니다
+MID_TUT_Bmap_TreasureHunt_t: 보주 획득
+MID_TUT_Bmap_TreasureHunt_m01_001: {SetColor=Gold}마법의 보주{SetColor=Default}가 있는 칸에\n유닛을 {SetColor=Gold}대기{SetColor=Default}시키면 {SetColor=Gold}보주를 획득{SetColor=Default}합니다
+MID_TUT_Bmap_TreasureHunt_m01_002: 보주는 {SetColor=Gold}한 유닛당 하나{SetColor=Default}만 가질 수 있으며\n이미 보주를 소지한 상태라면\n다른 보주를 획득해도 {SetColor=Gold}멀리 날아가{SetColor=Default} 버립니다
+MID_TUT_Bmap_TreasureHunt_m01_003: 참고로 보주를 {SetColor=Gold}버리거나 교환{SetColor=Default}하는 것은 {SetColor=Gold}불가능{SetColor=Default}하지만\n소지품이 가득 찬 경우에는 내려놓을 수 있습니다
+MID_TUT_Bmap_TreasureHunt_m01_004: 보주는 적에게 유리한 위치에 배치됩니다\n그 대신 {SetColor=Gold}마지막 턴{SetColor=Default}은 {SetColor=Gold}아군 페이즈가 끝나면\n적군 페이즈로 넘어가지 않고 그대로 종료{SetColor=Default}됩니다
+MID_TUT_Bmap_Revival_t: 자동 복귀
+MID_TUT_Bmap_Revival_m01_001: 이 맵에서는 유닛의 HP가 0이 되어도 격파되지 않고\n{SetColor=Gold}HP가 모두 회복{SetColor=Default}된 상태로 {SetColor=Gold}복귀{SetColor=Default}합니다
+MID_TUT_Bmap_Revival_m01_002: 각 진영에는 {SetColor=Gold}복귀 구역{SetColor=Default}이 있으며\nHP가 0이 된 유닛은 해당 구역에 재배치됩니다
+MID_TUT_Bmap_Revival_m01_003: 복귀한 유닛은\n{SetColor=Gold}그 턴에 바로 행동할 수 없으니{SetColor=Default} 주의합시다
+MID_TUT_Bmap_ShiftingDevice_t: 전이 마법진
+MID_TUT_Bmap_ShiftingDevice_m01_001: 유닛을 {SetColor=Gold}전이 마법진{SetColor=Default} 위로 이동시킨 후\n「{SetColor=Gold}전이{SetColor=Default}」를 선택하면\n연결된 전이 마법진으로 {SetColor=Gold}순간 이동{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_ShiftingDevice_m01_002: {SetColor=Gold}이동력이 남아 있는 상태에서 전이{SetColor=Default}하면\n전이 후 남은 이동력만큼 {SetColor=Gold}이동{SetColor=Default}이 가능합니다
+MID_TUT_Bmap_ShiftingDevice_m01_003: {SetColor=Gold}전이할 곳에 다른 유닛이 있는{SetColor=Default} 경우에는\n{SetColor=Gold}전이할 수 없습니다{SetColor=Default}
+MID_TUT_Bmap_HolyWater_t: 성수
+MID_TUT_Bmap_HolyWater_m01_001: {SetColor=Gold}성수{SetColor=Default} 아이템은 사용한 유닛의\n{SetColor=Gold}마방을 10 상승{SetColor=Default}시키는 효과가 있습니다
+MID_TUT_Bmap_HolyWater_m01_002: 상승한 마방은 {SetColor=Gold}턴이 지날 때마다 감소{SetColor=Default}하며\n{SetColor=Gold}5턴 후{SetColor=Default}에 {SetColor=Gold}효과가 완전히 사라집니다{SetColor=Default}
+MID_TUT_Bmap_HumidityRegulator_t: 성수 무효화
+MID_TUT_Bmap_HumidityRegulator_m01_001: {SetColor=Gold}제어 장치{SetColor=Default}와 인접한 상태에서 「{SetColor=Gold}장치{SetColor=Default}」를 사용하면\n모든 유닛의 {SetColor=Gold}성수 효과를 무효화{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_HumidityRegulator_m01_002: 제어 장치는 총 5개 있으며\n1개당 1번씩 사용할 수 있습니다
+MID_TUT_Bmap_Weakness_t: 변이 디감마
+MID_TUT_Bmap_Weakness_m01_001: 디감마 중에는 움직임이 다른 {SetColor=Gold}변이 개체{SetColor=Default}가 존재하는데\n{SetColor=Gold}대미지를 주면{SetColor=Default} 해당 개체 {SetColor=Gold}주변의 디감마{SetColor=Default}에게도\n{SetColor=Gold}동일한 대미지를 줄{SetColor=Default} 수 있습니다
+MID_TUT_Bmap_Weakness_m01_002: 이를 활용하여 효율적으로 적들을 격파합시다\n변이 개체는 잘 {SetColor=Gold}관찰{SetColor=Default}하면 {SetColor=Gold}발견{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_BellTower_t: 전투 코끼리의 폭주
+MID_TUT_Bmap_BellTower_m01_001: 종탑을 파괴하면 그 소리로 인해\n적의 전투 코끼리가 폭주하여\n{SetColor=Gold}코끼리병{SetColor=Default}이 {SetColor=Gold}3턴 동안 제3군{SetColor=Default}이 됩니다
+MID_TUT_Bmap_BellTower_m01_002: 그동안 코끼리병은 {SetColor=Gold}적군을 우선적으로 공격{SetColor=Default}하지만\n{SetColor=Gold}적군이 근처에 없을 때{SetColor=Default}는 {SetColor=Gold}아군을 노리니{SetColor=Default}\n주의해서 싸웁시다
+MID_TUT_Bmap_SeaGod_t: 보디 프레스
+MID_TUT_Bmap_SeaGod_m01_001: 케투스의 맹격인 {SetColor=Gold}보디 프레스{SetColor=Default}는\n{SetColor=Gold}공격 범위 내에 있는 유닛{SetColor=Default}에게\n{SetColor=Gold}큰 대미지{SetColor=Default}를 줍니다
+MID_TUT_Bmap_SeaGod_m01_002: 또한 범위 {SetColor=Gold}중심부(9칸){SetColor=Default}에 있는 유닛은\n남은 HP에 상관없이 {SetColor=Gold}일격에 격파{SetColor=Default}됩니다
+MID_TUT_Bmap_SeaGod_m01_003: 케투스가 맹격 준비에 들어가면 {SetColor=Gold}공격 범위가\n보라색{SetColor=Default}으로 표시되며, {SetColor=Gold}다음 적 페이즈에 발동{SetColor=Default}됩니다\n범위를 잘 확인하여 공격받지 않도록 주의합시다
+MID_TUT_Bmap_MagicTrap_t: 마법 덫
+MID_TUT_Bmap_MagicTrap_m01_001: {SetColor=Gold}마법 덫 발생 장치{SetColor=Default}와 인접한 상태에서\n「{SetColor=Gold}장치{SetColor=Default}」를 선택하면\n{SetColor=Gold}1턴 동안{SetColor=Default} 주위에 {SetColor=Gold}마법 덫을 생성{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_MagicTrap_m01_002: 생성된 {SetColor=Gold}마법 덫의 범위 안에서 케투스가 대기{SetColor=Default}하면\n덫이 발동하여{SetColor=Gold} 전투를 1회 하거나 다음 아군 페이즈가\n개시될 때{SetColor=Default}까지 {SetColor=Gold}행동 불능 상태{SetColor=Default}가 됩니다
+MID_TUT_Bmap_MagicTrap_m01_003: 케투스가 있는 위치에 {SetColor=Gold}직접{SetColor=Default}\n마법 덫을 {SetColor=Gold}생성{SetColor=Default}해도 효과가 발휘됩니다
+MID_TUT_Bmap_MagicTrap_m01_004: 마법 덫 발생 장치는 총 8개 있으며\n1개당 1번씩 사용할 수 있습니다
+MID_TUT_Bmap_RemovalDevice_t: 모래 폭풍 제거 장치
+MID_TUT_Bmap_RemovalDevice_m01_001: 「{SetColor=Gold}모래 폭풍 제거 장치{SetColor=Default}」를 사용하면 {SetColor=Gold}1턴 동안{SetColor=Default}\n{SetColor=Gold}일정 범위의 모래 폭풍{SetColor=Default}을 {SetColor=Gold}제거{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_RemovalDevice_m01_002: 「모래 폭풍 제거 장치」를 한 번 사용하면\n{SetColor=Gold}해당 턴과 다음 턴{SetColor=Default}에는 아무도 {SetColor=Gold}사용할 수 없으니{SetColor=Default}\n주의합시다
+MID_TUT_Bmap_Lantern_t: 등불
+MID_TUT_Bmap_Lantern_m01_001: {SetColor=Gold}붉은 등불{SetColor=Default}과 인접한 상태에서 「{SetColor=Gold}등불{SetColor=Default}」을 사용하면\n{SetColor=Gold}등불의 색을 푸른색으로 바꿀{SetColor=Default} 수 있습니다
+MID_TUT_Bmap_Lantern2_t: 등불의 장치
+MID_TUT_Bmap_Lantern2_m01_001: {SetColor=Gold}양쪽의 등불을 같은 색{SetColor=Default}으로 만들면\n가운데 있는 등불의 색도 바꿀 수 있습니다
+MID_TUT_Bmap_Lantern2_m01_002: 해당 원리는 {SetColor=Gold}상하좌우{SetColor=Default}는 물론\n{SetColor=Gold}대각선{SetColor=Default}일 경우에도 적용됩니다
+MID_TUT_Bmap_EnclosingWall_t: 세오도라의 방벽
+MID_TUT_Bmap_EnclosingWall_m01_001: {SetColor=Gold}아군과 세오도라 사이를 가로막는 방벽{SetColor=Default}은\n방벽 {SetColor=Gold}밖에 있는 적을 전멸{SetColor=Default}시키면 {SetColor=Gold}해제{SetColor=Default}됩니다
+MID_TUT_Bmap_EnclosingWall_m01_002: 이 맵은 2개의 구역으로 나뉘어 있습니다\n각 구역의 {SetColor=Gold}적을 모두 쓰러뜨려 봅시다{SetColor=Default}
+MID_TUT_Bmap_ControllerL_t: 대굉토에 대한 대책
+MID_TUT_Bmap_ControllerL_m01_001: {SetColor=Gold}제어 장치{SetColor=Default}와 인접한 상태에서 「{SetColor=Gold}장치{SetColor=Default}」를 사용하면\n{SetColor=Gold}1턴 동안{SetColor=Default} 방벽이 강화되어 {SetColor=Gold}대굉토를 막을 수 있습니다{SetColor=Default}
+MID_TUT_Bmap_ControllerL_m01_002: 제어 장치는 총 4개 있으며\n1개당 1번씩 사용할 수 있습니다
+MID_TUT_Bmap_StomachAcid_t: 강산
+MID_TUT_Bmap_StomachAcid_m01_001: {SetColor=Gold}강산{SetColor=Default} 위에서 대기한 유닛은\n{SetColor=Gold}다음 아군 페이즈가 개시될 때 대미지{SetColor=Default}를 받습니다
+MID_TUT_Bmap_StomachAcid_m01_002: 해당 효과는 적과 아군 모두에게 적용되며\n비행 유닛은 대미지를 받지 않습니다
+MID_TUT_Bmap_StomachAcid_m01_003: {SetColor=Gold}냉광의 노래{SetColor=Default}를 사용하면 강산이 얼어붙어\n{SetColor=Gold}다음 아군 페이즈{SetColor=Default}까지 {SetColor=Gold}대미지를 받지 않습니다{SetColor=Default}
+MID_TUT_Bmap_StomachAcid2_t: 강산의 변화
+MID_TUT_Bmap_StomachAcid2_m01_001: {SetColor=Gold}강산{SetColor=Default}은 {SetColor=Gold}1턴마다{SetColor=Default}\n범위가 {SetColor=Gold}확대되거나 축소{SetColor=Default}됩니다
+MID_TUT_Bmap_StomachAcid2_m01_002: {SetColor=Gold}범위가 좁은 강산은 확대{SetColor=Default}되고\n{SetColor=Gold}범위가 넓은 강산은 축소{SetColor=Default}되니\n어떻게 변화할지 잘 파악하며 싸웁시다
+MID_TUT_Bmap_Kai_t: 명염탄(카이)
+MID_TUT_Bmap_Kai_m01_001: 카이의 블레이즈 아츠 {SetColor=Gold}명염탄{SetColor=Default}은\n적중한 곳의 주변에 있는 {SetColor=Gold}적들에게도\n한꺼번에 대미지{SetColor=Default}를 주는 기술입니다
+MID_TUT_Bmap_Seodola_t: 굉토(세오도라)
+MID_TUT_Bmap_Seodola_m01_001: 세오도라의 블레이즈 아츠 {SetColor=Gold}굉토{SetColor=Default}는\n직선상에 있는 가장 가까운 적 하나를 공격할 수 있는\n{SetColor=Gold}초원거리 공격{SetColor=Default}입니다
+MID_TUT_Bmap_Leda_t: 주술의 노래(레다)
+MID_TUT_Bmap_Leda_m01_001: 레다의 블레이즈 아츠 {SetColor=Gold}주술의 노래{SetColor=Default}는\n{SetColor=Gold}범위 내 아군에게 유리한 효과{SetColor=Default}를 부여하는\n여러 가지 노래입니다
+MID_TUT_Bmap_Ditlih_t: 그림자 건너기(디트리히)
+MID_TUT_Bmap_Ditlih_m01_001: 디트리히의 블레이즈 아츠 {SetColor=Gold}그림자 건너기{SetColor=Default}는\n{SetColor=Gold}이동 후 순간 이동{SetColor=Default}으로 또 한 번 이동하여\n{SetColor=Gold}멀리 있는 적을 공격{SetColor=Default}할 수 있는 기술입니다
+MID_TUT_Bmap_FirstGate_t: 나태의 독기
+MID_TUT_Bmap_FirstGate_m01_001: {SetColor=Gold}나태의 독기{SetColor=Default} 위에 있는 유닛은\n전투 시 {SetColor=Gold}추격할 수 없게{SetColor=Default} 됩니다
+MID_TUT_Bmap_FirstGate_m01_002: 해당 효과는 적과 아군 모두에게 적용되니\n신중하게 활용하면서 싸웁시다
+MID_TUT_Bmap_SecondGate_t: 탐욕의 독기
+MID_TUT_Bmap_SecondGate_m01_001: {SetColor=Gold}탐욕의 독기{SetColor=Default} 위에서 대기한 유닛은 {SetColor=Gold}수비가 0{SetColor=Default}이 되고\n{SetColor=Gold}다음 아군 페이즈가 개시될 때\nHP가 절반{SetColor=Default}으로 감소합니다
+MID_TUT_Bmap_SecondGate_m01_002: 해당 효과는 적에게 적용되지 않으니\n주의해서 싸웁시다
+MID_TUT_Bmap_SecondGate2_t: 금괴 증가
+MID_TUT_Bmap_SecondGate2_m01_001: {SetColor=Gold}탐욕의 독기{SetColor=Default} 위에 있는 유닛이\n{SetColor=Gold}금괴를 보유한 적{SetColor=Default}을 {SetColor=Gold}격파{SetColor=Default}하면\n{SetColor=Gold}더 많은 금괴를 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_ThirdGate_t: 기만의 독기
+MID_TUT_Bmap_ThirdGate_m01_001: {SetColor=Gold}기만의 독기{SetColor=Default} 위에서 대기한 유닛은 시야가 좁아져\n{SetColor=Gold}인접한 칸밖에 보지 못하는 상태{SetColor=Default}가 됩니다
+MID_TUT_Bmap_ThirdGate_m01_002: 해당 효과는 적에게 적용되지 않으니\n주의해서 싸웁시다
+MID_TUT_Bmap_FourthGate_t: 질투의 독기
+MID_TUT_Bmap_FourthGate_m01_001: 이 맵의 적들은 격파되면\n주위에 {SetColor=Gold}질투의 독기를 생성{SetColor=Default}합니다
+MID_TUT_Bmap_FourthGate_m01_002: {SetColor=Gold}질투의 독기{SetColor=Default} 위에 있는 유닛은\n{SetColor=Gold}자신보다 LV이 높은 상대{SetColor=Default}와 전투 시\n{SetColor=Gold}명중이 2배{SetColor=Default}로 증가하지만 {SetColor=Gold}회피가 0{SetColor=Default}이 됩니다
+MID_TUT_Bmap_FourthGate_m01_003: 해당 효과는 적과 아군 모두에게 적용되니\n서로의 LV을 잘 확인하면서 싸웁시다
+MID_TUT_Bmap_FifthGate_t: 분노의 독기
+MID_TUT_Bmap_FifthGate_m01_001: {SetColor=Gold}분노의 독기{SetColor=Default} 위에 있는 유닛은 전투 시\n{SetColor=Gold}필살이 2배로 증가{SetColor=Default}하지만 {SetColor=Gold}수비가 반감{SetColor=Default}됩니다
+MID_TUT_Bmap_FifthGate_m01_002: 해당 효과는 적과 아군 모두에게 적용되니\n신중하게 활용하면서 싸웁시다
+MID_TUT_Bmap_SixthGate_t: 오만의 독기
+MID_TUT_Bmap_SixthGate_m01_001: {SetColor=Gold}오만의 독기{SetColor=Default} 위에 있는 유닛은\n{SetColor=Gold}자신보다 LV이 낮은 상대{SetColor=Default}와 전투 시\n{SetColor=Gold}명중이 반감{SetColor=Default}됩니다
+MID_TUT_Bmap_SixthGate_m01_002: 해당 효과는 적과 아군 모두에게 적용되니\n서로의 LV을 잘 확인하면서 싸웁시다
+MID_TUT_Bmap_SeventhGate_t: 색욕의 독기
+MID_TUT_Bmap_SeventhGate_m01_001: {SetColor=Gold}색욕의 독기{SetColor=Default} 위에 있는 유닛은\n{SetColor=Gold}자신보다 매력이 높은 상대{SetColor=Default}와 전투 시\n{SetColor=Gold}명중과 회피가 반감{SetColor=Default}됩니다
+MID_TUT_Bmap_SeventhGate_m01_002: 해당 효과는 적과 아군 모두에게 적용되니\n서로의 매력 수치를 잘 확인하면서 싸웁시다
+MID_TUT_Bmap_EighthGate_t: 폭식의 독기
+MID_TUT_Bmap_EighthGate_m01_001: {SetColor=Gold}폭식의 독기{SetColor=Default} 위에 있는 유닛은\n{SetColor=Gold}다음 아군 페이즈가 개시될 때{SetColor=Default} 장비 중인\n{SetColor=Gold}무기의 내구도{SetColor=Default} 또는 {SetColor=Gold}마법의 사용 횟수{SetColor=Default}가 {SetColor=Gold}감소{SetColor=Default}합니다
+MID_TUT_Bmap_EighthGate_m01_002: 해당 효과는 적과 아군 모두에게 적용됩니다\n무기와 마법이 소모되지 않도록 조심하면서 싸웁시다
+MID_TUT_Bmap_NinthGate_t: 공포의 독기
+MID_TUT_Bmap_NinthGate_m01_001: {SetColor=Gold}공포의 독기{SetColor=Default} 위에서 대기한 아군 유닛은\n{SetColor=Gold}다음 적군 페이즈가 개시될 때 혼란 상태{SetColor=Default}가 됩니다
+MID_TUT_Bmap_NinthGate_m01_002: 해당 효과는 적에게 적용되지 않으니\n주의해서 싸웁시다
+MID_TUT_Bmap_NinthGate_m01_003: {SetColor=Gold}적 유닛{SetColor=Default}이 {SetColor=Gold}공포의 독기 위에서 대기{SetColor=Default}하면\n그 {SetColor=Gold}주위{SetColor=Default}에 {SetColor=Gold}공포의 독기{SetColor=Default}가 추가로 {SetColor=Gold}생성{SetColor=Default}됩니다
+MID_TUT_Bmap_NinthGate_m01_004: 새로 생성된 독기는\n{SetColor=Gold}3턴 후의 적 페이즈{SetColor=Default}까지 지속됩니다
+MID_TUT_Bmap_LastBattle_t: 발로르의 배리어
+MID_TUT_Bmap_LastBattle_m01_001: {SetColor=Gold}배리어를 약화{SetColor=Default}시키거나 {SetColor=Gold}파괴{SetColor=Default}하지 않는 한\n발로르에게 {SetColor=Gold}대미지를 줄 수 없으며{SetColor=Default}\n직접 공격으로 배리어를 파괴하는 것은 어렵습니다
+MID_TUT_Bmap_LastBattle_m01_002: 맵 내 {SetColor=Gold}명계의 문을 파괴{SetColor=Default}하면 배리어가 약화되는데\n{SetColor=Gold}1개 파괴 시 50%{SetColor=Default}, {SetColor=Gold}2개 파괴 시 100%{SetColor=Default}의 {SetColor=Gold}대미지를\n줄 수 있게{SetColor=Default} 됩니다
+MID_TUT_Bmap_LastBattle_m01_003: {SetColor=Gold}월드 맵에 출현한 명계의 문을 모두 파괴{SetColor=Default}한 경우\n해당 맵의 문의 {SetColor=Gold}내구도가 감소{SetColor=Default}하며\n출현하는 {SetColor=Gold}증원군도 약화{SetColor=Default}됩니다
+MID_TUT_Bmap_LanternAshes_t: 향로의 장치
+MID_TUT_Bmap_LanternAshes_m01_001: {SetColor=Gold}향로를 파괴{SetColor=Default}하면 {SetColor=Gold}주위{SetColor=Default}에 있는 {SetColor=Gold}적 유닛에게\n대미지를 주고 1턴 동안 이동력을 저하{SetColor=Default}시킵니다
+MID_TUT_Bmap_LanternAshes_m01_002: 또한 {SetColor=Gold}이동을 방해하는 재{SetColor=Default}가 주변에 튀는데\n{SetColor=Gold}재가 튀는 위치{SetColor=Default}는 {SetColor=Gold}향로에 따라 다릅니다{SetColor=Default}
+MID_TUT_Bmap_LanternAshes_m01_003: 향로는 총 8개 있으며\n1개당 1번씩 사용할 수 있습니다
+MID_TUT_Bmap_Giant_t: 거인 격파 승부
+MID_TUT_Bmap_Giant_m01_001: 이 시합에서는 적군보다 빨리\n{SetColor=Gold}거인 4마리를 격파{SetColor=Default}하면 승리합니다
+MID_TUT_Bmap_Giant_m01_002: 거인 격파 시 {SetColor=Gold}다른 거인이 출현{SetColor=Default}하며\n{SetColor=Gold}총 7마리{SetColor=Default}까지 맵에 등장합니다
+MID_TUT_Bmap_Giant_m01_003: 이 맵에서는 {SetColor=Gold}유닛의 HP가 0이 되어도{SetColor=Default} 격파되지 않고\n{SetColor=Gold}HP가 모두 회복된 상태로 복귀{SetColor=Default}합니다
+MID_TUT_Bmap_GiantFood_t: 거인의 먹이
+MID_TUT_Bmap_GiantFood_m01_001: {SetColor=Gold}먹이를 주면 거인은 1턴 동안 무적 상태{SetColor=Default}가 되며\n{SetColor=Gold}먹이를 준 진영{SetColor=Default}의 유닛을 {SetColor=Gold}표적으로 삼지 않습니다{SetColor=Default}
+MID_TUT_Bmap_GiantFood_m01_002: 거인에게 {SetColor=Gold}3칸 이내{SetColor=Default}로 접근하여 「{SetColor=Gold}먹이{SetColor=Default}」를 선택하면\n먹이를 줄 수 있습니다
+MID_TUT_Bmap_GiantFood_m01_003: {SetColor=Gold}아군의 먹이 수는 제한{SetColor=Default}되어 있으니 주의합시다
+MID_TUT_Bmap_ChamberCargo_t: 짐 탈환
+MID_TUT_Bmap_ChamberCargo_m01_001: {SetColor=Gold}짐을 빼앗은 도적{SetColor=Default}이 {SetColor=Gold}목표 지점에 도달{SetColor=Default}하여 이탈하면\n{SetColor=Gold}패배{SetColor=Default}하게 됩니다
+MID_TUT_Bmap_ChamberCargo_m01_002: 도적이 이탈하기 전에 {SetColor=Gold}격파{SetColor=Default}하여\n{SetColor=Gold}떨어뜨린 짐{SetColor=Default}을 회수합시다
+MID_TUT_Bmap_Trebuchet_t: 특수한 투석기
+MID_TUT_Bmap_Trebuchet_m01_001: {SetColor=Gold}2개의 발사 장치{SetColor=Default}를 {SetColor=Gold}같은 페이즈에 조작{SetColor=Default}하면\n단 {SetColor=Gold}한 번{SetColor=Default}만 {SetColor=Gold}투석기로 범위 공격{SetColor=Default}을 할 수 있습니다
+MID_TUT_Bmap_Trebuchet_m01_002: {SetColor=Gold}발사 장치{SetColor=Default}와 인접한 상태에서 「{SetColor=Gold}장치{SetColor=Default}」를 선택하면\n해당 장치를 조작할 수 있습니다
+MID_TUT_Bmap_People_t: 부족 유도
+MID_TUT_Bmap_People_m01_001: {SetColor=Gold}곤륜 부족{SetColor=Default}은 {SetColor=Gold}아나톨리아 근처로 이동{SetColor=Default}합니다\n그들을 데리고 목표 지점으로 향합시다
+MID_TUT_Bmap_People_m01_002: {SetColor=Gold}부족이 3명 이상 격파{SetColor=Default}되면 {SetColor=Gold}패배{SetColor=Default}하므로\n그들이 공격받지 않도록 호위해야 합니다
+MID_TUT_Bmap_Confusion_t: 독괴 전파
+MID_TUT_Bmap_Confusion_m01_001: 퀸 히드라의 {SetColor=Gold}독괴 전파{SetColor=Default}를 맞은\n{SetColor=Gold}곤륜 부족{SetColor=Default}은 {SetColor=Gold}착란{SetColor=Default} 상태에 빠져\n{SetColor=Gold}아나톨리아 근처로 이동하지 않게 됩니다{SetColor=Default}
+MID_TUT_Bmap_Confusion_m01_002: 해당 곤륜 부족과 인접한 상태에서 「{SetColor=Gold}진정시키기{SetColor=Default}」를\n사용하면 {SetColor=Gold}착란 상태를 해제{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_Orichalcum_t: 오리할콘 더미
+MID_TUT_Bmap_Orichalcum_m01_001: {SetColor=Gold}오리할콘 더미{SetColor=Default}를 {SetColor=Gold}5개 파괴{SetColor=Default}할 때마다\n{SetColor=Gold}거인에게 큰 대미지를 줄{SetColor=Default} 수 있습니다
+MID_TUT_Bmap_Orichalcum_m01_002: 오리할콘 더미는 총 10개 있어서\n거인에게 최대 2번까지 대미지를 줄 수 있습니다
+MID_TUT_Bmap_FogRemoval_t: 안개 제거 장치
+MID_TUT_Bmap_FogRemoval_m01_001: {SetColor=Gold}송풍기 제어 장치{SetColor=Default}와 인접한 상태에서\n「{SetColor=Gold}장치{SetColor=Default}」를 선택하면 해당 페이즈 동안\n{SetColor=Gold}맵 전체의 안개를 제거{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_FogRemoval_m01_002: 제어 장치는 총 3개 있으며\n1개당 1번씩 사용할 수 있습니다
+MID_TUT_Bmap_TargetLine_t: 적으로부터 뻗어 나오는 라인
+MID_TUT_Bmap_TargetLine_m01_001: {SetColor=Gold}아군 유닛{SetColor=Default}에게 {SetColor=Gold}커서를 맞췄을 때{SetColor=Default}나\n아군 유닛을 {SetColor=Gold}선택했을 때{SetColor=Default} 적의 {SetColor=Gold}위험 범위{SetColor=Default}에 있으면\n{SetColor=Gold}적으로부터 뻗어 나오는 라인이 표시{SetColor=Default}됩니다
+MID_TUT_Bmap_TargetLine_m01_002: 라인이 많이 있으면\n여러 적의 위험 범위 안에 있다는 의미니 주의합시다
+MID_TUT_Bmap_TargetLine_m01_003: 적의 위험 범위가 {SetColor=Gold}상시 표시{SetColor=Default}되도록 설정한 경우\n해당 {SetColor=Gold}범위 내에서 커서를 움직이면{SetColor=Default}\n어느 칸이든 {SetColor=Gold}라인을 확인{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_TargetLine2_t: 라인 색의 의미
+MID_TUT_Bmap_TargetLine2_m01_001: {SetColor=Gold}적으로부터 뻗어 나오는 라인의 색{SetColor=Default}은\n공격의 {SetColor=Gold}종류와 내용에 따라 달라집니다{SetColor=Default}
+MID_TUT_Bmap_TargetLine2_m01_002: {SetColor=Gold}일반 공격{SetColor=Default}일 때는 {SetColor=Gold}붉은색{SetColor=Default}, {SetColor=Gold}필살이 높을{SetColor=Default} 때는 {SetColor=Gold}노란색{SetColor=Default},\n{SetColor=Gold}유효 또는 특효{SetColor=Default}일 때는 {SetColor=Gold}보라색{SetColor=Default}, {SetColor=Gold}블레이즈 아츠{SetColor=Default}일 때는\n{SetColor=Gold}짙은 보라색{SetColor=Default}의 라인이 표시됩니다
+MID_TUT_Bmap_Flame_t: 불타는 지형
+MID_TUT_Bmap_Flame_m01_001: 화재 상태의 지형 위에서 {SetColor=Gold}대기{SetColor=Default}하면\n{SetColor=Gold}아군 페이즈가 개시될 때 대미지{SetColor=Default}를 받습니다
+MID_TUT_Bmap_Flame_m01_002: {SetColor=Gold}화재{SetColor=Default}는 {SetColor=Gold}계략{SetColor=Default}을 쓰거나 {SetColor=Gold}오버 블레이즈 상태일 때\n블레이즈 아츠{SetColor=Default}를 사용해서 {SetColor=Gold}진화{SetColor=Default}할 수 있습니다
+MID_TUT_Bmap_BondsParticipation_t: 인연 참전
+MID_TUT_Bmap_BondsParticipation_m01_001: 진영장의 외전을 클리어하고 {SetColor=Gold}특정 조건{SetColor=Default}을 만족시키면\n해당 진영장이 {SetColor=Gold}한정적인 동료{SetColor=Default}로 구세편에 참전하는데\n이를 {SetColor=Gold}인연 참전{SetColor=Default}이라고 합니다
+MID_TUT_Bmap_BondsParticipation_m01_002: 인연 참전을 한 진영장은 {SetColor=Gold}기본적으로 이야기에\n참가하지 않고{SetColor=Default} 지원 회화도 일부만 볼 수 있지만\n{SetColor=Gold}전력{SetColor=Default}으로서 큰 도움이 됩니다
+MID_TUT_Gmap_Gmap_t: 월드 맵
+MID_TUT_Gmap_Gmap_m01_001: 월드 맵에서는 마을, 던전, 가도 등\n{SetColor=Gold}다양한 곳{SetColor=Default}으로 이동할 수 있는데\n이러한 장소들을 {SetColor=Gold}스폿{SetColor=Default}이라고 합니다
+MID_TUT_Gmap_Gmap_m01_002: {SetColor=Gold}유닛{SetColor=Default}에게 {SetColor=Gold}커서{SetColor=Default}를 맞추고 {SetColor=Gold}{ButtonA}를 누르면\n이동할 수 있는 범위{SetColor=Default}가 {SetColor=Gold}파란색으로 표시{SetColor=Default}되며\n{SetColor=Gold}가고 싶은 스폿{SetColor=Default}을 선택하여 {SetColor=Gold}{ButtonA}를 누르면{SetColor=Default} 이동합니다
+MID_TUT_Gmap_Gmap_m01_003: 이동 후 해당 스폿에서 {SetColor=Gold}행동을 선택{SetColor=Default}할 수 있으며\n행동이 끝나면 다음 턴으로 넘어갑니다
+MID_TUT_Gmap_TroopAppearance_t: 세계를 오가는 자들
+MID_TUT_Gmap_TroopAppearance_m01_001: 스폿에 {SetColor=Gold}적이 출현{SetColor=Default}하는 경우가 있습니다\n해당 적과 접촉하면 {SetColor=Gold}조우전{SetColor=Default}이 발생합니다
+MID_TUT_Gmap_TroopAppearance_m01_002: 또한 {SetColor=Gold}상인이 출현{SetColor=Default}하는 경우도 있는데\n해당 스폿으로 이동하면 {SetColor=Gold}거래{SetColor=Default}를 할 수 있습니다
+MID_TUT_Gmap_AfterBattle_t: 자유행동 중 회복
+MID_TUT_Gmap_AfterBattle_m01_001: {SetColor=Gold}자유행동 중{SetColor=Default}에는 {SetColor=Gold}전투{SetColor=Default} 후\n{SetColor=Gold}HP와 마법 사용 횟수{SetColor=Default}가 회복되지 않으니\n거점의 여관 등을 이용합시다
+MID_TUT_Gmap_Explore_t: 탐색 스폿
+MID_TUT_Gmap_Explore_m01_001: {SetColor=Gold}탐색 스폿{SetColor=Default}에서 {SetColor=Gold}탐색{SetColor=Default}을 하면\n다양한 {SetColor=Gold}소재를 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_Explore_m01_002: 획득하는 소재는 해당 스폿의 {SetColor=Gold}출현율{SetColor=Default}에 따라\n무작위로 달라집니다
+MID_TUT_Gmap_Feast_t: 연회 스폿
+MID_TUT_Gmap_Feast_m01_001: {SetColor=Gold}연회 스폿{SetColor=Default}에서 {SetColor=Gold}연회{SetColor=Default}를 열면 {SetColor=Gold}동료 전원{SetColor=Default}의\n{SetColor=Gold}HP와 마법 횟수가 회복{SetColor=Default}되고 {SetColor=Gold}지원도가 상승{SetColor=Default}합니다
+MID_TUT_Gmap_Feast_m01_002: 회복량은 사용하는 {SetColor=Gold}식재료의 종류와\n양{SetColor=Default}에 따라 {SetColor=Gold}달라집니다{SetColor=Default}
+MID_TUT_Gmap_EncounterBattle_t: 조우전
+MID_TUT_Gmap_EncounterBattle_m01_001: {SetColor=Gold}월드 맵{SetColor=Default}에서 {SetColor=Gold}적과 접촉{SetColor=Default}하면 {SetColor=Gold}조우전{SetColor=Default}이 시작됩니다\n전투를 통해 경험치, 지원도, 아이템 등을 획득하고\n아군을 육성해 봅시다
+MID_TUT_Gmap_EncounterBattle_m01_002: 가끔 제3군의 적이 출현하는 경우도 있는데\n그들이 도망치기 전에 격파하면\n더 많은 경험치와 아이템을 획득할 수 있습니다
+MID_TUT_Gmap_Merchant_t: 월드 맵에서의 거래
+MID_TUT_Gmap_Merchant_m01_001: {SetColor=Gold}상인이 있는 스폿{SetColor=Default}에서는\n{SetColor=Gold}상품을 구입{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_Merchant_m01_002: {SetColor=Gold}반달 상회원이 있는 스폿{SetColor=Default}에서는\n{SetColor=Gold}소재{SetColor=Default}를 무기나 아이템으로 {SetColor=Gold}교환{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_Merchant_m01_003: 각자 취급하는 상품이 다르니\n{SetColor=Gold}스폿에 커서를 맞추고 {ButtonZL}{SetColor=Default}을 눌러 확인해 봅시다
+MID_TUT_Gmap_Seki_t: 관문 스폿
+MID_TUT_Gmap_Seki_m01_001: {SetColor=Gold}관문 스폿{SetColor=Default}은 관문마다 정해진\n{SetColor=Gold}명성 LV{SetColor=Default}에 도달하지 못하면 {SetColor=Gold}통과할 수 없습니다{SetColor=Default}
+MID_TUT_Gmap_Seki_m01_002: 명성은 이야기 진행, 퀘스트 달성,\n특정 시설 이용 등을 통해 높일 수 있습니다
+MID_TUT_Gmap_DungeonSpot_t: 던전 스폿
+MID_TUT_Gmap_DungeonSpot_m01_001: {SetColor=Gold}던전 스폿{SetColor=Default}에서는 던전에 들어가\n내부를 {SetColor=Gold}탐색{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_DungeonSpot_m01_002: 배회하는 적들을 쓰러뜨리면 {SetColor=Gold}경험치를 얻을{SetColor=Default} 수 있고\n나무 상자나 광석을 파괴하면\n{SetColor=Gold}소재 등을 획득{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_DungeonSpot_m01_003: 쓰러뜨린 적은 다음 장이 시작되면 부활하며\n소재는 던전에 재입장하면 다시 획득할 수 있습니다
+MID_TUT_Gmap_DungeonSpot_m01_004: 던전에 {SetColor=Gold}다른 출입구가 있는{SetColor=Default} 경우\n{SetColor=Gold}그곳을 통해 밖으로 나가면{SetColor=Default}, 통행이 가능한\n{SetColor=Gold}새로운 길{SetColor=Default}이 월드 맵에 {SetColor=Gold}출현{SetColor=Default}하기도 합니다
+MID_TUT_Gmap_TempleSpot_t: 신전 스폿
+MID_TUT_Gmap_TempleSpot_m01_001: {SetColor=Gold}신전 스폿{SetColor=Default}에서는 안으로 들어가\n내부를 {SetColor=Gold}둘러볼{SetColor=Default} 수 있습니다
+MID_TUT_Gmap_TempleSpot_m01_002: 신전 스폿에서 이용할 수 있는 기능은\n다그시온에 있는 신전과 동일합니다
+MID_TUT_Gmap_SimpleBase_t: 준거점 스폿
+MID_TUT_Gmap_SimpleBase_m01_001: {SetColor=Gold}준거점 스폿{SetColor=Default}에서는 {SetColor=Gold}상점을 이용{SetColor=Default}할 수 있습니다\n상점의 종류와 상품은 장소에 따라 다릅니다
+MID_TUT_Gmap_SimpleBase_m01_002: 주민들과 대화를 하면\n{SetColor=Gold}모험에 도움이 되는 정보{SetColor=Default}를 얻을 수도 있습니다
+MID_TUT_Gmap_Station_t: 역 스폿
+MID_TUT_Gmap_Station_m01_001: {SetColor=Gold}역 스폿{SetColor=Default}에서는 {SetColor=Gold}승합 마차{SetColor=Default}를 타고\n다른 역 스폿까지 {SetColor=Gold}단시간에 이동{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_Station_m01_002: 목적지는 같은 노선 내의\n{SetColor=Gold}개방된 역 스폿{SetColor=Default} 중에서 선택할 수 있습니다
+MID_TUT_Gmap_Base_t: 거점 스폿
+MID_TUT_Gmap_Base_m01_001: {SetColor=Gold}거점 스폿{SetColor=Default}에서는 안으로 들어가\n내부를 {SetColor=Gold}둘러볼{SetColor=Default} 수 있습니다
+MID_TUT_Gmap_Base_m01_002: 스폿에 커서를 맞추고 {ButtonZL}을 누르면\n거점 내의 상점 종류와 상품을 확인할 수 있습니다
+MID_TUT_Gmap_UnderworldGateStatus_t: 명계의 문
+MID_TUT_Gmap_UnderworldGateStatus_m01_001: {SetColor=Gold}자유행동 기간이 종료{SetColor=Default}되면 {SetColor=Gold}명계의 문이 실체화{SetColor=Default}되고\n{SetColor=Gold}문을 파괴하기 위한 전투에 도전{SetColor=Default}할 수 있게 됩니다
+MID_TUT_Gmap_UnderworldGateStatus_m01_002: {SetColor=Gold}실체화를 앞둔 문{SetColor=Default}은 {SetColor=Gold}색깔이 변하며{SetColor=Default}, {SetColor=Gold}스폿 정보{SetColor=Default}에서\n실체화까지 남은 시간을 {SetColor=Gold}확인{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_TroopFormation_t: 부대 편성
+MID_TUT_Gmap_TroopFormation_m01_001: 구세편에서는 {SetColor=Gold}원하는 동료들로 부대를 편성{SetColor=Default}해\n월드 맵을 모험할 수 있습니다
+MID_TUT_Gmap_TroopFormation_m01_002: 부대는 {AvatarName}의\n「{SetColor=Gold}부대 편성{SetColor=Default}」을 통해 편성할 수 있습니다
+MID_TUT_Gmap_TroopFormation_m01_003: {SetColor=Gold}{AvatarName}{ConsonantVowel=은|는} 어느 부대에도 소속되지 않고{SetColor=Default}\n다그시온에 상주하며 군 전체를 지휘합니다
+MID_TUT_Gmap_TroopFormation_m01_004: {AvatarName} 외의 {SetColor=Gold}동료가 전멸{SetColor=Default}하면\n부대를 편성할 수 없게 되어\n{SetColor=Gold}게임 오버{SetColor=Default}가 되니 주의합시다
+MID_TUT_Gmap_StandbyUnit_t: 대기조의 경험치
+MID_TUT_Gmap_StandbyUnit_m01_001: {SetColor=Gold}부대에 편성되지 않은 동료들{SetColor=Default}은\n다그시온에서 훈련을 하면서 대기하며\n{SetColor=Gold}턴 종료 시 경험치를 획득{SetColor=Default}합니다
+MID_TUT_Gmap_IshmalComing_t: {AvatarName}의 참가
+MID_TUT_Gmap_IshmalComing_m01_001: 부대가 전투를 하거나 던전 탐색을 할 때는\n{SetColor=Gold}{AvatarName}{ConsonantVowel=이|가}{SetColor=Default} 순간 이동하여 함께 {SetColor=Gold}참가{SetColor=Default}합니다
+MID_TUT_Gmap_Miasma_t: 독기
+MID_TUT_Gmap_Miasma_m01_001: 스폿에 {SetColor=Gold}독기{SetColor=Default}가 발생하면 독기를 {SetColor=Gold}제거{SetColor=Default}할 때까지\n해당 {SetColor=Gold}스폿의 기능을 이용할 수 없게{SetColor=Default} 됩니다
+MID_TUT_Gmap_Miasma_m01_002: 또한 {SetColor=Gold}명계의 문{SetColor=Default}에 도전하기 위해서는\n문이 위치한 주의 {SetColor=Gold}독기를 모두 제거{SetColor=Default}해야 합니다
+MID_TUT_Gmap_Miasma_m01_003: {SetColor=Gold}독기 제거{SetColor=Default} 커맨드를 사용하면 독기가 한 단계 제거되고\n독기가 소멸되면 보수를 획득합니다
+MID_TUT_Gmap_MultipleTroops_t: 부대 동시 운용
+MID_TUT_Gmap_MultipleTroops_m01_001: {SetColor=Gold}여러 부대{SetColor=Default}를 {SetColor=Gold}편성{SetColor=Default}하면 해당 부대들을\n{SetColor=Gold}각각 독립적으로 운용{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_MultipleTroops_m01_002: 모든 부대의 행동을 끝내거나\n턴 종료 커맨드를 선택하면 다음 턴으로 넘어갑니다
+MID_TUT_Gmap_UnderworldGate_t: 명계의 문에서의 전투
+MID_TUT_Gmap_UnderworldGate_m01_001: {SetColor=Gold}실체화된 명계의 문{SetColor=Default}으로 이동하면\n문을 지키는 {SetColor=Gold}명장과 싸울{SetColor=Default} 수 있습니다
+MID_TUT_Gmap_UnderworldGate_m01_002: 출격시킬 유닛은 {SetColor=Gold}명계의 문에 있는 부대{SetColor=Default}뿐만 아니라\n{SetColor=Gold}인접한 스폿에 있는 부대{SetColor=Default}에서도 선택할 수 있습니다
+MID_TUT_Gmap_GateDestruction_t: 명계의 문 파괴
+MID_TUT_Gmap_GateDestruction_m01_001: 명계의 문 전투에서 승리한 후 {SetColor=Gold}문 파괴{SetColor=Default} 커맨드를\n사용하면 {SetColor=Gold}문을 파괴해 보수를 획득{SetColor=Default}하고\n{SetColor=Gold}이야기를 진행{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_GateDestruction_m01_002: {SetColor=Gold}문을 파괴하지 않고 행동을 계속할{SetColor=Default} 수도 있지만\n{SetColor=Gold}기한{SetColor=Default}이 되면 이야기가 강제로 진행됩니다
+MID_TUT_Gmap_Defense_t: 명계병의 다그시온 침공
+MID_TUT_Gmap_Defense_m01_001: {SetColor=Gold}독기{SetColor=Default}에서 출현한 {SetColor=Gold}명계병{SetColor=Default}은\n다그시온을 파괴하기 위해 {SetColor=Gold}접근{SetColor=Default}해 옵니다
+MID_TUT_Gmap_Defense_m01_002: {SetColor=Gold}명계병이 다그시온에 도달{SetColor=Default}하면 전투 맵에서 진행되는\n다그시온 방어전이 시작됩니다
+MID_TUT_Gmap_Defense_m01_003: 방어전에서는 {SetColor=Gold}매우 강한 적들이 소환{SetColor=Default}되므로\n명계병이 다그시온에 도달하기 전에\n격파하는 것이 좋습니다
+MID_TUT_Gmap_Defense_m01_004: {SetColor=Gold}방어전에서 패배{SetColor=Default}하면 다그시온의 {SetColor=Gold}내구도가 감소{SetColor=Default}하며\n내구도가 {SetColor=Gold}0이 되면 게임 오버{SetColor=Default}가 됩니다
+MID_TUT_Gmap_DefenseBattle_t: 다그시온 방어전
+MID_TUT_Gmap_DefenseBattle_m01_001: {SetColor=Gold}다그시온 방어전{SetColor=Default}에서는 매우 강한 적과 싸우게 되는데\n{SetColor=Gold}패배{SetColor=Default}해도 {SetColor=Gold}이야기는 계속 진행{SetColor=Default}됩니다
+MID_TUT_Gmap_DefenseBattle_m01_002: 또한 {SetColor=Gold}격파된 아군{SetColor=Default}은 승패에 관계없이\n방어전 종료 후 {SetColor=Gold}부활{SetColor=Default}합니다
+MID_TUT_Gmap_DefenseBattle_m01_003: 단, 패배하면 {SetColor=Gold}다그시온의 내구도가 1 감소{SetColor=Default}하고\n내구도가 {SetColor=Gold}0이 되면 게임 오버{SetColor=Default}가 됩니다
+MID_TUT_Gmap_MultipleGate_t: 명계의 문 동시 출현
+MID_TUT_Gmap_MultipleGate_m01_001: {SetColor=Gold}명계의 문이 여러 개 출현{SetColor=Default}한 경우에는\n{SetColor=Gold}모든 문을 공략{SetColor=Default}해야 합니다
+MID_TUT_Gmap_MultipleGate_m01_002: 기한 내에 모든 문을 공략하지 못하면\n{SetColor=Gold}게임 오버{SetColor=Default}가 되니 주의합시다
+MID_TUT_Gmap_BigGate_t: 명계의 문(대형)
+MID_TUT_Gmap_BigGate_m01_001: {SetColor=Gold}명계의 문(대형){SetColor=Default}에서는\n일반 문보다 {SetColor=Gold}더 많은 적이 출현{SetColor=Default}합니다
+MID_TUT_Gmap_BigGate_m01_002: 그 대신 {SetColor=Gold}출격 가능한 인원{SetColor=Default}도 평소보다 {SetColor=Gold}많아지므로{SetColor=Default}\n여러 부대를 이 문 또는 문에 인접한 스폿에 배치하면\n{SetColor=Gold}혼성 부대{SetColor=Default}를 구성해 전투에 도전할 수 있습니다
+MID_TUT_Gmap_Reconstruction_t: 파손된 스폿의 재건
+MID_TUT_Gmap_Reconstruction_m01_001: {SetColor=Gold}파손된 스폿{SetColor=Default}에서는\n해당 장소의 원래 {SetColor=Gold}기능을 이용할 수 없습니다{SetColor=Default}
+MID_TUT_Gmap_Reconstruction_m01_002: 필요한 {SetColor=Gold}소재{SetColor=Default}를 모아 「{SetColor=Gold}재건{SetColor=Default}」을 하면\n파손된 스폿의 재건 작업이 시작됩니다
+MID_TUT_Gmap_Reconstruction_m01_003: {SetColor=Gold}몇 턴 후{SetColor=Default}에 재건이 {SetColor=Gold}완료{SetColor=Default}되면 {SetColor=Gold}보수를 획득{SetColor=Default}하고\n기능을 다시 이용할 수 있게 됩니다
+MID_TUT_Gmap_LastGate_t: 마신 발로르
+MID_TUT_Gmap_LastGate_m01_001: {SetColor=Gold}마신 발로르{SetColor=Default}와는 언제든지 결전을 벌일 수 있지만\n바로 도전해도 승리하기는 어렵습니다
+MID_TUT_Gmap_LastGate_m01_002: {SetColor=Gold}명계의 문을 파괴{SetColor=Default}하면 그만큼 {SetColor=Gold}발로르의 힘이 약화{SetColor=Default}되니\n일단은 문을 파괴하는 것을 우선시합시다
+MID_TUT_Gmap_ReconstructionShorten_t: 재건 파병
+MID_TUT_Gmap_ReconstructionShorten_m01_001: {SetColor=Gold}재건 중인 스폿{SetColor=Default}에 파병을 하면\n재건에 걸리는 {SetColor=Gold}시간을 단축{SetColor=Default}할 수 있습니다
+MID_TUT_Gmap_Fort_t: 요새 스폿
+MID_TUT_Gmap_Fort_m01_001: 구세편에서는 관문 스폿이 {SetColor=Gold}요새 스폿{SetColor=Default}으로 바뀝니다
+MID_TUT_Gmap_Fort_m01_002: 요새 스폿에서 {SetColor=Gold}방어 파병{SetColor=Default}을 하면\n해당 스폿을 통과하려는 {SetColor=Gold}적 부대{SetColor=Default}를\n군단병이 {SetColor=Gold}일정 횟수{SetColor=Default}만큼 {SetColor=Gold}격파{SetColor=Default}해 줍니다
+MID_TUT_Gmap_DefenseBattle2_t: 시민 호위
+MID_TUT_Gmap_DefenseBattle2_m01_001: 다그시온 방어전에서는 {SetColor=Gold}시민이 격파{SetColor=Default}될 때마다\n{SetColor=Gold}적의 능력{SetColor=Default}이 {SetColor=Gold}크게 상승{SetColor=Default}합니다
+MID_TUT_Gmap_DefenseBattle2_m01_002: 또한 시민이 {SetColor=Gold}모두 격파{SetColor=Default}되면 {SetColor=Gold}패배{SetColor=Default}하게 되니\n주의해서 싸웁시다
+MID_TUT_ShortBattle_ShortBattle_t: 퀵 배틀
+MID_TUT_ShortBattle_ShortBattle_m01_001: 던전에서의 전투는 아군과 적군이\n번갈아 가며 공격하는 {SetColor=Gold}퀵 배틀{SetColor=Default} 형식으로 진행됩니다
+MID_TUT_ShortBattle_ShortBattle_m01_002: {SetColor=Gold}1라운드당 1번씩 공격을 선택{SetColor=Default}할 수 있고\n아군과 적군이 모두 행동을 마치면\n{SetColor=Gold}다음 라운드{SetColor=Default}로 넘어갑니다
+MID_TUT_ShortBattle_ShortBattle_m01_003: {SetColor=Gold}모든 유닛의 HP를 합산{SetColor=Default}한 것이 {SetColor=Gold}부대의 HP{SetColor=Default}가 되며\n{SetColor=Gold}적군의 HP를 0{SetColor=Default}으로 만들면 {SetColor=Gold}승리{SetColor=Default}합니다
+MID_TUT_ShortBattle_Cooperation_t: 연계
+MID_TUT_ShortBattle_Cooperation_m01_001: 퀵 배틀에서는 동료와 함께 적을 공격할 수 있는데\n이를 {SetColor=Gold}연계{SetColor=Default}라고 합니다
+MID_TUT_ShortBattle_Cooperation_m01_002: 동료의 {SetColor=Gold}무기{SetColor=Default}, {SetColor=Gold}마법{SetColor=Default}, {SetColor=Gold}지원 LV{SetColor=Default}에 따라\n{SetColor=Gold}다양한 연계{SetColor=Default}를 사용할 수 있습니다
+MID_TUT_ShortBattle_Cooperation_m01_003: 예를 들어 {SetColor=Gold}공격 연계{SetColor=Default}는 선택한 동료와 함께 공격하여\n{SetColor=Gold}적에게 큰 대미지를 줄{SetColor=Default} 수 있습니다
+MID_TUT_ShortBattle_Cooperation_m01_004: {SetColor=Gold}연계를 하면 해당 동료와의 지원도도 상승{SetColor=Default}하니\n적극적으로 사용합시다
+MID_TUT_ShortBattle_Cooperation_m01_005: 연계를 사용하려면 {SetColor=Gold}LP(링크 포인트){SetColor=Default}가 필요합니다\nLP는 {SetColor=Gold}던전 탐색 개시 시 MAX{SetColor=Default} 상태로 시작합니다
+MID_TUT_ShortBattle_MVP_t: 퀵 배틀 MVP
+MID_TUT_ShortBattle_MVP_m01_001: 적에게 마지막 일격을 가해 {SetColor=Gold}승리를 결정지은 유닛{SetColor=Default}은\n전투 후 {SetColor=Gold}MVP{SetColor=Default}로 선정됩니다
+MID_TUT_ShortBattle_MVP_m01_002: MVP는 {SetColor=Gold}경험치를 많이 얻을{SetColor=Default} 수 있으니\n누구를 MVP로 만들지 잘 생각하며 행동합시다
+MID_TUT_ShortBattle_Dungeon_t: 던전 탐색 중의 전투
+MID_TUT_ShortBattle_Dungeon_m01_001: 던전 안을 {SetColor=Gold}배회하고 있는 적들{SetColor=Default}과\n{SetColor=Gold}접촉{SetColor=Default}하면 {SetColor=Gold}퀵 배틀{SetColor=Default}이 발생합니다
+MID_TUT_ShortBattle_Dungeon_m01_002: {SetColor=Gold}{ButtonY}를 누르면{SetColor=Default} 무기 등으로 {SetColor=Gold}공격{SetColor=Default}할 수 있으며\n공격을 {SetColor=Gold}적에게 명중{SetColor=Default}시키면 {SetColor=Gold}선제공격{SetColor=Default}을 가합니다
+MID_TUT_ShortBattle_Auto_t: 퀵 배틀 위임
+MID_TUT_ShortBattle_Auto_m01_001: 퀵 배틀 중 {SetColor=Gold}{ButtonX}를 누르면 위임{SetColor=Default} 상태가 되어\n유닛이 {SetColor=Gold}스스로 상황에 맞는 행동{SetColor=Default}을 합니다
+MID_TUT_ShortBattle_Auto_m01_002: 위임 중에 {SetColor=Gold}{LR}를 누르면{SetColor=Default}\n행동할 {SetColor=Gold}유닛을 변경{SetColor=Default}할 수 있습니다
+MID_TUT_ShortBattle_Auto_m01_003: {SetColor=Gold}한 번 더 {ButtonX}를 누르면{SetColor=Default} 위임이 {SetColor=Gold}해제{SetColor=Default}됩니다
+MID_TUT_ShortBattle_EventBattle_t: 이벤트 배틀
+MID_TUT_ShortBattle_EventBattle_m01_001: 이야기를 진행하다 보면\n중요한 퀵 배틀이 발생할 때가 있는데\n이를 {SetColor=Gold}이벤트 배틀{SetColor=Default}이라고 합니다
+MID_TUT_ShortBattle_EventBattle_m01_002: 이전 퀵 배틀에서 위임 기능을 사용했더라도\n위임이 해제된 상태로 배틀이 시작되지만\n{ButtonX}를 누르면 다시 해당 기능을 사용할 수 있습니다
+MID_TUT_ShortBattle_DestroyedItems_t: 던전 내 파괴 가능한 물체
+MID_TUT_ShortBattle_DestroyedItems_m01_001: 던전 안에는 상자 등 {SetColor=Gold}파괴 가능한 물체{SetColor=Default}가 있는데\n{SetColor=Gold}{ButtonY}를 눌러 공격{SetColor=Default}하면 {SetColor=Gold}파괴{SetColor=Default}할 수 있습니다
+MID_TUT_ShortBattle_DestroyedItems_m01_002: 물체를 파괴하면 {SetColor=Gold}아이템을 획득{SetColor=Default}하거나\n{SetColor=Gold}LP를 회복{SetColor=Default}할 수 있습니다
+MID_TUT_ShortBattle_DngTreasureChest_t: 던전의 보물 상자
+MID_TUT_ShortBattle_DngTreasureChest_m01_001: 던전의 {SetColor=Gold}보물 상자{SetColor=Default}에 다가가서 {SetColor=Gold}{ButtonA}를 누르면{SetColor=Default}\n안에 있는 {SetColor=Gold}아이템 등을 획득{SetColor=Default}할 수 있습니다
+MID_TUT_ShortBattle_DngTreasureChest_m01_002: 아직 열어 보지 않은 보물 상자의 수는\n화면 오른쪽 위에 표시됩니다
+MID_TUT_ShortBattle_RestingPlace_t: 던전에서의 휴식
+MID_TUT_ShortBattle_RestingPlace_m01_001: 던전 안에는 {SetColor=Gold}휴식{SetColor=Default}을 취해\n{SetColor=Gold}HP와 마법 횟수를 회복{SetColor=Default}할 수 있는 장소가 있습니다
+MID_TUT_ShortBattle_RestingPlace_m01_002: 휴식을 취하려면 {SetColor=Gold}최소 1개 이상의 식재료{SetColor=Default}가 필요하며\n{SetColor=Gold}회복량{SetColor=Default}은 사용한 {SetColor=Gold}재료의 종류와 수{SetColor=Default}에 따라 {SetColor=Gold}달라집니다{SetColor=Default}
+MID_TUT_ShortBattle_RestingPlace_m01_003: 휴식 기능은 던전 탐색 중 {SetColor=Gold}한 번만{SetColor=Default} 이용할 수 있으며\n{SetColor=Gold}적에게 쫓기고 있을 때{SetColor=Default}는 이용이 불가능합니다
+MID_TUT_ShortBattle_FieldKill_t: 던전에서의 즉시 처치
+MID_TUT_ShortBattle_FieldKill_m01_001: 아군의 평균 LV이 적군보다 훨씬 높은 경우\n{SetColor=Gold}즉시 처치 가능{SetColor=Default}이라는 메시지가 표시되며\n{SetColor=Gold}{ButtonY}를 눌러 공격을 맞히면{SetColor=Default} 바로 {SetColor=Gold}승리{SetColor=Default}합니다
+MID_TUT_Root_SalvationKAI_t: 마안의 카이의 능력
+MID_TUT_Root_SalvationKAI_m01_001: {SetColor=Gold}카이가 동료{SetColor=Default}로 있으면 {SetColor=Gold}축사{SetColor=Default}가 개방되며\n{SetColor=Gold}승용 동물을 배치{SetColor=Default}할 수 있습니다
+MID_TUT_Root_SalvationKAI_m01_002: {SetColor=Gold}카이가 소속된 부대{SetColor=Default}는 {SetColor=Gold}재배{SetColor=Default}와 {SetColor=Gold}유인{SetColor=Default}을 사용할 수 있고\n던전 탐색 시 {SetColor=Gold}투시{SetColor=Default}가 가능합니다
+MID_TUT_Root_SalvationKAI_m01_003: 또한 모든 부대가 {SetColor=Gold}수확{SetColor=Default}과 {SetColor=Gold}포획{SetColor=Default}을 할 수 있습니다
+MID_TUT_Root_SalvationDIT_t: 미영귀 디트리히의 능력
+MID_TUT_Root_SalvationDIT_m01_001: {SetColor=Gold}디트리히가 동료{SetColor=Default}로 있으면 {SetColor=Gold}전투 기술 강화{SetColor=Default}가 가능하며\n디트리히가 {SetColor=Gold}다그시온에 있을 때{SetColor=Default}\n{SetColor=Gold}비전 전수{SetColor=Default}를 할 수 있습니다
+MID_TUT_Root_SalvationDIT_m01_002: 또한 {SetColor=Gold}디트리히가 소속된 부대{SetColor=Default}는\n{SetColor=Gold}칼날 울림{SetColor=Default}을 사용할 수 있습니다
+MID_TUT_Root_SalvationSEO_t: 파군성 세오도라의 능력
+MID_TUT_Root_SalvationSEO_m01_001: {SetColor=Gold}세오도라가 동료{SetColor=Default}로 있으면 {SetColor=Gold}군단 이송{SetColor=Default}이 가능하며\n{SetColor=Gold}군단병을 배치{SetColor=Default}할 수 있습니다
+MID_TUT_Root_SalvationSEO_m01_002: {SetColor=Gold}세오도라가 소속된 부대{SetColor=Default}는 {SetColor=Gold}병사 모집{SetColor=Default},\n{SetColor=Gold}격려 연설{SetColor=Default}, {SetColor=Gold}파병{SetColor=Default}을 사용할 수 있습니다
+MID_TUT_Root_SalvationSEO_m01_003: 또한 병사 모집으로 모집할 수 있는 병사의 등급과\n파병할 수 있는 군단병의 수가 최대치로 설정됩니다
+MID_TUT_Root_SalvationLED_t: 유현의 연주자 레다의 능력
+MID_TUT_Root_SalvationLED_m01_001: {SetColor=Gold}레다가 동료{SetColor=Default}로 있으면 누구나\n술집의 {SetColor=Gold}음료 담당자{SetColor=Default}를 이용할 수 있습니다
+MID_TUT_Root_SalvationLED_m01_002: 또한 레다가 {SetColor=Gold}다그시온에 있을 때{SetColor=Default}\n술집 주인으로터 {SetColor=Gold}공연{SetColor=Default} 의뢰를 받을 수 있습니다
+MID_TUT_Root_SalvationANH_t: 용파(아나톨리아)
+MID_TUT_Root_SalvationANH_m01_001: 아나톨리아의 블레이즈 아츠 {SetColor=Gold}용파{SetColor=Default}는\n{SetColor=Gold}범위 내 적에게 대미지{SetColor=Default}를 주고 {SetColor=Gold}장애물을 파괴{SetColor=Default}할 수\n있는 기술로, 단계가 오를수록 공격 범위가 넓어집니다
+MID_TUT_Root_SalvationBEL_t: 각성(베르트랑)
+MID_TUT_Root_SalvationBEL_m01_001: 베르트랑의 블레이즈 아츠 {SetColor=Gold}각성{SetColor=Default}은\n다음 플레이어 페이즈가 개시될 때까지\n자신의 {SetColor=Gold}스테이터스를 상승{SetColor=Default}시키는 기술입니다
+MID_TUT_Root_SalvationBEL_m01_002: 각성을 사용한 페이즈에는\n{SetColor=Gold}이어서 적을 공격{SetColor=Default}하는 것도 가능합니다
+MID_TUT_Root_SalvationTAL_t: 명주(타리문)
+MID_TUT_Root_SalvationTAL_m01_001: 타리문의 블레이즈 아츠 {SetColor=Gold}명주{SetColor=Default}는\n{SetColor=Gold}떨어져 있는 여러 적{SetColor=Default}에게\n{SetColor=Gold}상태 이상{SetColor=Default} 효과를 부여하는 기술입니다
+MID_TUT_Root_SalvationTAL_m01_002: 상태 이상 효과는 전투를 하거나\n1턴이 지날 때까지 지속됩니다
+MID_TUT_Root_SalvationORH_t: 수호천사의 업(오르헬)
+MID_TUT_Root_SalvationORH_m01_001: 오르헬의 블레이즈 아츠 {SetColor=Gold}수호천사의 업{SetColor=Default}은\n{SetColor=Gold}범위 공격인 슈트랄{SetColor=Default}과 {SetColor=Gold}초원거리 공격인 란체{SetColor=Default}를\n상황에 따라 선택할 수 있게 해 주는 기술입니다
+MID_TUT_Root_HelpePeople_t: 주민 지원(카이)
+MID_TUT_Root_HelpePeople_m01_001: 도움이 필요한 사람과 대화하면\n{SetColor=Gold}주민 지원 퀘스트{SetColor=Default}를 받을 수 있으며\n해결하면 {SetColor=Gold}명성이 높아지고{SetColor=Default} 보수를 획득할 수 있습니다
+MID_TUT_Root_HelpePeople_m01_002: 도움이 필요한 사람에게는 {SetColor=Gold}아이콘이 표시{SetColor=Default}되는데\n이는 거점 지도에서도 확인할 수 있습니다
+MID_TUT_Root_HelpePeople_m01_003: 명성 LV을 올리면 할 수 있는 일이 늘어나니\n열심히 주민 지원을 해서 명성을 높입시다
+MID_TUT_Root_HelpePeople_m01_004: 수락한 주민 지원 퀘스트의 내용 및 진행 상황은\n모험 수첩의 퀘스트 목록에서도 확인할 수 있습니다
+MID_TUT_Root_Practice_t: 지도(카이)
+MID_TUT_Root_Practice_m01_001: {SetColor=Gold}명성 LV이 올라가면{SetColor=Default} 특정 인물에게 {SetColor=Gold}지도{SetColor=Default}를 받아\n다양한 혜택을 얻을 수 있습니다
+MID_TUT_Root_Practice_m01_002: 지도를 해 주는 인물에게는 {SetColor=Gold}아이콘이 표시{SetColor=Default}되는데\n이는 거점 지도에서도 확인할 수 있습니다
+MID_TUT_Root_Practice_m01_003: 지도 내용은 인물은 물론 명성 LV에 따라서도 다르니\n명성을 높인 후 방문해 봅시다
+MID_TUT_Root_Field_t: 재배(카이)
+MID_TUT_Root_Field_m01_001: {SetColor=Gold}공터 스폿{SetColor=Default}에서 {SetColor=Gold}재배{SetColor=Default} 커맨드를 사용하면\n식물을 키울 수 있는 {SetColor=Gold}밭{SetColor=Default}을 만들 수 있습니다
+MID_TUT_Root_Field_m01_002: 밭을 만들기 위해서는 {SetColor=Gold}식물이 하나 필요{SetColor=Default}하며\n재배를 하면 {SetColor=Gold}몇 턴 후{SetColor=Default}에 {SetColor=Gold}수확{SetColor=Default}할 수 있습니다
+MID_TUT_Root_Field_m01_003: {SetColor=Gold}수확{SetColor=Default}은 해당 스폿을 {SetColor=Gold}통과하는 것만으로도{SetColor=Default} 가능하며\n수확 후에도 같은 식물이 계속해서 재배됩니다
+MID_TUT_Root_Field_m01_004: {SetColor=Gold}수확을 여러 번 하면{SetColor=Default} 밭이 {SetColor=Gold}공터{SetColor=Default}로 바뀝니다
+MID_TUT_Root_Capture_t: 유인(카이)
+MID_TUT_Root_Capture_m01_001: {SetColor=Gold}동물 스폿{SetColor=Default}에서 {SetColor=Gold}유인{SetColor=Default} 커맨드를 사용하면\n{SetColor=Gold}미끼{SetColor=Default}를 설치해 {SetColor=Gold}승용 동물을 유인{SetColor=Default}할 수 있습니다
+MID_TUT_Root_Capture_m01_002: 유인 사용 후 {SetColor=Gold}몇 턴이 지나면{SetColor=Default} 동물이 나타나며\n이때 {SetColor=Gold}포획{SetColor=Default} 커맨드를 사용할 수 있게 됩니다
+MID_TUT_Root_Capture_m01_003: 포획 {SetColor=Gold}성공{SetColor=Default} 시 {SetColor=Gold}승용 동물을 획득{SetColor=Default}하지만\n{SetColor=Gold}실패{SetColor=Default}하면 놓쳐 버리며\n때때로 {SetColor=Gold}다른 생물과의 전투{SetColor=Default}가 벌어지기도 합니다
+MID_TUT_Root_Capture_m01_004: 출현하는 동물이 {SetColor=Gold}좋아하는 먹이{SetColor=Default}를 미끼로 쓰면\n{SetColor=Gold}성공할 확률이 높아집니다{SetColor=Default}
+MID_TUT_Root_Fertilizer_t: 식물의 변화 및 변경(카이)
+MID_TUT_Root_Fertilizer_m01_001: 가끔 밭에서는 재배하던 것과는 다른\n{SetColor=Gold}뜻밖의 식물{SetColor=Default}이 수확되는 경우가 있습니다
+MID_TUT_Root_Fertilizer_m01_002: 또한 이미 밭이 있는 스폿에서 {SetColor=Gold}새로 재배{SetColor=Default} 커맨드를\n사용하면 {SetColor=Gold}다른 식물을 재배할 밭{SetColor=Default}을 만들 수 있습니다
+MID_TUT_Root_Stable_t: 돌보기(카이)
+MID_TUT_Root_Stable_m01_001: 축사에서는 포획한 승용 동물에게 「{SetColor=Gold}돌보기{SetColor=Default}」를 통해\n{SetColor=Gold}먹이를 줘서 친해질{SetColor=Default} 수 있습니다
+MID_TUT_Root_Stable_m01_002: 계속 돌봐 주면 {SetColor=Gold}우호 LV이 상승{SetColor=Default}하여\n{SetColor=Gold}기승 스킬을 사용할{SetColor=Default} 수 있게 됩니다
+MID_TUT_Root_Stable_m01_003: 기승 스킬은 해당 동물을 {SetColor=Gold}타고 있는 동안 발현{SetColor=Default}되며\n파트너에게 다양한 효과를 부여합니다
+MID_TUT_Root_Stable_m01_004: {SetColor=Gold}좋아하는 먹이{SetColor=Default}를 주면\n{SetColor=Gold}우호 LV을 더 쉽게 올릴{SetColor=Default} 수 있으니\n동물의 취향을 잘 보고 먹이를 선택합시다
+MID_TUT_Root_Stable2_t: 축사(카이)
+MID_TUT_Root_Stable2_m01_001: 축사에서는 {SetColor=Gold}승용 동물{SetColor=Default}의 {SetColor=Gold}이름{SetColor=Default}을 짓거나\n{SetColor=Gold}돌보기{SetColor=Default}를 통해 {SetColor=Gold}우호를 다질{SetColor=Default} 수 있습니다
+MID_TUT_Root_Stable2_m01_002: 동물을 {SetColor=Gold}놓아주는{SetColor=Default} 것도 가능한데\n우호 LV에 따라서는 이때 {SetColor=Gold}아이템{SetColor=Default}을 얻기도 합니다
+MID_TUT_Root_Perspective_t: 투시(카이)
+MID_TUT_Root_Perspective_m01_001: 카이가 {SetColor=Gold}던전에 있을 때\n{ButtonZL}을 길게 누르면{SetColor=Default} 벽을 {SetColor=Gold}투시{SetColor=Default}할 수 있으며\n이때 {SetColor=Gold}적의 모습{SetColor=Default}은 붉은 실루엣으로 표시됩니다
+MID_TUT_Root_Perspective_m01_002: 참고로 {SetColor=Gold}투시 중에는 이동할 수 없으니{SetColor=Default}\n적에게 습격당하지 않도록 주의합시다
+MID_TUT_Root_Reinforcement_t: 전투 기술 강화(디트리히)
+MID_TUT_Root_Reinforcement_m01_001: {SetColor=Gold}스미르노스 신전{SetColor=Default}에서 참배객 접수원에게 말을 걸면\n{SetColor=Gold}전투 기술 강화{SetColor=Default}를 할 수 있습니다
+MID_TUT_Root_Reinforcement_m01_002: 전투 기술 강화를 하면 {SetColor=Gold}위력과 명중이 상승하거나\n내구 소비가 감소하는{SetColor=Default} 등, 전투 기술이 강해집니다
+MID_TUT_Root_Reinforcement_m01_003: 강화를 하기 위해 필요한 {SetColor=Gold}마향석{SetColor=Default}은 {SetColor=Gold}칼날 울림으로\n발견한 적을 쓰러뜨리면{SetColor=Default} 얻을 수 있습니다
+MID_TUT_Root_Blade_t: 칼날 울림(디트리히)
+MID_TUT_Root_Blade_m01_001: 월드 맵에서 {SetColor=Gold}칼날 울림{SetColor=Default} 커맨드를 사용하면\n{SetColor=Gold}숨어 있는 적{SetColor=Default}을 발견해 {SetColor=Gold}조우전{SetColor=Default}을 벌일 수 있습니다
+MID_TUT_Root_Blade_m01_002: 칼날 울림은 {SetColor=Gold}사용할 때마다{SetColor=Default} 탐지 범위가 {SetColor=Gold}줄어들어{SetColor=Default}\n결국에는 사용할 수 없게 됩니다
+MID_TUT_Root_Blade_m01_003: 칼날 울림의 범위는 {SetColor=Gold}매 턴마다 서서히 회복{SetColor=Default}되며\n{SetColor=Gold}거점 또는 던전에 출입{SetColor=Default}할 때도 {SetColor=Gold}회복{SetColor=Default}됩니다
+MID_TUT_Root_SeaKing_t: 케투스 수색
+MID_TUT_Root_SeaKing_m01_001: {SetColor=Gold}칼날 울림{SetColor=Default}으로 {SetColor=Gold}케투스의 기척{SetColor=Default}을 감지할 수 있습니다\n{SetColor=Gold}기척이 느껴지는 스폿으로 이동{SetColor=Default}해 봅시다
+MID_TUT_Root_SeaKing_m01_002: {SetColor=Gold}기척의 정체를 확인{SetColor=Default}하기 전까지는\n칼날 울림을 사용할 수 없습니다
+MID_TUT_Root_Arrangement_t: 알선업자(디트리히)
+MID_TUT_Root_Arrangement_m01_001: {SetColor=Gold}알선업자{SetColor=Default}로부터 {SetColor=Gold}도전장{SetColor=Default}을 전달받으면\n{SetColor=Gold}흉전사{SetColor=Default}라고 불리는 강자들과 싸울 수 있습니다
+MID_TUT_Root_Arrangement_m01_002: 흉전사들은 각자의 {SetColor=Gold}비전 전투 기술{SetColor=Default}을 사용하는데\n승리하면 디트리히가 해당 {SetColor=Gold}비전을 습득{SetColor=Default}합니다
+MID_TUT_Root_Arrangement_m01_003: 그들은 {SetColor=Gold}던전 어딘가에 숨어{SetColor=Default} 있으므로\n던전 내부를 잘 탐색해 봐야 합니다
+MID_TUT_Root_Arrangement_m01_004: {SetColor=Gold}명성 LV이 올라가면 새로운 도전장{SetColor=Default}이 도착하니\n가끔씩 알선업자를 찾아가 확인해 봅시다
+MID_TUT_Root_Arrangement_m01_005: 전달받은 도전장의 내용 및 진행 상황은\n모험 수첩의 퀘스트 목록에서도 확인할 수 있습니다
+MID_TUT_Root_Initiation_t: 비전 전수(디트리히)
+MID_TUT_Root_Initiation_m01_001: 디트리히가 {SetColor=Gold}흉전사로부터 습득한 전투 기술{SetColor=Default}은\n{SetColor=Gold}마향석{SetColor=Default}을 사용해 {SetColor=Gold}다른 동료{SetColor=Default}에게 {SetColor=Gold}전수{SetColor=Default}할 수 있습니다
+MID_TUT_Root_Initiation_m01_002: 마향석만 있으면 몇 번이든 전수가 가능하지만\n{SetColor=Gold}전투 기술 강화 상태는 전수되지 않습니다{SetColor=Default}
+MID_TUT_Root_Legionnaire_t: 군단병(세오도라)
+MID_TUT_Root_Legionnaire_m01_001: {SetColor=Gold}군단병{SetColor=Default}을 {SetColor=Gold}배치{SetColor=Default}하면 유닛의 {SetColor=Gold}스테이터스가 상승{SetColor=Default}하고\n{SetColor=Gold}계략{SetColor=Default}을 사용할 수 있게 됩니다
+MID_TUT_Root_Legionnaire_m01_002: 사용 후 추가 효과가 발생하는 계략도 있으니\n군단병의 능력을 잘 확인하고 배치합시다\n참고로 기병 유닛에게는 군단병을 배치할 수 없습니다
+MID_TUT_Root_RecruitingSoldiers_t: 병사 모집(세오도라)
+MID_TUT_Root_RecruitingSoldiers_m01_001: {SetColor=Gold}거점 스폿{SetColor=Default}에서 {SetColor=Gold}병사 모집{SetColor=Default} 커맨드를 사용하면\n{SetColor=Gold}몇 턴 후 군단병{SetColor=Default}을 획득할 수 있습니다
+MID_TUT_Root_RecruitingSoldiers_m01_002: {SetColor=Gold}명성 LV이 높을수록{SetColor=Default}\n더 {SetColor=Gold}높은 등급의 군단병{SetColor=Default}을 모집할 수 있습니다
+MID_TUT_Root_BigRecruitingSoldiers_t: 병사 대모집(세오도라)
+MID_TUT_Root_BigRecruitingSoldiers_m01_001: {SetColor=Gold}병사 대모집{SetColor=Default}은 {SetColor=Gold}격려 연설 효과{SetColor=Default}가 있는\n병사 모집 방법으로, {SetColor=Gold}등급이 높은 군단병을\n더 쉽게 모을 수 있습니다{SetColor=Default}
+MID_TUT_Root_BigRecruitingSoldiers_m01_002: 가끔 거점 스폿에서 병사 대모집을\n선택할 수 있는 경우가 있으니\n기회가 있으면 꼭 해 봅시다
+MID_TUT_Root_Allowance_t: 군비 증강(세오도라)
+MID_TUT_Root_Allowance_m01_001: {SetColor=Gold}군비 증강{SetColor=Default}으로 살라미스의 백성이 {SetColor=Gold}요청한 물자{SetColor=Default}를\n{SetColor=Gold}납품{SetColor=Default}하면 {SetColor=Gold}명성이 높아지고 보수{SetColor=Default}를 획득할 수 있습니다
+MID_TUT_Root_Allowance_m01_002: {SetColor=Gold}보나파르트{SetColor=Default}에게 말을 걸어 군비 증강을 선택하면\n의뢰 내용을 확인하거나 물자를 납품할 수 있습니다
+MID_TUT_Root_Allowance_m01_003: 의뢰 내용은\n모험 수첩의 퀘스트 목록에서도 확인할 수 있습니다
+MID_TUT_Root_Deployment_t: 탐색 파병(세오도라)
+MID_TUT_Root_Deployment_m01_001: {SetColor=Gold}탐색 스폿{SetColor=Default} 또는 {SetColor=Gold}던전 스폿{SetColor=Default}에서는\n군단병을 {SetColor=Gold}파병{SetColor=Default}하여 {SetColor=Gold}소재를 모을{SetColor=Default} 수 있습니다
+MID_TUT_Root_Deployment_m01_002: 파병은 {SetColor=Gold}몇 턴 후에 완료{SetColor=Default}되며\n파병한 군단병은 {SetColor=Gold}그동안 사용할 수 없습니다{SetColor=Default}
+MID_TUT_Root_Deployment_m01_003: 등급이 높거나 해당 스폿과 상성이 좋은 군단병을\n파병하면 더 많은 소재를 모을 수 있습니다
+MID_TUT_Root_Deployment_m01_004: {SetColor=Gold}명성 LV이 올라가면\n동시에 파병할 수 있는 군단병의 수가 늘어납니다{SetColor=Default}\n파병 상황은 {SetColor=Gold}파병 정보{SetColor=Default}에서 확인할 수 있습니다
+MID_TUT_Root_MercenaryUnion_t: 군단 이송(세오도라)
+MID_TUT_Root_MercenaryUnion_m01_001: {SetColor=Gold}군단 이송{SetColor=Default}으로 필요 없는 군단병을 전출시키면\n{SetColor=Gold}병비치를 획득{SetColor=Default}합니다
+MID_TUT_Root_MercenaryUnion_m01_002: {SetColor=Gold}병비치가 100씩 모일 때마다\n전술 지침서를 받을{SetColor=Default} 수 있으니\n여분의 군단병이 많다면 해당 기능을 이용해 봅시다
+MID_TUT_Root_Speech_t: 격려 연설(세오도라)
+MID_TUT_Root_Speech_m01_001: {SetColor=Gold}병사 모집{SetColor=Default} 중인 스폿에서 {SetColor=Gold}격려 연설{SetColor=Default}을 하면\n{SetColor=Gold}등급이 높은 군단병을 모으기 더 쉬워집니다{SetColor=Default}
+MID_TUT_Root_LocalEntertainment_t: 지방 공연(레다)
+MID_TUT_Root_LocalEntertainment_m01_001: {SetColor=Gold}지방 공연{SetColor=Default}은 다그다 각지에서 {SetColor=Gold}술집{SetColor=Default}을 통해 들어오는\n춤 공연 의뢰입니다
+MID_TUT_Root_LocalEntertainment_m01_002: {SetColor=Gold}의뢰를 한 스폿{SetColor=Default}에 가서 {SetColor=Gold}공연{SetColor=Default}을 하여\n퀘스트를 달성하면 {SetColor=Gold}명성과 보수를 얻을{SetColor=Default} 수 있습니다
+MID_TUT_Root_LocalEntertainment_m01_003: 의뢰는 {SetColor=Gold}술집 주인{SetColor=Default}에게 받을 수 있으며\n의뢰 내용은 퀘스트 목록에서 확인할 수 있습니다
+MID_TUT_Root_LocalEntertainment_m01_004: 의뢰를 달성하면 {SetColor=Gold}비밀 정보{SetColor=Default}를\n얻을 수 있을지도……?
+MID_TUT_Root_LocalEntertainment2_t: 비밀 스폿(레다)
+MID_TUT_Root_LocalEntertainment2_m01_001: {SetColor=Gold}지방 공연을 완료{SetColor=Default}하면 그 지역 주민이\n{SetColor=Gold}비밀 스폿{SetColor=Default}을 알려 주는 경우도 있습니다
+MID_TUT_Root_LocalEntertainment2_m01_002: {SetColor=Gold}비밀 스폿을 탐색{SetColor=Default}하면, 다른 곳에서는 구할 수 없는\n{SetColor=Gold}특별한 소재{SetColor=Default}를 얻을 수 있습니다
+MID_TUT_Root_DrinkPerson_t: 음료 담당자(레다)
+MID_TUT_Root_DrinkPerson_m01_001: {SetColor=Gold}음료 담당자{SetColor=Default}에게 {SetColor=Gold}소재{SetColor=Default}를 건네주면\n{SetColor=Gold}스테이터스가 상승하는 음료{SetColor=Default}를 만들어 줍니다
+MID_TUT_Root_DrinkPerson_m01_002: 음료는 전투 맵에서 사용할 수 있으며\n{SetColor=Gold}전투가 끝날 때까지 효과가 지속{SetColor=Default}됩니다
+MID_TUT_Root_BarShow_t: 술집 공연(레다)
+MID_TUT_Root_BarShow_m01_001: {SetColor=Gold}술집 주인{SetColor=Default}의 의뢰를 받아 {SetColor=Gold}술집 공연{SetColor=Default}을 하면\n레다가 새로운 {SetColor=Gold}블레이즈 아츠를 습득{SetColor=Default}합니다
+MID_TUT_Root_BarShow_m01_002: {SetColor=Gold}필요한 소재{SetColor=Default}를 모으고 {SetColor=Gold}명성 LV을 올린 후\n술집 주인과 대화{SetColor=Default}하면\n술집 공연을 완료할 수 있습니다
+MID_TUT_Root_BarShow_m01_003: 술집 공연의 의뢰 내용 및 진행 상황은\n모험 수첩의 퀘스트 목록에서도 확인할 수 있습니다
+MID_TUT_Root_FortuneTelling_t: 
+MID_TUT_Root_FortuneTelling_m01_001: 
+MID_TUT_Root_FortuneTelling_m01_002: 
+MID_TUT_Root_FortuneTelling_m01_003: 
+MID_TUT_Root_AnimalDeployment_t: 승용 동물
+MID_TUT_Root_AnimalDeployment_m01_001: 포획한 {SetColor=Gold}승용 동물{SetColor=Default}을\n「정비」의 「배치」를 통해 유닛에게 {SetColor=Gold}배치{SetColor=Default}하면\n해당 유닛의 {SetColor=Gold}스테이터스가 상승{SetColor=Default}합니다
+MID_TUT_Root_AnimalDeployment_m01_002: 또한 {SetColor=Gold}그 상태로 계속 싸우다 보면{SetColor=Default} 유닛과 승용 동물의\n{SetColor=Gold}우호 LV{SetColor=Default}이 상승하여 {SetColor=Gold}스킬이 발현{SetColor=Default}되기도 합니다
+MID_TUT_AutoSave_t: 자동 저장
+MID_TUT_AutoSave_m01_001: 이 게임은 진행 상황이 {SetColor=Gold}자동으로 저장{SetColor=Default}됩니다\n화면 오른쪽 아래에 {SetColor=Gold}자동 저장 아이콘{SetColor=Default}이\n표시되는 동안에는 본체의 {SetColor=Gold}전원을 끄지 마십시오{SetColor=Default}
+MID_TUT_AutoSave_m01_002: 
+MID_TUT_Mouse1_t: 마우스 조작
+MID_TUT_Mouse1_m01_001: 유닛을 행동시킬 때나 커맨드를 선택할 때 등\n게임 내 {SetColor=Gold}모든 상황{SetColor=Default}에서 {SetColor=Gold}마우스 조작{SetColor=Default}이 가능합니다
+MID_TUT_Mouse1_m01_002: 평평한 곳에 {SetColor=Gold}Joy-Con 2 (R){SetColor=Default}를 {SetColor=Gold}세우면\n마우스 조작 모드{SetColor=Default}로 {SetColor=Gold}전환{SetColor=Default}할 수 있습니다
+MID_TUT_Mouse2_t: 마우스 조작에 대한 추가 정보
+MID_TUT_Mouse2_m01_001: 마우스 조작으로 할 수 있는 일은 상황마다 다릅니다\n조작 방법을 모르겠다면 {SetColor=Gold}시스템{SetColor=Default}의 {SetColor=Gold}마우스 조작 설명{SetColor=Default}을\n확인해 봅시다
+MID_TUT_Mouse2_m01_002: 설명 화면에서 {SetColor=Gold}{ButtonPlus}를 누르면{SetColor=Default} 마우스를 움직일 때의\n{SetColor=Gold}보정 각도를 측정{SetColor=Default}할 수 있습니다\n움직이기 어렵다고 느껴지면 {SetColor=Gold}측정{SetColor=Default}을 해 봅시다
+MID_TUT_Mouse2_m01_003: 마우스 조작 중에는 일부 {SetColor=Gold}버튼의 기능{SetColor=Default}이 {SetColor=Gold}바뀝니다{SetColor=Default}\n표시되는 {SetColor=Gold}버튼 도움말{SetColor=Default}을 확인해 봅시다
+MID_TUT_Mouse2_m01_004: {SetColor=Gold}마우스 조작 설명{SetColor=Default}은 {SetColor=Gold}마우스 조작 중{SetColor=Default}에\n{SetColor=Gold}{ButtonPlus}를 눌러{SetColor=Default} 확인할 수도 있습니다
+MID_TUT_Bmap_ArmoredSoldier_t: 
+MID_TUT_Bmap_ArmoredSoldier_m01_001: 
+MID_TUT_Bmap_ArmoredSoldier2_t: 
+MID_TUT_Bmap_ArmoredSoldier2_m01_001: 
+MID_TUT_Bmap_ArmoredSoldier2_m01_002: 
+MID_TUT_Bmap_Extinction_t: 
+MID_TUT_Bmap_Extinction_m01_001: 
+MID_TUT_Bmap_Extinction_m01_002: 
+MID_TUT_Bmap_MoonlitFlower_t: 
+MID_TUT_Bmap_MoonlitFlower_m01_001: 
+MID_TUT_Bmap_MoonlitFlower_m01_002: 
+MID_TUT_Bmap_MoonlitFlower_m01_003: 
+MID_TUT_Bmap_PrisonAndLantern_t: 
+MID_TUT_Bmap_PrisonAndLantern_m01_001: 
+MID_TUT_Bmap_PrisonAndLantern_m01_002: 
+MID_TUT_Bmap_PrisonAndLantern_m01_003: 
+MID_TUT_Bmap_PrisonAndLantern_m01_004: 
+MID_TUT_Bmap_BonFire_t: 
+MID_TUT_Bmap_BonFire_m01_001: 
+MID_TUT_Bmap_BonFire_m01_002: 
+MID_TUT_Bmap_BonFire_m01_003: 
+MID_TUT_Bmap_BonFire_m01_004: 
+MID_TUT_Bmap_DestructionRocks_t: 
+MID_TUT_Bmap_DestructionRocks_m01_001: 
+MID_TUT_Bmap_DestructionRocks_m01_002: 
+MID_TUT_Bmap_ElephantSoldier_t: 
+MID_TUT_Bmap_ElephantSoldier_m01_001: 
+MID_TUT_Bmap_ElephantSoldier_m01_002: 
+MID_TUT_Bmap_ElephantSoldier_m01_003: 
+MID_TUT_Bmap_ElephantSoldier_m01_004: 
+MID_TUT_Bmap_ReturnElephantSoldier_t: 
+MID_TUT_Bmap_ReturnElephantSoldier_m01_001: 
+MID_TUT_Bmap_ReturnElephantSoldier_m01_002: 
+MID_TUT_Bmap_SandyRecovery_t: 
+MID_TUT_Bmap_SandyRecovery_m01_001: 
+MID_TUT_Bmap_SandyRecovery_m01_002: 
+MID_TUT_Bmap_SandyRecovery_m01_003: 
+MID_TUT_Bmap_SandyRecovery_m01_004: 
+MID_TUT_Bmap_PirateSubjugation_t: 
+MID_TUT_Bmap_PirateSubjugation_m01_001: 
+MID_TUT_Bmap_PirateSubjugation_m01_002: 
+MID_TUT_Bmap_PirateSubjugation_m01_003: 
+MID_TUT_Bmap_PirateSubjugation2_t: 
+MID_TUT_Bmap_PirateSubjugation2_m01_001: 
+MID_TUT_Bmap_PirateSubjugation2_m01_002: 
+MID_TUT_Bmap_MiasmaTerrain_t: 
+MID_TUT_Bmap_MiasmaTerrain_m01_001: 
+MID_TUT_Bmap_MiasmaTerrain_m01_002: 
+MID_TUT_Bmap_MiasmaTerrain_m01_003: 
+MID_TUT_Bmap_MiasmaTerrain_m01_004: 
+MID_TUT_Bmap_CandleStick_t: 
+MID_TUT_Bmap_CandleStick_m01_001: 
+MID_TUT_Bmap_CandleStick_m01_002: 
+MID_TUT_Bmap_CandleStick_m01_003: 
+MID_TUT_Bmap_CandleStick2_t: 
+MID_TUT_Bmap_CandleStick2_m01_001: 
+MID_TUT_Bmap_CandleStick2_m01_002: 
+MID_TUT_Bmap_TreasureCup_t: 
+MID_TUT_Bmap_TreasureCup_m01_001: 
+MID_TUT_Bmap_TreasureCup_m01_002: 
+MID_TUT_Bmap_TreasureCup_m01_003: 
+MID_TUT_Bmap_TreasureCup_m01_004: 
+MID_TUT_Bmap_MovingRecovery_t: 
+MID_TUT_Bmap_MovingRecovery_m01_001: 
+MID_TUT_Bmap_MovingRecovery_m01_002: 
+MID_TUT_Bmap_Cargo_t: 
+MID_TUT_Bmap_Cargo_m01_001: 
+MID_TUT_Bmap_Cargo_m01_002: 
+MID_TUT_Bmap_Cargo_m01_003: 
+MID_TUT_Bmap_Cargo_m01_004: 
+MID_TUT_Bmap_VerticalWolf_t: 
+MID_TUT_Bmap_VerticalWolf_m01_001: 
+MID_TUT_Bmap_VerticalWolf_m01_002: 
+MID_TUT_Bmap_VerticalWolf_m01_003: 
+MID_TUT_Bmap_ElephantCannon_t: 
+MID_TUT_Bmap_ElephantCannon_m01_001: 
+MID_TUT_Bmap_ElephantCannon_m01_002: 
+MID_TUT_Bmap_ElephantCannon_m01_003: 
+MID_TUT_Bmap_ElephantCannon_m01_004: 
+MID_TUT_Bmap_ElephantCannon_m01_005: 
+MID_TUT_Bmap_Groove_t: 
+MID_TUT_Bmap_Groove_m01_001: 
+MID_TUT_Bmap_Resentment_t: 
+MID_TUT_Bmap_Resentment_m01_001: 
+MID_TUT_Bmap_Bitumen_t: 
+MID_TUT_Bmap_Bitumen_m01_001: 
+MID_TUT_Bmap_Bitumen_m01_002: 

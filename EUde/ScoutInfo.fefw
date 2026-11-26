@@ -1,0 +1,86 @@
+﻿MID_ScoutInfo_NegotiationConditions_Yes_Easy: Erfordert Verhandlung (leicht)
+MID_ScoutInfo_NegotiationConditions_Yes_Normal: Erfordert Verhandlung (mittel)
+MID_ScoutInfo_NegotiationConditions_Yes_Hard: Erfordert Verhandlung (schwer)
+MID_ScoutInfo_NegotiationConditions_Yes_VeryHard: Erfordert Verhandlung (sturköpfig)
+MID_ScoutInfo_NegotiationConditions_Win: Offen für Glücksspiel
+MID_ScoutInfo_NegotiationConditions_Price: Fordert Bezahlung
+MID_ScoutInfo_NegotiationConditions_Question: Hat Fragen
+MID_ScoutInfo_NegotiationConditions_Item: Fordert ein passendes Item
+MID_ScoutInfo_NegotiationConditions_Talk: Will gehört werden
+MID_ScoutInfo_NegotiationConditions_Clear: Schließe ??? ab
+MID_ScoutInfo_NegotiationConditions_SideStoryClear: Schließe {Variable=0}s Nebenquest ab
+MID_ScoutInfo_NegotiationConditions_ClearAndAction: Schließe ??? ab & ??? geschieht
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndAction: Schließe {Variable=0}s Nebenq. ab; ??? geschieht
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndDefeat: {Variable=0}s Nebenq. abgeschlossen & Niederlage
+MID_ScoutInfo_Characteristic_Aur: Eine von Yu Phas abstammende Göttin, die mit einer\nmysteriösen Kraft gegen die Unterwelt kämpft.
+MID_ScoutInfo_Characteristic_Pet0: Ein Meister mit dem Bogen, kann entfernte Gegner\nmit Kampftechniken treffen.
+MID_ScoutInfo_Characteristic_Hur: Eine höchst gütige junge Frau, die nicht nur Gegner\nbekämpfen, sondern auch Verbündete heilen kann.
+MID_ScoutInfo_Characteristic_Jes: Ein flinker Schwertkämpfer. Verwendet die Kampf-\ntechnik Rochade, um mit seiner Beute zu spielen.
+MID_ScoutInfo_Characteristic_Gol: Ein Riese mit überwältigender Stärke und Vertei-\ndigung. Kann schwere Rüstungen tragen.
+MID_ScoutInfo_Characteristic_Dan: Fortgeschrittene Magienutzerin und Autorin, deren\npräzise Anweisungen ihre Verbündeten stärken.
+MID_ScoutInfo_Characteristic_Esm: Starke junge Frau, die es mit jedem Gegner auf-\nnimmt. Selbst schwere Rüstungen trägt sie leicht.
+MID_ScoutInfo_Characteristic_Sim: Ein kampfhungriger Spezialist. Selbst ein tödlicher\nTreffer reicht nicht aus, um ihn zu Fall zu bringen.
+MID_ScoutInfo_Characteristic_Lou: Eine grazile Schwertkämpferin, die ihre Feinde mit\nschnellen Hieben in die Knie zwingt.
+MID_ScoutInfo_Characteristic_Fia: Eine heilende Geistliche, die im Dunkel wandelt.\nBeherrscht ihre Magie, um möglichst viele zu heilen.
+MID_ScoutInfo_Characteristic_Lor0: Streitbares Mädchen, das sich seiner Gewandtheit\nbewusst ist. Weicht gegnerischen Angriffen aus.
+MID_ScoutInfo_Characteristic_Set: Ein weiser Reisender, erfahren im Umgang mit der\nLanze. Kann gegnerische Angriffe schnell kontern.
+MID_ScoutInfo_Characteristic_Nin: Eine beunruhigende Vulkanerin der Tempel. Spürt\nGeister und kann magische Angriffe abwehren.
+MID_ScoutInfo_Characteristic_Lil: Zielsichere Bogenschützin. Greift Gegner aus der\nFerne an, die ihren Angriff nicht kontern können.
+MID_ScoutInfo_Characteristic_Lys: Ein vortrefflicher Ritter, der sich auf sein Tempo\nverlässt. Stürmt vor und landet den ersten Schlag.
+MID_ScoutInfo_Characteristic_Sci: Ein geheimnisvoller Barde, der Magie, Schwerter und\nandere Waffen gleichermaßen zu führen versteht.
+MID_ScoutInfo_Characteristic_Moo0: Eine unerfahrene Kämpferin. Was ihr an Erfahrung\nfehlt, macht sie mit Wachstumspotenzial wett.
+MID_ScoutInfo_Characteristic_Mic: Erfahrene Söldnerin, auf den Nahkampf spezialisiert.\nErkennt die Schwachstellen ihrer Gegner.
+MID_ScoutInfo_Characteristic_Oly: Eine leidenschaftliche Sängerin, als Priesterin auf\nweiße Magie spezialisiert. Gibt alles für den Sieg.
+MID_ScoutInfo_Characteristic_Naz: Ein junger Schwertkämpfer mit hoher Stärke. Greift\ner zuerst an, gewinnen seine Attacken an Kraft.
+MID_ScoutInfo_Characteristic_Dai: Ein tollkühner Kämpfer mit enormer Stärke, der sich\nim Kampf niemals zurückhält.
+MID_ScoutInfo_Characteristic_Hal: Talentiert als Bogenschützin und Gauklerin, kann\nsich an jede Kampfsituation anpassen.
+MID_ScoutInfo_Characteristic_Guj: Ein Söldner, der seine Siege und Fähigkeiten weit\nübertreibt. Wobei manches auch wahr sein könnte...
+MID_ScoutInfo_Characteristic_Yan: Ein wandernder Kriegermönch, kann kämpfen und\nheilen. Verfügt über mysteriöse Techniken.
+MID_ScoutInfo_Characteristic_Iio: Ein junger Söldner, der mit seinem treuen Ross in\nden Kampf zieht. Nutzt seine Mobilität.
+MID_ScoutInfo_Characteristic_Pep: Ein fähiger Jäger, der schnell zuschlägt und ge-\nschwächte Beute mit einem Todesschlag überrascht.
+MID_ScoutInfo_Characteristic_Noc: Die Schläge dieser Kämpferin sind schnell und hart.\nStärkt ihre Konzentration und weicht Angriffen aus.
+MID_ScoutInfo_Characteristic_Sop: Diese Priesterin kann den Effekt ihrer Heilmagie\nverstärken und hat stets enormen Appetit.
+MID_ScoutInfo_Characteristic_Cat: Erstklassige Söldnerin. Nutzt ihren Vorteil und\nerhöht die Präzision mit hoher Geschwindigkeit.
+MID_ScoutInfo_Characteristic_Ned: Söldnerin, die im Einklang mit ihrem Ornius kämpft.\nFlinke Bewegungen verängstigen die Feinde.
+MID_ScoutInfo_Characteristic_Zac: Ein durchtriebener Axtkämpfer, von Banditen\naufgezogen. Trifft beachtlich präzise.
+MID_ScoutInfo_Characteristic_Maj: Ein starker, brutaler Schläger. Seine Wildheit wächst,\nwenn er eine Axt in der Hand hält.
+MID_ScoutInfo_Characteristic_Ven: Ein spezialisierter Veteran, dessen Treffsicherheit\nsteigt, wenn er einen Streitwagen verwendet.
+MID_ScoutInfo_Characteristic_Ini: Eine begabte Bogenschützin, deren starke Pfeile auch\ndie dickste Rüstung durchdringen.
+MID_ScoutInfo_Characteristic_Jas: Eine Söldneranführerin, die sich auf Verteidigung\nkonzentriert. Kontert mit hoher Treffsicherheit.
+MID_ScoutInfo_Characteristic_Ale: Eine Pegasusritterin, deren schlanker Wuchs ihr den\nTanz in den Lüften erlaubt. Genießt Freundschaften.
+MID_ScoutInfo_Characteristic_Cle: 
+MID_ScoutInfo_Characteristic_Mys: 
+MID_ScoutInfo_Characteristic_Cen: Schwer gepanzerter Veteran mit der Verteidigungs-\nkraft einer Eisenmauer. Trotzt schweren Angriffen.
+MID_ScoutInfo_Characteristic_Asw: Eine Scharfschützin mit unglaublichen Fähigkeiten.\nDie Treffsicherheit ihrer Pfeile ist einzigartig.
+MID_ScoutInfo_Characteristic_Nat: Ein General, stärker als tausend Mann. Führt mit\noffensiver Stärke den Kampf an vorderster Front.
+MID_ScoutInfo_Characteristic_Hri: Ein gewitzter General voll taktischer Kompetenz.\nKämpft defensiv und spielt mit seinen Gegnern.
+MID_ScoutInfo_Characteristic_Gra: 
+MID_ScoutInfo_Characteristic_Kir: Ein berüchtigter Pirat, der Schiff und Mannschaft\nverloren hat. Sehr effektiv gegen wehrlose Gegner.
+MID_ScoutInfo_Characteristic_Nuz: Krieger des Waldes und effizienter Kämpfer. Nutzt\ndie Schwächen seiner Gegner gnadenlos aus.
+MID_ScoutInfo_Characteristic_Kra: Ein defensiver Fels in der Brandung. Verfügt über\nKampfkünste, Heilmagie und einen eisernen Willen.
+MID_ScoutInfo_Characteristic_Ann: Eine temperamentvolle Elefantenreiterin, die ganze\nGegnerhorden niedertrampeln kann.
+MID_ScoutInfo_Characteristic_Tia0: Ein taktisches Genie. Ihre strategische Planung\nunterstützt die Fähigkeiten ihrer Verbündeten.
+MID_ScoutInfo_Characteristic_Fab: Ein geheimnisvoller Missionar, setzt Dunkelmagie ein.\nBricht gegn. Kampfgeist mit seinen Spezialtechniken.
+MID_ScoutInfo_Characteristic_Bon: Der Weise Krieger von Saramis führt Klinge und\nMagie. Sein Rat lässt Verbündete besser treffen.
+MID_ScoutInfo_Characteristic_Tob: Der Löwe von Saramis, ebenso stark wie zäh.\nSeine Fähigkeiten wenden im Kampf das Blatt.
+MID_ScoutInfo_Characteristic_Buc: Ein Wächterveteran, der beinahe immun gegen Geg-\nnerangriffe ist und daher Dämonenbär genannt wird.
+MID_ScoutInfo_Characteristic_Gat: Ein Krieger, der in den östlichen Landen trainierte.\nBahnt sich mit seinem Schwert den Weg zum Sieg.
+MID_ScoutInfo_Characteristic_Urs: Geschäftsführerin der Handelsgesellschaft Vandahl. Ihr\nGeschäftssinn gibt allen Einheiten Zugriff auf den Vorrat.
+MID_ScoutInfo_Characteristic_Die: Fähiger Krieger der Har Hali. Er sorgt dafür, dass\nniemand seine Schützlinge ein zweites Mal angreift.
+MID_ScoutInfo_Characteristic_Sar: Eine Expertin für Geistermagie. Sie kann Verbündete\nin Sicherheit bringen und ihre Wunden heilen.
+MID_ScoutInfo_Characteristic_Kai0: Ein lebhafter Junge, motiviert durch seine Familien-\nliebe. Ein Naturtalent auf dem Schlachtfeld.
+MID_ScoutInfo_Characteristic_Dit: Ein fremder Schwertkämpfer, vom Duelldurst getrie-\nben. Seine Klinge badet Gegner in tödlichem Licht.
+MID_ScoutInfo_Characteristic_Seo: Die furchtlose Königin von Saramis. Mit fester Ent-\nschlossenheit stellt sie sich jeder Herausforderung.
+MID_ScoutInfo_Characteristic_Led: Verzaubert durch Tanz und Musik gleichermaßen,\nund weicht behände den Gegenangriffen aus.
+MID_ScoutInfo_Characteristic_Bel: Ein stolzer Krieger, der für seine Freiheit kämpft.\nEntfesselt starke Angriffe auf seine Gegner.
+MID_ScoutInfo_Characteristic_Tal: Der größte Händler Dagdas und ein Glückspilz.\nSein ehrgeiziges Herz sehnt sich nach Abenteuern.
+MID_ScoutInfo_Characteristic_Orh: Eine starke Dame, deren Äußeres Geheimnisse ver-\nbirgt. Von manchen Soldatenklassen ausgenommen.
+MID_ScoutInfo_Characteristic_Anh: Eine junge Mediatorin, die für ihr Volk kämpft.\nBeherrscht Energie-Kampfkünste und Ausweichen.
+MID_ScoutInfo_Characteristic_Kou: Eine mächtige Zauberin, die mittels Kunluns Magie\nschnell und präzise zuschlägt.
+MID_ScoutInfo_Characteristic_Tro: Eine erfahrene Kriegerin höchst fortgeschrittenen\nAlters. Verwendet Panzerhände im Kampf.
+MID_ScoutInfo_Characteristic_Kai1: Ernster junger Mann, der seine Familie liebt.\nGeborener Kämpfer.
+MID_ScoutInfo_Characteristic_Tia1: Ein taktisches Genie. Ihre strategische Planung\nunterstützt die Fähigkeiten ihrer Verbündeten.
+MID_ScoutInfo_Characteristic_Pet1: Ein Meister mit dem Bogen, kann entfernte Gegner\nmit Kampftechniken treffen.
+MID_ScoutInfo_Characteristic_Moo1: Eine junge Frau, die schon viele Schlachtfelder\ngesehen hat. Steckt voller Wachstumspotenzial.
+MID_ScoutInfo_Characteristic_Lor1: Eine entschlossene Frau, flink und selbstbewusst.\nKann vielen Angriffen ausweichen.
+MID_ScoutInfo_Characteristic_Tah: Eine Kriegerin, in der Pythontechnik bewandert.\nBeschützt stolz ihre Herrin und alle anderen auch.

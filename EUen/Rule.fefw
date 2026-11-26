@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: Victory Conditions
+MID_Rule_Title_Lose: Defeat Conditions
+MID_WINRULE_Annihilate: Defeat all of the enemy units.
+MID_WINRULE_Destroy: Defeat {Variable=0}.
+MID_WINRULE_Destroy2: Defeat {Variable=0} and {Variable=1}.
+MID_LOSERULE_Annihilate: All of your units fall in battle.
+MID_LOSERULE_Destroy: {CapitalizeNextLetter}{Variable=0} falls in battle.
+MID_LOSERULE_Destroy2: {CapitalizeNextLetter}{Variable=0} or {Variable=1} falls in battle.
+MID_LOSERULE_Destroy3: {CapitalizeNextLetter}{Variable=0}, {Variable=1},\nor {Variable=2} falls in battle.
+MID_WINRULE_SC11_01_1: Seize the red jewel.
+MID_WINRULE_SC12_08_1: Use all of the levers.
+MID_WINRULE_SC13_00_1: Get Theodora to the target destination.
+MID_WINRULE_SC13_10: Seize the epimenium.
+MID_WINRULE_SC13_11_1: Hold more orbs than the enemy after {Variable=0} turns pass.
+MID_WINRULE_SC13_11_2: Acquire an orb or cause the enemy to lose one.
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: The number of blue flames exceeds the number of\nred flames after {Variable=0} turns pass.
+MID_WINRULE_SC14_05_2: Get Leda to the target destination.
+MID_WINRULE_SC30_08: Get {LordName} to the target destination.
+MID_WINRULE_SC00_16: Destroy the underworld pillar.
+MID_WINRULE_SCXX_01: {Variable=0} turns pass.
+MID_WINRULE_SCXX_02: Activate all of the mechanisms.
+MID_WINRULE_SCXX_04: Defeat a majority of the giants.
+MID_WINRULE_SCXX_05: Recover all of the Vandahl cargo or defeat all of the\nenemy units.
+MID_WINRULE_SCXX_07_1: Get all of the remaining people of Kunlun to the\ntarget destination or defeat the pentkehydra.
+MID_WINRULE_SCXX_07_2: Get Anatolia to the target destination or defeat the\npentkehydra.
+MID_WINRULE_KL_02_1: Remove an enemy barrier and defeat\nall of the enemy units.
+MID_WINRULE_KL_02_2: Remove all of the enemy barriers and defeat\nall of the enemy units.
+MID_LOSERULE_SC11_03: The caravan is destroyed or Cai falls in battle.
+MID_LOSERULE_SC12_08_1: {Variable=0} turns pass or Dietrich falls in battle.
+MID_LOSERULE_SC13_09: {Variable=0} turns pass or Theodora falls in battle.
+MID_LOSERULE_SC13_11_1: The enemy holds more orbs than you after {Variable=0} \nturns pass.
+MID_LOSERULE_SC13_11_2: The enemy acquires an orb or you lose one.
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: The number of red flames exceeds the number of\nblue flames after {Variable=0} turns pass.
+MID_LOSERULE_SCXX_00: An enemy unit reaches the target destination, or\n{LordName} or Cai falls in battle.
+MID_LOSERULE_SCXX_01: An enemy unit reaches the target destination, or\n{LordName} or Dietrich falls in battle.
+MID_LOSERULE_SCXX_04: The enemy defeats a majority of the giants.
+MID_LOSERULE_SCXX_05_2: A thief with cargo reaches the target destination,\nor {LordName} or Talimun falls in battle.
+MID_LOSERULE_SCXX_07: Three of the people of Kunlun are defeated, or\n{LordName} or Anatolia falls in battle.
+MID_LOSERULE_DefenseBattle: All citizens are defeated\nor {LordName} falls in battle.

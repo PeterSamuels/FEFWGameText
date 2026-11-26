@@ -1,0 +1,128 @@
+﻿MID_LGV_XXX_Ism_Closed_m01: <TH>
+MID_LGV_XXX_Ism_Closed_m01_001: （向こうに用はなさそうだ）
+MID_LGV_XXX_Kai_Closed_m01: <TH>
+MID_LGV_XXX_Kai_Closed_m01_001: 向こうに用はなさそうだね。
+MID_LGV_XXX_Dit_Closed_m01: <TH>
+MID_LGV_XXX_Dit_Closed_m01_001: ……あちらではない。\nやるべきことは……ここにあるはずだ。
+MID_LGV_XXX_Seo_Closed_m01: <TH>
+MID_LGV_XXX_Seo_Closed_m01_001: 向こうに用はないな。
+MID_LGV_XXX_Led_Closed_m01: <TH>
+MID_LGV_XXX_Led_Closed_m01_001: 今あたしが向かうべきは……\n少なくともこちらではなさそうね。
+MID_LGV_XXX_Bel_Closed_m01: 
+MID_LGV_XXX_Bel_Closed_m01_001: 
+MID_LGV_XXX_Tal_Closed_m01: 
+MID_LGV_XXX_Tal_Closed_m01_001: 
+MID_LGV_XXX_Orh_Closed_m01: 
+MID_LGV_XXX_Orh_Closed_m01_001: 
+MID_LGV_XXX_Anh_Closed_m01: 
+MID_LGV_XXX_Anh_Closed_m01_001: 
+MID_LGV_XXX_Gatekeeper_Closed_m01: <TH>
+MID_LGV_XXX_Gatekeeper_Closed_m01_001: ここから先は立ち入り禁止です。
+MID_LGA_XXX_Gatekeeper_Closed_m01: <BLN>ここから先は立ち入り禁止です
+MID_LGV_XXX_EXDungeon_Closed_m01: <TH>
+MID_LGV_XXX_EXDungeon_Closed_m01_001: <DLG>扉は何も反応を見せず\n沈黙を保ち続けている……
+MID_LGV_1XXX_TGXX_106_m01: <TH>
+MID_LGV_1XXX_TGXX_106_m01_001: あ！　そこの人！\n今ここは通行止めです！
+MID_LGV_1XXX_TGXX_106_m01_002: 酒場で客同士が派手に暴れて、\nその片付けをしてて……すみません！
+MID_LGV_XXX_Gatekeeper_m02: <TH>
+MID_LGV_XXX_Gatekeeper_m02_001: 何だ？　貴様は。\n生命が惜しいなら、ここには近づくな。
+MID_LGA_XXX_Gatekeeper_m02: <BLN>ここには近づくな
+MID_LGV_XXX_Gatekeeper_m03: <TH>
+MID_LGV_XXX_Gatekeeper_m03_001: ……さっきから何なんだ、貴様は。\nここに近づくなと言ったろう！
+MID_LGV_XXX_Gatekeeper_m03_002: 俺の警告が聞こえなかったのか？\nさっさと失せろ！
+MID_LGV_XXX_Hur_Arena_m02: <TH>
+MID_LGV_XXX_Hur_Arena_m02_001: 今日は試合が行われる日です。\n頑張ってくださいね。
+MID_LGA_XXX_Hur_Arena_m02: <BLN>今日は試合の日です
+MID_LGV_XXX_Arena_m01: <TH>
+MID_LGV_XXX_Arena_m01_001: 試合は{SetColor=Gold}{DateTime=Month}{DateTime=Day}{SetColor=Default}に行われます。\n期日になったらまた来てください。
+MID_LGA_XXX_Arena_m01: <BLN>次の試合は……
+MID_LGV_XXX_Arena_m02: <TH>
+MID_LGV_XXX_Arena_m02_001: 本日は試合の開催日です。\n準備はよろしいでしょうか？
+MID_LGA_XXX_Arena_m02: <BLN>本日は試合の開催日です
+MID_LGV_XXX_Arena_Final_m01: <TH>
+MID_LGV_XXX_Arena_Final_m01_001: 決勝戦は{SetColor=Gold}{DateTime=Month}{DateTime=Day}{SetColor=Default}に行われます。\n期日になったら来てください。
+MID_LGA_XXX_Arena_Final_m01: <BLN>決勝戦は……
+MID_LGV_XXX_Arena_Final_m02: <TH>
+MID_LGV_XXX_Arena_Final_m02_001: 本日、決勝戦が開催されます。\nいよいよですね……準備はよろしいでしょうか？
+MID_LGA_XXX_Arena_Final_m02: <BLN>本日は決勝戦の日です
+MID_LGV_XXX_Arena_Watching_m01: <TH>
+MID_LGV_XXX_Arena_Watching_m01_001: ……試合は終わりだ。\nまた見に来な。
+MID_LGV_XXX_Elevator_m01: <TH>
+MID_LGV_XXX_Elevator_m01_001: 水上昇降機をご利用ですか？
+MID_LGV_XXX_Elevator_m01_002: <ICA>はい
+MID_LGV_XXX_Elevator_m01_003: <ICB>いいえ
+MID_LGA_XXX_Elevator_U_m01: <BLN>港周辺へ参ります
+MID_LGA_XXX_Elevator_D_m01: <BLN>大闘技場周辺へ参ります
+MID_LGV_XXX_Elevator_Closed_m01: <TH>
+MID_LGV_XXX_Elevator_Closed_m001_001: ただいま昇降機の点検中です。\nご利用はできません。
+MID_LGA_XXX_Elevator_Closed_m01: <BLN>ただいま点検中です
+MID_LGV_XXX_Departure_m01: 
+MID_LGV_XXX_Departure_m01_001: 
+MID_LGV_XXX_Departure_m01_002: 
+MID_LGV_XXX_Departure_m01_003: 
+MID_LGV_XXX_Gatekeeper_m01: <TH>
+MID_LGA_XXX_Gatekeeper_m01: 現在は利用できません！
+MID_LGV_XXX_BirdFollow_m01: <TH>
+MID_LGV_XXX_BirdFollow_m01_001: おぬし、前に吾が言ったように、鳥の姿となって\nあやつらの様子を見てやっておるようじゃな。
+MID_LGV_XXX_BirdFollow_m01_002: うん？　これは……？　おぬしとあやつらとの間に\nなにやら心の絆が芽生えておるようじゃ！
+MID_LGV_XXX_BirdFollow_m01_003: あの鳥がおぬしとは、露ほども知らぬ筈じゃが……\n不可思議なこともあるものじゃ。
+MID_LGV_XXX_BirdFollow_m01_004: おぬしらは数奇なよすがで結ばれておるのじゃろう。\nこの奇跡、大切にするがよい。
+MID_LGA_XXX_BirdFollow_m01: <BLN>うん？　これは……？
+MID_LGV_XXX_JuFasTemple_Closed_m01: 
+MID_LGV_XXX_JuFasTemple_Closed_m01_001: 
+MID_LGV_1KAI_A60Lock_m01: <TH>
+MID_LGV_1KAI_A60Lock_m01_001: 鍵がかかってて、開かないみたいだ。\n反対側からなら開けられそうだけど……
+MID_LGV_1KAI_A60Lock_m01_002: どこかから、向こう側に回り込めるかな……？
+MID_LGV_1KAI_A60Open_m01: <TH>
+MID_LGV_1KAI_A60Open_m01_001: よし、鍵が開いた！\nこれでいつでも通れるぞ。
+MID_LGV_1KAI_A100Warp_m01: <TH>
+MID_LGV_1KAI_A100Warp_m01_001: アウロラ様のところに行きますか？
+MID_LGV_1KAI_A100Warp_m01_002: <ICA>はい
+MID_LGV_1KAI_A100Warp_m01_003: <ICB>いいえ
+MID_LGV_1BEL_Gab_Jailer_m01: 
+MID_LGV_1BEL_Gab_Jailer_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_002: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_003: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_004: 
+MID_LGV_1ANH_EXAcquisition_m01: 
+MID_LGV_1ANH_EXAcquisition_m01_001: 
+MID_LGV_3ISM_Obelisk_m01: <TH>
+MID_LGV_3ISM_Obelisk_m01_001: どうした？\n方尖塔の間に戻るのか？
+MID_LGV_3ISM_Obelisk_m01_002: <ICA>はい
+MID_LGV_3ISM_Obelisk_m01_003: <ICB>いいえ
+MID_LGV_3ISM_Obelisk_m01_004: <ACA>よし、わかった。\n吾についてくるがよい。
+MID_LGV_3ISM_Obelisk_m01_005: <ACB>そうか。\n戻りたければまた呼ぶがよい。
+MID_LGV_3ISM_CrownKey_FirstGet_m01: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m01_001: 何じゃ、この鍵は？　随分と古い品じゃが、\n吾の中で何かがひどく気になるような……
+MID_LGV_3ISM_CrownKey_FirstGet_m01_002: これについては吾の方で少し調べておく。\n無くさぬよう大事に持っておれ、おぬし。
+MID_LGV_3ISM_CrownKey_FirstGet_m02: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m02_001: おぬしが今手に入れたのは\n「天冠の神殿」の内部にある部屋の鍵ではないか。
+MID_LGV_3ISM_CrownKey_FirstGet_m02_002: これを使って扉を開けば、\nおそらく何らかの力が得られる筈じゃ！
+MID_LGV_3ISM_PromptObelisk_m01: <TH>
+MID_LGV_3ISM_PromptObelisk_m01_001: もし戦力不足を感じておるのであれば、\n方尖塔の間に戻るがよかろう。
+MID_LGV_3ISM_PromptObelisk_m01_002: 因果を手繰り、新たなる真焔将と絆を結べば\nおぬしの力になってくれる筈じゃ。
+MID_LGA_3ISM_PromptObelisk_m01: <BLN>戦力は足りておるか？
+MID_LGV_3ISM_RouteComplete_m01: <TH>
+MID_LGV_3ISM_RouteComplete_m01_001: 因果を手繰り寄せたことで、実に多くの\n戦士たちがこの地、この時に集結するに至った。
+MID_LGV_3ISM_RouteComplete_m01_002: 今回は相手が相手。決して油断はできぬが……\nおぬしにも感謝しておかねばな。
+MID_LGA_3ISM_RouteComplete_m01: <BLN>多くの戦士たちが集った
+LGV_XXX_Notice_Unlock_Guide: <TH>
+LGV_XXX_Notice_Unlock_Guide_001: <DLG>冒険手帳に「冒険の手引き」が追加されました\n自由行動で何をしようか迷ったら確認しましょう
+LGV_XXX_Notice_Unlock_Honor: <TH>
+LGV_XXX_Notice_Unlock_Honor_001: <DLG>冒険手帳に「名声の恩恵」が追加されました\n名声が上がるとできるようになることが確認できます
+LGV_XXX_Notice_Unlock_Quest: <TH>
+LGV_XXX_Notice_Unlock_Quest_001: <DLG>冒険手帳に「クエスト一覧」が追加されました\n受注しているクエストを確認することができます
+LGV_XXX_Notice_Unlock_Calendar: <TH>
+LGV_XXX_Notice_Unlock_Calendar_001: <DLG>冒険手帳に「カレンダー」が追加されました\n自由行動期間を有効に使うため役立てましょう
+LGV_XXX_Notice_Unlock_BattleHint: <TH>
+LGV_XXX_Notice_Unlock_BattleHint_001: <DLG>冒険手帳に「先見の助言」が追加されました\n次のメインクエストの戦闘の情報が得られます

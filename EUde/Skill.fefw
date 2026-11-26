@@ -1,0 +1,1944 @@
+﻿MSID_Active: Schwung{Variable=0}
+MSID_H_Active: Verleiht Bew. {Variable=0}.
+MSID_HellLord: Flammenhüter
+MSID_H_HellLord: Die Einheit und alle Verbündeten sind nicht\nvon Unterweltflamme betroffen und erleiden\nin ihr bei Angriffen nur halben Schaden.
+MSID_MilitaryTalent: Taktikers Gabe
+MSID_H_MilitaryTalent: Verleiht Kampftechniken, die auf\nVerbündete anwendbar sind, Rw. {Variable=0}.
+MSID_EyeContact: Taktikers Einblick{Variable=0}
+MSID_H_EyeContact: Hat die Einheit vor dem Gegner angegriffen,\nerleidet dieser nach dem Kampf Aw. {Variable=0} bis\nzum Ende des nächsten Kampfes der Einheit.
+MSID_Shooting: Zielbeständigkeit
+MSID_H_Shooting: Greift die Einheit mit einer Bogentechnik\nan, erhält sie Rw. {Variable=0}.
+MSID_ErrorCorrection: Korrektur{Variable=0}
+MSID_H_ErrorCorrection: Ist die Trefferrate der Einheit ≥ {Variable=0},\nerhält sie im Kampf Trf. {Variable=1}.
+MSID_FirstAid: Erste Hilfe
+MSID_H_FirstAid: Bei einem benachbarten Verbündeten wird\nnach seinem Kampf eine kleine Menge KP\nwiederhergestellt.
+MSID_SafePrayer: Stoßgebet{Variable=0}
+MSID_H_SafePrayer: Verleiht benachbarten Verbündeten\nKA {Variable=0}.
+MSID_MurderousIntent: Mordlust{Variable=0}
+MSID_H_MurderousIntent: Greift die Einheit zuerst an, erhält sie im\nKampf Krit. {Variable=0}.
+MSID_BeastImpulse: Brutaler Impuls
+MSID_H_BeastImpulse: Nach dem Kampf erhält die Einheit\nKrit. {Variable=0}, bis sie einen kritischen Angriff\nausführt.
+MSID_DarknessCall: Dunkler Zuruf
+MSID_H_DarknessCall: Benachbarte Gegner erleiden KA {Variable=0}.
+MSID_DarkSecret: Dunkles Geheimnis{Variable=0}
+MSID_H_DarkSecret: Ändert die Reichweite von Dunkler Zuruf\nauf {Variable=0} {SingularPlural0=Feld|Felder}.
+MSID_Strength: Muskelkraft
+MSID_H_Strength: Das Gw. der Ausrüstung der Einheit wird\nauf {Variable=0} % reduziert.
+MSID_JavelinThrow: Wurfarm{Variable=0}
+MSID_H_JavelinThrow: Wirft die Einheit eine Lanze oder einen\nSpeer, erhält sie während des Kampfes\nTrf. {Variable=0}, Agr. {Variable=1}.
+MSID_StrongMan: Veteranenmut
+MSID_H_StrongMan: Verleiht während des Kampfes mit einem\nbenachbarten Gegner Trf. {Variable=0}.
+MSID_IronBlood: Rotklinges Wille{Variable=0}
+MSID_H_IronBlood: Verleiht während des Kampfes mit einem\nbenachbarten Gegner Agr. {Variable=0}.
+MSID_H_IronBlood+: Verleiht im Kampf mit einem benachbarten\nGegn. Agr. {Variable=0}; und Agr. {Variable=2}, wenn ein\nbenachb. Gegn. angriffen wird. Chance in %: {Variable=1}
+MSID_Readiness: Royale Courage{Variable=0}
+MSID_H_Readiness: Wird die Einheit angegriffen, halbiert sich\nder Schaden, den sie erleidet.\nChance in %: {Variable=0}
+MSID_Destroy: Unaufhaltbare Kraft
+MSID_H_Destroy: Greift die Einheit Hindernisse an,\nvervielfacht sich der Schaden, den\nsie zufügt, um {Variable=0}.
+MSID_DirectHit: Direkter Treffer
+MSID_H_DirectHit: Fügt beim Einsatz einer Brandtechnik\n{Variable=1} Schaden zu. Chance in %: {Variable=0}
+MSID_Wisdom: Kluger Rat
+MSID_H_Wisdom: Verleiht benachbarten Verbündeten\nBeh. {Variable=0}.
+MSID_Explanation: Weiser Rat{Variable=0}
+MSID_H_Explanation: Verleiht benachbarten Verbündeten\nTrf. {Variable=1} im Kampf. Chance in %: {Variable=0}
+MSID_BigAttack: Machttechnik
+MSID_H_BigAttack: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Agr. {Variable=0}.
+MSID_SeriousAttack: Ohne Limit{Variable=0}
+MSID_H_SeriousAttack: Greift die Einheit mit einer Kampftechnik\nan, vervielfacht sich der Schaden um {Variable=1}.\nChance in %: {Variable=0}
+MSID_Safeguard: Sicherheit geht vor
+MSID_H_Safeguard: Kann der Gegner nicht kontern, erhält die\nEinheit im Kampf Trf. {Variable=0}.
+MSID_GoodVibes: Oberhand{Variable=0}
+MSID_H_GoodVibes: Ist die Trefferrate der Einheit = {Variable=0},\nerhält sie bei ihrem Angriff Agr. {Variable=1}.
+MSID_SprintAttack: Schnellangriff
+MSID_H_SprintAttack: Greift die Einheit zuerst an, erhält sie im\nKampf Aw. {Variable=0}.
+MSID_Acceleration: Beschleunigung{Variable=0}
+MSID_H_Acceleration: Hat die Einheit einen Gegner besiegt, erhält\nsie Ges. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_DarkRaid: Handstreich{Variable=0}
+MSID_H_DarkRaid: Greift die Einheit zuerst an, kann der\nGegner im Kampf nicht kontern.\nChance in %: {Variable=0}
+MSID_AdLib: Improvisation
+MSID_H_AdLib: Wurde während Großbrand eine\nBrandtechnik eingesetzt, kann die\nEinheit angreifen.
+MSID_GuardianKnight: Wächterspflicht
+MSID_H_GuardianKnight: Reduziert bei einem Angriff den erlittenen\nSchaden auf {Variable=0} %.
+MSID_Reciprocation: Vergeltungsschlag{Variable=0}
+MSID_H_Reciprocation: Greift der Gegner zuerst an, vervielfacht\nsich der Schaden, den die Einheit zufügt,\num {Variable=1}. Chance in %: {Variable=0}
+MSID_GoddessGrace: Gunst der Göttin
+MSID_H_GoddessGrace: Nach dem Kampf werden bei der Einheit\n{Variable=0} KP wiederhergestellt.
+MSID_EntrustWind: Windkapriolen{Variable=0}
+MSID_EntrustWind_1: Windkapriolen (+1)
+MSID_EntrustWind_5: Windkapriolen (+5)
+MSID_EntrustWind_20: Windkapriolen (+20)
+MSID_H_EntrustWind: Verleiht der Einheit im Kampf Aw. {Variable=0},\nAw. {Variable=1} oder Aw. {Variable=2}.
+MSID_EntrustWind+_1: Windkapriolen+ (+1)
+MSID_EntrustWind+_5: Windkapriolen+ (+5)
+MSID_EntrustWind+_20: Windkapriolen+ (+20)
+MSID_EntrustWind+_30: Windkapriolen+ (+30)
+MSID_H_EntrustWind+: Verleiht der Einheit im Kampf Aw. {Variable=0},\nAw. {Variable=1}, Aw. {Variable=2} oder Aw. {Variable=3}.
+MSID_SoreLoser: Wetteifer
+MSID_H_SoreLoser: Ist die Einheit mit Magie ausgerüstet, erhält\nsie Krit. {Variable=0}.
+MSID_EmotionalLizaia: Agiles Nosferatu{Variable=0}
+MSID_H_EmotionalLizaia: Wendet die Einheit Nosferatu an, erhält sie\nim Kampf Agr. {Variable=0} und Krit. {Variable=1}.
+MSID_GrowthSigns: Entwicklungspotenzial
+MSID_H_GrowthSigns: Verleiht der Einheit einen erhöhten\nStatuswertezuwachs beim Level Up.
+MSID_WarriorBlood: Blut des Kriegers{Variable=0}
+MSID_H_WarriorBlood: Verleiht abhängig vom ausgerüsteten\nWaffentyp eine Erhöhung der Statuswerte.
+MSID_H_WarriorBlood+: Verleiht abhängig vom ausgerüsteten\nWaffentyp eine starke Erhöhung der\nStatuswerte.
+MSID_ArmorFuneral: Requiem-Stil{Variable=0}
+MSID_H_ArmorFuneral: Die Einheit führt unabhängig von der\nAG im Kampf einen Folgeangriff aus.\nChance in %: {Variable=0}
+MSID_After: Go No Sen
+MSID_H_After: In der Gegnerphase greift die Einheit im\nKampf zuerst an. Chance in %: {Variable=0}
+MSID_Ahead: Sen No Sen
+MSID_H_Ahead: Greift die Einheit zuerst an, führt sie einen\nFolgeangriff aus, bevor der Gegner kontern\nkann. Chance in %: {Variable=0}
+MSID_Flickering: Sekundenschnelle
+MSID_H_Flickering: Hat die Einheit Rochade ausgeführt, erhält\nsie bis zu ihrer nächsten Phase Ver. {Variable=0}.
+MSID_InstantBlade: Züngelnde Klinge{Variable=0}
+MSID_H_InstantBlade: Weicht die Einheit einer Attacke aus, erhält\nsie im Kampf Agr. {Variable=0}.
+MSID_BloodCommotion: Schwergewicht
+MSID_H_BloodCommotion: Die Einheit kann nicht zu einer berittenen\nEinheit oder Flugeinheit werden.\nVerleiht Fig. {Variable=0}.
+MSID_Pressure: Niederhalten{Variable=0}
+MSID_H_Pressure: Fügt benachbarten Gegnern Bew. {Variable=0} zu.
+MSID_Backup: Tapferer Helfer
+MSID_H_Backup: Verleiht benachbarten Verbündeten\nVer. {Variable=0}.
+MSID_FangFlash: Blitzhauer{Variable=0}
+MSID_H_FangFlash: Greift die Einheit an, erhält sie Agr. {Variable=0}\nund Trf. {Variable=1}. Chance in %: {Variable=2}
+MSID_StageProduction: Bühnenanweisung
+MSID_H_StageProduction: Verleiht Verbündeten innerhalb von\n{Variable=0} {SingularPlural0=Feld|Feldern} im Kampf KA {Variable=1}.\nChance in %: Chm. des Verb. ÷2
+MSID_H_R_StageProduction: Verleiht der Einheit im Kampf KA {Variable=0}.\nChance in %: Chm. ÷2
+MSID_H_R_StageProduction+: Verleiht der Einheit im Kampf\nKA/Trf. {Variable=0}. Chance in %: Chm. ÷2
+MSID_H_R_StageProduction++: Verleiht im Kampf KA/Trf./Krit. {Variable=0}.\nChance in %: Chm. ÷ 2
+MSID_Inspiration: Dramatik{Variable=0}
+MSID_H_Inspiration: Wenn Bühnenanweisung ausgelöst wird,\nerhalten verbündete Ziele Trf. {Variable=0}.
+MSID_H_Inspiration+: Wenn Bühnenanweisung ausgelöst wird,\nerhalten verbündete Ziele Trf./Krit. {Variable=0}.
+MSID_AdventureKing: Draufgängerglück{Variable=0}
+MSID_H_AdventureKing: Verleiht Glk. {Variable=0}.
+MSID_H_AdventureKing+: Verleiht der Einheit und allen Verbündeten\nGlk. {Variable=0}.
+MSID_SkilledGunner: Kanonierstalent
+MSID_H_SkilledGunner: Werden Feuerkugeln oder Ballistae\neingesetzt, erhält die Einheit Trf. {Variable=0}\nim Kampf.
+MSID_VictoryWind: Winde des Sieges
+MSID_H_VictoryWind: Greift die Einheit an, erhält sie Trf. {Variable=0}.\nWird sie angegriffen, erhält sie Aw. {Variable=1}.\nChance in %: Glk.
+MSID_CompanyManager: Führungsqualität
+MSID_H_CompanyManager: Erlaubt der Einheit und allen Verbündeten\ninnerhalb von {Variable=0} {SingularPlural0=Feld|Feldern} Zugriff auf den\nVorrat.
+MSID_Opportunity: Die Gelegenheit{Variable=0}
+MSID_H_Opportunity: Greift die Einheit an, vervielfacht sich der\nSchaden, den sie zufügt um {Variable=0}.\nChance in %: Glk. ÷2
+MSID_Hayabusa: Falke
+MSID_H_Hayabusa: Greift die Einheit zuerst an, erhält sie im\nKampf AG {Variable=0}.
+MSID_Quitting: Rezeption{Variable=0}
+MSID_H_Quitting: Kann die Einheit einen Folgeangriff\nausführen, erhält sie im Kampf Aw. {Variable=0}.
+MSID_Dying: Knappe Sache
+MSID_H_Dying: Sind die KP der Einheit ≥ {Variable=0}, überlebt\nsie einen ansonsten tödlichen Angriff mit\n1 KP. Chance in %: Glk.
+MSID_BadLuck: Teufelsglück{Variable=0}
+MSID_H_BadLuck: Hat die Einheit einen Gegner besiegt, erhält\nsie Glk. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_BeautifulLight: Anmutiges Licht
+MSID_H_BeautifulLight: Heilt die Einheit einen Verbündeten mit\nMagie, werden 0 Kosten dafür verbraucht.\nChance in %: Glk.
+MSID_FaithGift: Glaubensgeschenk{Variable=0}
+MSID_H_FaithGift: Heilt die Einheit einen Verbündeten mit\nMagie, werden {Variable=0} KP wiederhergestellt.\nChance in %: Glk.
+MSID_MechanicalBody: Solide und Robust{Variable=0}
+MSID_H_MechanicalBody: Verleiht Ver. {Variable=0}. Die Einheit ist gepanzert\nund kann nicht in die Klasse der Berittenen\noder der Flugeinheiten wechseln.
+MSID_H_MechanicalBody+: Verleiht Ver. {Variable=0} und Beh. {Variable=1}. Die Einh.\nist gepanzert. Sie kann nicht in die Klasse d.\nBerittenen oder der Flugeinheiten wechseln.
+MSID_NightLight: Siebter Sinn
+MSID_H_NightLight: Greift die Einheit zuerst an, erhält sie im\nKampf für Magie Trf. {Variable=0}.
+MSID_AdjustmentSoul: Harmonieseele{Variable=0}
+MSID_H_AdjustmentSoul: Heilt die Einheit einen Verbündeten mit\nMagie, wird bei der Einheit eine kleine\nMenge KP wiederhergestellt.
+MSID_H_AdjustmentSoul+: Heilt die Einheit einen Verbündeten mit\nMagie, werden bei der Einheit einige KP\nwiederhergestellt.
+MSID_GolemResonance: Selbstreparatur
+MSID_H_GolemResonance: Zu Beginn der Phase der Einheit und\nwährend Großbrand, werden bei der\nEinheit viele KP wiederhergestellt.
+MSID_Bodyguard: Leibwächter
+MSID_H_Bodyguard: Benachbarte Verbündete der Einheit\nkönnen im Kampf keinen Folgeangriff\nerleiden. Chance in % = {Variable=0}
+MSID_H_R_Bodyguard: Die Einheit kann im Kampf keinen\nFolgeangriff erleiden. Chance in %: {Variable=0}
+MSID_NoMercy: Gnadenlosigkeit{Variable=0}
+MSID_H_NoMercy: Führt die Einheit einen Folgeangriff aus,\nerhält sie Trf./Krit. {Variable=0}.
+MSID_GenerousHeart: Standhaftigkeit
+MSID_H_GenerousHeart: Sind die KP der Einheit ≥ 50 %, erhält sie\nim Kampf Aw. {Variable=0}.
+MSID_GreatCondition: Bestform{Variable=0}
+MSID_H_GreatCondition: Sind die KP der Einheit = 100 %, erhält sie\nim Kampf Agr. {Variable=0}.
+MSID_H_GreatCondition+: Sind die KP der Einheit = 100 %, erhält sie\nim Kampf Agr. {Variable=0} und Aw. {Variable=1}.
+MSID_BattleReady: Kampfbereitschaft
+MSID_H_BattleReady: Im ersten Kampf der Gegnerphase greift die\nEinheit zuerst an. Chance in %: {Variable=0}
+MSID_JusticeExecution: Urteilsspruch{Variable=0}
+MSID_H_JusticeExecution: Wird Diadem der Balance ausgelöst:\nAgr. {Variable=0}.
+MSID_SpiritVoice: Stimmen der Geister
+MSID_H_SpiritVoice: Wendet der Gegner Magie an, erhält die\nEinheit im Kampf Trf./Aw. {Variable=0}.
+MSID_SpiritWhisper: Hilfe der Geister{Variable=0}
+MSID_H_SpiritWhisper: Gewährt benachbarten Verbündeten\nStimmen der Geister.
+MSID_H_SpiritWhisper+: Verleiht Verbündeten innerhalb von\n{Variable=0} {SingularPlural0=Feld|Feldern} Stimmen der Geister.
+MSID_FlowQigong: Himmelsfluss
+MSID_H_FlowQigong: Verleiht Aw. {Variable=0}.
+MSID_WayCyclo: Meridian-Rotation
+MSID_H_WayCyclo: Verleiht Aw. {Variable=0}. Gewährt der\nEinheit den Einsatz der Brandtechnik\nHeller Drachenhieb.
+MSID_SevenCyclo: 7-Sterne-Harmonie
+MSID_H_SevenCyclo: Verleiht Aw. {Variable=0}. Gewährt der\nEinheit den Einsatz der Brandtechnik\nDrachenrotation.
+MSID_FullyCyclo: 7-Sterne-Dunjia
+MSID_H_FullyCyclo: Verleiht Aw. {Variable=0}. Gewährt der\nEinheit den Einsatz der Brandtechnik\n7-Sterne-Drache.
+MSID_SmoothContinuity: Kontinuum{Variable=0}
+MSID_H_SmoothContinuity: Weicht die Einheit einer Attacke aus,\nwerden bei ihr {Variable=0} KP wiederhergestellt.
+MSID_RouteExtension: Meridian-Erweiterung
+MSID_H_RouteExtension: Hat die Einheit einen Gegner besiegt, erhält\nsie max. KP {Variable=0} bis zum Abschluss der\nKarte (max. {Variable=1}).
+MSID_FirstMove: Flinker Zug
+MSID_H_FirstMove: Greift die Einheit zuerst an, erhält sie im\nKampf Agr. {Variable=1}. Chance in %: {Variable=0}
+MSID_Nonstop: Ohne Unterlass{Variable=0}
+MSID_H_Nonstop: Verleiht Agr. {Variable=1}, wenn Einheit angreift,\nnachdem Flinker Zug ausgelöst wurde.\nChance in %: {Variable=0}
+MSID_Detainer: Kühle Köpfe
+MSID_H_Detainer: Hat die Einheit Rückzug genutzt, kann sie\nBeistehmagie verwenden.
+MSID_HeadsUp: Wachsamkeit{Variable=0}
+MSID_H_HeadsUp: Verleiht benachbarten Verbündeten\nGes. {Variable=0}.
+MSID_OneShot: Nur eine Chance
+MSID_H_OneShot: Können Einheit und Gegner keine\nFolgeangriffe ausführen, erhält die\nEinheit Agr. {Variable=0} im Kampf.
+MSID_FullPower: Volle Stärke{Variable=0}
+MSID_H_FullPower: Greift die Einheit an, vervielfacht sich\nder Schaden, den sie zufügt um {Variable=0}.\nChance in %: Stä. ÷2
+MSID_Acclimatization: Flexibilität
+MSID_H_Acclimatization: Nach dem Kampf erhält die Einheit\nTrf. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_Foothold: Unterbindung{Variable=0}
+MSID_H_Foothold: Greift die Einheit zuerst an, erleidet der\nGegner nach dem Kampf Ges. {Variable=0} bis zum\nEnde des nächsten Kampfes der Einheit.
+MSID_Familiarity: Qi-Meisterschaft
+MSID_H_Familiarity: Verleiht Aw. {Variable=0}, wenn die Einheit\nangegriffen wird. Chance in %: Beh.
+MSID_AtWill: Hitzköpfigkeit
+MSID_H_AtWill: Verleiht der Einheit im Kampf entweder\nTrf. {Variable=0} oder Aw. {Variable=0} oder Krit. {Variable=0}.
+MSID_AtWillH: Hitzköpfigkeit (Trf.)
+MSID_AtWillT: Hitzköpfigkeit (Krit.)
+MSID_AtWillA: Hitzköpfigkeit (Aw.)
+MSID_FeelingGreat: Spitzenform{Variable=0}
+MSID_H_FeelingGreat: Verändert den Effekt von Hitzköpfigkeit um\nzusätzlich {Variable=0}.
+MSID_Transgression: Mönchszorn
+MSID_H_Transgression: Hat die Einheit einen Gegner besiegt,\nwerden bei ihr KP in Höhe ihrer max. KP\nwiederhergestellt. Chance in %: Glk. ÷2
+MSID_Buddhism: Starke Barriere{Variable=0}
+MSID_H_Buddhism: Wird die Einheit angegriffen, erhält sie\nSchild {Variable=0}. Chance in %: Die verbliebenen\nKP der Einheit.
+MSID_HorseCooperation: Mit meinem Ross
+MSID_H_HorseCooperation: Berittene. Greift die Einheit zuerst an,\nerhält sie im Kampf Schild {Variable=0} und\nKA {Variable=1}.
+MSID_RidingCharge: Berittener Stoß{Variable=0}
+MSID_H_RidingCharge: Berittene. Greift die Einheit zuerst an,\nerhält sie im Kampf Trf. {Variable=0}.
+MSID_H_RidingCharge+: Berittene. Greift die Einheit zuerst an,\nerhält sie im Kampf Trf. {Variable=0} und Agr. {Variable=1}.
+MSID_HunterAmbush: Jägerfalle
+MSID_H_HunterAmbush: Wurde dem Gegner in der Gegnerphase\nSchaden zugefügt, greift die Einheit im\nKampf zuerst an. Chance in %: {Variable=0}
+MSID_PrimeHunt: Königswürde{Variable=0}
+MSID_H_PrimeHunt: Wurde dem Gegner bereits Schaden\nzugefügt, werden im Kampf Agr. {Variable=0} und\nKrit. {Variable=1} gewährt.
+MSID_Concentration: Klarheit des Kriegers
+MSID_H_Concentration: Nach dem Kampf erhält die Einheit\nAw. {Variable=0} bis zu ihrer nächsten Phase.
+MSID_Zone: Eingespieltheit{Variable=0}
+MSID_H_Zone: Wird Klarheit des Kriegers ausgelöst, erhält\ndie Einheit Aw. {Variable=1} bis zu ihrer nächsten\nPhase. Chance in %: {Variable=0}
+MSID_HealingKnowledge: Heilendes Wissen
+MSID_H_HealingKnowledge: Heilt die Einheit einen Verbündeten mit\nMagie, werden bei der Einheit {Variable=0} KP\nwiederhergestellt.
+MSID_RemoteHealing: Fernheilung{Variable=0}
+MSID_H_RemoteHealing: Verleiht Heilmagie Rw. {Variable=0}.
+MSID_Gale: Sturmböenstrafe
+MSID_H_Gale: Ist die AG der Einheit ≥ AG des\nGegners +{Variable=0}, erhält die Einheit im\nKampf Trf. {Variable=1}.
+MSID_WindAlly: Windes Stärke{Variable=0}
+MSID_H_WindAlly: Ist die AG der Einheit ≥ AG des\nGegners +{Variable=0}, erhält die Einheit\nim Kampf Agr. {Variable=1}.
+MSID_H_WindAlly+: Ist AG ≥ gegn. AG +{Variable=0}, erhält Einh.\nAgr. {Variable=1} im Kampf, und ist ihre AG\n≥ gegn. AG +{Variable=2}, erhält sie zudem Aw. {Variable=3}.
+MSID_ForceForward: Durchstoß
+MSID_H_ForceForward: Berittene. Die Einheit kann durch von\nGegnern besetzte Felder ziehen. (Kann\nnicht durch große Gegner ziehen.)
+MSID_Galloping: Voller Galopp{Variable=0}
+MSID_H_Galloping: Berittene. Ändert die Bewegungskosten\nfür das Gelände um {Variable=0} (können nicht\ngeringer als 1 sein).
+MSID_AxKnife: Mann fürs Grobe
+MSID_H_AxKnife: Ist die Einheit mit einer Axt ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_Messy: Widerwärtigkeit{Variable=0}
+MSID_H_Messy: Sind die KP des Gegn. ≤ 50 %, erhält die\nEinheit im Kampf Trf. {Variable=0}.
+MSID_H_Messy+: Sind die KP des Gegners ≤ 50 %, erhält die\nEinheit Trf./Krit. {Variable=0} und Agr. {Variable=1} im\nKampf.
+MSID_RampageAx: Höllenaxt
+MSID_H_RampageAx: Ist die Einheit mit einer Axt ausgerüstet,\nerhält sie Stä. {Variable=0}.
+MSID_Fearless: Furchtlosigkeit{Variable=0}
+MSID_H_Fearless: Greift die Einheit zuerst an, erhält sie im\nKampf Agr. {Variable=0} und erleidet Aw. {Variable=1}.
+MSID_ReadyFiring: Streitwagenkunst
+MSID_H_ReadyFiring: Berittene. Lenkt die Einheit einen\nStreitwagen, erhält sie Trf. {Variable=0}.
+MSID_ChariotRider: Streitwagenkür{Variable=0}
+MSID_H_ChariotRider: Lenkt die Einheit einen Streitwagen, kann\nsie Wilder Angriff {Variable=0}-mal ausführen.
+MSID_StrongArcher: Schützenstärke
+MSID_H_StrongArcher: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Stä. {Variable=0}.
+MSID_Penetration: Durchbohren{Variable=0}
+MSID_H_Penetration: Greift die Einheit mit einer Bogentechnik\nan, erhält sie Agr. {Variable=0} und Krit. {Variable=1}.
+MSID_SkillfulCounter: Konter-Experte
+MSID_H_SkillfulCounter: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf Trf. {Variable=0}.
+MSID_FuriousCounter: Konter-Raserei{Variable=0}
+MSID_H_FuriousCounter: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf Agr. {Variable=0}.
+MSID_H_FuriousCounter+: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf Agr. {Variable=0} und Krit. {Variable=1}.
+MSID_SilverMaiden: Silberne Maid
+MSID_H_SilverMaiden: Verleiht der Einheit für jeden benachbarten\nVerbündeten Trf./Aw. {Variable=0}.
+MSID_TakeFlight: Überflieger{Variable=0}
+MSID_H_TakeFlight: Befindet sich die Einheit auf\nunpassierbarem Gelände, erhält\nsie AG {Variable=0}.
+MSID_Violence: Tyrannei
+MSID_H_Violence: Wirkt auf den Gegner ein Statuseffekt,\nerhält die Einheit Agr. {Variable=0} und Krit. {Variable=1}\nim Kampf.
+MSID_Intimidation: Bedrohung{Variable=0}
+MSID_H_Intimidation: Halbiert KA des Gegners im Kampf.\nChance in %: {Variable=0}
+MSID_SecretTechnique: Har-Hali-Weisheit
+MSID_H_SecretTechnique: Ist die Attacke der Einheit gegen den\nGegner effektiv, erhält die Einheit im\nKampf Agr. {Variable=0}.
+MSID_Mysteries: Präzisionsschlag{Variable=0}
+MSID_H_Mysteries: Ist die Attacke der Einheit gegen den\nGegner effektiv, erhält die Einheit im\nKampf Trf. {Variable=0}.
+MSID_SalvationLight: Licht der Erlösung{Variable=0}
+MSID_H_SalvationLight: Hebt Unterweltstärke bei Gegnern innerhalb\nvon {Variable=0} {SingularPlural0=Feld|Feldern} auf.
+MSID_H_R_SalvationLight: Hebt Unterweltstärke auf.
+MSID_BlazingSun: Glühende Sonne{Variable=0}
+MSID_H_BlazingSun: Reduziert den Schaden, den wandelnde\nTote zufügen, auf 0. Chance in %: {Variable=0}
+MSID_RedMagic: Zhu Ming
+MSID_H_RedMagic: Ist die Einheit mit Magie ausgerüstet, erhält\nsie Trf. {Variable=0}.
+MSID_MagicBoost: Verstärkermagie{Variable=0}
+MSID_H_MagicBoost: Nach dem Kampf erhält die Einheit\nAgr. {Variable=0} bis zum Ende ihres nächsten\nKampfes. Chance in %: Mag. ÷2
+MSID_Unju: Yun Shou
+MSID_H_Unju: Ist die Einheit mit Panzerhänden\nausgerüstet, erhält sie Trf. {Variable=0}.
+MSID_Alteration: Anderswaffe{Variable=0}
+MSID_H_Alteration: Ist die Einheit mit Zerberus ausgerüstet,\nsind ihre Angriffe effektiv gegen\nFlugeinheiten.
+MSID_H_Alteration+: Ist die Einheit mit Zerberus ausgerüstet,\nsind ihre Angriffe effektiv+ gegen\nFlugeinheiten.
+MSID_Windstorm: Windsturm
+MSID_H_Windstorm: Greift die Einheit zuerst an, erhält sie im\nKampf Trf./Aw. {Variable=0}.
+MSID_CorundumDefense: Schutz des Korund
+MSID_H_CorundumDefense: Im ersten Kampf in der Gegnerphase wird\nder Schaden, den die Einheit erleidet,\nhalbiert.
+MSID_AgarthaPower: Agartha-Technologie
+MSID_H_AgarthaPower: Fügt benachbarten Gegnern Agr. {Variable=0} zu.
+MSID_BowPrincess: Bogenprinzessin
+MSID_H_BowPrincess: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_Ambition: Fürstlicher Ehrgeiz
+MSID_H_Ambition: Halbiert im Kampf den gegnerischen\nTrf.-Wert. Chance in %: {Variable=0}
+MSID_RecklessRush: Überstürzte Eile
+MSID_H_RecklessRush: Greift die Einheit zuerst an, erhält sie im\nKampf AG {Variable=0} und Trf. {Variable=1}.
+MSID_Calm: Bedachte Eile
+MSID_H_Calm: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf AG {Variable=0} und Aw. {Variable=1}.
+MSID_MysticalProtection: Funkelnder Stern
+MSID_H_MysticalProtection: Ist der Gegner ein wandelnder Toter,\nerhält die Einheit Schild {Variable=0} im Kampf.
+MSID_GodEye: Kriegeraugen
+MSID_H_GodEye: Befindet sich der Gegner {Variable=0}+ Felder\nentfernt von der Einheit, erhält diese im\nKampf Aw. {Variable=1}.
+MSID_GoddessBarrier: Irdische Barriere
+MSID_H_GoddessBarrier: Verleiht benachbarten Verbündeten\nSchild {Variable=0} und KA {Variable=1}.
+MSID_GodWisdom: Arkane Weisheit
+MSID_H_GodWisdom: Wendet die Einheit Magie an, werden\ndie Kosten dafür auf 0 reduziert.\nChance in %: {Variable=0}
+MSID_Supernatural: Göttliche Schmiede
+MSID_H_Supernatural: Setzt die Einheit eine Kampftechnik ein,\nverringert sich die Haltbarkeit der Waffe\nim Kampf nicht. Chance in %: {Variable=0}
+MSID_GodHunting: Gabe der Jägerin
+MSID_H_GodHunting: Greift die Einheit mit einer Bogentechnik\nan, erhält sie Agr. {Variable=0}.
+MSID_ElephantRun: Elefantenhast
+MSID_H_ElephantRun: Berittene. Reitet die Einheit einen\nElefanten, kann sie Wilder Angriff\n{Variable=0}-mal ausführen.
+MSID_SilverSpirit: Geist des Silbers
+MSID_H_SilverSpirit: Nach dem Kampf erhält die Einheit\nVer. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}). Chance in %: Ver.
+MSID_BrotherCoop: Zwillingstakt
+MSID_H_BrotherCoop: Befindet sich die Einheit neben Chiara,\nerhält sie Trf. {Variable=0}.
+MSID_SisterCoop: Zwillingstakt
+MSID_H_SisterCoop: Befindet sich die Einheit neben Churness,\nerhält sie Aw. {Variable=0}.
+MSID_FistStyle: Pythontechnik
+MSID_H_FistStyle: Wird eine Kampftechnik für Panzerhände\nangewandt, führt die Einh. unabhängig von der\nAG einen Folgeangriff aus. Chance in %: {Variable=0}
+MSID_GetOnOff: Auf-/Absitzen
+MSID_H_GetOnOff: Erlaubt Aufsitzen und Absitzen.
+MSID_Unlock: Schlossknacker
+MSID_H_Unlock: Ermöglicht der Einheit das Öffnen von\nTruhen, auch wenn sie keinen Schlüssel\nbesitzt.
+MSID_Exploration: Kunst des Suchens
+MSID_H_Exploration: Etwas höhere Wahrscheinlichkeit, dass die\nErgebnisse der Suche perfekt sind.
+MSID_AdvancedExploration: Erweiterte Suche
+MSID_H_AdvancedExploration: Höhere Wahrscheinlichkeit, dass die\nErgebnisse der Suche perfekt sind.
+MSID_SuperExploration: Meisterhafte Suche
+MSID_H_SuperExploration: Sehr hohe Wahrscheinlichkeit, dass die\nErgebnisse der Suche perfekt sind.
+MSID_GodExploration: Ultimative Suche
+MSID_H_GodExploration: Extrem hohe Wahrscheinlichkeit, dass die\nErgebnisse der Suche perfekt sind.
+MSID_BowHit: Bogentreffer{Variable=0}
+MSID_H_BowHit: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_AxeHit: Axttreffer{Variable=0}
+MSID_H_AxeHit: Ist die Einheit mit einer Axt ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_GauntletAvoid: Faust-Aw.{Variable=0}
+MSID_H_GauntletAvoid: Ist die Einheit mit Panzerhänden\nausgerüstet, erhält sie Aw. {Variable=0}.
+MSID_SwordCritical: Schwert-Krt.{Variable=0}
+MSID_H_SwordCritical: Ist die Einheit mit einem Schwert\nausgerüstet, erhält sie Krit. {Variable=0}.
+MSID_SecondDefense: Letzte Chance{Variable=0}
+MSID_H_SecondDefense: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf Schu. {Variable=0}.
+MSID_CombatEquipment: Kampftechniken{Variable=0}
+MSID_H_CombatEquipment: Die Einheit kann {Variable=0} Kampftechniken\nausrüsten.
+MSID_FlightAvoid: Flug-Aw.{Variable=0}
+MSID_H_FlightAvoid: Flugeinheiten. Verleiht Aw. {Variable=0}.
+MSID_MagicRecovery: Magie-Heilung{Variable=0}
+MSID_H_MagicRecovery: Heilt die Einheit einen Verbündeten mit\nMagie, werden bei der Einheit {Variable=0} KP\nwiederhergestellt.
+MSID_MagicHit: Magietreffer{Variable=0}
+MSID_H_MagicHit: Ist die Einheit mit Magie ausgerüstet, erhält\nsie Trf. {Variable=0}.
+MSID_BlackMagicQuest: Schwarzmagiesucher
+MSID_H_BlackMagicQuest: Vervielfacht die Anzahl der möglichen\nEinsätze von Schwarzmagie um {Variable=0}.
+MSID_WhiteMagicQuest: Weißmagiesucher
+MSID_H_WhiteMagicQuest: Vervielfacht die Anzahl der möglichen\nEinsätze von Weißmagie um {Variable=0}.
+MSID_WhiteMagicEx: Weißmagiezenit
+MSID_AllMagicQuest: Sucher aller Magie
+MSID_H_AllMagicQuest: Vervielfacht die Anzahl der möglichen\nEinsätze von Schwarz- und Weißmagie\num {Variable=0}.
+MSID_AllMagicEx: Zenit aller Magie
+MSID_GoldenArmor: Rüstungswall
+MSID_H_GoldenArmor: Hebt „effektiv gegen Gepanzerte“ auf.
+MSID_GoldenRun: Goldritt
+MSID_H_GoldenRun: Hebt „effektiv gegen Berittene“ auf.
+MSID_MechanicalWing: Rüstungsflügel
+MSID_H_MechanicalWing: Hebt „effektiv gegen Flugeinheiten“ auf.
+MSID_TankArmor: Streitwagenpanzer
+MSID_H_TankArmor: Berittene. Verleiht Schild {Variable=0}.\nDie Einheit kann gegnerischen\nAngriffen nicht ausweichen.
+MSID_ElephantLeg: Elefantenstiefel
+MSID_H_ElephantLeg: Berittene. Die Einheit erleidet den halben\nSchaden durch gegnerische Angriffe. Sie\nkann Angriffen nicht ausweichen.
+MSID_TankRoad: Wagenlenkers Weg
+MSID_H_TankRoad: Die Entwicklungsrate der Einheit steigt\nmit dem Level.
+MSID_ElephantRoad: Elefantenreiters Weg
+MSID_H_ElephantRoad: Die Entwicklungsrate der Einheit steigt\nmit dem Level.
+MSID_Rush_skill: Wagenlenkertaktik
+MSID_H_Rush_skill: Erlaubt Aufsitzen und Absitzen.\nBerittene. Erlaubt den Einsatz\nvon Angriffssturm.
+MSID_HeavyRush_skill: Elefantentaktik
+MSID_H_HeavyRush_skill: Erlaubt Aufsitzen und Absitzen.\nBerittene. Erlaubt den Einsatz\nvon Schwerer Sturm.
+MSID_Dance_skill: Tanzen
+MSID_H_Dance_skill: Erlaubt der Einheit, die Kampftechnik\nTanzen einzusetzen.
+MSID_GauntletHit: Faustschlag{Variable=0}
+MSID_H_GauntletHit: Während die Einheit mit Panzerhänden\nausgerüstet ist, erhält sie Trf. {Variable=0}.
+MSID_BattleBasics: Kampfgrundlagen
+MSID_H_BattleBasics: Verleiht Trf./Aw. {Variable=0}.
+MSID_HuntingBasics: Jagdgrundlagen
+MSID_H_HuntingBasics: Verleiht Beh./Ges. {Variable=0}.
+MSID_CombatBasics: Angriffsgrundlagen
+MSID_H_CombatBasics: Verleiht Stä. {Variable=0}.
+MSID_DefenseBasics: Verteidig.grundlagen
+MSID_H_DefenseBasics: Verleiht Ver. {Variable=0}.
+MSID_MagicBasics: Magiegrundlagen
+MSID_H_MagicBasics: Verleiht Mag./Res. {Variable=0}.
+MSID_AttackBasics: Offensivgrundlagen
+MSID_H_AttackBasics: Verleiht Stä./Mag. {Variable=0}.
+MSID_DoWell: Crescendo
+MSID_H_DoWell: Hat die Einheit einen Gegner besiegt, erhält\nsie Trf. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_ShadowHide: Im Schatten
+MSID_H_ShadowHide: Hat die Einheit einen Gegner besiegt,\nerhält sie Aw. {Variable=0} bis zum Ende ihres\nnächsten Kampfes.
+MSID_Restructuring: Neu sammeln
+MSID_H_Restructuring: Weicht der Gegner einem Angriff aus, erhält\ndie Einheit im Kampf Aw. {Variable=0}.
+MSID_HitAway: Angriff-Rückzug
+MSID_H_HitAway: Greift die Einheit mit einer Kampftechnik\nan, erhält sie im Kampf Aw. {Variable=0}.
+MSID_ClearSkill: Verheerende Technik
+MSID_H_ClearSkill: Führt die Einheit einen kritischen Angriff\naus, fügt sie {Variable=0} Schaden zu.
+MSID_BigCounter: Große Talion
+MSID_H_BigCounter: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf Agr. {Variable=0}.
+MSID_Chaser: Angriffsorkan
+MSID_H_Chaser: Wird Angriffssturm eingesetzt, erhält die\nEinheit Schu. {Variable=0} bis zur nächsten Phase\nder Einheit.
+MSID_PhysicalStrength: KP-Plus
+MSID_H_PhysicalStrength: Verleiht max. KP {Variable=0}.
+MSID_Faith: Frömmigkeit
+MSID_H_Faith: Verleiht Glk. {Variable=0}.
+MSID_TechniqueCurse: Beh.-Fluch
+MSID_H_TechniqueCurse: Fügt benachbarten Gegnern Beh. {Variable=0} zu.
+MSID_PegasusFavor: Schützende Flügel
+MSID_H_PegasusFavor: Verleiht Res. {Variable=0}.
+MSID_SensingThreats: Sensibilität
+MSID_H_SensingThreats: Ist die Attacke des Gegners effektiv\ngegen die Einheit, erhält diese im Kampf\nAw. {Variable=0}.
+MSID_HunterEyes: Des Jägers Auge
+MSID_H_HunterEyes: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Agr. {Variable=0}, wenn sie einen\nFolgeangriff ausführt.
+MSID_ShootingMaster: Schützenkunst
+MSID_H_ShootingMaster: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_CounterShooting: Gegenschuss
+MSID_H_CounterShooting: Ist die Einheit mit einem Bogen ausgerüstet,\nkann sie im Kampf Angriffe benachbarter\nGegner kontern. Chance in %: {Variable=0}
+MSID_Practitioner: Provisorium
+MSID_H_Practitioner: Setzt die Einheit eine Kampftechnik ein,\nverringert sich die Haltbarkeit der Waffe\nim Kampf nicht. Chance in %: {Variable=0}
+MSID_Proficiency: Technikversiertheit
+MSID_H_Proficiency: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Trf. {Variable=0}.
+MSID_Zanshin: Stete Wachsamkeit
+MSID_H_Zanshin: Hat die Einheit einen Gegner mit einem\nkritischen Angriff besiegt, wird bei ihr eine\nkleine Menge KP wiederhergestellt.
+MSID_Tightening: Band
+MSID_H_Tightening: Hat die Einheit einen Gegner besiegt, erhält\nsie Schu. {Variable=0} bis zu ihrer nächsten Phase.
+MSID_FocusingCounter: Konter-Fokus
+MSID_H_FocusingCounter: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf Trf. {Variable=0}.
+MSID_LargeShield: Pavise
+MSID_H_LargeShield: Wird die Einheit mit einer physischen\nAttacke angegriffen, halbiert sich der\nSchaden, den sie erleidet. Chance i. %: {Variable=0}
+MSID_HolyShield: Aegis
+MSID_H_HolyShield: Wird die Einheit mit Magie angegriffen,\nhalbiert sich der erlittene Schaden.\nChance in %: {Variable=0}
+MSID_ElephantBearer: Elefantenvorhut
+MSID_H_ElephantBearer: Berittene. Reitet die Einheit einen\nElefanten, erhält sie Trf. {Variable=0}.
+MSID_SacredBarrier: Bannkreis
+MSID_H_SacredBarrier: Verleiht benachbarten Verbündeten\nRes. {Variable=0}.
+MSID_SpeedCurse: Ges.-Fluch
+MSID_H_SpeedCurse: Fügt benachbarten Gegnern Ges. {Variable=0} zu.
+MSID_SiegeBreaker: Belagerer
+MSID_H_SiegeBreaker: Befindet sich der Gegner auf vorteilhaftem\nGelände, erhält die Einheit Trf. {Variable=0}\nim Kampf.
+MSID_RunThrough: Überholen
+MSID_H_RunThrough: Hat die Einheit einen Gegner besiegt,\nerhält sie bis zum Ende ihres nächsten\nZuges Bew. {Variable=0} (max. {Variable=1}).
+MSID_SpecialDance: Derwischtanz
+MSID_H_SpecialDance: Setzt die Einheit Tanzen ein, erhält das\nverbündete Ziel in der aktuellen Phase\nBeh./Ges. {Variable=0}.
+MSID_DarkMoon: Dunkler Mond
+MSID_H_DarkMoon: Halbiert bei einem Angriff den gegnerischen\nSchild-Wert. Chance in %: {Variable=0}
+MSID_SteadfastStance: Resoluter Stand
+MSID_H_SteadfastStance: Sind die KP der Einheit = 100 %, erhält sie\nSchild {Variable=0} im Kampf.
+MSID_SoulArmor: Unterschlagung
+MSID_H_SoulArmor: Wird die Einheit angegriffen, reduziert sich\nder erlittene Schaden um {Variable=0}.
+MSID_FerociousShield: Erbitterter Schild
+MSID_H_FerociousShield: Greift die Einheit zuerst an, halbiert sich\nder Schaden, den die Einheit im Kampf\nerleidet. Chance in %: {Variable=0}
+MSID_ProtectionArmor: Gesegnete Rüstung
+MSID_H_ProtectionArmor: Nach dem Kampf wird bei der Einheit eine\nkleine Menge KP wiederhergestellt.
+MSID_MagicControl: Magiedominanz
+MSID_H_MagicControl: Wendet der Gegner Magie an, kann der\nAngriff der Einheit im Kampf nicht gekontert\nwerden. Chance in %: {Variable=0}
+MSID_MagicCurse: Res.-Fluch
+MSID_H_MagicCurse: Fügt benachbarten Gegnern Res. {Variable=0} zu.
+MSID_LightningStorm: Rasante Reflexe
+MSID_H_LightningStorm: Greift die Einheit zuerst an und ist ihre\nAG ≥ gegn. AG+{Variable=0}, führt sie einen\nFolgeangr. aus, bevor Gegn. kontern kann.
+MSID_Raid: Hinterhalt
+MSID_H_Raid: Befindet sich die Einheit auf\nunpassierbarem Gelände, erhält\nsie Agr. {Variable=0}.
+MSID_MagicEntomb: Magiebegräbnis
+MSID_H_MagicEntomb: Wenden Einheit und Gegner Magie an,\nerhält die Einheit Agr. {Variable=0} im Kampf.
+MSID_DivineEye: Göttliches Auge
+MSID_DivineLife: Göttlicher Wille
+MSID_H_DivineLife: Verleiht Glk. {Variable=0}.
+MSID_DivineEquipment: Göttliche Zierde
+MSID_H_DivineEquipment: Verleiht Res. {Variable=0}.
+MSID_DivineForce: Göttliche Macht
+MSID_H_DivineForce: Verleiht Stä. {Variable=0}.
+MSID_DivineDance: Göttlicher Tanz
+MSID_H_DivineDance: Verleiht Chm. {Variable=0}.
+MSID_DivineBattle: Göttliche Einsicht
+MSID_H_DivineBattle: Verleiht Ges. {Variable=0}.
+MSID_DivineShield: Göttliche Wand
+MSID_H_DivineShield: Verleiht Ver. {Variable=0}.
+MSID_DivineArmor: Göttliche Rüstung
+MSID_DivineSkill: Göttliche Beh.
+MSID_H_DivineSkill: Verleiht Beh. {Variable=0}.
+MSID_DivineMagic: Göttliches Gesetz
+MSID_H_DivineMagic: Verleiht Mag. {Variable=0}.
+MSID_DivineSpeed: Göttliche Ges.
+MSID_SwordSkill: Schwerter {Variable=0}
+MSID_H_SwordSkill1: Ist die Einheit mit einem Schwert\nausgerüstet, erhält sie Trf. {Variable=0}.
+MSID_H_SwordSkill3: Ist die Einheit mit einem Schwert\nausgerüstet, erhält sie Trf./Aw. {Variable=0}.
+MSID_SwordMastery: Schwertspezialist
+MSID_H_SwordMastery: Ist die Einheit mit einem Schwert\nausgerüstet, erhält sie Trf./Aw. {Variable=0}\nund Agr. {Variable=1}.
+MSID_SpearSkill: Lanzen {Variable=0}
+MSID_H_SpearSkill1: Ist die Einheit mit einer Lanze ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_H_SpearSkill3: Ist die Einheit mit einer Lanze ausgerüstet,\nerhält sie Trf./Aw. {Variable=0}.
+MSID_SpearMastery: Lanzenspezialist
+MSID_H_SpearMastery: Ist die Einheit mit einer Lanze ausgerüstet,\nerhält sie Trf./Aw. {Variable=0} und Agr. {Variable=1}.
+MSID_Axeskill: Äxte {Variable=0}
+MSID_H_Axeskill1: Ist die Einheit mit einer Axt ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_H_Axeskill3: Ist die Einheit mit einer Axt ausgerüstet,\nerhält sie Trf./Aw. {Variable=0}.
+MSID_AxeMastery: Axtspezialist
+MSID_H_AxeMastery: Ist die Einheit mit einer Axt ausgerüstet,\nerhält sie Trf./Aw. {Variable=0} und Agr. {Variable=1}.
+MSID_Bowskill: Bögen {Variable=0}
+MSID_H_Bowskill1: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_H_Bowskill3: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Trf./Aw. {Variable=0}.
+MSID_BowMastery: Bogenspezialist
+MSID_H_BowMastery: Ist die Einheit mit einem Bogen ausgerüstet,\nerhält sie Trf./Aw. {Variable=0} und Agr. {Variable=1}.
+MSID_GauntletSkill: Faustkampf {Variable=0}
+MSID_H_GauntletSkill1: Ist die Einheit mit Panzerhänden\nausgerüstet, erhält sie Trf. {Variable=0}.
+MSID_H_GauntletSkill3: Ist die Einheit mit Panzerhänden\nausgerüstet, erhält sie Trf./Aw. {Variable=0}.
+MSID_GauntletMastery: Faustkampfspezialist
+MSID_H_GauntletMastery: Ist die Einheit mit Panzerhänden\nausgerüstet, erhält sie Trf./Aw. {Variable=0}\nund Agr. {Variable=1}.
+MSID_BlackMagicSkill: Schwarzmagie {Variable=0}
+MSID_H_BlackMagicSkill1: Ist die Einheit mit Schwarzmagie\nausgerüstet, erhält sie Trf. {Variable=0}.
+MSID_H_BlackMagicSkill3: Ist die Einheit mit Schwarzmagie\nausgerüstet, erhält sie Trf./Aw. {Variable=0}.
+MSID_BlackMagicMastery: Schwarzmagiemeister
+MSID_H_BlackMagicMastery: Ist die Einheit mit Schwarzmagie\nausgerüstet, erhält sie Trf./Aw. {Variable=0}\nund Agr. {Variable=1}.
+MSID_WhiteMagicSkill: Weißmagie {Variable=0}
+MSID_H_WhiteMagicSkill1: Ist die Einheit mit Weißmagie ausgerüstet,\nerhält sie Trf. {Variable=0}.
+MSID_H_WhiteMagicSkill3: Ist die Einheit mit Weißmagie ausgerüstet,\nerhält sie Trf./Aw. {Variable=0}.
+MSID_WhiteMagicMastery: Weißmagiemeister
+MSID_H_WhiteMagicMastery: Ist die Einheit mit Weißmagie\nausgerüstet, erhält sie Trf./Aw. {Variable=0}\nund Agr. {Variable=1}.
+MSID_KnightSense: Ritterliche Sinne
+MSID_H_KnightSense: Verwendet der Gegner eine Lanze, erhält\ndie Einheit im Kampf Aw. {Variable=0}.
+MSID_KnightVanguard: Vorreiter{Variable=0}
+MSID_H_KnightVanguard: Berittene. Greift die Einheit zuerst an,\nerhält sie im Kampf Schild {Variable=0}.
+MSID_CavalryMove: Kavallerie-Bew.{Variable=0}
+MSID_H_CavalryMove: Berittene. Ändert die Bewegungskosten\nfür das Gelände um {Variable=0} (können nicht\ngeringer als 1 sein).
+MSID_ReadingWind: Windleser
+MSID_H_ReadingWind: Verwendet der Gegner einen Bogen, erhält\ndie Einheit im Kampf Aw. {Variable=0}.
+MSID_FastFlight: Flitzflieger{Variable=0}
+MSID_H_FastFlight: Flugeinheiten. Greift die Einheit zuerst an,\nerhält sie im Kampf AG {Variable=0}.
+MSID_FlightMove: Flugkampf{Variable=0}
+MSID_H_FlightMove: Flugeinheiten. Greift die Einheit zuerst an,\nerhält sie Trf. {Variable=0} im Kampf.
+MSID_FrontStrategy: Front-Strategem
+MSID_H_FrontStrategy: Nachdem die Einheit ein Strategem\neingesetzt hat, erhält sie Agr. {Variable=0} bis zu\nihrer nächsten Phase.
+MSID_WalkingMove: Infanterie-Bew.{Variable=0}
+MSID_H_WalkingMove: Infanterie. Ändert die Bewegungskosten\nfür das Gelände um {Variable=0} (können nicht\ngeringer als 1 sein).
+MSID_Physique: Figur{Variable=0}
+MSID_H_Physique: Verleiht Fig. {Variable=0}.
+MSID_AttackFormation: Angriffsformation{Variable=0}
+MSID_H_AttackFormation: Verleiht benachbarten Verbündeten\nAgr. {Variable=0}.
+MSID_DefensiveFormation: Defensivformation{Variable=0}
+MSID_H_DefensiveFormation: Verleiht benachbarten Verbündeten\nSchild {Variable=0}.
+MSID_Diversion: Ablenkung{Variable=0}
+MSID_H_Diversion: Benachbarte Gegner erleiden Trf. {Variable=0}.
+MSID_Restraint: Zügel{Variable=0}
+MSID_H_Restraint: Benachbarte Gegner erleiden Aw. {Variable=0}
+MSID_Threat: Gefährden{Variable=0}
+MSID_H_Threat: Benachbarte Gegner erleiden Krit. {Variable=0}.
+MSID_AntiSniper: Schützen-Konter{Variable=0}
+MSID_H_AntiSniper: Gegnerische Bogenschützen innerhalb von\n{Variable=0} {SingularPlural0=Feld|Feldern} erleiden Trf./Aw. {Variable=1}.
+MSID_AntiMagic: Magier-Konter{Variable=0}
+MSID_H_AntiMagic: Gegnerische Magieanwender innerhalb von\n{Variable=0} {SingularPlural0=Feld|Feldern} erleiden Trf./Aw. {Variable=1}.
+MSID_AntiCavalry: Reiter-Konter{Variable=0}
+MSID_H_AntiCavalry: Gegnerische Berittene innerhalb von\n{Variable=0} {SingularPlural0=Feld|Feldern} erleiden Trf./Aw. {Variable=1}.
+MSID_AntiFlyer: Flieger-Konter{Variable=0}
+MSID_H_AntiFlyer: Gegnerische Flugeinheiten innerhalb von\n{Variable=0} {SingularPlural0=Feld|Feldern} erleiden Trf./Aw. {Variable=1}.
+MSID_StrategyMaster: Strategem-Meister
+MSID_H_StrategyMaster: Die Einheit kann {Variable=0}-mal ein Strategem\neinsetzen.
+MSID_MeleeRange: Nahkampf{Variable=0}
+MSID_H_MeleeRange: Infanterie. Fügt benachbarten Gegnern\nBew. {Variable=0} zu.
+MSID_BarelyAvoid: Ausweichen{Variable=0}
+MSID_H_BarelyAvoid: Infanterie. Wird die Einheit angegriffen,\nerhält sie Aw. {Variable=1}. Chance in %: {Variable=0}
+MSID_ShootingStability: Ruhiger Schuss{Variable=0}
+MSID_H_ShootingStability: Infanterie. Ist die Einheit mit einem Bogen\noder mit Magie ausgerüstet, erhält sie\nTrf. {Variable=0}.
+MSID_FatalAvoid: Unheilmeidung{Variable=0}
+MSID_H_FatalAvoid: Infanterie. Verleiht KA {Variable=0}.
+MSID_PredicamentAvoid: Unfallmeidung
+MSID_H_PredicamentAvoid: Infanterie. Sind die KP der Einheit ≤ 50 %,\nerhält sie im Kampf Aw. {Variable=0}.
+MSID_SniperAvoid: Schützenmeidung{Variable=0}
+MSID_H_SniperAvoid: Infanterie. Befindet sich der Gegner\n{Variable=0}+ Felder entfernt von der Einheit,\nerhält diese im Kampf Aw. {Variable=1}.
+MSID_WalkingRemove: 2. Schritt (Infanterie)
+MSID_H_WalkingRemove: Infanterie. Nach dem Kampf kann die\nEinheit sich bis zu {Variable=0} {SingularPlural0=Feld|Felder} weit\nbewegen.
+MSID_Evasion: Krit. Ausw.{Variable=0}
+MSID_H_Evasion: Infanterie. Nutzt der Gegner einen Bogen\noder Magie, erhält die Einheit Aw. {Variable=0}\nim Kampf.
+MSID_PassThrough: Passieren
+MSID_H_PassThrough: Infanterie. Die Einheit kann sich über ein\nFeld bewegen, welches von einem Gegner\nbesetzt ist.
+MSID_TakePosition: Positionierung{Variable=0}
+MSID_H_TakePosition: Infanterie. Befindet sich die Einheit auf\nvorteilhaftem Gelände, erhält sie im Kampf\nAw. {Variable=0}.
+MSID_H_TakePosition+: Infanterie. Befindet sich die Einheit auf\nvorteilhaftem Gelände, erhält sie im Kampf\nAw. {Variable=0}, Schild {Variable=1}.
+MSID_SurpriseAttack: Überraschungsangriff
+MSID_H_SurpriseAttack: Infanterie. Befindet sich die Einheit auf\nvorteilhaftem Gelände, erhält sie Trf. {Variable=0}\nim Kampf.
+MSID_SuperiorCombat: Kampfvorteil
+MSID_H_SuperiorCombat: Infanterie. Befindet sich die Einheit auf\nvorteilhaftem Gelände, erhält sie Agr. {Variable=0}\nim Kampf.
+MSID_ImmediateDefense: Enge Verteidigung
+MSID_H_ImmediateDefense: Wird die Einheit angegriffen, erhält sie\nSchild {Variable=1}. Chance in %: {Variable=0}
+MSID_DeadlyDefense: Krit. Ver.
+MSID_H_DeadlyDefense: Wird die Einheit mit einem kritischen\nAngriff angegriffen, halbiert sich der\nSchaden, den sie erleidet. Chance i. %: {Variable=0}
+MSID_ArmorMove: Gepanzerte Bew.{Variable=0}
+MSID_H_ArmorMove: Gepanzerte. Verleiht Bew. {Variable=0}.
+MSID_ArmorCombat: Gepanz. Kampf{Variable=0}
+MSID_H_ArmorCombat: Gepanzerte. Verleiht Beh. {Variable=0}.
+MSID_ContinuousDefense: Ver. verfolgen
+MSID_H_ContinuousDefense: Führt der Gegner einen Folgeangriff aus,\nhalbiert sich der Schaden, den die Einheit\nerleidet. Chance in %: {Variable=0}
+MSID_HeavyBreak: Harter Bruch{Variable=0}
+MSID_H_HeavyBreak: Gepanzerte. Greift die Einheit an,\nvervielfacht sich Schaden, den sie zufügt,\num {Variable=0}. Chance in %: Ver. ÷2
+MSID_ArmorStep: Gepanz. Sprung{Variable=0}
+MSID_H_ArmorStep: Gepanzerte. Verleiht Aw. {Variable=0}.
+MSID_PreventBow: Bogenblockade
+MSID_H_PreventBow: Gepanzerte. Nutzt der Gegner einen Bogen,\nerhält die Einheit Schild {Variable=0} im Kampf.
+MSID_PreventSpear: Lanzenblockade
+MSID_H_PreventSpear: Gepanzerte. Nutzt der Gegner eine Lanze,\nerhält die Einheit Schild {Variable=0} im Kampf.
+MSID_BowShield: Bogenblockade+
+MSID_H_BowShield: Gepanzerte. Nutzt der Gegner einen Bogen,\nerhält die Einheit Schild {Variable=0} im Kampf.
+MSID_MultipleCounter: Konterhagel
+MSID_H_MultipleCounter: Greift der Gegner zuerst an, führt die\nEinheit, unabhängig von der AG im Kampf,\neinen Folgeangriff aus. Chance in %: {Variable=0}
+MSID_AbsoluteDefense: Absolute Ver.{Variable=0}
+MSID_H_AbsoluteDefense: Gepanzerte. Wird die Einheit angegriffen,\nerhält sie Schild {Variable=1}. Chance in %: {Variable=0}
+MSID_Blocking: Stä.-Sicherung
+MSID_H_Blocking: Wird die Einheit angegriffen, halbiert\nsich der Schaden, den sie erleidet.\nChance in %: Stä. ÷2
+MSID_SuperGuard: Ver.-Sicherung
+MSID_H_SuperGuard: Wird die Einheit angegriffen, halbiert\nsich der Schaden, den sie erleidet.\nChance in %: Ver. ÷2
+MSID_MagicArmor: Mag.-Sicherung
+MSID_H_MagicArmor: Wird die Einheit angegriffen, halbiert\nsich der Schaden, den sie erleidet.\nChance in %: Res. ÷2
+MSID_TacticalGuard: Beh.-Sicherung
+MSID_H_TacticalGuard: Wird die Einheit angegriffen, halbiert\nsich der Schaden, den sie erleidet.\nChance in %: Beh. ÷2
+MSID_LuckyGuard: Glk.-Sicherung
+MSID_H_LuckyGuard: Wird die Einheit angegriffen, halbiert\nsich der Schaden, den sie erleidet.\nChance in %: Glk. ÷2
+MSID_HeelArmor: Heilrüstung
+MSID_H_HeelArmor: Gepanzerte. Bei der Einheit wird die\nHälfte des Schadens, den sie zufügt, in\nKP wiederhergestellt. Chance in %: Mag.
+MSID_MagicResist: Resistent-Panzer{Variable=0}
+MSID_H_MagicResist: Gepanzerte. Verleiht Res. {Variable=0}.
+MSID_DarkFlame: Unterweltausbruch
+MSID_H_DarkFlame: Entfesselt dunkle Flammen.
+MSID_H_B_DarkFlame: Entfesselt dunkle Flammen.\nWirkt Unterweltflamme auf\nFelder in Reichweite.
+MSID_DarkWave: Schwarzfeuer
+MSID_H_DarkWave: Entfesselt dunkle Flammen in einem großen\nBereich.
+MSID_H_B_DarkWave: Entfesselt dunkle Flammen in einem\ngroßen Bereich. Wirkt Unterweltflamme\nauf Felder in Reichweite.
+MSID_DarkStar: Unterweltinferno
+MSID_H_DarkStar: Entfesselt dunkle Flammen, die bei einem\nTreffer explodieren. Wirkt Unterweltflamme\nauf Felder in Reichweite. (1-mal/Karte.)
+MSID_H_E_DarkStar: Entfesselt dunkle Flammen, die bei einem\nTreffer explodieren. Wirkt Unterweltflamme\nauf Felder in Reichweite.
+MSID_ShadowBlade: Schattenläufer
+MSID_H_ShadowBlade: Die Einheit teleportiert sich bis zu\n{Variable=0} {SingularPlural0=Feld|Felder} weit. Danach kann sie\nangreifen.
+MSID_ShadowBind: Stickiger Schatten
+MSID_H_ShadowBind: Die Einheit teleportiert sich bis zu\n{Variable=0} {SingularPlural0=Feld|Felder} weit. Dann fügt sie Gegnern\ninnerhalb von {Variable=1} {SingularPlural1=Feld|Feldern} Paralyse zu.
+MSID_ShadowDestruction: Ruinöser Schatten
+MSID_H_ShadowDestruction: Die Einheit teleportiert sich bis zu 5 Felder\nweit. Dann fügt sie Gegnern in Reichweite\nSchaden zu.
+MSID_RoaringRock: Grollende Erde
+MSID_H_RoaringRock: Die Einheit spaltet den Boden, um dann\neine Wurfattacke auszuführen.
+MSID_H_B_RoaringRock: Die Einheit spaltet den Boden, um dann\neine Wurfattacke auszuführen. Sie trifft\ngarantiert.
+MSID_MightyRock: Bebende Erde
+MSID_H_MightyRock: Die Einheit führt eine Wurfattacke aus\n(Fernangriff).
+MSID_H_B_MightyRock: Die Einheit führt eine Wurfattacke aus\n(Fernangriff). Sie trifft garantiert.
+MSID_CometRock: Heller Komet
+MSID_H_CometRock: Die Einheit führt eine Wurfattacke aus, die\nGegner durchbohrt. Sie trifft garantiert.\n(Nur 1-mal pro Karte anwendbar.)
+MSID_EnthusiasticSong: Lied mit Verve{Variable=0}
+MSID_H_EnthusiasticSong: Verleiht Verbündeten in Reichweite bis zur\nnächsten Phase der Einheit Stä./Mag. {Variable=0}.
+MSID_H_EnthusiasticSong++: Verleiht Verbündeten in Reichweite bis zur\nnächsten Phase der Einheit Stä./Mag. {Variable=0}\nund Bew. {Variable=1}.
+MSID_H_EnthusiasticSongHell: Vervielfacht bei Verbündeten in Reichweite\nStä./Mag. um {Variable=0} bis zur nächsten Phase\nder Einheit.
+MSID_FrozenSong: Lied vom Eiswasser{Variable=0}
+MSID_H_FrozenSong: Verleiht Verbündeten in Reichweite bis zur\nnächsten Phase der Einheit Ver./Res. {Variable=0}.
+MSID_H_FrozenSong++: Stellt bei Verbündeten in Rw. einige KP\nwieder her und verleiht diesen bis zur\nnächsten Phase der Einheit Ver./Res. {Variable=0}.
+MSID_H_FrozenSongHell: Vervielfacht bei Verbündeten in Reichweite\nVer./Res. um {Variable=0} bis zur nächsten Phase\nder Einheit.
+MSID_H_FrozenSongEnemy: Verleiht Verbündeten in Reichweite bis zur\nnächsten Phase der Einheit Schild {Variable=0}.
+MSID_PurificationSong: Lied der Läuterung
+MSID_H_PurificationSong: Verleiht Verbündeten in Reichweite bis zur\nnächsten Phase der Einheit „effektiv gegen\nwandelnde Tote“.
+MSID_FrenzySong: Lied des Wahnsinns
+MSID_H_FrenzySong: Verursacht bei Gegnern in Reichweite\nVerwirrung. (Nur 1-mal pro Karte\nanwendbar.)
+MSID_H_E_FrenzySong: Fügt Gegnern in Reichweite Verwirrung zu.
+MSID_ResentmentSong: Lied der Bestien
+MSID_H_ResentmentSong: Beschwört eine Dämonenbestie.\n(Nur 1-mal pro Karte anwendbar.)
+MSID_H_E_ResentmentSong: Beschwört eine Dämonenbestie.
+MSID_GoddessDance: Lied der Engel
+MSID_H_GoddessDance: Erlaubt Verbündeten in Reichweite eine\nweitere Aktion. (Nur 1-mal pro Karte\nanwendbar.)
+MSID_CollapseCurse: Ruinöser Fluch
+MSID_H_CollapseCurse: Gegner erleiden Benommenheit über\n{Variable=0} {SingularPlural0=Kampf|Kämpfe} oder {Variable=1} {SingularPlural1=Zug|Züge} hinweg.\nBenommenheit: Halbiert Trf.
+MSID_SlowingCurse: Tempo-Fluch
+MSID_H_SlowingCurse: Gegner erleiden Verlangsamung über\n{Variable=0} {SingularPlural0=Kampf|Kämpfe} oder {Variable=1} {SingularPlural1=Zug|Züge} hinweg.\nLangsam: Halbiert AG.
+MSID_MisfortuneCurse: Unglücklicher Fluch
+MSID_H_MisfortuneCurse: Gegner erleiden Pech über\n{Variable=0} {SingularPlural0=Kampf|Kämpfe} oder {Variable=1} {SingularPlural1=Zug|Züge} hinweg.\nPech: Halbiert Glk.
+MSID_AttackCurse: Stä./Mag.-Fluch
+MSID_H_AttackCurse: Gegner erleiden Stärkewechsel über\n{Variable=0} {SingularPlural0=Kampf|Kämpfe} oder {Variable=1} {SingularPlural1=Zug|Züge} hinweg.\nStärkewechsel: Tauscht Stä. und Mag.
+MSID_DefenseCurse: Ver./Res.-Fluch
+MSID_H_DefenseCurse: Gegner erleiden Defensivwechsel über\n{Variable=0} {SingularPlural0=Kampf|Kämpfe} oder {Variable=1} {SingularPlural1=Zug|Züge} hinweg.\nDefensivwechsel: Tauscht Ver. und Res.
+MSID_PowerAwakening: Herrschers Erwachen
+MSID_H_PowerAwakening: Erweckt verborgenes Kampftalent. Verleiht\nder Einh. Trf. {Variable=0} bis zu ihrer nächsten Phase.\nSie kann nach der Verwendung angreifen.
+MSID_H_PowerAwakening+: Verleiht der Einheit Trf. {Variable=0} und Agr. {Variable=1}\nbis zu ihrer nächsten Phase. Sie kann nach\nder Verwendung angreifen.
+MSID_H_E_PowerAwakening1: Entfesselt verborgenes Kampftalent.\nVerleiht Trf. {Variable=0} bis zum Ende des\nnächsten Kampfes der Einheit.
+MSID_H_E_PowerAwakening2: Entfesselt verborgenes Kampftalent.\nVerleiht Trf. {Variable=0} und Agr. {Variable=1} bis zum\nEnde des nächsten Kampfes der Einheit.
+MSID_SkillAwakening: Erwachender Blitz
+MSID_H_SkillAwakening: Erweckt verborgene Kampffertigkeit. Verleiht\nder Einh. Schu. {Variable=0} bis zu ihrer nächsten\nPhase. Sie kann nach Verwendung angreifen.
+MSID_H_E_SkillAwakening1: Entfesselt verborgene Kampffertigkeit.\nVerleiht Schu. {Variable=0} bis zum Ende des\nnächsten Kampfes der Einheit.
+MSID_H_E_SkillAwakening2: Entfesselt verborgene Kampffertigkeit.\nVerleiht Schu. {Variable=0} bis zum Ende des\nnächsten Kampfes der Einheit.
+MSID_StormAwakening: Erwachender Sturm
+MSID_H_StormAwakening: Erweckt verborgene Kampfinstinkte. Verleiht\nder Einh. Aw. {Variable=0} bis zu ihrer nächsten Phase.\nSie kann nach der Verwendung angreifen.
+MSID_H_StormAwakening+: Verleiht der Einheit Aw./KA {Variable=0} bis\nzu ihrer nächsten Phase. Kann nach der\nVerwendung angreifen.
+MSID_H_E_StormAwakening1: Entfesselt verborgene Kampfinstinkte.\nVerleiht Aw. {Variable=0} bis zum Ende des\nnächsten Kampfes der Einheit.
+MSID_H_E_StormAwakening2: Entfesselt verborgene Kampfinstinkte.\nVerleiht Aw./KA {Variable=0} bis zum Ende des\nnächsten Kampfes der Einheit.
+MSID_Elisabeth: Elizabeth
+MSID_H_Elisabeth: Initiiert Großbrand. Danach kann die\nEinheit angreifen. (Nur 1-mal pro Karte\nanwendbar.)
+MSID_Strahl: Strahl
+MSID_H_Strahl: Greift Gegner in großem Umkreis mit einem\nLichtstrahl an.
+MSID_Lanze: Lichtlanze
+MSID_H_Lanze: Durchbohrt einen Gegner mit einem\nLichtstrahl. Effektiv gegen wandelnde Tote.
+MSID_DragonSurge_1: Drachenhieb I
+MSID_DragonSurge_2: Drachenhieb II
+MSID_DragonSurge_3: Drachenhieb III
+MSID_H_DragonSurge: Entfesselt eine im Körper kultivierte Macht\nals Flächenangriff. Kann Hindernisse\nzerstören.
+MSID_GlitterDragonSurge: Heller Drachenhieb
+MSID_H_GlitterDragonSurge: Entfesselt eine im Körper kultivierte Macht\nals Flächenangriff. Kann Hindernisse\nzerstören.
+MSID_RevolveDragonSurge: Drachenrotation
+MSID_H_RevolveDragonSurge: Entfesselt eine Spirale aus Energie. Kann\nHindernisse zerstören.
+MSID_SevenStarsSurge: 7-Sterne-Drache
+MSID_H_SevenStarsSurge: Entfesselt eine zerstörerische Welle mit\nder Macht des Arkanen Geheimnisses.\nKann Hindernisse zerstören.
+MSID_WhiteCrowSpear_1: Reinigender Blitz
+MSID_H_WhiteCrowSpear_1: Durchbohrt Gegner mit einer Lanze aus\nheiligem Licht. Effektiv gegen wandelnde\nTote.
+MSID_WhiteCrowSpear_2: Reinigender Blitz+
+MSID_H_WhiteCrowSpear_2: Durchbohrt Gegner mit einer Lanze aus\nheiligem Licht. Effektiv gegen wandelnde\nTote. Trifft garantiert.
+MSID_WhiteCrowSpear_3: 9-Himmel-Hieb
+MSID_H_WhiteCrowSpear_3: Durchbohrt Gegner mit einer Lanze aus\nLicht. Effektiv+ gegen wandelnde Tote.\nTrf.-Garantie.
+MSID_WhiteCrowSpear_4: 9-Himmel-Hieb+
+MSID_WhiteCrowSpear_5: Himmelsteiler
+MSID_ResistAwakening: Erwachender Geist
+MSID_H_ResistAwakening: Erweckt verborgenes Kampftalent. Verleiht\nder Einh. Rsl. {Variable=0} bis zu ihrer nächsten Phase.\nSie kann nach der Verwendung angreifen.
+MSID_HardAttack: Zornesschlag{Variable=0}
+MSID_H_HardAttack: Hoher Trf.-Wert.
+MSID_Bisection: Spaltung{Variable=0}
+MSID_H_Bisection: Hoher Krit.-Wert.
+MSID_DewCutting: Nebelschlitzer{Variable=0}
+MSID_H_DewCutting: Verleiht der Einheit im Kampf Aw. {Variable=0}.
+MSID_Chopped: Streichschlag{Variable=0}
+MSID_H_Chopped: Niedriger Trf.-Wert. Hoher Kft.-Wert.
+MSID_SwallowReversal: Tiefer Fall{Variable=0}
+MSID_H_SwallowReversal: Effektiv gegen Flugeinheiten.
+MSID_TigerSlash: Tigerstreich{Variable=0}
+MSID_H_TigerSlash: Effektiv gegen Berittene.
+MSID_ArmorPasser: Panzerriss{Variable=0}
+MSID_H_ArmorPasser: Effektiv gegen Gepanzerte.
+MSID_SecretSword: Wendige Klinge{Variable=0}
+MSID_H_SecretSword: Fügt mindestens {Variable=0} Schaden zu.
+MSID_ShadowHunt: Schattenschlag{Variable=0}
+MSID_H_ShadowHunt: Befindet sich der Gegner auf vorteilhaftem\nGelände, werden Geländeeffekte negiert.
+MSID_HittingPeaks: Bezwinger{Variable=0}
+MSID_H_HittingPeaks: Sind die KP des Gegn. ≥ 2, überlebt der\nGegner mit 1 KP. Kann keinen Folgeangriff\nausführen.
+MSID_Crosswise: Kreuzschnitt{Variable=0}
+MSID_H_Crosswise: Nach dem Kampf erhält die Einheit\nBeh. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_Destrezza: Destreza{Variable=0}
+MSID_H_Destrezza: Sind die KP des Gegners ≤ 50%, erhält die\nEinheit Agr. {Variable=0} und Krit. {Variable=1}.
+MSID_RippleSlash: Rippelnstreich{Variable=0}
+MSID_H_RippleSlash: Treffer garantiert.
+MSID_H_RippleSlash+: Treffer garantiert. Kann die Einheit einen\nFolgeangriff ausführen, trifft auch dieser\ngarantiert.
+MSID_BlazingSlash: Brandhieb{Variable=0}
+MSID_H_BlazingSlash: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Stä. ÷2
+MSID_GaleSlash: Sturmhieb{Variable=0}
+MSID_H_GaleSlash: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Ges. ÷2
+MSID_BladeSlash: Blitzhieb{Variable=0}
+MSID_H_BladeSlash: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Beh. ÷2
+MSID_DoubleSlash: Doppelklinge{Variable=0}
+MSID_H_DoubleSlash: Greift {Variable=0}-mal hintereinander an und\nfügt jedes Mal {Variable=1} % Schaden zu.
+MSID_MagicSlash: Hexklinge{Variable=0}
+MSID_H_MagicSlash: Wird als magischer Angriff gewertet.
+MSID_MistReaper: Nebelschnitter{Variable=0}
+MSID_H_MistReaper: Verleiht der Einheit im Kampf Aw. {Variable=0}.\nFührt sie einen Folgeangriff aus, erhält sie\nKrit. {Variable=1}.
+MSID_DarkRays: Finsterstrahl{Variable=0}
+MSID_H_DarkRays: Fügt dem Gegner Trf./Aw./Krit. {Variable=0} im\nKampf zu.
+MSID_WindGnaw: Windfeger{Variable=0}
+MSID_H_WindGnaw: Trifft die Attacke den Gegner, kann dieser\nnicht kontern. Chance in %: {Variable=0}
+MSID_SkySplit: Himmelsriss{Variable=0}
+MSID_H_SkySplit: Verleiht im Kampf AG {Variable=0}.
+MSID_HeatHaze: Hitzeschleier{Variable=0}
+MSID_H_HeatHaze: Hat die Einheit einen Gegner besiegt, erhält\nsie Aw. {Variable=0} bis zu ihrer nächsten Phase.
+MSID_GreatAttack: Zorniger Hieb{Variable=0}
+MSID_H_GreatAttack: Hoher Kft.-/Trf.-Wert.
+MSID_SingleSlash: Einzelspaltung{Variable=0}
+MSID_H_SingleSlash: Niedriger Trf.-Wert und geringer\nVerlust der Haltbarkeit. Hoher Kft.-Wert.
+MSID_BladeSlam: Klingenstoß{Variable=0}
+MSID_H_BladeSlam: Die Trefferrate der Einheit wird auf {Variable=0}\ngesetzt.
+MSID_FatefulSlash: Schicksalshieb{Variable=0}
+MSID_H_FatefulSlash: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Glk. ÷2
+MSID_SteppingWind: Sturmausbruch{Variable=0}
+MSID_H_SteppingWind: Verleiht der Einheit im Kampf AG {Variable=0}.\nFührt sie einen Folgeangriff aus, erhält sie\nAgr. {Variable=1}.
+MSID_TriceFlash: Böser Blitz{Variable=0}
+MSID_H_TriceFlash: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Beh. ÷2
+MSID_GreatMagicAttack: Stärkere Hexklinge{Variable=0}
+MSID_H_GreatMagicAttack: Hoher Kft.- und Trf.-Wert. Wird als\nmagischer Angriff gewertet.
+MSID_Ryusei: Astra{Variable=0}
+MSID_H_Ryusei: Greift 5-mal hintereinander an und\nfügt jedes Mal {Variable=0} % Schaden zu.
+MSID_BloodSlash: Blutvergießen{Variable=0}
+MSID_H_BloodSlash: Sehr hoher Krit.-Wert.\nEffektiv gegen Drachen.
+MSID_FlameStorm: Feuersturm
+MSID_H_FlameStorm: Sehr hoher Kft.-Wert.
+MSID_KillingSword: Tödliche Klinge
+MSID_H_KillingSword: Hoher Krit.-Wert.
+MSID_LayeredPoison: Gifternte
+MSID_H_LayeredPoison: Ist der Gegner vergiftet, wird bei der Einheit\ndie Hälfte des zugefügten Schadens in KP\nwiederhergestellt.
+MSID_ThunderAttack: Blitzschlag
+MSID_H_ThunderAttack: Die Einheit entfesselt aus ihrem Schwert\nheraus mächtige Blitze. Wird als magischer\nAngriff gewertet.
+MSID_PoisonFuneral: Giftbestattung
+MSID_H_PoisonFuneral: Ist der Gegner vergiftet, erhält die Einheit\nAgr. {Variable=0}.
+MSID_DesperateFlower: Zurechtstutzen
+MSID_H_DesperateFlower: Die Haltbarkeit der Waffe verringert sich\nbeim Angriff nicht. Chance in %: Beh.
+MSID_MoonDestruction: Mondbrecher
+MSID_H_MoonDestruction: Sehr hoher Trf.-/Krit.-Wert.
+MSID_DarkWind: Giftiger Wind
+MSID_H_DarkWind: Trifft die Attacke der Einheit den Gegner,\nfügt sie ihm Gift zu. Wird als magischer\nAngriff gewertet. Kein Folgeangriff möglich.
+MSID_LuckSteal: Glücksfall
+MSID_H_LuckSteal: Hat die Einheit einen Gegner besiegt, erhält\nsie Glk. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_WindSpear: Sturmlanze{Variable=0}
+MSID_H_WindSpear: Hoher Trf.-Wert.
+MSID_GaleSpear: Orkanlanze{Variable=0}
+MSID_H_GaleSpear: Hoher Krit.-Wert.
+MSID_FlowSpear: Windlanze{Variable=0}
+MSID_H_FlowSpear: Verleiht der Einheit im Kampf Aw. {Variable=0}.
+MSID_GuardianSpear: Defensivlanze{Variable=0}
+MSID_H_GuardianSpear: Verleiht der Einheit im Kampf Schild {Variable=0}.
+MSID_ConcentratedThrow: Fokussierter Wurf{Variable=0}
+MSID_H_ConcentratedThrow: Hoher Trf.-Wert. (Nur für Lanzen/Speere\nmit Rw. = 1-2.)
+MSID_KongoStrike: Defensiver Hieb{Variable=0}
+MSID_H_KongoStrike: Hat die Einheit einen Gegner besiegt, erhält\nsie Schu. {Variable=0} bis zu ihrer nächsten Phase,\nkann aber keinen Folgeangriff ausführen.
+MSID_Stinger: Stachel{Variable=0}
+MSID_H_Stinger: Niedriger Trf.-Wert. Hoher Kft.-Wert.
+MSID_HolyThrust: Geheiligte Lanze{Variable=0}
+MSID_H_HolyThrust: Nach dem Kampf wird bei der Einheit eine\nkleine Menge KP wiederhergestellt.
+MSID_H_HolyThrust+: Nach dem Kampf werden bei der Einheit\neinige KP wiederhergestellt.
+MSID_DoubleThrow: Doppelwurf{Variable=0}
+MSID_H_DoubleThrow: Greift {Variable=0}-mal hintereinander an.\n(Nur für Lanzen/Speere mit Rw. = 1-2.)
+MSID_Pushing: Schlag{Variable=0}
+MSID_H_Pushing: Mittlerer Kft.-Wert.
+MSID_FlyingSpear: Fluglanze{Variable=0}
+MSID_H_FlyingSpear: Die Einheit führt einen Folgeangriff aus,\nbevor der Gegner kontern kann.
+MSID_H_FlyingSpear+: Die Einheit führt einen Folgeangriff aus,\nbevor der Gegner kontern kann. Verleiht\nbeim Folgeangriff Krit. {Variable=0}.
+MSID_SwordBreaker: Schwertbrecher{Variable=0}
+MSID_H_SwordBreaker: Verwendet der Gegner ein Schwert, erhält\ndie Einheit Agr. {Variable=0}.
+MSID_H_SwordBreaker+: Verwendet der Gegner ein Schwert, erhält\ndie Einheit Agr. {Variable=0} und Trf. {Variable=1}.
+MSID_BrilliantStrike: Brillanter Schlag{Variable=0}
+MSID_H_BrilliantStrike: Hat die Einheit einen Gegner besiegt, erhält\nsie Rsl. {Variable=0} bis zu ihrer nächsten Phase.
+MSID_FastThrust: Schneller Schub{Variable=0}
+MSID_H_FastThrust: Verleiht im Kampf AG {Variable=0}.
+MSID_GuardianWind: Abwehrsturm{Variable=0}
+MSID_H_GuardianWind: Verleiht im Kampf Schu. {Variable=0}.
+MSID_BreakRush: Vorreiterlanze{Variable=0}
+MSID_H_BreakRush: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Stä. ÷2
+MSID_Hamshin: Khamsin{Variable=0}
+MSID_H_Hamshin: Ist der Trf.-Wert des Gegn. ≤ {Variable=0},\nsinkt dessen Trf.-Wert im Kampf auf 0.
+MSID_DefenceThrust: Abwehrlanze{Variable=0}
+MSID_H_DefenceThrust: Verleiht der Einheit im Kampf KA {Variable=0}.
+MSID_WindIceSpear: Frostlanzenschnitt{Variable=0}
+MSID_H_WindIceSpear: Wird als magischer Angriff gewertet.\n(Nur für Lanzen/Speere mit Rw. = 1-2.)
+MSID_Rollover: Verdrehter Takt{Variable=0}
+MSID_H_Rollover: Der Gegner greift zuerst an.
+MSID_H_Rollover+: Der Gegner greift zuerst an. Verleiht\nim Kampf Schild {Variable=0}.
+MSID_IceSpear: Frostlanze{Variable=0}
+MSID_H_IceSpear: Wird als magischer Angriff gewertet.
+MSID_FlowingAttack: Segensschlag{Variable=0}
+MSID_H_FlowingAttack: Beim Einsatz dieser Attacke verringert\nsich die Haltbarkeit der Waffe nicht.\nChance in %: Beh. ÷2
+MSID_StrongThrow: Großer Wurf{Variable=0}
+MSID_H_StrongThrow: Hoher Kft.-/Trf.-Wert (Nur für Lanzen und\nSpeere mit Rw. = 1-2.)
+MSID_CavalryBury: Edler Kniefall{Variable=0}
+MSID_H_CavalryBury: Greift {Variable=0}-mal an und fügt jedes\nMal {Variable=2} % Schaden zu. Ist der Gegner\nein Berittener, erhält die Einheit Trf. {Variable=1}.
+MSID_Tempest: Wütender Sturm{Variable=0}
+MSID_H_Tempest: Hoher Kft.-/Trf.-Wert.
+MSID_NoDust: Ohnespur
+MSID_H_NoDust: Effektiv gegen Bestien und Drachen.
+MSID_Sun: Sonne
+MSID_H_Sun: Bei der Einheit werden X KP\nwiederhergestellt. (X = Hälfte des\nSchadens, den sie zugefügt hat.)
+MSID_SpearStarlight: Funkelstern
+MSID_H_SpearStarlight: Effektiv gegen wandelnde Tote. Wird\nals magischer Angriff gewertet. Kein\nFolgeangriff möglich.
+MSID_HolyAttack: Heiliger Hieb
+MSID_H_HolyAttack: Hat die Einheit einen Gegner besiegt,\nwerden bei ihr einige KP wiederhergestellt.
+MSID_WindBlowing: Windgespinst
+MSID_H_WindBlowing: Trifft die Attacke den Gegner, kann dieser\nnicht kontern. Chance in %: {Variable=0}
+MSID_KillingSpear: Tödliche Lanze
+MSID_H_KillingSpear: Hoher Krit.-Wert.
+MSID_PowerThrow: Brutaler Wurf
+MSID_H_PowerThrow: Niedriger Trf.-Wert. Sehr hoher Kft.-Wert.
+MSID_FullMoon: Vollmond
+MSID_H_FullMoon: Nach dem Kampf werden bei der Einheit\neinige KP wiederhergestellt.
+MSID_BlackRoar: Schwarzes Gebrüll
+MSID_H_BlackRoar: Hat die Einheit einen Gegner besiegt, erhält\nsie Schu. {Variable=0} bis zu ihrer nächsten Phase.
+MSID_CavalryBreak: Kavallerie-Ruin
+MSID_H_CavalryBreak: Verleiht im Kampf gegen Berittene\nAgr. {Variable=0}.
+MSID_OverlordSnake: Oberste Schlange
+MSID_H_OverlordSnake: Hohe Rw. Kein Folgeangriff möglich.
+MSID_Spike: Dorn{Variable=0}
+MSID_H_Spike: Hoher Trf.-Wert.
+MSID_Smash: Spalter{Variable=0}
+MSID_H_Smash: Hoher Krit.-Wert.
+MSID_HalfSpike: Halber Dorn{Variable=0}
+MSID_H_HalfSpike: Verleiht im Kampf Aw. {Variable=0}.
+MSID_HelmetSplit: Helmspalter{Variable=0}
+MSID_H_HelmetSplit: Effektiv gegen Gepanzerte.
+MSID_ThrowAttack: Aufschlag{Variable=0}
+MSID_H_ThrowAttack: Hoher Trf.-Wert.\n(Nur für Äxte mit Rw. = 1-2.)
+MSID_SafeAttack: Sachter Angriff{Variable=0}
+MSID_H_SafeAttack: Weicht der Gegner einem Angriff aus, kann\ner nicht kontern. Die Einheit fügt halben\nSchaden zu. Kein Folgeangriff möglich.
+MSID_DoubleAttack: Doppelangriff{Variable=0}
+MSID_H_DoubleAttack: Greift {Variable=0}-mal hintereinander an und\nfügt jedes Mal {Variable=1} % Schaden zu.
+MSID_RageUp: Erzürnen{Variable=0}
+MSID_H_RageUp: Nach dem Kampf erhält die Einheit\nStä. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_ThrowingMagicAxe: Magiewurf{Variable=0}
+MSID_H_ThrowingMagicAxe: Wird als magischer Angriff gewertet.\n(Nur für Äxte mit Rw. = 1-2.)
+MSID_ReversalAttack: Spiegeltanz{Variable=0}
+MSID_H_ReversalAttack: Wenn der Gegner einen Folgeangriff\nausführen würde, kann er dies nicht tun. Die\nEinh. führt stattdessen einen Folgeangr. aus.
+MSID_CrazyAttack: Wilde Hingabe{Variable=0}
+MSID_H_CrazyAttack: Niedriger Trf.-Wert. Hoher Kft.-Wert.
+MSID_WildFang: Klingenhieb{Variable=0}
+MSID_H_WildFang: Nach dem Kampf erhält die Einheit\nBeh. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_SpearBreaker: Lanzenvernichter{Variable=0}
+MSID_H_SpearBreaker: Verwendet der Gegner Lanze/Speer, erhält\ndie Einheit Agr. {Variable=0}.
+MSID_H_SpearBreaker+: Verwendet der Gegner Lanze oder Speer,\nerhält die Einheit Agr. {Variable=0} und Trf. {Variable=1}.
+MSID_Crash: Absturz{Variable=0}
+MSID_H_Crash: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Verwirrung. Chance\nin %: {Variable=0}. Kein Folgeangriff möglich. 
+MSID_AscertainAttack: Delikater Schlag{Variable=0}
+MSID_H_AscertainAttack: Sehr hoher Trf.-Wert. Fügt halben Schaden\nzu.
+MSID_GuardSpike: Schutzdorn{Variable=0}
+MSID_H_GuardSpike: Verleiht im Kampf Schu. {Variable=0}.
+MSID_LightningAx: Blitzaxt{Variable=0}
+MSID_H_LightningAx: Wird als magischer Angriff gewertet.
+MSID_RiotAttack: Agitation{Variable=0}
+MSID_H_RiotAttack: Führt die Einheit einen Folgeangriff aus,\nerhält sie Agr. {Variable=0}.
+MSID_GiantKiller: Riesen-Brecher{Variable=0}
+MSID_H_GiantKiller: Ist der Gegner groß, erhält die Einheit\nAgr. {Variable=0}.
+MSID_H_GiantKiller+: Ist der Gegner groß, erhält die Einheit\nAgr. {Variable=0} und Trf. {Variable=1}.
+MSID_TripleSpike: Dreifachdorn{Variable=0}
+MSID_H_TripleSpike: Greift {Variable=0}-mal an. Weicht der Gegner\neinem der Angriffe aus, erhält die Einheit\nTrf. {Variable=1}.
+MSID_H_TripleSpike+: Greift {Variable=0}-mal an. Weicht der Gegner\neinem der Angriffe aus, erhält die Einheit\nTrf./Krit. {Variable=1}.
+MSID_KillerSpike: Todesdorn{Variable=0}
+MSID_H_KillerSpike: Hoher Kft.- /Krit.-Wert.
+MSID_PowerSpike: Machtdorn{Variable=0}
+MSID_H_PowerSpike: Hoher Kft.-/Trf.-Wert.
+MSID_TomahawkThrow: Mächtiger Wurf{Variable=0}
+MSID_H_TomahawkThrow: Hoher Kft.-/Trf.-Wert (Nur für Äxte mit\nRw. = 1-2.)
+MSID_DoubleEagle: Doppelschwung{Variable=0}
+MSID_H_DoubleEagle: Greift {Variable=0}-mal hintereinander an und\nfügt jedes Mal {Variable=1} % Schaden zu.\n(Nur für Äxte mit Rw. = 1-2.)
+MSID_MirrorWater: Seelenruhe{Variable=0}
+MSID_H_MirrorWater: Sehr hoher Trf.-Wert.
+MSID_MargeBlake: Magiebrecher{Variable=0}
+MSID_H_MargeBlake: Verwendet der Gegner Magie, erhält die\nEinheit Agr. {Variable=0}.
+MSID_H_MargeBlake+: Verwendet der Gegner Magie, erhält die\nEinheit Agr. {Variable=0} und Trf. {Variable=1}.
+MSID_FlashAttack: Sekundenhieb{Variable=0}
+MSID_H_FlashAttack: Greift die Einheit an oder führt einen\nFolgeangriff aus, erhält sie Agr. {Variable=0}.\nChance in %: Ges. ÷2
+MSID_BloodyBlitz: Blutbad{Variable=0}
+MSID_H_BloodyBlitz: Hat die Einheit einen Gegner besiegt, erhält\nsie Schild {Variable=0} bis zum Ende ihres nächsten\nKampfes.
+MSID_WarDemon: Kriegsmeisterschlag{Variable=0}
+MSID_H_WarDemon: Vervielfacht den zugefügten Schaden\num {Variable=0}.
+MSID_GodAttack: Göttlicher Schlag
+MSID_H_GodAttack: Sehr hoher Kft.-Wert.
+MSID_FireRing: Flammenring
+MSID_H_FireRing: Der erste Treffer ist von Magie erfüllt.\nHoher Kft.-Wert. Wird als magischer Angriff\ngewertet.
+MSID_Hazetsu: Domination{Variable=0}
+MSID_H_Hazetsu: Der Schaden, den die Einheit erleidet,\nwird berechnet, als sei Unterweltstärke\ndes Gegners negiert.
+MSID_HellViscera: Unterweltviszera
+MSID_H_HellViscera: Erster Treffer ist von Magie erfüllt. Wird als\nmagischer Angriff gewertet. Trifft dieser,\nwird der Gegner vergiftet.
+MSID_CrushingAttack: Pulverisieren
+MSID_H_CrushingAttack: Kann Hindernisse zerstören.
+MSID_StormWalk: Sturmschritt
+MSID_H_StormWalk: Hat die Einheit einen Gegner besiegt, erhält\nsie AG {Variable=0} bis zu ihrer nächsten Phase.
+MSID_DemonSplit: Magiespalter
+MSID_H_DemonSplit: Wendet der Gegner Magie an, erhält die\nEinheit Trf. {Variable=0} und Agr. {Variable=1}.
+MSID_SpinTurn: Rotation
+MSID_H_SpinTurn: Sehr hoher Trf.-Wert.
+MSID_MagicStrike: Magiehieb
+MSID_H_MagicStrike: Der erste Treffer ist von Magie erfüllt. Wird\nals magischer Angriff gewertet.
+MSID_CriticalShot: Listiger Schuss{Variable=0}
+MSID_H_CriticalShot: Hoher Krit.-Wert.
+MSID_CurvedShot: Schweifschuss{Variable=0}
+MSID_H_CurvedShot: Hoher Trf.-Wert.
+MSID_Sniper: Blick{Variable=0}
+MSID_H_Sniper: Hohe Rw. Kein Folgeangriff möglich.
+MSID_EnclosureArrow: Umschließen{Variable=0}
+MSID_H_EnclosureArrow: Trifft die Attacke der Einheit den Gegner,\nfügt sie ihm bis zur nächsten Phase der\nEinheit Bew. {Variable=0} zu.
+MSID_SurpriseArrow: Überraschung{Variable=0}
+MSID_H_SurpriseArrow: Sind die KP des Gegners = 100 %, erhält die\nEinheit Agr. {Variable=1}. Chance in %: {Variable=0}
+MSID_BreakawayShot: Ausreißer{Variable=0}
+MSID_H_BreakawayShot: Nach dem Kampf kann die Einheit sich\n1 Feld weiter bewegen.
+MSID_SealArrow: Bannpfeil{Variable=0}
+MSID_H_SealArrow: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Schweigen.
+MSID_LeadArrow: Bleipfeil{Variable=0}
+MSID_H_LeadArrow: Effektiv gegen Gepanzerte.
+MSID_H_LeadArrow+: Effektiv gegen Gepanzerte. Ist der Gegner\ngepanzert, erhält die Einheit Krit. {Variable=0}.
+MSID_SnipeShot: Schuss{Variable=0}
+MSID_H_SnipeShot: Sind die KP des Gegners ≤ 50 %, erhält die\nEinheit Agr. {Variable=0} und Trf. {Variable=1}.
+MSID_LegShot: Beinschuss{Variable=0}
+MSID_H_LegShot: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Aw. {Variable=0} bis zum Ende seines\nnächsten Kampfes. (Kein Folgeangr. mögl.)
+MSID_ShadowShot: Schattenpfeil{Variable=0}
+MSID_H_ShadowShot: Verleiht im Kampf Aw. {Variable=0}.
+MSID_GreatShot: Bleiernes Remis{Variable=0}
+MSID_H_GreatShot: Hoher Kft.-/Trf.-Wert.
+MSID_MagicalShot: Magiepfeil{Variable=0}
+MSID_H_MagicalShot: Wird als magischer Angriff gewertet.
+MSID_SpiralShot: Spiralschuss{Variable=0}
+MSID_H_SpiralShot: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Beh. ÷2
+MSID_PowerShot: Mächtiger Schuss{Variable=0}
+MSID_H_PowerShot: Niedriger Trf.-Wert. Sehr hoher Kft.-Wert.
+MSID_MarksmanShot: Tückischer Schuss{Variable=0}
+MSID_H_MarksmanShot: Befindet sich die Einheit auf vorteilhaftem\nGelände, erhält sie Agr. {Variable=0} und\nTrf./Krit. {Variable=1}.
+MSID_SpiritArrow: Geisterbogen{Variable=0}
+MSID_H_SpiritArrow: Verleiht der Einheit im Kampf Rsl. {Variable=0}.
+MSID_BreakArrow: Pfeilriss{Variable=0}
+MSID_H_BreakArrow: Greift die Einheit an, erhält sie Agr. {Variable=1}.\nChance in %: {Variable=0}
+MSID_RandomShot: Wahlloses Feuer{Variable=0}
+MSID_H_RandomShot: Greift {Variable=0}-mal hintereinander an und\nfügt jedes Mal {Variable=1} % Schaden zu.
+MSID_ElegantShot: Zwillingschuss{Variable=0}
+MSID_H_ElegantShot: Greift {Variable=0}-mal hintereinander an und\nfügt jedes Mal {Variable=1} % Schaden zu.
+MSID_BowKillerShot: Bogenbrecherpfeil{Variable=0}
+MSID_H_BowKillerShot: Greift {Variable=0}-mal hintereinander an und fügt\njedes Mal {Variable=1} % Schaden zu, wenn der\nGegner mit einem Bogen ausgerüstet ist.
+MSID_SkyHunter: Himmelsjäger{Variable=0}
+MSID_H_SkyHunter: Verleiht Trf. {Variable=0} gegen gegnerische\nFlugeinheiten.
+MSID_CalmCall: Ruheruf{Variable=0}
+MSID_H_CalmCall: Hat die Einheit einen Gegner besiegt, erhält\nsie Aw. {Variable=0} bis zum Ende ihres nächsten\nKampfes.
+MSID_PoisonHunter: Giftiges Talent
+MSID_H_PoisonHunter: Ist der Gegner vergiftet, erhält die Einheit\nAgr. {Variable=0} und Trf. {Variable=1}.
+MSID_HeavenlyWind: Himmelswind
+MSID_H_HeavenlyWind: Sehr hohe Rw. Kein Folgeangriff möglich.
+MSID_HolyFlash: Heiliger Blitz
+MSID_H_HolyFlash: Hat die Einheit einen Gegner besiegt,\nwerden bei der Einheit einige KP\nwiederhergestellt.
+MSID_HunterCross: Jägers Kreuz{Variable=0}
+MSID_H_HunterCross: Hoher Trf.-/Krit.-Wert.
+MSID_CalamityShot: Fataler Schuss
+MSID_H_CalamityShot: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Schweigen und Paralyse.\nKein Folgenangriff möglich.
+MSID_ThunderStar: Blitzstern
+MSID_H_ThunderStar: Hoher Krit.-Wert. Wird als magischer\nAngriff gewertet.
+MSID_DrillShot: Schildbruch
+MSID_H_DrillShot: Ignoriert gegnerischen Schild.\nKein Folgeangriff möglich.
+MSID_FistBlow: Mächtige Faust{Variable=0}
+MSID_H_FistBlow: Hoher Trf.-Wert.
+MSID_SmashCombo: Todeshand{Variable=0}
+MSID_H_SmashCombo: Hoher Krit.-Wert.
+MSID_MagicCut: Magieminderung{Variable=0}
+MSID_H_MagicCut: Verleiht im Kampf Rsl. {Variable=0}.
+MSID_Tyman: Unter vier Augen{Variable=0}
+MSID_H_Tyman: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Paralyse.
+MSID_FeintBlow: Finte{Variable=0}
+MSID_H_FeintBlow: Nach dem Kampf erleidet der Gegner\nAw. {Variable=0} bis zum Ende seines nächsten\nKampfes.
+MSID_BeatUp: Prügel{Variable=0}
+MSID_H_BeatUp: Nach dem Kampf erhält die Einheit\nGes. {Variable=0} bis zum Abschluss der Karte\n(max. {Variable=1}).
+MSID_BackBlow: Wieselflink{Variable=0}
+MSID_H_BackBlow: Nach dem Kampf kann die Einheit sich\nbis zu {Variable=0} {SingularPlural0=Feld|Felder} weit bewegen.
+MSID_BackAssault: Sturmweicher{Variable=0}
+MSID_H_BackAssault: Nach dem Kampf kann die Einheit sich\nbis zu {Variable=0} {SingularPlural0=Feld|Felder} weit bewegen.
+MSID_LivingFist: Rettende Faust{Variable=0}
+MSID_H_LivingFist: Sind die KP des Gegn. ≥ {Variable=0}, überlebt er\nmit {Variable=1} KP. Kein Folgeangriff möglich.
+MSID_JackHit: Angriffsheber{Variable=0}
+MSID_H_JackHit: Verleiht beim Angriff Agr. {Variable=1}.\nChance in %: {Variable=0}
+MSID_AssassinFist: Assassinenfaust{Variable=0}
+MSID_H_AssassinFist: Fügt mindestens {Variable=0} Schaden zu.
+MSID_ArmorBreaker: Hammerfaust{Variable=0}
+MSID_H_ArmorBreaker: Effektiv gegen Gepanzerte.
+MSID_H_ArmorBreaker+: Effektiv gegen gepanzerte Gegner.\nIst der Gegner gepanzert, erhält die Einheit\nKrit. {Variable=0}.
+MSID_MagicCombo: Magiekombo{Variable=0}
+MSID_H_MagicCombo: Greift {Variable=0}-mal hintereinander an und fügt\njedes Mal {Variable=1} % Schaden zu. Wird als\nmagischer Angriff gewertet.
+MSID_CrashCombo: Knock-out{Variable=0}
+MSID_H_CrashCombo: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Verwirrung. Chance\nin %: {Variable=0}. Kein Folgeangriff möglich.
+MSID_PowerCombo: Machtschritt{Variable=0}
+MSID_H_PowerCombo: Greift {Variable=0}-mal hintereinander an.\nTrf.-Wert wird halbiert.
+MSID_CounterBlow: Zweierschlag{Variable=0}
+MSID_H_CounterBlow: Der Gegner greift die Einheit zuerst an. Sie\nerhält im Kampf Aw. {Variable=0}.
+MSID_BattleRush: Schlachtgebrüll{Variable=0}
+MSID_H_BattleRush: Die Einheit führt einen Folgeangriff aus,\nbevor der Gegner kontern kann.
+MSID_RazorFist: Klingenfaust{Variable=0}
+MSID_H_RazorFist: Führt die Einheit einen kritischen Angriff\naus, verringert sich die Haltbarkeit der\nWaffe nicht.
+MSID_SpiritFist: Geisterfaust{Variable=0}
+MSID_H_SpiritFist: Verleiht beim Angriff Agr. {Variable=0}.\nChance in %: Res. ÷2
+MSID_MindBlow: Nadelstiche{Variable=0}
+MSID_H_MindBlow: Sehr hoher Trf.-Wert.
+MSID_SpiritBlow: Geisterschlag{Variable=0}
+MSID_H_SpiritBlow: Hoher Kft.-/Trf.-Wert.
+MSID_RevivalAttack: Belebung{Variable=0}
+MSID_H_RevivalAttack: Hat die Einheit einen Gegner besiegt,\nwerden bei ihr viele KP wiederhergestellt.
+MSID_GauntletTron: Thoron-Panzerh.
+MSID_H_GauntletTron: Wird als magischer Angriff gewertet.
+MSID_BlowHeel: Heilhieb{Variable=0}
+MSID_H_BlowHeel: Nach ihrem Kampf kann die Einheit mit\nMagie heilen und beistehen.
+MSID_KillingBeat: Hand des Todes
+MSID_H_KillingBeat: Hoher Krit.-Wert.
+MSID_FlameDrill: Flammenbohrer
+MSID_H_FlameDrill: Vervielfacht den zugefügten Schaden\num {Variable=0}.
+MSID_FantasyRapid: Schimäre
+MSID_H_FantasyRapid: Verleiht der Einheit Aw. {Variable=0} und fügt dem\nGegner Aw. {Variable=1} im Kampf zu.
+MSID_ViolentClaw: Brutale Klaue
+MSID_H_ViolentClaw: Greift {Variable=0}-mal hintereinander an und fügt\njedes Mal {Variable=1} % Schaden zu.
+MSID_FlameRing: Flammenrad
+MSID_H_FlameRing: Die Einheit führt einen Folgeangriff aus,\nbevor der Gegner kontern kann. Wird als\nmagischer Angriff gewertet.
+MSID_CompressedBullet: Verdichteter Laser
+MSID_H_CompressedBullet: Wird als magischer Angriff gewertet.
+MSID_ShadowSlash: Schlagschatten{Variable=0}
+MSID_H_ShadowSlash: Befindet sich der Gegner auf vorteilhaftem\nGelände, werden Geländeeffekte negiert.
+MSID_KnightSpear: Erbitterte Lanze{Variable=0}
+MSID_H_KnightSpear: Die Einheit kann im Kampf keinen\nFolgeangriff erleiden.
+MSID_MagicTwinAxe: Teufelswind{Variable=0}
+MSID_H_MagicTwinAxe: Unabhängig von der AG wird ein\nFolgeangriff ausgeführt. Chance\nin %: Mag. ÷2
+MSID_WarningShot: Warnschuss{Variable=0}
+MSID_H_WarningShot: Verleiht im Kampf Aw. {Variable=0}.
+MSID_CautionBlow: Achtsamer Hieb{Variable=0}
+MSID_H_CautionBlow: Verleiht im Kampf Aw. {Variable=0}.
+MSID_BattleBlow: Schlachthieb{Variable=0}
+MSID_H_BattleBlow: Sind die KP der Einheit = 100 %, erhält sie\nAgr. {Variable=0}.
+MSID_MagicBlow: Magieschlag{Variable=0}
+MSID_H_MagicBlow: Wird als magischer Angriff gewertet.
+MSID_ClearMind: Klarheit
+MSID_H_ClearMind: Gewährt Defensivwechsel für 1 Kampf oder\nin 1 Runde. Defensivwechsel: Ver. und Res.\nwerden getauscht.
+MSID_IncenseBurner: Räuchergefäß
+MSID_Replacement: Rochade
+MSID_H_Replacement: Infanterie. Die Einheit tauscht mit einem\nbenachbarten Verbündeten den Platz.\n(Bei großen Verbündeten nicht möglich.)
+MSID_Attract: Rückzug
+MSID_H_Attract: Infanterie. Die Einheit und ein benachbarter\nVerb. bewegen sich {Variable=0} {SingularPlural0=Feld|Felder} zurück.\n(Bei großen Verbündeten nicht möglich.)
+MSID_BodyAttack: Stoß
+MSID_H_BodyAttack: Infanterie. Ein benachbarter Verbündeter\nrückt {Variable=0} {SingularPlural0=Feld|Felder} vor. (Bei großen\nVerbündeten nicht möglich.)
+MSID_Guard: Ver.-Haltung
+MSID_H_Guard: Infanterie. Die Einheit erhält Ver. {Variable=0}\nund verliert Aw. {Variable=1} bis zu ihrer nächsten\nPhase.
+MSID_MagicGuard: Res.-Haltung
+MSID_H_MagicGuard: Infanterie. Die Einheit erhält Res. {Variable=0}\nund verliert Aw. {Variable=1} bis zu ihrer nächsten\nPhase.
+MSID_OffensiveCommand: Stä.-Gabe{Variable=0}
+MSID_H_OffensiveCommand: Verleiht einem Verb. Stä. {Variable=0} bis zur\nnächsten Phase der Einheit.
+MSID_H_OffensiveCommand+: Verleiht einem Verb. Stä. {Variable=0} bis zur\nnächsten Phase der Einheit. Dann greift\nsie an.
+MSID_DefenseCommand: Ver.-Gabe{Variable=0}
+MSID_H_DefenseCommand: Verleiht einem Verbündeten Ver. {Variable=0} bis\nzur nächsten Phase der Einheit.
+MSID_H_DefenseCommand+: Verleiht einem Verbündeten Ver. {Variable=0} bis\nzur nächsten Phase der Einheit. Dann greift\nsie an.
+MSID_MagicCommand: Mag.-Gabe{Variable=0}
+MSID_H_MagicCommand: Verleiht einem Verbündeten Mag./Res. {Variable=0}\nbis zur nächsten Phase der Einheit.
+MSID_H_MagicCommand+: Verleiht einem Verbündeten Mag./Res. {Variable=0}\nbis zur nächsten Phase der Einheit. Dann\ngreift sie an.
+MSID_SpeedCommand: Ges.-Gabe{Variable=0}
+MSID_H_SpeedCommand: Verleiht einem Verbündeten Ges. {Variable=0} bis\nzur nächsten Phase der Einheit.
+MSID_H_SpeedCommand+: Verleiht einem Verbündeten Ges. {Variable=0} bis\nzur nächsten Phase der Einheit. Dann greift\nsie an.
+MSID_DestinyCommand: Geliehenes Glück{Variable=0}
+MSID_H_DestinyCommand: Verleiht einem Verbündeten Glk. {Variable=0} bis\nzur nächsten Phase der Einheit.
+MSID_H_DestinyCommand+: Verleiht einem Verbündeten Glk. {Variable=0} bis\nzur nächsten Phase der Einheit. Dann greift\nsie an.
+MSID_TechnicalCommand: Beh.-Gabe{Variable=0}
+MSID_H_TechnicalCommand: Verleiht einem Verbündeten Beh. {Variable=0} bis\nzur nächsten Phase der Einheit.
+MSID_H_TechnicalCommand+: Verleiht einem Verbündeten Beh. {Variable=0} bis\nzur nächsten Phase der Einheit. Dann greift\nsie an.
+MSID_Dance: Tanzen
+MSID_H_Dance: Ermöglicht einem Verbündeten eine weitere\nAktion.
+MSID_Trick: Unfaires Spiel
+MSID_H_Trick: Einheit und Verbündeter in Reichweite\ntauschen die Plätze. (Bei großen\nVerbündeten nicht möglich.)
+MSID_BlowAway: Vorwärts marsch
+MSID_H_BlowAway: Infanterie. Ein benachbarter Verbündeter\nrückt {Variable=0} {SingularPlural0=Feld|Felder} vor. (Bei großen\nVerbündeten nicht möglich.)
+MSID_CourageSong: Lied des Mutes
+MSID_H_CourageSong: Verleiht Verbündeten in Reichweite\nBeh./Ges. {Variable=0} bis zur nächsten Phase\nder Einheit.
+MSID_ProtectionSong: Lied der Ruhe
+MSID_H_ProtectionSong: Verleiht Verbündeten in Reichweite\nRes. {Variable=0} bis zur nächsten Phase der\nEinheit.
+MSID_EmotionalSong: Lied der Gefühle
+MSID_H_EmotionalSong: Verleiht Verbündeten in Reichweite\nStä. {Variable=0} bis zur nächsten Phase der\nEinheit.
+MSID_FirstAidFormation: Ersthelfer
+MSID_H_FirstAidFormation: Die Reichweite von Erste Hilfe wird bis zur\nnächsten Phase der Einheit auf {Variable=0} {SingularPlural0=Feld|Felder}\nerhöht.
+MSID_KnightFormation: Wächterlehre
+MSID_H_KnightFormation: Verleiht einem Verbündeten\nWächterspflicht bis zur nächsten\nPhase der Einheit.
+MSID_ArmorFuneralFormation: Requiem-Lehre
+MSID_H_ArmorFuneralFormation: Verleiht einem Verbündeten Requiem-Stil\nbis zur nächsten Phase der Einheit.
+MSID_BackupFormation: Helfer-Haltung
+MSID_H_BackupFormation: Die Reichweite von Tapferer Helfer wird\nbis zur nächsten Phase der Einheit auf\n{Variable=0} {SingularPlural0=Feld|Felder} erhöht.
+MSID_FirstMoveFormation: Flink-Befehl
+MSID_H_FirstMoveFormation: Verleiht Verbündeten in Reichweite\nFlinker Zug in der aktuellen Phase.
+MSID_OneShotFormation: Chance-Lehre
+MSID_H_OneShotFormation: Verleiht einem Verbündeten in Reichweite\nNur eine Chance bis zur nächsten Phase der\nEinheit.
+MSID_TransgressionFormation: Zorn-Lehre
+MSID_H_TransgressionFormation: Verleiht einem Verbündeten in Reichweite\nMönchszorn bis zur nächsten Phase der\nEinheit.
+MSID_ForceForwardFormation: Durchstoßbefehl
+MSID_H_ForceForwardFormation: Verleiht Verbündeten in Reichweite\nDurchstoß in der aktuellen Phase.
+MSID_CounterFormation: Konterbefehl
+MSID_H_CounterFormation: Verleiht einem Verbündeten in Reichweite\nKonter-Experte bis zur nächsten Phase der\nEinheit.
+MSID_BodyguardFormation: Wächter-Haltung
+MSID_H_BodyguardFormation: Die Reichweite von Leibwächter wird\nbis zur nächsten Phase der Einheit auf\n{Variable=0} {SingularPlural0=Feld|Felder} erhöht.
+MSID_ConcentratFormation: Klarheitsbefehl
+MSID_H_ConcentratFormation: Verleiht Verbündeten in Reichweite\nKlarheit des Kriegers bis zur nächsten\nPhase der Einheit.
+MSID_HunterFormation: Jägerbefehl
+MSID_H_HunterFormation: Verleiht Verbündeten in Reichweite\nJägerfalle bis zur nächsten Phase der\nEinheit.
+MSID_StrongFormation: Veteranenbefehl
+MSID_H_StrongFormation: Verleiht Verbündeten in Reichweite\nVeteranenmut bis zur nächsten Phase\nder Einheit.
+MSID_BigAttackFormation: Machtbefehl
+MSID_H_BigAttackFormation: Verleiht Verbündeten in Reichweite\nMachttechnik bis zur nächsten Phase\nder Einheit.
+MSID_UnjuFormation: Yun-Shou-Lehre
+MSID_H_UnjuFormation: Verleiht einem Verbündeten in Reichweite\nYun Shou bis zur nächsten Phase der\nEinheit.
+MSID_ViolenceFormation: Tyranneibefehl
+MSID_H_ViolenceFormation: Verleiht Verbündeten in Reichweite\nTyrannei bis zur nächsten Phase der\nEinheit.
+MSID_HealingFormation: Heilbefehl
+MSID_H_HealingFormation: Verleiht Verbündeten in Reichweite\nHeilendes Wissen bis zur nächsten Phase\nder Einheit.
+MSID_SafeguardFormation: Sicherungsbefehl
+MSID_H_SafeguardFormation: Verleiht Verbündeten in Reichweite\nSicherheit geht vor bis zur nächsten Phase\nder Einheit.
+MSID_GaleFormation: Sturmbefehl
+MSID_H_GaleFormation: Verleiht Verbündeten in Reichweite\nSturmböenstrafe in der aktuellen Phase.
+MSID_SoulStrike: Geheim: Blutriss{Variable=0}
+MSID_H_SoulStrike: Bei der Einheit werden X KP\nwiederhergestellt. (X = Hälfte des\nSchadens, den sie zugefügt hat.)
+MSID_SwallowDrop: Geheim: Flugbann{Variable=0}
+MSID_H_SwallowDrop: Ist der Gegner eine Flugeinheit und trifft ihn\nder Angriff der Einheit, erleidet er Bew. {Variable=0}\nbis zur nächsten Phase der Einheit.
+MSID_Ryusui: Geheim: Fluss{Variable=0}
+MSID_H_Ryusui: Verleiht der Einh. Aw. {Variable=0} im Kampf, sie führt\nzudem unabhängig von der AG einen Folgeangr.\naus, fügt aber nur halben Schaden zu.
+MSID_DemonSlayer: Geheim: Riesentod{Variable=0}
+MSID_H_DemonSlayer: Ist der Gegner der Einheit groß, erleidet\ndiese im Kampf den halben Schaden.
+MSID_WindJavelin: Geheim: Windhieb{Variable=0}
+MSID_H_WindJavelin: Ist die AG des Gegn. ≥ AG+{Variable=0} der Einheit,\nerhält sie Trf. {Variable=1}. (Nur für Lanzen oder\nSpeere mit Rw. = 1-2.)
+MSID_SwordKiller: Geheim: Duoklinge{Variable=0}
+MSID_H_SwordKiller: Verleiht der Einheit während und nach\ndem Kampf KA {Variable=0} bis zu ihrer nächsten\nPhase.
+MSID_ForcedSniper: Geheim: Schuss{Variable=0}
+MSID_H_ForcedSniper: Große Rw. Sehr hoher Verlust der\nHaltbarkeit. Kein Folgeangriff möglich.
+MSID_DefeatingFist: Geheim: Reinfaust{Variable=0}
+MSID_H_DefeatingFist: Trifft der Angriff der Einheit, wird beim\nGegner bis zum Ende seines nächsten\nKampfes Unterweltstärke aufgehoben.
+MSID_DragonSlayer: Geheim: Absolutum{Variable=0}
+MSID_H_DragonSlayer: Extrem hoher Krit.-Wert. Setzt die\nTrefferrate auf {Variable=0}. Die Einheit kann\nkeinen Folgeangriff ausführen.
+MSID_SoulCrown: Diadem der Dualität
+MSID_H_SoulCrown: Verleiht beim Angriff Agr. {Variable=1}.\nChance in %: {Variable=0}
+MSID_ApostolicCrown: Diadem der Gesandten
+MSID_H_ApostolicCrown: Verleiht beim Angriff Trf. {Variable=1}.\nChance in %: {Variable=0}
+MSID_EarthCrown: Diadem der Erde
+MSID_H_EarthCrown: Verleiht beim Angriff Agr. {Variable=1}.\nChance in %: {Variable=0}
+MSID_WinnerCrown: Diadem des Siegers
+MSID_H_WinnerCrown: Verleiht beim Angriff Agr. {Variable=1}.\nChance in %: {Variable=0}
+MSID_CourageCrown: Diadem der Tapferkeit
+MSID_H_CourageCrown: Greift die Einheit an, vervielfacht sich der\nSchaden, den sie zufügt um {Variable=1}.\nChance in %: {Variable=0}
+MSID_LibraCrown: Diadem der Balance
+MSID_H_LibraCrown: Der Angriff der Einheit kann nicht\ngekontert werden. Chance in %: {Variable=0}
+MSID_EternalCrown: Diadem der Ewigkeit
+MSID_H_EternalCrown: Greift die Einheit an, werden bei ihr einige\nKP wiederhergestellt. Chance in %: {Variable=0}
+MSID_PlayCrown: Diadem der Erweckung
+MSID_H_PlayCrown: Greift die Einheit an, werden bei ihr eine\nkleine Menge KP wiederhergestellt.\nChance in %: {Variable=0}
+MSID_BondageCrown: Diadem der Ketten
+MSID_H_BondageCrown: Der Schaden, den der Angriff zufügt,\nvervielfacht sich um {Variable=1}.\nChance in %: {Variable=0}
+MSID_HermitCrown: Diadem der Überlegung
+MSID_H_HermitCrown: Verleiht beim Angriff Trf. {Variable=1}.\nChance in %: {Variable=0}
+MSID_DedicationCrown: Diadem der Konstanz
+MSID_H_DedicationCrown: Greift die Einheit an, werden bei ihr viele\nKP wiederhergestellt. Chance in %: {Variable=0}
+MSID_ProphetCrown: Diadem des Propheten
+MSID_H_ProphetCrown: Verleiht beim Angriff Trf. {Variable=1}.\nChance in %: {Variable=0}
+MSID_IgnoranceCrown: Diadem des Fanatikers
+MSID_H_IgnoranceCrown: Greift die Einheit an, erhält sie Agr. {Variable=1}\nund Trf. {Variable=1}. Chance in %: {Variable=0}
+MSID_WisemanCrown: Diadem der Weisheit
+MSID_H_WisemanCrown: Greift die Einheit an, werden bei ihr einige\nKP wiederhergestellt und sie erhält\nAgr. {Variable=1}. Chance in %: {Variable=0}
+MSID_ClawStrike: Krallenhieb
+MSID_H_ClawStrike: Trifft die Attacke der Einheit den Gegner,\nfügt sie ihm bis zu ihrer nächsten Phase\nVer. {Variable=0} zu.
+MSID_BigDust: Sandsturm
+MSID_H_BigDust: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Paralyse.
+MSID_RockThrow: Felsenwurf
+MSID_H_RockThrow: Flächenangriff auf Felder in Reichweite.
+MSID_Titanomachy: Titanomachie
+MSID_H_Titanomachy: Trifft die Attacke der Einheit den Gegner,\nfügt sie ihm bis zu ihrer nächsten Phase\nGes. {Variable=0} zu.
+MSID_AnnihilationSlash: Auslöschung
+MSID_H_AnnihilationSlash: Wenn die Attacke der Einheit trifft, fügt sie\ndem Gegner bis zu ihrer nächsten Phase\nRes. {Variable=0} zu.
+MSID_BodyPress: Druckwelle
+MSID_H_BodyPress: Flächenangriff auf Felder in Reichweite.\nDie Einheit greift an, während sie in\nBewegung ist.
+MSID_CrackSky: Zerrissener Himmel
+MSID_H_CrackSky: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Paralyse.
+MSID_GreatWhirlwind: Zyklon
+MSID_H_GreatWhirlwind: Magischer Angriff. Trifft die Attacke der\nEinheit den Gegner, erleidet dieser Paralyse.
+MSID_HeavyRush: Schwerer Sturm
+MSID_H_HeavyRush: Die Einheit greift an, während sie\nin Bewegung ist.
+MSID_H_HeavyRush_P: Die Einheit greift an, während sie in\nBewegung ist. Nach dem Kampf erhält sie\nSchild {Variable=0} bis zu ihrer nächsten Phase.
+MSID_Rush: Angriffssturm
+MSID_H_Rush: Die Einheit greift an, während sie\nin Bewegung ist.
+MSID_H_Rush_P: Die Einheit greift an, während sie in\nBewegung ist. Verleiht der Einheit Ver. {Variable=0}\nbis zu ihrer nächsten Phase.
+MSID_Flash: Schnellschlag
+MSID_H_Flash: Wenn die Attacke der Einheit trifft, wird\ngegnerischer Schild bis zu ihrer nächsten\nPhase halbiert.
+MSID_GiantSlalom: Großwirbel
+MSID_H_GiantSlalom: Flächenangriff auf Felder in Reichweite.
+MSID_MiasmaBreath: Miasma-Atem
+MSID_H_MiasmaBreath: Ein magischer Angriff. Wirkt bei einem\nTreffer den Effekt Verwirrung auf den\nGegner.
+MSID_LightBreath: Heller Atem
+MSID_H_LightBreath: Ein magischer Angriff.
+MSID_FlameBreath: Flammenatem
+MSID_H_FlameBreath: Ein magischer Angriff.
+MSID_PoisonBreath: Giftatem
+MSID_H_PoisonBreath: Ein magischer Angriff. Trifft die Einheit den\nGegner, wird dieser vergiftet.
+MSID_RadioWave: Gift-Donnerwelle
+MSID_H_RadioWave: Flächenangriff auf Felder in Reichweite.\nGegner in Reichweite erleiden Verwirrung.
+MSID_MendeZeruel: Mendezerel
+MSID_H_MendeZeruel: Ein Flächenangriff mit Magie auf Felder in\nReichweite.
+MSID_FallEclipse: Zweifelmut
+MSID_H_FallEclipse: Magischer Angriff. Trifft die Attacke der\nEinheit den Gegner, erleidet dieser Paralyse.
+MSID_PowerEfficacy: Stä.-Effekt{Variable=0}
+MSID_H_PowerEfficacy: Verleiht Stä. {Variable=0}.
+MSID_SpeedEfficacy: Ges.-Effekt{Variable=0}
+MSID_H_SpeedEfficacy: Verleiht Ges. {Variable=0}.
+MSID_CriticalEfficacy: Krit.-Effekt{Variable=0}
+MSID_H_CriticalEfficacy: Verleiht Krit. {Variable=0}.
+MSID_AvoidEfficacy: Aw.-Effekt{Variable=0}
+MSID_H_AvoidEfficacy: Verleiht Aw. {Variable=0}.
+MSID_PursuitEfficacy: Folge-Effekt{Variable=0}
+MSID_H_PursuitEfficacy: Führt die Einheit einen Folgeangriff aus,\nerhält sie Agr. {Variable=0}.
+MSID_ActiveEfficacy: Revitalisieren{Variable=0}
+MSID_H_ActiveEfficacy: Gewährt der Einheit nach dem Kampf eine\nweitere Aktion. Chance in %: {Variable=0}
+MSID_FearlessEfficacy: Verwegenheit
+MSID_H_FearlessEfficacy: Die Einheit erhält Agr. {Variable=0} und\nerleidet Aw. {Variable=1}.
+MSID_OutragedEfficacy: Zorn
+MSID_H_OutragedEfficacy: Die Einheit erhält Agr. {Variable=0} und\nerleidet Trf. {Variable=1}.
+MSID_CombatEfficacy: Technik-Effekt{Variable=0}
+MSID_H_CombatEfficacy: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Agr. {Variable=0} und Trf. {Variable=1}.
+MSID_SharpEfficacy: Technikbonus
+MSID_H_SharpEfficacy: Setzt die Einheit eine Kampftechnik ein,\nverringert sich die Haltbarkeit der Waffe\nim Kampf nicht. Chance in %: {Variable=0}
+MSID_ImmunityEfficacy: Giftresistenz
+MSID_H_ImmunityEfficacy: Die Einheit kann nicht vergiftet werden.
+MSID_TechniqueEfficacy: Beh.-Effekt{Variable=0}
+MSID_H_TechniqueEfficacy: Verleiht Beh. {Variable=0}.
+MSID_DefenseEfficacy: Ver.-Effekt{Variable=0}
+MSID_H_DefenseEfficacy: Verleiht Ver. {Variable=0}.
+MSID_HitEfficacy: Trf.-Effekt{Variable=0}
+MSID_H_HitEfficacy: Verleiht Trf. {Variable=0}.
+MSID_ImmovableEfficacy: Paralyseschutz
+MSID_H_ImmovableEfficacy: Die Einheit kann nicht paralysiert werden.
+MSID_MovingEfficacy: Bew.-Effekt{Variable=0}
+MSID_H_MovingEfficacy: Verleiht Bew. {Variable=0}.
+MSID_HealingEfficacy: Heil-Effekt{Variable=0}
+MSID_H_HealingEfficacy: Nach dem Kampf wird bei der Einheit eine\nkleine Menge KP wiederhergestellt.\nChance in %: {Variable=0}
+MSID_BigHealingEfficacy: Max. Heilung
+MSID_H_BigHealingEfficacy: Nach dem Kampf werden bei der\nEinheit alle KP wiederhergestellt.\nChance in %: {Variable=0}
+MSID_PhysiqueEfficacy: Fig.-Effekt
+MSID_H_PhysiqueEfficacy: Verleiht Fig. {Variable=0}.
+MSID_LifeEfficacy: KP-Effekt{Variable=0}
+MSID_H_LifeEfficacy: Verleiht max. KP {Variable=0}.
+MSID_MPowerEfficacy: Mag.-Effekt{Variable=0}
+MSID_H_MPowerEfficacy: Verleiht Mag. {Variable=0}.
+MSID_MDefenseEfficacy: Res.-Effekt{Variable=0}
+MSID_H_MDefenseEfficacy: Verleiht Res. {Variable=0}.
+MSID_LuckEfficacy: Glk.-Effekt{Variable=0}
+MSID_H_LuckEfficacy: Verleiht Glk. {Variable=0}.
+MSID_RecoveryEfficacy: Erholung-Effekt{Variable=0}
+MSID_H_RecoveryEfficacy: Heilt die Einheit einen Verbündeten mit\nMagie, werden bei der Einheit {Variable=0} KP\nwiederhergestellt.
+MSID_ResistEfficacy: Magiesiegel-Res.
+MSID_H_ResistEfficacy: Die Einheit kann nicht unter Schweigen\nleiden.
+MSID_SerenityEfficacy: Besonnenheit{Variable=0}
+MSID_H_SerenityEfficacy: Wendet die Einheit Magie an, werden\ndie Kosten dafür im Kampf auf 0 reduziert.\nChance in %: {Variable=0}
+MSID_AbsorptionEfficacy: Absorption{Variable=0}
+MSID_H_AbsorptionEfficacy: Trifft der magische Angriff der Einheit, wird\nbei ihr die Hälfte des zugefügten Schadens\nin KP wiederhergestellt. Chance in %: {Variable=0}
+MSID_VisionEfficacy: Vis.-Effekt
+MSID_H_VisionEfficacy: Verleiht Vis. {Variable=0}.
+MSID_WeightEfficacy: Schnelle Magie
+MSID_H_WeightEfficacy: Ist die Einheit mit Magie ausgerüstet, erhält\nsie AG {Variable=0}.
+MSID_CharmEfficacy: Chm.-Effekt{Variable=0}
+MSID_H_CharmEfficacy: Verleiht Chm. {Variable=0}.
+MSID_ForwardConfusion: Störungsschlag
+MSID_AssaultConfusion: Störungsstoß
+MSID_ShootingConfusion: Störungssalve
+MSID_AssaultStrategy: Generaloffensive
+MSID_Brawl: Massenansturm
+MSID_FireStrategy: Brand
+MSID_PoisonStrategy: Giftige Taktik
+MSID_GreatFireStrategy: Brand+
+MSID_GreatPoisonStrategy: Giftige Taktik+
+MSID_CavalryConfusion: Reiterstörung
+MSID_AntiairConfusion: Flugstörung
+MSID_FlameSpread: Streuflammen
+MSID_SurroundingIce: Eiskessel
+MSID_DirectionThunder: Blitzkreuz
+MSID_SealingStrategy: Magiewächter
+MSID_SiegeStrategy: Strategemwächter
+MSID_CollectiveWhite: Spritzige Erholung
+MSID_FormationRecovery: Reihe: Erholung
+MSID_ResonanceWhite: Resonanzerholung
+MSID_FormationWings: Flankenschutz
+MSID_FormationTwin: Wallformation
+MSID_FormationSnake: Schlangenformation
+MSID_FormationDirections: Überkreuzformation
+MSID_FormationScattered: Kreuz-Defensive
+MSID_FormationIronclad: Bollwerkformation
+MSID_FormationEagle: Flankenformation+
+MSID_FormationCrane: Trichterformation
+MSID_FormationCobra: Schlangenformation+
+MSID_FormationSquare: Einkesselung
+MSID_GreatForwardConfusion: Störungshieb+
+MSID_GreatAssaultConfusion: Störungsansturm
+MSID_GreatShootingConfusion: Störungssalve+
+MSID_GreatAssaultStrategy: Generaloffensive+
+MSID_SniperConfusion: Störungsblick
+MSID_GreatSniperConfusion: Störungsblick+
+MSID_SpearWall: Lanzenreihe
+MSID_GreatSpearWall: Lanzenreihe+
+MSID_SurroundingFire: Flammenkessel
+MSID_SurroundingThunder: Blitzkessel
+MSID_IceSpread: Streueis
+MSID_ThunderSpread: Streublitze
+MSID_FlameShooting: Feuerschuss-Taktik
+MSID_IceShooting: Eisschuss-Taktik
+MSID_ThunderShooting: Blitzschuss-Taktik
+MSID_DefenseMagicFire: Schutzfeuer
+MSID_DefenseMagicIce: Schutzeis
+MSID_DefenseMagicThunder: Schutzblitz
+MSID_IceLine: Eisreihe
+MSID_ThunderLine: Blitzreihe
+MSID_IceWorld: Eisdomäne
+MSID_ThunderWorld: Blitzdomäne
+MSID_GreatFormationRecovery: Spalte: Erholung+
+MSID_GroupDetoxify: Gruppenentgiftung
+MSID_JointRecovery: Gemein. Erholung
+MSID_GreatJointRecovery: Gemein. Erholung+
+MSID_DistantRecovery: Distanzerholung
+MSID_GreatDistantRecovery: Distanzerholung+
+MSID_WidespreadRecovery: Extensive Erholung
+MSID_GreatWidespreadRecovery: Extensive Erholung+
+MSID_MixedPoisonMagic: Erholungsgift
+MSID_FullRecovery: Volle Erholung
+MSID_WavesWhite: Wellenerholung
+MSID_FormationLine: Vertikale Formation
+MSID_GreatFormationLine: Vertikale Formation+
+MSID_GreatFormationIronclad: Bollwerkformation+
+MSID_FormationThree: Drei-Fronten-Form.
+MSID_GreatFormationThree: Drei-Fronten-Form.+
+MSID_FormationDoubleWings: Doppelflügelformation
+MSID_FormationDoubleWalls: Duo-Wallformation
+MSID_FormationDoubleForts: Duo-Festungsform.
+MSID_FormationFence: Palisadenformation
+MSID_FormationDivided: Geteilte Formation
+MSID_FormationCastle: Festungsformation
+MSID_H_ForwardConfusion: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Paralyse.
+MSID_H_AssaultStrategy: Ein kraftvoller physischer Angriff.
+MSID_H_FireStrategy: Wendet Brand auf Felder in Reichweite an.
+MSID_H_PoisonStrategy: Trifft die Attacke der Einheit den Gegner,\nfügt sie ihm Gift zu.
+MSID_H_CavalryConfusion: Effektiv gegen Berittene. Trifft die Attacke\nder Einheit einen berittenen Gegner,\nerleidet dieser Paralyse.
+MSID_H_AntiairConfusion: Effektiv+ gegen Flugeinheiten. Trifft die\nAttacke der Einheit eine gegnerische\nFlugeinheit, erleidet diese Paralyse.
+MSID_H_FlameSpread: Magischer Flächenangriff auf Felder in\nReichweite.
+MSID_H_SealingStrategy: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Schweigen.
+MSID_H_SiegeStrategy: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Vergeltung.
+MSID_H_FormationWings: Felder in Reichweite werden unpassierbar.
+MSID_H_DefenseMagic: Magischer Flächenangriff auf Felder in\nReichweite. Gewährt pro Treffer Schild {Variable=0}\nbis zur nächsten Phase der Einheit.
+MSID_H_GroupRecoveryS: Stellt bei Verbündeten in Reichweite eine\nkleine Menge KP wieder her.
+MSID_H_GroupRecoveryM: Stellt bei Verbündeten in Reichweite einige\nKP wieder her.
+MSID_H_GroupRecoveryL: Stellt bei Verbündeten in Reichweite viele\nKP wieder her.
+MSID_H_GroupDetoxify: Entfernt bei Verbündeten in Reichweite\nVergiftung.
+MSID_H_JointRecoveryS: Stellt bei Verbündeten in Reichweite eine\nkleine Menge KP und pro Verbündetem eine\nkleine Menge KP bei der Einheit wieder her.
+MSID_H_JointRecoveryM: Stellt bei Verbündeten in Reichweite einige\nKP und pro Verbündetem eine kleine Menge\nKP bei der Einheit wieder her.
+MSID_H_MixedPoisonMagic: Stellt bei Verbündeten in Reichweite\nviele KP wieder her. Verbündete in\nReichweite werden vergiftet.
+MSID_H_FullRecovery: Stellt bei Verbündeten in Reichweite alle\nKP wieder her.
+MSID_H_ForwardConfusion_Bow: Effektiv+ gegen Flugeinheiten. Trifft die\nAttacke der Einheit einen Gegner, erleidet\ndieser Paralyse.
+MSID_H_AssaultStrategy_Spear: Ein kraftvoller physischer Angriff.\nEffektiv gegen Berittene.
+MSID_Fotona: Segen der Fortuna
+MSID_H_Fotona: Ermöglicht Wiederholung von Aktionen auf einer Karte.
+MSID_Mars: Segen des Mars
+MSID_H_Mars1: 1 Runde: Verleiht physischen Angriffen Trf. {Variable=0}.
+MSID_H_Mars2: 1 Runde: Stellt einige KP wieder her, wenn ein Gegner besiegt wird.
+MSID_H_Mars3: Verleiht Stä. {Variable=0} für 1 Runde.
+MSID_Clair: Segen des Credna
+MSID_H_Clair1: Verleiht Vis. {Variable=0} für 1 Runde.
+MSID_H_Clair2: 1 Runde: Haltbarkeit der Waffe verringert sich nicht.
+MSID_H_Clair3: 1 Runde: In der Gegnerphase kann die Einh. zuerst angreifen.
+MSID_Cara: Segen der Kalla
+MSID_H_Cara1: Verleiht Aw. {Variable=0} für 1 Runde.
+MSID_H_Cara2: Verleiht Ges. {Variable=0} für 1 Runde.
+MSID_H_Cara3: Verleiht Bew. {Variable=0} für 1 Runde.
+MSID_Juno: Segen der Jurah
+MSID_H_Juno1: Hebt den „effektiv gegen“-Schaden durch den Gegner auf.
+MSID_H_Juno2: 1 Runde: Es kann kein Folgeangriff erlitten werden.
+MSID_H_Juno3: 1 Runde: Es kann kein krit. Angriff erlitten werden.
+MSID_Smirnoth: Segen des Smyrnos
+MSID_H_Smirnoth1: Verleiht mag. Angriffen Trf. {Variable=0} für 1 Runde.
+MSID_H_Smirnoth2: Verleiht Magie Rw. {Variable=0} für 1 Runde.
+MSID_H_Smirnoth3: Verleiht Mag. {Variable=0} für 1 Runde.
+MSID_Aurora: Segen der Aurora
+MSID_H_Aurora1: 1 Runde: Phys. Angriffe fügen halben Schaden zu.
+MSID_H_Aurora2: 1 Runde: Mag. Angriffe fügen halben Schaden zu.
+MSID_H_Aurora3: Hebt beim Gegn. für 1 Runde Unterweltstärke auf.
+MSID_ReMove: 2. Schritt{Variable=0}
+MSID_H_ReMove: Berittene. Nach dem Kampf kann\ndie Einheit sich bis zu {Variable=0} {SingularPlural0=Feld|Felder}\nweit bewegen.
+MSID_SharedRunning: Geeinter Lauf{Variable=0}
+MSID_H_SharedRunning: Berittene. Verleiht Bew. {Variable=0}.
+MSID_SharedArousal: Geeinte Wachheit{Variable=0}
+MSID_H_SharedArousal: Berittene. Verleiht KA {Variable=0}.
+MSID_SharedConcentration: Geeinter Technikfokus{Variable=0}
+MSID_H_SharedConcentration: Berittene. Verleiht Trf. {Variable=0}, wenn mit\neiner Kampftechnik angegriffen wird.
+MSID_SharedOnslaught: Geeinte Technik{Variable=0}
+MSID_H_SharedOnslaught: Berittene. Verleiht Agr. {Variable=0}, wenn mit\neiner Kampftechnik angegriffen wird.
+MSID_SharedMiracle: Geeintes Wunder{Variable=0}
+MSID_H_SharedMiracle: Berittene. Verleiht Glk. {Variable=0}.
+MSID_SharedHealing: Geeinte Heilung{Variable=0}
+MSID_H_SharedHealing: Berittene. Nach dem Kampf wird bei\nder Einheit eine kleine Menge KP\nwiederhergestellt.
+MSID_H_SharedHealing+: Berittene. Nach dem Kampf werden bei der\nEinheit einige KP wiederhergestellt.
+MSID_SharedCovert: Geeinte List{Variable=0}
+MSID_H_SharedCovert: Berittene. Verleiht der Einheit Aw. {Variable=0} im\nKampf, wenn sie sich auf vorteilhaftem\nGelände befindet.
+MSID_H_SharedCovert+: Berittene. Verleiht der Einheit Aw. {Variable=0}\nund Schild {Variable=1} im Kampf, wenn sie sich\nauf vorteilhaftem Gelände befindet.
+MSID_SharedPurification: Geeinte Läuterung{Variable=0}
+MSID_H_SharedPurification: Berittene. Entfernt bei der Einheit zu\nBeginn ihrer Phase Vergiftung.\nChance in %: {Variable=0}
+MSID_H_SharedPurification+: Berittene. Entfernt bei der Einheit\nzu Beginn ihrer Phase Vergiftung.
+MSID_SharedHuge: Geeinte Masse{Variable=0}
+MSID_H_SharedHuge: Berittene. Verleiht Fig. {Variable=0}.
+MSID_SharedProtection: Geeinter Schutz{Variable=0}
+MSID_H_SharedProtection: Berittene. Fügt der Gegner einen kritischen\nAngriff zu, wird der erlittene Schaden auf\n{Variable=0} % reduziert.
+MSID_SharedMagicFocus: Geeinter Magiefokus{Variable=0}
+MSID_H_SharedMagicFocus: Berittene. Ist die Einheit mit Magie\nausgerüstet, erhält sie Trf. {Variable=0}.
+MSID_SharedMagicSharpness: Geeinter Magieblick{Variable=0}
+MSID_H_SharedMagicSharpness: Berittene. Ist die Einheit mit Magie\nausgerüstet, erhält sie Krit. {Variable=0}.
+MSID_FlyingReMove: 2. Schritt (Flug){Variable=0}
+MSID_H_FlyingReMove: Flugeinheiten. Nach dem Kampf kann die\nEinheit sich bis zu {Variable=0} {SingularPlural0=Feld|Felder} weit\nbewegen.
+MSID_SharedFlight: Geeinte Serie{Variable=0}
+MSID_H_SharedFlight: Flugeinheiten. Verleiht Bew. {Variable=0}.
+MSID_SharedAntiMagic: Geeinter Magiertod{Variable=0}
+MSID_H_SharedAntiMagic: Flugeinheiten. Verleiht der Einheit\nAgr. {Variable=0} im Kampf, wenn der Gegner\nMagie anwendet.
+MSID_SharedSMagic: Geeinte Mag.-Ges.{Variable=0}
+MSID_H_SharedSMagic: Flugeinheiten. Ist die Einheit mit Magie\nausgerüstet, erhält sie AG {Variable=0}.
+MSID_SharedWind: Geeinter Sturm{Variable=0}
+MSID_H_SharedWind: Flugeinheiten. Verleiht der Einheit\nAw. {Variable=0} im Kampf, wenn der Gegner\neinen Bogen verwendet.
+MSID_SharedStorm: Geeinter Orkan{Variable=0}
+MSID_H_SharedStorm: Flugeinheiten. Verleiht der Einheit\nAgr. {Variable=0}, wenn sie einen Folgeangriff\nausführt.
+MSID_H_SharedConcentrationFlight: Flugeinheiten. Greift die Einheit mit einer\nKampftechnik an, erhält sie Trf. {Variable=0}.
+MSID_H_SharedOnslaughtFlight: Flugeinheiten. Greift die Einheit mit einer\nKampftechnik an, erhält sie Agr. {Variable=0}.
+MSID_SharedTough: Geeinte Resilienz{Variable=0}
+MSID_H_SharedTough: Flugeinheiten. Ist der Gegner effektiv\ngegen die Einheit, wird der Schaden, den\nsie erleidet, auf {Variable=0} % reduziert.
+MSID_H_SharedTough+: Flugeinheiten. Ist der Gegner effektiv\ngegen die Einheit, wird der Schaden, den\nsie erleidet, halbiert.
+MSID_SharedMigration: Geeinte Eile{Variable=0}
+MSID_H_SharedMigration: Berittene. Verleiht Bew. {Variable=0}.
+MSID_PoisonAttack: Giftangriff
+MSID_H_PoisonAttack: Trifft die Attacke der Einheit den Gegner,\nfügt sie ihm Gift zu.
+MSID_Poisoner: Vergiftete Waffe
+MSID_H_Poisoner: Trifft die Attacke der Einheit den Gegner,\nfügt sie ihm Gift zu.
+MSID_WaterCrossing: Wasserquerung
+MSID_H_WaterCrossing: Befindet sich die Einheit auf Wasser,\nerhält sie Aw. {Variable=0}.
+MSID_Vitality: Regeneration
+MSID_H_Vitality: Stellt bei der Einheit zu Beginn ihrer Phase\neine kleine Menge KP wieder her.
+MSID_ProtectiveBarrier: Verb.-Schutz
+MSID_H_ProtectiveBarrier: Verleiht benachbarten Verbündeten\nSchild {Variable=0}.
+MSID_GodlyBody: Göttlicher Schutz
+MSID_H_GodlyBody: Sind die KP der Einheit ≥ {Variable=0}, überlebt\nsie einen ansonsten tödlichen Angriff\nmit 1 KP.
+MSID_Beckoning: Todeshauch
+MSID_H_Beckoning: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser max. KP {Variable=0}.
+MSID_CorpseEater: Leichenfresser
+MSID_H_CorpseEater: Hat die Einheit einen Gegner besiegt,\nwerden bei ihr {Variable=0} KP wiederhergestellt.
+MSID_BloodThirst: Blutdurst
+MSID_H_BloodThirst: Trifft die Attacke der Einheit den Gegner,\nwerden bei ihr {Variable=0} KP wiederhergestellt.
+MSID_Activation: Heilen
+MSID_H_Activation: Die Menge der KP, die durch Regeneration\nwiederhergestellt wird, erhöht sich.
+MSID_FocusMode: Konzentriertheit
+MSID_H_FocusMode: Verleiht Trf. {Variable=0}.
+MSID_SpeedMode: Flinkheit
+MSID_H_SpeedMode: Verleiht Ges. {Variable=0} und Bew. {Variable=1}.
+MSID_BigWings: Weite Flügel
+MSID_H_BigWings: Kämpft die Einheit mit einem benachbarten\nGegner, erhält sie im Kampf Aw. {Variable=0}.
+MSID_Calamity: Unheil
+MSID_H_Calamity: Verleiht Agr./Schild {Variable=0}.
+MSID_PoisonLayer: Giftiger Vorteil
+MSID_H_PoisonLayer: Ist der Gegner vergiftet, erhält\ndie Einheit im Kampf Trf. {Variable=0}.
+MSID_PoisonTrap: Giftfalle
+MSID_H_PoisonTrap: Ist der Gegner in der Gegnerphase vergiftet,\ngreift die Einheit im Kampf zuerst an.
+MSID_FreshlyAttacked: Verzweiflung
+MSID_H_FreshlyAttacked: Die Einheit führt einen Folgeangriff aus,\nbevor der Gegner kontern kann.
+MSID_AirRaid: Luftangriff
+MSID_H_AirRaid: Der Angriff der Einheit kann nicht\ngekontert werden.
+MSID_Runaway: Furor
+MSID_H_Runaway: Verleiht Bew. {Variable=0}.
+MSID_SoaringSoul: Übervolle Seele
+MSID_H_SoaringSoul: Stellt bei der Einheit zu Beginn ihrer Phase\neine kleine Menge KP wieder her.
+MSID_DivineAwakening: Göttliches Erwachen
+MSID_H_DivineAwakening: Verleiht\nStä./Mag./Beh./Ges./Glk./Ver./Res. {Variable=0}.
+MSID_SoulEater: Seelenfresser
+MSID_H_SoulEater: Hat die Einheit einen Gegner besiegt,\nwerden bei ihr {Variable=0} KP wiederhergestellt.
+MSID_ValorShield: Balors Götterschild
+MSID_H_ValorShield: Wird die Einheit angegriffen, halbiert sich\nder Schaden, den sie erleidet.
+MSID_AbsolutePursuit: Gnadenlose Jagd
+MSID_H_AbsolutePursuit: Die Einheit führt unabhängig von der AG\nim Kampf einen Folgeangriff aus.
+MSID_GreatMagicBarrier: Magieverdünner
+MSID_H_GreatMagicBarrier: Wird die Einheit mit einer magischen\nAttacke angegriffen, halbiert sich der\nSchaden, den sie erleidet.
+MSID_PoisonKiller: Giftverstärker
+MSID_H_PoisonKiller: Ist der Gegner vergiftet, erhält die Einheit\nim Kampf Agr. {Variable=0}.
+MSID_DarkLight: Finsteres Licht
+MSID_H_DarkLight: Nach dem Kampf wird eine kleine Menge\nKP wiederhergestellt.
+MSID_DarkBrightly: Finstere Brillanz
+MSID_H_DarkBrightly: Erhöht die Menge der KP, die durch\nFinsteres Licht wiederhergestellt werden.
+MSID_MagicCannon: Magiekanone
+MSID_H_MagicCannon: Verleiht Magie Rw. {Variable=0}.
+MSID_DarkProtection: Unterweltstärke
+MSID_H_DarkProtection: Ist der Gegner nicht effektiv gegen die\nEinheit, halbiert sich der Schaden, den\ndiese erleidet.
+MSID_GeneralStar: General
+MSID_H_GeneralStar: Die Einheit kann nicht 2-mal denselben Statuseffekt\nerleiden. Wird sie mit einem Strategem angegriffen,\nhalbiert sich der Schaden, den sie erleidet.
+MSID_LittleGeneralStar: Befehlshaber
+MSID_H_LittleGeneralStar: Wird die Einheit mit einem Strategem\nangegriffen, halbiert sich der Schaden,\nden sie erleidet.
+MSID_BigGeneralStar: Kommandant
+MSID_H_BigGeneralStar: Kann denselben Statuseffekt nicht 2-mal\nerleiden. Durch Strategeme und effektive\nAngriffe erlittener Schaden halbiert sich.
+MSID_GaleStance: Sturm-Haltung
+MSID_H_GaleStance: Verleiht Ges. {Variable=0}.
+MSID_FogStance: Nebel-Haltung
+MSID_H_FogStance: Verleiht max. KP/Stä./Ver. {Variable=0}, Ges. {Variable=1}\nund Aw. {Variable=2}.
+MSID_RockStance: Hlg.-Stein-Haltung
+MSID_H_RockStance: Verleiht max. KP {Variable=0}, Stä. {Variable=1}\nund Ver. {Variable=2}.
+MSID_GaleToeFog: Nebeltanz
+MSID_H_GaleToeFog: Die Einheit wechselt von Sturm-Haltung\nzu Nebel-Haltung.
+MSID_FogToeRock: Felsenfest
+MSID_H_FogToeRock: Die Einheit wechselt von Nebel-Haltung zu\nHlg.-Stein-Haltung.
+MSID_SkyBarrier: Himmelsbarriere
+MSID_H_SkyBarrier: Ist der Gegner effektiv+ gegen Flugeinheiten,\nreduziert sich der erlittene Schaden durch\neinen Angriff auf {Variable=0} %.
+MSID_EarthShield: Nobles Götterschild
+MSID_H_EarthShield: Wird die Einheit mit Feuerkugel o. Ballista\nangegr., halbiert sich der erlittene Schaden.\nSie kann durch sie nicht besiegt werden.
+MSID_AutoReboot: Neustartzwang
+MSID_H_AutoReboot: Wurde die Einheit angegriffen, wird der\nEffekt Verhinderung nach dem Kampf\nwieder aufgehoben.
+MSID_FlyingEffectiveDisable: Neg. Flieger-Eff.
+MSID_H_FlyingEffectiveDisable: Hebt „effektiv gegen Flugeinheiten“ auf.
+MSID_CavalryEffectiveDisable: Neg. Beritten-Eff.
+MSID_H_CavalryEffectiveDisable: Hebt „effektiv gegen Berittene“ auf.
+MSID_ArmorEffectiveDisable: Neg. Gepanzert-Eff.
+MSID_H_ArmorEffectiveDisable: Hebt „effektiv gegen Gepanzerte“ auf.
+MSID_DragonEffectiveDisable: Neg. Drachen-Eff.
+MSID_H_DragonEffectiveDisable: Hebt „effektiv gegen Drachen“ auf.
+MSID_BeastEffectiveDisable: Neg. Bestien-Eff.
+MSID_H_BeastEffectiveDisable: Hebt „effektiv gegen Bestien“ auf.
+MSID_HellEffectiveDisable: Neg. Untot-Eff.
+MSID_H_HellEffectiveDisable: Hebt „effektiv gegen wandelnde Tote“ auf.
+MSID_AllEffectiveDisable: Neg. alle Eff.
+MSID_H_AllEffectiveDisable: Hebt effektiven Schaden auf.
+MSID_HalfProtection: Barrierenriss
+MSID_H_HalfProtection: Wird die Einheit angegriffen, erleidet sie\nhalben Schaden. (Effekt wird nach\n{Variable=0} {SingularPlural0=Angriff|Angriffen} aufgehoben.)
+MSID_HalfDefenseProtection: Wandriss
+MSID_H_HalfDefenseProtection: Wird die Einheit angegriffen, erleidet sie\nkeinen Schaden. (Effekt wird nach\n{Variable=0} {SingularPlural0=Angriff|Angriffen} aufgehoben.)
+MSID_Protection: Obstakel
+MSID_H_Protection: Wird die Einheit angegriffen, erleidet sie\nhalben Schaden. (Effekt wird nach\n{Variable=0} {SingularPlural0=Angriff|Angriffen} aufgehoben.)
+MSID_RecoveryProtection: Wiederobstakel
+MSID_H_RecoveryProtection: Wird die Einheit angegriffen, erleidet sie halben\nSchaden. Haltbarkeit erholt sich jede {Variable=0}. Runde.\nWird zerstört, wenn sie {Variable=0}-mal angegriffen wurde.
+MSID_RecoveryDefenseProtection: Wiederwand
+MSID_H_RecoveryDefenseProtection: Wird die Einheit angegriffen, erleidet sie keinen\nSchaden. Haltbarkeit erholt sich jede {Variable=0}. Runde.\nWird zerstört, wenn sie {Variable=0}-mal angegriffen wurde.
+MSID_HellDragonProtection: Drachenwand
+MSID_H_HellDragonProtection: Ist die Haltbarkeit 1-4, erleidet die Einheit\nhalben Schaden; bei Haltbarkeit 5-8 erleidet\nsie 0 Schaden. Haltbarkeit erholt sich jede {Variable=0}. Rde.
+MSID_InvincibleProtection: Unbesiegbare Wand
+MSID_H_InvincibleProtection: Wird die Einheit angegriffen, erleidet\nsie keinen Schaden. (Effekt wird nie\naufgehoben.)
+MSID_EnemyPotential_HP: Max. KP{Variable=0}
+MSID_H_EnemyPotential_HP: Verleiht max. KP {Variable=0}.
+MSID_EnemyPotential_Str: Stä.{Variable=0}
+MSID_H_EnemyPotential_Str: Verleiht Stä. {Variable=0}.
+MSID_EnemyPotential_Def: Ver.{Variable=0}
+MSID_H_EnemyPotential_Def: Verleiht Ver. {Variable=0}.
+MSID_EnemyPotential_Spd: Ges.{Variable=0}
+MSID_H_EnemyPotential_Spd: Verleiht Ges. {Variable=0}.
+MSID_EnemyPotential_Mag: Mag.{Variable=0}
+MSID_H_EnemyPotential_Mag: Verleiht Mag. {Variable=0}.
+MSID_EnemyPotential_Res: Res.{Variable=0}
+MSID_H_EnemyPotential_Res: Verleiht Res. {Variable=0}.
+MSID_EnemyPotential_Hit: Trf.{Variable=0}
+MSID_H_EnemyPotential_Hit: Verleiht Trf. {Variable=0}.
+MSID_EnemyPotential_Avoid: Aw.{Variable=0}
+MSID_H_EnemyPotential_Avoid: Verleiht Aw. {Variable=0}.
+MSID_TribalSongD: Verteidigungslied
+MSID_H_TribalSongD: Verleiht allen Verbündeten Ver. {Variable=0} bis\nzum Ende der nächsten Runde.
+MSID_TribalSongM: Gebetslied
+MSID_H_TribalSongM: Verleiht allen Verbündeten Res. {Variable=0} bis\nzum Ende der nächsten Runde.
+MSID_TribalSongA: Jagdlied
+MSID_H_TribalSongA: Verleiht allen Verbündeten Agr. {Variable=0} bis\nzum Ende der nächsten Runde.
+MSID_H_FrenzySongAll: Alle Gegner erleiden Verwirrung.
+MSID_H_EnthusiasticSongAll: Verleiht allen Verbündeten Agr. {Variable=0}\nbis zur nächsten Phase der Einheit.
+MSID_H_FrozenSongAll: Verleiht allen Verbündeten Schild {Variable=0}\nbis zur nächsten Phase der Einheit.
+MSID_BalorAttack: Abyssusklauen
+MSID_SpecialSniperAvoid: Gr. Schützenmeidung
+MSID_H_SpecialSniperAvoid: Befindet sich der Gegner {Variable=0}+ Felder\nentfernt von der Einheit, erhält diese\nim Kampf Aw. {Variable=1}.
+MSID_AnhEnhance: Todesmut
+MSID_H_R_Hp_Def: Verleiht KP {Variable=0}, Ver. {Variable=1}.
+MSID_DefenseBattleBuff: Blutrausch{Variable=0}
+MSID_H_DefenseBattleBuff: Verleiht Stä./Mag./Ges./Ver./Res. {Variable=0}.
+MSID_Poison: Gift
+MSID_H_Poison: Zu Beginn ihrer Phase erleidet die Einheit\nwenig Schaden. (Wird nach {Variable=0} {SingularPlural0=Runde|Runden}\naufgehoben.)
+MSID_Confusion: Verwirrung
+MSID_H_Confusion: Bis zum Ende der aktuellen Phase kann\nnicht gekontert werden. (Wird nach\n{Variable=0} {SingularPlural0=Kampf|Kämpfen} aufgehoben.)
+MSID_NoMagic: Schweigen
+MSID_H_NoMagic: Die Einheit kann keine Magie einsetzen.\n(Wird nach {Variable=0} {SingularPlural0=Runde|Runden} aufgehoben.)
+MSID_NoStrategy: Vergeltung
+MSID_H_NoStrategy: Die Einheit kann kein Strategem einsetzen.\n(Wird nach {Variable=0} {SingularPlural0=Runde|Runden} aufgehoben.)
+MSID_NoMove: Paralyse
+MSID_H_NoMove: Die Einheit kann sich nicht bewegen.\n(Wird nach {Variable=0} {SingularPlural0=Runde|Runden} aufgehoben.)
+MSID_NoAction: Verhinderung
+MSID_H_NoAction: Die Einheit kann keine Aktion ausführen.\n(Wird nach {Variable=0} {SingularPlural0=Runde|Runden} aufgehoben.)
+MSID_Collapse: Benommenheit
+MSID_H_Collapse: Halbiert den Trf.-Wert. (Wird nach\n{Variable=0} {SingularPlural0=Kampf|Kämpfen} oder {Variable=1} {SingularPlural1=Runde|Runden} aufgehoben.)
+MSID_Slowing: Verlangsamung
+MSID_H_Slowing: Halbiert die AG. (Wird nach {Variable=0} {SingularPlural0=Kampf|Kämpfen}\noder in {Variable=1} {SingularPlural1=Runde|Runden} aufgehoben.)
+MSID_Unrack: Pech
+MSID_H_Unrack: Halbiert Glk. (Wird nach {Variable=0} {SingularPlural0=Kampf|Kämpfen}\noder in {Variable=1} {SingularPlural1=Runde|Runden} aufgehoben.)
+MSID_AttackChange: Stärkewechsel
+MSID_H_AttackChange: Tauscht Stä. und Mag. (Wird nach\n{Variable=0} {SingularPlural0=Kampf|Kämpfen} oder in {Variable=1} {SingularPlural1=Runde|Runden}\naufgehoben.)
+MSID_DefenseChange: Defensivwechsel
+MSID_H_DefenseChange: Tauscht Ver. und Res. (Wird nach\n{Variable=0} {SingularPlural0=Kampf|Kämpfen} oder in {Variable=1} {SingularPlural1=Runde|Runden}\naufgehoben.)
+MSID_Lizaia: Nosferatu
+MSID_Barrier: Heilige Barriere
+MSID_MagicShield: Magieschild
+MSID_Emergence: Emergis
+MSID_Regeia: Regenera
+MSID_Warm: Schwarm Ζ
+MSID_Luna: Luna Λ
+MSID_HolyWater: Weihwasser
+MSID_PeaceDew: Tau des Friedens
+MSID_BlessingDew: Tau des Schutzes
+MSID_Antidote: Antidot
+MSID_HitAle: Linaria-Saft
+MSID_BuildAle: Ginji-Saft
+MSID_CharmAle: Pongho-Saft
+MSID_DetoxifyAle: Kaffee
+MSID_SealedAle: Bakul-Saft
+MSID_LuckAle: Wun-Saft
+MSID_AttackAle: Paya-Saft
+MSID_DefenseAle: Miranilla-Saft
+MSID_LightAle: Dattel-Saft
+MSID_CombatAle: Rokka-Saft
+MSID_ApathyAle: Bitterblatt-Saft
+MSID_RangeAle: Süßblatt-Saft
+MSID_RecoveryAle: Pfefferblatt-Saft
+MSID_MoveAle: Zangh-Saft
+MSID_BlissTongue: Heilschlag
+MSID_VictoryJewel: Triumph-Stein
+MSID_SeaCharm: Meergeist-Talisman
+MSID_AuroraCloth: Tuch der Aurora
+MSID_MiasmaLaziness: Trägheit-Miasma
+MSID_H_MiasmaLaziness: Die Einheit kann keinen Folgeangriff\nausführen.
+MSID_MiasmaGreed: Habgier-Miasma
+MSID_H_MiasmaGreed: Zu Beginn ihrer Phase werden die KP der\nEinh. halbiert. Sie erhält Goldbeutel ×{Variable=0}.\nVer. wird auf {Variable=1} gesetzt. Gegn. sind immun.
+MSID_MiasmaDeceit: Täuschung-Miasma
+MSID_H_MiasmaDeceit: Reduziert Vis. der Einheit auf {Variable=0}.\nGegner sind immun dagegen.
+MSID_MiasmaEnvy: Neid-Miasma
+MSID_H_MiasmaEnvy: Ist der Lv. < gegn. Lv., wird bei der Einheit\nAw. auf {Variable=0} gesetzt sowie Trf. um das\n{Variable=1}-Fache im Kampf erhöht.
+MSID_MiasmaRage: Zorn-Miasma
+MSID_H_MiasmaRage: Erhöht Krit. um das {Variable=0}-Fache.\nHalbiert Ver.
+MSID_MiasmaPride: Hochmut-Miasma
+MSID_H_MiasmaPride: Ist der Lv. der Einheit > als der des\nGegners, halbiert sich bei ihr Trf. im Kampf.
+MSID_MiasmaLust: Wollust-Miasma
+MSID_H_MiasmaLust: Ist Chm. der Einheit < als beim Gegner,\nhalbieren sich bei ihr Trf./Aw. im Kampf.
+MSID_MiasmaGluttony: Völlerei-Miasma
+MSID_H_MiasmaGluttony: Zu Beginn ihrer Phase verringert sich bei der\nEinh. die Haltbarkeit der ausgerüsteten Waffe\num {Variable=0} u. der ausgerüsteten Magie um {Variable=1}.
+MSID_MiasmaFear: Furcht-Miasma
+MSID_H_MiasmaFear: Die Einheit erleidet zu Beginn der\nGegnerphase Verwirrung. Gegner sind\nimmun.
+MSID_Miasma: Miasma
+MSID_H_Miasma: Zu Beginn ihrer Phase erleidet die Einheit\nSchaden = 50 % der max. KP. Die KP von\nUnterweltsoldaten werden wiederhergestellt.
+MSID_SunsetMiasma: Abendrotmiasma
+MSID_HadesGate: Tor zur Unterwelt
+MSID_H_HadesGate: Stürzt nach {Variable=0} {SingularPlural0=Runde|Runden} ein.
+MSID_HadesGround: Pulsierendes Fleisch
+MSID_H_HadesGround: Nach {Variable=0} {SingularPlural0=Runde|Runden} erscheint ein\nTor zur Unterwelt.
+MSID_Madness: Unterweltwahn
+MSID_H_Madness: Setzt die Brandleiste auf {Variable=0}. Großbrand\nkann nicht entfernt werden.
+MSID_SpiritualUnity: Unterweltruhe
+MSID_H_SpiritualUnity: Setzt die Brandleiste auf 0 zurück.
+MSID_Secret: ???
+MSID_SolidGiant: Riesenruf
+MSID_SandstormBattalion: Sandsturm-Bataillon
+MSID_DragonFormDagda: 
+MSID_H_DragonFormDagda: 
+MSID_DragonFormIshieto: 
+MSID_H_DragonFormIshieto: 
+MSID_DragonFormSeteth: 
+MSID_H_DragonFormSeteth: 
+MSID_DragonFormLyra: 
+MSID_H_DragonFormLyra: 
+MSID_CommonSwordSkill: Schwerter
+MSID_H_CommonSwordSkill: Vervielfacht Agr. um das {Variable=0}-Fache, wenn\nein Folgeangriff ausgeführt wird.
+MSID_CommonAxesSkill: Äxte
+MSID_H_CommonAxesSkill: Fügt mindestens {Variable=0} Schaden zu.
+MSID_CommonGauntletSkill: Panzerhände
+MSID_H_CommonGauntletSkill: Ist der Gegner nicht mit Panzerhänden\nausgerüstet, erhält die Einheit Aw. {Variable=0}\nim Kampf.
+MSID_H_Invincible: Vorrichtungen werden für {Variable=0} {SingularPlural0=Runde|Runden}\ndurch Magie geschützt (max. {Variable=1}-mal).
+MSID_H_Clearsandstorm: Neutralisiert Sandstürme auf Feldern\nin Reichweite.
+MSID_H_Throwfeed: Stärkt einen Riesen. Die Armee der Einheit\nist kein Ziel mehr.
+MSID_H_Calmdown: Spricht zu den Einwohnern von Kunlun, um\nihnen ihre Panik zu nehmen.
+MSID_H_Feeding: Verwandelt einen gestreiften Wolf in einen\nVerb. Ist dieser bereits ein Verb., wird bei\nihm eine kleine Menge KP wiederhergestellt.
+MSID_H_Markerplacement: Blitz-Langspeer-Wurf. Zielt auf ein Gebiet,\ndas von der Elefantenkanone angegriffen\nwerden soll.
+MSID_Rainy: Regenwetter
+MSID_H_Rainy: Vervielfacht den Blitzschaden um {Variable=0}.\nHalbiert den Schaden durch Flammen.
+MSID_GleipnirPower: Starke Bedrohung
+MSID_H_GleipnirPower: Verleiht allen Statuswerten {Variable=0}.
+MSID_DefForceField: Verteidigungsfeld
+MSID_H_DefForceField: Verleiht Ver. {Variable=0}.
+MSID_ResForceField: Resistenzfeld
+MSID_H_ResForceField: Verleiht Res. {Variable=0}.
+MSID_KatarinaProtect: Katarinas Schutz
+MSID_H_KatarinaProtect: Verleiht Stä./Mag./Ver./Res./Glk. {Variable=0}.
+MSID_InvinciblePower: Unbezwingbar
+MSID_H_InvinciblePower: Erleidet keinen Schaden.
+MSID_Cheering: Jubel
+MSID_H_Cheering: Vervielfacht alle Statuswerte\num {Variable=0}.
+MSID_FogHiding: Nebelflucht
+MSID_H_FogHiding: Verleiht Aw. {Variable=0}, Stä. {Variable=1} und Ver. {Variable=2}.
+MSID_TelusBarrier: Tellus-Barriere
+MSID_H_TelusBarrier1: Reduziert bei einem Angriff den erlittenen\nSchaden auf {Variable=0} %.
+MSID_Unprotected: Wehrlos
+MSID_RecklessTreasure: Magiekugel
+MSID_ParmaMagic: Palmas Geheimnis
+MSID_Flama: Flamma
+MSID_H_Flama1: Verleiht Stä. {Variable=0} und Ver./Res. {Variable=1}.
+MSID_H_Flama2: Verleiht max. KP {Variable=0} und Stä./Res. {Variable=1}.
+MSID_IshietoHelp: Eishets Führung
+MSID_H_IshietoHelp: Verleiht Magie-Rw. {Variable=0}, Stä./Mag. {Variable=1}\nund Ver./Res. {Variable=2}.
+MSID_DagdaDivinePower: Dagdas Macht
+MSID_H_DagdaDivinePower: Verleiht Stä. {Variable=0} und Mag./Ver./Res. {Variable=1}.
+MSID_BalorDivinePower: Balors Macht
+MSID_BalorGreatDivinePower: Balors Macht+
+MSID_H_BalorGreatDivinePower: Verleiht max. KP {Variable=0} und\nStä./Mag./Ges. {Variable=1}.
+MSID_GiantFood: Riesen-Köder
+MSID_H_GiantFood: Verleiht Stä./Beh./Ges. {Variable=0}. Die Einheit\nerleidet keinen Schaden.
+MSID_LegionArea: Legionär
+MSID_H_LegionArea: Gegner können nicht passieren.
+MSID_BalorBreath: Apokalypse-Nebel
+MSID_BalorTerrainAttack: Feuer von Tartarus
+MSID_H_BalorTerrainAttack: Alle Gegner in Reichweite werden\nangegriffen.
+MSID_BlazeControl: Kontrolle
+MSID_H_BlazeControl: Erlaubt den Befehl Unterweltruhe.
+MSID_BlazeRampage: Tobsucht
+MSID_H_BlazeRampage: Erlaubt den Befehl Unterweltwahn.
+MSID_BlazeResistance: Unbeugsamkeit
+MSID_H_BlazeResistance: Die max. KP nehmen beim Bersten nicht\nweiter ab.
+MSID_BlazeMachine: Schutzengel
+MSID_H_BlazeMachine: Erlaubt den Befehl Elizabeth. Gewährt\nBrandtechniken, bis die Brandleiste\ngeleert ist.
+MSID_BlazeHeaven: Erkenntnis
+MSID_H_BlazeHeaven: Gewährt wesentlich mächtigere\nBrandtechniken, während sich die\nBrandleiste füllt.
+MSID_RemainsProtection: Aufhebender Fluch
+MSID_H_RemainsProtection: Wird die Einheit angegriffen, erleidet sie\nkeinen Schaden. Chance in %: {Variable=0}.
+MSID_GoldenCurse: Divinium-Entzug
+MSID_KouPower: Hong Huas Magie
+MSID_H_Damina: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Trf. {Variable=0}.
+MSID_H_Damina+3: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Trf./Krit. {Variable=0}.
+MSID_H_HorseSword+3: Verleiht im Kampf gegen Berittene\nKrit. {Variable=0}.
+MSID_H_Flissa+3: Ist der Gegner gepanzert, erhält die Einheit\nKrit. {Variable=0} im Kampf.
+MSID_H_GaleSword+3: Weicht die Einheit einem Angriff aus, erhält\nsie Phys. {Variable=0} im Kampf.
+MSID_H_GreatSword+3: Verleiht der Einheit im Kampf\nTrf./Krit. {Variable=0} bei großen Gegnern.
+MSID_H_ExorcismSword: Neutralisiert beim Gegner Unterweltstärke\nim Kampf.
+MSID_H_HandSpear+3: Verleiht der Einheit im Kampf mit einem\n{Variable=0}+ {SingularPlural0=Feld|Feldern} entfernten Gegner Aw. {Variable=1}.
+MSID_H_ShortSpear+3: Verleiht der Einheit im Kampf mit einem\n{Variable=0}+ {SingularPlural0=Feld|Feldern} entfernten Gegner Trf. {Variable=1}.
+MSID_H_SlenderSpear+3: Verleiht der Einheit im Kampf mit\neinem {Variable=0}+ {SingularPlural0=Feld|Feldern} entfernten Gegner\nPhys. Angr. {Variable=1}.
+MSID_H_IdeaBow: Erhöht die Menge der durch Heiliger Blitz\nwiederhergestellten KP.
+MSID_H_Assal+3: Erhöht die Menge der durch Heiliger Hieb\nwiederhergestellten KP.
+MSID_H_KnightKiller+3: Verleiht im Kampf gegen Berittene\nSchild {Variable=0}.
+MSID_H_ShieldAxe: Greift der Gegner zuerst an, erhält die\nEinheit im Kampf Schu. {Variable=0}.
+MSID_H_Boomerang+3: Verleiht der Einheit im Kampf mit einem\n{Variable=0}+ {SingularPlural0=Feld|Feldern} entfernten Gegner Krit. {Variable=1}.
+MSID_H_Bardiche+3: Verleiht der Einheit im Kampf\nPhys. Angr. {Variable=0} bei großen Gegnern.
+MSID_H_Ottochan+3: Ist der Gegner in der Gegnerphase vergiftet,\ngreift die Einheit im Kampf zuerst an.
+MSID_H_HuntingBow+3: Ist der Gegner eine Bestie, erhält die Einheit\nim Kampf Trf. {Variable=0}.
+MSID_H_ShortBow+1: Verleiht der Einheit während des Kampfes\nmit einem benachbarten Gegner AG {Variable=0}.
+MSID_H_HorseBow+3: Ist der Gegner beritten, erhält die Einheit\nim Kampf Trf. {Variable=0}.
+MSID_H_BattleBow+3: Ist der Gegner groß, erhält die Einheit im\nKampf Trf. {Variable=0}.
+MSID_H_WindBow+1: Greift die Einheit zuerst an, erhält sie im\nKampf Aw. {Variable=0}.
+MSID_H_CounterGautlet: Greift der Gegner zuerst an, erhält die\nEinheit Agr. {Variable=0} im Kampf.
+MSID_H_CounterGautlet+3: Greift der Gegner zuerst an, erhält die\nEinheit Agr. {Variable=0} und Trf. {Variable=1} im Kampf.
+MSID_H_Kenkonken+3: Verleiht der Einheit im Kampf mit\neinem {Variable=0}+ {SingularPlural0=Feld|Feldern} entfernten Gegner\nTrf./Aw./Krit. {Variable=1}.
+MSID_H_Hukarin+1: Greift die Einheit zuerst an, erhält sie im\nKampf Trf. {Variable=0}.
+MSID_H_HealingWand: Heilt die Einheit einen Verbündeten mit\nMagie, werden bei der Einheit {Variable=0} KP\nwiederhergestellt.
+MSID_H_DemonSkull: Greift die Einheit mit Magie an, erhält sie\nKrit. {Variable=0}.
+MSID_H_AgonyShield: Wird die Einheit mit Magie angegriffen,\nhalbiert sich der erlittene Schaden.\nChance in %: {Variable=0}
+MSID_H_JuneauShield: Ein mit Frost bedecktes Absolutes Arc.\nWird die Einheit mit einem kritischen Angr.\nangegriffen, erleidet sie halben Schaden.
+MSID_H_ZephyrusShield: Ein Absolutes Arc, von der Macht des\nWindes erfüllt. Hebt „effektiv gegen\nFlugeinheiten“ auf.
+MSID_H_YuphasMask: Wird die Einheit von wandelnden Toten\nangegriffen, erhält sie Schild {Variable=0}.
+MSID_H_BragiBrush: Greift die Einheit mit Magie an, erhält sie\nTrf. {Variable=0}.
+MSID_H_ParticleEmblem: Trifft der magische Angriff der Einheit\nden Gegner, wird dieser verwirrt.\nChance in %: {Variable=0}
+MSID_H_PoisonBone: Trifft der magische Angriff der Einheit\nden Gegner, erleidet dieser Vergiftung.\nChance in %: {Variable=0}
+MSID_H_CarlaNeedle: Führt die Einheit einen Folgeangriff aus,\nerhält sie Agr. {Variable=0}.
+MSID_H_MarsStone: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Agr. {Variable=0} und Krit. {Variable=1}.
+MSID_H_PoisonJewel: Ist der Gegner vergiftet, erleidet die Einheit\n{Variable=0} % Schaden, wenn sie angegriffen wird.
+MSID_H_HuntingJewel: Ist der Gegner vergiftet, vervielfacht sich\nder Schaden, den die Einheit bei ihrem\nAngriff zufügt, um {Variable=0}.
+MSID_H_EventfulJewel: Ist der Gegner verwirrt, vervielfacht sich\nder Schaden, den die Einheit bei ihrem\nAngriff zufügt, um {Variable=0}.
+MSID_H_FuraiJewel: Die Einheit kann im Kampf keinen\nFolgeangriff erleiden. Chance in %: {Variable=0}
+MSID_H_LightningJewel: Greift die Einheit mit einer Kampftechnik\nan, vervielfacht sich der Schaden um {Variable=1}.\nChance in %: {Variable=0}
+MSID_H_FlameJewel: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Trf. {Variable=1} im Kampf.\nChance in %: {Variable=0}
+MSID_H_StormJewel: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Aw. {Variable=1} im Kampf.\nChance in %: {Variable=0}
+MSID_H_CriticalJewel: Führt die Einheit einen kritischen Angriff\naus, wird bei ihr ein Drittel des zugefügten\nSchadens in KP wiederhergestellt.
+MSID_H_ChallengeJewel: Ist der Gegner mit demselben Waffentyp\nausgerüstet, erhält die Einheit Agr. {Variable=0}\nim Kampf.
+MSID_H_PursuitJewel: Die Einheit führt unabhängig von der\nAG im Kampf einen Folgeangriff aus.\nChance in %: {Variable=0}
+MSID_H_CharmJewel: Der Gegner erleidet Trf. {Variable=0} im Kampf.\nChance in %: Chm. ÷2
+MSID_H_SeverJewel: Greift die Einheit zuerst an, kann sie\nkeinen Folgeangriff im Kampf erleiden.\nChance in %: {Variable=0}
+MSID_H_MiracleJewel: Reduziert den erlittenen Schaden auf {Variable=1},\nwenn die Einheit angegriffen wird.\nChance in %: {Variable=0}
+MSID_H_DaintyJewel: Ist Chm. der Einheit ≥ gegn. Chm. +{Variable=0},\nerleidet der Gegner Trf. {Variable=1} im Kampf.
+MSID_H_SpiritJewel: Wird die Einheit mit Magie angegriffen,\nerhält sie Aw. {Variable=1}. Chance in %: {Variable=0}
+MSID_H_MadnessJewel: Ist die Einheit verwirrt, erhält sie Aw. {Variable=0}.
+MSID_H_SwordAmulet: Nutzt der Gegner ein Schwert, erhält die\nEinheit im Kampf Trf./Aw. {Variable=0}.
+MSID_H_SpearAmulet: Verwendet der Gegner eine Lanze, erhält\ndie Einheit im Kampf Trf./Aw. {Variable=0}.
+MSID_H_AxeAmulet: Verwendet der Gegner eine Axt, erhält die\nEinheit im Kampf Trf./Aw. {Variable=0}.
+MSID_H_BowAmulet: Verwendet der Gegner einen Bogen, erhält\ndie Einheit im Kampf Trf./Aw. {Variable=0}.
+MSID_H_GauntletAmulet: Verwendet der Gegner Panzerhände, erhält\ndie Einheit im Kampf Trf./Aw. {Variable=0}.
+MSID_H_Warm: Trifft die Attacke der Einheit den Gegner,\nerleidet dieser Ges. {Variable=0} bis zur nächsten\nPhase der Einheit.
+MSID_H_Luna: Ignoriert Res. des Gegners im Kampf.
+MSID_H_R_Hit_Att: Verleiht Trf. {Variable=0} und Agr. {Variable=1}.
+MSID_H_R_Avo_Sec: Verleiht Aw./KA {Variable=0}.
+MSID_H_Regeia: Zu Beginn ihrer Phase wird bei der Einheit\neine kleine Menge KP wiederhergestellt\n(für {Variable=0} {SingularPlural0=Zug|Züge}).
+MSID_H_R_Hit: {PlusMinus0=Verleiht|Fügt zu:} Trf. {Variable=0}.
+MSID_H_R_CSHit: Greift die Einheit mit einer Kampftechnik\nan, erhält sie Trf. {Variable=0}.
+MSID_H_R_Avo: {PlusMinus0=Verleiht|Fügt zu:} Aw. {Variable=0}.
+MSID_H_R_Cri: {PlusMinus0=Verleiht|Fügt zu:} Krit. {Variable=0}.
+MSID_H_R_Sec: Verleiht KA {Variable=0}.
+MSID_H_R_AS: Verleiht AG {Variable=0}.
+MSID_H_R_Hit_Avo: {PlusMinus0=Verleiht|Fügt zu:} Trf./Aw. {Variable=0}.
+MSID_H_R_Hit_Avo_Cri: Verleiht Trf./Aw./Krit. {Variable=0}.
+MSID_H_R_Att: {PlusMinus0=Verleiht|Fügt zu:} Agr. {Variable=0}.
+MSID_H_R_Pro: {PlusMinus0=Verleiht|Fügt zu:} Schild {Variable=0}.
+MSID_H_R_Att_Cri: Verleiht Agr. {Variable=0} und Krit. {Variable=1}.
+MSID_H_R_Pro_Sec: Verleiht Schild {Variable=0} und KA {Variable=1}.
+MSID_H_R_Hp: {PlusMinus0=Verleiht|Fügt zu:} Max. KP {Variable=0}.
+MSID_H_R_Str: Verleiht Stä. {Variable=0}.
+MSID_H_R_Mag: Verleiht Mag. {Variable=0}.
+MSID_H_R_Tec: {PlusMinus0=Verleiht|Fügt zu:} Beh. {Variable=0}.
+MSID_H_R_Spd: {PlusMinus0=Verleiht|Fügt zu:} Ges. {Variable=0}.
+MSID_H_R_Def: {PlusMinus0=Verleiht|Fügt zu:} Ver. {Variable=0}.
+MSID_H_R_Res: {PlusMinus0=Verleiht|Fügt zu:} Res. {Variable=0}.
+MSID_H_R_Lck: {PlusMinus0=Verleiht|Fügt zu:} Glk. {Variable=0}.
+MSID_H_R_Mov: Fügt Bew. {Variable=0} zu.
+MSID_H_R_Phy: Verleiht Fig. {Variable=0}.
+MSID_H_R_Cha: Verleiht Chm. {Variable=0}.
+MSID_H_R_Str_Mag: Verleiht Stä./Mag. {Variable=0}.
+MSID_H_R_Def_Res: Verleiht Ver./Res. {Variable=0}.
+MSID_H_R_Def_Avo: Verleiht Ver. {Variable=0} auf Kosten von\nAw. {Variable=1}.
+MSID_H_R_Mag_Res: Verleiht Mag./Res. {Variable=0}.
+MSID_H_R_Str_Magx150: Vervielfacht Stä./Mag. um {Variable=0}.
+MSID_H_R_Def_Resx150: Vervielfacht Ver./Res. um {Variable=0}.
+MSID_H_R_HolyWater: Verleiht Res. {Variable=0}. (Nimmt mit jedem\n{Variable=1}. Zug um {Variable=2} ab.)
+MSID_H_R_HellLordEffect: Die Einheit erleidet den halben Schaden\nund bleibt durch Unterweltflamme\nunbeeinflusst.
+MSID_H_R_NoPursuit: Die Einheit kann keinen Folgeangriff\nerleiden.
+MSID_H_R_Leading: Die Einheit greift zuerst an.
+MSID_H_R_HitHalved: Halbiert Trf.
+MSID_H_R_AvoHalved: Halbiert Aw.
+MSID_H_R_ASHalved: Halbiert AG.
+MSID_H_R_ProHalved: Halbiert Schild.
+MSID_H_R_DefHalved: Halbiert Ver.
+MSID_H_R_HitHalved_00: Halbiert Trf.
+MSID_H_R_Hit_AvoHalved: Halbiert Trf./Aw.
+MSID_H_R_MagicDamageHalved: Die Einheit erleidet den halben Schaden\ndurch magische Angriffe.
+MSID_H_R_DamageHalved: Die Einheit erleidet den halben Schaden\nbei Angriffen.
+MSID_H_R_Str_Mag_Invert: Stä. und Mag. werden getauscht.
+MSID_H_R_Def_Res_Invert: Ver. und Res. werden getauscht.
+MSID_H_R_NoReturn: Die Einheit kann nicht kontern.
+MSID_H_R_NoCounter: Der Angriff der Einheit kann nicht\ngekontert werden.
+MSID_H_R_NoPoison: Die Einheit kann nicht vergiftet werden.
+MSID_H_R_NoSealed: Die Einheit kann nicht unter Schweigen\nleiden.
+MSID_H_R_HellEff: Angriffe gegen wandelnde Tote sind\neffektiv.
+MSID_H_R_Continuous: Die Einheit führt einen Folgeangriff aus,\nbevor der Gegner kontern kann.
+MSID_H_R_InvalidEff: Hebt beim Gegner „effektiv“-Boni auf.
+MSID_H_R_InvalidCritical: Die Einheit kann keinen kritischen Angriff\nerleiden.
+MSID_H_R_Absorption: Bei der Einheit werden X KP\nwiederhergestellt. (X = Hälfte des\nSchadens, den sie zugefügt hat.)
+MSID_H_R_Def0: Setzt Ver. auf 0.
+MSID_H_R_BattleRecoveryS: Nach dem Kampf wird bei der Einheit eine\nkleine Menge KP wiederhergestellt.
+MSID_H_R_Res0: Setzt Res. auf 0.
+MSID_H_R_Pha_Hit: Verleiht physischen Angriffen Trf. {Variable=0}.
+MSID_H_R_Maa_Hit: Verleiht magischen Angriffen Trf. {Variable=0}.
+MSID_H_R_KillHeelM: Hat die Einheit einen Gegner besiegt,\nwerden bei der Einheit einige KP\nwiederhergestellt.
+MSID_H_R_Durability: Die Haltbarkeit der Waffe nimmt nicht ab.
+MSID_H_R_Pha_DamageHalved: Die Einheit erleidet bei physischen\nAngriffen den halben Schaden.
+MSID_H_R_Maa_DamageHalved: Die Einheit erleidet bei magischen\nAngriffen den halben Schaden.
+MSID_H_R_Ect: Verleiht Schu. {Variable=0}.
+MSID_H_R_End: Verleiht Rsl. {Variable=0}.
+MSID_H_R_Tec_Spd: Verleiht Beh./Ges. {Variable=0}.
+MSID_H_R_Explanation: Verleiht im Kampf Trf. {Variable=1}.\nChance in %: {Variable=0}
+MSID_H_R_ReducedMoveCost: Ändert die Bewegungskosten für\ndas Gelände um {Variable=0} (können nicht\ngeringer als 1 sein).
+MSID_H_R_AutoRecovery: Zu Beginn ihrer Phase wird bei der Einheit\neine kleine Menge KP wiederhergestellt.
+MSID_H_R_Antidote: Die Einheit kann für {Variable=0} {SingularPlural0=Zug|Züge} nicht\nvergiftet werden.
+MSID_H_R_RunThrough: Verleiht Bew. {Variable=0} für {Variable=1} {SingularPlural1=Zug|Züge}.
+MSID_H_R_FirstAidFormation: Erhöht die Reichweite von Erste Hilfe\nauf {Variable=0} {SingularPlural0=Feld|Felder}.
+MSID_H_R_BackupFormation: Erhöht die Reichweite von Tapferer Helfer\nauf {Variable=0} {SingularPlural0=Feld|Felder}.
+MSID_H_R_BodyguardFormation: Erhöht die Reichweite von Leibwächter\nauf {Variable=0} {SingularPlural0=Feld|Felder}.
+MSID_H_R_Res_Avo: Verleiht Res. {Variable=0} und verursacht Aw. {Variable=1}.
+MID_Plus: +
+MID_PlusPlus: ++
+MID_SkillPlus_1: +1
+MID_SkillPlus_2: +2
+MID_SkillPlus_3: +3
+MID_SkillPlus_5: +5
+MID_SkillPlus_7: +7
+MID_SkillPlus_10: +10
+MID_SkillPlus_15: +15
+MID_SkillPlus_20: +20
+MID_SkillPlus_30: +30
+MID_SkillLevel_1: Lv. 1
+MID_SkillLevel_2: Lv. 2
+MID_SkillLevel_3: Lv. 3
+MID_SkillLevel_4: Lv. 4
+MID_SkillLevel_5: Lv. 5
+MID_Skill_SpecifyJob_Ride: Berittene
+MID_Skill_SpecifyJob_Fly: Flugeinh.
+MID_Skill_SpecifyJob_Armor: Gepanzerte
+MID_Skill_SpecifyJob_Infantry: Infanterie
+MID_Skill_CompAttack: Agr.
+MID_Skill_CompDefense: Schild
+MID_Skill_InPhase: in der aktuellen Phase.
+MID_Skill_About3Turn: für 3 Runden.
+MID_Skill_AtNextTurnEnd: bis zum Ende der nächsten Runde.
+MID_Skill_AtNextMyPhase: bis zur nächsten Phase der Einheit
+MID_Skill_AtOnceBattle: bis zum Ende des nächsten Kampfes.
+MID_Skill_SpearRange_1to2: (Nur für Lanzen/Speere mit Rw. 1-2.)
+MID_Skill_AxesRange_1to2: (Nur für Äxte mit Rw. = 1-2.)
+MID_Skill_Impossible_AddAtk: Kein Folgeangriff möglich.
+MID_Skill_InBattleMapEnd: bis zum Abschluss der Karte
+MID_Skill_AtOnceBattleMap: (Nur 1-mal pro Karte anwendbar.)

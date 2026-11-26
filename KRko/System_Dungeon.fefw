@@ -1,0 +1,40 @@
+﻿MID_Dungeon_Start: START
+MID_Dungeon_Complete: Complete
+MID_Dungeon_FieldKill: 즉시 처치 가능
+MID_Dungeon_Banquet: 휴식
+MID_Dungeon_BanquetMenu_Help: 식재료를 선택해 주십시오
+MID_Dangeon_BanquetMenu_Confirm: 선택한 식재료를 사용하겠습니까?
+MID_Dungeon_BanquetMenu_Cancel_Confirm: 휴식을 취하지 않고 던전 탐색을 계속하겠습니까?
+MID_Dungeon_Banquet_FindEnemy: 적에게 쫓기고 있을 때는 이용할 수 없습니다
+MID_Dungeon_Banquet_NotMaterial: 식재료가 없습니다\n이용하려면 최소 1개 이상의 식재료가 필요합니다
+MID_Dungeon_Banquet_Complete: 휴식을 취할 필요가 없습니다
+MID_CmdBtl_Name: 퀵 배틀
+MID_CmdBtl_BattleStart: Battle
+MID_CmdBtl_EventBattleStart: Event Battle
+MID_CmdBtl_NextRound: Next Round
+MID_CmdMenu_Link: 연계
+MID_CmdMenu_Link_Attack: 공격 연계
+MID_CmdMenu_Link_Attack_Help: 선택한 동료와 함께\n연속해서 적을 공격하는 연계
+MID_CmdMenu_Link_Heal: 회복 연계
+MID_CmdMenu_Link_Heal_Help: 선택한 동료에게 치료를 받으며\n적을 공격하는 연계
+MID_CmdMenu_Link_Guard: 공방 연계
+MID_CmdMenu_Link_Guard_Help: 선택한 동료와 함께 공격하면서\n적의 공격을 완벽히 방어하는 연계
+MID_CmdMenu_Link_Cause_NotLp: LP가 부족합니다
+MID_CmdMenu_Link_Cause_NotAttack: 공격할 수 있는 동료가 없습니다
+MID_CmdMenu_Link_Cause_NotSupport: 회복 마법을 사용할 수 있는 동료가 없습니다
+MID_CmdMenu_Link_Cause_NotReliance: 지원 LV이 충분한 동료가 없습니다
+MID_CmdMenu_Link_Cause_FullHP: 회복할 필요가 없습니다
+MID_CmdMenu_ConcentrationCost: 소비 LP
+MID_CmdBtl_NextUnit: Next
+MID_CmdBtl_PreAttackFailed_Message: 공격할 수 있는 무기나 마법이 없으므로\n선제공격을 할 수 없습니다
+MID_CmdBtl_AutoAttackFailed_Message: 공격할 수 있는 무기나 마법이 없으므로\n위임 기능을 사용할 수 없습니다
+MID_CmdBtl_SkipFailed_Message: 배틀이 결판이 나지 않았습니다\n위임 스킵을 종료합니다
+MID_CmdBtl_Escape_Attention: 던전의 스타트 지점으로 돌아갑니다
+MID_CmdBtl_Retry_Confirm: 전투가 오래 지속되고 있습니다\n이 배틀을 처음부터 다시 시작하겠습니까?\n(소지품이나 스킬 등을 변경할 수 있습니다)
+MID_CmdBtl_RestartBattle_Confirm: 이 배틀을 다시 시작하겠습니까?
+MID_CmdBtl_RestartBattle_Annotation: 「아니요」를 선택하면 모든 유닛이\nHP 1인 상태로 스타트 지점으로 돌아갑니다
+MID_CmdBtl_RestartBattle_GmapCasual_Annotation: 「아니요」를 선택하면 부대의 모든 유닛이\nHP 1인 상태로 다그시온으로 돌아갑니다
+MID_CmdBtl_RestartBattle_GmapClassic_Annotation: 「아니요」를 선택하면 전투에 참가하지 않은 유닛을 포함해\n이 부대의 모든 동료 유닛을 잃고 맙니다\n({AvatarName}{ConsonantVowel=은|는} HP 1인 상태로 다그시온으로 돌아갑니다)
+MID_CmdBtl_RestartBattle_Last_Confirm: 이 조작은 취소할 수 없습니다\n정말로 괜찮겠습니까?
+MID_Dungeon_Enemy_Destroy: 적의 기척이 사라졌다
+MID_Dungeon_Challenger_Confirm: 흉전사와의 전투를 시작하겠습니까?

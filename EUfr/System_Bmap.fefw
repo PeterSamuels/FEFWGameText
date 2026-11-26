@@ -1,0 +1,150 @@
+﻿MID_Sys_PlayerPhase: Phase joueur
+MID_Sys_EnemyPhase: Phase ennemis
+MID_Sys_AllyPhase: Phase alliés
+MID_Battle_Damage_NoDamage: Sans effet !
+MID_Battle_Damage_Miss: Raté !
+MID_Battle_Damage_Critical: Critique !
+MID_Battle_Damage_Guard: Protection !
+MID_Battle_Damage_ChainAttack: Attaque enchaînée !
+MID_Battle_Damage_OverBlaze: Embrasement !
+MID_Battle_Damage_Burst: Surchauffe !
+MID_Battle_StatusUp: Bonus
+MID_Battle_StatusDown: Malus
+MID_Battle_BadCondition: Altération de statut
+MID_Battle_CureCondition: Guérison
+MID_Sys_EndureHp: Résistance
+MID_Sys_Damage: Dégâts
+MID_Sys_CannonCount: Tirs
+MID_Sys_NoEntry: Infranchissable
+MID_Sys_NoWalkingEntry: Volantes uniquement
+MID_Sys_NoWalkingAndDestroy: Volantes uniquement/indestructible
+MID_Btl_FirstAttack: 1re attaque
+MID_Btl_LastAttack: 2e attaque
+MID_Btl_Buff: Bonus :
+MID_Btl_Debuff: Malus :
+MID_Btl_EnemyDetail_Barrier: Barrière
+MID_Btl_EnemyDetail_BarrierItem: Destruction totale
+MID_Btl_EnemyDetail_StockSkill: Capacité latente
+MID_Btl_EnemyDetail_ActivationStock: Activation :
+MID_SortieMenu_UnitSelect_Help: Choisissez les unités à déployer.
+MID_BtlMenu_SortieUnit: Déployées
+MID_BtlMenu_UnitGuest: Invités
+MID_BtlMenu_TurnCount: Tours
+MID_BtlMenu_WaitUnitCount: Disponibles
+MID_BtlMenu_DefeatCount_GuestUnit: Ennemis vaincus par les invités
+MID_BtlMenu_WeaponCost: Coût
+MID_BtlMenu_ConsumeHp: Coût en PV
+MID_BtlMenu_BigUnitCantSpace_Message: L'espace est insuffisant pour déployer une unité de grande taille.\nRedisposez vos unités déjà déployées.
+MID_BtlMenu_BigUnitChangeDispos_Message: Les unités déployées ont été déplacées pour ménager l'espace\nnécessaire au déploiement de l'unité de grande taille.
+MID_MiracleMenu_Help: Choisissez une bénédiction.
+MID_MiracleMenu_Detail: Effet : {Variable=0}
+MID_MiracleMenu_Attention_Using: Vous ne pouvez activer qu'une bénédiction à la fois.
+MID_MiracleMenu_Used: Active
+MID_MiracleMenu_Confirm: La bénédiction suivante sera activée : {Variable=0}.\nContinuer ?
+MID_RewindMenu_NotPlayerPhase_Confirm: Cette action n'a pas eu lieu durant votre phase.\nVoulez-vous quand même remonter jusqu'à ce moment ?
+MID_BtlMenu_Attack: Attaque
+MID_BtlMenu_Arts: Capacités
+MID_BtlMenu_Special: Capacités ardentes
+MID_BtlMenu_SpecialGauge: Gestion de l'ardeur
+MID_BtlMenu_Gambit: Tactique
+MID_BtlMenu_Rage: Attaque furieuse
+MID_BtlMenu_Morph: Changer de forme
+MID_BtlMenu_Assist: Support
+MID_BtlMenu_RideOn: Monter
+MID_BtlMenu_RideOff: Descendre
+MID_BtlMenu_Item: Objets
+MID_BtlMenu_Transport: Stockage
+MID_BtlMenu_Trade: Échange
+MID_BtlMenu_Fixed: Attendre
+MID_BtlMenu_Treasurebox: Coffre
+MID_BtlMenu_Warp: Téléport
+MID_BtlMenu_Secede: Fuir
+MID_BtlMenu_Talk: Parler
+MID_BtlMenu_Cannon: Artillerie
+MID_BtlMenu_Terrain_Default: Actionner
+MID_H_BtlMenu_Terrain_Default_SC11_14: Active l'appareil. Activez-les tous\npour faire disparaître la barrière\nmagique.
+MID_H_BtlMenu_Terrain_Default_SC12_08: Désactive l'appareil. Désactivez-les\ntous pour faire disparaître\nla barrière de l'éléphant.
+MID_H_BtlMenu_Terrain_Default_SC13_12: Active l'appareil. Activez-en\nplusieurs pour faire disparaître\nla barrière magique.
+MID_H_BtlMenu_Terrain_Default_SC14_06: Active un appareil annulant l'effet\nde l'eau bénite sur toutes les unités.
+MID_H_BtlMenu_Terrain_Default_SC14_13: Active un appareil permettant de\nrenforcer pendant 1 tour les barrières\nprotégeant d'Assaut tellurique.
+MID_H_BtlMenu_Terrain_Default_SC15_07: Active l'appareil. Activez-les tous\npour dissiper les améliorations\ndu géant.
+MID_H_BtlMenu_Terrain_Default_SC15_15: Active un appareil permettant de\ndésarmer les pièges au sol.
+MID_H_BtlMenu_Terrain_Default_SC18_14: Active un appareil infligeant des\ndégâts aux ennemis sur les pièges au\nsol à proximité. (Utilisable 2 fois.)
+MID_H_BtlMenu_Terrain_Default_SC13_13_2: Active l'appareil. Activez-les tous\npour ouvrir la herse.
+MID_H_BtlMenu_Terrain_Default_SC13_13_1: Active un appareil permettant\nd'allumer les dalles Téléport.
+MID_H_BtlMenu_Terrain_Default_SC16_18: Active un appareil permettant\nd'interrompre la production\nde flamma.
+MID_H_BtlMenu_Terrain_Default_SC18_10: Active un appareil permettant de\npermuter les améliorations de Prt\net de Rsl de l'ennemi.
+MID_H_BtlMenu_Terrain_Default_SC18_03: Active un appareil permettant\nd'améliorer Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC12_03: Actionne un appareil. Interagissez\navec trois appareils pour annuler\nles améliorations d'Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC12_15: Altère le fonctionnement d'un\nappareil. Cette action activera un\nTitanus, mais détruira ses barrières.
+MID_H_BtlMenu_Terrain_Default_SCXX_06: Active l'appareil. Activez les deux\nau cours de la même phase pour\npouvoir utiliser le trébuchet.
+MID_H_BtlMenu_Terrain_Default_SC12_12: Active un appareil permettant de placer\nun piège pour 1 tour. Si elle le déclenche,\nCetus sera incapable de bouger.
+MID_H_BtlMenu_Terrain_Default_SC13_09: Active un appareil permettant de\ndissiper le brouillard sur la carte\npendant la phase alliés.
+MID_BtlMenu_Terrain_Lightflame: Brasero
+MID_H_BtlMenu_Terrain_Lightflame: Fait briller une flamme bleue\ndans le brasero.
+MID_BtlMenu_Terrain_Bonfire: Feu de camp
+MID_H_BtlMenu_Terrain_Bonfire: Allume le feu de camp. La visibilité\ns'en trouve accrue pendant 1 tour.
+MID_BtlMenu_Terrain_Candle: Brasero
+MID_H_BtlMenu_Terrain_Candle: Allume le brasero. Sa lumière\nrepousse les ennemis à proximité.
+MID_BtlMenu_Terrain_Fallpillar: Pilier fragile
+MID_BtlMenu_Terrain_Attendpower: Nuits florales
+MID_H_BtlMenu_Terrain_Attendpower: Insuffle aux fleurs le pouvoir\nd'annuler le recul subi par les\nalliés à proximité.
+MID_BtlMenu_Skill_Invincible: Protéger le déployeur
+MID_BtlMenu_Skill_Clearsandstorm: Apaiser la tempête
+MID_BtlMenu_Skill_Throwfeed: Utiliser un appât
+MID_BtlMenu_Skill_Calmdown: Calmer
+MID_BtlMenu_Skill_Thunder: Épieu de lumière
+MID_BtlMenu_Warning_Invalid_Fallpillar: Ce pilier tombera sur une unité.
+MID_BtlMenu_Warning_Invalid_Warp: Une unité barre la route.
+MID_BtlMenu_Warning_AfterTurn: À nouveau activable dans {Variable=0} {SingularPlural0=tour|tours}.
+MID_BtlMenu_Warning_TurnEnd: Inutilisable avant le prochain tour.
+MID_RewindMenu_Help: Sélectionnez un point dans le temps auquel retourner.
+MID_RewindMsg_BattleStart: Combattre !
+MID_RewindMsg_PlayerPhase: Commencer la phase joueur
+MID_RewindMsg_EnemyPhase: Commencer la phase ennemis
+MID_RewindMsg_ThirdPhase: Commencer la phase armée tierce
+MID_RewindMsg_AllyPhase: Commencer la phase alliés
+MID_RewindMsg_Mov: {CapitalizeNextLetter}{Variable=0} a bougé.
+MID_RewindMsg_Wait: {CapitalizeNextLetter}{Variable=0} a attendu.
+MID_RewindMsg_Defeat: {CapitalizeNextLetter}{Variable=0} a vaincu : {Variable=1}.
+MID_RewindMsg_Defeat2: {CapitalizeNextLetter}{Variable=0} a entre autres vaincu : {Variable=1}.
+MID_RewindMsg_Person_Attack: {CapitalizeNextLetter}{Variable=0} a infligé {Variable=2} {SingularPlural2=point|points} de dégâts à : {Variable=1}.
+MID_RewindMsg_Destroy: {CapitalizeNextLetter}{Variable=0} a anéanti : {Variable=1}.
+MID_RewindMsg_Attack: {CapitalizeNextLetter}{Variable=0} a infligé {Variable=2} {SingularPlural2=point|points} de dégâts à : {Variable=1}.
+MID_RewindMsg_Magic: 
+MID_RewindMsg_Skill: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_HPRecovery_Magic: {CapitalizeNextLetter}{Variable=0} a rendu {Variable=2} PV à : {Variable=1}.
+MID_RewindMsg_Recovery_Magic: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_Assist_Magic: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_Assist_Arts: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_Special: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_Gambit: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_Rage: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_Used_Item: {CapitalizeNextLetter}{Variable=0} a utilisé : {Variable=1}.
+MID_RewindMsg_Secede: {CapitalizeNextLetter}{Variable=0} a pris la fuite.
+MID_RewindMsg_Get_Item: {CapitalizeNextLetter}{Variable=0} a trouvé ceci dans le coffre : {Variable=1}.
+MID_RewindMsg_Open_Treasurebox: {CapitalizeNextLetter}{Variable=0} a ouvert le coffre.
+MID_RewindMsg_Miracle: A utilisé : {Variable=0}.
+MID_RewindMsg_UnitSkill: {CapitalizeNextLetter}{Variable=0} a utilisé {Variable=1}.
+MID_RewindMsg_Fixed: {CapitalizeNextLetter}{Variable=0} a agi.
+MWID_Rain: Pluie
+MWID_H_Rain: Double les dégâts des attaques de foudre\net réduit de moitié ceux des attaques\nde feu. Artillerie inutilisable.
+MWID_Sandstorm: Tempête de sable
+MWID_H_Sandstorm: Visibilité réduite
+MWID_Fog: Brouillard
+MWID_H_Fog: Visibilité réduite
+MWID_SC18_10_DefUp: Champ de défense
+MWID_H_SC18_10_DefUp: Accroît considérablement la Déf\nde toutes les unités présentes sur\nla carte.
+MWID_SC18_10_MdefUp: Champ de résistance
+MWID_H_SC18_10_MdefUp: Accroît considérablement la Rés\nde toutes les unités présentes sur\nla carte.
+MID_Battle_AnimSimple_Confirm: De nombreux combats entre ennemis peuvent se produire sur la carte.\nDésirez-vous désactiver les animations correspondantes jusqu'à ce que\nvous ayez terminé la bataille ?
+MID_Battle_AnimReset_Message: Les animations de combat ennemies normales seront rétablies.
+MID_Battle_EnthusiasticSong: {Variable=1} a entonné {Variable=0}. Les ennemis\nprésents dans le champ d'action voient leur Atq accrue.
+MID_Battle_EnthusiasticSong_All: {Variable=1} a entonné {Variable=0}. Tous les ennemis\nvoient leur Atq accrue.
+MID_Battle_FrozenSong: {Variable=1} a entonné {Variable=0}. Les ennemis\nprésents dans le champ d'action voient leur Bcl accru.
+MID_Battle_FrozenSong_All: {Variable=1} a entonné {Variable=0}. Tous les ennemis\nvoient leur Bcl accru.
+MID_Battle_FrenzySong: {Variable=1} a entonné {Variable=0}. Les alliés\nprésents dans le champ d'action sont plongés dans la confusion.
+MID_Battle_FrenzySong_All: {Variable=1} a entonné {Variable=0}. Tous les alliés\nsont plongés dans la confusion.
+MID_Battle_PowerAwakening: Bertrand a utilisé Éveil régalien. Sa Prc augmentera\npendant la prochaine phase joueur.
+MID_Battle_SkillAwakening: Bertrand a utilisé Éveil fulgurant. Sa Prt augmentera\npendant la prochaine phase joueur.
+MID_Battle_StormAwakening: Bertrand a utilisé Éveil tumultueux. Son Esq augmentera\npendant la prochaine phase joueur.

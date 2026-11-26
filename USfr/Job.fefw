@@ -1,0 +1,203 @@
+﻿MJID_Commoner: Roturier
+MJID_H_Commoner: Membre de la plèbe provenant\nd'horizons divers et exerçant\ndiverses professions.
+MJID_Aristocrat: Noble
+MJID_H_Aristocrat: Membre d'une famille prestigieuse\nqui dirige le peuple.
+MJID_God: Divinité
+MJID_H_God: Divinité régnant sur Dagda dont les\npouvoirs dépassent l'entendement\nhumain.
+MJID_Warrior: Gladiateur
+MJID_H_Warrior: Armé d'une épée, d'une hache\nou de gantelets, il peut infliger\nde terribles dégâts.
+MJID_Soldier: Soldat
+MJID_H_Soldier: Armé d'une lance et équipé\nd'une armure et d'un bouclier\npour mieux assurer sa défense.
+MJID_Hunter: Chasseur
+MJID_H_Hunter: Aussi habile à l'arc qu'à l'épée,\nil traque l'ennemi avec adresse\net vivacité.
+MJID_CurseMage: Devin
+MJID_H_CurseMage: Utilise la magie pour soigner\nses alliés et infliger des dégâts\nà l'ennemi.
+MJID_Flyingostrichsoldier: Cavalier ornius
+MJID_H_Flyingostrichsoldier: Unité montée sur un ornius capable\nde bondir par-dessus les obstacles.
+MJID_SwordFighter: Épéiste
+MJID_H_SwordFighter: Spécialiste du maniement de l'épée\npouvant porter des coups rapides\nà l'ennemi.
+MJID_Rogue: Escroc
+MJID_H_Rogue: Habile voleur et crocheteur qui se\ndéplace agilement en forêt et qui\nest idéal pour le repérage.
+MJID_ArmorKnight: Combattant cuirassé
+MJID_H_ArmorKnight: Protégé par son armure solide,\nil fait office de bouclier pour\nses alliés.
+MJID_Brigand: Brigand
+MJID_H_Brigand: Combattant pugnace qui abat\nses ennemis d'implacables coups\nde hache.
+MJID_Archer: Archer
+MJID_H_Archer: Spécialiste du maniement de l'arc\npouvant abattre les unités volantes\net éloignées.
+MJID_Cestus: Lutteur
+MJID_H_Cestus: Guerrier muni d'un ceste capable\nde plonger l'ennemi dans la confusion\ngrâce à ses attaques furtives.
+MJID_Shaman: Shaman
+MJID_H_Shaman: Mage expert en magie noire\ncapable de transpercer les\narmures les plus solides.
+MJID_Healer: Prêtre
+MJID_H_Healer: Utilise la magie blanche pour\nsoigner ses alliés et attaquer\nl'ennemi.
+MJID_Flyingostrichknight: Cuirassier ornius
+MJID_H_Flyingostrichknight: Unité montée sur un ornius capable\nde bondir par-dessus les obstacles.
+MJID_LightKnight: Cavalerie légère
+MJID_H_LightKnight: Unité d'arme à cheval capable de\nrapidement traverser le champ\nde bataille au galop.
+MJID_PegasusKnight: Soldat ailé
+MJID_H_PegasusKnight: Sur sa monture ailée, ce cavalier\nfend les cieux et résiste bien\naux attaques magiques.
+MJID_Tank: Aurige
+MJID_H_Tank: Capable de charger l'ennemi\net de lui décocher des flèches.\nIl ne peut pas éviter les attaques.
+MJID_Sydow: Shido
+MJID_H_Sydow: En harmonie avec l'esprit de l'épée,\nil inflige des dégâts rapides et fatals\nà l'ennemi.
+MJID_Ranger: Rôdeur
+MJID_H_Ranger: Crocheteur averti, il est désigné\npour les repérages car il se déplace\nagilement en forêt.
+MJID_Guardian: Gardien
+MJID_H_Guardian: Habile lancier rompu à la magie\nblanche, il est aussi efficace en\nattaque qu'en défense.
+MJID_HeavyArmor: Hoplite
+MJID_H_HeavyArmor: Grâce à son épaisse armure,\nil fait office de muraille défensive\npour ses alliés.
+MJID_BattleWarrior: Guerrier
+MJID_H_BattleWarrior: Spécialiste du maniement de la\nhache pouvant écraser l'ennemi\npar sa force.
+MJID_Blacksmith: Ferronnier
+MJID_H_Blacksmith: Spécialiste du maniement de la hache\npouvant aussi utiliser la magie noire.\nS'adapte aisément en combat.
+MJID_Sniper: Archer d'élite
+MJID_H_Sniper: Capable d'attaquer à distance, il est\nredoutable face aux unités volantes.
+MJID_Vates: Vate
+MJID_H_Vates: Utilise la magie noire pour percer\nles armures lourdes et infliger\nd'importants dégâts.
+MJID_Bishop: Évêque
+MJID_H_Bishop: Puise dans sa foi et utilise la magie\nblanche pour soigner et soutenir\nses alliés.
+MJID_Bardinger: Cavalier bardé
+MJID_H_Bardinger: Traverse le champ de bataille sur\nsa monture à toute vitesse pour\ndécimer l'ennemi.
+MJID_Cataphract: Cataphractaire
+MJID_H_Cataphract: Unité de cavalerie lourde excellant\nen défense et à cheval.
+MJID_ForestKnight: Cavalier sylvain
+MJID_H_ForestKnight: Unité d'arme à cheval munie d'un\narc et pouvant se déplacer agilement\nen forêt.
+MJID_Torpador: Troubadour
+MJID_H_Torpador: Unité d'arme à cheval utilisant des\nincantations, de la magie noire et\nblanche, mais non-armée.
+MJID_Charadrios: Cavalier calandre
+MJID_H_Charadrios: Cavalier pratiquant la magie noire\net monté sur un ornius capable\nd'éviter les obstacles.
+MJID_Dragoon: Cavalier dragon
+MJID_H_Dragoon: Unité volante montée sur un bau,\nhabile en combat et qui possède\nune mobilité élevée.
+MJID_ElephantKnight: Cavalier cornac
+MJID_H_ElephantKnight: Incapable d'éviter les attaques,\nil charge l'ennemi avec son éléphant\net attaque à coups de trompe.
+MJID_SwordMaster: Bretteur
+MJID_H_SwordMaster: Expert du maniement des lames\npouvant porter des coups mortels\navec fureur.
+MJID_ShadowSeeker: Cherchombre
+MJID_H_ShadowSeeker: Assassin expert en crochetage et\nrepérage opérant dans l'ombre et\nqui se déplace agilement en forêt.
+MJID_Trickster: Baladin
+MJID_H_Trickster: Maître de l'épée, de la magie noire\net du crochetage. Se déplace\nagilement en forêt.
+MJID_HolyLancer: Lancier mystique
+MJID_H_HolyLancer: Maître du combat à la lance pouvant\nutiliser la magie blanche. Il excelle\nà l'offensive et en soutien.
+MJID_BattleMaster: Guerroyeur
+MJID_H_BattleMaster: Spécialiste du maniement de la\nhache. Fort, résistant et efficace\nen première ligne.
+MJID_Fortress: Chevalier forteresse
+MJID_H_Fortress: Compense ses lacunes en agilité\npar ses compétences défensives\nde haut niveau.
+MJID_MasterArch: Maître archer
+MJID_H_MasterArch: Vient à bout des ennemis éloignés\net des unités volantes avec une\nprécision hors pair.
+MJID_BattleMonk: Moine guerrier
+MJID_H_BattleMonk: Puise dans sa foi et sa maîtrise de\nla magie blanche pour déployer\nune force redoutable.
+MJID_Druid: Druide
+MJID_H_Druid: Peut terrasser ses ennemis grâce à\nsa maîtrise d'un éventail de magies\nissues de la magie noire.
+MJID_Wiseman: Polymathe
+MJID_H_Wiseman: Utilise la magie blanche pour\nsoigner et soutenir ses alliés\ndepuis l'arrière-garde.
+MJID_Enlightened: Docte
+MJID_H_Enlightened: Utilise la magie noire et blanche\npour attaquer à distance et secourir\ndavantage d'alliés.
+MJID_Orihaldia: Chevalier aurichal
+MJID_H_Orihaldia: Spécialiste du combat à cheval\nvêtu d'une armure en or des dieux.\nIl ne fait qu'un avec sa monture.
+MJID_HighEpitaph: Haut fossoyeur
+MJID_H_HighEpitaph: Habile épéiste maîtrisant la magie\nnoire et capable d'éliminer l'ennemi\nd'un seul coup.
+MJID_GreatKnight: Grand chevalier
+MJID_H_GreatKnight: Cavalier téméraire en lourde armure.
+MJID_BowKnight: Cavalier archer
+MJID_H_BowKnight: Spécialiste du maniement de l'arc.\nParticulièrement mobile, il se\ndéplace agilement en forêt.
+MJID_Sale: Seere
+MJID_H_Sale: Particulièrement mobile et capable\nd'utiliser la magie blanche pour\nsoigner ses alliés.
+MJID_Valkyrie: Valkyr
+MJID_H_Valkyrie: Maîtrise les magies noires et\nblanches ainsi que des incantations\nmais pas d'armes.
+MJID_FalconKnight: Élite ailée
+MJID_H_FalconKnight: Unité d'arme à cheval montée sur\nun cheval ailé, particulièrement\nmobile et résistante à la magie.
+MJID_DarkPegasus: Badhbh Cath
+MJID_H_DarkPegasus: Particulièrement mobile et résistant\nà la magie, il survole le champ de\nbataille et utilise la magie noire.
+MJID_DragonMaster: Lord bau
+MJID_H_DragonMaster: Inspire la peur depuis les cieux\ngrâce à ses aptitudes en combat\net sa mobilité élevée.
+MJID_Dancer: Danseur
+MJID_H_Dancer: Motive ses alliés avec élégance\net habileté.
+MJID_Braid: Lame
+MJID_H_Braid: Protège les divinités de son épée\nà laquelle rien ne résiste.
+MJID_Calamity: Calamité
+MJID_H_Calamity: Sème le chaos suivant la volonté\ndivine pour faire place à un avenir\nmeilleur.
+MJID_Trident: Trident
+MJID_H_Trident: Lancier qui transperce les impurs\net utilise la magie sacrée pour\nprotéger les autres.
+MJID_Eternal: Éternel
+MJID_H_Eternal: Enfant de la guerre aux pouvoirs\nillimités qui trace le chemin des\ndivinités avec sa hache.
+MJID_Godhand: Main Divine
+MJID_H_Godhand: Puissant compagnon pouvant\nécraser ses ennemis de son poing\net soigner ses alliés de sa paume.
+MJID_Messiah: Avatâra
+MJID_H_Messiah: Spécialiste de la magie noire et\nblanche et vecteur de la volonté\ndivine.
+MJID_Apsaras: Apsara
+MJID_H_Apsaras: Capable d'apaiser le cœur\ndes divinités grâce à ses danses\nsacrées.
+MJID_Cavalier: Paladin
+MJID_H_Cavalier: Habile protecteur qui traverse\nle champ de bataille à la vitesse\nde l'éclair.
+MJID_woodlouse: Cancrelaid
+MJID_H_woodlouse: Gros arthropode qui prolifère\ndans les grottes humides et y sème\nparfois des « billes entomiques ».
+MJID_sandbael: Diable des sables
+MJID_H_sandbael: Insecte à la carapace dure et doté\nd'épines venimeuses. Sa viande est\ndélicieuse et a un goût de crevette.
+MJID_stripewolf: Loup rayé
+MJID_H_stripewolf: Féroce et rapide, le loup rayé\nest répandu dans tout Dagda.\nIl doit son nom à son pelage.
+MJID_sandvegle: Vouivre
+MJID_H_sandvegle: Lézard qui a évolué pour voler.\nIl ressemble aux baus, d'où son\nsurnom de « faux bau ».
+MJID_seamonster: Monstre marin
+MJID_H_seamonster: Créature marine à l'apparence\nétrange et ayant un appétit pour\nla chair humaine.
+MJID_atlasbear: Ours de l'Atla
+MJID_H_atlasbear: Animal féroce peuplant la zone\nautour du mont Atla. Souvent\ncomparé aux géants des légendes.
+MJID_atlasbearS: Ours de l'Atla nain
+MJID_H_atlasbearS: Ours de petite taille, agile et féroce,\naux griffes et aux crocs venimeux.\nPréfère les grottes.
+MJID_sandworm: Ver des sables
+MJID_H_sandworm: Invertébré géant qui se dissimule\ndans le sable et attaque tout ce\nqui l'approche.
+MJID_colossus: Géant
+MJID_H_colossus: Énorme créature humanoïde assez\nintelligente pour utiliser des outils\nmais guère plus.
+MJID_titanusS: Titanus mineur
+MJID_H_titanusS: Automate créé d'après une technologie\nancestrale idéal pour les missions de\nrepérage, de protection et de combat.
+MJID_titanusB: Titanus majeur
+MJID_H_titanusB: Avec ses ressources en énergie et son\narmure indestructible, cet immense\nautomate est un atout de taille.
+MJID_golem: Golem
+MJID_H_golem: Gardien d'un temple forgé par\nun pouvoir divin. Il peut ériger\nde solides barrières défensives.
+MJID_Ketos: Cetus
+MJID_H_Ketos: Surnommée « Terreur des Mers »,\ncette énorme créature est très rapide\net bondit pour écraser ses ennemis.
+MJID_digamma: Digamma
+MJID_H_digamma: Serpent monstrueux qui hisse\nsa tête hors de terre pour attaquer\nses proies en groupe.
+MJID_queenhydra: Pentahydre
+MJID_H_queenhydra: Énorme monstre aux multiples\ntêtes appelées digammas.\nLa pentahydre en est le corps.
+MJID_giantrukh: Rokh
+MJID_H_giantrukh: Oiseau sauvage de grande taille\nqui chasse aussi bien les insectes\nque les humains.
+MJID_magicharpia: Harpie
+MJID_H_magicharpia: Grand oiseau craint de par son\napparence et son cri. Considéré\ncomme un émissaire des Limbes.
+MJID_shadowofbalor: Ombre
+MJID_H_shadowofbalor: Entité mystérieuse qui émet\ndes vibrations sinistres.
+MJID_pillar: Pilier des Limbes
+MJID_H_pillar: Pierre angulaire des Limbes\nincarnée par Balor dans son\npropre corps.
+MJID_armoredsoldier: Armure vivante
+MJID_H_armoredsoldier: Automate soldat conçu par Credna,\nla Braise de la Forge.
+MJID_skeleton: Squelette
+MJID_H_skeleton: Monstre constitué des os animés\nd'un humain décédé.
+MJID_mummy: Momie
+MJID_H_mummy: Cadavre ressuscité de personnes\nimpures.
+MJID_dragonzombie: Nécrodragon
+MJID_H_dragonzombie: Charogne d'une bête démoniaque\nsortie de son repos. Elle est aussi\nputride que venimeuse.
+MJID_EvilBeast: Bête démoniaque
+MJID_H_EvilBeast: Bête monstrueuse crainte pour\nsa taille gigantesque et sa force\ndémesurée.
+MJID_NabataeanDragon_Dagda: L'Éclipse
+MJID_H_NabataeanDragon_Dagda: Forme draconique de Dagda.\nColossal dragon noir volant doté\nd'une force extraordinaire.
+MJID_H_NabataeanDragon_Dagda_Orh: 
+MJID_NabataeanDragon_Balor: Les Ténèbres Incarnées
+MJID_H_NabataeanDragon_Balor: Forme draconique de Balor.\nDragon démoniaque qui domine\nles Limbes.
+MJID_NabataeanDragon_Mars: Le Probe
+MJID_H_NabataeanDragon_Mars: Forme draconique de Mars.\nDragon épique aussi impitoyable\nque les flammes.
+MJID_NabataeanDragon_Lyra: La Mandeuse
+MJID_H_NabataeanDragon_Lyra: Forme draconique de Lyrah.\nDragon sinistre à l'apparence\ninsolite.
+MJID_H_NabataeanDragon_Lyra_Orh: 
+MJID_NabataeanDragon_LyraCradle: Capsule de chair
+MJID_H_NabataeanDragon_LyraCradle: Gigantesque masse informe\nressemblant à un cocon.
+MJID_NabataeanDragon_Isheth: 
+MJID_H_NabataeanDragon_Isheth: 
+MJID_H_NabataeanDragon_Isheth_Orh: 
+MJID_NabataeanDragon_Seteth: 
+MJID_H_NabataeanDragon_Seteth: 
+MJID_NabataeanDragon_Nomvethe: 
+MJID_H_NabataeanDragon_Nomvethe: 
+MJID_Kusarikku: Kusarik
+MJID_H_Kusarikku: Bovin doté de cornes doubles.\nPeut servir de bétail malgré\nun tempérament regimbeur.
+MJID_Pig: Sanglier des sables
+MJID_H_Pig: Animal porcin et omnivore doté\nde défenses évoluant dans les\nmilieux les plus hostiles de Dagda.
+MJID_Yak: Yarc
+MJID_H_Yak: Herbivore dont la chair, bien que\nferme, est appréciée. Son lait sert\nà produire boissons et fromages.

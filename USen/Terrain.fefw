@@ -1,0 +1,200 @@
+﻿MTID_Wall: Wall
+MTID_MagicBarrier: Magical Barrier
+MTID_ControlDevice: Lever
+MTID_ControlDevice_SC12_03: Ability Enhancer
+MTID_ControlDevice_SC18_03: 
+MTID_ControlDevice_SC18_10: 
+MTID_ControlDevice_SC16_18: 
+MTID_MPSupplyDevice: Magic Flow Switch
+MTID_Launcher: Launch Mechanism
+MTID_Lantern: Brazier
+MTID_CollapsiblePillar: Brittle Pillar
+MTID_MoonlitFlower: 
+MTID_LightZOC: 
+MTID_ZOC1_SCXX_00: Ashes
+MTID_TBox: Chest
+MTID_EmptyTBox: Empty Chest
+MTID_Door: Portcullis
+MTID_Bonfire: Torch
+MTID_Floor: Floor
+MTID_Deck: Deck
+MTID_Bridge: Bridge
+MTID_EvasionTile: Avo Spot
+MTID_RecoveryTile: Heal Spot
+MTID_RecoveryTileStop: Heal Spot (Inert)
+MTID_FastRecoveryTile: 
+MTID_DefenseTile: Prt Spot
+MTID_DefenseTileStop: Prt Spot (Inert)
+MTID_MagicDefenseTile: Rsl Spot
+MTID_MagicDefenseTileStop: Rsl Spot (Inert)
+MTID_GuardianTile: Guard Spot
+MTID_GuardianTileStop: Guard Spot (Inert)
+MTID_TeleportTile: Warp Spot
+MTID_TeleportTileS1: Warp Spot Exit
+MTID_TeleportTileStop: Warp Spot (Inert)
+MTID_SummoningTile: Summoning Spot
+MTID_OilField: Bitumen
+MTID_Ballista: Ballista
+MTID_MagicCannon: Fire Orb
+MTID_Catapult: Onager
+MTID_Stairs: Stairs
+MTID_Building: Edifice
+MTID_Rock: Rock
+MTID_Debris: Rubble
+MTID_Mountain: Mountain
+MTID_Cliff: Cliff
+MTID_LowWall: Low Wall
+MTID_CityWall: Rampart
+MTID_Hull: Ship
+MTID_DarkMass: Dead Flesh
+MTID_River: River
+MTID_Waterfall: Waterfall
+MTID_Pond: Pond
+MTID_Sea: Sea
+MTID_Bushes: Thicket
+MTID_Forest: Woods
+MTID_Woods: Forest
+MTID_DenseForest: Dense Forest
+MTID_Grove: Brush
+MTID_DenseGrove: Dense Brush
+MTID_TrapTile: Floor Trap
+MTID_Desert: Desert
+MTID_Sand: Sand
+MTID_Quicksand: 
+MTID_ToxicSwamp: Swamp
+MTID_ShallowWater: Shoal
+MTID_RoughTerrain: Wasteland
+MTID_Destructible: Gas Bag
+MTID_SharedCarriage: Carriage
+MTID_Asphalt: Bituminous Rock
+MTID_BarrierDevice: 
+MTID_DefendableObject: 
+MTID_ProofOfDestruction: Victory Token
+MTID_Boulder: 
+MTID_DarkFlame: Underworld Flame
+MTID_Fire: Flame
+MTID_Puddle: Puddle
+MTID_Miasma: Miasma
+MTID_StomachAcid: Acid
+MTID_FrozenFloor: Frozen
+MTID_HadesGate: Underworld Gate
+MTID_HadesGround: Pulsating Flesh
+MTID_Barrier: Enclosure
+MTID_ThrownThunder: 
+MTID_WanderingWall: Wandering Wall
+MTID_Fence: Barricade
+MTID_GhostCarriage: Ghost Carriage
+MTID_BaptismalAltarSwitch: Soul Plate
+MTID_BellTower: Bell Tower
+MTID_Explosive: Explosive
+MTID_ControlDevice_SC12_12: Magic Trap Trigger
+MTID_FunControlDevice: Fan Mechanism
+MTID_FunControl: Anti-Fog Fan
+MTID_Bonfire_SC13_11: Torch
+MTID_Lantern_SC13_13: Censer
+MTID_Lantern_SCXX_00: Censer
+MTID_Bonfire_SC15_06: 
+MTID_Bonfire_SC16_13: 
+MTID_Bonfire_SCXX_04: Score Beacon
+MTID_Orichalcum: Orichalcum Pile
+MTID_AerialTerrain_Ban: Barrier
+MTID_Ground_Ban: Barrier (Inert)
+MTID_ObstacleLow: Low Obstacle
+MTID_Pier: Wharf
+MTID_Ground: Ground
+MTID_Sky: Air
+MTID_Object: Obstacle
+MTID_CastleFloor: Tile
+MTID_Mast: Mast
+MTID_NoEntry: Off-Limits
+MTID_DarknessGround: Underworld Throne
+MTID_Abyss: Pit
+MTID_Miasma_1: Sloth Miasma
+MTID_Miasma_2: Greed Miasma
+MTID_Miasma_3: Deception Miasma
+MTID_Miasma_4: Envy Miasma
+MTID_Miasma_5: Wrath Miasma
+MTID_Miasma_6: Pride Miasma
+MTID_Miasma_7: Lust Miasma
+MTID_Miasma_8: Gluttony Miasma
+MTID_Miasma_9: Fear Miasma
+MTID_Miasma_Final: Sundown Miasma
+MTID_FlammaRiver: 
+MTID_Structure1_SC11_05: Stalwart Knight
+MTID_Structure2_SC11_05: Rearing Warhorse
+MTID_Structure_SC11_06: Dagda's Authority
+MTID_Structure1_SC14_06: Mysterious Edifice
+MTID_Structure2_SC14_06: Giant Idol
+MTID_Structure3_SC14_06: Bringer of War Idol
+MTID_Structure4_SC14_06: Divine Emperor Idol
+MTID_Structure5_SC14_06: Sunbearer Idol
+MTID_Structure_SC11_11: Big Tree
+MTID_Structure_SCXX_02: Purification Shrine
+MTID_Barrel_SC15_03: 
+MTID_BrittleRock_SC18_02: 
+MTID_TrapTile_SC18_14: 
+MTID_ProofOfDestruction_Blue: 
+MTID_ProofOfDestruction_Red: 
+MTID_DeepHole_SC16_11: 
+MTID_H_ControlDevice_SC12_12: Activate to set a magical trap.
+MTID_H_Unknown: ???
+MTID_H_BaptismalAltarSwitch: Dissolves the altar's barrier.
+MTID_H_Asphalt: Fire causes bitumen to ignite.
+MTID_H_BellTower: Breaking it makes a loud noise.
+MTID_H_Bonfire_SC13_11: Its flame is the winning army's color.
+MTID_H_Bonfire_SC14_03: Can be set alight.
+MTID_H_Bonfire_SC16_13: Emits light around it when lit.
+MTID_H_Bonfire_SCXX_04: A fire lights for each giant slain.
+MTID_H_ControlDevice_SC12_03: Strengthens certain warriors.
+MTID_H_ControlDevice_SC13_13_1: Controls the warp spots.
+MTID_H_ControlDevice_SC13_13_2: Controls the portcullis.
+MTID_H_MagicBarrier: Blocks movement and attacks.
+MTID_H_Bonfire_SC15_06: Light it to see farther.
+MTID_H_ControlDevice_SC16_18: Controls the flow of flamma.
+MTID_H_ControlDevice_SC18_03: Strengthens Anatolia.
+MTID_H_ControlDevice_SC18_10: Switches enemy defense stats.
+MTID_H_Explosive: Destroy to damage nearby foes.
+MTID_H_FlammaRiver: Its miasma strengthens enemies.
+MTID_H_FunControlDevice_SC13_09: Mechanism to activate a fan.
+MTID_H_FunDevice_SC13_09: Can temporarily disperse fog.
+MTID_H_HadesGate: Source of Balor's barrier.
+MTID_H_HadesGate_Broken: Source of Balor's barrier.
+MTID_H_Lantern_SC13_13: Break to lower Hit in the area.
+MTID_H_Lantern_SC15_05: Generates a magic barrier.
+MTID_H_Lantern_SCXX_00: Break to damage foes, lower Mov.
+MTID_H_Miasma_Final: Reduces HP each turn.
+MTID_H_MoonlitFlower: Flowers that bloom during full moons.
+MTID_H_PilesOfOrichalcum: Destroy them to damage the giant.
+MTID_H_ProofOfDestruction_Blue: The side with the most wins.
+MTID_H_ProofOfDestruction_Red: The side with the most loses.
+MTID_H_Quicksand: Units stopping here are carried away.
+MTID_H_TrapTile_SC18_14: Damages foes when activated.
+MTID_H_Structure1_SC11_05: Depicts the regular army.
+MTID_H_Structure2_SC11_05: Depicts the rebel forces.
+MTID_H_Structure_SC11_06: Depicts Divine Emperor Dagda.
+MTID_H_Structure1_SC14_06: Recreated from oral history.
+MTID_H_Structure2_SC14_06: Depicts a powerful giant.
+MTID_H_Structure3_SC14_06: Depicts the mighty Bringer of War.
+MTID_H_Structure4_SC14_06: Depicts the majestic emperor.
+MTID_H_Structure5_SC14_06: Depicts the heroic Sunbearer.
+MTID_H_Structure_SC11_11: A giant, mysterious tree.
+MTID_H_Structure_SCXX_02: Altar associated with Yu Phas.
+MTID_H_ControlDevice: Controls a magical barrier.
+MTID_H_TBox: A key is needed to open it.
+MTID_H_MPSupplyDevice: Magically powers a Titanus.
+MTID_H_Launcher: Controls an onager.
+MTID_H_FastRecoveryTile: Can only be used once.
+MTID_H_ControlDevice_SC12_08: Controls a barrier around elephants.
+MTID_H_ControlDevice_SC13_12: Controls a magical barrier.
+MTID_H_ControlDevice_SC14_06: Controls the dryness of the air.
+MTID_H_ControlDevice_SC14_13: Controls and strengthens a barrier.
+MTID_H_MagicBarrier_SC14_13: Blocks warping and Earthen Hurl.
+MTID_H_ControlDevice_SC15_07: Strengthens the giants here.
+MTID_H_ControlDevice_SC15_15: Controls the floor trap spots.
+MTID_H_ControlDevice_SC18_14: Controls the floor trap spots.
+MTID_H_Ban: Cannot Wait
+MTID_H_TrapTile: Deals damage at start of phase.
+MTID_H_Destructible: Destroys adjacent gas bags with it.
+MTID_H_MagicBarrier_Attackable: Blocks warping through barriers.
+MTID_H_NoTeleport: Warping not possible.
+MTID_H_ToxicSwamp: Inflicts Poison at start of phase.

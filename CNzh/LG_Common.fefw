@@ -1,0 +1,128 @@
+﻿MID_LGV_XXX_Ism_Closed_m01: <TH>
+MID_LGV_XXX_Ism_Closed_m01_001: （好像没必要去那里。）
+MID_LGV_XXX_Kai_Closed_m01: <TH>
+MID_LGV_XXX_Kai_Closed_m01_001: 好像没必要去那里吧。
+MID_LGV_XXX_Dit_Closed_m01: <TH>
+MID_LGV_XXX_Dit_Closed_m01_001: ……不是那边。\n要做的事……就在这里。
+MID_LGV_XXX_Seo_Closed_m01: <TH>
+MID_LGV_XXX_Seo_Closed_m01_001: 好像没必要去那里啊。
+MID_LGV_XXX_Led_Closed_m01: <TH>
+MID_LGV_XXX_Led_Closed_m01_001: 我现在要去的地方……\n应该不是那里。
+MID_LGV_XXX_Bel_Closed_m01: 
+MID_LGV_XXX_Bel_Closed_m01_001: 
+MID_LGV_XXX_Tal_Closed_m01: 
+MID_LGV_XXX_Tal_Closed_m01_001: 
+MID_LGV_XXX_Orh_Closed_m01: 
+MID_LGV_XXX_Orh_Closed_m01_001: 
+MID_LGV_XXX_Anh_Closed_m01: 
+MID_LGV_XXX_Anh_Closed_m01_001: 
+MID_LGV_XXX_Gatekeeper_Closed_m01: <TH>
+MID_LGV_XXX_Gatekeeper_Closed_m01_001: 前方禁止通行。
+MID_LGA_XXX_Gatekeeper_Closed_m01: <BLN>前方禁止通行。
+MID_LGV_XXX_EXDungeon_Closed_m01: <TH>
+MID_LGV_XXX_EXDungeon_Closed_m01_001: <DLG>门没有反应，\n依旧没有动静……
+MID_LGV_1XXX_TGXX_106_m01: <TH>
+MID_LGV_1XXX_TGXX_106_m01_001: 啊！那边的人！\n目前这里禁止通行！
+MID_LGV_1XXX_TGXX_106_m01_002: 酒馆里有客人起争执大闹了一场，\n现在正在收拾残局……不好意思！
+MID_LGV_XXX_Gatekeeper_m02: <TH>
+MID_LGV_XXX_Gatekeeper_m02_001: 你是谁啊？\n想活命的话就不要靠近这里。
+MID_LGA_XXX_Gatekeeper_m02: <BLN>不要靠近这里。
+MID_LGV_XXX_Gatekeeper_m03: <TH>
+MID_LGV_XXX_Gatekeeper_m03_001: ……你这家伙从刚才起就一直这样，是要干嘛？\n不是说了别靠近了吗！
+MID_LGV_XXX_Gatekeeper_m03_002: 没听到我的警告吗？\n快给我消失！
+MID_LGV_XXX_Hur_Arena_m02: <TH>
+MID_LGV_XXX_Hur_Arena_m02_001: 今天是对决的日子。\n请加油。
+MID_LGA_XXX_Hur_Arena_m02: <BLN>今天是对决的日子。
+MID_LGV_XXX_Arena_m01: <TH>
+MID_LGV_XXX_Arena_m01_001: 对决将在{SetColor=Gold}{DateTime=Month}{DateTime=Day}{SetColor=Default}举行。\n请当天再过来。
+MID_LGA_XXX_Arena_m01: <BLN>下次对决……
+MID_LGV_XXX_Arena_m02: <TH>
+MID_LGV_XXX_Arena_m02_001: 今天是举行对决的日子。\n做好准备了吗？
+MID_LGA_XXX_Arena_m02: <BLN>今天是举行对决的日子。
+MID_LGV_XXX_Arena_Final_m01: <TH>
+MID_LGV_XXX_Arena_Final_m01_001: 决赛将在{SetColor=Gold}{DateTime=Month}{DateTime=Day}{SetColor=Default}举办。\n请当天到这里来。
+MID_LGA_XXX_Arena_Final_m01: <BLN>决赛……
+MID_LGV_XXX_Arena_Final_m02: <TH>
+MID_LGV_XXX_Arena_Final_m02_001: 今天是举行决赛的日子。\n终于到这一天了……做好准备了吗？
+MID_LGA_XXX_Arena_Final_m02: <BLN>今天是举行决赛的日子。
+MID_LGV_XXX_Arena_Watching_m01: <TH>
+MID_LGV_XXX_Arena_Watching_m01_001: ……对决已经结束了，\n下次再来看吧。
+MID_LGV_XXX_Elevator_m01: <TH>
+MID_LGV_XXX_Elevator_m01_001: 要使用水上升降机吗？
+MID_LGV_XXX_Elevator_m01_002: <ICA>是
+MID_LGV_XXX_Elevator_m01_003: <ICB>否
+MID_LGA_XXX_Elevator_U_m01: <BLN>可以前往港口附近。
+MID_LGA_XXX_Elevator_D_m01: <BLN>可以前往大斗技场附近。
+MID_LGV_XXX_Elevator_Closed_m01: <TH>
+MID_LGV_XXX_Elevator_Closed_m001_001: 升降机正在检修，无法使用。
+MID_LGA_XXX_Elevator_Closed_m01: <BLN>正在检修。
+MID_LGV_XXX_Departure_m01: 
+MID_LGV_XXX_Departure_m01_001: 
+MID_LGV_XXX_Departure_m01_002: 
+MID_LGV_XXX_Departure_m01_003: 
+MID_LGV_XXX_Gatekeeper_m01: <TH>
+MID_LGA_XXX_Gatekeeper_m01: 现在不能通过！
+MID_LGV_XXX_BirdFollow_m01: <TH>
+MID_LGV_XXX_BirdFollow_m01_001: 看来汝有按照吾说的那样，\n化作小鸟去守望着他们啊。
+MID_LGV_XXX_BirdFollow_m01_002: 嗯？这是……？\n汝和他们之间似乎萌生了心灵的牵绊！
+MID_LGV_XXX_BirdFollow_m01_003: 他们应该完全不知道那只鸟就是汝才对……\n真是不可思议。
+MID_LGV_XXX_BirdFollow_m01_004: 或许是坎坷的因缘将汝等连结在了一起吧。\n记得好好珍惜这份奇迹。
+MID_LGA_XXX_BirdFollow_m01: <BLN>嗯？这是……？
+MID_LGV_XXX_JuFasTemple_Closed_m01: 
+MID_LGV_XXX_JuFasTemple_Closed_m01_001: 
+MID_LGV_1KAI_A60Lock_m01: <TH>
+MID_LGV_1KAI_A60Lock_m01_001: 这里锁住了，好像打不开。\n但看起来能从另一边打开……
+MID_LGV_1KAI_A60Lock_m01_002: 有没有办法绕到另一边去呢……？
+MID_LGV_1KAI_A60Open_m01: <TH>
+MID_LGV_1KAI_A60Open_m01_001: 好，打开了！\n这样就随时都能通过了。
+MID_LGV_1KAI_A100Warp_m01: <TH>
+MID_LGV_1KAI_A100Warp_m01_001: 要去欧若拉大人那里吗？
+MID_LGV_1KAI_A100Warp_m01_002: <ICA>是
+MID_LGV_1KAI_A100Warp_m01_003: <ICB>否
+MID_LGV_1BEL_Gab_Jailer_m01: 
+MID_LGV_1BEL_Gab_Jailer_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_002: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_003: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_004: 
+MID_LGV_1ANH_EXAcquisition_m01: 
+MID_LGV_1ANH_EXAcquisition_m01_001: 
+MID_LGV_3ISM_Obelisk_m01: <TH>
+MID_LGV_3ISM_Obelisk_m01_001: 怎么了？\n要回到方尖塔大厅吗？
+MID_LGV_3ISM_Obelisk_m01_002: <ICA>是
+MID_LGV_3ISM_Obelisk_m01_003: <ICB>否
+MID_LGV_3ISM_Obelisk_m01_004: <ACA>好，吾知道了。\n跟上吾吧。
+MID_LGV_3ISM_Obelisk_m01_005: <ACB>吾知道了。\n汝想回去的话，随时再来找吾。
+MID_LGV_3ISM_CrownKey_FirstGet_m01: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m01_001: 这个钥匙是什么？明明如此陈旧，\n却让吾非常在意……
+MID_LGV_3ISM_CrownKey_FirstGet_m01_002: 吾会调查一下这个东西。\n汝记得保管好，千万别弄丢了。
+MID_LGV_3ISM_CrownKey_FirstGet_m02: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m02_001: 汝刚刚得到的，\n不正是“天冠神殿”内部房间的钥匙吗？
+MID_LGV_3ISM_CrownKey_FirstGet_m02_002: 用它打开门的话，\n应该就会得到某种力量！
+MID_LGV_3ISM_PromptObelisk_m01: <TH>
+MID_LGV_3ISM_PromptObelisk_m01_001: 如果觉得战力不够，\n就回到方尖塔大厅吧。
+MID_LGV_3ISM_PromptObelisk_m01_002: 只要追溯因果，和新的真焰将缔结牵绊，\n对方应该就能成为汝的力量。
+MID_LGA_3ISM_PromptObelisk_m01: <BLN>战力还充足吗？
+MID_LGV_3ISM_RouteComplete_m01: <TH>
+MID_LGV_3ISM_RouteComplete_m01_001: 汝通过追溯因果，让众多战士\n于此时此刻聚集到了这片土地上。
+MID_LGV_3ISM_RouteComplete_m01_002: 这次的对手非同寻常，千万不能大意……\n吾也得感谢汝才行。
+MID_LGA_3ISM_RouteComplete_m01: <BLN>聚集了众多战士。
+LGV_XXX_Notice_Unlock_Guide: <TH>
+LGV_XXX_Notice_Unlock_Guide_001: <DLG>冒险手册中新增了“冒险指南”\n自由行动中不知该做何事时请于此确认
+LGV_XXX_Notice_Unlock_Honor: <TH>
+LGV_XXX_Notice_Unlock_Honor_001: <DLG>冒险手册中新增了“名声的恩惠”\n可以确认名声提高后能做的事
+LGV_XXX_Notice_Unlock_Quest: <TH>
+LGV_XXX_Notice_Unlock_Quest_001: <DLG>冒险手册中新增了“任务列表”\n可以确认已接下的任务
+LGV_XXX_Notice_Unlock_Calendar: <TH>
+LGV_XXX_Notice_Unlock_Calendar_001: <DLG>冒险手册中新增了“日历”\n有助于在自由行动期间合理利用时间
+LGV_XXX_Notice_Unlock_BattleHint: <TH>
+LGV_XXX_Notice_Unlock_BattleHint_001: <DLG>冒险手册中新增了“先见的建言”\n可以得到下一个主线任务的战斗情报

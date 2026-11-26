@@ -1,0 +1,207 @@
+﻿MID_Gmap_SpotKind_Hub: 거점
+MID_Gmap_SpotKind_SimpleHub: 준거점
+MID_Gmap_SpotKind_Temple: 신전
+MID_Gmap_SpotKind_Station: 역
+MID_Gmap_SpotKind_Gate: 관문
+MID_Gmap_SpotKind_Explore: 탐색
+MID_Gmap_SpotKind_Banquet: 연회
+MID_Gmap_SpotKind_Dungeon: 던전
+MID_Gmap_SpotKind_Construction: 공터
+MID_Gmap_SpotKind_Farm: 밭
+MID_Gmap_SpotKind_Animal: 동물
+MID_Gmap_SpotKind_Fort: 요새
+MID_Gmap_SpotKind_HellGate: 명계의 문
+MID_Gmap_SpotInfo_Recruit: 병사 모집 정보
+MID_Gmap_SpotInfo_Recruit_OtherLegions: 그 외 {Variable=0}부대
+MID_Gmap_SpotInfo_Station: 행선지
+MID_Gmap_SpotInfo_Explore: 출현율
+MID_Gmap_SpotInfo_Animal: 출현 정보
+MID_Gmap_SpotInfo_Reconstruction: 재건용 소재
+MID_Gmap_SpotInfo_Dungeon: 추천 LV
+MID_Gmap_SpotInfo_Dungeon_Ore: 광석 정보
+MID_Gmap_SpotInfo_Dungeon_Enemy_Destroy: 적 전멸
+MID_Gmap_SpotInfo_Dungeon_Traverse_CanTraverse: 미발견 출구 있음
+MID_Gmap_SpotInfo_TempleWarp_Unopened: 신로의 문 사용 불가
+MID_Gmap_SpotInfo_TempleWarp_Opened: 신로의 문 사용 가능
+MID_Gmap_SpotInfo_TempleWarp_Null: 신로의 문 없음
+MID_Gmap_SpotInfo_ExWarp_Opened: 전이 장치 사용 가능
+MID_Gmap_SpotInfo_HellGate_NotPredicated: 실체화의 징조 없음
+MID_Gmap_SpotInfo_HellGate_Predicted: 실체화까지 앞으로 {Variable=0}턴
+MID_Gmap_SpotInfo_HellGate_Barriered: 결계로 인해 공략 불가
+MID_Gmap_SpotInfo_HellGate_Activated: 공략 가능
+MID_Gmap_SpotInfo_HellGate_Cleared: 파괴 가능
+MID_Gmap_UnusableSpot: 이용 불가
+MID_Gmap_UnusableSpot_Temporarily: 현재 이용 불가
+MID_Gmap_UnusableSpot_Broken: 파손
+MID_Gmap_UnusableSpot_Miasma: 독기 발생
+MID_Gmap_DagsionHp: 다그시온의 내구도
+MID_Gmap_KeyHelp_OpenShopGuide: 상품
+MID_Gmap_TurnStart: Turn Start
+MID_Gmap_NextTurn: Next Turn
+MID_Gmap_Encount_Enemy: Battle
+MID_Gmap_StartDefense: Danger
+MID_Gmap_MainQuest_Confirm: 메인 퀘스트로 넘어가겠습니까?
+MID_Gmap_SpotSelect_Enter_Confirm: {Variable=0}에 입장하겠습니까?
+MID_Gmap_SpotSelect_Dungeon_Confirm: {Variable=0}에 입장해\n탐색을 시작하겠습니까?
+MID_Gmap_SpotSelect_HellGate_Confirm: 명계의 문에 도전하겠습니까?
+MID_Gmap_SpotSelect_HellGateDestroy_Confirm: 문을 파괴하면 이야기가 진행됩니다\n괜찮겠습니까?
+MID_Gmap_CallAnimal_Confirm: 다음 미끼로 동물을 유인하겠습니까?
+MID_Gmap_MakeFarm_Confirm: 다음 식물을 재배할 밭을 만들겠습니까?
+MID_Gmap_ReMakeFarm_Confirm: 다음 식물을 재배할 밭으로 다시 만들겠습니까?
+MID_Gmap_BoostFarm_Confirm: 다음 아이템을 비료로 사용하겠습니까?
+MID_Gmap_BladeResonance_Confirm: 칼날 울림을 사용하겠습니까?
+MID_Gmap_Recruit_Confirm: 모집을 진행하겠습니까?
+MID_Gmap_BoostRecruit_Confirm: 격려 연설을 진행하겠습니까?
+MID_Gmap_Show_Confirm: 공연을 진행하겠습니까?
+MID_Gmap_CorpsDelete_Confirm: 부대를 해산하겠습니까?
+MID_Gmap_CorpsDelete_Message: 부대를 해산했습니다
+MID_Gmap_Reconstruction_Confirm: 다음 아이템을 사용해 재건을 시작하겠습니까?
+MID_Gmap_CoopsSelect_Message: 행동할 부대를 선택해 주십시오
+MID_Gmap_CoopsSelect_Coops: 편성 가능한 부대 수
+MID_Gmap_CoopsSelect_Hub: 거점 산책
+MID_Gmap_CoopsSelect_Hub_Enable: 가능
+MID_Gmap_CoopsSelect_Hub_Disable: 완료
+MID_Gmap_Expired_Message: 기한이 되었습니다\n자유행동을 종료하고 메인 퀘스트로 넘어갑니다\n(HP, 마법 횟수, 천각의 백사가 회복됩니다)
+MID_Gmap_SideStory_End_Message: {Variable=0}의 기간이 종료되었습니다
+MID_Gmap_CorpsIncreased_Message: 편성할 수 있는 부대 수가 늘어났습니다
+MID_Gmap_ShowHellGate_Message: 독기가 소멸해서\n명계의 문에 도전할 수 있게 되었습니다
+MID_Gmap_TurnEnd_Confirm: 새로운 부대를 편성할 수 있습니다\n턴을 종료하겠습니까?
+MID_Gmap_TurnEnd_Yes: 예(다시 묻지 않음)
+MID_Gmap_MakeFarm_Message: 밭을 만들었다
+MID_Gmap_BoostFarm_Message: 비료를 뿌렸다
+MID_Gmap_CallAnimal_Message: 미끼를 설치했다
+MID_Gmap_LegionDispatch_Message: 파병했다
+MID_Gmap_Reconstruction_Message: 재건을 시작했다
+MID_Gmap_OpenRoute_Message: 지도를 입수해서 새로운 길을 발견했다
+MID_Gmap_TalkOpenExplore_Message: {Variable=0}의 위치와\n해당 스폿에서 획득할 수 있는 소재에 대한 정보를 입수했다
+MID_Gmap_TalkOpenAnimal_Message: {Variable=0}의 위치와\n해당 스폿에 출현하는 동물에 대한 정보를 입수했다
+MID_Gmap_ShowOpenSpot_Message: 주민의 정보로 새로운 스폿\n「{Variable=0}{ConsonantVowel=」을|」를} 발견했다
+MID_Gmap_BladeResonance_NoEnemy_Message: 적의 기척은 없었다
+MID_GmapMenu_MainQuest: 메인 퀘스트
+MID_GmapMenu_MainQuest_Help: 메인 퀘스트로 넘어간다\n(자유행동이 종료됩니다)
+MID_GmapMenu_SideStory: 외전
+MID_GmapMenu_SideStory_Help: 외전을 시작한다\n(자유행동은 종료되지 않습니다)
+MID_GmapMenu_Enter: 입장
+MID_GmapMenu_Enter_Help: 스폿에 들어가서 내부를 둘러본다
+MID_GmapMenu_Dungeon: 던전 탐색
+MID_GmapMenu_Dungeon_Help: 던전에 들어가서 내부를 탐색한다
+MID_GmapMenu_GodlyPortal: 신로의 문
+MID_GmapMenu_GodlyPortal_Help: 이용 가능한 신로의 문이 있는\n신전으로 단번에 이동한다
+MID_GmapMenu_ExPortal: 전이 장치
+MID_GmapMenu_ExPortal_Help: 이용 가능한 전이 장치가 있는\n장소로 단번에 이동한다
+MID_GmapMenu_Explore: 탐색
+MID_GmapMenu_Explore_Help: 탐색을 통해 소재를 발견한다\n(스폿을 발견하는 경우도 있음)
+MID_GmapMenu_Banquet: 연회
+MID_GmapMenu_Banquet_Help: 식재료를 사용해 연회를 열어\nHP와 마법 횟수를 회복한다\n동료 전원의 지원도가 상승한다
+MID_GmapMenu_Carriage: 승합 마차
+MID_GmapMenu_Carriage_Help: 이용 가능한 역까지 마차를 타고\n단시간에 이동한다
+MID_GmapMenu_Talk: 대화
+MID_GmapMenu_Talk_Help: 이곳에 있는 인물과 대화한다
+MID_GmapMenu_Facility: 시설
+MID_GmapMenu_Facility_Help: 이곳의 시설을 이용한다
+MID_GmapMenu_Fix: 대기
+MID_GmapMenu_Fix_Help: 행동을 종료하고 대기한다
+MID_GmapMenu_ContinueMove: 연속 이동
+MID_GmapMenu_ContinueMove_Help: 연속해서 이동한다
+MID_GmapMenu_CallAnimal: 유인
+MID_GmapMenu_CallAnimal_Help: 미끼를 설치하여 동물을 유인한다
+MID_GmapMenu_CaptureAnimal: 포획
+MID_GmapMenu_CaptureAnimal_Help: 유인된 동물의 포획을 시도한다
+MID_GmapMenu_MakeFarm: 재배
+MID_GmapMenu_MakeFarm_Help: 밭을 만들고 식물을 재배하여\n아이템의 개수를 늘릴 수 있다
+MID_GmapMenu_ReMakeFarm: 새로 재배
+MID_GmapMenu_ReMakeFarm_Help: 밭을 다시 만들어\n새로운 식물을 재배한다
+MID_GmapMenu_BoostFarm: 비료
+MID_GmapMenu_BoostFarm_Help: 밭에 비료를 뿌려 희귀한 식물이\n수확될 확률을 높인다
+MID_GmapMenu_Recruit: 병사 모집
+MID_GmapMenu_Recruit_Help: 병사를 모집하여\n군단병을 새로 조직한다
+MID_GmapMenu_Recruit_ForceBoost: 병사 대모집
+MID_GmapMenu_Recruit_ForceBoost_Help: 군단병을 모집한다\n등급이 높은 병사를\n평소보다 더 쉽게 모집할 수 있다
+MID_GmapMenu_BoostRecruit: 격려 연설
+MID_GmapMenu_BoostRecruit_Help: 연설을 해 병사 모집 효과를 높인다\n등급이 높은 병사를\n더 쉽게 모집할 수 있다
+MID_GmapMenu_LegionDispatch: 파병
+MID_GmapMenu_LegionDispatch_Explore: 탐색 파병
+MID_GmapMenu_LegionDispatch_Explore_Help: 군단병을 파병하여\n일정 시간 동안 탐색을 시킨다
+MID_GmapMenu_LegionDispatch_Reconstruction: 재건 파병
+MID_GmapMenu_LegionDispatch_Reconstruction_Help: 군단병을 파병하여\n재건 속도를 높인다
+MID_GmapMenu_LegionReDispatch: 파병지 변경
+MID_GmapMenu_LegionReDispatch_Help: 파병 중인 군단병을 복귀시키고\n이곳에 새로 파병한다
+MID_GmapMenu_LegionDispatch_Fort: 방어 파병
+MID_GmapMenu_LegionDispatch_Fort_Help: 요새에 군단병을 파병하여\n쳐들어온 적을 격파한다
+MID_GmapMenu_Blade: 칼날 울림
+MID_GmapMenu_Blade_Help: 범위 내 스폿에 숨어 있는\n적을 발견한다
+MID_GmapMenu_Show: 공연
+MID_GmapMenu_Show_Help: 공연을 하고 그 답례로\n보수나 정보를 받는다
+MID_GmapMenu_CorpsCreate: 부대 편성
+MID_GmapMenu_CorpsCreate_Help: 동료들로 부대를 편성해\n출격시킨다
+MID_GmapMenu_CorpsDelete: 부대 해산
+MID_GmapMenu_CorpsDelete_Help: 부대를 해산하여\n동료들을 다그시온으로 귀환시킨다
+MID_GmapMenu_CorpsExchange: 인원 교환
+MID_GmapMenu_CorpsExchange_Help: 다른 부대와 동료를 교환한다
+MID_GmapMenu_CorpsDivide: 부대 분할
+MID_GmapMenu_CorpsDivide_Help: 부대를 나눠서\n별도의 부대를 편성한다
+MID_GmapMenu_Reconstruction: 재건
+MID_GmapMenu_Reconstruction_Help: 필요한 소재를 사용하여\n스폿을 재건한다
+MID_GmapMenu_DestroyMiasma: 독기 제거
+MID_GmapMenu_DestroyMiasma_Help: 독기를 한 단계 제거한다\n모두 제거하면 독기가 소멸된다
+MID_GmapMenu_Hellgate: 명계의 문
+MID_GmapMenu_Hellgate_Help: 명계의 문으로 가서\n문을 지키는 적과 싸운다
+MID_GmapMenu_HellgateDestroy: 문 파괴
+MID_GmapMenu_HellgateDestroy_Help: 명계의 문을 파괴한다
+MID_BanquetMenu_Help: 사용할 식재료를 선택해 주십시오
+MID_BanquetMenu_Use_Food: 사용할 식재료
+MID_BanquetMenu_Required: 필수
+MID_BanquetMenu_Optional: 선택
+MID_BanquetMenu_Taste: 맛
+MID_BanquetMenu_Magic: 마법
+MID_BanquetMenu_Recovery: 동료 1인당 회복량
+MID_BanquetMenu_Recovery_HP: HP
+MID_BanquetMenu_Recovery_Magic: 마법 횟수
+MID_BanquetMenu_Sort_HP: HP 회복량
+MID_BanquetMenu_Sort_Magic: 마법 회복량
+MID_BanquetMenu_Confirm: 선택한 식재료를 사용해 연회를 열겠습니까?
+MID_BanquetMenu_Cancel_Confirm: 연회를 그만두겠습니까?
+MID_Gmap_Banquet_Perfect_Message: 흥겨운 연회를 통해 동료 전원이 회복되었다!
+MID_Gmap_Banquet_Good_Message: 동료 전원이 회복되었지만 음식이 남아 버렸다……
+MID_Gmap_Banquet_Bad_Message: 음식이 부족해 동료 전원이 회복되지는 못했다……
+MID_GmapMap_Help: 목적지를 선택해 주십시오
+MID_GmapMap_Invalid_Message: 현재는 이용할 수 없습니다
+MID_GmapMap_CorpsEmpty_Message: 현재는 이용할 수 없습니다\n거점 내에 있는 신로의 문은 {AvatarName} 외의\n부대로 거점에 입장했을 때만 이용할 수 있습니다
+MID_GmapMap_SpotKind_Hub: 거점
+MID_GmapMap_SpotKind_SimpleHub: 준거점
+MID_GmapMap_SpotKind_Temple: 신전
+MID_GmapMap_SpotKind_Station: 역
+MID_GmapMap_SpotKind_Gate: 관문
+MID_GmapMap_SpotKind_Explore: 탐색
+MID_GmapMap_SpotKind_Banquet: 연회
+MID_GmapMap_SpotKind_Dungeon: 던전
+MID_GmapMap_SpotKind_Construction: 공터
+MID_GmapMap_SpotKind_Animal: 동물
+MID_GmapMap_SpotKind_Fort: 요새
+MID_CorpsCreateMenu_Help: 새로운 부대에 편성할 유닛을 선택해 주십시오
+MID_CorpsExchangeMenu_Help: 교환할 유닛을 선택해 주십시오
+MID_CorpsDivideMenu_Help: 분할된 부대에 편성할 유닛을 선택해 주십시오
+MID_CorpsMenu_AvgLv: 평균 LV
+MID_CorpsMenu_OverallHp: 전체 HP
+MID_CorpsMenu_OverallMagicEndure: 총 잔여 마법
+MID_CorpsMenu_Abilities: 고유 능력
+MID_CorpsMenu_CorpsName: {Variable=0} 부대
+MID_CorpsMenu_CorpsGroupName: {Variable=0} 소대
+MID_CorpsMenu_Pool: 다그시온 대기조
+MID_CorpsMenu_Confirm: 이 편성으로 출격하겠습니까?
+MID_CorpsMenu_Cancel_Confirm: 출격하지 않고 월드 맵으로 돌아가겠습니까?
+MID_LegionDispatchMenu_Unused: 대기 중
+MID_LegionDispatchMenu_Deployed: 배치 중
+MID_LegionDispatchMenu_Explore: 탐색 파병
+MID_LegionDispatchMenu_Reconstruction: 재건 파병
+MID_LegionDispatchMenu_Fort: 방어 파병
+MID_LegionDispatchMenu_ExploreInfo: 획득량
+MID_LegionDispatchMenu_FortInfo: 방어 횟수
+MID_LegionDispatchMenu_State: 상황
+MID_LegionDispatchMenu_Dispatch_Confirm: 이 군단병은 {Variable=0}에 파병 중입니다\n파병을 중단하고 이곳에 파병하겠습니까?
+MID_LegionDispatchMenu_Owner_Confirm: 이 군단병은 {Variable=0}에게 배치 중입니다\n배치를 해제하고 파병하겠습니까?
+MID_LegionReDispatchMenu_Title: 파병지 변경({Variable=0})
+MID_LegionCombackMenu_Help: 현재의 파병 상태를 확인할 수 있습니다
+MID_LegionCombackMenu_ExploreInfo: 탐색 진도
+MID_LegionCombackMenu_FortInfo: 방어 횟수
+MID_LegionCombackMenu_ReconstructionInfo: 재건 진도

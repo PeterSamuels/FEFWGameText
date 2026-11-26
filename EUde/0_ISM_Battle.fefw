@@ -1,0 +1,175 @@
+﻿MID_SC00_00_m01: <TH>
+MID_SC00_00_m01_001: Dies ist ein künstlich erschaffener virtueller Raum.
+MID_SC00_00_m01_002: Ich werde ihn nutzen, um die Leistungsfähigkeit\ndeines Körpers zu simulieren, wenn dieser voll-\nständig ist.
+MID_SC00_00_m01_003: In Wahrheit schläfst du immer noch. Dein Körper\nist noch nicht für dich bereit.
+MID_SC00_00_m01_004: Aber wenn wir dich nun trainieren, dann wirst du\nin der Lage sein, sofort zu kämpfen, sobald du in\ndeiner neuen Form erwachst.
+MID_SC00_00_m01_005: Ich kann das Szenario aufrufen, wann immer du\ndazu bereit bist.
+MID_SC00_00_m01_006: <ICA>Ich bin bereit.
+MID_SC00_00_m01_007: <ICB>Ich benötige kein Training.
+MID_SC00_00_m01_008: <ACA>Nun denn. Beginnen wir.
+MID_SC00_00_m01_009: <ACB>Seid Ihr sicher? Wir wollen Euch dazu nicht\nzwingen.
+MID_SC00_00_m01_010: <ACB>Aber der Körper eines Mediators ist zur Gänze maß-\nangefertigt. Er unterscheidet sich sehr von dem eines\ngewöhnlichen Menschen.
+MID_SC00_00_m01_011: <ACB>Ich bin der Meinung, dass es gut wäre, wenn Ihr\nwenigstens ein wenig Zeit investieren würdet, um\nEuch an ihn zu gewöhnen.
+MID_SC00_00_m01_012: <ICA>Ihr habt recht.
+MID_SC00_00_m01_013: <ICB>Das ist nicht nötig.
+MID_SC00_00_m01_016: <ACA>Nun denn. Beginnen wir.
+MID_SC00_00_m01_015: <ACA>
+MID_SC00_00_m01_014: <ACB>Du weißt es wohl am besten, nehme ich an. Wir\nwerden das Trainingsszenario überspringen.
+MID_SC00_00_m03: <TH>
+MID_SC00_00_m03_001: Was ich dir erklärt habe, trifft auf jeden Kampf zu,\nder vor dir liegt. Vergiss dies nicht.
+MID_SC00_00_m03_002: Nun, dann kommen wir zum nächsten Szenario.
+MID_SC00_00_e01: <TH>
+MID_SC00_00_e01_001: Dies bist du.
+MID_SC00_00_e02: <TH>
+MID_SC00_00_e02_001: Und dies ist dein Gegner. Du musst ihn besiegen.
+MID_SC00_00_e02_002: Als Erstes {SetColor=Gold}bewegst {SetColor=Default}du dich näher an den Gegner\nheran.
+MID_SC00_00_e03: <TH>
+MID_SC00_00_e03_001: <DLG>Bewege den Cursor über {AvatarName} und drücke\ndann {ButtonA}.
+MID_SC00_00_e04: <TH>
+MID_SC00_00_e04_001: <DLG>Als Nächstes bewege den Cursor auf das Feld,\nauf das du gehen willst, und drücke dann {ButtonA}.
+MID_SC00_00_e05: <TH>
+MID_SC00_00_e05_001: Was machst du denn da bloß? {SetColor=Gold}Bewege{SetColor=Default} dich näher\nan den Gegner heran, damit du ihn auch erreichen\nkannst.
+MID_SC00_00_e06: <TH>
+MID_SC00_00_e06_001: Gut. Nun {SetColor=Gold}bewege{SetColor=Default} dich noch näher an deinen Gegner\nheran und {SetColor=Gold}greife an{SetColor=Default}.
+MID_SC00_00_e07: <TH>
+MID_SC00_00_e07_001: Gut gemacht. Aber bleib konzentriert. {SetColor=Gold}Nun wird\ndein Gegner seine Aktion durchführen{SetColor=Default}.
+MID_SC00_00_e08: <TH>
+MID_SC00_00_e08_001: Gut gemacht.
+MID_SC00_00_e09: <TH>
+MID_SC00_00_e09_001: <DLG>Gegnerische Verstärkung ist eingetroffen.
+MID_SC00_00_e10: <TH>
+MID_SC00_00_e10_001: Während einer Schlacht {SetColor=Gold}können neue Gegner\nerscheinen{SetColor=Default}. Vergiss das nie, während du kämpfst.
+MID_SC00_00_e11: <TH>
+MID_SC00_00_e11_001: Hat der Gegner dich verwundet? Nutze dies hier, um\ndich zu {SetColor=Gold}heilen{SetColor=Default}.
+MID_SC00_00_e12: <TH>
+MID_SC00_00_e12_001: Für den Augenblick gibt es nichts mehr, das ich dir\nbeibringen könnte. Besiege deine Gegner mit dem,\nwas du bis jetzt gelernt hast.
+MID_SC00_00_e17: <TH>
+MID_SC00_00_e17_001: Ich kann dich noch anderes lehren.
+MID_SC00_00_e13: <TH>
+MID_SC00_00_e13_001: <DLG>Möchtest du die Maus-Steuerung auf der Kampfkarte ausprobieren?\n(Anschließend folgt eine Erklärung der Steuerung.)
+MID_SC00_00_e14: <TH>
+MID_SC00_00_e14_001: <DLG>Einzelheiten zur Maus-Steuerung findest du im Tutorial.\nSieh dort nach, wenn du mehr zur Maus-Steuerung wissen willst.
+MID_SC00_00_e15: <TH>
+MID_SC00_00_e15_001: <DLG>Du kannst den Cursor auf der Kampfkarte bewegen,\nindem du den Joy-Con 2 (R) bewegst.
+MID_SC00_00_e15_002: <DLG>Linksklick {MouseR}({ButtonR}): Bestätigen\nRechtsklick {MouseZR}({ButtonZR}): Abbrechen
+MID_SC00_00_e15_003: <DLG>Versuche nun, eine Einheit zu bewegen. Platziere den Cursor\nüber {AvatarName} und wähle aus.
+MID_SC00_00_e16: <TH>
+MID_SC00_00_e16_001: <DLG>Nun zur Bewegung. Verwende die Maus-Steuerung, um den\nCursor über das gewünschte Zielfeld zu platzieren, dann wähle\nes aus.
+MID_SC00_00_e18: <TH>
+MID_SC00_00_e18_001: Du lernst schnell. Sehr gut. Versuche nun, auf diese\nArt den Gegner zu besiegen.
+MID_SC00_01_m02: <TH>
+MID_SC00_01_m02_001: Auf dem Schlachtfeld ist es wichtig, dass du dir\ndeiner Umgebung stets bewusst bist und auch, wie\nsie sich auf deine Strategie auswirkt.
+MID_SC00_01_m02_002: Nun, dann kommen wir zum nächsten Szenario.
+MID_SC00_01_e01: <TH>
+MID_SC00_01_e01_001: Um Gegner mit Leichtigkeit zu besiegen, musst du\n{SetColor=Gold}das Gelände zu deinem Vorteil nutzen{SetColor=Default}.
+MID_SC00_01_e02: <TH>
+MID_SC00_01_e02_001: Stelle dich an einen dieser Punkte und du wirst\n{SetColor=Gold}schwerer zu treffen{SetColor=Default} sein. Versuche es selbst einmal.
+MID_SC00_01_e03: <TH>
+MID_SC00_01_e03_001: Eine gute Position. Nun {SetColor=Gold}greife {SetColor=Default}deinen Gegner {SetColor=Gold}an{SetColor=Default}.
+MID_SC00_02_m02: <TH>
+MID_SC00_02_m02_001: Verbessere deine Fähigkeiten und probiere dich an\nneuen Klassen aus, um deine taktischen Möglich-\nkeiten zu erweitern.
+MID_SC00_02_m02_002: Vergiss nie, dass sich keine Methode auf\nalle Gegner anwenden lässt.
+MID_SC00_02_m02_003: Dies mag ein virtueller Raum sein, aber das Gefühl,\ndas du für deinen neuen Körper empfindest, scheint\nauthentisch zu sein.
+MID_SC00_02_m02_004: Daher lass uns nun zum letzten Szenario kommen.
+MID_SC00_02_e01: <TH>
+MID_SC00_02_e01_001: Beobachte den Gegner {SetColor=Gold}hinter der Barriere{SetColor=Default}.
+MID_SC00_02_e02: <TH>
+MID_SC00_02_e02_001: Dieses Mal bekommst du eine andere Waffe – einen\n{SetColor=Gold}Bogen{SetColor=Default}.
+MID_SC00_02_e02_002: {SetColor=Gold}Bögen {SetColor=Default}werden genutzt, um {SetColor=Gold}Gegner in der Ferne\nanzugreifen{SetColor=Default}. Du wirst mit deinem Bogen nun {SetColor=Gold}über\ndie Barriere hinweg schießen{SetColor=Default}.
+MID_SC00_02_e03: <TH>
+MID_SC00_02_e03_001: Nun {SetColor=Gold}besiege deinen Gegner{SetColor=Default} mithilfe des {SetColor=Gold}Bogens{SetColor=Default}.
+MID_SC00_02_e04: <TH>
+MID_SC00_02_e04_001: Das ist für dich überhaupt kein Problem, wie ich\nsehe.
+MID_SC00_02_e05: <TH>
+MID_SC00_02_e05_001: Dies ist eine {SetColor=Gold}gegnerische Flugeinheit{SetColor=Default}. Gegner dieses\nTyps sind {SetColor=Gold}schwach gegen Bögen{SetColor=Default}.
+MID_SC00_02_e05_002: Verwende deinen {SetColor=Gold}Bogen{SetColor=Default}, um diese gegnerische Flug-\neinheit zu {SetColor=Gold}besiegen{SetColor=Default}.
+MID_SC00_03_m02: <TH>
+MID_SC00_03_m02_001: Die Anpassung an deinen Körper reicht für heute.
+MID_SC00_03_m02_002: Aber es wird noch einige Zeit dauern, bevor der\nechte Körper in der materiellen Welt vollständig\ngeworden ist.
+MID_SC00_03_m02_003: Ruhe dich nun aus. Sobald du aufwachst, wartet\nviel Arbeit auf dich.
+MID_SC00_03_e01: <TH>
+MID_SC00_03_e01_001: Vorsicht! Dieser Gegner ist stark – viel stärker als\njene, denen du bisher gegenübergestanden bist.
+MID_SC00_03_e01_002: Wenn du unbesonnen handelst, wirst du mit einem\nGegenangriff bestraft. Du musst also deine {SetColor=Gold}Kampf-\ntechniken{SetColor=Default} anwenden.
+MID_SC00_03_e02: <TH>
+MID_SC00_03_e02_001: {SetColor=Gold}Besiege {SetColor=Default}deinen Gegner mithilfe deiner {SetColor=Gold}Kampf-\ntechniken{SetColor=Default}.
+MID_SC00_04_m01: <TH>
+MID_SC00_04_m01_001: Puh. Wie ich sehe, arbeitet Euer neuer Körper gut.
+MID_SC00_04_m02_001: Ich wäre tot, wenn Ihr nicht hier angekommen wärt.\nIch danke Euch.
+MID_SC00_04_m02_002: Ihr seid {AvatarGender=derjenige|diejenige}, {AvatarGender=der|die} uns verheißen wurde.
+MID_SC00_04_m01_002: Aber es sind immer noch ein paar Gegner da, die\nbesiegt werden müssen. Ich benötige Eure Hilfe\ndabei.
+MID_SC00_04_m03: <TH>
+MID_SC00_04_m03_001: Gut. Wir haben ihre Streitkräfte eliminiert.
+MID_SC00_04_m03_002: Allerdings mache ich mir um Meister Zenon Sorgen.
+MID_SC00_04_e02: <TH>
+MID_SC00_04_e02_001: Unglaublich... Vielleicht seid Ihr wirklich in der\nLage, uns zu retten.
+MID_SC00_04_e05: <TH>
+MID_SC00_04_e05_001: Dies fühlt sich ein wenig an, als würde man einem\nFisch das Schwimmen beibringen, aber da Ihr gerade\nerst erwacht seid, gebe ich Euch einige Hinweise.
+MID_SC00_04_e05_002: Ich wende {SetColor=Gold}Magie{SetColor=Default} an. Magie {SetColor=Gold}hat eine Reichweite{SetColor=Default}, mit\nder sich sogar {SetColor=Gold}entfernt stehende Gegner treffen{SetColor=Default}\nlassen.
+MID_SC00_04_e06: <TH>
+MID_SC00_04_e06_001: Eine effektive Taktik ist es, wenn eine Person {SetColor=Gold}aus\nder Ferne angreift{SetColor=Default}, und eine zweite Person dann\nden Gegner{SetColor=Gold} {SetColor=Default}im Nahkampf {SetColor=Gold}abschließend besiegt{SetColor=Default}.
+MID_SC00_04_e07: <TH>
+MID_SC00_04_e07_001: Waffen wie Lanzen sind weniger effektiv gegen\n{SetColor=Gold}gepanzerte Gegner{SetColor=Default}. Überlasst sie {SetColor=Gold}Magie{SetColor=Default}anwendern\nwie mir.
+MID_SC00_04_e08: <TH>
+MID_SC00_04_e08_001: Waffen wie Lanzen sind weniger effektiv als {SetColor=Gold}Magie{SetColor=Default},\nwenn man {SetColor=Gold}gepanzerte Gegner{SetColor=Default} vor sich hat. Überlasst\ndiesen Gegner mir.
+MID_SC00_04_e09: <TH>
+MID_SC00_04_e09_001: Es ist gefährlich, sich einfach kopfüber ins Gefecht\nzu stürzen. Man sollte immer zunächst {SetColor=Gold}die Reich-\nweite der Gegner in nächster Nähe{SetColor=Default} überprüfen.
+MID_SC00_04_e10: <TH>
+MID_SC00_04_e10_001: *seufz* Es sind zu viele.
+MID_SC00_04_e10_002: Wir brauchen Eure ganze Macht, {AvatarGender=Verheißener|Verheißene}.
+MID_SC00_04_e11: <TH>
+MID_SC00_04_e11_001: <DLG>Versuche die Brandtechnik von {AvatarName} einzusetzen,\nReinigender Blitz{SetColor=Menu}.{SetColor=Default}
+MID_SC00_04_e12: <TH>
+MID_SC00_04_e12_001: Ich wusste, wir haben mit Euch an unserer Seite\nnichts zu befürchten. Zusammen werden wir das\nLand von ihnen befreien!
+MID_SC00_05_m01: <TH>
+MID_SC00_05_m01_001: Könnt Ihr sie hören? Die Stimmen der Toten?
+MID_SC00_05_m01_002: Das ist das Rascheln des Leichenhains. Er will, dass\nIhr alle Teil davon werdet.
+MID_SC00_05_m01_003: Kommt herbei, meine Legion der Toten... ihr\nKrieger von Balor...
+MID_SC00_05_m08: <TH>
+MID_SC00_05_m01_004: Aaaaah...
+MID_SC00_05_m09: <TH>
+MID_SC00_05_m01_005: Grrr.
+MID_SC00_05_m10: <TH>
+MID_SC00_05_m01_006: Rrrgh...
+MID_SC00_05_m11: <TH>
+MID_SC00_05_m01_007: Hrrrgh.
+MID_SC00_05_m12: <TH>
+MID_SC00_05_m01_008: Das ist furchtbar... Selbst sie stehen unter der\nKontrolle des Gegners?
+MID_SC00_05_m01_009: Verdammt! Lind ist eine Sache, aber ich habe\nkeine Ahnung, ob wir gegen Gegner wie diese\ngewinnen können.
+MID_SC00_05_m01_010: Ich erinnere mich an sie, sie nahmen vor fünf Jahren\nan den Heroenspielen teil. Sie waren starke Wett-\nstreiter, wenn ich mich recht entsinne.
+MID_SC00_05_m01_011: Sie sind mehr als die durchschnittlichen untoten\nKrieger. Also Obacht!
+MID_SC00_05_m02: <TH>
+MID_SC00_05_m02_001: Wie konnte das geschehen... Ich wollte... doch nur\nein glückliches Leben...
+MID_SC00_05_m03: <TH>
+MID_SC00_05_m03_001: Vergehst du... in dieser Wonne?
+MID_SC00_05_m04: <TH>
+MID_SC00_05_m04_001: Das Wehgeschrei meiner Vorfahren... Die Trauer von\nYu Phas... Für sie... werde ich alles zerstören!
+MID_SC00_05_m05: <TH>
+MID_SC00_05_m05_001: Ich werde erst Ruhe finden... wenn ich die Brust\ndieses Mannes aufgeschlitzt und ihm das Herz\nentrissen habe...
+MID_SC00_05_m06: <TH>
+MID_SC00_05_m06_001: Also... habe ich mir das nicht nur eingebildet. Ich\nhabe gespürt, dass an Euch etwas seltsam ist.
+MID_SC00_05_m06_002: Es ist so vertraut, und doch kann ich es nicht beim\nNamen nennen... Aber das macht nichts. Das spielt\nkeine Rolle, wenn Ihr erst tot seid.
+MID_SC00_05_m07: <TH>
+MID_SC00_05_m07_001: Die Lebenden sind ein erbärmlicher Haufen. Lasst\nmich Euch von diesem Elend erlösen...
+MID_SC00_05_e01: <TH>
+MID_SC00_05_e01_001: Autsch. Er hat ernsthaft vor, uns zu vernichten.
+MID_SC00_05_e01_002: Habt Ihr ein Heilmittel? Wenn nicht – ich kenne\neine {SetColor=Gold}Heilmagie{SetColor=Default}, die ich bei Euch anwenden kann.
+MID_SC00_05_e02: <TH>
+MID_SC00_05_e02_001: Dieser Junge ist Cai Höllenauge. Er hat sich darauf\nspezialisiert, den {SetColor=Gold}hohen Bewegungsradius {SetColor=Default}seines\nReittiers in der Schlacht auszunutzen.
+MID_SC00_05_e02_002: Und das kommt nur zu der Macht hinzu, die er\ngerade schon entfesselt hat. Man muss in seiner\nNähe vorsichtig sein!
+MID_SC00_05_e03: <TH>
+MID_SC00_05_e03_001: Wenn er glaubt, er könnte einfach angeritten\nkommen und es mit uns aufnehmen, hat er sich\ngründlich geirrt. Konzentrieren wir uns ganz auf ihn!
+MID_SC00_05_e04: <TH>
+MID_SC00_05_e04_001: Hngh. Wie ich sehe, wird Lind es uns schwer\nmachen, zu ihm zu gelangen.
+MID_SC00_05_e05: <TH>
+MID_SC00_05_e05_001: Durch diese {SetColor=Gold}Felder{SetColor=Default} fließt {SetColor=Gold}Magie{SetColor=Default}. Sie kann uns dabei\nhelfen, uns ein wenig zu {SetColor=Gold}erholen{SetColor=Default}, indem wir auf den\nFeldern bleiben, bevor wir weiterziehen.
+MID_SC00_05_e06: <TH>
+MID_SC00_05_e06_001: Er hat nach seiner Bewegung den Abstand noch\nweiter verkürzt?
+MID_SC00_05_e06_002: Das ist Dietrich, der Hinreißende Schatten. Sein Um-\nhang verleiht ihm die Macht, sich zu {SetColor=Gold}teleportieren{SetColor=Default}.
+MID_SC00_05_e06_003: Das macht ihn zu einem furchterregenden Raubtier.\nWir sollten Abstand zu ihm halten und versuchen,\nihn zu erwischen, direkt nachdem er sich bewegt hat.
+MID_SC00_05_e07: <TH>
+MID_SC00_05_e07_001: Leda, Sirene der Sechssaitigen... Ihr Spiel kann\n{SetColor=Gold}ihr Publikum{SetColor=Default} geradezu {SetColor=Gold}hypnotisieren{SetColor=Default}.
+MID_SC00_05_e08: <TH>
+MID_SC00_05_e08_001: Aufpassen! Das ist Theodora, die Ausmerzerin – sie\n{SetColor=Gold}greift mit unglaublicher Stärke an{SetColor=Default}.
+MID_SC00_05_e08_002: Und sie fügt dieser noch eine starke Verteidigung\nhinzu. Magie ist unsere beste Option bei ihr.
+MID_SC00_05_e09: <TH>
+MID_SC00_05_e09_001: Wir werden auf einige Gegner treffen, die sehr\nmächtig sind. Es ist entscheidend, dass wir alle\n{SetColor=Gold}uns gegenseitig im Kampf unterstützen{SetColor=Default}.

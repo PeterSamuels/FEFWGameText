@@ -1,0 +1,1944 @@
+﻿MSID_Active: Fougue{Variable=0}
+MSID_H_Active: Confère Mvt {Variable=0}.
+MSID_HellLord: Maître des flammes
+MSID_H_HellLord: L'unité et ses alliés ne sont pas affectés par les\nbrasiers des Limbes et ne subissent que la moitié\ndes dégâts s'ils sont dans un brasier des Limbes.
+MSID_MilitaryTalent: Génie tactique
+MSID_H_MilitaryTalent: Confère Por {Variable=0} aux capacités utilisables\nsur les alliés.
+MSID_EyeContact: Intuition tactique{Variable=0}
+MSID_H_EyeContact: Inflige Esq {Variable=0} à l'ennemi lorsque l'unité\nattaque en premier après un combat entre\nunités et jusqu'à la fin de son prochain combat.
+MSID_Shooting: Visée assurée
+MSID_H_Shooting: Confère Por {Variable=0} lorsque l'unité attaque\navec une capacité d'arc.
+MSID_ErrorCorrection: Correction{Variable=0}
+MSID_H_ErrorCorrection: Confère Prc {Variable=1} à l'unité pour le combat\nsi son taux de réussite est supérieur\nou égal à {Variable=0} %.
+MSID_FirstAid: Premiers soins
+MSID_H_FirstAid: Restaure quelques PV à un allié adjacent\naprès un combat de ce dernier.
+MSID_SafePrayer: Supplique{Variable=0}
+MSID_H_SafePrayer: Confère Évit {Variable=0} aux alliés adjacents.
+MSID_MurderousIntent: Pulsion meurtrière{Variable=0}
+MSID_H_MurderousIntent: Confère Crit {Variable=0} pour le combat lorsque\nl'unité attaque en premier.
+MSID_BeastImpulse: Élan bestial
+MSID_H_BeastImpulse: Après un combat entre unités, confère\nCrit {Variable=0} jusqu'à ce que l'unité effectue\nun coup critique.
+MSID_DarknessCall: Appel des ténèbres
+MSID_H_DarknessCall: Inflige Évit {Variable=0} aux ennemis adjacents.
+MSID_DarkSecret: Secrets ténébreux{Variable=0}
+MSID_H_DarkSecret: Étend l'effet d'Appel des ténèbres à {Variable=0} {SingularPlural0=case|cases}.
+MSID_Strength: Force surnaturelle
+MSID_H_Strength: L'équipement pèse désormais {Variable=0} %\nde son poids initial.
+MSID_JavelinThrow: Bras de lancer{Variable=0}
+MSID_H_JavelinThrow: Confère Prc {Variable=0} et Atq {Variable=1} pour\nle combat lorsque l'unité attaque\nà distance avec une lance.
+MSID_StrongMan: Ardeur martiale
+MSID_H_StrongMan: Confère Prc {Variable=0} contre un ennemi\nadjacent pour le combat.
+MSID_IronBlood: Volonté Écarlate{Variable=0}
+MSID_H_IronBlood: Confère Atq {Variable=0} contre un ennemi\nadjacent pour le combat.
+MSID_H_IronBlood+: Confère Atq {Variable=0} pour un combat contre un ennemi\nadjacent. Peut aussi conférer Atq {Variable=2} lors d'une\nattaque sur un ennemi adjacent. Activation = {Variable=1} %
+MSID_Readiness: Bravoure royale{Variable=0}
+MSID_H_Readiness: L'unité subit la moitié des dégâts infligés\npar les attaques.\nActivation = {Variable=0} %
+MSID_Destroy: Force imparable
+MSID_H_Destroy: Multiplie par {Variable=0} les dégâts infligés\nlorsque l'unité attaque des obstacles.
+MSID_DirectHit: Impact
+MSID_H_DirectHit: Inflige {Variable=1} {SingularPlural1=point|points} de dégâts lorsque l'unité\nattaque avec une capacité ardente.\nActivation = {Variable=0} %
+MSID_Wisdom: Conseil avisé
+MSID_H_Wisdom: Confère Tec {Variable=0} aux alliés adjacents.
+MSID_Explanation: Indice bonus{Variable=0}
+MSID_H_Explanation: Confère Prc {Variable=1} aux alliés adjacents\npour leurs combats.\nActivation = {Variable=0} %
+MSID_BigAttack: Grande capacité
+MSID_H_BigAttack: Confère Atq {Variable=0} lorsque l'unité attaque\navec une capacité.
+MSID_SeriousAttack: Attaque totale{Variable=0}
+MSID_H_SeriousAttack: Multiplie par {Variable=1} les dégâts infligés lorsque\nl'unité attaque avec une capacité.\nActivation = {Variable=0} %
+MSID_Safeguard: Sécurité primordiale
+MSID_H_Safeguard: Confère Prc {Variable=0} à l'unité pour le combat\nsi l'ennemi ne peut pas riposter.
+MSID_GoodVibes: Avantage{Variable=0}
+MSID_H_GoodVibes: Confère Atq {Variable=1} à l'unité lorsqu'elle\nattaque et que son taux de réussite\nest égal à {Variable=0} %.
+MSID_SprintAttack: Empressement
+MSID_H_SprintAttack: Confère Esq {Variable=0} pour le combat lorsque\nl'unité attaque en premier.
+MSID_Acceleration: Accélération{Variable=0}
+MSID_H_Acceleration: Confère Vit {Variable=0} après avoir vaincu\nun ennemi et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_DarkRaid: Stupeur{Variable=0}
+MSID_H_DarkRaid: Pour le combat, protège l'unité contre\nles ripostes lorsqu'elle attaque en premier.\nActivation = {Variable=0} %
+MSID_AdLib: Improvisation
+MSID_H_AdLib: Permet d'attaquer après avoir utilisé une\ncapacité ardente pendant l'embrasement.
+MSID_GuardianKnight: Gardien
+MSID_H_GuardianKnight: L'unité subit {Variable=0} % des dégâts infligés\npar les attaques.
+MSID_Reciprocation: Représailles{Variable=0}
+MSID_H_Reciprocation: Multiplie par {Variable=1} les dégâts infligés par\nl'unité si l'ennemi attaque en premier.\nActivation = {Variable=0} %
+MSID_GoddessGrace: Grâce de la déesse
+MSID_H_GoddessGrace: Restaure {Variable=0} PV à l'unité après un combat\nentre unités.
+MSID_EntrustWind: Au gré du vent{Variable=0}
+MSID_EntrustWind_1: Au gré du vent (+1)
+MSID_EntrustWind_5: Au gré du vent (+5)
+MSID_EntrustWind_20: Au gré du vent (+20)
+MSID_H_EntrustWind: Confère Esq {Variable=0}, Esq {Variable=1} ou Esq {Variable=2}\npour le combat.
+MSID_EntrustWind+_1: Au gré du vent+ (+1)
+MSID_EntrustWind+_5: Au gré du vent+ (+5)
+MSID_EntrustWind+_20: Au gré du vent+ (+20)
+MSID_EntrustWind+_30: Au gré du vent+ (+30)
+MSID_H_EntrustWind+: Confère Esq {Variable=0}, Esq {Variable=1}, Esq {Variable=2}\nou Esq {Variable=3} pour le combat.
+MSID_SoreLoser: Rivalité
+MSID_H_SoreLoser: Confère Crit {Variable=0} à l'unité lorsqu'elle\nest équipée de magie.
+MSID_EmotionalLizaia: Nosferatu ardent{Variable=0}
+MSID_H_EmotionalLizaia: Confère Atq {Variable=0} et Crit {Variable=1} pour le\ncombat lors de l'utilisation de Nosferatu.
+MSID_GrowthSigns: Croissance
+MSID_H_GrowthSigns: Les caractéristiques de base ont plus\nde chances d'augmenter lorsque l'unité\npasse au niveau supérieur.
+MSID_WarriorBlood: Sang guerrier{Variable=0}
+MSID_H_WarriorBlood: Les caractéristiques de l'unité augmentent\nselon le type d'arme équipée.
+MSID_H_WarriorBlood+: Les caractéristiques de l'unité augmentent\nfortement selon le type d'arme équipée.
+MSID_ArmorFuneral: Requiem{Variable=0}
+MSID_H_ArmorFuneral: Pour le combat, permet à l'unité d'effectuer\nune double frappe indépendamment de\nsa VA. Activation = {Variable=0} %
+MSID_After: Go No Sen
+MSID_H_After: En combat, l'unité attaque en premier\npendant la phase ennemie.\nActivation = {Variable=0} %
+MSID_Ahead: Sen No Sen
+MSID_H_Ahead: Pour le combat, permet à l'unité d'effectuer une\ndouble frappe avant la riposte ennemie lorsque\nl'unité attaque en premier. Activation = {Variable=0} %
+MSID_Flickering: Clin d'œil
+MSID_H_Flickering: Confère Déf {Variable=0} après avoir utilisé\nInversion et jusqu'à la prochaine phase\nde l'unité.
+MSID_InstantBlade: Lame furtive{Variable=0}
+MSID_H_InstantBlade: Confère Atq {Variable=0} pour le combat lorsque\nl'unité esquive une attaque.
+MSID_BloodCommotion: Poids lourd
+MSID_H_BloodCommotion: Empêche l'unité de prétendre à une classe\nde cavalerie ou volante. Confère Cst {Variable=0}.
+MSID_Pressure: Entrave{Variable=0}
+MSID_H_Pressure: Inflige Mvt {Variable=0} aux ennemis adjacents.
+MSID_Backup: Assistance vaillante
+MSID_H_Backup: Confère Déf {Variable=0} aux alliés adjacents.
+MSID_FangFlash: Croc foudroyant{Variable=0}
+MSID_H_FangFlash: Confère Atq {Variable=0} et Prc {Variable=1} lorsque\nl'unité attaque.\nActivation = {Variable=2} %
+MSID_StageProduction: Mise en scène
+MSID_H_StageProduction: Confère Évit {Variable=1} aux alliés situés à\n{Variable=0} {SingularPlural0=case|cases} maximum pour leurs combats.\nActivation = (Chm allié ÷ 2) %
+MSID_H_R_StageProduction: Confère Évit {Variable=0} pour le combat.\nActivation = (Chm ÷ 2) %
+MSID_H_R_StageProduction+: Confère Évit/Prc {Variable=0} pour le combat.\nActivation = (Chm ÷ 2) %
+MSID_H_R_StageProduction++: Confère Évit/Prc/Crit {Variable=0} pour le combat.\nActivation = (Chm ÷ 2) %
+MSID_Inspiration: Effet dramatique{Variable=0}
+MSID_H_Inspiration: Confère Prc {Variable=0} aux alliés ciblés lorsque\nla technique Mise en scène est déclenchée.
+MSID_H_Inspiration+: Confère Prc/Crit {Variable=0} aux alliés ciblés\nlorsque la technique Mise en scène\nest déclenchée.
+MSID_AdventureKing: Veine d'Aventurier{Variable=0}
+MSID_H_AdventureKing: Confère Cha {Variable=0}.
+MSID_H_AdventureKing+: Confère Cha {Variable=0} à l'unité et à tous\nses alliés.
+MSID_SkilledGunner: Maître artilleur
+MSID_H_SkilledGunner: Confère Prc {Variable=0} pour le combat lorsque\nl'unité utilise une pièce d'artillerie.
+MSID_VictoryWind: Vents victorieux
+MSID_H_VictoryWind: Confère Prc {Variable=0} à l'unité lorsqu'elle attaque\net Esq {Variable=1} lorsqu'elle est attaquée.\nActivation = (Cha) %
+MSID_CompanyManager: Bonne intendance
+MSID_H_CompanyManager: Permet à l'unité et à tous ses alliés à {Variable=0}\n{SingularPlural0=case|cases} maximum d'accéder au stockage.
+MSID_Opportunity: Opportunité{Variable=0}
+MSID_H_Opportunity: Multiplie par {Variable=0} les dégâts infligés\nlorsque l'unité attaque.\nActivation = (Cha ÷ 2) %
+MSID_Hayabusa: Faucon
+MSID_H_Hayabusa: Confère VA {Variable=0} pour le combat lorsque\nl'unité attaque en premier.
+MSID_Quitting: Perception{Variable=0}
+MSID_H_Quitting: Confère Esq {Variable=0} à l'unité pour le combat\nsi elle peut effectuer une double frappe.
+MSID_Dying: In extremis
+MSID_H_Dying: Les PV de l'unité tombent à {Variable=1} lorsqu'ils sont\nsupérieurs ou égaux à {Variable=0} et que l'attaque\nles réduirait à 0. Activation = (Cha) %
+MSID_BadLuck: Chance inouïe{Variable=0}
+MSID_H_BadLuck: Confère Cha {Variable=0} après avoir vaincu\nun ennemi et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_BeautifulLight: Lumière gracieuse
+MSID_H_BeautifulLight: Réduit le coût d'utilisation à 0 lorsque l'unité\nsoigne un allié avec de la magie.\nActivation = (Cha) %
+MSID_FaithGift: Don de la foi{Variable=0}
+MSID_H_FaithGift: Soigner des alliés avec de la magie leur\nrestaure une quantité de PV {Variable=0}.\nActivation = (Cha) %
+MSID_MechanicalBody: Immuabilité{Variable=0}
+MSID_H_MechanicalBody: Confère Déf {Variable=0}. L'unité est cuirassée et\nne peut pas prétendre à une classe de cavalerie\nou aérienne.
+MSID_H_MechanicalBody+: Confère Déf {Variable=0} et Tec {Variable=1}. L'unité\nest cuirassée et ne peut pas prétendre\nà une classe de cavalerie ou aérienne.
+MSID_NightLight: Sixième sens
+MSID_H_NightLight: Confère Prc {Variable=0} aux attaques magiques\npour le combat lorsque l'unité attaque\nen premier.
+MSID_AdjustmentSoul: Esprit accordé{Variable=0}
+MSID_H_AdjustmentSoul: Restaure quelques PV à l'unité lorsqu'elle\nsoigne un allié avec de la magie.
+MSID_H_AdjustmentSoul+: Restaure des PV à l'unité lorsqu'elle\nsoigne un allié avec de la magie.
+MSID_GolemResonance: Auto-soin
+MSID_H_GolemResonance: Pendant l'embrasement, restaure beaucoup\nde PV à l'unité au début de sa phase.
+MSID_Bodyguard: Bienfaiteur
+MSID_H_Bodyguard: Protège les alliés adjacents contre\nles doubles frappes pour le combat.\nActivation = {Variable=0} %
+MSID_H_R_Bodyguard: Protège l'unité contre les doubles frappes\nennemies pour le combat.\nActivation = {Variable=0} %
+MSID_NoMercy: Inexorabilité{Variable=0}
+MSID_H_NoMercy: Confère Prc/Crit {Variable=0} à l'unité lorsqu'elle\neffectue une double frappe.
+MSID_GenerousHeart: Persévérance
+MSID_H_GenerousHeart: Confère Esq {Variable=0} pour le combat si l'unité\npossède la moitié ou plus de ses PV.
+MSID_GreatCondition: Forme olympique{Variable=0}
+MSID_H_GreatCondition: Confère Atq {Variable=0} pour le combat si l'unité\npossède tous ses PV.
+MSID_H_GreatCondition+: Confère Atq {Variable=0} et Esq {Variable=1} pour\nle combat si l'unité possède tous ses PV.
+MSID_BattleReady: Hostilité
+MSID_H_BattleReady: Lors du premier combat de la phase\nennemie, l'unité attaque en premier.\nActivation = {Variable=0} %
+MSID_JusticeExecution: Jugement rendu{Variable=0}
+MSID_H_JusticeExecution: Confère Atq {Variable=0} lorsque Diadème\nde l'équilibre est activé.
+MSID_SpiritVoice: Voix des esprits
+MSID_H_SpiritVoice: Confère Prc/Esq {Variable=0} à l'unité pour\nle combat si l'ennemi utilise la magie.
+MSID_SpiritWhisper: Aide spirituelle{Variable=0}
+MSID_H_SpiritWhisper: Applique l'effet de Voix des esprits\naux alliés adjacents.
+MSID_H_SpiritWhisper+: Applique l'effet de Voix des esprits\naux alliés à {Variable=0} {SingularPlural0=case|cases} maximum.
+MSID_FlowQigong: Flux céleste
+MSID_H_FlowQigong: Confère Esq {Variable=0}.
+MSID_WayCyclo: Giration méridienne
+MSID_H_WayCyclo: Confère Esq {Variable=0}. Permet d'utiliser\nla capacité ardente Dracochoc éclatant.
+MSID_SevenCyclo: Harmonie heptastrale
+MSID_H_SevenCyclo: Confère Esq {Variable=0}. Permet d'utiliser\nla capacité ardente Giration draconique.
+MSID_FullyCyclo: Dunjia heptastral
+MSID_H_FullyCyclo: Confère Esq {Variable=0}. Permet d'utiliser\nla capacité ardente Dragon heptastral.
+MSID_SmoothContinuity: Continuum{Variable=0}
+MSID_H_SmoothContinuity: Restaure {Variable=0} PV à l'unité lorsqu'elle\nesquive une attaque.
+MSID_RouteExtension: Expansion méridienne
+MSID_H_RouteExtension: Confère PV max {Variable=0} après avoir vaincu\nun ennemi et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_FirstMove: Coup éclair
+MSID_H_FirstMove: Confère Atq {Variable=1} pour le combat lorsque\nl'unité attaque en premier.\nActivation = {Variable=0} %
+MSID_Nonstop: Indéfectibilité{Variable=0}
+MSID_H_Nonstop: Confère Atq {Variable=1} à l'unité lorsqu'elle attaque\naprès que Coup éclair a été déclenché.\nActivation = {Variable=0} %
+MSID_Detainer: Placidité
+MSID_H_Detainer: Permet à l'unité d'utiliser la magie de\nsupport après avoir utilisé Repli.
+MSID_HeadsUp: Promptitude{Variable=0}
+MSID_H_HeadsUp: Confère Vit {Variable=0} aux alliés adjacents.
+MSID_OneShot: Aubaine
+MSID_H_OneShot: Confère Atq {Variable=0} à l'unité lorsque ni elle\nni l'ennemi ne peuvent effectuer de doubles\nfrappes.
+MSID_FullPower: Toute-puissance{Variable=0}
+MSID_H_FullPower: Multiplie par {Variable=0} les dégâts infligés\npar les attaques de l'unité.\nActivation = (Frc ÷ 2) %
+MSID_Acclimatization: Adaptabilité
+MSID_H_Acclimatization: Confère Prc {Variable=0} après un combat entre\nunités et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_Foothold: Halte{Variable=0}
+MSID_H_Foothold: Inflige Vit {Variable=0} à l'ennemi après un combat\nentre unités et jusqu'à la fin du prochain combat\nennemi lorsque l'unité a attaqué en premier.
+MSID_Familiarity: Maîtrise du chi
+MSID_H_Familiarity: Confère Esq {Variable=0} à l'unité lorsqu'elle\nest attaquée.\nActivation = (Tec) %
+MSID_AtWill: Tête brûlée
+MSID_H_AtWill: Confère Prc {Variable=0}, Esq {Variable=0} ou Crit {Variable=0}\npour le combat.
+MSID_AtWillH: Tête brûlée (Prc)
+MSID_AtWillT: Tête brûlée (Crit)
+MSID_AtWillA: Tête brûlée (Esq)
+MSID_FeelingGreat: Forme optimale{Variable=0}
+MSID_H_FeelingGreat: L'effet de Tête brûlée confère désormais\n{Variable=0}.
+MSID_Transgression: Chaos monacal
+MSID_H_Transgression: Restaure des PV équivalents aux PV max\nde l'unité après avoir vaincu un ennemi.\nActivation = (Cha ÷ 2) %
+MSID_Buddhism: Santé de fer{Variable=0}
+MSID_H_Buddhism: Confère Bcl {Variable=0} à l'unité lorsqu'elle\nest attaquée.\nActivation = (PV restants) %
+MSID_HorseCooperation: Fidèle destrier
+MSID_H_HorseCooperation: Cavalerie. Confère Bcl {Variable=0} et Évit {Variable=1}\nà l'unité pour le combat lorsqu'elle attaque\nen premier.
+MSID_RidingCharge: Charge à cheval{Variable=0}
+MSID_H_RidingCharge: Cavalerie. Confère Prc {Variable=0} à l'unité pour\nle combat lorsqu'elle attaque en premier.
+MSID_H_RidingCharge+: Cavalerie. Confère Prc {Variable=0} et Atq {Variable=1}\nà l'unité pour le combat lorsqu'elle attaque\nen premier.
+MSID_HunterAmbush: Piège de chasseur
+MSID_H_HunterAmbush: En combat, l'unité attaque en premier\npendant la phase ennemie si l'ennemi\na subi des dégâts. Activation = {Variable=0} %
+MSID_PrimeHunt: Royauté{Variable=0}
+MSID_H_PrimeHunt: Confère Atq {Variable=0} et Crit {Variable=1} pour\nle combat si l'ennemi a subi des dégâts.
+MSID_Concentration: Concentration
+MSID_H_Concentration: Confère Esq {Variable=0} après un combat\nentre unités et jusqu'à la prochaine\nphase de l'unité.
+MSID_Zone: Fluidité{Variable=0}
+MSID_H_Zone: Confère Esq {Variable=1} jusqu'à la prochaine phase\nde l'unité lorsque l'effet de Concentration\nest activé. Activation = {Variable=0} %
+MSID_HealingKnowledge: Savoir curatif
+MSID_H_HealingKnowledge: Soigner des alliés avec de la magie leur\nrestaure une quantité de PV {Variable=0}.
+MSID_RemoteHealing: Soin à distance{Variable=0}
+MSID_H_RemoteHealing: Confère Por {Variable=0} à la magie de soin.
+MSID_Gale: Bourrasque punitive
+MSID_H_Gale: Confère Prc {Variable=1} pour le combat si la VA\nde l'unité est supérieure ou égale à la VA\nennemie +{Variable=0}.
+MSID_WindAlly: Vent favorable{Variable=0}
+MSID_H_WindAlly: Confère Atq {Variable=1} pour le combat si la VA\nde l'unité est supérieure ou égale à la VA\nennemie +{Variable=0}.
+MSID_H_WindAlly+: Confère Atq {Variable=1} pour le combat\nsi VA ≥ VA ennemie +{Variable=0} et\nEsq {Variable=3} si VA ≥ VA ennemie +{Variable=2}.
+MSID_ForceForward: Irruption
+MSID_H_ForceForward: Cavalerie. Permet à l'unité de traverser une\ncase occupée par un ennemi. (Impossible\nsi l'ennemi est de grande taille.)
+MSID_Galloping: Cavalcade{Variable=0}
+MSID_H_Galloping: Cavalerie. Points de mouvement liés au\nterrain {Variable=0}. (Valeur finale : 1 minimum.)
+MSID_AxKnife: Hachoir
+MSID_H_AxKnife: Confère Prc {Variable=0} lorsque l'unité est équipée\nd'une hache.
+MSID_Messy: Bassesse{Variable=0}
+MSID_H_Messy: Confère Prc {Variable=0} pour le combat si\nl'ennemi possède la moitié ou moins\nde ses PV.
+MSID_H_Messy+: Confère Prc {Variable=0} et Atq {Variable=1} pour le combat si\nl'ennemi possède la moitié ou moins de ses PV.
+MSID_RampageAx: Hache obstinée
+MSID_H_RampageAx: Confère Frc {Variable=0} lorsque l'unité est équipée\nd'une hache.
+MSID_Fearless: Hardiesse{Variable=0}
+MSID_H_Fearless: Pour le combat, confère Atq {Variable=0} mais\nEsq {Variable=1} à l'unité lorsque celle-ci attaque\nen premier.
+MSID_ReadyFiring: Guerrier charron
+MSID_H_ReadyFiring: Cavalerie. Confère Prc {Variable=0} à l'unité\nlorsqu'elle possède la classe d'{LowercaseNextLetter}Aurige.
+MSID_ChariotRider: Char furieux{Variable=0}
+MSID_H_ChariotRider: Permet à l'unité d'effectuer {Variable=0} {SingularPlural0=attaque|attaques}\n{SingularPlural0=furieuse|furieuses} lorsqu'elle possède la classe\nd'{LowercaseNextLetter}Aurige.
+MSID_StrongArcher: Expertise à l'arc
+MSID_H_StrongArcher: Confère Frc {Variable=0} lorsque l'unité est équipée\nd'un arc.
+MSID_Penetration: Trouée{Variable=0}
+MSID_H_Penetration: Confère Atq {Variable=0} et Crit {Variable=1} lorsque\nl'unité attaque avec une capacité d'arc.
+MSID_SkillfulCounter: Riposte experte
+MSID_H_SkillfulCounter: Pour le combat, confère Prc {Variable=0} à l'unité\nlorsque l'ennemi attaque en premier.
+MSID_FuriousCounter: Riposte enragée{Variable=0}
+MSID_H_FuriousCounter: Pour le combat, confère Atq {Variable=0} à l'unité\nlorsque l'ennemi attaque en premier.
+MSID_H_FuriousCounter+: Pour le combat, confère Atq {Variable=0} et Crit {Variable=1}\nà l'unité lorsque l'ennemi attaque en premier.
+MSID_SilverMaiden: Belle d'Argent
+MSID_H_SilverMaiden: Confère Prc/Esq {Variable=0} à l'unité\npour chaque allié adjacent.
+MSID_TakeFlight: Envol{Variable=0}
+MSID_H_TakeFlight: Confère VA {Variable=0} lorsque l'unité se trouve\nsur un terrain accessible aux unités volantes\nuniquement.
+MSID_Violence: Tyrannie
+MSID_H_Violence: Pour le combat, confère Atq {Variable=0} et Crit {Variable=1}\nà l'unité lorsque le statut de l'ennemi est altéré.
+MSID_Intimidation: Menace{Variable=0}
+MSID_H_Intimidation: Réduit de moitié l'Évit ennemie pour\nle combat.\nActivation = {Variable=0} %
+MSID_SecretTechnique: Doctrine har hali
+MSID_H_SecretTechnique: Confère Atq {Variable=0} pour le combat si l'unité\nest efficace contre l'ennemi.
+MSID_Mysteries: Frappe précise{Variable=0}
+MSID_H_Mysteries: Confère Prc {Variable=0} pour le combat si l'unité\nest efficace contre l'ennemi.
+MSID_SalvationLight: Lumière du salut{Variable=0}
+MSID_H_SalvationLight: Neutralise l'effet de Faveur des Limbes\nsur les ennemis à {Variable=0} {SingularPlural0=case|cases} maximum.
+MSID_H_R_SalvationLight: Neutralise l'effet de Faveur des Limbes.
+MSID_BlazingSun: Soleil brûlant{Variable=0}
+MSID_H_BlazingSun: Réduit à 0 les dégâts infligés par\nles morts-vivants.\nActivation = {Variable=0} %
+MSID_RedMagic: Zhu Ming
+MSID_H_RedMagic: Confère Prc {Variable=0} lorsque l'unité est équipée\nde magie.
+MSID_MagicBoost: Magie amplifiée{Variable=0}
+MSID_H_MagicBoost: Confère Atq {Variable=0} après un combat entre\nunités et jusqu'à la fin du prochain combat\nde l'unité. Activation = (Mag ÷ 2) %
+MSID_Unju: Yun Shou
+MSID_H_Unju: Confère Prc {Variable=0} lorsque l'unité est équipée\nde gantelets.
+MSID_Alteration: Arme modifiée{Variable=0}
+MSID_H_Alteration: Les attaques de l'unité sont efficaces contre\nles unités volantes lorsqu'elle est équipée\nde Zerberus.
+MSID_H_Alteration+: Les attaques de l'unité sont très efficaces\ncontre les unités volantes lorsqu'elle est\néquipée de Zerberus.
+MSID_Windstorm: Typhon
+MSID_H_Windstorm: Confère Prc/Esq {Variable=0} pour le combat\nlorsque l'unité attaque en premier.
+MSID_CorundumDefense: Corindon
+MSID_H_CorundumDefense: L'unité subit la moitié des dégâts lors du\npremier combat entre unités de la phase\nennemie.
+MSID_AgarthaPower: Technologie d'Agartha
+MSID_H_AgarthaPower: Inflige Atq {Variable=0} aux ennemis adjacents.
+MSID_BowPrincess: Princesse des flèches
+MSID_H_BowPrincess: Confère Prc {Variable=0} lorsque l'unité est équipée\nd'un arc.
+MSID_Ambition: Ambition ducale
+MSID_H_Ambition: Réduit de moitié la Prc ennemie\npour le combat.\nActivation = {Variable=0} %
+MSID_RecklessRush: Course hâtive
+MSID_H_RecklessRush: Confère VA {Variable=0} et Prc {Variable=1} pour le combat\nlorsque l'unité attaque en premier.
+MSID_Calm: Aplomb
+MSID_H_Calm: Confère VA {Variable=0} et Esq {Variable=1} à l'unité\npour le combat lorsque l'ennemi attaque\nen premier.
+MSID_MysticalProtection: Étoile protectrice
+MSID_H_MysticalProtection: Confère Bcl {Variable=0} pour le combat contre\nun ennemi mort-vivant.
+MSID_GodEye: Vision du guerrier
+MSID_H_GodEye: Confère Esq {Variable=1} pour le combat contre\nun ennemi situé à {Variable=0} {SingularPlural0=case|cases} ou plus.
+MSID_GoddessBarrier: Barrière terrestre
+MSID_H_GoddessBarrier: Confère Bcl {Variable=0} et Évit {Variable=1} aux alliés\nadjacents.
+MSID_GodWisdom: Savoir ésotérique
+MSID_H_GodWisdom: Réduit le coût d'utilisation de la magie à 0.\nActivation = {Variable=0} %
+MSID_Supernatural: Forge divine
+MSID_H_Supernatural: Pour le combat, le coût en durabilité\ndes armes tombe à 0 lors de l'utilisation\nd'une capacité. Activation = {Variable=0} %.
+MSID_GodHunting: Flair de chasseresse
+MSID_H_GodHunting: Confère Atq {Variable=0} lorsque l'unité attaque\navec une capacité d'arc.
+MSID_ElephantRun: Ruée pachydermique
+MSID_H_ElephantRun: Cavalerie. Permet à l'unité d'effectuer\n{Variable=0} {SingularPlural0=attaque furieuse|attaques furieuses} lorsqu'elle possède\nla classe de {LowercaseNextLetter}Cavalier cornac.
+MSID_SilverSpirit: Esprit d'argent
+MSID_H_SilverSpirit: Confère Déf {Variable=0} après un combat entre unités\net pour la durée d'une bataille. (Augmentation\ncumulée : {Variable=1} max.) Activation = (Déf) %
+MSID_BrotherCoop: Avancée gémellaire
+MSID_H_BrotherCoop: Confère Prc {Variable=0} à l'unité lorsqu'elle est\nsituée sur une case adjacente à Chiara.
+MSID_SisterCoop: Avancée gémellaire
+MSID_H_SisterCoop: Confère Esq {Variable=0} à l'unité lorsqu'elle est\nsituée sur une case adjacente à Churness.
+MSID_FistStyle: Morsure du python
+MSID_H_FistStyle: Pour le combat, permet à l'unité d'effectuer une double\nfrappe indépendamment de sa VA lorsqu'elle utilise\nune capacité de gantelets. Activation = {Variable=0} %.
+MSID_GetOnOff: Monter/Descendre
+MSID_H_GetOnOff: Permet d'utiliser les ordres Monter et Descendre.
+MSID_Unlock: Crochetage
+MSID_H_Unlock: Permet d'ouvrir les coffres sans clé\nnécessaire.
+MSID_Exploration: Fouilles
+MSID_H_Exploration: Les résultats des fouilles ont un peu plus\nde chances d'être parfaits.
+MSID_AdvancedExploration: Fouilles avancées
+MSID_H_AdvancedExploration: Les résultats des fouilles ont plus de chances\nd'être parfaits.
+MSID_SuperExploration: Fouilles d'élite
+MSID_H_SuperExploration: Les résultats des fouilles ont bien plus\nde chances d'être parfaits.
+MSID_GodExploration: Fouilles suprêmes
+MSID_H_GodExploration: Les résultats des fouilles ont largement plus\nde chances d'être parfaits.
+MSID_BowHit: Précision arc{Variable=0}
+MSID_H_BowHit: Confère Prc {Variable=0} lorsque l'unité est équipée\nd'un arc.
+MSID_AxeHit: Précision hache{Variable=0}
+MSID_H_AxeHit: Confère Prc {Variable=0} lorsque l'unité est équipée\nd'une hache.
+MSID_GauntletAvoid: Esq mêlée{Variable=0}
+MSID_H_GauntletAvoid: Confère Esq {Variable=0} à l'unité lorsqu'elle\nest équipée de gantelets.
+MSID_SwordCritical: Crit épée{Variable=0}
+MSID_H_SwordCritical: Confère Crit {Variable=0} à l'unité lorsqu'elle\nest équipée d'une épée.
+MSID_SecondDefense: Fortification{Variable=0}
+MSID_H_SecondDefense: Pour le combat, confère Prt {Variable=0} à l'unité\nlorsque l'ennemi attaque en premier.
+MSID_CombatEquipment: Capacités{Variable=0}
+MSID_H_CombatEquipment: Confère {Variable=0} au nombre de capacités\nqu'il est possible d'équiper.
+MSID_FlightAvoid: Esq aérienne{Variable=0}
+MSID_H_FlightAvoid: Unité volante. Confère Esq {Variable=0}.
+MSID_MagicRecovery: Soins magiques{Variable=0}
+MSID_H_MagicRecovery: Soigner des alliés avec de la magie leur\nrestaure une quantité de PV {Variable=0}.
+MSID_MagicHit: Précision mag.{Variable=0}
+MSID_H_MagicHit: Confère Prc {Variable=0} lorsque l'unité est équipée\nde magie.
+MSID_BlackMagicQuest: Adepte : magie noire
+MSID_H_BlackMagicQuest: Multiplie par {Variable=0} le nombre d'utilisations\nde magie noire.
+MSID_WhiteMagicQuest: Adepte : magie blanche
+MSID_H_WhiteMagicQuest: Multiplie par {Variable=0} le nombre d'utilisations\nde magie blanche.
+MSID_WhiteMagicEx: Expert : magie blanche
+MSID_AllMagicQuest: Adepte de la magie
+MSID_H_AllMagicQuest: Permet d'utiliser les magies noires et\nblanches {Variable=0} fois plus.
+MSID_AllMagicEx: Expert de la magie
+MSID_GoldenArmor: Armure imperméable
+MSID_H_GoldenArmor: Neutralise l'efficacité contre les unités\ncuirassées.
+MSID_GoldenRun: Monture dorée
+MSID_H_GoldenRun: Neutralise l'efficacité contre les unités\nde cavalerie.
+MSID_MechanicalWing: Ailes militaires
+MSID_H_MechanicalWing: Neutralise l'efficacité contre les unités\nvolantes.
+MSID_TankArmor: Armure de char
+MSID_H_TankArmor: Cavalerie. Confère Bcl {Variable=0}, mais l'unité\nne peut plus esquiver les attaques.
+MSID_ElephantLeg: Bottes éléphantesques
+MSID_H_ElephantLeg: Cavalerie. L'unité subit la moitié des dégâts\ninfligés par les attaques, mais elle ne peut\nplus esquiver.
+MSID_TankRoad: Voie de l'aurige
+MSID_H_TankRoad: La vitesse de progression de l'unité\naugmente avec son niveau.
+MSID_ElephantRoad: Voie du cornac
+MSID_H_ElephantRoad: La vitesse de progression de l'unité\naugmente avec son niveau.
+MSID_Rush_skill: Manœuvres d'aurige
+MSID_H_Rush_skill: Permet d'utiliser les ordres Monter et Descendre.\nCavalerie. Permet d'utiliser l'ordre Collision.
+MSID_HeavyRush_skill: Manœuvres de cornac
+MSID_H_HeavyRush_skill: Permet d'utiliser les ordres Monter et Descendre.\nCavalerie. Permet d'utiliser l'ordre Charge lourde.
+MSID_Dance_skill: Danse
+MSID_H_Dance_skill: Permet d'utiliser la capacité Danse.
+MSID_GauntletHit: Horion{Variable=0}
+MSID_H_GauntletHit: Confère Prc {Variable=0} à l'unité lorsqu'elle\nest équipée de gantelets.
+MSID_BattleBasics: Notions de combat
+MSID_H_BattleBasics: Confère Prc/Esq {Variable=0}.
+MSID_HuntingBasics: Notions de chasse
+MSID_H_HuntingBasics: Confère Tec/Vit {Variable=0}.
+MSID_CombatBasics: Notions d'attaque
+MSID_H_CombatBasics: Confère Frc {Variable=0}.
+MSID_DefenseBasics: Notions de défense
+MSID_H_DefenseBasics: Confère Déf {Variable=0}.
+MSID_MagicBasics: Notions de magie
+MSID_H_MagicBasics: Confère Mag/Rés {Variable=0}.
+MSID_AttackBasics: Notions d'offensive
+MSID_H_AttackBasics: Confère Frc/Mag {Variable=0}.
+MSID_DoWell: Crescendo
+MSID_H_DoWell: Confère Prc {Variable=0} après avoir vaincu un\nennemi et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_ShadowHide: Dissimulation
+MSID_H_ShadowHide: Confère Esq {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la fin du prochain\ncombat de l'unité.
+MSID_Restructuring: Mimétisme
+MSID_H_Restructuring: Confère Esq {Variable=0} à l'unité pour le combat\nlorsque l'ennemi esquive une attaque.
+MSID_HitAway: Attaque agile
+MSID_H_HitAway: Confère Esq {Variable=0} pour le combat lors\nde l'utilisation d'une capacité.
+MSID_ClearSkill: Capacité dévastatrice
+MSID_H_ClearSkill: Inflige {Variable=0} {SingularPlural0=point|points} de dégâts lorsque l'unité\nporte un coup critique.
+MSID_BigCounter: Riposte pugnace
+MSID_H_BigCounter: Pour le combat, confère Atq {Variable=0} à l'unité\nlorsque l'ennemi attaque en premier.
+MSID_Chaser: Algarade
+MSID_H_Chaser: Confère Prt {Variable=0} lors de l'utilisation\nde Collision jusqu'à la prochaine phase\nde l'unité.
+MSID_PhysicalStrength: Renfort vital
+MSID_H_PhysicalStrength: Confère PV max {Variable=0}.
+MSID_Faith: Piété
+MSID_H_Faith: Confère Cha {Variable=0}.
+MSID_TechniqueCurse: Pénalité technique
+MSID_H_TechniqueCurse: Inflige Tec {Variable=0} aux ennemis adjacents.
+MSID_PegasusFavor: Ailes protectrices
+MSID_H_PegasusFavor: Confère Rés {Variable=0}.
+MSID_SensingThreats: Pressentiment
+MSID_H_SensingThreats: Pour le combat, confère Esq {Variable=0} à l'unité\nsi l'ennemi est efficace contre celle-ci.
+MSID_HunterEyes: Œil de chasseur
+MSID_H_HunterEyes: Confère Atq {Variable=0} à l'unité lorsqu'elle\nest équipée d'un arc et effectue\nune double frappe.
+MSID_ShootingMaster: Adresse au tir
+MSID_H_ShootingMaster: Confère Prc {Variable=0} lorsque l'unité est équipée\nd'un arc.
+MSID_CounterShooting: Tir de riposte
+MSID_H_CounterShooting: Permet à l'unité de riposter contre un ennemi\nadjacent pour le combat lorsqu'elle est équipée\nd'un arc. Activation = {Variable=0} %
+MSID_Practitioner: Rustine
+MSID_H_Practitioner: Pour le combat, le coût en durabilité des\narmes tombe à 0 lors de l'utilisation d'une\ncapacité. Activation = {Variable=0} %
+MSID_Proficiency: Capacité maîtrisée
+MSID_H_Proficiency: Confère Prc {Variable=0} lorsque l'unité attaque\navec une capacité.
+MSID_Zanshin: Vigilance accrue
+MSID_H_Zanshin: Restaure quelques PV à l'unité après avoir\nvaincu un ennemi grâce à un coup critique.
+MSID_Tightening: Retranchement
+MSID_H_Tightening: Confère Prt {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la prochaine phase\nde l'unité.
+MSID_FocusingCounter: Riposte concentrée
+MSID_H_FocusingCounter: Pour le combat, confère Prc {Variable=0} à l'unité\nlorsque l'ennemi attaque en premier.
+MSID_LargeShield: Protection
+MSID_H_LargeShield: L'unité subit la moitié des dégâts infligés\npar les attaques physiques.\nActivation = {Variable=0} %
+MSID_HolyShield: Égide
+MSID_H_HolyShield: L'unité subit la moitié des dégâts infligés\npar les attaques magiques.\nActivation = {Variable=0} %
+MSID_ElephantBearer: Choc éléphantesque
+MSID_H_ElephantBearer: Cavalerie. Confère Prc {Variable=0} à l'unité\nlorsqu'elle possède la classe de cavalier\ncornac.
+MSID_SacredBarrier: Barrage
+MSID_H_SacredBarrier: Confère Rés {Variable=0} aux alliés adjacents.
+MSID_SpeedCurse: Ralentissement
+MSID_H_SpeedCurse: Inflige Vit {Variable=0} aux ennemis adjacents.
+MSID_SiegeBreaker: Siège
+MSID_H_SiegeBreaker: Confère Prc {Variable=0} pour le combat lorsque\nl'ennemi se trouve sur un terrain avantageux.
+MSID_RunThrough: Surpassement
+MSID_H_RunThrough: Confère Mvt {Variable=0} après avoir vaincu un\nennemi et jusqu'à la fin du prochain tour.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_SpecialDance: Chorégraphie
+MSID_H_SpecialDance: Lors de l'utilisation de Danse, confère\nTec/Vit {Variable=0} à un allié pour la phase\nen cours.
+MSID_DarkMoon: Lune sombre
+MSID_H_DarkMoon: Réduit de moitié le Bcl ennemi lorsque\nl'unité attaque.\nActivation = {Variable=0} %
+MSID_SteadfastStance: Fermeté
+MSID_H_SteadfastStance: Confère Bcl {Variable=0} à l'unité pour le combat\nlorsqu'elle possède tous ses PV.
+MSID_SoulArmor: Interception
+MSID_H_SoulArmor: Réduit les dégâts subis de {Variable=0} lors\nd'une attaque.
+MSID_FerociousShield: Bouclier féroce
+MSID_H_FerociousShield: Si l'unité attaque en premier, elle subit\nla moitié des dégâts pour le combat.\nActivation = {Variable=0} %
+MSID_ProtectionArmor: Armure bénie
+MSID_H_ProtectionArmor: Restaure quelques PV à l'unité après\nun combat entre unités.
+MSID_MagicControl: Pénalité magique
+MSID_H_MagicControl: Protège l'unité contre les ripostes lorsque\nl'ennemi utilise la magie.\nActivation = {Variable=0} %
+MSID_MagicCurse: Faiblesse
+MSID_H_MagicCurse: Inflige Rés {Variable=0} aux ennemis adjacents.
+MSID_LightningStorm: Réflexes fulgurants
+MSID_H_LightningStorm: Pour le combat, permet à l'unité d'effectuer une double\nfrappe avant la riposte ennemie si elle attaque en premier\net que sa VA ≥ VA ennemie +{Variable=0}.
+MSID_Raid: Embuscade
+MSID_H_Raid: Confère Atq {Variable=0} lorsque l'unité se trouve\nsur un terrain accessible aux unités volantes\nuniquement.
+MSID_MagicEntomb: Magie funèbre
+MSID_H_MagicEntomb: Confère Atq {Variable=0} à l'unité pour le combat\nlorsque l'ennemi et elle utilisent tous deux\nla magie.
+MSID_DivineEye: Œil divin
+MSID_DivineLife: Volonté divine
+MSID_H_DivineLife: Confère Cha {Variable=0}.
+MSID_DivineEquipment: Ornement divin
+MSID_H_DivineEquipment: Confère Rés {Variable=0}.
+MSID_DivineForce: Puissance divine
+MSID_H_DivineForce: Confère Frc {Variable=0}.
+MSID_DivineDance: Danse divine
+MSID_H_DivineDance: Confère Chm {Variable=0}.
+MSID_DivineBattle: Intuition divine
+MSID_H_DivineBattle: Confère Vit {Variable=0}.
+MSID_DivineShield: Mur divin
+MSID_H_DivineShield: Confère Déf {Variable=0}.
+MSID_DivineArmor: Armure divine
+MSID_DivineSkill: Habileté divine
+MSID_H_DivineSkill: Confère Tec {Variable=0}.
+MSID_DivineMagic: Loi divine
+MSID_H_DivineMagic: Confère Mag {Variable=0}.
+MSID_DivineSpeed: Célérité divine
+MSID_SwordSkill: Épée {Variable=0}
+MSID_H_SwordSkill1: Confère Prc {Variable=0} à l'unité lorsqu'elle\nest équipée d'une épée.
+MSID_H_SwordSkill3: Confère Prc/Esq {Variable=0} à l'unité lorsqu'elle\nest équipée d'une épée.
+MSID_SwordMastery: Art de l'épée
+MSID_H_SwordMastery: Confère Prc/Esq {Variable=0} et Atq {Variable=1} à l'unité\nlorsqu'elle est équipée d'une épée.
+MSID_SpearSkill: Lance {Variable=0}
+MSID_H_SpearSkill1: Confère Prc {Variable=0} à l'unité lorsqu'elle\nest équipée d'une lance.
+MSID_H_SpearSkill3: Confère Prc/Esq {Variable=0} à l'unité lorsqu'elle\nest équipée d'une lance.
+MSID_SpearMastery: Art de la lance
+MSID_H_SpearMastery: Confère Prc/Esq {Variable=0} et Atq {Variable=1} à l'unité\nlorsqu'elle est équipée d'une lance.
+MSID_Axeskill: Hache {Variable=0}
+MSID_H_Axeskill1: Confère Prc {Variable=0} à l'unité lorsqu'elle\nest équipée d'une hache.
+MSID_H_Axeskill3: Confère Prc/Esq {Variable=0} à l'unité lorsqu'elle\nest équipée d'une hache.
+MSID_AxeMastery: Art de la hache
+MSID_H_AxeMastery: Confère Prc/Esq {Variable=0} et Atq {Variable=1} à l'unité\nlorsqu'elle est équipée d'une hache.
+MSID_Bowskill: Arc {Variable=0}
+MSID_H_Bowskill1: Confère Prc {Variable=0} à l'unité lorsqu'elle\nest équipée d'un arc.
+MSID_H_Bowskill3: Confère Prc/Esq {Variable=0} à l'unité lorsqu'elle\nest équipée d'un arc.
+MSID_BowMastery: Art de l'arc
+MSID_H_BowMastery: Confère Prc/Esq {Variable=0} et Atq {Variable=1} à l'unité\nlorsqu'elle est équipée d'un arc.
+MSID_GauntletSkill: Mêlée {Variable=0}
+MSID_H_GauntletSkill1: Confère Prc {Variable=0} à l'unité lorsqu'elle est\néquipée de gantelets.
+MSID_H_GauntletSkill3: Confère Prc/Esq {Variable=0} à l'unité lorsqu'elle est\néquipée de gantelets.
+MSID_GauntletMastery: Art de la mêlée
+MSID_H_GauntletMastery: Confère Prc/Esq {Variable=0} et Atq {Variable=1} à l'unité\nlorsqu'elle est équipée de gantelets.
+MSID_BlackMagicSkill: Magie noire {Variable=0}
+MSID_H_BlackMagicSkill1: Confère Prc {Variable=0} à l'unité lorsqu'elle\nest équipée de magie noire.
+MSID_H_BlackMagicSkill3: Confère Prc/Esq {Variable=0} à l'unité lorsqu'elle\nest équipée de magie noire.
+MSID_BlackMagicMastery: Art de la magie noire
+MSID_H_BlackMagicMastery: Confère Prc/Esq {Variable=0} et Atq {Variable=1} à l'unité\nlorsqu'elle est équipée de magie noire.
+MSID_WhiteMagicSkill: Magie blanche {Variable=0}
+MSID_H_WhiteMagicSkill1: Confère Prc {Variable=0} à l'unité lorsqu'elle\nest équipée de magie blanche.
+MSID_H_WhiteMagicSkill3: Confère Prc/Esq {Variable=0} à l'unité lorsqu'elle\nest équipée de magie blanche.
+MSID_WhiteMagicMastery: Art de la mag. blanche
+MSID_H_WhiteMagicMastery: Confère Prc/Esq {Variable=0} et Atq {Variable=1} à l'unité\nlorsqu'elle est équipée de magie blanche.
+MSID_KnightSense: Sens chevaleresques
+MSID_H_KnightSense: Confère Esq {Variable=0} à l'unité pour le combat\nlorsque l'ennemi utilise une lance.
+MSID_KnightVanguard: Avant-garde{Variable=0}
+MSID_H_KnightVanguard: Cavalerie. Confère Bcl {Variable=0} à l'unité pour\nle combat lorsqu'elle attaque en premier.
+MSID_CavalryMove: Monture agile{Variable=0}
+MSID_H_CavalryMove: Cavalerie. Points de mouvement liés au\nterrain {Variable=0}. (Valeur finale : 1 minimum.)
+MSID_ReadingWind: Prise du vent
+MSID_H_ReadingWind: Confère Esq {Variable=0} à l'unité pour le combat\nlorsque l'ennemi utilise un arc.
+MSID_FastFlight: Haut vol{Variable=0}
+MSID_H_FastFlight: Unité volante. Confère VA {Variable=0} pour le\ncombat lorsque l'unité attaque en premier.
+MSID_FlightMove: Combat aérien{Variable=0}
+MSID_H_FlightMove: Unité volante. Confère Prc {Variable=0} pour le\ncombat lorsque l'unité attaque en premier.
+MSID_FrontStrategy: Tactique frontale
+MSID_H_FrontStrategy: Confère Atq {Variable=0} après avoir utilisé\nune tactique et jusqu'à la prochaine\nphase de l'unité.
+MSID_WalkingMove: Itinérance{Variable=0}
+MSID_H_WalkingMove: Infanterie. Points de mouvement liés au\nterrain {Variable=0}. (Valeur finale : 1 minimum.)
+MSID_Physique: Constitution{Variable=0}
+MSID_H_Physique: Confère Cst {Variable=0}.
+MSID_AttackFormation: Formation offensive{Variable=0}
+MSID_H_AttackFormation: Confère Atq {Variable=0} aux alliés adjacents.
+MSID_DefensiveFormation: Formation défensive{Variable=0}
+MSID_H_DefensiveFormation: Confère Bcl {Variable=0} aux alliés adjacents.
+MSID_Diversion: Distraction{Variable=0}
+MSID_H_Diversion: Inflige Prc {Variable=0} aux ennemis adjacents.
+MSID_Restraint: Bride{Variable=0}
+MSID_H_Restraint: Inflige Esq {Variable=0} aux ennemis adjacents.
+MSID_Threat: Réduction{Variable=0}
+MSID_H_Threat: Inflige Crit {Variable=0} aux ennemis adjacents.
+MSID_AntiSniper: Halte aux archers{Variable=0}
+MSID_H_AntiSniper: Inflige Prc/Esq {Variable=1} aux ennemis munis\nd'arcs et situés à {Variable=0} {SingularPlural0=case|cases} maximum.
+MSID_AntiMagic: Halte à la magie{Variable=0}
+MSID_H_AntiMagic: Inflige Prc/Esq {Variable=1} aux ennemis utilisant\nla magie et situés à {Variable=0} {SingularPlural0=case|cases} maximum.
+MSID_AntiCavalry: Halte à la cavalerie{Variable=0}
+MSID_H_AntiCavalry: Inflige Prc/Esq {Variable=1} aux cavaliers ennemis\nsitués à {Variable=0} {SingularPlural0=case|cases} maximum.
+MSID_AntiFlyer: Halte au vol{Variable=0}
+MSID_H_AntiFlyer: Inflige Prc/Esq {Variable=1} aux ennemis volants\nsitués à {Variable=0} {SingularPlural0=case|cases} maximum.
+MSID_StrategyMaster: Maîtrise tactique
+MSID_H_StrategyMaster: Utilisations de tactiques {Variable=0}.
+MSID_MeleeRange: Combat rapproché{Variable=0}
+MSID_H_MeleeRange: Infanterie. Inflige Mvt {Variable=0} aux ennemis\nadjacents.
+MSID_BarelyAvoid: Échappatoire{Variable=0}
+MSID_H_BarelyAvoid: Infanterie. Confère Esq {Variable=1} à l'unité\nlorsqu'elle est attaquée.\nActivation = {Variable=0} %
+MSID_ShootingStability: Tir infaillible{Variable=0}
+MSID_H_ShootingStability: Infanterie. Confère Prc {Variable=0} à l'unité\nlorsqu'elle est équipée d'un arc ou de magie.
+MSID_FatalAvoid: Expédient{Variable=0}
+MSID_H_FatalAvoid: Infanterie. Confère Évit {Variable=0}.
+MSID_PredicamentAvoid: Dérobade
+MSID_H_PredicamentAvoid: Infanterie. Confère Esq {Variable=0} à l'unité\nlorsqu'elle possède la moitié ou moins\nde ses PV.
+MSID_SniperAvoid: Esquive à distance{Variable=0}
+MSID_H_SniperAvoid: Infanterie. Confère Esq {Variable=1} en combat\ncontre des ennemis situés à {Variable=0} {SingularPlural0=case|cases}\nou plus.
+MSID_WalkingRemove: Mobilité d'infanterie
+MSID_H_WalkingRemove: Infanterie. Permet à l'unité de se déplacer\njusqu'à {Variable=0} {SingularPlural0=case|cases} après un combat entre\nunités.
+MSID_Evasion: Évitement{Variable=0}
+MSID_H_Evasion: Infanterie. Confère Esq {Variable=0} à l'unité pour\nle combat lorsque l'ennemi utilise un arc\nou la magie.
+MSID_PassThrough: Passage
+MSID_H_PassThrough: Infanterie. Permet à l'unité de traverser\nune case occupée par un ennemi.
+MSID_TakePosition: Positionnement{Variable=0}
+MSID_H_TakePosition: Infanterie. Confère Esq {Variable=0} pour le combat\nlorsque l'unité se trouve sur un terrain\navantageux.
+MSID_H_TakePosition+: Infanterie. Confère Esq {Variable=0} et Bcl {Variable=1}\npour le combat lorsque l'unité se trouve\nsur un terrain avantageux.
+MSID_SurpriseAttack: Assaut surprise
+MSID_H_SurpriseAttack: Infanterie. Confère Prc {Variable=0} pour le combat\nlorsque l'unité se trouve sur un terrain\navantageux.
+MSID_SuperiorCombat: Avantage offensif
+MSID_H_SuperiorCombat: Infanterie. Confère Atq {Variable=0} pour le combat\nlorsque l'unité se trouve sur un terrain\navantageux.
+MSID_ImmediateDefense: Défense étroite
+MSID_H_ImmediateDefense: Confère Bcl {Variable=1} à l'unité lorsqu'elle\nest attaquée.\nActivation = {Variable=0} %
+MSID_DeadlyDefense: Défense accrue
+MSID_H_DeadlyDefense: L'unité subit la moitié des dégâts infligés\npar un coup critique ennemi.\nActivation = {Variable=0} %
+MSID_ArmorMove: Mobilité cuirassée{Variable=0}
+MSID_H_ArmorMove: Unité cuirassée. Confère Mvt {Variable=0}.
+MSID_ArmorCombat: Combat cuirassé{Variable=0}
+MSID_H_ArmorCombat: Unité cuirassée. Confère Tec {Variable=0}.
+MSID_ContinuousDefense: Défense inflexible
+MSID_H_ContinuousDefense: L'unité subit la moitié des dégâts infligés\npar une double frappe ennemie.\nActivation = {Variable=0} %
+MSID_HeavyBreak: Dégâts massifs{Variable=0}
+MSID_H_HeavyBreak: Unité cuirassée. Multiplie par {Variable=0} les dégâts\ninfligés par l'unité lorsqu'elle attaque.\nActivation = (Déf ÷ 2) %
+MSID_ArmorStep: Saut cuirassé{Variable=0}
+MSID_H_ArmorStep: Unité cuirassée. Confère Esq {Variable=0}.
+MSID_PreventBow: Entrave d'arc
+MSID_H_PreventBow: Unité cuirassée. Confère Bcl {Variable=0} à l'unité\npour le combat lorsque l'ennemi utilise\nun arc.
+MSID_PreventSpear: Entrave de lance
+MSID_H_PreventSpear: Unité cuirassée. Confère Bcl {Variable=0} à l'unité\npour le combat lorsque l'ennemi utilise\nune lance.
+MSID_BowShield: Entrave d'arc +
+MSID_H_BowShield: Unité cuirassée. Confère Bcl {Variable=0} à l'unité\npour le combat lorsque l'ennemi utilise\nun arc.
+MSID_MultipleCounter: Flot de ripostes
+MSID_H_MultipleCounter: Pour le combat, permet à l'unité d'effectuer une\ndouble frappe indépendamment de sa VA lorsque\nl'ennemi attaque en premier. Activation = {Variable=0} %
+MSID_AbsoluteDefense: Protection absolue{Variable=0}
+MSID_H_AbsoluteDefense: Unité cuirassée. Confère Bcl {Variable=1} à l'unité\nlorsqu'elle est attaquée.\nActivation = {Variable=0} %
+MSID_Blocking: Rempart de force
+MSID_H_Blocking: L'unité subit la moitié des dégâts infligés\npar une attaque.\nActivation = (Frc ÷ 2) %
+MSID_SuperGuard: Rempart de défense
+MSID_H_SuperGuard: L'unité subit la moitié des dégâts infligés\npar les attaques.\nActivation = (Déf ÷ 2) %
+MSID_MagicArmor: Rempart de résistance
+MSID_H_MagicArmor: L'unité subit la moitié des dégâts infligés\npar les attaques.\nActivation = (Rés ÷ 2) %
+MSID_TacticalGuard: Rempart de technique
+MSID_H_TacticalGuard: L'unité subit la moitié des dégâts infligés\npar les attaques.\nActivation = (Tec ÷ 2) %
+MSID_LuckyGuard: Rempart de chance
+MSID_H_LuckyGuard: L'unité subit la moitié des dégâts infligés\npar les attaques.\nActivation = (Cha ÷ 2) %
+MSID_HeelArmor: Armure curative
+MSID_H_HeelArmor: Unité cuirassée. Restaure la moitié\ndes dégâts infligés sous forme de PV.\nActivation = (Mag) %
+MSID_MagicResist: Armure robuste{Variable=0}
+MSID_H_MagicResist: Unité cuirassée. Confère Rés {Variable=0}.
+MSID_DarkFlame: Fournaise des Limbes
+MSID_H_DarkFlame: Invoque des flammes sombres.
+MSID_H_B_DarkFlame: Invoque des flammes sombres. Applique\nl'effet de Brasier des Limbes sur les cases\nà portée.
+MSID_DarkWave: Flamme noire
+MSID_H_DarkWave: Invoque des flammes sombres sur une large\nzone.
+MSID_H_B_DarkWave: Invoque des flammes sombres sur une large\nzone. Applique l'effet de Brasier des Limbes\nsur les cases à portée.
+MSID_DarkStar: Incendie des Limbes
+MSID_H_DarkStar: Invoque des flammes sombres qui explosent au\ntoucher. Applique l'effet de Brasier des Limbes\nsur les cases à portée. (Une fois par bataille.)
+MSID_H_E_DarkStar: Invoque des flammes sombres qui explosent\nau toucher. Applique l'effet de Brasier des\nLimbes sur les cases à portée.
+MSID_ShadowBlade: Ombre furtive
+MSID_H_ShadowBlade: Téléporte l'unité jusqu'à {Variable=0} {SingularPlural0=case|cases} et lui\npermet d'attaquer immédiatement.
+MSID_ShadowBind: Ombre paralysante
+MSID_H_ShadowBind: Téléporte l'unité jusqu'à {Variable=0} {SingularPlural0=case|cases} et inflige\nensuite Immobilisation aux ennemis situés\nà {Variable=1} {SingularPlural1=case|cases} max.
+MSID_ShadowDestruction: Ombre néfaste
+MSID_H_ShadowDestruction: Téléporte l'unité jusqu'à 5 cases et inflige\nensuite des dégâts aux ennemis à portée.
+MSID_RoaringRock: Choc sismique
+MSID_H_RoaringRock: Permet à l'unité de fendre la terre pour\neffectuer une attaque à distance.
+MSID_H_B_RoaringRock: Permet à l'unité de fendre la terre pour\neffectuer une attaque à distance qui\nréussit forcément.
+MSID_MightyRock: Assaut tellurique
+MSID_H_MightyRock: Permet à l'unité d'effectuer une attaque\nlongue portée.
+MSID_H_B_MightyRock: Permet à l'unité d'effectuer une attaque\nlongue portée qui réussit forcément.
+MSID_CometRock: Comète éclatante
+MSID_H_CometRock: Permet à l'unité d'effectuer une attaque\nà distance qui transperce les ennemis et\nréussit forcément. (Une fois par bataille.)
+MSID_EnthusiasticSong: Chant de l'ardeur{Variable=0}
+MSID_H_EnthusiasticSong: Confère Frc/Mag {Variable=0} aux alliés à portée\njusqu'à la prochaine phase de l'unité.
+MSID_H_EnthusiasticSong++: Confère Frc/Mag {Variable=0} et Mvt {Variable=1} aux alliés\nà portée jusqu'à la prochaine phase de l'unité.
+MSID_H_EnthusiasticSongHell: Multiplie par {Variable=0} la Frc/Mag des alliés à\nportée jusqu'à la prochaine phase de l'unité.
+MSID_FrozenSong: Chant de la glace{Variable=0}
+MSID_H_FrozenSong: Confère Déf/Rés {Variable=0} aux alliés à portée\njusqu'à la prochaine phase de l'unité.
+MSID_H_FrozenSong++: Restaure des PV aux alliés à portée et leur\nconfère Déf/Rés {Variable=0} jusqu'à la prochaine\nphase de l'unité.
+MSID_H_FrozenSongHell: Multiplie par {Variable=0} la Déf/Rés des alliés à\nportée jusqu'à la prochaine phase de l'unité.
+MSID_H_FrozenSongEnemy: Confère Bcl {Variable=0} aux alliés à portée jusqu'à\nla prochaine phase de l'unité.
+MSID_PurificationSong: Chant d'abjuration
+MSID_H_PurificationSong: Confère l'efficacité contre les morts-vivants\naux alliés à portée jusqu'à la prochaine\nphase de l'unité.
+MSID_FrenzySong: Chant de la folie
+MSID_H_FrenzySong: Inflige Confusion aux ennemis à portée.\n(Une fois par bataille.)
+MSID_H_E_FrenzySong: Inflige Confusion aux ennemis à portée.
+MSID_ResentmentSong: Chant des bêtes
+MSID_H_ResentmentSong: Invoque une bête démoniaque.\n(Une fois par bataille.)
+MSID_H_E_ResentmentSong: Invoque une bête démoniaque.
+MSID_GoddessDance: Chant céleste
+MSID_H_GoddessDance: Permet aux alliés à portée d'agir à nouveau.\n(Une fois par bataille.)
+MSID_CollapseCurse: Fléau léthargique
+MSID_H_CollapseCurse: Inflige Engourdissement aux ennemis pour\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.\n(Engourdissement : divise par 2 la Prc.)
+MSID_SlowingCurse: Fléau apathique
+MSID_H_SlowingCurse: Inflige Lenteur aux ennemis pour\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.\n(Lenteur : divise par 2 la VA.)
+MSID_MisfortuneCurse: Fléau malchanceux
+MSID_H_MisfortuneCurse: Inflige Poisse aux ennemis pour {Variable=0} {SingularPlural0=combat|combats}\nou {Variable=1} {SingularPlural1=tour|tours}.\n(Poisse : divise par 2 la Cha.)
+MSID_AttackCurse: Fléau Frc/Mag
+MSID_H_AttackCurse: Inflige Inversion Frc/Mag aux ennemis pour\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.\n(Inversion Frc/Mag : Frc et Mag échangées.)
+MSID_DefenseCurse: Fléau Déf/Rés
+MSID_H_DefenseCurse: Inflige Inversion Déf/Rés aux ennemis pour\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.\n(Inversion Déf/Rés : Déf et Rés échangées.)
+MSID_PowerAwakening: Éveil régalien
+MSID_H_PowerAwakening: Sa puissance guerrière s'éveille. Confère\nPrc {Variable=0} à l'unité jusqu'à sa prochaine phase\net lui permet d'attaquer immédiatement.
+MSID_H_PowerAwakening+: Confère Prc {Variable=0} et Atq {Variable=1} à l'unité\njusqu'à sa prochaine phase et lui permet\nd'attaquer immédiatement.
+MSID_H_E_PowerAwakening1: Sa puissance guerrière s'éveille.\nConfère Prc {Variable=0} à l'unité jusqu'à\nla fin de son prochain combat.
+MSID_H_E_PowerAwakening2: Sa puissance guerrière s'éveille.\nConfère Prc {Variable=0} et Atq {Variable=1} à l'unité\njusqu'à la fin de son prochain combat.
+MSID_SkillAwakening: Éveil fulgurant
+MSID_H_SkillAwakening: Ses facultés guerrières s'éveillent. Confère\nPrt {Variable=0} à l'unité jusqu'à sa prochaine phase\net lui permet d'attaquer immédiatement.
+MSID_H_E_SkillAwakening1: Ses facultés guerrières s'éveillent.\nConfère Prt {Variable=0} à l'unité jusqu'à\nla fin de son prochain combat.
+MSID_H_E_SkillAwakening2: Ses facultés guerrières s'éveillent.\nConfère Prt {Variable=0} à l'unité jusqu'à\nla fin de son prochain combat.
+MSID_StormAwakening: Éveil tumultueux
+MSID_H_StormAwakening: Ses instincts guerriers s'éveillent. Confère\nEsq {Variable=0} à l'unité jusqu'à sa prochaine phase\net lui permet d'attaquer immédiatement.
+MSID_H_StormAwakening+: Confère Esq/Évit {Variable=0} à l'unité jusqu'à\nsa prochaine phase et lui permet d'attaquer\nimmédiatement.
+MSID_H_E_StormAwakening1: Ses instincts guerriers s'éveillent.\nConfère Esq {Variable=0} à l'unité jusqu'à\nla fin de son prochain combat.
+MSID_H_E_StormAwakening2: Ses instincts guerriers s'éveillent.\nConfère Esq/Évit {Variable=0} à l'unité\njusqu'à la fin de son prochain combat.
+MSID_Elisabeth: Elizabeth
+MSID_H_Elisabeth: Déclenche l'embrasement et permet\nà l'unité d'attaquer immédiatement.\n(Une fois par bataille.)
+MSID_Strahl: Strahl
+MSID_H_Strahl: Invoque un rayon de lumière qui frappe\nles ennemis dans une large zone.
+MSID_Lanze: Lanze
+MSID_H_Lanze: Invoque un rayon de lumière qui transperce\nl'ennemi. Efficace contre les morts-vivants.
+MSID_DragonSurge_1: Dracochoc I
+MSID_DragonSurge_2: Dracochoc II
+MSID_DragonSurge_3: Dracochoc III
+MSID_H_DragonSurge: Projette l'énergie accumulée dans le corps\nsous la forme d'une attaque de zone.\nPeut détruire les obstacles.
+MSID_GlitterDragonSurge: Dracochoc éclatant
+MSID_H_GlitterDragonSurge: Projette l'énergie accumulée dans le corps\nsous la forme d'une attaque de zone.\nPeut détruire les obstacles.
+MSID_RevolveDragonSurge: Giration draconique
+MSID_H_RevolveDragonSurge: Projette une spirale d'énergie capable\nde détruire les obstacles.
+MSID_SevenStarsSurge: Dragon heptastral
+MSID_H_SevenStarsSurge: Projette une onde puissante grâce\nau pouvoir de la technique arcane.\nPeut détruire les obstacles.
+MSID_WhiteCrowSpear_1: Éclair purifiant
+MSID_H_WhiteCrowSpear_1: Transperce les ennemis avec une lance\nde lumière sacrée. Efficace contre les\nmorts-vivants.
+MSID_WhiteCrowSpear_2: Éclair purifiant +
+MSID_H_WhiteCrowSpear_2: Transperce les ennemis avec une lance de\nlumière sacrée. L'attaque réussit forcément.\nEfficace contre les morts-vivants.
+MSID_WhiteCrowSpear_3: Neuf cieux
+MSID_H_WhiteCrowSpear_3: Transperce les ennemis avec une lance de\nlumière sacrée. L'attaque réussit forcément.\nTrès efficace contre les morts-vivants.
+MSID_WhiteCrowSpear_4: Neuf cieux +
+MSID_WhiteCrowSpear_5: Crève-cieux
+MSID_ResistAwakening: Éveil de la raison
+MSID_H_ResistAwakening: Sa puissance guerrière s'éveille. Confère\nRsl {Variable=0} à l'unité jusqu'à sa prochaine phase\net lui permet d'attaquer immédiatement.
+MSID_HardAttack: Assaut furieux{Variable=0}
+MSID_H_HardAttack: Prc élevée.
+MSID_Bisection: Dépeçage{Variable=0}
+MSID_H_Bisection: Taux de coups critiques élevé.
+MSID_DewCutting: Brouillard tranchant{Variable=0}
+MSID_H_DewCutting: Confère Esq {Variable=0} pour le combat.
+MSID_Chopped: Fendoir{Variable=0}
+MSID_H_Chopped: Prc faible. Dmg élevés.
+MSID_SwallowReversal: Anti-aérien{Variable=0}
+MSID_H_SwallowReversal: Efficace contre les unités volantes.
+MSID_TigerSlash: Griffe du tigre{Variable=0}
+MSID_H_TigerSlash: Efficace contre la cavalerie.
+MSID_ArmorPasser: Perce-armure{Variable=0}
+MSID_H_ArmorPasser: Efficace contre les unités cuirassées.
+MSID_SecretSword: Lame fine{Variable=0}
+MSID_H_SecretSword: Inflige {Variable=0} {SingularPlural0=point|points} de dégâts minimum.
+MSID_ShadowHunt: Frappe ombre{Variable=0}
+MSID_H_ShadowHunt: Neutralise les effets du terrain lorsque\nl'ennemi se trouve sur un terrain\navantageux.
+MSID_HittingPeaks: Soumission{Variable=0}
+MSID_H_HittingPeaks: Les PV de l'ennemi tombent à 1 s'ils sont\nsupérieurs ou égaux à 2. Double frappe\nimpossible.
+MSID_Crosswise: Coups croisés{Variable=0}
+MSID_H_Crosswise: Après un combat, confère Tec{Variable=0}\npour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_Destrezza: Destreza{Variable=0}
+MSID_H_Destrezza: Confère Atq {Variable=0} et Crit {Variable=1} à l'unité\nsi l'ennemi possède la moitié ou moins\nde ses PV.
+MSID_RippleSlash: Frappe ondoyante{Variable=0}
+MSID_H_RippleSlash: L'attaque réussit forcément.
+MSID_H_RippleSlash+: L'attaque réussit forcément. La double\nfrappe également lorsqu'elle est possible.
+MSID_BlazingSlash: Coup flamboyant{Variable=0}
+MSID_H_BlazingSlash: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Frc ÷ 2) %
+MSID_GaleSlash: Coup tempétueux{Variable=0}
+MSID_H_GaleSlash: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Vit ÷ 2) %
+MSID_BladeSlash: Coup fulgurant{Variable=0}
+MSID_H_BladeSlash: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Tec ÷ 2) %
+MSID_DoubleSlash: Lames jumelles{Variable=0}
+MSID_H_DoubleSlash: Frappe {Variable=0} fois à {Variable=1} % de dégâts.
+MSID_MagicSlash: Lame maudite{Variable=0}
+MSID_H_MagicSlash: Équivaut à une attaque magique.
+MSID_MistReaper: Tranche-brume{Variable=0}
+MSID_H_MistReaper: Confère Esq {Variable=0} pour le combat.\nConfère Crit {Variable=1} lors d'une double frappe.
+MSID_DarkRays: Rayon obscur{Variable=0}
+MSID_H_DarkRays: Inflige Prc/Esq/Crit {Variable=0} à l'ennemi\npour le combat.
+MSID_WindGnaw: Rafale{Variable=0}
+MSID_H_WindGnaw: Protège l'unité contre les ripostes ennemies\nlorsque son attaque réussit.\nActivation = {Variable=0} %
+MSID_SkySplit: Rupture éthérée{Variable=0}
+MSID_H_SkySplit: Confère VA {Variable=0} pour le combat.
+MSID_HeatHaze: Brume mordante{Variable=0}
+MSID_H_HeatHaze: Confère Esq {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la prochaine phase\nde l'unité.
+MSID_GreatAttack: Coup furieux{Variable=0}
+MSID_H_GreatAttack: Dmg et Prc élevés.
+MSID_SingleSlash: Déchirure{Variable=0}
+MSID_H_SingleSlash: Prc et coût en durabilité faibles, Dmg élevés.
+MSID_BladeSlam: Coup de taille{Variable=0}
+MSID_H_BladeSlam: Fixe le taux de réussite à {Variable=0} %.
+MSID_FatefulSlash: Coup fatidique{Variable=0}
+MSID_H_FatefulSlash: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Cha ÷ 2) %
+MSID_SteppingWind: Estoc tempétueux{Variable=0}
+MSID_H_SteppingWind: Confère VA {Variable=0} pour le combat.\nConfère Atq {Variable=1} lors d'une double frappe.
+MSID_TriceFlash: Éclair cruel{Variable=0}
+MSID_H_TriceFlash: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Tec ÷ 2) %
+MSID_GreatMagicAttack: Lame maudite max{Variable=0}
+MSID_H_GreatMagicAttack: Dmg et Prc élevés. Équivaut à une attaque\nmagique.
+MSID_Ryusei: Stellaire{Variable=0}
+MSID_H_Ryusei: Frappe 5 fois à {Variable=0} % de dégâts.
+MSID_BloodSlash: Saignée{Variable=0}
+MSID_H_BloodSlash: Taux de coups critiques très élevé.\nEfficace contre les dragons.
+MSID_FlameStorm: Tempête de feu
+MSID_H_FlameStorm: Dmg très élevés.
+MSID_KillingSword: Lame mortelle
+MSID_H_KillingSword: Taux de coups critiques élevé.
+MSID_LayeredPoison: Moisson toxique
+MSID_H_LayeredPoison: Restaure la moitié des dégâts infligés\nsous forme de PV lorsque l'ennemi\nest empoisonné.
+MSID_ThunderAttack: Lame de foudre
+MSID_H_ThunderAttack: La lame projette de puissants éclairs.\nÉquivaut à une attaque magique.
+MSID_PoisonFuneral: Poison funeste
+MSID_H_PoisonFuneral: Confère Atq {Variable=0} lorsque l'ennemi\nest empoisonné.
+MSID_DesperateFlower: Élagage
+MSID_H_DesperateFlower: Le coût en durabilité tombe à 0 pour\nl'attaque. Activation = (Tec) %
+MSID_MoonDestruction: Brise-lune
+MSID_H_MoonDestruction: Prc/Crit très élevés.
+MSID_DarkWind: Vent toxique
+MSID_H_DarkWind: Empoisonne l'ennemi lorsque l'attaque\nde l'unité réussit. Équivaut à une attaque\nmagique. Double frappe impossible.
+MSID_LuckSteal: Destin forcé
+MSID_H_LuckSteal: Confère Cha {Variable=0} à l'unité après avoir vaincu\nun ennemi et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_WindSpear: Tourbillon{Variable=0}
+MSID_H_WindSpear: Prc élevée.
+MSID_GaleSpear: Lance tempétueuse{Variable=0}
+MSID_H_GaleSpear: Taux de coups critiques élevé.
+MSID_FlowSpear: Lance virevoltante{Variable=0}
+MSID_H_FlowSpear: Confère Esq {Variable=0} pour le combat.
+MSID_GuardianSpear: Lance de défense{Variable=0}
+MSID_H_GuardianSpear: Confère Bcl {Variable=0} pour le combat.
+MSID_ConcentratedThrow: Lancer précis{Variable=0}
+MSID_H_ConcentratedThrow: Prc élevée.\n(Seulement pour lances avec Por 1 ou 2.)
+MSID_KongoStrike: Coup blindé{Variable=0}
+MSID_H_KongoStrike: Confère Prt {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la prochaine phase\nde l'unité. Double frappe impossible.
+MSID_Stinger: Dard{Variable=0}
+MSID_H_Stinger: Prc faible. Dmg élevés.
+MSID_HolyThrust: Lance sacrée{Variable=0}
+MSID_H_HolyThrust: Restaure quelques PV à l'unité après\nun combat entre unités.
+MSID_H_HolyThrust+: Restaure des PV à l'unité après un combat\nentre unités.
+MSID_DoubleThrow: Double lancer{Variable=0}
+MSID_H_DoubleThrow: Frappe {Variable=0} fois.\n(Seulement pour lances avec Por 1 ou 2.)
+MSID_Pushing: Heurt{Variable=0}
+MSID_H_Pushing: Dmg assez élevés.
+MSID_FlyingSpear: Lance volante{Variable=0}
+MSID_H_FlyingSpear: Permet à l'unité d'effectuer une double\nfrappe avant la riposte ennemie.
+MSID_H_FlyingSpear+: Permet à l'unité d'effectuer une double\nfrappe avant la riposte ennemie.\nConfère Crit {Variable=0} lors d'une double frappe.
+MSID_SwordBreaker: Casse-épée{Variable=0}
+MSID_H_SwordBreaker: Confère Atq {Variable=0} lorsque l'ennemi utilise\nune épée.
+MSID_H_SwordBreaker+: Confère Atq {Variable=0} et Prc {Variable=1} lorsque\nl'ennemi utilise une épée.
+MSID_BrilliantStrike: Coup lumineux{Variable=0}
+MSID_H_BrilliantStrike: Confère Rsl {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la prochaine phase\nde l'unité.
+MSID_FastThrust: Cahot{Variable=0}
+MSID_H_FastThrust: Confère VA {Variable=0} pour le combat.
+MSID_GuardianWind: Tempête protectrice{Variable=0}
+MSID_H_GuardianWind: Confère Prt {Variable=0} pour le combat.
+MSID_BreakRush: Peltaste{Variable=0}
+MSID_H_BreakRush: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Frc ÷ 2) %
+MSID_Hamshin: Khamsin{Variable=0}
+MSID_H_Hamshin: Réduit la Prc de l'ennemi à 0 pour le combat\nsi sa Prc est inférieure ou égale à {Variable=0}.
+MSID_DefenceThrust: Lance volatile{Variable=0}
+MSID_H_DefenceThrust: Confère Évit {Variable=0} pour le combat.
+MSID_WindIceSpear: Coup de lance glacée{Variable=0}
+MSID_H_WindIceSpear: Équivaut à une attaque magique.\n(Seulement pour lances avec Por 1 ou 2.)
+MSID_Rollover: Coup pivotant{Variable=0}
+MSID_H_Rollover: L'ennemi attaque en premier.
+MSID_H_Rollover+: L'ennemi attaque en premier.\nConfère Bcl {Variable=0} pour le combat.
+MSID_IceSpear: Lance glacée{Variable=0}
+MSID_H_IceSpear: Équivaut à une attaque magique.
+MSID_FlowingAttack: Coup gracieux{Variable=0}
+MSID_H_FlowingAttack: Le coût en durabilité des armes tombe à 0\npour l'attaque.\nActivation = (Tec ÷ 2) %
+MSID_StrongThrow: Jet puissant{Variable=0}
+MSID_H_StrongThrow: Dmg et Prc élevés.\n(Seulement pour lances avec Por 1 ou 2.)
+MSID_CavalryBury: Désarçonnement{Variable=0}
+MSID_H_CavalryBury: Frappe {Variable=0} fois à {Variable=2} % de dégâts.\nConfère Prc {Variable=1} si l'ennemi possède\nune classe de cavalerie.
+MSID_Tempest: Tourmente brutale{Variable=0}
+MSID_H_Tempest: Dmg et Prc élevés.
+MSID_NoDust: Épuration
+MSID_H_NoDust: Efficace contre les bêtes et les dragons.
+MSID_Sun: Solaire
+MSID_H_Sun: Restaure des PV à hauteur de la moitié\ndes dégâts infligés.
+MSID_SpearStarlight: Étoile aveuglante
+MSID_H_SpearStarlight: Efficace contre les morts-vivants.\nÉquivaut à une attaque magique.\nDouble frappe impossible.
+MSID_HolyAttack: Frappe sacrée
+MSID_H_HolyAttack: Restaure des PV à l'unité après avoir vaincu\nun ennemi.
+MSID_WindBlowing: Tisse-vent
+MSID_H_WindBlowing: Protège l'unité contre les ripostes ennemies\nlorsque son attaque réussit.\nActivation = {Variable=0} %
+MSID_KillingSpear: Lance mortelle
+MSID_H_KillingSpear: Taux de coups critiques élevé.
+MSID_PowerThrow: Jet brutal
+MSID_H_PowerThrow: Prc faible. Dmg très élevés.
+MSID_FullMoon: Pleine lune
+MSID_H_FullMoon: Restaure des PV à l'unité après un combat\nentre unités.
+MSID_BlackRoar: Explosion noire
+MSID_H_BlackRoar: Confère Prt {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la prochaine phase\nde l'unité.
+MSID_CavalryBreak: Fléau des cavaliers
+MSID_H_CavalryBreak: Confère Atq {Variable=0} à l'unité lorsque l'ennemi\npossède une classe de cavalerie.
+MSID_OverlordSnake: Serpent suprême
+MSID_H_OverlordSnake: Longue portée. Double frappe impossible.
+MSID_Spike: Fente{Variable=0}
+MSID_H_Spike: Prc élevée.
+MSID_Smash: Écrasement{Variable=0}
+MSID_H_Smash: Taux de coups critiques élevé.
+MSID_HalfSpike: Demi-fente{Variable=0}
+MSID_H_HalfSpike: Confère Esq {Variable=0} pour le combat.
+MSID_HelmetSplit: Brise-casque{Variable=0}
+MSID_H_HelmetSplit: Efficace contre les unités cuirassées.
+MSID_ThrowAttack: Jet de hache{Variable=0}
+MSID_H_ThrowAttack: Prc élevée.\n(Seulement pour haches avec Por 1 ou 2.)
+MSID_SafeAttack: Attaque prudente{Variable=0}
+MSID_H_SafeAttack: Empêche l'ennemi de riposter lorsque\ncelui-ci évite une attaque. Inflige la moitié\ndes dégâts. Double frappe impossible.
+MSID_DoubleAttack: Double attaque{Variable=0}
+MSID_H_DoubleAttack: Frappe {Variable=0} fois à {Variable=1} % de dégâts.
+MSID_RageUp: Ire{Variable=0}
+MSID_H_RageUp: Confère Frc {Variable=0} après un combat entre\nunités et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_ThrowingMagicAxe: Lancer magique{Variable=0}
+MSID_H_ThrowingMagicAxe: Équivaut à une attaque magique.\n(Seulement pour haches avec Por 1 ou 2.)
+MSID_ReversalAttack: Danse miroir{Variable=0}
+MSID_H_ReversalAttack: Permet à l'unité d'effectuer une double\nfrappe à la place de l'ennemi si celui-ci\nen avait la possibilité.
+MSID_CrazyAttack: Furie{Variable=0}
+MSID_H_CrazyAttack: Prc faible. Dmg élevés.
+MSID_WildFang: Lame de guerre{Variable=0}
+MSID_H_WildFang: Confère Tec {Variable=0} après un combat entre\nunités et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_SpearBreaker: Brise-pique{Variable=0}
+MSID_H_SpearBreaker: Confère Atq {Variable=0} lorsque l'ennemi utilise\nune lance.
+MSID_H_SpearBreaker+: Confère Atq {Variable=0} et Prc {Variable=1} lorsque\nl'ennemi utilise une lance.
+MSID_Crash: Étourdissement{Variable=0}
+MSID_H_Crash: Inflige Confusion à l'ennemi lorsque\nl'attaque réussit. Double frappe impossible.\nActivation = {Variable=0} %
+MSID_AscertainAttack: Coup mesuré{Variable=0}
+MSID_H_AscertainAttack: Prc très élevée. Inflige la moitié des dégâts.
+MSID_GuardSpike: Fente gardée{Variable=0}
+MSID_H_GuardSpike: Confère Prt {Variable=0} pour le combat.
+MSID_LightningAx: Hache foudroyante{Variable=0}
+MSID_H_LightningAx: Équivaut à une attaque magique.
+MSID_RiotAttack: Cohue{Variable=0}
+MSID_H_RiotAttack: Confère Atq {Variable=0} lors d'une double frappe.
+MSID_GiantKiller: Tueur de géant{Variable=0}
+MSID_H_GiantKiller: Confère Atq {Variable=0} contre les ennemis\nde grande taille.
+MSID_H_GiantKiller+: Confère Atq {Variable=0} et Prc {Variable=1} contre\nles ennemis de grande taille.
+MSID_TripleSpike: Triple fente{Variable=0}
+MSID_H_TripleSpike: Frappe {Variable=0} fois. Confère Prc {Variable=1} à l'unité\nlorsque l'ennemi esquive une attaque.
+MSID_H_TripleSpike+: Frappe {Variable=0} fois. Confère Prc/Crit {Variable=1} à\nl'unité lorsque l'ennemi esquive une attaque.
+MSID_KillerSpike: Fente létale{Variable=0}
+MSID_H_KillerSpike: Dmg/Crit élevés.
+MSID_PowerSpike: Fente puissante{Variable=0}
+MSID_H_PowerSpike: Dmg et Prc élevés.
+MSID_TomahawkThrow: Lancer puissant{Variable=0}
+MSID_H_TomahawkThrow: Dmg et Prc élevés.\n(Seulement pour haches avec Por 1 ou 2.)
+MSID_DoubleEagle: Double choc{Variable=0}
+MSID_H_DoubleEagle: Frappe {Variable=0} fois à {Variable=1} % de dégâts.\n(Seulement pour haches avec Por 1 ou 2.)
+MSID_MirrorWater: Concentr. absolue{Variable=0}
+MSID_H_MirrorWater: Prc très élevée.
+MSID_MargeBlake: Tueur de mages{Variable=0}
+MSID_H_MargeBlake: Confère Atq {Variable=0} lorsque l'ennemi utilise\nla magie.
+MSID_H_MargeBlake+: Confère Atq {Variable=0} et Prc {Variable=1} lorsque\nl'ennemi utilise la magie.
+MSID_FlashAttack: Coup instantané{Variable=0}
+MSID_H_FlashAttack: Confère Atq {Variable=0} pour l'attaque et\nlors d'une double frappe.\nActivation = (Vit ÷ 2) %
+MSID_BloodyBlitz: Bain de sang{Variable=0}
+MSID_H_BloodyBlitz: Confère Bcl {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la fin du prochain\ncombat de l'unité.
+MSID_WarDemon: Frappe maîtresse{Variable=0}
+MSID_H_WarDemon: Multiplie par {Variable=0} les dégâts infligés.
+MSID_GodAttack: Assaut divin
+MSID_H_GodAttack: Dmg très élevés.
+MSID_FireRing: Cercle de feu
+MSID_H_FireRing: Imprègne la première attaque de magie.\nDmg élevés. Équivaut à une attaque\nmagique.
+MSID_Hazetsu: Domination{Variable=0}
+MSID_H_Hazetsu: Neutralise l'effet de Faveur des Limbes\nsur l'ennemi pour l'attaque.
+MSID_HellViscera: Viscères des Limbes
+MSID_H_HellViscera: Imprègne la première attaque de magie.\nEmpoisonne l'ennemi si l'attaque de l'unité\nréussit. Équivaut à une attaque magique.
+MSID_CrushingAttack: Pulvérisation
+MSID_H_CrushingAttack: Permet de détruire les obstacles.
+MSID_StormWalk: Foulée tempétueuse
+MSID_H_StormWalk: Confère VA {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la prochaine phase\nde l'unité.
+MSID_DemonSplit: Tranche-mage
+MSID_H_DemonSplit: Confère Prc {Variable=0} et Atq {Variable=1} lorsque\nl'ennemi utilise la magie.
+MSID_SpinTurn: Rotation
+MSID_H_SpinTurn: Prc très élevée.
+MSID_MagicStrike: Assaut magique
+MSID_H_MagicStrike: Imprègne la première attaque de magie.\nÉquivaut à une attaque magique.
+MSID_CriticalShot: Tir fatal{Variable=0}
+MSID_H_CriticalShot: Taux de coups critiques élevé.
+MSID_CurvedShot: Tir travaillé{Variable=0}
+MSID_H_CurvedShot: Prc élevée.
+MSID_Sniper: Œil d'aigle{Variable=0}
+MSID_H_Sniper: Longue portée. Double frappe impossible.
+MSID_EnclosureArrow: Empêtrement{Variable=0}
+MSID_H_EnclosureArrow: Inflige Mvt {Variable=0} à l'ennemi lorsque l'attaque\nde l'unité réussit et jusqu'à la prochaine\nphase de l'unité.
+MSID_SurpriseArrow: Flèche surprise{Variable=0}
+MSID_H_SurpriseArrow: Confère Atq {Variable=1} à l'unité lorsque l'ennemi\npossède tous ses PV.\nActivation = {Variable=0} %
+MSID_BreakawayShot: Tir d'évasion{Variable=0}
+MSID_H_BreakawayShot: Permet à l'unité de se déplacer d'une case\naprès un combat entre unités.
+MSID_SealArrow: Tir anti-magie{Variable=0}
+MSID_H_SealArrow: Inflige Silence à l'ennemi lorsque l'attaque\nde l'unité réussit.
+MSID_LeadArrow: Flèche de plomb{Variable=0}
+MSID_H_LeadArrow: Efficace contre les unités cuirassées.
+MSID_H_LeadArrow+: Efficace contre les unités cuirassées.\nConfère Crit {Variable=0} à l'unité contre\nles cuirassés.
+MSID_SnipeShot: Tir de précision{Variable=0}
+MSID_H_SnipeShot: Confère Atq {Variable=0} et Prc {Variable=1} lorsque\nl'ennemi possède la moitié ou moins\nde ses PV.
+MSID_LegShot: Tir bas{Variable=0}
+MSID_H_LegShot: Inflige Esq {Variable=0} à l'ennemi jusqu'à la fin\nde son prochain combat lorsque l'attaque\nde l'unité réussit. Double frappe impossible.
+MSID_ShadowShot: Flèche d'ombre{Variable=0}
+MSID_H_ShadowShot: Confère Esq {Variable=0} pour le combat.
+MSID_GreatShot: Flèche lourde max{Variable=0}
+MSID_H_GreatShot: Dmg et Prc élevés.
+MSID_MagicalShot: Flèche magique{Variable=0}
+MSID_H_MagicalShot: Équivaut à une attaque magique.
+MSID_SpiralShot: Tir torsadé{Variable=0}
+MSID_H_SpiralShot: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Tec ÷ 2) %
+MSID_PowerShot: Tir en force{Variable=0}
+MSID_H_PowerShot: Prc faible. Dmg très élevés.
+MSID_MarksmanShot: Tir embusqué{Variable=0}
+MSID_H_MarksmanShot: Confère Atq {Variable=0} et Prc/Crit {Variable=1} lorsque\nl'unité se trouve sur un terrain avantageux.
+MSID_SpiritArrow: Arc spirituel{Variable=0}
+MSID_H_SpiritArrow: Confère Rsl {Variable=0} pour le combat.
+MSID_BreakArrow: Flèche délétère{Variable=0}
+MSID_H_BreakArrow: Confère Atq {Variable=1} pour l'attaque.\nActivation = {Variable=0} %
+MSID_RandomShot: Coup du sort{Variable=0}
+MSID_H_RandomShot: Frappe {Variable=0} fois à {Variable=1} % de dégâts.
+MSID_ElegantShot: Tir multiple{Variable=0}
+MSID_H_ElegantShot: Frappe {Variable=0} fois à {Variable=1} % de dégâts.
+MSID_BowKillerShot: Flèche anti-arc{Variable=0}
+MSID_H_BowKillerShot: Frappe {Variable=0} fois à {Variable=1} % de dégâts\nlorsque l'ennemi utilise un arc.
+MSID_SkyHunter: Chasse aérienne{Variable=0}
+MSID_H_SkyHunter: Confère Prc {Variable=0} contre les ennemis\nvolants.
+MSID_CalmCall: Calme intérieur{Variable=0}
+MSID_H_CalmCall: Confère Esq {Variable=0} après avoir vaincu\nun ennemi et jusqu'à la fin du prochain\ncombat de l'unité.
+MSID_PoisonHunter: Don vénéneux
+MSID_H_PoisonHunter: Confère Atq {Variable=0} et Prc {Variable=1} à l'unité\nlorsque l'ennemi est empoisonné.
+MSID_HeavenlyWind: Vent divin
+MSID_H_HeavenlyWind: Très longue portée. Double frappe\nimpossible.
+MSID_HolyFlash: Éclair sacré
+MSID_H_HolyFlash: Restaure des PV à l'unité après avoir\nvaincu un ennemi.
+MSID_HunterCross: Colère du chasseur{Variable=0}
+MSID_H_HunterCross: Prc/Crit élevés.
+MSID_CalamityShot: Désastre
+MSID_H_CalamityShot: Inflige Silence et Immobilisation à l'ennemi\nlorsque l'attaque de l'unité réussit.\nDouble frappe impossible.
+MSID_ThunderStar: Étoile de foudre
+MSID_H_ThunderStar: Taux de coups critiques élevé.\nÉquivaut à une attaque magique.
+MSID_DrillShot: Taraudage
+MSID_H_DrillShot: Ignore le Bcl ennemi. Double frappe\nimpossible.
+MSID_FistBlow: Beigne{Variable=0}
+MSID_H_FistBlow: Prc élevée.
+MSID_SmashCombo: Poing mortel{Variable=0}
+MSID_H_SmashCombo: Taux de coups critiques élevé.
+MSID_MagicCut: Magie entravée{Variable=0}
+MSID_H_MagicCut: Confère Rsl {Variable=0} pour le combat.
+MSID_Tyman: Un-contre-un{Variable=0}
+MSID_H_Tyman: Inflige Immobilisation à l'ennemi lorsque\nl'attaque de l'unité réussit.
+MSID_FeintBlow: Fiel{Variable=0}
+MSID_H_FeintBlow: Inflige Esq {Variable=0} à l'ennemi jusqu'à la fin\nde son prochain combat.
+MSID_BeatUp: Emportement{Variable=0}
+MSID_H_BeatUp: Confère Vit {Variable=0} après un combat entre\nunités et pour la durée d'une bataille.\n(Augmentation cumulée : {Variable=1} max.)
+MSID_BackBlow: Frappe fuyante{Variable=0}
+MSID_H_BackBlow: Permet à l'unité de se déplacer de {Variable=0}\n{SingularPlural0=case|cases} après un combat entre unités.
+MSID_BackAssault: Assaut fuyant{Variable=0}
+MSID_H_BackAssault: Permet à l'unité de se déplacer de {Variable=0}\n{SingularPlural0=case|cases} après un combat entre unités.
+MSID_LivingFist: Poing magnanime{Variable=0}
+MSID_H_LivingFist: Réduit les PV de l'ennemi à {Variable=1} lorsqu'ils\nsont supérieurs ou égaux à {Variable=0}.\nDouble frappe impossible.
+MSID_JackHit: Coup renforcé{Variable=0}
+MSID_H_JackHit: Confère Atq {Variable=1} pour l'attaque.\nActivation = {Variable=0} %
+MSID_AssassinFist: Poing assassin{Variable=0}
+MSID_H_AssassinFist: Inflige {Variable=0} {SingularPlural0=point|points} de dégâts minimum.
+MSID_ArmorBreaker: Broie-armures{Variable=0}
+MSID_H_ArmorBreaker: Efficace contre les unités cuirassées.
+MSID_H_ArmorBreaker+: Efficace contre les unités cuirassées.\nConfère Crit {Variable=0} à l'unité contre\nles cuirassés.
+MSID_MagicCombo: Rafales magiques{Variable=0}
+MSID_H_MagicCombo: Frappe {Variable=0} fois à {Variable=1} % de dégâts.\nÉquivaut à une attaque magique.
+MSID_CrashCombo: Assommage{Variable=0}
+MSID_H_CrashCombo: Inflige Confusion à l'ennemi lorsque l'attaque\nde l'unité réussit. Double frappe impossible.\nActivation = {Variable=0} %
+MSID_PowerCombo: Rafales puissantes{Variable=0}
+MSID_H_PowerCombo: Frappe {Variable=0} fois. Divise par deux la Prc\nde l'unité.
+MSID_CounterBlow: Double impact{Variable=0}
+MSID_H_CounterBlow: L'ennemi attaque en premier.\nConfère Esq {Variable=0} pour le combat.
+MSID_BattleRush: Vivacité{Variable=0}
+MSID_H_BattleRush: Permet à l'unité d'effectuer une double\nfrappe avant la riposte ennemie.
+MSID_RazorFist: Poing gratuit{Variable=0}
+MSID_H_RazorFist: Le coût en durabilité des armes tombe à\n0 lorsque l'unité effectue un coup critique.
+MSID_SpiritFist: Poing spirituel{Variable=0}
+MSID_H_SpiritFist: Confère Atq {Variable=0} pour l'attaque.\nActivation = (Rés ÷ 2) %
+MSID_MindBlow: Coup clairvoyant{Variable=0}
+MSID_H_MindBlow: Prc très élevée.
+MSID_SpiritBlow: Choc spirituel{Variable=0}
+MSID_H_SpiritBlow: Dmg et Prc élevés.
+MSID_RevivalAttack: Rémission{Variable=0}
+MSID_H_RevivalAttack: Restaure beaucoup de PV à l'unité après\navoir vaincu un ennemi.
+MSID_GauntletTron: Gantelets de Thoron
+MSID_H_GauntletTron: Équivaut à une attaque magique.
+MSID_BlowHeel: Coup et cure{Variable=0}
+MSID_H_BlowHeel: Permet à l'unité d'utiliser la magie\nde support après un combat entre unités.
+MSID_KillingBeat: Gantelets mortels
+MSID_H_KillingBeat: Taux de coups critiques élevé.
+MSID_FlameDrill: Vrille de feu
+MSID_H_FlameDrill: Multiplie par {Variable=0} les dégâts infligés.
+MSID_FantasyRapid: Mirage
+MSID_H_FantasyRapid: Confère Esq {Variable=0} à l'unité et inflige\nEsq {Variable=1} à l'ennemi pour le combat.
+MSID_ViolentClaw: Griffe violente
+MSID_H_ViolentClaw: Frappe {Variable=0} fois à {Variable=1} % de dégâts.
+MSID_FlameRing: Roue enflammée
+MSID_H_FlameRing: Permet à l'unité d'effectuer une double\nfrappe avant la riposte ennemie.\nÉquivaut à une attaque magique.
+MSID_CompressedBullet: Rayon concentré
+MSID_H_CompressedBullet: Équivaut à une attaque magique.
+MSID_ShadowSlash: Lame de l'ombre{Variable=0}
+MSID_H_ShadowSlash: Neutralise les effets du terrain lorsque\nl'ennemi se trouve sur un terrain\navantageux.
+MSID_KnightSpear: Lance enragée{Variable=0}
+MSID_H_KnightSpear: Protège l'unité contre les doubles frappes\nennemies pour le combat.
+MSID_MagicTwinAxe: Tourbillon infernal{Variable=0}
+MSID_H_MagicTwinAxe: Permet à l'unité d'effectuer une double\nfrappe indépendamment de sa VA.\nActivation = (Mag ÷ 2) %
+MSID_WarningShot: Tir de semonce{Variable=0}
+MSID_H_WarningShot: Confère Esq {Variable=0} pour le combat.
+MSID_CautionBlow: Coup prudent{Variable=0}
+MSID_H_CautionBlow: Confère Esq {Variable=0} pour le combat.
+MSID_BattleBlow: Coup batailleur{Variable=0}
+MSID_H_BattleBlow: Confère Atq {Variable=0} à l'unité lorsqu'elle\npossède tous ses PV.
+MSID_MagicBlow: Souffle mystique{Variable=0}
+MSID_H_MagicBlow: Équivaut à une attaque magique.
+MSID_ClearMind: Clarté
+MSID_H_ClearMind: Confère Inversion Déf/Rés à l'unité pour\n1 combat ou 1 tour.\n(Inversion Déf/Rés : Déf et Rés échangées.)
+MSID_IncenseBurner: Encensoir
+MSID_Replacement: Inversion
+MSID_H_Replacement: Infanterie. Permute l'unité et un allié\nadjacent. (Inutilisable sur les alliés de\ngrande taille.)
+MSID_Attract: Repli
+MSID_H_Attract: Infanterie. Fait reculer l'unité et un allié\nadjacent de {Variable=0} {SingularPlural0=case|cases}. (Inutilisable sur\nles alliés de grande taille.)
+MSID_BodyAttack: Bousculade
+MSID_H_BodyAttack: Infanterie. Fait avancer un allié adjacent\nde {Variable=0} {SingularPlural0=case|cases}. (Inutilisable sur les alliés\nde grande taille.)
+MSID_Guard: Posture défensive
+MSID_H_Guard: Infanterie. Confère Déf {Variable=0} mais Esq {Variable=1}\nà l'unité jusqu'à sa prochaine phase.
+MSID_MagicGuard: Posture protectrice
+MSID_H_MagicGuard: Infanterie. Confère Rés {Variable=0} mais Esq {Variable=1}\nà l'unité jusqu'à sa prochaine phase.
+MSID_OffensiveCommand: Force accordée{Variable=0}
+MSID_H_OffensiveCommand: Confère Frc {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité.
+MSID_H_OffensiveCommand+: Confère Frc {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité. Permet\nensuite à l'unité d'attaquer.
+MSID_DefenseCommand: Défense accordée{Variable=0}
+MSID_H_DefenseCommand: Confère Déf {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité.
+MSID_H_DefenseCommand+: Confère Déf {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité. Permet\nensuite à l'unité d'attaquer.
+MSID_MagicCommand: Magie accordée{Variable=0}
+MSID_H_MagicCommand: Confère Mag/Rés {Variable=0} à un allié\njusqu'à la prochaine phase de l'unité.
+MSID_H_MagicCommand+: Confère Mag/Rés {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité. Permet\nensuite à l'unité d'attaquer.
+MSID_SpeedCommand: Vitesse accordée{Variable=0}
+MSID_H_SpeedCommand: Confère Vit {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité.
+MSID_H_SpeedCommand+: Confère Vit {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité. Permet\nensuite à l'unité d'attaquer.
+MSID_DestinyCommand: Chance accordée{Variable=0}
+MSID_H_DestinyCommand: Confère Cha {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité.
+MSID_H_DestinyCommand+: Confère Cha {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité. Permet\nensuite à l'unité d'attaquer.
+MSID_TechnicalCommand: Technique accordée{Variable=0}
+MSID_H_TechnicalCommand: Confère Tec {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité.
+MSID_H_TechnicalCommand+: Confère Tec {Variable=0} à un allié jusqu'à\nla prochaine phase de l'unité. Permet\nensuite à l'unité d'attaquer.
+MSID_Dance: Danse
+MSID_H_Dance: Permet à un allié d'agir à nouveau.
+MSID_Trick: Pirouette
+MSID_H_Trick: Permute l'unité et un allié à portée.\n(Inutilisable sur les alliés de grande taille.)
+MSID_BlowAway: Propulsion
+MSID_H_BlowAway: Infanterie. Fait avancer un allié adjacent\nde {Variable=0} {SingularPlural0=case|cases}. (Inutilisable sur les alliés\nde grande taille.)
+MSID_CourageSong: Chant stimulant
+MSID_H_CourageSong: Confère Tec/Vit {Variable=0} aux alliés à portée\njusqu'à la prochaine phase de l'unité.
+MSID_ProtectionSong: Chant consolant
+MSID_H_ProtectionSong: Confère Rés {Variable=0} aux alliés à portée\njusqu'à la prochaine phase de l'unité.
+MSID_EmotionalSong: Chant incitatif
+MSID_H_EmotionalSong: Confère Frc {Variable=0} aux alliés à portée\njusqu'à la prochaine phase de l'unité.
+MSID_FirstAidFormation: Posture curative
+MSID_H_FirstAidFormation: Étend l'effet de Premiers soins à {Variable=0} {SingularPlural0=case|cases}\njusqu'à la prochaine phase de l'unité.
+MSID_KnightFormation: Leçon : Garde
+MSID_H_KnightFormation: Applique l'effet de Gardien à un allié\njusqu'à la prochaine phase de l'unité.
+MSID_ArmorFuneralFormation: Leçon : Requiem
+MSID_H_ArmorFuneralFormation: Applique l'effet de Requiem à un allié\njusqu'à la prochaine phase de l'unité.
+MSID_BackupFormation: Posture d'aide
+MSID_H_BackupFormation: Étend l'effet d'Assistance vaillante à {Variable=0}\n{SingularPlural0=case|cases} jusqu'à la prochaine phase de l'unité.
+MSID_FirstMoveFormation: Ordre : Coup éclair
+MSID_H_FirstMoveFormation: Applique l'effet de Coup éclair aux alliés\nà portée pour la phase en cours.
+MSID_OneShotFormation: Leçon : Aubaine
+MSID_H_OneShotFormation: Applique l'effet d'Aubaine à un allié\njusqu'à la prochaine phase de l'unité.
+MSID_TransgressionFormation: Leçon : Chaos
+MSID_H_TransgressionFormation: Applique l'effet de Chaos monacal à un allié\njusqu'à la prochaine phase de l'unité.
+MSID_ForceForwardFormation: Ordre : Irruption
+MSID_H_ForceForwardFormation: Applique l'effet d'Irruption aux alliés\nà portée pour la phase en cours.
+MSID_CounterFormation: Ordre : Riposte
+MSID_H_CounterFormation: Applique l'effet de Riposte experte aux alliés\nà portée jusqu'à la prochaine phase de l'unité.
+MSID_BodyguardFormation: Ordre : Bienfaiteur
+MSID_H_BodyguardFormation: Étend l'effet de Bienfaiteur à {Variable=0} {SingularPlural0=case|cases}\njusqu'à la prochaine phase de l'unité.
+MSID_ConcentratFormation: Ordre : Concentr.
+MSID_H_ConcentratFormation: Applique l'effet de Concentration aux alliés\nà portée jusqu'à la prochaine phase de l'unité.
+MSID_HunterFormation: Ordre : Chasse
+MSID_H_HunterFormation: Applique l'effet de Piège de chasseur\naux alliés à portée jusqu'à la prochaine\nphase de l'unité.
+MSID_StrongFormation: Ordre : Martialité
+MSID_H_StrongFormation: Applique l'effet d'Ardeur martiale aux alliés\nà portée jusqu'à la prochaine phase de l'unité.
+MSID_BigAttackFormation: Ordre : Capacité
+MSID_H_BigAttackFormation: Applique l'effet de Grande capacité\naux alliés à portée jusqu'à la prochaine\nphase de l'unité.
+MSID_UnjuFormation: Leçon : Yun Shou
+MSID_H_UnjuFormation: Applique l'effet de Yun Shou à un allié\njusqu'à la prochaine phase de l'unité.
+MSID_ViolenceFormation: Ordre : Tyrannie
+MSID_H_ViolenceFormation: Applique l'effet de Tyrannie aux alliés\nà portée jusqu'à la prochaine phase\nde l'unité.
+MSID_HealingFormation: Ordre : Curateur
+MSID_H_HealingFormation: Applique l'effet de Savoir curatif aux alliés\nà portée jusqu'à la prochaine phase de l'unité.
+MSID_SafeguardFormation: Ordre : Sécurité
+MSID_H_SafeguardFormation: Applique l'effet de Sécurité primordiale\naux alliés à portée jusqu'à la prochaine\nphase de l'unité.
+MSID_GaleFormation: Ordre : Bourrasque
+MSID_H_GaleFormation: Applique l'effet de Bourrasque punitive aux\nalliés à portée pour la phase en cours.
+MSID_SoulStrike: Secret : Corruption{Variable=0}
+MSID_H_SoulStrike: Restaure des PV à hauteur de la moitié\ndes dégâts infligés.
+MSID_SwallowDrop: Secret : Brise-ailes{Variable=0}
+MSID_H_SwallowDrop: Inflige Mvt {Variable=0} aux ennemis volants\nlorsque l'attaque de l'unité réussit et\njusqu'à la prochaine phase de l'unité.
+MSID_Ryusui: Secret : Forme d'eau{Variable=0}
+MSID_H_Ryusui: Confère Esq {Variable=0} à l'unité et lui permet d'effectuer\nune double frappe indépendamment de sa VA,\nmais les dégâts infligés sont divisés par deux.
+MSID_DemonSlayer: Secret : Géantrophie{Variable=0}
+MSID_H_DemonSlayer: Pour le combat, l'unité subit la moitié\ndes dégâts infligés par les ennemis\nde grande taille.
+MSID_WindJavelin: Secret : Lance svelte{Variable=0}
+MSID_H_WindJavelin: Confère Prc {Variable=1} à l'unité lorsque la VA ennemie\nest supérieure ou égale à celle de l'unité +{Variable=0}.\n(Seulement pour lances avec Por 1 ou 2.)
+MSID_SwordKiller: Secret : Bi-lame{Variable=0}
+MSID_H_SwordKiller: Confère Évit {Variable=0} à l'unité jusqu'à\nsa prochaine phase.
+MSID_ForcedSniper: Secret : Tir horizon{Variable=0}
+MSID_H_ForcedSniper: Longue portée. Coût en durabilité très élevé.\nDouble frappe impossible.
+MSID_DefeatingFist: Secret : Conjuration{Variable=0}
+MSID_H_DefeatingFist: Neutralise l'effet de Faveur des Limbes\nsur l'ennemi jusqu'à la fin de son prochain\ncombat lorsque l'attaque de l'unité réussit.
+MSID_DragonSlayer: Secret : Lame ultime{Variable=0}
+MSID_H_DragonSlayer: Crit extrêmement élevé.\nFixe le taux de réussite à {Variable=0} %.\nDouble frappe impossible.
+MSID_SoulCrown: Diadème de la dualité
+MSID_H_SoulCrown: Confère Atq {Variable=1} lorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_ApostolicCrown: Diadème de l'apôtre
+MSID_H_ApostolicCrown: Confère Prc {Variable=1} lorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_EarthCrown: Diadème de la nature
+MSID_H_EarthCrown: Confère Atq {Variable=1} lorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_WinnerCrown: Diadème du champion
+MSID_H_WinnerCrown: Confère Atq {Variable=1} lorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_CourageCrown: Diadème du courage
+MSID_H_CourageCrown: Multiplie par {Variable=1} les dégâts infligés\nlorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_LibraCrown: Diadème de l'équilibre
+MSID_H_LibraCrown: Protège l'unité contre les ripostes ennemies.\nActivation = {Variable=0} %
+MSID_EternalCrown: Diadème de l'inassouv.
+MSID_H_EternalCrown: Restaure des PV à l'unité lorsqu'elle attaque.\nActivation = {Variable=0} %
+MSID_PlayCrown: Diadème du renouveau
+MSID_H_PlayCrown: Restaure quelques PV à l'unité lorsqu'elle\nattaque. Activation = {Variable=0} %
+MSID_BondageCrown: Diadème des fers
+MSID_H_BondageCrown: Multiplie par {Variable=1} les dégâts infligés\nlorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_HermitCrown: Diadème de la réflexion
+MSID_H_HermitCrown: Confère Prc {Variable=1} lorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_DedicationCrown: Diadème de la dévotion
+MSID_H_DedicationCrown: Restaure beaucoup de PV à l'unité\nlorsqu'elle attaque.\nActivation = {Variable=0} %
+MSID_ProphetCrown: Diadème du serment
+MSID_H_ProphetCrown: Confère Prc {Variable=1} lorsque l'unité attaque.\nActivation = {Variable=0} %
+MSID_IgnoranceCrown: Diadème de l'idolâtrie
+MSID_H_IgnoranceCrown: Confère Atq {Variable=1} et Prc {Variable=2} lorsque l'unité\nattaque. Activation = {Variable=0} %
+MSID_WisemanCrown: Diadème de la sagacité
+MSID_H_WisemanCrown: Restaure des PV à l'unité et lui confère\nAtq {Variable=1} lorsqu'elle attaque.\nActivation = {Variable=0} %
+MSID_ClawStrike: Coup de griffe
+MSID_H_ClawStrike: Inflige Déf {Variable=0} à l'ennemi lorsque l'attaque\nde l'unité réussit et jusqu'à la prochaine\nphase de l'unité.
+MSID_BigDust: Tempête de sable
+MSID_H_BigDust: Inflige Immobilisation à l'ennemi lorsque\nl'attaque de l'unité réussit.
+MSID_RockThrow: Jet de roche
+MSID_H_RockThrow: Attaque de zone sur les cases à portée.
+MSID_Titanomachy: Titanomachie
+MSID_H_Titanomachy: Inflige Vit {Variable=0} à l'ennemi lorsque l'attaque\nde l'unité réussit et jusqu'à la prochaine\nphase de l'unité.
+MSID_AnnihilationSlash: Anéantissement
+MSID_H_AnnihilationSlash: Inflige Rés {Variable=0} à l'ennemi lorsque l'attaque\nde l'unité réussit et jusqu'à la prochaine\nphase de l'unité.
+MSID_BodyPress: Broyage
+MSID_H_BodyPress: Attaque de zone sur les cases à portée.\nL'unité attaque tout en se déplaçant.
+MSID_CrackSky: Fissure céleste
+MSID_H_CrackSky: Inflige Immobilisation à l'ennemi lorsque\nl'attaque de l'unité réussit.
+MSID_GreatWhirlwind: Cyclone
+MSID_H_GreatWhirlwind: Attaque magique. Inflige Immobilisation à\nl'ennemi lorsque l'attaque de l'unité réussit.
+MSID_HeavyRush: Charge lourde
+MSID_H_HeavyRush: L'unité attaque tout en se déplaçant.
+MSID_H_HeavyRush_P: L'unité attaque tout en se déplaçant. Après\nun combat entre unités, confère Bcl {Variable=0}\njusqu'à la prochaine phase de l'unité.
+MSID_Rush: Collision
+MSID_H_Rush: L'unité attaque tout en se déplaçant.
+MSID_H_Rush_P: L'unité attaque tout en se déplaçant. Après\nun combat entre unités, confère Déf {Variable=0}\njusqu'à la prochaine phase de l'unité.
+MSID_Flash: Étincelle
+MSID_H_Flash: Divise par deux le Bcl ennemi lorsque l'attaque\nde l'unité réussit et jusqu'à la prochaine phase\nde l'unité.
+MSID_GiantSlalom: Grand tourbillon
+MSID_H_GiantSlalom: Attaque de zone sur les cases à portée.
+MSID_MiasmaBreath: Souffle putride
+MSID_H_MiasmaBreath: Attaque magique. Inflige Confusion à\nl'ennemi lorsque l'attaque de l'unité réussit.
+MSID_LightBreath: Souffle lumineux
+MSID_H_LightBreath: Attaque magique.
+MSID_FlameBreath: Souffle enflammé
+MSID_H_FlameBreath: Attaque magique.
+MSID_PoisonBreath: Souffle empoisonné
+MSID_H_PoisonBreath: Attaque magique. Empoisonne l'ennemi\nlorsque l'attaque de l'unité réussit.
+MSID_RadioWave: Onde toxique
+MSID_H_RadioWave: Attaque de zone sur les cases à portée.\nInflige Confusion aux ennemis à portée.
+MSID_MendeZeruel: Mendezerel
+MSID_H_MendeZeruel: Attaque magique de zone sur les cases à portée.
+MSID_FallEclipse: Ombre du désespoir
+MSID_H_FallEclipse: Attaque magique. Inflige Immobilisation à\nl'ennemi lorsque l'attaque de l'unité réussit.
+MSID_PowerEfficacy: Eau de Force{Variable=0}
+MSID_H_PowerEfficacy: Confère Frc {Variable=0}.
+MSID_SpeedEfficacy: Eau de Vitesse{Variable=0}
+MSID_H_SpeedEfficacy: Confère Vit {Variable=0}.
+MSID_CriticalEfficacy: Eau critique{Variable=0}
+MSID_H_CriticalEfficacy: Confère Crit {Variable=0}.
+MSID_AvoidEfficacy: Eau d'Esquive{Variable=0}
+MSID_H_AvoidEfficacy: Confère Esq {Variable=0}.
+MSID_PursuitEfficacy: Eau frappante{Variable=0}
+MSID_H_PursuitEfficacy: Confère Atq {Variable=0} lors d'une double frappe.
+MSID_ActiveEfficacy: Eau revitalisante{Variable=0}
+MSID_H_ActiveEfficacy: Permet à l'unité d'agir à nouveau après\nun combat entre unités.\nActivation = {Variable=0} %
+MSID_FearlessEfficacy: Eau de témérité
+MSID_H_FearlessEfficacy: Confère Atq {Variable=0} mais Esq {Variable=1}.
+MSID_OutragedEfficacy: Eau de furie
+MSID_H_OutragedEfficacy: Confère Atq {Variable=0} mais Prc {Variable=1}.
+MSID_CombatEfficacy: Eau de capacité{Variable=0}
+MSID_H_CombatEfficacy: Confère Atq {Variable=0} et Prc {Variable=1} lorsque\nl'unité attaque avec une capacité.
+MSID_SharpEfficacy: Eau de durabilité
+MSID_H_SharpEfficacy: Pour le combat, le coût en durabilité\ndes armes tombe à 0 lors de l'utilisation\nd'une capacité. Activation = {Variable=0} %
+MSID_ImmunityEfficacy: Eau anti-poison
+MSID_H_ImmunityEfficacy: Protège l'unité contre le poison.
+MSID_TechniqueEfficacy: Eau de Technique{Variable=0}
+MSID_H_TechniqueEfficacy: Confère Tec {Variable=0}.
+MSID_DefenseEfficacy: Eau de Défense{Variable=0}
+MSID_H_DefenseEfficacy: Confère Déf {Variable=0}.
+MSID_HitEfficacy: Eau de Précision{Variable=0}
+MSID_H_HitEfficacy: Confère Prc {Variable=0}.
+MSID_ImmovableEfficacy: Eau de mobilité
+MSID_H_ImmovableEfficacy: Protège l'unité contre l'{LowercaseNextLetter}Immobilisation.
+MSID_MovingEfficacy: Eau de Mouvement{Variable=0}
+MSID_H_MovingEfficacy: Confère Mvt {Variable=0}.
+MSID_HealingEfficacy: Eau de soin{Variable=0}
+MSID_H_HealingEfficacy: Restaure quelques PV à l'unité après\nun combat entre unités.\nActivation = {Variable=0} %
+MSID_BigHealingEfficacy: Eau de soin max
+MSID_H_BigHealingEfficacy: Restaure tous les PV de l'unité après\nun combat entre unités.\nActivation = {Variable=0} %
+MSID_PhysiqueEfficacy: Eau de Constitution
+MSID_H_PhysiqueEfficacy: Confère Cst {Variable=0}.
+MSID_LifeEfficacy: Eau de santé{Variable=0}
+MSID_H_LifeEfficacy: Confère PV max {Variable=0}.
+MSID_MPowerEfficacy: Eau de Magie{Variable=0}
+MSID_H_MPowerEfficacy: Confère Mag {Variable=0}.
+MSID_MDefenseEfficacy: Eau de Résistance{Variable=0}
+MSID_H_MDefenseEfficacy: Confère Rés {Variable=0}.
+MSID_LuckEfficacy: Eau de Chance{Variable=0}
+MSID_H_LuckEfficacy: Confère Cha {Variable=0}.
+MSID_RecoveryEfficacy: Eau curative{Variable=0}
+MSID_H_RecoveryEfficacy: Soigner des alliés avec de la magie leur\nrestaure la quantité de PV indiquée {Variable=0} PV\nsupplémentaires.
+MSID_ResistEfficacy: Eau anti-sceau
+MSID_H_ResistEfficacy: Protège l'unité contre Silence.
+MSID_SerenityEfficacy: Eau de sérénité{Variable=0}
+MSID_H_SerenityEfficacy: Pour le combat, réduit le coût d'utilisation\nde la magie à 0 lorsque l'unité en utilise.\nActivation = {Variable=0} %
+MSID_AbsorptionEfficacy: Eau régénérante{Variable=0}
+MSID_H_AbsorptionEfficacy: Restaure la moitié des dégâts infligés par\nles attaques magiques sous forme de PV.\nActivation = {Variable=0} %
+MSID_VisionEfficacy: Eau de Vision
+MSID_H_VisionEfficacy: Confère Vis {Variable=0}.
+MSID_WeightEfficacy: Eau de magie rapide
+MSID_H_WeightEfficacy: Confère VA {Variable=0} à l'unité lorsqu'elle\nest équipée de magie.
+MSID_CharmEfficacy: Eau de Charme{Variable=0}
+MSID_H_CharmEfficacy: Confère Chm {Variable=0}.
+MSID_ForwardConfusion: Coup perturbant
+MSID_AssaultConfusion: Assaut perturbant
+MSID_ShootingConfusion: Volée perturbante
+MSID_AssaultStrategy: Assaut simultané
+MSID_Brawl: Pagaille
+MSID_FireStrategy: Incendie
+MSID_PoisonStrategy: Explosion de poison
+MSID_GreatFireStrategy: Incendie +
+MSID_GreatPoisonStrategy: Explosion de poison +
+MSID_CavalryConfusion: Stratégie anti-cavalerie
+MSID_AntiairConfusion: Stratégie anti-aérienne
+MSID_FlameSpread: Flammes éparses
+MSID_SurroundingIce: Cercle de glace
+MSID_DirectionThunder: Appel de la foudre
+MSID_SealingStrategy: Sceau anti-magie
+MSID_SiegeStrategy: Sceau anti-tactiques
+MSID_CollectiveWhite: Zone de guérison
+MSID_FormationRecovery: File de guérison
+MSID_ResonanceWhite: Écho de guérison
+MSID_FormationWings: Formation latérale
+MSID_FormationTwin: Formation : Rempart
+MSID_FormationSnake: Formation : Serpent
+MSID_FormationDirections: Formation : Croix
+MSID_FormationScattered: Formation diffuse
+MSID_FormationIronclad: Formation : Muraille
+MSID_FormationEagle: Formation : Tenailles
+MSID_FormationCrane: Formation : Entonnoir
+MSID_FormationCobra: Formation : Serpent +
+MSID_FormationSquare: Formation : Cercle
+MSID_GreatForwardConfusion: Coup perturbant +
+MSID_GreatAssaultConfusion: Assaut perturbant +
+MSID_GreatShootingConfusion: Volée perturbante +
+MSID_GreatAssaultStrategy: Assaut simultané +
+MSID_SniperConfusion: Œil d'aigle perturbant
+MSID_GreatSniperConfusion: Œil d'aigle pert. +
+MSID_SpearWall: Ligne de lances
+MSID_GreatSpearWall: Ligne de lances +
+MSID_SurroundingFire: Cercle de flammes
+MSID_SurroundingThunder: Cercle de foudre
+MSID_IceSpread: Zone de glace
+MSID_ThunderSpread: Zone de foudre
+MSID_FlameShooting: Feu tactique
+MSID_IceShooting: Glace tactique
+MSID_ThunderShooting: Foudre tactique
+MSID_DefenseMagicFire: Défense enflammée
+MSID_DefenseMagicIce: Défense glacée
+MSID_DefenseMagicThunder: Défense foudroyante
+MSID_IceLine: Ligne de glace
+MSID_ThunderLine: Ligne de foudre
+MSID_IceWorld: Domaine de glace
+MSID_ThunderWorld: Domaine de foudre
+MSID_GreatFormationRecovery: File de guérison +
+MSID_GroupDetoxify: Contrepoison groupé
+MSID_JointRecovery: Guérison concertée
+MSID_GreatJointRecovery: Guérison concertée +
+MSID_DistantRecovery: Guérison à distance
+MSID_GreatDistantRecovery: Guérison à distance +
+MSID_WidespreadRecovery: Guérison effective
+MSID_GreatWidespreadRecovery: Guérison effective +
+MSID_MixedPoisonMagic: Guérison toxique
+MSID_FullRecovery: Guérison complète
+MSID_WavesWhite: Vague de guérison
+MSID_FormationLine: Formation : Colonne
+MSID_GreatFormationLine: Formation : Colonne +
+MSID_GreatFormationIronclad: Formation : Muraille +
+MSID_FormationThree: Formation : Delta
+MSID_GreatFormationThree: Formation : Delta +
+MSID_FormationDoubleWings: Formation : Ailes
+MSID_FormationDoubleWalls: Formation : Bastion
+MSID_FormationDoubleForts: Formation : Ferté
+MSID_FormationFence: Formation : Palissade
+MSID_FormationDivided: Formation partagée
+MSID_FormationCastle: Formation : Forteresse
+MSID_H_ForwardConfusion: Inflige Immobilisation à l'ennemi lorsque\nl'attaque de l'unité réussit.
+MSID_H_AssaultStrategy: Puissante attaque physique.
+MSID_H_FireStrategy: Applique l'effet de Fournaise sur les cases\nà portée.
+MSID_H_PoisonStrategy: Empoisonne l'ennemi lorsque l'attaque\nde l'unité réussit.
+MSID_H_CavalryConfusion: Efficace contre la cavalerie. Inflige\nImmobilisation à la cavalerie ennemie\nlorsque l'attaque de l'unité réussit.
+MSID_H_AntiairConfusion: Très efficace contre les unités volantes.\nInflige Immobilisation aux ennemis volants\nlorsque l'attaque de l'unité réussit.
+MSID_H_FlameSpread: Attaque magique de zone sur les cases à portée.
+MSID_H_SealingStrategy: Inflige Silence à l'ennemi lorsque l'attaque\nde l'unité réussit.
+MSID_H_SiegeStrategy: Inflige Bredouille à l'ennemi lorsque\nl'attaque de l'unité réussit.
+MSID_H_FormationWings: Les cases à portée ne peuvent plus être traversées.
+MSID_H_DefenseMagic: Attaque magique de zone sur les cases à portée.\nConfère Bcl {Variable=0} à l'unité pour chaque attaque\nréussie et jusqu'à la prochaine phase de l'unité.
+MSID_H_GroupRecoveryS: Restaure quelques PV aux alliés à portée.
+MSID_H_GroupRecoveryM: Restaure des PV aux alliés à portée.
+MSID_H_GroupRecoveryL: Restaure beaucoup de PV aux alliés à portée.
+MSID_H_GroupDetoxify: Soigne les alliés à portée du poison.
+MSID_H_JointRecoveryS: Restaure quelques PV aux alliés à portée\net à l'unité pour chaque allié soigné.
+MSID_H_JointRecoveryM: Restaure des PV aux alliés à portée et\nquelques PV à l'unité pour chaque allié\nsoigné.
+MSID_H_MixedPoisonMagic: Restaure beaucoup de PV aux alliés à portée\nmais les empoisonne.
+MSID_H_FullRecovery: Restaure tous leurs PV aux alliés à portée.
+MSID_H_ForwardConfusion_Bow: Très efficace contre les unités volantes.\nInflige Immobilisation lorsque\nl'attaque de l'unité réussit.
+MSID_H_AssaultStrategy_Spear: Puissante attaque physique efficace\ncontre la cavalerie.
+MSID_Fotona: Bénédiction de Fortuna
+MSID_H_Fotona: Permet de revoir les actions lors d'une bataille.
+MSID_Mars: Bénédiction de Mars
+MSID_H_Mars1: Confère Prc {Variable=0} aux attaques physiques (1 tour).
+MSID_H_Mars2: Restaure des PV pour chaque ennemi vaincu (1 tour).
+MSID_H_Mars3: Confère Frc {Variable=0} (1 tour).
+MSID_Clair: Bénédiction de Credna
+MSID_H_Clair1: Confère Vis {Variable=0} (1 tour).
+MSID_H_Clair2: Le coût en durabilité des armes tombe à 0 (1 tour).
+MSID_H_Clair3: L'unité attaque en premier pendant la phase ennemie (1 tour).
+MSID_Cara: Bénédiction de Kalla
+MSID_H_Cara1: Confère Esq {Variable=0} (1 tour).
+MSID_H_Cara2: Confère Vit {Variable=0} (1 tour).
+MSID_H_Cara3: Confère Mvt {Variable=0} (1 tour).
+MSID_Juno: Bénédiction de Jurah
+MSID_H_Juno1: Neutralise l'efficacité des ennemis.
+MSID_H_Juno2: Protège l'unité contre les doubles frappes (1 tour).
+MSID_H_Juno3: Protège l'unité contre les coups critiques (1 tour).
+MSID_Smirnoth: Bénédiction de Smyrnos
+MSID_H_Smirnoth1: Confère Prc {Variable=0} aux attaques magiques (1 tour).
+MSID_H_Smirnoth2: Confère Por {Variable=0} à la magie (1 tour).
+MSID_H_Smirnoth3: Confère Mag {Variable=0} (1 tour).
+MSID_Aurora: Bénédiction d'Aurora
+MSID_H_Aurora1: Divise par deux les dégâts des attaques physiques ennemies (1 tour).
+MSID_H_Aurora2: Divise par deux les dégâts des attaques magiques ennemies (1 tour).
+MSID_H_Aurora3: Neutralise l'effet de Faveur des Limbes sur l'ennemi (1 tour).
+MSID_ReMove: Mobilité{Variable=0}
+MSID_H_ReMove: Cavalerie. Après un combat entre unités,\npermet à l'unité de se déplacer de {Variable=0} {SingularPlural0=case|cases}.
+MSID_SharedRunning: Duo : Galop{Variable=0}
+MSID_H_SharedRunning: Cavalerie. Confère Mvt {Variable=0}.
+MSID_SharedArousal: Duo : Vigilance{Variable=0}
+MSID_H_SharedArousal: Cavalerie. Confère Évit {Variable=0}.
+MSID_SharedConcentration: Duo : Cap. incisive{Variable=0}
+MSID_H_SharedConcentration: Cavalerie. Confère Prc/Crit {Variable=0} lorsque\nl'unité attaque avec une capacité.
+MSID_SharedOnslaught: Duo : Cap. féroce{Variable=0}
+MSID_H_SharedOnslaught: Cavalerie. Confère Atq {Variable=0} lorsque\nl'unité attaque avec une capacité.
+MSID_SharedMiracle: Duo : Miracle{Variable=0}
+MSID_H_SharedMiracle: Cavalerie. Confère Cha {Variable=0}.
+MSID_SharedHealing: Duo : Soin{Variable=0}
+MSID_H_SharedHealing: Cavalerie. Restaure quelques PV à l'unité\naprès un combat entre unités.
+MSID_H_SharedHealing+: Cavalerie. Restaure des PV à l'unité après\nun combat entre unités.
+MSID_SharedCovert: Duo : Furtivité{Variable=0}
+MSID_H_SharedCovert: Cavalerie. Confère Esq {Variable=0} pour le combat\nlorsque l'unité se trouve sur un terrain\navantageux.
+MSID_H_SharedCovert+: Cavalerie. Confère Esq {Variable=0} et Bcl {Variable=1}\npour le combat lorsque l'unité se trouve\nsur un terrain avantageux.
+MSID_SharedPurification: Duo : Purification{Variable=0}
+MSID_H_SharedPurification: Cavalerie. Soigne l'unité du poison au début\nde sa phase. Activation = {Variable=0} %
+MSID_H_SharedPurification+: Cavalerie. Soigne l'unité du poison au début\nde sa phase.
+MSID_SharedHuge: Duo : Stature{Variable=0}
+MSID_H_SharedHuge: Cavalerie. Confère Cst {Variable=0}.
+MSID_SharedProtection: Duo : Protection{Variable=0}
+MSID_H_SharedProtection: Cavalerie. L'unité subit {Variable=0} % des dégâts\ninfligés par un coup critique ennemi.
+MSID_SharedMagicFocus: Duo : Magie précise{Variable=0}
+MSID_H_SharedMagicFocus: Cavalerie. Confère Prc {Variable=0} à l'unité\nlorsqu'elle est équipée de magie.
+MSID_SharedMagicSharpness: Duo : Magie critique{Variable=0}
+MSID_H_SharedMagicSharpness: Cavalerie. Confère Crit {Variable=0} à l'unité\nlorsqu'elle est équipée de magie.
+MSID_FlyingReMove: Mobilité en vol{Variable=0}
+MSID_H_FlyingReMove: Unité volante. Après un combat entre unités,\npermet à l'unité d'avancer de {Variable=0} {SingularPlural0=case|cases}.
+MSID_SharedFlight: Duo : Enchaînement{Variable=0}
+MSID_H_SharedFlight: Unité volante. Confère Mvt {Variable=0}.
+MSID_SharedAntiMagic: Duo : Magicide{Variable=0}
+MSID_H_SharedAntiMagic: Unité volante. Confère Atq {Variable=0} pour\nle combat lorsque l'ennemi utilise la magie.
+MSID_SharedSMagic: Duo : Magie preste{Variable=0}
+MSID_H_SharedSMagic: Unité volante. Confère VA {Variable=0} à l'unité\nlorsqu'elle est équipée de magie.
+MSID_SharedWind: Duo : Coup de vent{Variable=0}
+MSID_H_SharedWind: Unité volante. Confère Esq {Variable=0} pour le\ncombat contre les ennemis munis d'arcs.
+MSID_SharedStorm: Duo : Tempête{Variable=0}
+MSID_H_SharedStorm: Unité volante. Confère Atq {Variable=0} à la double\nfrappe.
+MSID_H_SharedConcentrationFlight: Unité volante. Confère Prc {Variable=0} lorsque\nl'unité attaque avec une capacité.
+MSID_H_SharedOnslaughtFlight: Unité volante. Confère Atq {Variable=0} lorsque\nl'unité attaque avec une capacité.
+MSID_SharedTough: Duo : Résilience{Variable=0}
+MSID_H_SharedTough: Unité volante. L'unité subit {Variable=0} %\ndes dégâts infligés par les ennemis\nefficaces contre l'unité.
+MSID_H_SharedTough+: Unité volante. L'unité subit la moitié\ndes dégâts infligés par les ennemis\nefficaces contre l'unité.
+MSID_SharedMigration: Duo : Piqué{Variable=0}
+MSID_H_SharedMigration: Cavalerie. Confère Mvt {Variable=0}.
+MSID_PoisonAttack: Assaut empoisonné
+MSID_H_PoisonAttack: Empoisonne l'ennemi lorsque l'attaque\nde l'unité réussit.
+MSID_Poisoner: Arme empoisonnée
+MSID_H_Poisoner: Empoisonne l'ennemi lorsque l'attaque\nde l'unité réussit.
+MSID_WaterCrossing: Amphibie
+MSID_H_WaterCrossing: Confère Esq {Variable=0} lorsque l'unité se trouve\nsur un terrain situé en eaux profondes.
+MSID_Vitality: Régénération
+MSID_H_Vitality: Restaure quelques PV à l'unité au début\nde sa phase.
+MSID_ProtectiveBarrier: Protection alliée
+MSID_H_ProtectiveBarrier: Confère Bcl {Variable=0} aux alliés adjacents.
+MSID_GodlyBody: Protection divine
+MSID_H_GodlyBody: Les PV de l'unité tombent à 1 lorsqu'ils sont\nsupérieurs ou égaux à {Variable=0} et que l'attaque\nennemie les réduirait à 0.
+MSID_Beckoning: Appel des Limbes
+MSID_H_Beckoning: Inflige PV max {Variable=0} à l'ennemi lorsque\nl'attaque de l'unité réussit.
+MSID_CorpseEater: Nécrophage
+MSID_H_CorpseEater: Restaure {Variable=0} PV à l'unité après avoir\nvaincu un ennemi.
+MSID_BloodThirst: Sanguinaire
+MSID_H_BloodThirst: Restaure {Variable=0} PV à l'unité lorsque l'attaque\nde l'unité réussit.
+MSID_Activation: Renaissance
+MSID_H_Activation: Augmente les PV restaurés par Régénération.
+MSID_FocusMode: Focalisation
+MSID_H_FocusMode: Confère Prc {Variable=0}.
+MSID_SpeedMode: Prestesse
+MSID_H_SpeedMode: Confère Vit {Variable=0} et Mvt {Variable=1}.
+MSID_BigWings: Envergure
+MSID_H_BigWings: Confère Esq {Variable=0} pour le combat contre\nun ennemi adjacent.
+MSID_Calamity: Carnage
+MSID_H_Calamity: Confère Atq/Bcl {Variable=0}.
+MSID_PoisonLayer: Atout empoisonné
+MSID_H_PoisonLayer: Pour le combat, confère Prc {Variable=0} à l'unité\nlorsque l'ennemi est empoisonné.
+MSID_PoisonTrap: Piège empoisonné
+MSID_H_PoisonTrap: Permet à l'unité d'attaquer en premier\npendant la phase ennemie lorsque l'ennemi\nest empoisonné.
+MSID_FreshlyAttacked: Adrénaline
+MSID_H_FreshlyAttacked: Permet à l'unité d'effectuer une double\nfrappe avant la riposte ennemie.
+MSID_AirRaid: Terreur aérienne
+MSID_H_AirRaid: Protège l'unité contre les ripostes ennemies.
+MSID_Runaway: Frénésie
+MSID_H_Runaway: Confère Mvt {Variable=0}.
+MSID_SoaringSoul: Âme prodigue
+MSID_H_SoaringSoul: Restaure quelques PV à l'unité au début\nde sa phase.
+MSID_DivineAwakening: Éveil divin
+MSID_H_DivineAwakening: Confère Frc/Mag/Tec/Vit/Cha/Déf/Rés {Variable=0}.
+MSID_SoulEater: Psychophage
+MSID_H_SoulEater: Restaure {Variable=0} PV à l'unité après avoir\nvaincu un ennemi.
+MSID_ValorShield: Égide de Balor
+MSID_H_ValorShield: L'unité subit la moitié des dégâts infligés\npar les attaques.
+MSID_AbsolutePursuit: Poursuite implacable
+MSID_H_AbsolutePursuit: Pour le combat, permet à l'unité d'effectuer\nune double frappe indépendamment de\nsa VA.
+MSID_GreatMagicBarrier: Magie diluée
+MSID_H_GreatMagicBarrier: L'unité subit la moitié des dégâts infligés\npar les attaques magiques.
+MSID_PoisonKiller: Poison aggravé
+MSID_H_PoisonKiller: Confère Atq {Variable=0} à l'unité pour le combat\nlorsque l'ennemi est empoisonné.
+MSID_DarkLight: Lueur noire
+MSID_H_DarkLight: Restaure quelques PV après un combat\nentre unités.
+MSID_DarkBrightly: Lumière noire
+MSID_H_DarkBrightly: Augmente les PV restaurés par Lueur noire.
+MSID_MagicCannon: Canon magique
+MSID_H_MagicCannon: Confère Por {Variable=0} à la magie.
+MSID_DarkProtection: Faveur des Limbes
+MSID_H_DarkProtection: L'unité subit la moitié des dégâts infligés\npar les attaques lorsque l'ennemi n'est\npas efficace contre celle-ci.
+MSID_GeneralStar: Général
+MSID_H_GeneralStar: Protège l'unité contre une altération de statut\ndéjà subie. Les dégâts qui lui sont infligés\npar une tactique sont réduits de moitié.
+MSID_LittleGeneralStar: Capitaine
+MSID_H_LittleGeneralStar: L'unité subit la moitié des dégâts infligés\npar les tactiques ennemies.
+MSID_BigGeneralStar: Commandant
+MSID_H_BigGeneralStar: Protège l'unité contre une altération de statut déjà\nsubie. L'unité subit la moitié des dégâts infligés par\nles tactiques et les attaques efficaces ennemies.
+MSID_GaleStance: Posture de la brise
+MSID_H_GaleStance: Confère Vit {Variable=0}.
+MSID_FogStance: Posture du brouillard
+MSID_H_FogStance: Confère PV/Frc/Déf {Variable=0}, Vit {Variable=1}\net Esq {Variable=2}.
+MSID_RockStance: Posture de bétyle
+MSID_H_RockStance: Confère PV {Variable=0}, Frc {Variable=1} et Déf {Variable=2}.
+MSID_GaleToeFog: Danse du brouillard
+MSID_H_GaleToeFog: Passe de Posture de la brise à\nPosture du brouillard.
+MSID_FogToeRock: État rocheux
+MSID_H_FogToeRock: Passe de Posture du brouillard à\nPosture de bétyle.
+MSID_SkyBarrier: Vol prudent
+MSID_H_SkyBarrier: L'unité subit {Variable=0} % des dégâts infligés\npar les ennemis très efficaces contre\nles unités volantes.
+MSID_EarthShield: Égide grandiose
+MSID_H_EarthShield: L'unité subit la moitié des dégâts infligés\npar un orbe feu ou une baliste et ne peut\nêtre abattue par ceux-ci.
+MSID_AutoReboot: Redémarrage forcé
+MSID_H_AutoReboot: Après un combat entre unités, soigne\nl'unité de la Paralysie si celle-ci a subi\nune attaque.
+MSID_FlyingEffectiveDisable: Effic. Aérien annulée
+MSID_H_FlyingEffectiveDisable: Neutralise l'efficacité contre les unités\nvolantes.
+MSID_CavalryEffectiveDisable: Effic. Caval. annulée
+MSID_H_CavalryEffectiveDisable: Neutralise l'efficacité contre les unités\nde cavalerie.
+MSID_ArmorEffectiveDisable: Effic. Cuirassé annulée
+MSID_H_ArmorEffectiveDisable: Neutralise l'efficacité contre les unités\ncuirassées.
+MSID_DragonEffectiveDisable: Effic. Dragon annulée
+MSID_H_DragonEffectiveDisable: Neutralise l'efficacité contre les dragons.
+MSID_BeastEffectiveDisable: Effic. Bêtes annulée
+MSID_H_BeastEffectiveDisable: Neutralise l'efficacité contre les bêtes.
+MSID_HellEffectiveDisable: Effic. Limbes annulée
+MSID_H_HellEffectiveDisable: Neutralise l'efficacité contre les morts-vivants.
+MSID_AllEffectiveDisable: Annulation des effets
+MSID_H_AllEffectiveDisable: Neutralise tout effet d'efficacité.
+MSID_HalfProtection: Barrière temporaire
+MSID_H_HalfProtection: L'unité subit la moitié des dégâts infligés par\nles attaques. (Prend fin après {Variable=0} {SingularPlural0=attaque|attaques}.)
+MSID_HalfDefenseProtection: Mur temporaire
+MSID_H_HalfDefenseProtection: L'unité ne subit aucun dégât lorsqu'elle est\nattaquée. (Prend fin après {Variable=0} {SingularPlural0=attaque|attaques}.)
+MSID_Protection: Barrière
+MSID_H_Protection: L'unité subit la moitié des dégâts infligés par\nles attaques. (Prend fin après {Variable=0} {SingularPlural0=attaque|attaques}.)
+MSID_RecoveryProtection: Barrière pérenne
+MSID_H_RecoveryProtection: L'unité subit la moitié des dégâts quand elle est\nattaquée. Disparaît au bout de {Variable=0} {SingularPlural0=attaque|attaques}.\nLa durabilité est restaurée tous les {Variable=1} {SingularPlural1=tour|tours}.
+MSID_RecoveryDefenseProtection: Mur pérenne
+MSID_H_RecoveryDefenseProtection: L'unité ne subit aucun dégât quand elle est\nattaquée. Disparaît au bout de {Variable=0} {SingularPlural0=attaque|attaques}.\nLa durabilité est restaurée tous les {Variable=1} {SingularPlural1=tour|tours}.
+MSID_HellDragonProtection: Mur draconique
+MSID_H_HellDragonProtection: Si la durabilité est de 1-4, l'unité ne subit que\nla moitié des dégâts, et aucun si elle est de 5-8.\nLa durabilité est restaurée tous les {Variable=0} {SingularPlural0=tour|tours}.
+MSID_InvincibleProtection: Mur impénétrable
+MSID_H_InvincibleProtection: L'unité ne subit aucun dégât lorsqu'elle\nest attaquée. (Permanent.)
+MSID_EnemyPotential_HP: PV max{Variable=0}
+MSID_H_EnemyPotential_HP: Confère PV max{Variable=0}.
+MSID_EnemyPotential_Str: Force{Variable=0}
+MSID_H_EnemyPotential_Str: Confère Frc {Variable=0}.
+MSID_EnemyPotential_Def: Défense{Variable=0}
+MSID_H_EnemyPotential_Def: Confère Déf {Variable=0}.
+MSID_EnemyPotential_Spd: Vitesse{Variable=0}
+MSID_H_EnemyPotential_Spd: Confère Vit {Variable=0}.
+MSID_EnemyPotential_Mag: Magie{Variable=0}
+MSID_H_EnemyPotential_Mag: Confère Mag {Variable=0}.
+MSID_EnemyPotential_Res: Résistance{Variable=0}
+MSID_H_EnemyPotential_Res: Confère Rés {Variable=0}.
+MSID_EnemyPotential_Hit: Précision{Variable=0}
+MSID_H_EnemyPotential_Hit: Confère Prc {Variable=0}.
+MSID_EnemyPotential_Avoid: Esquive{Variable=0}
+MSID_H_EnemyPotential_Avoid: Confère Esq {Variable=0}.
+MSID_TribalSongD: Péan de défense
+MSID_H_TribalSongD: Confère Déf {Variable=0} à tous les alliés\njusqu'à la fin du prochain tour.
+MSID_TribalSongM: Péan de prière
+MSID_H_TribalSongM: Confère Rés {Variable=0} à tous les alliés\njusqu'à la fin du prochain tour.
+MSID_TribalSongA: Péan de chasse
+MSID_H_TribalSongA: Confère Atq {Variable=0} à tous les alliés\njusqu'à la fin du prochain tour.
+MSID_H_FrenzySongAll: Inflige Confusion à tous les ennemis.
+MSID_H_EnthusiasticSongAll: Confère Atq {Variable=0} à tous les alliés\njusqu'à la prochaine phase de l'unité.
+MSID_H_FrozenSongAll: Confère Bcl {Variable=0} à tous les alliés\njusqu'à la prochaine phase de l'unité.
+MSID_BalorAttack: Serres ténébreuses
+MSID_SpecialSniperAvoid: Grande esquive à dist.
+MSID_H_SpecialSniperAvoid: Confère Esq {Variable=1} pour le combat contre\nun ennemi à {Variable=0} {SingularPlural0=case|cases} ou plus.
+MSID_AnhEnhance: Conviction
+MSID_H_R_Hp_Def: Confère PV {Variable=0} et Déf {Variable=1}.
+MSID_DefenseBattleBuff: Ruée sanglante{Variable=0}
+MSID_H_DefenseBattleBuff: Confère Frc/Mag/Vit/Déf/Rés {Variable=0}.
+MSID_Poison: Poison
+MSID_H_Poison: Inflige quelques points de dégâts à l'unité\nau début de sa phase. (Prend fin après\n{Variable=0} {SingularPlural0=tour|tours}.)
+MSID_Confusion: Confusion
+MSID_H_Confusion: Empêche l'unité de riposter pour la phase\nen cours. (Prend fin après {Variable=0} {SingularPlural0=combat|combats}.)
+MSID_NoMagic: Silence
+MSID_H_NoMagic: Empêche l'unité d'utiliser la magie.\n(Prend fin après {Variable=0} {SingularPlural0=tour|tours}.)
+MSID_NoStrategy: Bredouille
+MSID_H_NoStrategy: Empêche l'unité d'utiliser des tactiques.\n(Prend fin après {Variable=0} {SingularPlural0=tour|tours}.)
+MSID_NoMove: Immobilisation
+MSID_H_NoMove: Empêche l'unité de se déplacer.\n(Prend fin après {Variable=0} {SingularPlural0=tour|tours}.)
+MSID_NoAction: Paralysie
+MSID_H_NoAction: Empêche l'unité d'agir.\n(Prend fin après {Variable=0} {SingularPlural0=tour|tours}.)
+MSID_Collapse: Engourdissement
+MSID_H_Collapse: Divise par deux la Prc. (Prend fin après\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.)
+MSID_Slowing: Lenteur
+MSID_H_Slowing: Divise par deux la VA. (Prend fin après\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.)
+MSID_Unrack: Poisse
+MSID_H_Unrack: Divise par deux la Cha. (Prend fin après\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.)
+MSID_AttackChange: Inversion Frc/Mag
+MSID_H_AttackChange: Échange la Frc et la Mag. (Prend fin après\n{Variable=0} {SingularPlural0=combat|combats} ou {Variable=1} {SingularPlural1=tour|tours}.)
+MSID_DefenseChange: Inversion Déf/Rés
+MSID_H_DefenseChange: Échange la Déf et la Rés. (Prend fin après\n{Variable=0} {SingularPlural0=combat|combats} ou dans {Variable=1} {SingularPlural1=tour|tours}.)
+MSID_Lizaia: Nosferatu
+MSID_Barrier: Barrière sacrée
+MSID_MagicShield: Bouclier
+MSID_Emergence: Emergis
+MSID_Regeia: Regenera
+MSID_Warm: Essaim Ζ
+MSID_Luna: Lunaire Λ
+MSID_HolyWater: Eau bénite
+MSID_PeaceDew: Aiguail pacifiste
+MSID_BlessingDew: Aiguail protecteur
+MSID_Antidote: Antidote
+MSID_HitAle: Jus de linaire
+MSID_BuildAle: Jus de ginji
+MSID_CharmAle: Jus de pongho
+MSID_DetoxifyAle: Café
+MSID_SealedAle: Lait de céré
+MSID_LuckAle: Jus de primeau
+MSID_AttackAle: Jus de paya
+MSID_DefenseAle: Jus de miranilla
+MSID_LightAle: Jus de datte
+MSID_CombatAle: Jus de roka
+MSID_ApathyAle: Jus de feuilles amères
+MSID_RangeAle: Jus de feuilles sucrées
+MSID_RecoveryAle: Jus de feuilles poivrées
+MSID_MoveAle: Jus de zang
+MSID_BlissTongue: Flagelleur curatif
+MSID_VictoryJewel: Gemme glorieuse
+MSID_SeaCharm: Pendentif marin
+MSID_AuroraCloth: Étoffe d'Aurora
+MSID_MiasmaLaziness: Miasmes de paresse
+MSID_H_MiasmaLaziness: Empêche l'unité d'effectuer une double\nfrappe.
+MSID_MiasmaGreed: Miasmes d'avarice
+MSID_H_MiasmaGreed: Au début de la phase de l'unité, divise par deux\nles PV, multiplie par {Variable=0} les trésors obtenus et\nfixe la Déf à {Variable=1}. (N'affecte pas les ennemis.)
+MSID_MiasmaDeceit: Miasmes de duperie
+MSID_H_MiasmaDeceit: Réduit la Vis de l'unité à {Variable=0}.\n(N'affecte pas les ennemis.)
+MSID_MiasmaEnvy: Miasmes d'envie
+MSID_H_MiasmaEnvy: Pour le combat, fixe l'Esq de l'unité à {Variable=0}\net multiplie par {Variable=1} sa Prc si le niveau de\nl'unité est inférieur à celui de l'ennemi.
+MSID_MiasmaRage: Miasmes de colère
+MSID_H_MiasmaRage: Multiplie par {Variable=0} le Crit. Divise par deux\nla Déf.
+MSID_MiasmaPride: Miasmes d'orgueil
+MSID_H_MiasmaPride: Pour le combat, divise par deux la Prc\nde l'unité si son niveau est supérieur\nà celui de l'ennemi.
+MSID_MiasmaLust: Miasmes de luxure
+MSID_H_MiasmaLust: Pour le combat, divise par deux les Prc/Esq\nde l'unité si son Chm est inférieur à celui\nde l'ennemi.
+MSID_MiasmaGluttony: Miasmes de goinfrerie
+MSID_H_MiasmaGluttony: Au début de la phase, inflige soit :\nDurabilité de l'arme équipée {Variable=0}\nNombre d'utilisations de magie {Variable=1}
+MSID_MiasmaFear: Miasmes de peur
+MSID_H_MiasmaFear: Inflige Confusion au début de la phase\nennemie. (N'affecte pas les ennemis.)
+MSID_Miasma: Miasmes
+MSID_H_Miasma: Au début de la phase de l'unité, celle-ci subit\ndes dégâts à hauteur de la moitié de ses PV max.\nRestaure des PV aux unités des Limbes.
+MSID_SunsetMiasma: Miasmes de déclin
+MSID_HadesGate: Porte des Limbes
+MSID_H_HadesGate: S'effondre après {Variable=0} {SingularPlural0=tour|tours}.
+MSID_HadesGround: Chair palpitante
+MSID_H_HadesGround: Une porte des Limbes apparaît\naprès {Variable=0} {SingularPlural0=tour|tours}.
+MSID_Madness: Folie des Limbes
+MSID_H_Madness: Fixe la jauge ardente à {Variable=0}. La surchauffe\nne met plus fin à l'embrasement.
+MSID_SpiritualUnity: Calme des Limbes
+MSID_H_SpiritualUnity: Réinitialise la jauge ardente.
+MSID_Secret: ???
+MSID_SolidGiant: Soutien majeur
+MSID_SandstormBattalion: Armée des sables
+MSID_DragonFormDagda: 
+MSID_H_DragonFormDagda: 
+MSID_DragonFormIshieto: 
+MSID_H_DragonFormIshieto: 
+MSID_DragonFormSeteth: 
+MSID_H_DragonFormSeteth: 
+MSID_DragonFormLyra: 
+MSID_H_DragonFormLyra: 
+MSID_CommonSwordSkill: Épées
+MSID_H_CommonSwordSkill: Multiplie par {Variable=0} l'Atq lors d'une double\nfrappe.
+MSID_CommonAxesSkill: Haches
+MSID_H_CommonAxesSkill: Inflige {Variable=0} {SingularPlural0=point|points} de dégâts minimum.
+MSID_CommonGauntletSkill: Gantelets
+MSID_H_CommonGauntletSkill: Confère Esq {Variable=0} pour le combat si l'ennemi\nn'est pas équipé de gantelets.
+MSID_H_Invincible: Les déployeurs sont protégés magiquement\npour {Variable=0} {SingularPlural0=tour|tours}. (Utilisations : {Variable=1} max.)
+MSID_H_Clearsandstorm: Neutralise la tempête de sable sur les cases\nà portée.
+MSID_H_Throwfeed: Renforce un géant. Les troupes de l'unité\nne seront plus prises pour cible.
+MSID_H_Calmdown: Parle aux habitants de Kunlun pour\nles calmer.
+MSID_H_Feeding: Change un loup rayé en allié. Lui restaure\nquelques PV si c'est déjà le cas.
+MSID_H_Markerplacement: Lance un épieu de lumière pour marquer la\nzone à bombarder pour le canon barrisseur.
+MSID_Rainy: Pluie
+MSID_H_Rainy: Multiplie par {Variable=0} les dégâts de foudre.\nDivise par deux les dégâts de feu.
+MSID_GleipnirPower: Fil amplificateur
+MSID_H_GleipnirPower: Confère {Variable=0} à toutes les caractéristiques\nde base.
+MSID_DefForceField: Champ de défense
+MSID_H_DefForceField: Confère Déf {Variable=0}.
+MSID_ResForceField: Champ de résistance
+MSID_H_ResForceField: Confère Rés {Variable=0}.
+MSID_KatarinaProtect: Protection de Katarina
+MSID_H_KatarinaProtect: Confère Frc/Mag/Déf/Rés/Cha {Variable=0}.
+MSID_InvinciblePower: Invincible
+MSID_H_InvinciblePower: L'unité ne subit aucun dégât.
+MSID_Cheering: Encouragement
+MSID_H_Cheering: Multiplie par {Variable=0} toutes les caractéristiques\nde base.
+MSID_FogHiding: Cape de brouillard
+MSID_H_FogHiding: Confère Esq {Variable=0}, Frc {Variable=1} et Déf {Variable=2}.
+MSID_TelusBarrier: Barrière de Tellus
+MSID_H_TelusBarrier1: L'unité subit {Variable=0} % des dégâts infligés\npar les attaques.
+MSID_Unprotected: Vulnérable
+MSID_RecklessTreasure: Orbe magique
+MSID_ParmaMagic: Secrets de Palma
+MSID_Flama: Flamma
+MSID_H_Flama1: Confère Frc {Variable=0} et Déf/Rés {Variable=1}.
+MSID_H_Flama2: Confère PV max {Variable=0} et Frc/Rés {Variable=1}.
+MSID_IshietoHelp: Conseils d'Eishet
+MSID_H_IshietoHelp: Confère Por {Variable=0} à la magie, Frc/Mag {Variable=1}\net Déf/Rés {Variable=2}.
+MSID_DagdaDivinePower: Puissance de Dagda
+MSID_H_DagdaDivinePower: Confère Frc {Variable=0} et Mag/Déf/Rés {Variable=1}.
+MSID_BalorDivinePower: Puissance de Balor
+MSID_BalorGreatDivinePower: Puissance de Balor +
+MSID_H_BalorGreatDivinePower: Confère PV max {Variable=0} et Frc/Mag/Vit {Variable=1}.
+MSID_GiantFood: Appât à géant
+MSID_H_GiantFood: Confère Frc/Tec/Vit {Variable=0}. L'unité ne subit\naucun dégât.
+MSID_LegionArea: Légionnaire
+MSID_H_LegionArea: Empêche les ennemis de traverser la zone\noù il se situe.
+MSID_BalorBreath: Vapeur apocalyptique
+MSID_BalorTerrainAttack: Feux du Tartare
+MSID_H_BalorTerrainAttack: Attaque tous les ennemis à portée.
+MSID_BlazeControl: Contrôle
+MSID_H_BlazeControl: Permet d'utiliser Calme des Limbes.
+MSID_BlazeRampage: Déchaînement
+MSID_H_BlazeRampage: Permet d'utiliser Folie des Limbes.
+MSID_BlazeResistance: Inflexible
+MSID_H_BlazeResistance: La surchauffe ne diminue plus les PV max.
+MSID_BlazeMachine: Ange gardien
+MSID_H_BlazeMachine: Permet d'utiliser Elizabeth. Permet d'utiliser\ndes {LowercaseNextLetter}Capacités ardentes jusqu'à épuisement\nde la jauge ardente.
+MSID_BlazeHeaven: Clairvoyance
+MSID_H_BlazeHeaven: Permet d'utiliser des {LowercaseNextLetter}Capacités ardentes\nde plus en plus puissantes à mesure\nque la jauge ardente se remplit.
+MSID_RemainsProtection: Fléau protecteur
+MSID_H_RemainsProtection: L'unité ne subit aucun dégât lorsqu'elle est\nattaquée.\nActivation = {Variable=0} %
+MSID_GoldenCurse: Drain de métal divin
+MSID_KouPower: Magie de Hong Hua
+MSID_H_Damina: Confère Prc {Variable=0} lorsque l'unité attaque\navec une capacité.
+MSID_H_Damina+3: Confère Prc/Crit {Variable=0} lorsque l'unité attaque\navec une capacité.
+MSID_H_HorseSword+3: Confère Crit {Variable=0} pour le combat contre\nun cavalier ennemi.
+MSID_H_Flissa+3: Confère Crit {Variable=0} pour le combat contre\nun cuirassé ennemi.
+MSID_H_GaleSword+3: Confère A. phys {Variable=0} à l'unité après\navoir esquivé une attaque.
+MSID_H_GreatSword+3: Confère Prc/Crit {Variable=0} à l'unité pour le combat\ncontre un ennemi de grande taille.
+MSID_H_ExorcismSword: Neutralise l'effet de Faveur des Limbes\nsur l'ennemi pour le combat.
+MSID_H_HandSpear+3: Confère Esq {Variable=1} pour le combat contre\nun ennemi à {Variable=0} {SingularPlural0=case|cases} ou plus.
+MSID_H_ShortSpear+3: Confère Prc {Variable=1} pour le combat contre\nun ennemi à {Variable=0} {SingularPlural0=case|cases} ou plus.
+MSID_H_SlenderSpear+3: Confère A. phys {Variable=1} pour le combat contre\nun ennemi à {Variable=0} {SingularPlural0=case|cases} ou plus.
+MSID_H_IdeaBow: Augmente les PV restaurés par Éclair sacré.
+MSID_H_Assal+3: Augmente les PV restaurés par\nFrappe sacrée.
+MSID_H_KnightKiller+3: Confère Bcl {Variable=0} pour le combat contre\nla cavalerie ennemie.
+MSID_H_ShieldAxe: Pour le combat, confère Prt {Variable=0} à l'unité\nlorsque l'ennemi attaque en premier.
+MSID_H_Boomerang+3: Confère Crit {Variable=1} pour le combat contre\nun ennemi à {Variable=0} {SingularPlural0=case|cases} ou plus.
+MSID_H_Bardiche+3: Confère A. phys {Variable=0} pour le combat contre\nun ennemi de grande taille.
+MSID_H_Ottochan+3: Pour le combat, permet à l'unité d'attaquer\nen premier pendant la phase ennemie si\nl'ennemi est empoisonné.
+MSID_H_HuntingBow+3: Confère Prc {Variable=0} pour le combat\nsi l'ennemi est une bête.
+MSID_H_ShortBow+1: Confère VA {Variable=0} pour le combat contre\nun ennemi adjacent.
+MSID_H_HorseBow+3: Confère Prc {Variable=0} pour le combat contre\nla cavalerie ennemie.
+MSID_H_BattleBow+3: Confère Prc {Variable=0} pour le combat contre\nles ennemis de grande taille.
+MSID_H_WindBow+1: Confère Esq {Variable=0} pour le combat lorsque\nl'unité attaque en premier.
+MSID_H_CounterGautlet: Confère Atq {Variable=0} pour le combat si l'ennemi\nattaque en premier.
+MSID_H_CounterGautlet+3: Confère Atq {Variable=0} et Prc {Variable=1} pour le\ncombat si l'ennemi attaque en premier.
+MSID_H_Kenkonken+3: Confère Prc/Esq/Crit {Variable=1} pour le combat\ncontre un ennemi à {Variable=0} {SingularPlural0=case|cases} ou plus.
+MSID_H_Hukarin+1: Confère Prc {Variable=0} pour le combat lorsque\nl'unité attaque en premier.
+MSID_H_HealingWand: Soigner des alliés avec de la magie leur\nrestaure une quantité de PV {Variable=0}.
+MSID_H_DemonSkull: Confère Crit {Variable=0} aux attaques magiques.
+MSID_H_AgonyShield: L'unité subit la moitié des dégâts infligés\npar les attaques magiques.\nActivation = {Variable=0} %
+MSID_H_JuneauShield: Artéfact divin revêtu d'une apaisante\ncouche de glace. L'unité subit la moitié\ndes dégâts infligés par un coup critique.
+MSID_H_ZephyrusShield: Artéfact mystérieux imprégné de\nla puissance du vent. Neutralise\nl'efficacité contre les unités volantes.
+MSID_H_YuphasMask: Confère Bcl {Variable=0} lorsque l'unité est attaquée\npar un mort-vivant.
+MSID_H_BragiBrush: Confère Prc {Variable=0} aux attaques magiques.
+MSID_H_ParticleEmblem: Inflige Confusion à l'ennemi lorsque\nl'attaque magique de l'unité réussit.\nActivation = {Variable=0} %
+MSID_H_PoisonBone: Empoisonne l'ennemi lorsque l'attaque\nmagique de l'unité réussit.\nActivation = {Variable=0} %
+MSID_H_CarlaNeedle: Confère Atq {Variable=0} lors d'une double frappe.
+MSID_H_MarsStone: Confère Atq {Variable=0} et Crit {Variable=1} lorsque l'unité\nattaque avec une capacité.
+MSID_H_PoisonJewel: L'unité subit {Variable=0} % des dégâts infligés\npar les ennemis empoisonnés.
+MSID_H_HuntingJewel: Multiplie par {Variable=0} les dégâts infligés lorsque\nl'unité attaque un ennemi empoisonné.
+MSID_H_EventfulJewel: Multiplie par {Variable=0} les dégâts infligés lorsque\nl'unité attaque un ennemi atteint de Confusion.
+MSID_H_FuraiJewel: Protège l'unité contre les doubles frappes\nennemies pour le combat.\nActivation = {Variable=0} %
+MSID_H_LightningJewel: Multiplie par {Variable=1} les dégâts infligés lorsque\nl'unité attaque avec une capacité.\nActivation = {Variable=0} %
+MSID_H_FlameJewel: Confère Prc {Variable=1} lorsque l'unité attaque avec\nune capacité.\nActivation = {Variable=0} %
+MSID_H_StormJewel: Confère Esq {Variable=1} pour le combat lors\nde l'utilisation d'une capacité.\nActivation = {Variable=0} %
+MSID_H_CriticalJewel: Restaure une quantité de PV équivalente\nau tiers des dégâts infligés par l'unité lors\nd'un coup critique.
+MSID_H_ChallengeJewel: Confère Atq {Variable=0} à l'unité pour le combat\nsi l'ennemi manie une arme du même type.
+MSID_H_PursuitJewel: Pour le combat, permet à l'unité d'effectuer\nune double frappe indépendamment de\nsa VA. Activation = {Variable=0} %
+MSID_H_CharmJewel: Inflige Prc {Variable=0} à l'ennemi pour le combat.\nActivation = (Chm ÷ 2) %
+MSID_H_SeverJewel: Protège l'unité contre les doubles frappes\nennemies lorsqu'elle attaque en premier.\nActivation = {Variable=0} %
+MSID_H_MiracleJewel: Réduit à {Variable=1} les dégâts subis par l'unité\nlorsqu'elle est attaquée. Activation = {Variable=0} %
+MSID_H_DaintyJewel: Inflige Prc {Variable=1} à l'ennemi pour le combat\nsi le Chm de l'unité est supérieur ou égal\nau Chm ennemi +{Variable=0}.
+MSID_H_SpiritJewel: Confère Esq {Variable=1} lorsque l'unité subit\nune attaque magique. Activation = {Variable=0} %
+MSID_H_MadnessJewel: Confère Esq {Variable=0} lorsque l'unité est\ndans un état de Confusion.
+MSID_H_SwordAmulet: Confère Prc/Esq {Variable=0} à l'unité pour\nle combat si l'ennemi utilise une épée.
+MSID_H_SpearAmulet: Confère Prc/Esq {Variable=0} à l'unité pour\nle combat si l'ennemi utilise une lance.
+MSID_H_AxeAmulet: Confère Prc/Esq {Variable=0} à l'unité pour\nle combat si l'ennemi utilise une hache.
+MSID_H_BowAmulet: Confère Prc/Esq {Variable=0} à l'unité pour\nle combat si l'ennemi utilise un arc.
+MSID_H_GauntletAmulet: Confère Prc/Esq {Variable=0} à l'unité pour le\ncombat si l'ennemi utilise des gantelets.
+MSID_H_Warm: Inflige Vit {Variable=0} à l'ennemi lorsque l'attaque\nde l'unité réussit et jusqu'à la prochaine\nphase de l'unité.
+MSID_H_Luna: Ignore la Rés ennemie pour le combat.
+MSID_H_R_Hit_Att: Confère Prc {Variable=0} et Atq {Variable=1}.
+MSID_H_R_Avo_Sec: Confère Esq/Évit {Variable=0}.
+MSID_H_Regeia: Restaure quelques PV au début de la phase\nde l'unité pour {Variable=0} {SingularPlural0=tour|tours}.
+MSID_H_R_Hit: {PlusMinus0=Confère|Inflige} Prc {Variable=0}.
+MSID_H_R_CSHit: Confère Prc {Variable=0} lorsque l'unité attaque\navec une capacité.
+MSID_H_R_Avo: {PlusMinus0=Confère|Inflige} Esq {Variable=0}.
+MSID_H_R_Cri: {PlusMinus0=Confère|Inflige} Crit {Variable=0}.
+MSID_H_R_Sec: Confère Évit {Variable=0}.
+MSID_H_R_AS: Confère VA {Variable=0}.
+MSID_H_R_Hit_Avo: {PlusMinus0=Confère|Inflige} Prc/Esq {Variable=0}.
+MSID_H_R_Hit_Avo_Cri: Confère Prc/Esq/Crit {Variable=0}.
+MSID_H_R_Att: {PlusMinus0=Confère|Inflige} Atq {Variable=0}.
+MSID_H_R_Pro: {PlusMinus0=Confère|Inflige} Bcl {Variable=0}.
+MSID_H_R_Att_Cri: Confère Atq {Variable=0} et Crit {Variable=1}.
+MSID_H_R_Pro_Sec: Confère Bcl {Variable=0} et Évit {Variable=1}.
+MSID_H_R_Hp: {PlusMinus0=Confère|Inflige} PV max {Variable=0}.
+MSID_H_R_Str: Confère Frc {Variable=0}.
+MSID_H_R_Mag: Confère Mag {Variable=0}.
+MSID_H_R_Tec: {PlusMinus0=Confère|Inflige} Tec {Variable=0}.
+MSID_H_R_Spd: {PlusMinus0=Confère|Inflige} Vit {Variable=0}.
+MSID_H_R_Def: {PlusMinus0=Confère|Inflige} Déf {Variable=0}.
+MSID_H_R_Res: {PlusMinus0=Confère|Inflige} Rés {Variable=0}.
+MSID_H_R_Lck: {PlusMinus0=Confère|Inflige} Cha {Variable=0}.
+MSID_H_R_Mov: Inflige Mvt {Variable=0}.
+MSID_H_R_Phy: Confère Cst {Variable=0}.
+MSID_H_R_Cha: Confère Chm {Variable=0}.
+MSID_H_R_Str_Mag: Confère Frc/Mag {Variable=0}.
+MSID_H_R_Def_Res: Confère Déf/Rés {Variable=0}.
+MSID_H_R_Def_Avo: Confère Déf {Variable=0} mais Esq {Variable=1}.
+MSID_H_R_Mag_Res: Confère Mag/Rés {Variable=0}.
+MSID_H_R_Str_Magx150: Multiplie par {Variable=0} la Frc/Mag.
+MSID_H_R_Def_Resx150: Multiplie par {Variable=0} la Déf/Rés.
+MSID_H_R_HolyWater: Confère Rés {Variable=0}. (Diminue de {Variable=2} tous les\n{Variable=1} {SingularPlural1=tour|tours}.)
+MSID_H_R_HellLordEffect: L'unité subit la moitié des dégâts infligés\npar les attaques. Protège contre l'effet\nde Brasier des Limbes.
+MSID_H_R_NoPursuit: Protège l'unité contre les doubles frappes\nennemies.
+MSID_H_R_Leading: Permet à l'unité d'attaquer en premier.
+MSID_H_R_HitHalved: Divise par deux la Prc.
+MSID_H_R_AvoHalved: Divise par deux l'Esq.
+MSID_H_R_ASHalved: Divise par deux la VA.
+MSID_H_R_ProHalved: Divise par deux le Bcl.
+MSID_H_R_DefHalved: Divise par deux la Déf.
+MSID_H_R_HitHalved_00: Divise par deux la Prc.
+MSID_H_R_Hit_AvoHalved: Divise par deux la Prc/Esq.
+MSID_H_R_MagicDamageHalved: L'unité subit la moitié des dégâts infligés\npar les attaques magiques.
+MSID_H_R_DamageHalved: L'unité subit la moitié des dégâts infligés\npar les attaques.
+MSID_H_R_Str_Mag_Invert: Échange la Frc et la Mag.
+MSID_H_R_Def_Res_Invert: Échange la Déf et la Rés.
+MSID_H_R_NoReturn: Empêche l'unité de riposter.
+MSID_H_R_NoCounter: Protège l'unité contre les ripostes ennemies.
+MSID_H_R_NoPoison: Protège l'unité contre le poison.
+MSID_H_R_NoSealed: Protège l'unité contre Silence.
+MSID_H_R_HellEff: Les attaques de l'unité sont efficaces\ncontre les morts-vivants.
+MSID_H_R_Continuous: Permet à l'unité d'effectuer une double\nfrappe avant la riposte ennemie.
+MSID_H_R_InvalidEff: Neutralise les bonus d'efficacité de l'ennemi.
+MSID_H_R_InvalidCritical: Protège l'unité contre les coups critiques\nennemis.
+MSID_H_R_Absorption: Restaure des PV à hauteur de la moitié\ndes dégâts infligés.
+MSID_H_R_Def0: Fixe la Déf à 0.
+MSID_H_R_BattleRecoveryS: Restaure quelques PV à l'unité après\nun combat entre unités.
+MSID_H_R_Res0: Fixe la Rés à 0.
+MSID_H_R_Pha_Hit: Confère Prc {Variable=0} aux attaques physiques.
+MSID_H_R_Maa_Hit: Confère Prc {Variable=0} aux attaques magiques.
+MSID_H_R_KillHeelM: Restaure des PV à l'unité après avoir\nvaincu un ennemi.
+MSID_H_R_Durability: Le coût en durabilité des armes tombe à 0.
+MSID_H_R_Pha_DamageHalved: L'unité subit la moitié des dégâts infligés\npar les attaques physiques.
+MSID_H_R_Maa_DamageHalved: L'unité subit la moitié des dégâts infligés\npar les attaques magiques.
+MSID_H_R_Ect: Confère Prt {Variable=0}.
+MSID_H_R_End: Confère Rsl {Variable=0}.
+MSID_H_R_Tec_Spd: Confère Tec/Vit {Variable=0}.
+MSID_H_R_Explanation: Confère Prc {Variable=1} pour le combat.\nActivation = {Variable=0} %
+MSID_H_R_ReducedMoveCost: Points de mouvement liés au terrain {Variable=0}.\n(Valeur finale : 1 minimum.)
+MSID_H_R_AutoRecovery: Restaure quelques PV à l'unité au début\nde sa phase.
+MSID_H_R_Antidote: Protège l'unité contre le poison\npour {Variable=0} {SingularPlural0=tour|tours}.
+MSID_H_R_RunThrough: Confère Mvt {Variable=0} pour {Variable=1} {SingularPlural1=tour|tours}.
+MSID_H_R_FirstAidFormation: Étend l'effet de Premiers soins à {Variable=0} {SingularPlural0=case|cases}.
+MSID_H_R_BackupFormation: Étend l'effet d'Assistance vaillante à {Variable=0} {SingularPlural0=case|cases}.
+MSID_H_R_BodyguardFormation: Étend l'effet de Bienfaiteur à {Variable=0} {SingularPlural0=case|cases}.
+MSID_H_R_Res_Avo: Confère Rés {Variable=0} mais Esq {Variable=1}.
+MID_Plus:  +
+MID_PlusPlus:  ++
+MID_SkillPlus_1:  +1
+MID_SkillPlus_2:  +2
+MID_SkillPlus_3:  +3
+MID_SkillPlus_5:  +5
+MID_SkillPlus_7:  +7
+MID_SkillPlus_10:  +10
+MID_SkillPlus_15:  +15
+MID_SkillPlus_20:  +20
+MID_SkillPlus_30:  +30
+MID_SkillLevel_1: niv. 1
+MID_SkillLevel_2: niv. 2
+MID_SkillLevel_3: niv. 3
+MID_SkillLevel_4: niv. 4
+MID_SkillLevel_5: niv. 5
+MID_Skill_SpecifyJob_Ride: Cavalerie
+MID_Skill_SpecifyJob_Fly: U. volante
+MID_Skill_SpecifyJob_Armor: Cuirassé
+MID_Skill_SpecifyJob_Infantry: Infanterie
+MID_Skill_CompAttack: Atq
+MID_Skill_CompDefense: Bcl
+MID_Skill_InPhase: pour la phase en cours
+MID_Skill_About3Turn: pour 3 tours
+MID_Skill_AtNextTurnEnd: jusqu'à la fin du prochain tour
+MID_Skill_AtNextMyPhase: jusqu'à la prochaine phase de l'unité
+MID_Skill_AtOnceBattle: jusqu'à la fin de son prochain combat
+MID_Skill_SpearRange_1to2: (Seulement pour lances avec Por 1 ou 2.)
+MID_Skill_AxesRange_1to2: (Seulement pour haches avec Por 1 ou 2.)
+MID_Skill_Impossible_AddAtk: Double frappe impossible.
+MID_Skill_InBattleMapEnd: pour la durée d'une bataille
+MID_Skill_AtOnceBattleMap: (Une fois par bataille.)

@@ -1,0 +1,40 @@
+﻿MID_Dungeon_Start: Punto iniz.
+MID_Dungeon_Complete: Tutte aperte
+MID_Dungeon_FieldKill: Attacco: vittoria istantanea
+MID_Dungeon_Banquet: Riposa
+MID_Dungeon_BanquetMenu_Help: Scegli quali ingredienti usare.
+MID_Dangeon_BanquetMenu_Confirm: Vuoi usare questi ingredienti mentre riposi?
+MID_Dungeon_BanquetMenu_Cancel_Confirm: Vuoi riprendere l'esplorazione senza riposarti?
+MID_Dungeon_Banquet_FindEnemy: Non puoi riposare se dei nemici ti stanno inseguendo.
+MID_Dungeon_Banquet_NotMaterial: Ti serve almeno un ingrediente.
+MID_Dungeon_Banquet_Complete: Non hai bisogno di riposare.
+MID_CmdBtl_Name: Scontro breve
+MID_CmdBtl_BattleStart: Battaglia
+MID_CmdBtl_EventBattleStart: Scontro evento
+MID_CmdBtl_NextRound: Prossimo round
+MID_CmdMenu_Link: Azioni concatenate
+MID_CmdMenu_Link_Attack: Attacco concatenato
+MID_CmdMenu_Link_Attack_Help: Scegli un alleato che attaccherà\nsubito dopo di te.
+MID_CmdMenu_Link_Heal: Cura concatenata
+MID_CmdMenu_Link_Heal_Help: Scegli un alleato che ripristinerà\ni PS appena attacchi il nemico.
+MID_CmdMenu_Link_Guard: Off./dif. concatenata
+MID_CmdMenu_Link_Guard_Help: Blocca l'attacco di un nemico \nmentre attacchi assieme a un\nalleato.
+MID_CmdMenu_Link_Cause_NotLp: Non hai abbastanza PC.
+MID_CmdMenu_Link_Cause_NotAttack: Nessun alleato può attaccare.
+MID_CmdMenu_Link_Cause_NotSupport: Nessun alleato ha magie curative.
+MID_CmdMenu_Link_Cause_NotReliance: Nessun alleato ha il Liv sost richiesto.
+MID_CmdMenu_Link_Cause_FullHP: Non hai bisogno di alcuna cura.
+MID_CmdMenu_ConcentrationCost: Costo PC
+MID_CmdBtl_NextUnit: Segue
+MID_CmdBtl_PreAttackFailed_Message: Non possiedi un'arma o una magia con cui sferrare il primo colpo.
+MID_CmdBtl_AutoAttackFailed_Message: Non possiedi un'arma o una magia utilizzabili in battaglia automatica.
+MID_CmdBtl_SkipFailed_Message: Non c'è stato un esito conclusivo. "Salta scontro" è stato interrotto.
+MID_CmdBtl_Escape_Attention: Farai ritorno all'inizio delle rovine.
+MID_CmdBtl_Retry_Confirm: Lo scontro breve sta richiedendo più tempo del dovuto.\nProva a riavviarlo dopo aver modificato l'equipaggiamento\ne le abilità delle tue unità. Vuoi riavviare lo scontro?
+MID_CmdBtl_RestartBattle_Confirm: Vuoi riavviare lo scontro breve?
+MID_CmdBtl_RestartBattle_Annotation: Se scegli di non riavviarlo, farai ritorno all'inizio delle rovine\ncon 1 PS.
+MID_CmdBtl_RestartBattle_GmapCasual_Annotation: Se non lo ricominci, tu e le tue unità farete ritorno a Dagsion con 1 PS.
+MID_CmdBtl_RestartBattle_GmapClassic_Annotation: Se non lo ricominci, tutte le unità nella squadra verranno sconfitte e\nmoriranno, comprese quelle che non partecipano allo scontro breve.\n(I PS di {AvatarName} scenderanno a 1 e tornerai a Dagsion.)
+MID_CmdBtl_RestartBattle_Last_Confirm: La scelta è irreversibile. Vuoi davvero farla?
+MID_Dungeon_Enemy_Destroy: Non ci sono altri nemici nelle vicinanze.
+MID_Dungeon_Challenger_Confirm: Vuoi cominciare il duello con uno dei Flagellatori?

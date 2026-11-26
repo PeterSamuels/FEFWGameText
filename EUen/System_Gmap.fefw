@@ -1,0 +1,207 @@
+﻿MID_Gmap_SpotKind_Hub: Base
+MID_Gmap_SpotKind_SimpleHub: Settlement
+MID_Gmap_SpotKind_Temple: Temple
+MID_Gmap_SpotKind_Station: Posthouse
+MID_Gmap_SpotKind_Gate: Checkpoint
+MID_Gmap_SpotKind_Explore: Search
+MID_Gmap_SpotKind_Banquet: Feast
+MID_Gmap_SpotKind_Dungeon: Dungeon
+MID_Gmap_SpotKind_Construction: Empty Plot
+MID_Gmap_SpotKind_Farm: Field
+MID_Gmap_SpotKind_Animal: Animal
+MID_Gmap_SpotKind_Fort: Fortress
+MID_Gmap_SpotKind_HellGate: Underworld
+MID_Gmap_SpotInfo_Recruit: Recruitment Info
+MID_Gmap_SpotInfo_Recruit_OtherLegions: {Variable=0} other {SingularPlural0=battalion|battalions}
+MID_Gmap_SpotInfo_Station: Destination
+MID_Gmap_SpotInfo_Explore: Appearance Rate
+MID_Gmap_SpotInfo_Animal: Appearance Info
+MID_Gmap_SpotInfo_Reconstruction: Construction Needs
+MID_Gmap_SpotInfo_Dungeon: Ideal Lv
+MID_Gmap_SpotInfo_Dungeon_Ore: Ore Info
+MID_Gmap_SpotInfo_Dungeon_Enemy_Destroy: No Foes
+MID_Gmap_SpotInfo_Dungeon_Traverse_CanTraverse: Uncharted
+MID_Gmap_SpotInfo_TempleWarp_Unopened: Gate of the Gods Unusable
+MID_Gmap_SpotInfo_TempleWarp_Opened: Gate of the Gods Usable
+MID_Gmap_SpotInfo_TempleWarp_Null: No Gate of the Gods
+MID_Gmap_SpotInfo_ExWarp_Opened: Warp Device Usable
+MID_Gmap_SpotInfo_HellGate_NotPredicated: Currently Unmaterialized
+MID_Gmap_SpotInfo_HellGate_Predicted: {Variable=0} {SingularPlural0=Turn|Turns} to Materialization
+MID_Gmap_SpotInfo_HellGate_Barriered: Barrier Preventing Assault
+MID_Gmap_SpotInfo_HellGate_Activated: Ready to Assault
+MID_Gmap_SpotInfo_HellGate_Cleared: Destroyable
+MID_Gmap_UnusableSpot: Unusable
+MID_Gmap_UnusableSpot_Temporarily: Unavailable
+MID_Gmap_UnusableSpot_Broken: Damaged
+MID_Gmap_UnusableSpot_Miasma: Miasma-Choked
+MID_Gmap_DagsionHp: Dagsion's Endurance
+MID_Gmap_KeyHelp_OpenShopGuide: Wares
+MID_Gmap_TurnStart: Turn Start
+MID_Gmap_NextTurn: Next Turn
+MID_Gmap_Encount_Enemy: Battle
+MID_Gmap_StartDefense: Danger
+MID_Gmap_MainQuest_Confirm: Proceed to the main quest?
+MID_Gmap_SpotSelect_Enter_Confirm: Enter {Variable=0}?
+MID_Gmap_SpotSelect_Dungeon_Confirm: Explore {Variable=0}?
+MID_Gmap_SpotSelect_HellGate_Confirm: Assault the underworld gate?
+MID_Gmap_SpotSelect_HellGateDestroy_Confirm: The story will progress once you destroy the gate. Are you sure?
+MID_Gmap_CallAnimal_Confirm: Lure an animal with this bait?
+MID_Gmap_MakeFarm_Confirm: Create a field to farm this crop?
+MID_Gmap_ReMakeFarm_Confirm: Replant this crop in the field?
+MID_Gmap_BoostFarm_Confirm: Use this fertilizer?
+MID_Gmap_BladeResonance_Confirm: Sound your blade?
+MID_Gmap_Recruit_Confirm: Begin recruitment?
+MID_Gmap_BoostRecruit_Confirm: Give a rousing speech?
+MID_Gmap_Show_Confirm: Hold a performance?
+MID_Gmap_CorpsDelete_Confirm: Disband this squad?
+MID_Gmap_CorpsDelete_Message: Squad disbanded.
+MID_Gmap_Reconstruction_Confirm: Begin rebuilding with these items?
+MID_Gmap_CoopsSelect_Message: Select a squad to act.
+MID_Gmap_CoopsSelect_Coops: Available Squads
+MID_Gmap_CoopsSelect_Hub: Explore Base
+MID_Gmap_CoopsSelect_Hub_Enable: Available
+MID_Gmap_CoopsSelect_Hub_Disable: Unavailable
+MID_Gmap_Expired_Message: The deadline has arrived. You will progress to the main quest.\n(HP, magic uses, and Divine Sand will be restored.)
+MID_Gmap_SideStory_End_Message: The deadline for {Variable=0} has passed.
+MID_Gmap_CorpsIncreased_Message: The number of squads you can form has increased.
+MID_Gmap_ShowHellGate_Message: The miasma has been dispelled, making it\npossible to assault the underworld gate.
+MID_Gmap_TurnEnd_Confirm: You have not deployed all available squads.\nAre you sure you want to end the turn?
+MID_Gmap_TurnEnd_Yes: Yes (Don't Ask Again)
+MID_Gmap_MakeFarm_Message: Field created.
+MID_Gmap_BoostFarm_Message: Fertilizer spread.
+MID_Gmap_CallAnimal_Message: Bait placed.
+MID_Gmap_LegionDispatch_Message: Battalion deployed.
+MID_Gmap_Reconstruction_Message: Rebuilding started.
+MID_Gmap_OpenRoute_Message: The map you acquired revealed new roads.
+MID_Gmap_TalkOpenExplore_Message: You learned about materials to be found at {Variable=0}.
+MID_Gmap_TalkOpenAnimal_Message: You learned about animals that appear at {Variable=0}.
+MID_Gmap_ShowOpenSpot_Message: A resident let you know about a new location: {Variable=0}.
+MID_Gmap_BladeResonance_NoEnemy_Message: No enemy presence detected.
+MID_GmapMenu_MainQuest: Main Quest
+MID_GmapMenu_MainQuest_Help: Proceed to the main quest.\n(This will end free time.)
+MID_GmapMenu_SideStory: Paralogue
+MID_GmapMenu_SideStory_Help: Start the paralogue.\n(This will not end free time.)
+MID_GmapMenu_Enter: Enter
+MID_GmapMenu_Enter_Help: Enter the area to walk around.
+MID_GmapMenu_Dungeon: Explore Dungeon
+MID_GmapMenu_Dungeon_Help: Enter the dungeon to explore it.
+MID_GmapMenu_GodlyPortal: Gate of the Gods
+MID_GmapMenu_GodlyPortal_Help: Teleport to another temple through\na Gate of the Gods you can access.
+MID_GmapMenu_ExPortal: Warp Device
+MID_GmapMenu_ExPortal_Help: Teleport to another location with\nan unlocked warp device.
+MID_GmapMenu_Explore: Search
+MID_GmapMenu_Explore_Help: Search for materials. You may also\ndiscover new locations.
+MID_GmapMenu_Banquet: Feast
+MID_GmapMenu_Banquet_Help: Use ingredients to hold a feast.\nRestores HP and magic. Increases\nsupport points for all allies.
+MID_GmapMenu_Carriage: Carriage
+MID_GmapMenu_Carriage_Help: Ride to a previously visited\nposthouse to cover long\ndistances quickly.
+MID_GmapMenu_Talk: Talk
+MID_GmapMenu_Talk_Help: Talk to people at this location.
+MID_GmapMenu_Facility: Use Facilities
+MID_GmapMenu_Facility_Help: Use this location's facilities.
+MID_GmapMenu_Fix: Wait
+MID_GmapMenu_Fix_Help: End your action and wait.
+MID_GmapMenu_ContinueMove: Keep Moving
+MID_GmapMenu_ContinueMove_Help: Continue down the road.
+MID_GmapMenu_CallAnimal: Lure
+MID_GmapMenu_CallAnimal_Help: Place bait to attract an animal.
+MID_GmapMenu_CaptureAnimal: Capture
+MID_GmapMenu_CaptureAnimal_Help: Attempt to catch a lured animal.
+MID_GmapMenu_MakeFarm: Farm
+MID_GmapMenu_MakeFarm_Help: Create a plot of land to increase the\nyield of certain plants.
+MID_GmapMenu_ReMakeFarm: New Farm
+MID_GmapMenu_ReMakeFarm_Help: Abandon the current field to create\na new one.
+MID_GmapMenu_BoostFarm: Fertilize
+MID_GmapMenu_BoostFarm_Help: Spread fertilizer on a field to\nimprove the chances of harvesting\nrare plants.
+MID_GmapMenu_Recruit: Recruit Soldiers
+MID_GmapMenu_Recruit_Help: Gain a new battalion of soldiers.
+MID_GmapMenu_Recruit_ForceBoost: Recruiting Drive
+MID_GmapMenu_Recruit_ForceBoost_Help: Recruit battalions with greater\nchance of high-quality soldiers.
+MID_GmapMenu_BoostRecruit: Rousing Speech
+MID_GmapMenu_BoostRecruit_Help: Raises effectiveness of Recruit\nSoldiers, allowing for a greater\nchance of high-quality battalions.
+MID_GmapMenu_LegionDispatch: Deploy
+MID_GmapMenu_LegionDispatch_Explore: Deploy to Search
+MID_GmapMenu_LegionDispatch_Explore_Help: Direct a battalion to spend its\ntime searching for materials.
+MID_GmapMenu_LegionDispatch_Reconstruction: Deploy to Rebuild
+MID_GmapMenu_LegionDispatch_Reconstruction_Help: Direct a battalion to speed up\nrebuilding work.
+MID_GmapMenu_LegionReDispatch: Redeploy
+MID_GmapMenu_LegionReDispatch_Help: Recall a deployed battalion and\ndeploy it to this location.
+MID_GmapMenu_LegionDispatch_Fort: Deploy to Defend
+MID_GmapMenu_LegionDispatch_Fort_Help: Direct a battalion to defend a\nstronghold from enemy forces.
+MID_GmapMenu_Blade: Answerer's Cry
+MID_GmapMenu_Blade_Help: Reveals foes lurking at locations\nwithin range.
+MID_GmapMenu_Show: Perform
+MID_GmapMenu_Show_Help: Give a performance and receive\nrewards or information in return.
+MID_GmapMenu_CorpsCreate: Form Squad
+MID_GmapMenu_CorpsCreate_Help: Organize allies into a squad to\ndeploy them.
+MID_GmapMenu_CorpsDelete: Disband Squad
+MID_GmapMenu_CorpsDelete_Help: Disband a squad and send allies\nback to Dagsion.
+MID_GmapMenu_CorpsExchange: Swap Members
+MID_GmapMenu_CorpsExchange_Help: Transfer allies from one squad\nto another.
+MID_GmapMenu_CorpsDivide: Split Squad
+MID_GmapMenu_CorpsDivide_Help: Split a squad to deploy the two\nnew ones as separate squads.
+MID_GmapMenu_Reconstruction: Rebuild
+MID_GmapMenu_Reconstruction_Help: Use the required materials to\nrestore a location.
+MID_GmapMenu_DestroyMiasma: Dispel Miasma
+MID_GmapMenu_DestroyMiasma_Help: Dispel a single level of miasma.\nDense miasma requires dispelling\nmultiple levels to remove.
+MID_GmapMenu_Hellgate: Underworld Gate
+MID_GmapMenu_Hellgate_Help: Proceed to an underworld gate and\nfight the foes guarding it.
+MID_GmapMenu_HellgateDestroy: Destroy Gate
+MID_GmapMenu_HellgateDestroy_Help: Destroy underworld gate.
+MID_BanquetMenu_Help: Select ingredients to use.
+MID_BanquetMenu_Use_Food: Ingredients
+MID_BanquetMenu_Required: Required
+MID_BanquetMenu_Optional: Optional
+MID_BanquetMenu_Taste: Flavor
+MID_BanquetMenu_Magic: Magic
+MID_BanquetMenu_Recovery: Restored Per Ally
+MID_BanquetMenu_Recovery_HP: HP
+MID_BanquetMenu_Recovery_Magic: Magic Uses
+MID_BanquetMenu_Sort_HP: HP Restored
+MID_BanquetMenu_Sort_Magic: Magic Uses Restored
+MID_BanquetMenu_Confirm: Feast with these ingredients?
+MID_BanquetMenu_Cancel_Confirm: Cancel feast?
+MID_Gmap_Banquet_Perfect_Message: The feast was lively. Everyone recovered!
+MID_Gmap_Banquet_Good_Message: Everyone recovered well, but there was food left over...
+MID_Gmap_Banquet_Bad_Message: There wasn't enough food for everyone to recover...
+MID_GmapMap_Help: Select a destination.
+MID_GmapMap_Invalid_Message: You cannot use this right now.
+MID_GmapMap_CorpsEmpty_Message: Currently unavailable.\nThis base's Gate of the Gods can only be used when\nentering with a unit other than {AvatarName}.
+MID_GmapMap_SpotKind_Hub: Bases
+MID_GmapMap_SpotKind_SimpleHub: Settlements
+MID_GmapMap_SpotKind_Temple: Temples
+MID_GmapMap_SpotKind_Station: Posthouses
+MID_GmapMap_SpotKind_Gate: Checkpoints
+MID_GmapMap_SpotKind_Explore: Searches
+MID_GmapMap_SpotKind_Banquet: Feasts
+MID_GmapMap_SpotKind_Dungeon: Dungeons
+MID_GmapMap_SpotKind_Construction: Empty Plots
+MID_GmapMap_SpotKind_Animal: Animals
+MID_GmapMap_SpotKind_Fort: Fortresses
+MID_CorpsCreateMenu_Help: Select units to form a new squad.
+MID_CorpsExchangeMenu_Help: Select units to swap.
+MID_CorpsDivideMenu_Help: Select units for the split squad.
+MID_CorpsMenu_AvgLv: Avg Lv
+MID_CorpsMenu_OverallHp: Total HP
+MID_CorpsMenu_OverallMagicEndure: Magic Left
+MID_CorpsMenu_Abilities: Talents
+MID_CorpsMenu_CorpsName: {Variable=0}'s Squad
+MID_CorpsMenu_CorpsGroupName: {Variable=0}'s Team
+MID_CorpsMenu_Pool: Dagsion Reserve
+MID_CorpsMenu_Confirm: Deploy with these units?
+MID_CorpsMenu_Cancel_Confirm: Return to the world map without deploying?
+MID_LegionDispatchMenu_Unused: Standby
+MID_LegionDispatchMenu_Deployed: Assigned
+MID_LegionDispatchMenu_Explore: Searching
+MID_LegionDispatchMenu_Reconstruction: Rebuilding
+MID_LegionDispatchMenu_Fort: Defending
+MID_LegionDispatchMenu_ExploreInfo: Gather Cap
+MID_LegionDispatchMenu_FortInfo: Defenses
+MID_LegionDispatchMenu_State: Status
+MID_LegionDispatchMenu_Dispatch_Confirm: This battalion is currently deployed to {Variable=0}. End its\ndeployment and redeploy it here?
+MID_LegionDispatchMenu_Owner_Confirm: This battalion is currently assigned to {Variable=0}. Unassign it\nand deploy it here?
+MID_LegionReDispatchMenu_Title: Recall and {Variable=0}
+MID_LegionCombackMenu_Help: Check battalion deployment status.
+MID_LegionCombackMenu_ExploreInfo: Searching
+MID_LegionCombackMenu_FortInfo: Defenses
+MID_LegionCombackMenu_ReconstructionInfo: Rebuilding

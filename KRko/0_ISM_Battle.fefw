@@ -1,0 +1,175 @@
+﻿MID_SC00_00_m01: <TH>
+MID_SC00_00_m01_001: 이곳은 전자적으로\n만들어 낸 가상 공간일세.
+MID_SC00_00_m01_002: 이곳에서는 자네의 새로운 몸이 가질\n이론상의 성능을 유사하게 재현하고 있지.
+MID_SC00_00_m01_003: 현실의 자네는 아직 잠들어 있고\n몸도 한창 제작 중이네만……
+MID_SC00_00_m01_004: 육체가 완성되면 바로 싸울 수 있도록\n훈련을 해 두는 편이 좋을 것 같았거든.
+MID_SC00_00_m01_005: 그럼 자네가 준비를 마치는 대로\n훈련을 시작하도록 하지.
+MID_SC00_00_m01_006: <ICA>전투 훈련을 시작한다
+MID_SC00_00_m01_007: <ICB>훈련은 필요 없다
+MID_SC00_00_m01_008: <ACA>좋아, 그럼 바로 시작하도록 하지.
+MID_SC00_00_m01_009: <ACB>하지만…… 정말로 괜찮겠나?\n물론 이쪽도 강요할 생각은 없다만.
+MID_SC00_00_m01_010: <ACB>조정자의 육체는 하나부터 열까지 특별하여\n평범한 인간의 몸과는 큰 차이가 있지.
+MID_SC00_00_m01_011: <ACB>솔직한 심정으로는 사전에 조금이라도\n감각을 익혀 두었으면 싶다만……
+MID_SC00_00_m01_012: <ICA>역시 하겠다
+MID_SC00_00_m01_013: <ICB>문제없다
+MID_SC00_00_m01_016: <ACA>좋아, 그럼 바로 시작하도록 하지.
+MID_SC00_00_m01_015: <ACA>
+MID_SC00_00_m01_014: <ACB>자네가 그리 말한다면 괜찮겠지.\n그럼 훈련을 중지하도록 하겠네.
+MID_SC00_00_m03: <TH>
+MID_SC00_00_m03_001: 지금 설명한 내용은\n모든 전투의 기본이니 잘 기억해 두게나.
+MID_SC00_00_m03_002: 그럼 다음 훈련으로 이동하지.
+MID_SC00_00_e01: <TH>
+MID_SC00_00_e01_001: 이게 자네일세.
+MID_SC00_00_e02: <TH>
+MID_SC00_00_e02_001: 그리고 저것이 적, 즉 쓰러뜨려야 할 상대지.
+MID_SC00_00_e02_002: 우선 적 근처까지 {SetColor=Gold}이동{SetColor=Default}해 보게.
+MID_SC00_00_e03: <TH>
+MID_SC00_00_e03_001: <DLG>{AvatarName}에게 커서를 맞추고\n{ButtonA}를 누르십시오
+MID_SC00_00_e04: <TH>
+MID_SC00_00_e04_001: <DLG>이동하고 싶은 곳에 커서를 맞추고\n{ButtonA}를 누르십시오
+MID_SC00_00_e05: <TH>
+MID_SC00_00_e05_001: 뭐 하는 건가?\n적 근처까지 {SetColor=Gold}이동{SetColor=Default}해 보게.
+MID_SC00_00_e06: <TH>
+MID_SC00_00_e06_001: 좋아, 그럼 적에게 더 가까이 {SetColor=Gold}이동{SetColor=Default}해서\n{SetColor=Gold}공격{SetColor=Default}해 보게.
+MID_SC00_00_e07: <TH>
+MID_SC00_00_e07_001: 잘했네.\n하지만 {SetColor=Gold}다음엔 상대가 행동{SetColor=Default}할 테니 방심하지 말게.
+MID_SC00_00_e08: <TH>
+MID_SC00_00_e08_001: 훌륭하군. 바로 그걸세.
+MID_SC00_00_e09: <TH>
+MID_SC00_00_e09_001: <DLG>적의 증원군이 나타났습니다
+MID_SC00_00_e10: <TH>
+MID_SC00_00_e10_001: 전투 중에 {SetColor=Gold}새로운 적이 나타날{SetColor=Default} 때가 있지.\n그런 가능성도 염두에 두어야 하네.
+MID_SC00_00_e11: <TH>
+MID_SC00_00_e11_001: 적의 공격으로 부상을 입었나?\n그럼 이걸로 {SetColor=Gold}회복{SetColor=Default}하게.
+MID_SC00_00_e12: <TH>
+MID_SC00_00_e12_001: 이 전투에서 전하고 싶은 말은 여기까지네.\n배운 내용을 떠올리며 적을 쓰러뜨려 보게.
+MID_SC00_00_e17: <TH>
+MID_SC00_00_e17_001: 좋아. 그 밖에도 자네가 알아 둬야 할 것이 있네.\n그에 대해서도 알려 주지.
+MID_SC00_00_e13: <TH>
+MID_SC00_00_e13_001: <DLG>전투 맵에서의 마우스 조작법을 익히겠습니까?\n(조작 설명은 나중에 확인할 수도 있습니다)
+MID_SC00_00_e14: <TH>
+MID_SC00_00_e14_001: <DLG>마우스 조작에 대한 자세한 내용은 「튜토리얼」에서 확인할 수 있습니다\n마우스로 조작하고 싶을 때 참고해 주십시오
+MID_SC00_00_e15: <TH>
+MID_SC00_00_e15_001: <DLG>전투 맵에서는 Joy-Con 2 (R)를 움직여\n커서를 이동시킬 수 있습니다
+MID_SC00_00_e15_002: <DLG>좌 클릭{MouseR}({ButtonR})은 결정,\n우 클릭{MouseZR}({ButtonZR})은 취소입니다
+MID_SC00_00_e15_003: <DLG>먼저 유닛을 선택해 봅시다\n{AvatarName}에게 커서를 맞추고\n{ButtonR}을 누르십시오
+MID_SC00_00_e16: <TH>
+MID_SC00_00_e16_001: <DLG>그다음에는 유닛을 이동시켜 봅시다\n마우스를 움직여 이동하고 싶은 곳에 커서를 맞추고\n{ButtonR}을 누르십시오
+MID_SC00_00_e18: <TH>
+MID_SC00_00_e18_001: 이해가 빠르군. 바로 그걸세.\n그럼 이어서 적을 쓰러뜨려 보게.
+MID_SC00_01_m02: <TH>
+MID_SC00_01_m02_001: 전장에서는 주변을 잘 살피고\n항상 어떻게 싸울지 생각하는 것이 중요하네.
+MID_SC00_01_m02_002: 그럼 다음 훈련으로 이동하도록 하지.
+MID_SC00_01_e01: <TH>
+MID_SC00_01_e01_001: 적을 이기기 위해서는 {SetColor=Gold}지형을 활용{SetColor=Default}하는 것이 중요하네.
+MID_SC00_01_e02: <TH>
+MID_SC00_01_e02_001: 예를 들어 저기 있으면\n{SetColor=Gold}적이 공격을 명중시키기 어려워지지{SetColor=Default}. 시험해 보게.
+MID_SC00_01_e03: <TH>
+MID_SC00_01_e03_001: 음, 좋은 위치군.\n거기서 적을 {SetColor=Gold}공격{SetColor=Default}해 보게.
+MID_SC00_02_m02: <TH>
+MID_SC00_02_m02_001: 기술 능력을 연마하여 새로운 병과를 획득하면\n취할 수 있는 전술의 선택지도 넓어지지.
+MID_SC00_02_m02_002: 상대에 따라 효과적인 수단이\n바뀐다는 것을 항상 염두에 두게나.
+MID_SC00_02_m02_003: ……그래, 가상 공간이긴 하지만\n새로운 몸의 감각은 어느 정도 익힌 것 같군.
+MID_SC00_02_m02_004: 그럼 다음이 마지막 훈련일세.\n빠르게 이동하도록 하지.
+MID_SC00_02_e01: <TH>
+MID_SC00_02_e01_001: {SetColor=Gold}벽 너머의 적{SetColor=Default}이 보이나?
+MID_SC00_02_e02: <TH>
+MID_SC00_02_e02_001: 이번에 자네는 지금까지의 무기가 아니라\n{SetColor=Gold}활{SetColor=Default}을 사용할 걸세.
+MID_SC00_02_e02_002: {SetColor=Gold}활{SetColor=Default}을 쓰면 {SetColor=Gold}떨어져 있는 적을 공격{SetColor=Default}할 수 있지.\n물론 {SetColor=Gold}벽 너머의 적을 노리는{SetColor=Default} 것도 가능하네.
+MID_SC00_02_e03: <TH>
+MID_SC00_02_e03_001: 자, {SetColor=Gold}활{SetColor=Default}을 사용하여 적을 {SetColor=Gold}쓰러뜨려 보게{SetColor=Default}.
+MID_SC00_02_e04: <TH>
+MID_SC00_02_e04_001: 음.\n잘 다루는군.
+MID_SC00_02_e05: <TH>
+MID_SC00_02_e05_001: 저건 {SetColor=Gold}날아다니는 적{SetColor=Default}이지.\n{SetColor=Gold}활은{SetColor=Default} 저런 유형의 적에게 {SetColor=Gold}높은 위력{SetColor=Default}을 발휘한다네.
+MID_SC00_02_e05_002: {SetColor=Gold}활{SetColor=Default}을 사용하여 날아다니는 적을 {SetColor=Gold}쓰러뜨려 보게{SetColor=Default}.
+MID_SC00_03_m02: <TH>
+MID_SC00_03_m02_001: 좋아, 몸은 문제없이 다루는 듯하니\n훈련은 이쯤에서 마치도록 하지.
+MID_SC00_03_m02_002: 음…… 현실 세계의 자네 몸이 완성되려면\n아직 조금 더 시간이 필요하겠군.
+MID_SC00_03_m02_003: 지금은 푹 쉬어 두는 것이 좋을 게야.\n필시 일어난 후부터 바빠질 테니 말일세.
+MID_SC00_03_e01: <TH>
+MID_SC00_03_e01_001: 조심하게.\n저건 지금까지 상대한 적들보다 강력하네.
+MID_SC00_03_e01_002: 무턱대고 공격해 봤자 역으로 당할 뿐이겠지.\n이럴 때는 {SetColor=Gold}전투 기술{SetColor=Default}을 사용해야 하네.
+MID_SC00_03_e02: <TH>
+MID_SC00_03_e02_001: {SetColor=Gold}전투 기술{SetColor=Default}을 사용하여 저 적을 {SetColor=Gold}쓰러뜨려 보게{SetColor=Default}.
+MID_SC00_04_m01: <TH>
+MID_SC00_04_m01_001: 다행이야……\n무사히 완성되었구나.
+MID_SC00_04_m02_001: 덕분에 살았어.\n우선은 감사의 인사를 전하지.
+MID_SC00_04_m02_002: 너는 실로 구세주다……\n………………
+MID_SC00_04_m01_002: 하지만 지금은 몰려든 적들을\n정리해야 하니 협력을 부탁하지.
+MID_SC00_04_m03: <TH>
+MID_SC00_04_m03_001: 좋아, 적들은 전부 정리한 것 같군.
+MID_SC00_04_m03_002: ……잠깐.\n그러고 보니 제논님은 어떻게 되셨지……?
+MID_SC00_04_e02: <TH>
+MID_SC00_04_e02_001: 이럴 수가……!\n이…… 이게 바로 구세주의 힘인가……!
+MID_SC00_04_e05: <TH>
+MID_SC00_04_e05_001: 물고기에게 헤엄을 가르치는 격이지만……\n넌 깨어난 지 얼마 안 됐으니 몇 가지 조언을 해 주지.
+MID_SC00_04_e05_002: 난 {SetColor=Gold}마법{SetColor=Default}을 사용할 수 있어.\n마법을 쓰면 {SetColor=Gold}떨어져 있는 적{SetColor=Default}도 {SetColor=Gold}공격할 수{SetColor=Default} 있다.
+MID_SC00_04_e06: <TH>
+MID_SC00_04_e06_001: 한 명이 마법 등으로 {SetColor=Gold}원거리에서 공격{SetColor=Default}하고\n다른 한 명이 {SetColor=Gold}마무리를 짓는 것{SetColor=Default}이 {SetColor=Gold}기본 전법{SetColor=Default}이지.
+MID_SC00_04_e07: <TH>
+MID_SC00_04_e07_001: {SetColor=Gold}중갑을 두른 적{SetColor=Default}에게는 창이 거의 통하지 않는다.\n그런 상대에게도 {SetColor=Gold}마법은 유효{SetColor=Default}하지. 나한테 맡겨.
+MID_SC00_04_e08: <TH>
+MID_SC00_04_e08_001: {SetColor=Gold}중갑을 두른 적{SetColor=Default}에게는 창이 거의 통하지 않지만\n{SetColor=Gold}마법은 유효{SetColor=Default}하다. 나한테 맡겨.
+MID_SC00_04_e09: <TH>
+MID_SC00_04_e09_001: 함부로 적진에 뛰어드는 것은 위험해.\n{SetColor=Gold}상대의 공격 범위{SetColor=Default}에 주의하는 게 좋다.
+MID_SC00_04_e10: <TH>
+MID_SC00_04_e10_001: 큭…… 수가 너무 많군.
+MID_SC00_04_e10_002: 구세주……\n힘을 빌려주지 않겠나?
+MID_SC00_04_e11: <TH>
+MID_SC00_04_e11_001: <DLG>{AvatarName}의 블레이즈 아츠\n파사섬격을 사용해 보십시오
+MID_SC00_04_e12: <TH>
+MID_SC00_04_e12_001: 네가 있으면 더 이상 두려울 게 없어.\n함께 녀석들을 이 땅에서 모조리 쓸어버리자!
+MID_SC00_05_m01: <TH>
+MID_SC00_05_m01_001: 네 녀석들에겐 들리지 않는가……\n이 죽은 자들의 목소리가.
+MID_SC00_05_m01_002: 시체의 숲이 네 녀석들과\n함께하고 싶다며 술렁이는 소리가……
+MID_SC00_05_m01_003: 자, 나와라……\n발로르의 전사들이여……
+MID_SC00_05_m08: <TH>
+MID_SC00_05_m01_004: ………………
+MID_SC00_05_m09: <TH>
+MID_SC00_05_m01_005: ………………
+MID_SC00_05_m10: <TH>
+MID_SC00_05_m01_006: ………………
+MID_SC00_05_m11: <TH>
+MID_SC00_05_m01_007: ………………
+MID_SC00_05_m12: <TH>
+MID_SC00_05_m01_008: ……이건!?\n그렇군, 너희마저도……
+MID_SC00_05_m01_009: 젠장, 린드로도 모자라\n적으로 돌리고 싶지 않은 얼굴만 나타나는군.
+MID_SC00_05_m01_010: 저들은 분명 5년 전에 열린 대검투제의\n본선 진출자들…… 하나같이 강자들이야.
+MID_SC00_05_m01_011: 피라미들과는 격이 다르니 방심하지 마!
+MID_SC00_05_m02: <TH>
+MID_SC00_05_m02_001: ……어째서지.\n나…… 행복해지고 싶었을 뿐인데……
+MID_SC00_05_m03: <TH>
+MID_SC00_05_m03_001: ………………\n넌…… 즐거운가……?
+MID_SC00_05_m04: <TH>
+MID_SC00_05_m04_001: 선대의 분노…… 유 파스의 슬픔……\n나는…… 모든 것을…… 파괴한다……!
+MID_SC00_05_m05: <TH>
+MID_SC00_05_m05_001: ……나는…… 그 남자의 가슴을 찢고……\n심장을…… 뽑아내지 않으면……
+MID_SC00_05_m06: <TH>
+MID_SC00_05_m06_001: 역시…… 기분 탓이 아니군.\n네 녀석에겐 무언가 느껴지는 것이 있다……
+MID_SC00_05_m06_002: 하나…… 어디서 본 것인지……\n뭐, 죽여 버리면 아무래도 상관없나.
+MID_SC00_05_m07: <TH>
+MID_SC00_05_m07_001: 산 자들이여, 애처롭구나.\n내가 그 고통에서 해방시켜 주마……
+MID_SC00_05_e01: <TH>
+MID_SC00_05_e01_001: 큭……!\n화끈하게 나오네!
+MID_SC00_05_e01_002: 상처약은 가지고 있니?\n없으면 내가 {SetColor=Gold}회복 마법{SetColor=Default}을 걸어 줄게.
+MID_SC00_05_e02: <TH>
+MID_SC00_05_e02_001: 저 소년은 "마안의 카이"야.\n말의 {SetColor=Gold}기동력을 활용한 전투{SetColor=Default}가 특기지.
+MID_SC00_05_e02_002: 그리고 지금 같은 공격도 해 오니\n절대 방심해서는 안 돼!
+MID_SC00_05_e03: <TH>
+MID_SC00_05_e03_001: 단신으로 오다니 우리를 얕보고 있네.\n공격을 퍼부어 주자!
+MID_SC00_05_e04: <TH>
+MID_SC00_05_e04_001: 후우…… 린드가 있는 곳까지 뚫고 가려면\n고생 좀 하겠네.
+MID_SC00_05_e05: <TH>
+MID_SC00_05_e05_001: {SetColor=Gold}바닥에 마력{SetColor=Default}이 흐르고 있어.\n저기서 {SetColor=Gold}회복{SetColor=Default}하면서 나아가는 게 좋겠네.
+MID_SC00_05_e06: <TH>
+MID_SC00_05_e06_001: 이동한 후 또 한 번 거리를 좁히다니……!?
+MID_SC00_05_e06_002: 저 녀석은 "미영귀 디트리히"야.\n입고 있는 외투의 힘으로 {SetColor=Gold}순간 이동{SetColor=Default}이 가능하지.
+MID_SC00_05_e06_003: 저 능력을 피해 달아나는 건 쉽지 않아.\n거리를 두고, 움직인 후를 노리자.
+MID_SC00_05_e07: <TH>
+MID_SC00_05_e07_001: "유현의 연주자 레다"……\n그녀의 연주는 {SetColor=Gold}듣는 사람의 마음을 홀리지{SetColor=Default}.
+MID_SC00_05_e08: <TH>
+MID_SC00_05_e08_001: 조심해! 그녀의……\n"파군성 세오도라"의 {SetColor=Gold}일격은 강력{SetColor=Default}하다!
+MID_SC00_05_e08_002: 또한 그녀는 철벽같은 방어력을 지녔지.\n마법 공격으로 맞서는 수밖에 없어.
+MID_SC00_05_e09: <TH>
+MID_SC00_05_e09_001: 잘 들어. 녀석들은 만만치 않아……\n그러니까 우리도 서로 {SetColor=Gold}협력하면서 싸워야{SetColor=Default} 해.

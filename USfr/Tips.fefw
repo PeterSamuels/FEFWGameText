@@ -1,0 +1,120 @@
+﻿MID_Tips_BasicKnowledge_t: Rudiments
+MID_Tips_Hub_t: Bases
+MID_Tips_Battle_t: Batailles
+MID_Tips_Dungeon_t: Zones à explorer
+MID_Tips_WorldMap_t: Carte du monde
+MID_Tips_Route_KAI_t: Général ardent Cai
+MID_Tips_Route_SEO_t: Générale ardente Theodora
+MID_Tips_Route_DIT_t: Général ardent Dietrich
+MID_Tips_Route_LED_t: Générale ardente Leda
+MID_Tips_WeaponTypeTraits1_m01: Les épées infligent de gros dégâts en cas de double frappe. Les lances sont efficaces contre la cavalerie. Les haches infligent au moins 5 points de dégâts.
+MID_Tips_WeaponTypeTraits2_m01: Les arcs sont très efficaces contre les unités volantes. Les gantelets augmentent l'Esq contre les autres types d'armes.
+MID_Tips_Rogue_m01: Certaines classes, comme les escrocs, voient un peu plus loin dans le brouillard et les tempêtes de sable.
+MID_Tips_Motivation_m01: Obtenir un « {LowercaseNextLetter}Parfait ! » à l'{LowercaseNextLetter}Entraînement, au {LowercaseNextLetter}Théâtre, en jouant une pièce ou en rendant un {LowercaseNextLetter}Service vous rend de la {LowercaseNextLetter}Motivation.
+MID_Tips_EncounterBattle_m01: La force des ennemis est déterminée par la région dans laquelle ils apparaissent.
+MID_Tips_EnemyLV_m01: Lors de la partie 3 : {LowercaseNextLetter}Le salut, des ennemis plus puissants apparaîtront à mesure de la progression de l'histoire.
+MID_Tips_OpenSpot_m01: Les routes vers certains lieux ne sont accessibles que dans certaines directions.
+MID_Tips_Dungeon_m01: Quittez une zone à explorer par une autre issue que son entrée pour déverrouiller une nouvelle route sur la carte du monde.
+MID_Tips_SeaSpot_m01: Si vous disposez d'un navire, vous pouvez accéder aux lieux qui se trouvent en mer.
+MID_Tips_DetailedInformation1_m01: Appuyez sur {ButtonX} sur certains écrans, comme l'écran Statut, pour afficher des informations détaillées.
+MID_Tips_Frontline_Rearline_m01: Les dégâts infligés lors d'un {LowercaseNextLetter}Combat rapide dépendent de l'unité qui se trouve en première ligne à chaque manche.
+MID_Tips_IncreaseSkillLevel_m01: La magie, les capacités et les techniques apprises à chaque niveau de talent varient selon les unités.
+MID_Tips_Root_Capture1_m01: Il existe un lieu en Dagda où il est possible de capturer des animaux rares.
+MID_Tips_Hub_Perch1_m01: Vous pouvez sauvegarder la progression de la trame actuelle et retourner dans la Chambre aux obélisques depuis le roc du Corbeau Blanc.
+MID_Tips_DetailedInformation2_m01: Quand une technique d'une autre unité vous affecte, vous pouvez appuyer sur {ButtonMinus} pour en savoir plus.
+MID_Tips_Skill_m01: Les talents pour lesquels une unité est compétente ont une icône jaune et rapportent plus d'expérience de talent, les autres ont une icône bleue.
+MID_Tips_EffectiveSpecial_m01: Les Dmg des attaques efficaces contre des types d'ennemis spécifiques sont doublés et ceux des attaques très efficaces triplés.
+MID_Tips_SpecialAttack_m01: Si une attaque bénéficie de plusieurs types d'efficacité, c'est le plus puissant qui s'applique.
+MID_Tips_ShortBattle_AdjacentSkills_m01: Les techniques affectant les alliés à proximité s'appliquent aussi lors d'un {LowercaseNextLetter}Combat rapide
+MID_Tips_ShortBattle_CooperationCommand_m01: Lors d'un {LowercaseNextLetter}Combat rapide, plus le niveau de soutien entre deux unités est élevé, plus le {LowercaseNextLetter}Coût en PE de leurs attaques enchaînées est réduit.
+MID_Tips_ShortBattle_Auto_m01: Quand vous choisissez Passer le combat lors d'un {LowercaseNextLetter}Combat rapide, une unité aléatoire termine le combat.
+MID_Tips_OtherForces_m01: Passer par un lieu ou y Louer une chambre met à jour les ennemis et marchands sur la carte du monde.
+MID_Tips_FastMovement_m01: Appuyez sur {ButtonA} ou {ButtonY} pour accélérer le déplacement du personnage sur la carte de bataille ou pendant un trajet.
+MID_Tips_Scroll_m01: Maintenez {ButtonY} pour accélérer les mouvements du curseur sur les cartes et dans les menus.
+MID_Tips_Mummy_m01: Les momies d'or vous font gagner des {LowercaseNextLetter}Trésors et les momies d'argent de l'expérience supplémentaire.
+MID_Tips_AnnaShop_m01: La {LowercaseNextLetter}Boutique d'Anna n'est ouverte que la nuit, mais vend des objets rares.
+MID_Tips_ZoomView_m01: Pendant une bataille, maintenez {StickR} vers le haut pour changer de caméra et avoir une meilleure vue des cases alentour.
+MID_Tips_BattlePrediction_m01: Appuyez sur {ButtonX} quand les pronostics de combat sont affichés pour voir des informations détaillées sur les armes et techniques.
+MID_Tips_OrganizeItems_m01: Appuyez sur {ButtonZL} quand vous organisez votre inventaire pour déplacer le curseur entre les objets et le stockage.
+MID_Tips_Move_m01: Vous pouvez accéder à la carte du monde ou à la quête principale depuis le menu de base à l'aide de l'option Navigation.
+MID_Tips_Hub_Causal_m01: Les {LowercaseNextLetter}Bienfaits du salut vous permettent d'échanger des éclats de karma contre des effets utiles.
+MID_Tips_Hub_Perch2_m01: Les unités qui ont augmenté leur niveau de soutien avec {AvatarName} au roc du Corbeau blanc bénéficient de sauvetages de soutien plus fréquents.
+MID_Tips_Hub_Shop_m01: Le {LowercaseNextLetter}Magasin et l'{LowercaseNextLetter}Armurerie vous proposeront davantage d'objets à mesure de votre progression de l'histoire.
+MID_Tips_Hub_Volunteer_m01: Vous ne pouvez rendre {LowercaseNextLetter}Service au temple qu'une fois par semaine.
+MID_Tips_Hub_Volunteer2_m01: Rendre {LowercaseNextLetter}Service dans un temple lors de son jour sacré fait gagner plus de {LowercaseNextLetter}Dons.
+MID_Tips_Hub_Bill_m01: Passer un {LowercaseNextLetter}Examen d'aptitude nécessite de posséder un {LowercaseNextLetter}Permis qu'on peut se procurer auprès du {LowercaseNextLetter}Vendeur de permis, mais en quantité limitée.
+MID_Tips_Hub_DestinyKarma_m01: Vous pouvez gagner des éclats de karma en atteignant les étapes énumérées dans les annales.
+MID_Tips_Hub_Thermae_m01: Les techniques gagnées aux {LowercaseNextLetter}Thermes durent tout le chapitre, mais doivent être équipées.
+MID_Tips_Hub_TempleCrown_m01: Cachées dans des zones à explorer, les clés de la diadémée ouvrent des portes vers de nouvelles classes dans le {LowercaseNextLetter}Temple de la diadémée.
+MID_Tips_Hub_LegendPass_m01: Rendre un certificat pour une classe {LowercaseNextLetter}Divine ou celle de {LowercaseNextLetter}Danseur permet à d'autres unités de passer l'examen d'aptitude correspondant.
+MID_Tips_Bmap_CombatTechnique_m01: Seules les {LowercaseNextLetter}Capacités réduisent la durabilité d'une arme. Quand elle tombe à 0, l'arme perd en Dmg et en Prc.
+MID_Tips_Bmap_HazardRange_m01: Placez le curseur sur un ennemi pour afficher sa zone de danger. Appuyez sur {ButtonA} pour l'afficher en permanence.
+MID_Tips_Bmap_OverBlaze_m01: Une unité dont la jauge ardente est à moitié pleine passe en état d'embrasement, ce qui renforce ses caractéristiques de base et ses capacités ardentes.
+MID_Tips_Bmap_SupportingEffect_m01: Une unité qui combat à côté d'un allié avec un niveau de soutien élevé reçoit un avantage sous la forme d'un bonus de soutien.
+MID_Tips_Bmap_TurnBackTime_m01: Les bénédictions consomment du sable céleste. Vous en récupérez au début de chaque chapitre et avant les batailles de la quête principale.
+MID_Tips_Bmap_Reinforcements_m01: Les renforts ennemis apparaissent souvent aux extrémités de la carte ou sur des dalles d'Invocation.
+MID_Tips_Bmap_FogMap_m01: Si du brouillard ou une tempête de sable réduisent la visibilité, les ennemis découverts seront surpris et temporairement incapables de riposter.
+MID_Tips_Bmap_GiantEnemy_m01: Briser une partie de la barrière d'un ennemi massif l'empêche de riposter au prochain combat. La briser en entier vous fait gagner un objet.
+MID_Tips_Bmap_Battery_m01: Les postes d'artillerie comme les balistes, les orbes de feu ou les trébuchets peuvent être utilisés par les alliés comme par les ennemis.
+MID_Tips_Bmap_Rain_m01: Quand il pleut durant une bataille, les dégâts de foudre sont augmentés et les dégâts de feu réduits. L'artillerie est inutilisable.
+MID_Tips_Gmap_AfterBattle_m01: Prenez une chambre dans une {LowercaseNextLetter}Auberge pour récupérer tous vos PV et utilisations de magie.
+MID_Tips_Gmap_Explore_m01: Vous pouvez fouiller un lieu pour gagner toutes sortes d'objets spécifiques à ce dernier et parfois découvrir une route.
+MID_Tips_Gmap_Feast_m01: Le nombre de PV et d'utilisations magiques récupérées pendant un {LowercaseNextLetter}Banquet dépend des ingrédients utilisés.
+MID_Tips_Gmap_Merchant_m01: Vous pouvez acheter des objets aux marchands que vous croisez sur la carte.
+MID_Tips_Gmap_DungeonSpot_m01: Les caisses et les filons de minéraux sont remplis à chaque fois que vous fouillez une zone à explorer.
+MID_Tips_Gmap_DungeonEnemy_m01: Les ennemis vaincus d'une zone à explorer ne réapparaissent pas avant le chapitre suivant.
+MID_Tips_Gmap_SimpleBase_m01: Le prix d'un objet peut varier en fonction de l'endroit où il est vendu.
+MID_Tips_Gmap_Station_m01: Vous pouvez payer pour voyager rapidement entre deux relais de poste que vous avez déjà visités.
+MID_Tips_Gmap_Base_m01: Placez votre curseur sur une base et appuyez sur {ButtonZL} pour voir tous les commerces et produits qui s'y trouvent.
+MID_Tips_Gmap_StandbyUnit_m01: Les alliés restés en réserve gagnent de l'expérience à la fin de chaque tour.
+MID_Tips_Gmap_ReconstructionShorten_m01: Lors de la partie 3 : Le salut, vous pouvez déployer des escouades pour défendre les forts ou aider à la reconstruction.
+MID_Tips_ShortBattle_MVP_m01: Si un enchaînement de deux unités met fin à un {LowercaseNextLetter}Combat rapide, elles seront toutes deux désignées comme héros.
+MID_Tips_ShortBattle_RestingPlace_m01: Les points de repos ne peuvent être utilisés qu'une fois par exploration.
+MID_Tips_ShortBattle_FieldKill_m01: Les unités ennemies très inférieures aux vôtres peuvent être vaincues instantanément si vous portez la première attaque.
+MID_Tips_Root_Perspective_m01: Maintenez {ButtonZL} pour passer en vue subjective pendant une exploration. Cai peut voir à travers les murs.
+MID_Tips_Root_Capture2_m01: Un appât est plus efficace s'il est la nourriture préférée de l'animal visé.
+MID_Tips_Root_Stable_m01: Les montures sont plus efficaces si elles sont attribuées à des unités avec qui elles ont un niveau de lien élevé.
+MID_Tips_Root_Fertilizer_m01: Vous pouvez parfois trouver des plantes rares en récoltant les plantes d'un champ.
+MID_Tips_Root_Field_m01: Pour récolter les plantes cultivées dans un champ, traversez simplement le lieu où il se trouve.
+MID_Tips_Root_Reinforcement_m01: Améliorer les capacités et {LowercaseNextLetter}Enseigner un secret coûtent des échogemmes magiques. Vous en trouverez sur les ennemis repérés par le {LowercaseNextLetter}Chant de Damnation.
+MID_Tips_Root_Blade_m01: Le rayon du {LowercaseNextLetter}Chant de Damnation se rétablit au fil des tours et quand vous entrez ou sortez d'un lieu.
+MID_Tips_Root_Initiation_m01: Vous pouvez enseigner à vos alliés les capacités spéciales apprises en triomphant des guerriers sans merci au {LowercaseNextLetter}Temple de Smyrnos.
+MID_Tips_Root_RecruitingSoldiers_m01: Lors du {LowercaseNextLetter}Recrutement, vos chances de recruter des {LowercaseNextLetter}Escouades d'élite augmentent avec votre niveau de renommée.
+MID_Tips_Root_Deployment_m01: Au moment du déploiement, si l'{LowercaseNextLetter}Escouade sélectionnée est déjà déployée, elle sera rappelée et déployée à nouveau.
+MID_Tips_Root_MercenaryUnion_m01: Vous pouvez échanger 100 points d'escouade accumulés auprès de la responsable du transport contre un manuel de stratégie.
+MID_Tips_Root_Speech_m01: Faire un {LowercaseNextLetter}Discours enflammé lors d'un {LowercaseNextLetter}Recrutement peut vous permettre de recruter plus facilement des {LowercaseNextLetter}Escouades d'élite.
+MID_Tips_Root_LocalEntertainment_m01: Les matériaux trouvés dans les lieux découverts lors de vos représentations locales permettent souvent de créer de nouvelles boissons.
+MID_Tips_Root_DrinkPerson_m01: Les boissons disponibles à la taverne confèrent des bonus jusqu'à la fin des batailles pendant lesquelles elles sont consommées.
+MID_Tips_Root_BarShow_m01: Leda apprend de nouvelles {LowercaseNextLetter}Capacités ardentes en donnant des représentations locales dans les tavernes.
+MID_Tips_Bmap_Anhatolyah_t: Type ardent
+MID_Tips_Bmap_Anhatolyah_m01: Le type centres spirituels augmente la jauge ardente quand vous attaquez.
+MID_Tips_Special_Type_Seize_t: Contrôle ({LowercaseNextLetter}Technique ardente)
+MID_Tips_Special_Type_Seize_m01: Vous permet d'utiliser Gestion de l'ardeur (Calme des Limbes) pour réinitialiser la jauge ardente.
+MID_Tips_Special_Type_Resistance_t: Inflexible ({LowercaseNextLetter}Technique ardente)
+MID_Tips_Special_Type_Resistance_m01: Annule la diminution des PV max quand vous entrez en surchauffe pendant l'embrasement.
+MID_Tips_Special_Type_Runaway_t: Déchaînement ({LowercaseNextLetter}Technique ardente)
+MID_Tips_Special_Type_Runaway_m01: Vous permet d'utiliser Gestion de l'ardeur (Folie des Limbes) pour entrer en embrasement et maintenir cet état malgré la surchauffe.
+MID_Tips_Tutorial_m01: Dans le menu, sélectionnez Tutoriels pour apprendre à jouer.
+MID_Tips_Preferences_m01: Vous pouvez désactiver les animations d'attaque et de support dans le menu des {LowercaseNextLetter}Paramètres.
+MID_Tips_Bmap_AllHazardRange_m01: Appuyez sur {ButtonZL} sur la carte de bataille pour afficher la portée des attaques ennemies.
+MID_Tips_Phase_m01: Même si tous les alliés n'ont pas agi, sélectionnez Fin de la phase dans le menu pour passer à la phase ennemie.
+MID_Tips_ExperiencePoints_m01: Quand vous avez accumulé assez d'expérience, vous passez au niveau supérieur, ce qui augmente vos PV max et vos caractéristiques de base.
+MID_Tips_Item_m01: Certains objets comme les potions ont un nombre limité d'utilisations, après quoi ils disparaissent.
+MID_Tips_Auto_m01: Si vous choisissez Combat auto dans le menu de carte, vous aurez à choisir parmi quatre stratégies pour vos alliés.
+MID_Tips_UniqueSkills_m01: Les techniques personnelles sont spécifiques à une unité et ne peuvent être échangées.
+MID_Tips_TroopList_m01: Choisissez Unités dans le menu pour afficher la liste des classes et niveaux de tous vos alliés.
+MID_Tips_Knight_m01: Faire descendre une unité de sa monture peut la rendre moins vulnérable à certaines attaques et modifier son Mvt.
+MID_Tips_SwitchingWeapons_m01: Sur la carte de bataille, sélectionnez une unité et appuyez sur {ButtonL} ou {ButtonR} pour la faire changer d'arme.
+MID_Tips_ToolBag_m01: Les généraux ardents et les unités qui leur sont adjacentes peuvent utiliser l'ordre Stockage pour déposer des objets et en retirer.
+MID_Tips_ItemDrop_m01: Les ennemis avec l'icône {Icon} laissent tomber des objets quand ils sont vaincus.
+MID_Tips_Birthday_m01: Offrir un cadeau d'anniversaire vous fait gagner beaucoup de points de soutien, indépendamment des préférences de la personne.
+MID_Tips_DungeonRoute_m01: Appuyez sur {ButtonZR} pour activer ou désactiver l'affichage du trajet parcouru.
+MID_Tips_CaptureFertilizer_m01: Les groupes peuvent effectuer des récoltes et capturer des animaux en l'absence de Cai.
+MID_Tips_Equipment_m01: Il y a différent types d'objets : les boucliers, les bâtons, les masques et les anneaux. Une unité peut en équiper un de chaque.
+MID_Tips_Damage_m01: Les unités qui portent un trésor maudit n'arrivent pas toujours à infliger des dégâts à celles qui ont la technique Faveur des Limbes.
+MID_Tips_Reliance_m01: Certains dialogues de {LowercaseNextLetter}Soutien ne sont disponibles qu'à des moments précis de l'histoire.
+MID_Tips_Mouse1_m01: En mode souris, appuyez sur {ButtonPlus} pour consulter le guide des commandes.
+MID_Tips_Mouse2_m01: Vous pouvez modifier la vitesse du curseur et la sensibilité de la caméra pour le mode souris dans les {LowercaseNextLetter}Paramètres.
+MID_Tips_Mouse3_m01: Faites glisser la manette Joy-Con 2 en mode souris rapidement pour déplacer le curseur plus loin sur la carte.
+MID_Tips_UniqueSkills:  (technique personnelle exclusive à {Variable=0})
+MID_Tips_UniqueSymbol:  (marque de sang exclusive à {Variable=0})

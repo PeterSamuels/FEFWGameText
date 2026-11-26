@@ -1,0 +1,143 @@
+﻿MATID_Record_RelianceCCleared: Assisti a {Variable=0} {SingularPlural0=conversazione|conversazioni} di sostegno C
+MATID_Record_RelianceBCleared: Assisti a {Variable=0} {SingularPlural0=conversazione|conversazioni} di sostegno B
+MATID_Record_RelianceACleared: Assisti a {Variable=0} {SingularPlural0=conversazione|conversazioni} di sostegno A
+MATID_Record_PerformanceCount: Esibisciti in {Variable=0} {SingularPlural0=spettacolo locale|spettacoli locali}
+MATID_Record_DrinkSellerCount: Acquista {Variable=0} {SingularPlural0=bevanda|bevande}
+MATID_Record_TrainingCount: Allenati {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_StageActCount: Esibisciti in {Variable=0} {SingularPlural0=spettacolo|spettacoli} teatral{SingularPlural0=e|i}
+MATID_Record_StageWatchCount: Assisti a {Variable=0} {SingularPlural0=spettacolo teatrale|spettacoli teatrali}
+MATID_Record_ServeCount: Presta {LowercaseNextLetter}Servizio presso i vari templi {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_ThermaeCount: Fai il bagno alle terme {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_HotelStayCount: Affitta una stanza in una locanda {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_HotelIndividualTimes: Impiega {Variable=0} {SingularPlural0=turno|turni} eseguendo azioni individuali
+MATID_Record_DiningCount: Mangia {Variable=0} {SingularPlural0=volta|volte} in una locanda
+MATID_Record_GiftCount: Dai {Variable=0} {SingularPlural0=dono|doni}
+MATID_Record_PerfectTimeCount: Interagisci con successo con il Corvo bianco {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_PerchCount: Aumenta il legame con il Corvo bianco {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_ClassTrialCount: Sostieni {Variable=0} {SingularPlural0=esame|esami} di certificazione
+MATID_Record_Enemy01Defeat: Sconfiggi {Variable=0} {SingularPlural0=nemico|nemici} in battaglia
+MATID_Record_Enemy02Defeat: Sconfiggi {Variable=0} {SingularPlural0=cadavere|cadaveri} in battaglia
+MATID_Record_Enemy03Defeat: Sconfiggi {Variable=0} {SingularPlural0=nemico|nemici} di grossa stazza in battaglia
+MATID_Record_Enemy04Defeat: Sconfiggi {Variable=0} {SingularPlural0=animale feroce|animali feroci} in battaglia
+MATID_Record_BonusMommyDefeat: Sconfiggi {Variable=0} {SingularPlural0=mummia dorata|mummie dorate} o d'argento
+MATID_Record_LivestockDefeat: Sconfiggi {Variable=0} {SingularPlural0=animale d'allevamento|animali d'allevamento} in battaglia
+MATID_Record_EncounterCount: Vinci {Variable=0} {SingularPlural0=scaramuccia|scaramucce}
+MATID_Record_AvoidCount: Schiva {Variable=0} {SingularPlural0=attacco|attacchi} in battaglia
+MATID_Record_CriticalCount: Effettua {Variable=0} {SingularPlural0=colpo triplo|colpi tripli} in battaglia
+MATID_Record_AssistCount: Effettua {Variable=0} {SingularPlural0=supporto|supporti} in battaglia
+MATID_Record_SpecialCount: Usa le mosse ardenti {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_GambitCount: Usa gli stratagemmi {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_CompanyGoldUsed: Spendi {Variable=0} G dai mercanti itineranti
+MATID_Record_ExploreCount: Esplora dei luoghi {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_ExploreRareGet: Ottieni {Variable=0} {SingularPlural0=materiale raro|materiali rari} attraverso le esplorazioni
+MATID_Record_BanquetCount: Partecipa a {Variable=0} {SingularPlural0=banchetto|banchetti}
+MATID_Record_CallAnimalCount: Attira degli animali {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_MakeFarmCount: Coltiva qualcosa {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_DestroyMiasmaCount: Rimuovi il miasma {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_CmdBattleVictory: Vinci {Variable=0} {SingularPlural0=scontro breve|scontri brevi}
+MATID_Record_LinkAttackCount: Effettua {Variable=0} {SingularPlural0=attacco concatenato|attacchi concatenati}
+MATID_Record_LinkHealCount: Effettua {Variable=0} {SingularPlural0=cura concatenata|cure concatenate}
+MATID_Record_LinkGuardCount: Effettua {Variable=0} {SingularPlural0=offensiva/difensiva concatenata|offensive/difensive concatenate}
+MATID_Record_VandalTradeCount: Baratta con la Vandahl {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_ShoppingGoldUsed: Spendi {Variable=0} G nei negozi delle basi
+MATID_Record_SideStoryCleared: Completa {Variable=0} {SingularPlural0=appendice|appendici}
+MATID_Record_OreGet: Ottieni {Variable=0} {SingularPlural0=minerale|minerali}
+MATID_Record_PlayTimes: Gioca per più di {Variable=0} {SingularPlural0=ora|ore}
+MATID_Record_IsmHelpCount: Attiva il salvataggio di sostegno {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_1KAI_Cleared: Completa la parte I della saga di {Unknown080E=03}Cai
+MATID_Record_1DIT_Cleared: Completa la parte I della saga di {Unknown080E=03}Dietrich
+MATID_Record_1SEO_Cleared: Completa la parte I della saga di {Unknown080E=03}Theodora
+MATID_Record_1LED_Cleared: Completa la parte I della saga di {Unknown080E=03}Leda
+MATID_Record_1BEL_Cleared: Completa la parte I della saga di {Unknown080E=03}Bertrand
+MATID_Record_1TAL_Cleared: Completa la parte I della saga di {Unknown080E=03}Talimun
+MATID_Record_1ORH_Cleared: Completa la parte I della saga di {Unknown080E=03}Orchel
+MATID_Record_1ANH_Cleared: Completa la parte I della saga di {Unknown080E=03}Anatolia
+MATID_Record_SkillLvCCount: Raggiungi il grado C delle competenze {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_SkillLvBCount: Raggiungi il grado B delle competenze {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_SkillLvACount: Raggiungi il grado A delle competenze {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_SkillLvSCount: Raggiungi il grado S delle competenze {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_SkillLvMAXCount: Raggiungi il livello massimo delle competenze {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_RideLv2Count: Raggiungi il livello 2 dell'Amicizia {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_RideLv3Count: Raggiungi il livello 3 dell'Amicizia {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_RideLv4Count: Raggiungi il livello 4 dell'Amicizia {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_RideLvMAXCount: Raggiungi il livello massimo dell'Amicizia {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_MiracleLv2Count: Raggiungi il livello 2 del Favore {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_MiracleLvMAXCount: Raggiungi il livello massimo del Favore {Variable=0} {SingularPlural0=volta|volte}
+MATID_Record_Part3_DungeonTBox_AllOpen: Apri tutte le casse in {Variable=0} delle rovine della parte III
+MATID_Record_TempleCrown_OpenCount: Apri {Variable=0} {SingularPlural0=porta|porte} nel Tempio dei diademi
+MATID_Record_AmaltheaState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Amalthea
+MATID_Record_CastaliaState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Castalia
+MATID_Record_IduiaState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Idyia
+MATID_Record_ElectraState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Elektra
+MATID_Record_MeliasState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Melias
+MATID_Record_TaliaState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Thaleia
+MATID_Record_SolidusState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Solidus
+MATID_Record_NysiadesState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Nysiades
+MATID_Record_LambuthState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Lambath
+MATID_Record_BasithaState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Pasithea
+MATID_Record_BraxtheaState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Braxithea
+MATID_Record_SaveronState_Reconstruction: Ricostruisci tutti i luoghi distrutti in Saveilon
+MATID_Record_OmaStateReconstruction: Ricostruisci tutti i luoghi distrutti in Ogmios
+MATID_Record_SolomonReconstruction: Ricostruisci tutti i luoghi distrutti a Solomon
+MATID_Reward_ExpUp: Maggiore Esp
+MATID_H_Reward_ExpUp: Incrementa l'Esp ottenuta in battaglia.
+MATID_Reward_JobExpUp: Maggiore Esp di classe
+MATID_H_Reward_JobExpUp: Incrementa l'Esp di classe ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_SwordSkillUp: Maggiore Esp spada
+MATID_H_Reward_SwordSkillUp: Incrementa l'Esp con la spada ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_LanceSkillUp: Maggiore Esp lancia
+MATID_H_Reward_LanceSkillUp: Incrementa l'Esp con la lancia ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_AxeSkillUp: Maggiore Esp ascia
+MATID_H_Reward_AxeSkillUp: Incrementa l'Esp con l'ascia ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_BowSkillUp: Maggiore Esp arco
+MATID_H_Reward_BowSkillUp: Incrementa l'Esp con l'arco ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_GauntletSkillUp: Maggiore Esp pugni
+MATID_H_Reward_GauntletSkillUp: Incrementa l'Esp con i pugni ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_BlackSkillUp: Maggiore Esp magia nera
+MATID_H_Reward_BlackSkillUp: Incrementa l'Esp con la magia nera ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_WhiteSkillUp: Maggiore Esp magia bianca
+MATID_H_Reward_WhiteSkillUp: Incrementa l'Esp con la magia bianca ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_FootSkillUp: Maggiore Esp fanteria
+MATID_H_Reward_FootSkillUp: Incrementa l'Esp di {LowercaseNextLetter}Fanteria ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_CavalrySkillUp: Maggiore Esp cavalleria
+MATID_H_Reward_CavalrySkillUp: Incrementa l'Esp di {LowercaseNextLetter}Cavalleria ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_HeavySkillUp: Maggiore Esp armatura pesante
+MATID_H_Reward_HeavySkillUp: Incrementa l'Esp di {LowercaseNextLetter}Armatura pesante ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_FlySkillUp: Maggiore Esp volo
+MATID_H_Reward_FlySkillUp: Incrementa l'Esp di {LowercaseNextLetter}Volo ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_TacticsSkillUp: Maggiore Esp comando
+MATID_H_Reward_TacticsSkillUp: Incrementa l'Esp di {LowercaseNextLetter}Comando ottenuta in battaglia.\nNon si applica all'allenamento.
+MATID_Reward_SkillAuroraCostDown: Consumo ridotto Benedizione di Aurora
+MATID_H_Reward_SkillAuroraCostDown: La Benedizione di Aurora consuma meno sabbia divina.
+MATID_Reward_SkillMarsCostDown: Consumo ridotto Benedizione di Mars
+MATID_H_Reward_SkillMarsCostDown: La Benedizione di Mars consuma meno sabbia divina.
+MATID_Reward_SkillSmirnothCostDown: Consumo ridotto Benedizione di Smyrnos
+MATID_H_Reward_SkillSmirnothCostDown: La Benedizione di Smyrnos consuma meno sabbia divina.
+MATID_Reward_SkillJunoCostDown: Consumo ridotto Benedizione di Jurah
+MATID_H_Reward_SkillJunoCostDown: La Benedizione di Jurah consuma meno sabbia divina.
+MATID_Reward_SkillCaraCostDown: Consumo ridotto Benedizione di Kalla
+MATID_H_Reward_SkillCaraCostDown: La Benedizione di Kalla consuma meno sabbia divina.
+MATID_Reward_SkillClairCostDown: Consumo ridotto Benedizione di Credna
+MATID_H_Reward_SkillClairCostDown: La Benedizione di Credna consuma meno sabbia divina.
+MATID_Reward_CarriageDiscount: Sconto carri
+MATID_H_Reward_CarriageDiscount: Riduce i prezzi dei carri.
+MATID_Reward_WeaponDiscount: Sconto armi
+MATID_H_Reward_WeaponDiscount: Riduce i prezzi delle armi.
+MATID_Reward_BlacksmithDiscount: Sconto fucina
+MATID_H_Reward_BlacksmithDiscount: Riduce i prezzi presso qualsiasi {LowercaseNextLetter}Fucina.
+MATID_Reward_ItemDiscount: Sconto emporio
+MATID_H_Reward_ItemDiscount: Riduce i prezzi delle merci dell'emporio.
+MATID_Reward_GiftDiscount: Sconto doni
+MATID_H_Reward_GiftDiscount: Riduce i prezzi dei {LowercaseNextLetter}Doni.
+MATID_Reward_MealDiscount: Sconto pasti
+MATID_H_Reward_MealDiscount: Riduce il prezzo di ogni {LowercaseNextLetter}Pasto presso qualsiasi {LowercaseNextLetter}Locanda.\nNon si applica ai giorni di saldi.
+MATID_Reward_ThermaeDiscount: Sconto terme
+MATID_H_Reward_ThermaeDiscount: Riduce i prezzi del bagno alle {LowercaseNextLetter}Terme.
+MATID_Reward_DungeonChasePlus: Fuga dalle rovine
+MATID_H_Reward_DungeonChasePlus: Riduce la durata degli inseguimenti nemici\nnelle {LowercaseNextLetter}Rovine.
+MATID_Reward_DungeonDropUp: Abbondanza nelle rovine
+MATID_H_Reward_DungeonDropUp: Trovi più materiali quando distruggi gli oggetti\nfrantumabili nelle {LowercaseNextLetter}Rovine.
+MATID_Reward_HotelStayDiscount: Sconto locanda
+MATID_H_Reward_HotelStayDiscount: Riduce i prezzi delle stanze in qualsiasi {LowercaseNextLetter}Locanda.
+MATID_Reward_TheaterWatchDiscount: Sconto teatro
+MATID_H_Reward_TheaterWatchDiscount: Riduce i prezzi degli spettacoli teatrali.

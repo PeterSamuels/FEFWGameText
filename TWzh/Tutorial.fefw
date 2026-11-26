@@ -1,0 +1,822 @@
+﻿MID_TUT_Hub_Spire_t: 方尖塔大廳
+MID_TUT_Hub_Spire_m01_001: {SetColor=Gold}觸碰{SetColor=Default}這個房間中排列的{SetColor=Gold}方尖塔{SetColor=Default}，\n即可{SetColor=Gold}開始進行{SetColor=Default}各個{SetColor=Gold}真焰將的故事{SetColor=Default}。
+MID_TUT_Hub_Spire_m01_002: {SetColor=Gold}選擇{SetColor=Default}喜歡的{SetColor=Gold}塔{SetColor=Default}，試著觸及他們的命運，\n並{SetColor=Gold}引導眾多真焰將{SetColor=Default}至這片土地吧。
+MID_TUT_Hub_Warehouse_t: 因緣聖櫃
+MID_TUT_Hub_Warehouse_m01_001: 在第１部{SetColor=Gold}擁有{SetColor=Default}的道具、素材、動物和軍團兵，\n以及戰爭篇的{SetColor=Gold}過關報酬{SetColor=Default}等，\n會在{SetColor=Gold}每次過關戰爭篇時{SetColor=Default}被{SetColor=Gold}登錄{SetColor=Default}至{SetColor=Gold}因緣聖櫃{SetColor=Default}。
+MID_TUT_Hub_Warehouse_m01_002: 可用{SetColor=Gold}因果碎片{SetColor=Default}來{SetColor=Gold}生成{SetColor=Default}內容物，\n僅可於{SetColor=Gold}救世篇{SetColor=Default}使用。
+MID_TUT_Hub_Causal_t: 
+MID_TUT_Hub_Causal_m01_001: 
+MID_TUT_Hub_Merge_t: 同伴的因果融合
+MID_TUT_Hub_Merge_m01_001: 可以使用因果碎片，\n讓{SetColor=Gold}真焰將以外的同伴{SetColor=Default}進行{SetColor=Gold}因果融合{SetColor=Default}。
+MID_TUT_Hub_Merge_m01_002: {SetColor=Gold}特技和戰技{SetColor=Default}會直接繼承，\n{SetColor=Gold}狀態的數值{SetColor=Default}則會繼承{SetColor=Gold}較高的一方{SetColor=Default}。
+MID_TUT_Hub_Destination_t: 目標圖示
+MID_TUT_Hub_Destination_m01_001: {SetColor=Gold}推進故事{SetColor=Default}所需的{SetColor=Gold}目標所在的場所{SetColor=Default}會{SetColor=Gold}顯示{SetColor=Default}{Icon}。
+MID_TUT_Hub_Destination_m01_002: 因為不知道該做什麼而{SetColor=Gold}感到迷惘時{SetColor=Default}，\n就試著造訪或調查{SetColor=Gold}顯示此圖示的場所{SetColor=Default}吧。
+MID_TUT_Hub_Advice_t: 先見的建言
+MID_TUT_Hub_Advice_m01_001: 故事中重要的戰鬥被稱為{SetColor=Gold}主線戰鬥{SetColor=Default}，\n可以在白鴉的棲木{SetColor=Gold}確認相關情報{SetColor=Default}。
+MID_TUT_Hub_Advice_m01_002: 可以查看推薦LV及武器階級等各種資訊，\n以此為根據去強化戰力吧。
+MID_TUT_Hub_AdventureNotebook_t: 冒險手冊
+MID_TUT_Hub_AdventureNotebook_m01_001: 不知道接下來該做什麼時，\n就按下{ButtonX}打開{SetColor=Gold}冒險手冊{SetColor=Default}吧。
+MID_TUT_Hub_AdventureNotebook_m01_002: 可以確認{SetColor=Gold}推薦行動{SetColor=Default}及{SetColor=Gold}活動{SetColor=Default}等，\n內容會隨著故事的推進而{SetColor=Gold}更新{SetColor=Default}。
+MID_TUT_Hub_Map_t: 據點地圖
+MID_TUT_Hub_Map_m01_001: 在韃古席翁選擇「{SetColor=Gold}地圖{SetColor=Default}」即可顯示{SetColor=Gold}據點地圖{SetColor=Default}。\n可以確認商店與設施的位置，\n以及同伴等人物的所在地。
+MID_TUT_Hub_Map_m01_002: 此外，除了身處事件中等特定的狀況外，\n選擇想去的區域、設施或想找的人物後{SetColor=Gold}按下{ButtonA}{SetColor=Default}，\n即可{SetColor=Gold}瞬間移動{SetColor=Default}至目標附近。
+MID_TUT_Hub_SectionFree_t: 自由行動期間
+MID_TUT_Hub_SectionFree_m01_001: {SetColor=Gold}剩餘回合歸０{SetColor=Default}前，可以自由{SetColor=Gold}行動{SetColor=Default}。\n在那之前透過於世界地圖上冒險，\n或在據點使用設施來強化戰力吧。
+MID_TUT_Hub_SectionFree_m01_002: {SetColor=Gold}回合{SetColor=Default}主要會於{SetColor=Gold}在世界地圖上移動{SetColor=Default}，\n或{SetColor=Gold}進出據點及迷宮{SetColor=Default}時減少。
+MID_TUT_Hub_SectionFree_m01_003: 據點內的{SetColor=Gold}設施{SetColor=Default}除了住宿等部分行動外，\n均{SetColor=Gold}不會消耗回合數{SetColor=Default}。\n相對地，將會消耗幹勁或金幣。
+MID_TUT_Hub_Scout_t: 挖角
+MID_TUT_Hub_Scout_m01_001: 贈送{SetColor=Gold}禮物{SetColor=Default}給{SetColor=Gold}能成為同伴的人物{SetColor=Default}後，\n即可透過「{SetColor=Gold}挖角{SetColor=Default}」來邀請其成為同伴。
+MID_TUT_Hub_Scout_m01_002: 若想成功邀請，便需滿足特定{SetColor=Gold}條件{SetColor=Default}，\n例如{SetColor=Gold}名聲LV{SetColor=Default}或{SetColor=Gold}與搭話的真焰將之間的支援LV{SetColor=Default}等。\n詳情可在「{SetColor=Gold}人物情報{SetColor=Default}」中確認。
+MID_TUT_Hub_Scout_m01_003: 可進行「挖角」時，\n同時也會解鎖{SetColor=Gold}邀對方一起用餐等{SetColor=Default}功能，\n試著搭配禮物來有效{SetColor=Gold}提升支援LV{SetColor=Default}吧。
+MID_TUT_Hub_Subquest_t: 任務
+MID_TUT_Hub_Subquest_m01_001: {SetColor=Gold}承接任務{SetColor=Default}並{SetColor=Gold}達成{SetColor=Default}委託內容，\n即可{SetColor=Gold}獲得{SetColor=Default}各式各樣的{SetColor=Gold}報酬{SetColor=Default}。
+MID_TUT_Hub_Subquest_m01_002: 承接的任務可以在冒險手冊的{SetColor=Gold}任務一覽{SetColor=Default}頁面中\n{SetColor=Gold}確認內容和進度{SetColor=Default}。
+MID_TUT_Hub_Subquest_m01_003: 有些任務設有{SetColor=Gold}期限{SetColor=Default}，務必多加留意。
+MID_TUT_Hub_Inn_t: 旅舍
+MID_TUT_Hub_Inn_m01_001: 在{SetColor=Gold}旅舍{SetColor=Default}，可以{SetColor=Gold}使同伴回復{SetColor=Default}或{SetColor=Gold}與其深入交流{SetColor=Default}，\n還可以有效率地{SetColor=Gold}推進時間{SetColor=Default}。
+MID_TUT_Hub_Inn_m01_002: 同伴因為戰鬥而感到疲勞時、想提升支援LV時，\n或想有效率地推進自由行動期間時，務必善加利用。
+MID_TUT_Hub_IndividualAction_t: 自動賺取
+MID_TUT_Hub_IndividualAction_m01_001: 先選擇同伴的{SetColor=Gold}行動{SetColor=Default}，\n再決定{SetColor=Gold}回合數{SetColor=Default}後{SetColor=Gold}執行{SetColor=Default}即可{SetColor=Gold}獲得報酬{SetColor=Default}。
+MID_TUT_Hub_IndividualAction_m01_002: {SetColor=Gold}探索{SetColor=Default}主要可以獲得{SetColor=Gold}金幣或素材{SetColor=Default}，\n{SetColor=Gold}實戰{SetColor=Default}及{SetColor=Gold}訓練{SetColor=Default}則可以獲得{SetColor=Gold}各種EXP{SetColor=Default}。
+MID_TUT_Hub_Meal_t: 用餐
+MID_TUT_Hub_Meal_m01_001: 選擇三個人一起{SetColor=Gold}用餐{SetColor=Default}可以{SetColor=Gold}回復HP和魔法使用次數{SetColor=Default}，\n{SetColor=Gold}支援值{SetColor=Default}也會視所選{SetColor=Gold}料理的喜好{SetColor=Default}而有所{SetColor=Gold}提升{SetColor=Default}。
+MID_TUT_Hub_Meal_m01_002: 此外，{SetColor=Gold}幹勁{SetColor=Default}也會{SetColor=Gold}回復{SetColor=Default}。\n吃到{SetColor=Gold}喜歡的料理{SetColor=Default}的人會{SetColor=Gold}回復比較多{SetColor=Default}，\n吃到討厭的料理的人則不會回復。
+MID_TUT_Hub_Market_t: 禮物店
+MID_TUT_Hub_Market_m01_001: 在{SetColor=Gold}禮物店{SetColor=Default}，可以{SetColor=Gold}購買{SetColor=Default}用來送給據點內人物的{SetColor=Gold}禮物{SetColor=Default}。
+MID_TUT_Hub_Market_m01_002: 贈送禮物可以{SetColor=Gold}提升支援值{SetColor=Default}。\n若贈送對方{SetColor=Gold}喜歡的禮物{SetColor=Default}，{SetColor=Gold}提升的幅度{SetColor=Default}也會{SetColor=Gold}增加{SetColor=Default}。
+MID_TUT_Hub_WeaponShop_t: 武器店
+MID_TUT_Hub_WeaponShop_m01_001: 在{SetColor=Gold}武器店{SetColor=Default}，\n可以{SetColor=Gold}購買{SetColor=Default}或{SetColor=Gold}出售{SetColor=Default}戰鬥中使用的{SetColor=Gold}武器{SetColor=Default}。
+MID_TUT_Hub_WeaponShop_m01_002: 隨著故事推進，會進貨新商品，\n品項也會變得更加豐富。
+MID_TUT_Hub_ToolShop_t: 道具店
+MID_TUT_Hub_ToolShop_m01_001: 在{SetColor=Gold}道具店{SetColor=Default}，\n可以{SetColor=Gold}購買{SetColor=Default}或{SetColor=Gold}出售{SetColor=Default}傷藥等{SetColor=Gold}道具{SetColor=Default}和盾牌等{SetColor=Gold}裝備{SetColor=Default}。
+MID_TUT_Hub_ToolShop_m01_002: 隨著故事推進，會進貨新商品，\n品項也會變得更加豐富。
+MID_TUT_Hub_Temple_t: 神殿
+MID_TUT_Hub_Temple_m01_001: 可以透過為諸神進行{SetColor=Gold}侍奉活動{SetColor=Default}來{SetColor=Gold}獲得加護{SetColor=Default}，\n亦可在此選擇要在戰鬥中使用的{SetColor=Gold}加護{SetColor=Default}。
+MID_TUT_Hub_Temple_m01_002: 此外，提高名聲後，還能{SetColor=Gold}謁見{SetColor=Default}神明。
+MID_TUT_Hub_GodGate_t: 神道之門
+MID_TUT_Hub_GodGate_m01_001: {SetColor=Gold}神道之門{SetColor=Default}可在得到許可後使用。\n可於神殿的{SetColor=Gold}主殿和分殿之間{SetColor=Default}進行{SetColor=Gold}瞬間移動{SetColor=Default}。
+MID_TUT_Hub_ClassTrial_t: 資格考試
+MID_TUT_Hub_ClassTrial_m01_001: 參加兵種的{SetColor=Gold}資格考試{SetColor=Default}並及格後，\n即可變更成{SetColor=Gold}新的兵種{SetColor=Default}。
+MID_TUT_Hub_ClassTrial_m01_002: 若想挑戰考試，\n便需要{SetColor=Gold}與想及格的兵種階級相同的考試票證{SetColor=Default}。\n可以向票證商人購買。
+MID_TUT_Hub_ClassTrial_m01_003: 若受試者的{SetColor=Gold}單位LV{SetColor=Default}或{SetColor=Gold}技能LV{SetColor=Default}\n沒有達到該兵種要求的標準，\n{SetColor=Gold}及格率{SetColor=Default}便會{SetColor=Gold}下降{SetColor=Default}。
+MID_TUT_Hub_ClassChange_t: 更改兵種
+MID_TUT_Hub_ClassChange_m01_001: 只要在資格考試及格過一次的兵種，\n就可以隨時透過{SetColor=Gold}更改兵種{SetColor=Default}來進行切換。
+MID_TUT_Hub_GodFormation_t: 加護
+MID_TUT_Hub_GodFormation_m01_001: 可以在透過侍奉活動獲得的{SetColor=Gold}加護{SetColor=Default}中，\n{SetColor=Gold}選擇想在戰鬥中使用的加護{SetColor=Default}。
+MID_TUT_Hub_GodFormation_m01_002: {SetColor=Gold}加護的效果{SetColor=Default}和{SetColor=Gold}天刻之白沙的消耗量{SetColor=Default}都不一樣，\n選擇時務必確認清楚。
+MID_TUT_Hub_Volunteer_t: 侍奉活動
+MID_TUT_Hub_Volunteer_m01_001: 可以選擇兩個人來進行{SetColor=Gold}侍奉活動{SetColor=Default}。\n此舉可{SetColor=Gold}提升{SetColor=Default}對供奉在該神殿之神明的{SetColor=Gold}貢獻度{SetColor=Default}，\n以及兩人之間的{SetColor=Gold}支援值{SetColor=Default}。
+MID_TUT_Hub_Volunteer_m01_002: 貢獻度達到一定程度，即可{SetColor=Gold}提升加護LV{SetColor=Default}，\n並依照神明獲得各種{SetColor=Gold}能在戰鬥中使用{SetColor=Default}的\n效果各異的{SetColor=Gold}加護{SetColor=Default}。
+MID_TUT_Hub_Volunteer_m01_003: 每位神明都有各自的{SetColor=Gold}吉日{SetColor=Default}。\n當天進行{SetColor=Gold}侍奉活動必定會得到高評價{SetColor=Default}，\n且可以獲得更多{SetColor=Gold}貢獻度{SetColor=Default}。
+MID_TUT_Hub_Gift_t: 禮物
+MID_TUT_Hub_Gift_m01_001: 在「{SetColor=Gold}禮物{SetColor=Default}」頁面將所選的禮物送給對方，\n即可{SetColor=Gold}提升{SetColor=Default}和對方之間的{SetColor=Gold}支援值{SetColor=Default}。
+MID_TUT_Hub_Gift_m01_002: 若贈送對方{SetColor=Gold}喜歡的禮物{SetColor=Default}，\n就能{SetColor=Gold}提升更多支援值{SetColor=Default}。
+MID_TUT_Hub_Training_t: 訓練
+MID_TUT_Hub_Training_m01_001: 可以選擇兩名同伴進行{SetColor=Gold}訓練{SetColor=Default}。\n可{SetColor=Gold}獲得技能EXP{SetColor=Default}，並{SetColor=Gold}提升支援值{SetColor=Default}。
+MID_TUT_Hub_Training_m01_002: {SetColor=Gold}訓練的內容每週都會改變{SetColor=Default}，\n能獲得的{SetColor=Gold}技能EXP{SetColor=Default}亦會視所選的訓練而有所不同。
+MID_TUT_Hub_Arena_t: 觀戰
+MID_TUT_Hub_Arena_m01_001: 其他{SetColor=Gold}族盟的比試舉辦時{SetColor=Default}，\n前往鬥技場報名處即可進行{SetColor=Gold}觀戰{SetColor=Default}。
+MID_TUT_Hub_Arena_m01_002: {SetColor=Gold}比試的日程{SetColor=Default}可於{SetColor=Gold}鬥技場的報名處{SetColor=Default}\n及{SetColor=Gold}日曆{SetColor=Default}進行確認。
+MID_TUT_Hub_firm_t: 旺達爾商會
+MID_TUT_Hub_firm_m01_001: 可以用持有的{SetColor=Gold}素材{SetColor=Default}\n來{SetColor=Gold}交換{SetColor=Default}想要的{SetColor=Gold}武器或道具{SetColor=Default}。
+MID_TUT_Hub_firm_m01_002: 有時還能換到在一般商店無法入手的{SetColor=Gold}稀有商品{SetColor=Default}，\n務必前去參觀一下。
+MID_TUT_Hub_Perch_t: 與白鴉加深牽絆
+MID_TUT_Hub_Perch_m01_001: 白鳥（{AvatarName}）停在{SetColor=Gold}白鴉的棲木{SetColor=Default}上時，\n可以選擇「{SetColor=Gold}與白鴉加深牽絆{SetColor=Default}」。
+MID_TUT_Hub_Perch_m01_002: 讓任意的同伴交付食物，\n即可和{AvatarName}進行{SetColor=Gold}片刻的互動{SetColor=Default}。
+MID_TUT_Hub_Perch_m01_003: 只要白鳥選到{SetColor=Gold}能讓同伴感到開心的反應{SetColor=Default}，\n便會視次數{SetColor=Gold}提升{SetColor=Default}兩人之間的{SetColor=Gold}支援值{SetColor=Default}。
+MID_TUT_Hub_AdventBonds_t: 牽絆降臨
+MID_TUT_Hub_AdventBonds_m01_001: 在戰鬥地圖和速決戰中戰鬥時，\n{SetColor=Gold}{AvatarName}{SetColor=Default}有低機率{SetColor=Gold}會現身前來幫忙{SetColor=Default}。\n此機制稱為{SetColor=Gold}牽絆降臨{SetColor=Default}。
+MID_TUT_Hub_AdventBonds_m01_002: 牽絆降臨有{SetColor=Gold}白光護翼{SetColor=Default}和{SetColor=Gold}白閃翔槍{SetColor=Default}兩種。\n{SetColor=Gold}同伴{SetColor=Default}和{AvatarName}之間的{SetColor=Gold}支援LV越高{SetColor=Default}，\n發生的{SetColor=Gold}機率就越高{SetColor=Default}。
+MID_TUT_Hub_AdventBonds_m01_003: 白光護翼會於{SetColor=Gold}戰鬥地圖{SetColor=Default}中，\n在{SetColor=Gold}即將受到致命傷時{SetColor=Default}發動。\n{AvatarName}會幫忙{SetColor=Gold}擋下攻擊{SetColor=Default}。
+MID_TUT_Hub_AdventBonds_m01_004: 白閃翔槍則會於{SetColor=Gold}速決戰中{SetColor=Default}，\n在{SetColor=Gold}我方的全體HP較低時{SetColor=Default}發動。\n{AvatarName}會{SetColor=Gold}將敵方部隊一掃而空{SetColor=Default}。
+MID_TUT_Hub_DestinyKarma_t: 偉業錄／救世的祝福
+MID_TUT_Hub_DestinyKarma_m01_001: 在{SetColor=Gold}偉業錄{SetColor=Default}中，\n可以{SetColor=Gold}確認{SetColor=Default}至今達成的各種{SetColor=Gold}記錄{SetColor=Default}，\n並{SetColor=Gold}領取因果碎片{SetColor=Default}作為報酬。
+MID_TUT_Hub_DestinyKarma_m01_002: 在{SetColor=Gold}救世的祝福{SetColor=Default}使用收集到的因果碎片，\n即可{SetColor=Gold}獲得各種{SetColor=Default}有助於遊玩的{SetColor=Gold}效果{SetColor=Default}。
+MID_TUT_Hub_DestinyKarma_m01_003: 此外，只要滿足條件，\n會追加增強的效果，或新的項目。
+MID_TUT_Hub_Thermae_t: 公共浴場
+MID_TUT_Hub_Thermae_m01_001: 選擇兩個人一起{SetColor=Gold}入浴{SetColor=Default}。\n可視浴泉的種類，{SetColor=Gold}獲得{SetColor=Default}效果持續至\n{SetColor=Gold}該章節主線戰鬥結束{SetColor=Default}為止的特別{SetColor=Gold}特技{SetColor=Default}。
+MID_TUT_Hub_Thermae_m01_002: 此外，還可提升兩人之間的支援值，\n並{SetColor=Gold}回復HP、魔法使用次數和幹勁{SetColor=Default}。
+MID_TUT_Hub_TheaterViewing_t: 觀劇
+MID_TUT_Hub_TheaterViewing_m01_001: 選擇兩個人一起{SetColor=Gold}觀劇{SetColor=Default}可以{SetColor=Gold}提升彼此間的支援值{SetColor=Default}。\n若為{SetColor=Gold}喜歡的劇目{SetColor=Default}或{SetColor=Gold}兩個人的喜好一致{SetColor=Default}，\n則可以{SetColor=Gold}提升更多{SetColor=Default}支援值。
+MID_TUT_Hub_TheaterViewing_m01_002: 此外，{SetColor=Gold}幹勁{SetColor=Default}也會{SetColor=Gold}回復{SetColor=Default}。\n觀賞{SetColor=Gold}喜歡的劇目{SetColor=Default}的人會{SetColor=Gold}回復比較多{SetColor=Default}，\n觀賞討厭的劇目的人則不會回復。
+MID_TUT_Hub_Theater_t: 出演
+MID_TUT_Hub_Theater_m01_001: 選擇同伴一起{SetColor=Gold}出演{SetColor=Default}戲劇。\n參加的同伴之間的{SetColor=Gold}支援值{SetColor=Default}會{SetColor=Gold}提升{SetColor=Default}，\n還可{SetColor=Gold}獲得{SetColor=Default}金幣等{SetColor=Gold}報酬{SetColor=Default}。
+MID_TUT_Hub_Theater_m01_002: 每一幕都必須選擇{SetColor=Gold}演技的方針{SetColor=Default}。\n若選擇合適的方針並獲得好評，\n即可{SetColor=Gold}得到更好的報酬{SetColor=Default}。
+MID_TUT_Hub_Blacksmith_t: 打鐵舖
+MID_TUT_Hub_Blacksmith_m01_001: 在{SetColor=Gold}打鐵舖{SetColor=Default}，可以用素材和金幣來{SetColor=Gold}鍛造{SetColor=Default}或{SetColor=Gold}修理武器{SetColor=Default}。
+MID_TUT_Hub_Blacksmith_m01_002: {SetColor=Gold}鍛造{SetColor=Default}即為{SetColor=Gold}武器的強化{SetColor=Default}。\n強化的程度越高，便需要越多的素材和金幣。
+MID_TUT_Hub_Blacksmith_m01_003: {SetColor=Gold}修理{SetColor=Default}則可以{SetColor=Gold}回復{SetColor=Default}武器因為使用戰技\n而減少的{SetColor=Gold}耐久值{SetColor=Default}。
+MID_TUT_Hub_SideStory_t: 外傳
+MID_TUT_Hub_SideStory_m01_001: {SetColor=Gold}外傳{SetColor=Default}是真焰將或重要人物所委託的\n{SetColor=Gold}特別的任務{SetColor=Default}。
+MID_TUT_Hub_SideStory_m01_002: 達成委託後，不僅可以獲得{SetColor=Gold}報酬{SetColor=Default}，\n與該人物相關的{SetColor=Gold}故事{SetColor=Default}也會{SetColor=Gold}發生變化{SetColor=Default}。
+MID_TUT_Hub_SideStory_m01_003: 試著在期間內找到委託人，並承接任務吧。\n承接後，任務情報將會新增至任務一覽及日曆中。
+MID_TUT_Hub_InformationBoard_t: 告示板
+MID_TUT_Hub_InformationBoard_m01_001: {SetColor=Gold}告示板{SetColor=Default}上會張貼商店或設施的來店邀請，\n達成後可以{SetColor=Gold}提高名聲{SetColor=Default}並{SetColor=Gold}獲得報酬{SetColor=Default}。
+MID_TUT_Hub_InformationBoard_m01_002: 可使用的設施增加後，\n便會出現新的邀請，務必去確認看看。
+MID_TUT_Hub_Fame_t: 名聲
+MID_TUT_Hub_Fame_m01_001: {SetColor=Gold}名聲{SetColor=Default}可以透過{SetColor=Gold}推進故事{SetColor=Default}、達成任務，\n以及部分{SetColor=Gold}設施{SetColor=Default}來{SetColor=Gold}提高{SetColor=Default}。
+MID_TUT_Hub_Fame_m01_002: 名聲達到一定程度，\n即可提升{SetColor=Gold}名聲LV{SetColor=Default}並{SetColor=Gold}解鎖{SetColor=Default}各種{SetColor=Gold}要素{SetColor=Default}。
+MID_TUT_Hub_PreparationMarch_t: 戰鬥準備期間
+MID_TUT_Hub_PreparationMarch_m01_001: 戰爭篇的{SetColor=Gold}戰鬥準備期間沒有{SetColor=Default}回合和{SetColor=Gold}期限{SetColor=Default}的限制，\n但{SetColor=Gold}只能在據點內行動{SetColor=Default}。
+MID_TUT_Hub_PreparationMarch_m01_002: 雖然無法使用商店，\n但每章都會{SetColor=Gold}發放道具{SetColor=Default}並{SetColor=Gold}修好武器{SetColor=Default}。
+MID_TUT_Hub_PreparationMarch_m01_003: 做好準備後，就去向{SetColor=Gold}行軍管理官{SetColor=Default}搭話，\n以推進主線任務吧。
+MID_TUT_Hub_MarchingOfficer_t: 行軍管理官
+MID_TUT_Hub_MarchingOfficer_m01_001: 向{SetColor=Gold}行軍管理官{SetColor=Default}搭話後選擇{SetColor=Gold}主線任務{SetColor=Default}，\n即可結束戰鬥準備期間並推進故事。
+MID_TUT_Hub_MarchingOfficer_m01_002: 選擇{SetColor=Gold}軍隊行動{SetColor=Default}，\n即可在三種提升我方戰力的行動中{SetColor=Gold}執行其中之一{SetColor=Default}。\n{SetColor=Gold}每章{SetColor=Default}僅能使用{SetColor=Gold}一次{SetColor=Default}。
+MID_TUT_Hub_SectionFree3_t: 救世主軍的戰鬥準備
+MID_TUT_Hub_SectionFree3_m01_001: 在冥界之門實體化前，請努力增加同伴、\n復興世界，並做好{SetColor=Gold}戰鬥準備{SetColor=Default}。
+MID_TUT_Hub_SectionFree3_m01_002: 韃古席翁中有一些{SetColor=Gold}因果相連的戰士{SetColor=Default}在等待。\n先去向他們搭話，讓他們{SetColor=Gold}成為同伴{SetColor=Default}吧。
+MID_TUT_Hub_SectionFree3_m01_003: 鬥技場等部分設施變得無法使用，\n但只要提交足夠的{SetColor=Gold}重建材料{SetColor=Default}即可再次使用。
+MID_TUT_Hub_SectionFree3_m01_004: 重建材料可以{SetColor=Gold}在村莊及城鎮等場所購買{SetColor=Default}。\n前往世界地圖，試著造訪那些場所吧。
+MID_TUT_Hub_TempleCrown_t: 天冠神殿
+MID_TUT_Hub_TempleCrown_m01_001: {SetColor=Gold}天冠神殿{SetColor=Default}中總共有五個\n放著{SetColor=Gold}參加神將職業考試之所需道具{SetColor=Default}的房間。
+MID_TUT_Hub_TempleCrown_m01_002: 每個房間都有{SetColor=Gold}上鎖{SetColor=Default}。\n每消耗一把{SetColor=Gold}天冠鑰匙{SetColor=Default}，即可進入一個房間。
+MID_TUT_Hub_TempleCrown_m01_003: 天冠鑰匙就藏在各地{SetColor=Gold}迷宮{SetColor=Default}的{SetColor=Gold}寶箱裡{SetColor=Default}，\n每個寶箱裡各有一把鑰匙。
+MID_TUT_Hub_LegendPass_t: 神將考試道具
+MID_TUT_Hub_LegendPass_m01_001: {SetColor=Gold}神將考試道具{SetColor=Default}是參加神將職業的\n資格考試時所需的{SetColor=Gold}特殊道具{SetColor=Default}。
+MID_TUT_Hub_LegendPass_m01_002: {SetColor=Gold}一個{SetColor=Default}考試道具只能讓{SetColor=Gold}一個人{SetColor=Default}使用，\n但只要{SetColor=Gold}返還資格{SetColor=Default}，就能{SetColor=Gold}讓其他同伴使用{SetColor=Default}。
+MID_TUT_Hub_DueDate1_t: 主線任務的推進方法
+MID_TUT_Hub_DueDate1_m01_001: 即使期限尚未到來，\n依然可以在{SetColor=Gold}目的地{SetColor=Default}選擇「{SetColor=Gold}主線任務{SetColor=Default}」，\n來隨時{SetColor=Gold}進行主線任務{SetColor=Default}。
+MID_TUT_Hub_DueDate1_m01_002: 此外，只要曾經{SetColor=Gold}抵達過目的地{SetColor=Default}，\n{SetColor=Gold}無論身在何處都可以選擇{SetColor=Default}「推進主線任務」。
+MID_TUT_Hub_DueDate1_m01_003: 且若已抵達過目的地，在{SetColor=Gold}期限{SetColor=Default}到來時，\n也會{SetColor=Gold}自動推進主線任務{SetColor=Default}。
+MID_TUT_Hub_DueDate2_t: 逾時
+MID_TUT_Hub_DueDate2_m01_001: {SetColor=Gold}目的地不在韃古席翁{SetColor=Default}時，\n若在{SetColor=Gold}抵達{SetColor=Default}該場所前{SetColor=Gold}期限{SetColor=Default}就已經到來，\n將會導致{SetColor=Gold}逾時{SetColor=Default}。
+MID_TUT_Hub_DueDate2_m01_002: 屆時將無法推進主線任務，\n必須{SetColor=Gold}從頭重玩該章節{SetColor=Default}，務必多加注意。
+MID_TUT_Hub_DueDate2_m01_003: 但只要曾經{SetColor=Gold}抵達過目的地{SetColor=Default}，便會顯示{SetColor=Gold}已抵達記號{SetColor=Default}。\n之後就算在目的地以外的地方迎來{SetColor=Gold}期限{SetColor=Default}，\n也可以{SetColor=Gold}推進主線任務{SetColor=Default}。
+MID_TUT_Hub_FacilityReset_t: 設施等處的再次使用
+MID_TUT_Hub_FacilityReset_m01_001: {SetColor=Gold}能在設施等處執行的行動{SetColor=Default}中，\n有些行動{SetColor=Gold}每週{SetColor=Default}只能執行{SetColor=Gold}一次{SetColor=Default}。
+MID_TUT_Hub_FacilityReset_m01_002: 這些行動會在{SetColor=Gold}迎來星期日{SetColor=Default}或{SetColor=Gold}進入新章節{SetColor=Default}時重置，\n屆時將可{SetColor=Gold}再次執行{SetColor=Default}。
+MID_TUT_Hub_HonorPart3_t: 救世LV
+MID_TUT_Hub_HonorPart3_m01_001: {SetColor=Gold}提高救世值{SetColor=Default}即可提升{SetColor=Gold}救世LV{SetColor=Default}，\n並{SetColor=Gold}獲得{SetColor=Default}各種有助於戰鬥的{SetColor=Gold}道具{SetColor=Default}。
+MID_TUT_Hub_HonorPart3_m01_002: 救世值可以透過達成任務或復興設施等\n{SetColor=Gold}拯救世界的行動{SetColor=Default}來提高。
+MID_TUT_Bmap_Move_t: 單位與移動
+MID_TUT_Bmap_Move_m01_001: 我方和敵方都被稱為{SetColor=Gold}單位{SetColor=Default}，\n操作單位即可進行遊戲。
+MID_TUT_Bmap_Move_m01_002: 想{SetColor=Gold}移動{SetColor=Default}單位時，\n請將{SetColor=Gold}游標{SetColor=Default}對準想移動的單位並{SetColor=Gold}按下{ButtonA}{SetColor=Default}。
+MID_TUT_Bmap_Move_m01_003: {SetColor=Gold}可移動的範圍{SetColor=Default}會以{SetColor=Gold}藍色{SetColor=Default}顯示。\n接著請將{SetColor=Gold}游標{SetColor=Default}對準{SetColor=Gold}想前往的格子{SetColor=Default}後，\n再次{SetColor=Gold}按下{ButtonA}{SetColor=Default}。
+MID_TUT_Bmap_UnitCommand_t_: 單位指令「待命」
+MID_TUT_Bmap_UnitCommand_m01_001: 單位{SetColor=Gold}移動到目的地{SetColor=Default}後，便會顯示{SetColor=Gold}單位指令{SetColor=Default}。\n此時選擇「{SetColor=Gold}待命{SetColor=Default}」即可結束移動。
+MID_TUT_Bmap_UnitCommand_m01_002: 若想{SetColor=Gold}重選{SetColor=Default}目的地，\n只需在顯示指令時{SetColor=Gold}按下{ButtonB}{SetColor=Default}即可{SetColor=Gold}取消{SetColor=Default}。
+MID_TUT_Bmap_Attack_t: 單位指令「攻擊」
+MID_TUT_Bmap_Attack_m01_001: 移動至{SetColor=Gold}能攻擊到{SetColor=Default}敵人{SetColor=Gold}的位置{SetColor=Default}時，\n便可在單位指令中選擇「{SetColor=Gold}攻擊{SetColor=Default}」。
+MID_TUT_Bmap_Attack_m01_002: 選擇「{SetColor=Gold}攻擊{SetColor=Default}」後，\n再接著選擇想使用的{SetColor=Gold}武器{SetColor=Default}等{SetColor=Gold}攻擊方式{SetColor=Default}。
+MID_TUT_Bmap_Attack_m01_003: 最後會顯示{SetColor=Gold}戰鬥預測{SetColor=Default}，\n確認沒問題後{SetColor=Gold}按下{ButtonA}{SetColor=Default}，就會開始戰鬥。
+MID_TUT_Bmap_Attack_m01_004: 在尚未決定前，{SetColor=Gold}按下{ButtonB}即可取消{SetColor=Default}，\n並{SetColor=Gold}從移動的階段重新開始{SetColor=Default}。
+MID_TUT_Bmap_ExperienceValue_t: 經驗值與等級提升
+MID_TUT_Bmap_ExperienceValue_m01_001: 和敵人{SetColor=Gold}戰鬥{SetColor=Default}或{SetColor=Gold}擊敗{SetColor=Default}敵人時，\n單位都會獲得{SetColor=Gold}經驗值{SetColor=Default}。
+MID_TUT_Bmap_ExperienceValue_m01_002: {SetColor=Gold}經驗值{SetColor=Default}累積到一定程度即可{SetColor=Gold}提升等級{SetColor=Default}，\n且{SetColor=Gold}HP最大值{SetColor=Default}和{SetColor=Gold}基本能力{SetColor=Default}會隨之{SetColor=Gold}提升{SetColor=Default}。
+MID_TUT_Bmap_PhaseChange_t: 行動階段與回合
+MID_TUT_Bmap_PhaseChange_m01_001: 我軍和敵軍會{SetColor=Gold}輪流行動{SetColor=Default}，\n此{SetColor=Gold}輪次{SetColor=Default}稱為{SetColor=Gold}行動階段{SetColor=Default}。
+MID_TUT_Bmap_PhaseChange_m01_002: {SetColor=Gold}我軍的所有單位{SetColor=Default}都{SetColor=Gold}行動結束{SetColor=Default}後，\n{SetColor=Gold}我軍行動階段{SetColor=Default}便會{SetColor=Gold}結束{SetColor=Default}，並進入{SetColor=Gold}敵軍行動階段{SetColor=Default}。
+MID_TUT_Bmap_PhaseChange_m01_003: {SetColor=Gold}到所有行動階段結束為止{SetColor=Default}的流程稱為一個{SetColor=Gold}回合{SetColor=Default}。\n回合結束後，我軍行動階段便會再次開始。
+MID_TUT_Bmap_Reinforcements_t: 敵人的增援
+MID_TUT_Bmap_Reinforcements_m01_001: 在特定的戰鬥地圖中，\n有時會在戰鬥途中出現{SetColor=Gold}敵人的增援{SetColor=Default}。
+MID_TUT_Bmap_Reinforcements_m01_002: 其通常會從{SetColor=Gold}地圖邊緣{SetColor=Default}或{SetColor=Gold}召喚陣{SetColor=Default}出現，\n最好保持警惕。
+MID_TUT_Bmap_Recovery_t: HP的回復
+MID_TUT_Bmap_Recovery_m01_001: 因敵人的攻擊等導致{SetColor=Gold}HP減少時{SetColor=Default}，\n可以透過「{SetColor=Gold}持有物品{SetColor=Default}」的{SetColor=Gold}傷藥{SetColor=Default}來進行{SetColor=Gold}回復{SetColor=Default}。
+MID_TUT_Bmap_Recovery_m01_002: 單位的{SetColor=Gold}HP歸０{SetColor=Default}時，便會從戰鬥地圖{SetColor=Gold}敗退{SetColor=Default}。\n務必在那之前進行回復。
+MID_TUT_Bmap_Topography_t: 地形效果
+MID_TUT_Bmap_Topography_m01_001: 在{SetColor=Gold}草叢{SetColor=Default}中待命時，單位的{SetColor=Gold}回避{SetColor=Default}會{SetColor=Gold}提升{SetColor=Default}，\n敵人的攻擊會變得{SetColor=Gold}較難命中{SetColor=Default}。
+MID_TUT_Bmap_Topography_m01_002: 此機制稱為{SetColor=Gold}地形效果{SetColor=Default}，\n可在{SetColor=Gold}畫面左下方{SetColor=Default}的{SetColor=Gold}地形情報{SetColor=Default}中\n確認該格子擁有的效果。
+MID_TUT_Bmap_Range_t: 射程
+MID_TUT_Bmap_Range_m01_001: 攻擊的{SetColor=Gold}射程{SetColor=Default}會因武器而異。\n例如{SetColor=Gold}弓的射程{SetColor=Default}為{SetColor=Gold}2{SetColor=Default}，\n可以攻擊{SetColor=Gold}距離兩格遠的敵人{SetColor=Default}。
+MID_TUT_Bmap_Range_m01_002: 且若敵人裝備劍等{SetColor=Gold}射程為1的武器{SetColor=Default}，\n弓在{SetColor=Gold}攻擊時不會遭到反擊{SetColor=Default}。
+MID_TUT_Bmap_Range_m01_003: 但相對地，弓{SetColor=Gold}無法攻擊周圍一格的範圍{SetColor=Default}，\n因此被鄰接的敵人攻擊時，\n將會無法反擊，務必多加注意。
+MID_TUT_Bmap_SpecialAttack_t: 克制與有效
+MID_TUT_Bmap_SpecialAttack_m01_001: {SetColor=Gold}弓{SetColor=Default}擁有{SetColor=Gold}克制飛行{SetColor=Default}的效果，\n對{SetColor=Gold}飛行的敵人{SetColor=Default}能發揮{SetColor=Gold}三倍威力{SetColor=Default}。
+MID_TUT_Bmap_SpecialAttack_m01_002: 武器和魔法擁有的{SetColor=Gold}克制{SetColor=Default}效果會以{SetColor=Gold}圖示{SetColor=Default}來顯示，\n會對{SetColor=Gold}擁有相同圖示的對手{SetColor=Default}生效。
+MID_TUT_Bmap_SpecialAttack_m01_003: 除了克制外，還有{SetColor=Gold}有效{SetColor=Default}的效果。\n有效能發揮平常的{SetColor=Gold}兩倍威力{SetColor=Default}。
+MID_TUT_Bmap_CombatTechnique_t: 戰技
+MID_TUT_Bmap_CombatTechnique_m01_001: {SetColor=Gold}戰技{SetColor=Default}是賦予{SetColor=Gold}武器特殊效果{SetColor=Default}的攻擊方法，\n可以提高威力或改變射程等。
+MID_TUT_Bmap_CombatTechnique_m01_002: 在「{SetColor=Gold}戰技{SetColor=Default}」中選擇{SetColor=Gold}想發動的戰技{SetColor=Default}\n和{SetColor=Gold}能使用該戰技的武器{SetColor=Default}後即可發動。
+MID_TUT_Bmap_CombatTechnique_m01_003: 與普通攻擊不同，其會{SetColor=Gold}消耗{SetColor=Default}武器的{SetColor=Gold}耐久值{SetColor=Default}。\n{SetColor=Gold}耐久值歸０{SetColor=Default}時，該武器的{SetColor=Gold}威力和命中{SetColor=Default}便會{SetColor=Gold}降低{SetColor=Default}。
+MID_TUT_Bmap_Xhelp_t: 單位的狀態
+MID_TUT_Bmap_Xhelp_m01_001: 將{SetColor=Gold}游標{SetColor=Default}對準{SetColor=Gold}單位{SetColor=Default}後{SetColor=Gold}按下{ButtonX}{SetColor=Default}，\n即可查看該單位的{SetColor=Gold}狀態{SetColor=Default}。
+MID_TUT_Bmap_Xhelp_m01_002: 再次{SetColor=Gold}按下{ButtonX}{SetColor=Default}，\n便會顯示各項目的{SetColor=Gold}詳細情報{SetColor=Default}。
+MID_TUT_Bmap_Magic_t: 攻擊魔法
+MID_TUT_Bmap_Magic_m01_001: {SetColor=Gold}攻擊魔法{SetColor=Default}的{SetColor=Gold}射程{SetColor=Default}大多為{SetColor=Gold}1{Minus}2{SetColor=Default}，\n可以{SetColor=Gold}攻擊鄰接的敵人{SetColor=Default}和{SetColor=Gold}遠處的敵人{SetColor=Default}。
+MID_TUT_Bmap_Magic_m01_002: 與劍等物理攻擊不同，其設有{SetColor=Gold}使用次數限制{SetColor=Default}，\n使用時務必留意剩餘的次數。
+MID_TUT_Bmap_Magic_m01_003: 即使面對裝甲厚重的高耐物敵人，\n只要對方為{SetColor=Gold}低耐魔{SetColor=Default}，便可對其造成{SetColor=Gold}巨大傷害{SetColor=Default}。
+MID_TUT_Bmap_HazardRange_t: 危險範圍
+MID_TUT_Bmap_HazardRange_m01_001: 將{SetColor=Gold}游標{SetColor=Default}對準敵方單位，\n便會顯示該敵人能攻擊到的{SetColor=Gold}危險範圍{SetColor=Default}。
+MID_TUT_Bmap_HazardRange_m01_002: 接著{SetColor=Gold}按下{ButtonA}{SetColor=Default}，\n即可讓該敵方單位的危險範圍{SetColor=Gold}維持顯示狀態{SetColor=Default}。\n（再按一次{ButtonA}即可取消）
+MID_TUT_Bmap_HazardRange_m01_003: 除了持續顯示個別危險範圍之外，\n{SetColor=Gold}按下{ButtonZL}{SetColor=Default}也可以{SetColor=Gold}持續顯示敵軍全體的危險範圍{SetColor=Default}。\n（再次按下{ButtonZL}即可取消）
+MID_TUT_Bmap_WeaponType_t: 各種武器的特性
+MID_TUT_Bmap_WeaponType_m01_001: 武器會視種類擁有不同的特性。\n{SetColor=Gold}劍{SetColor=Default}在追擊時造成的{SetColor=Gold}傷害{SetColor=Default}會變為{SetColor=Gold}1.2倍{SetColor=Default}。\n{SetColor=Gold}槍{SetColor=Default}擁有{SetColor=Gold}對騎兵有效{SetColor=Default}的效果。
+MID_TUT_Bmap_WeaponType_m01_002: {SetColor=Gold}斧至少{SetColor=Default}能對敵人造成{SetColor=Gold}5傷害{SetColor=Default}。\n{SetColor=Gold}弓{SetColor=Default}擁有{SetColor=Gold}克制飛行{SetColor=Default}的效果。
+MID_TUT_Bmap_WeaponType_m01_003: {SetColor=Gold}手甲{SetColor=Default}在{SetColor=Gold}面對手甲以外武器的攻擊{SetColor=Default}時更容易回避。{SetColor=Gold}{SetColor=Default}\n戰鬥時請好好活用這些特性。
+MID_TUT_Bmap_BlazeArts_t: 聖焰戰技
+MID_TUT_Bmap_BlazeArts_m01_001: {SetColor=Gold}部分單位{SetColor=Default}可使用名為{SetColor=Gold}聖焰戰技{SetColor=Default}的{SetColor=Gold}特殊招式{SetColor=Default}。
+MID_TUT_Bmap_BlazeArts_m01_002: 雖然使用時{SetColor=Gold}需要消耗HP{SetColor=Default}，\n但每一種都擁有非常{SetColor=Gold}強大的效果{SetColor=Default}。
+MID_TUT_Bmap_WhiteRaven_t: 破邪閃擊（{AvatarName}）
+MID_TUT_Bmap_WhiteRaven_m01_001: {AvatarName}的聖焰戰技\n{SetColor=Gold}破邪閃擊{SetColor=Default}是可以{SetColor=Gold}同時攻擊\n十字範圍內五名{SetColor=Default}敵人的招式。
+MID_TUT_Bmap_WhiteRaven_m01_002: 在單位指令的「{SetColor=Gold}聖焰戰技{SetColor=Default}」中選擇{SetColor=Gold}破邪閃擊{SetColor=Default}後，\n再{SetColor=Gold}指定要攻擊的位置{SetColor=Default}即可發動。
+MID_TUT_Bmap_OverBlaze_t: 聖焰爆發
+MID_TUT_Bmap_OverBlaze_m01_001: 使用聖焰戰技時，會累積{SetColor=Gold}聖焰條{SetColor=Default}。
+MID_TUT_Bmap_OverBlaze_m01_002: 累積到{SetColor=Gold}一半以上{SetColor=Default}便會進入{SetColor=Gold}聖焰爆發{SetColor=Default}狀態，\n{SetColor=Gold}各種能力{SetColor=Default}和{SetColor=Gold}聖焰戰技{SetColor=Default}都會得到{SetColor=Gold}強化{SetColor=Default}。
+MID_TUT_Bmap_OverBlaze_m01_003: 聖焰條累積到最大值時將會{SetColor=Gold}過載{SetColor=Default}，\n並{SetColor=Gold}解除聖焰爆發{SetColor=Default}狀態。
+MID_TUT_Bmap_Hell_t: 冥府（聖焰類型）
+MID_TUT_Bmap_Hell_m01_001: 聖焰類型為{SetColor=Gold}冥府{SetColor=Default}的單位如果過載，\n直到戰鬥地圖結束為止，{SetColor=Gold}HP最大值{SetColor=Default}會{SetColor=Gold}減少{SetColor=Default}。
+MID_TUT_Bmap_HeavenlyPillar_t: 天柱（聖焰類型）
+MID_TUT_Bmap_HeavenlyPillar_m01_001: 聖焰類型為{SetColor=Gold}天柱{SetColor=Default}的單位使用{SetColor=Gold}普通攻擊{SetColor=Default}時，\n{SetColor=Gold}聖焰條{SetColor=Default}也會{SetColor=Gold}提升{SetColor=Default}。
+MID_TUT_Bmap_HeavenlyPillar_m01_002: 相反地，使用{SetColor=Gold}咒寶武器{SetColor=Default}或{SetColor=Gold}咒寶裝備{SetColor=Default}時，\n{SetColor=Gold}聖焰條{SetColor=Default}會{SetColor=Gold}降低{SetColor=Default}。
+MID_TUT_Bmap_Mechanism_t: 機偶（聖焰類型）
+MID_TUT_Bmap_Mechanism_m01_001: 聖焰類型為{SetColor=Gold}機偶{SetColor=Default}的單位\n就算使用{SetColor=Gold}咒寶武器{SetColor=Default}或{SetColor=Gold}咒寶裝備{SetColor=Default}，\n聖焰條也{SetColor=Gold}不會提升{SetColor=Default}。
+MID_TUT_Bmap_Grasp_t: 掌握（聖焰特技）
+MID_TUT_Bmap_Grasp_m01_001: 擁有聖焰特技{SetColor=Gold}掌握{SetColor=Default}的單位\n可使用「{SetColor=Gold}控制聖焰{SetColor=Default}」（冥靜），\n將{SetColor=Gold}聖焰條歸０{SetColor=Default}。
+MID_TUT_Bmap_Grasp_m01_002: 只要在聖焰條累積到最大值前使用，\n即可{SetColor=Gold}避免過載導致的HP最大值減少{SetColor=Default}。
+MID_TUT_Bmap_Runaway_t: 失控（聖焰特技）
+MID_TUT_Bmap_Runaway_m01_001: 擁有聖焰特技{SetColor=Gold}失控{SetColor=Default}的單位\n可使用「{SetColor=Gold}控制聖焰{SetColor=Default}」（冥狂），\n讓{SetColor=Gold}聖焰條提升至50%{SetColor=Default}。
+MID_TUT_Bmap_Runaway_m01_002: 使用後，即使過載，\n也{SetColor=Gold}不會解除聖焰爆發{SetColor=Default}狀態。
+MID_TUT_Bmap_Resistance_t: 抵抗（聖焰特技）
+MID_TUT_Bmap_Resistance_m01_001: 擁有聖焰特技{SetColor=Gold}抵抗{SetColor=Default}的單位就算過載，\n{SetColor=Gold}HP最大值{SetColor=Default}也{SetColor=Gold}不會減少{SetColor=Default}。
+MID_TUT_Bmap_MechanicalSkills_t: 守護天使解放（聖焰特技）
+MID_TUT_Bmap_MechanicalSkills_m01_001: 擁有聖焰特技{SetColor=Gold}守護天使解放{SetColor=Default}的單位\n可使用「{SetColor=Gold}控制聖焰{SetColor=Default}」（伊麗莎白），\n立刻進入{SetColor=Gold}聖焰爆發狀態{SetColor=Default}。
+MID_TUT_Bmap_MechanicalSkills_m01_002: 聖焰爆發後，{SetColor=Gold}聖焰條{SetColor=Default}會於{SetColor=Gold}每回合降低{SetColor=Default}，\n{SetColor=Gold}歸０時{SetColor=Default}將{SetColor=Gold}解除{SetColor=Default}聖焰爆發狀態。
+MID_TUT_Bmap_HeavenlyPillarSkills_t: 覺醒（聖焰特技）
+MID_TUT_Bmap_HeavenlyPillarSkills_m01_001: 擁有聖焰特技{SetColor=Gold}覺醒{SetColor=Default}的單位\n隨著{SetColor=Gold}聖焰條的提升{SetColor=Default}，將可{SetColor=Gold}使用更強大的聖焰戰技{SetColor=Default}。
+MID_TUT_Bmap_CursedTreasure_t: 咒寶
+MID_TUT_Bmap_CursedTreasure_m01_001: 擁有{SetColor=Gold}怨咒力{SetColor=Default}的武器和裝備被稱為{SetColor=Gold}咒寶{SetColor=Default}。\n用咒寶來攻擊或裝備咒寶戰鬥時，\n{SetColor=Gold}聖焰條{SetColor=Default}會視怨咒力的數值{SetColor=Gold}提升{SetColor=Default}。
+MID_TUT_Bmap_ReturnQualification_t: 返還資格
+MID_TUT_Bmap_ReturnQualification_m01_001: 同一時間只能有一個人成為的{SetColor=Gold}特殊兵種{SetColor=Default}\n可以進行{SetColor=Gold}返還資格{SetColor=Default}。
+MID_TUT_Bmap_ReturnQualification_m01_002: 返還資格時會{SetColor=Gold}退還專用的道具{SetColor=Default}，\n使{SetColor=Gold}其他同伴能夠參加資格考試{SetColor=Default}。
+MID_TUT_Bmap_RecoveryMagic_t: 回復魔法
+MID_TUT_Bmap_RecoveryMagic_m01_001: 使用{SetColor=Gold}聖療{SetColor=Default}等{SetColor=Gold}回復魔法{SetColor=Default}\n可以回復我方的HP。
+MID_TUT_Bmap_RecoveryMagic_m01_002: 只要{SetColor=Gold}需要回復的我方{SetColor=Default}待在魔法的{SetColor=Gold}射程範圍{SetColor=Default}內，\n即可透過「{SetColor=Gold}輔助{SetColor=Default}」來使用。
+MID_TUT_Bmap_RecoveryMagic_m01_003: 每種魔法在使用上都有{SetColor=Gold}次數限制{SetColor=Default}，\n務必多加注意。
+MID_TUT_Bmap_SupportingEffect_t: 支援效果
+MID_TUT_Bmap_SupportingEffect_m01_001: 戰鬥時與{SetColor=Gold}支援LV{SetColor=Default}較高的我方鄰接，\n便會發生{SetColor=Gold}支援效果{SetColor=Default}，使{SetColor=Gold}狀態提升{SetColor=Default}。
+MID_TUT_Bmap_SupportingEffect_m01_002: {SetColor=Gold}支援LV{SetColor=Default}可以透過在同伴{SetColor=Gold}附近戰鬥{SetColor=Default}，\n或對同伴{SetColor=Gold}使用回復魔法{SetColor=Default}來提升。
+MID_TUT_Bmap_TurnBackTime_t: 芙托娜的加護
+MID_TUT_Bmap_TurnBackTime_m01_001: {SetColor=Gold}芙托娜的加護{SetColor=Default}是一種可以回溯時間，\n從任意時間點{SetColor=Gold}重新開始戰鬥地圖{SetColor=Default}的加護。
+MID_TUT_Bmap_TurnBackTime_m01_002: 想要使用時，請先按下{ButtonPlus}或{ButtonA}來打開選單，\n並在「{SetColor=Gold}發動加護{SetColor=Default}」中選擇「{SetColor=Gold}芙托娜的加護{SetColor=Default}」。
+MID_TUT_Bmap_TurnBackTime_m01_003: 接著再{SetColor=Gold}從過去行動的一覽表選擇想回去的時間點{SetColor=Default}，\n即可從指定的時間點重新開始。
+MID_TUT_Bmap_TurnBackTime_m01_004: 使用加護時，需要消耗{SetColor=Gold}天刻之白沙{SetColor=Default}。\n天刻之白沙會{SetColor=Gold}隨著故事推進回復{SetColor=Default}。\n（消耗量會依照難度有所不同）
+MID_TUT_Bmap_Guest_t: GUEST參戰
+MID_TUT_Bmap_Guest_m01_001: 會{SetColor=Gold}在戰鬥地圖過關前{SetColor=Default}，\n{SetColor=Gold}暫時成為同伴{SetColor=Default}的單位被稱為{SetColor=Gold}GUEST{SetColor=Default}。\n其會以{SetColor=Gold}青綠色{SetColor=Default}來顯示，且可以進行操作。
+MID_TUT_Bmap_Guest_m01_002: GUEST打倒敵人後{SetColor=Gold}獲得的經驗值{SetColor=Default}\n會於過關時{SetColor=Gold}分配給所有我方{SetColor=Default}。
+MID_TUT_Bmap_Guest_m01_003: 此外，除了GUEST原本持有的物品外，\n{SetColor=Gold}於戰鬥地圖中獲得的道具{SetColor=Default}全部都會\n在過關時被送至{SetColor=Gold}道具袋{SetColor=Default}。
+MID_TUT_Bmap_Conversation_t: 對話
+MID_TUT_Bmap_Conversation_m01_001: {SetColor=Gold}移動{SetColor=Default}至顯示{SetColor=Gold}對話框{SetColor=Default}的單位{SetColor=Gold}身邊{SetColor=Default}時，\n單位指令便會出現「{SetColor=Gold}對話{SetColor=Default}」的選項。
+MID_TUT_Bmap_Conversation_m01_002: 選擇「{SetColor=Gold}對話{SetColor=Default}」後，即可{SetColor=Gold}和對方交談{SetColor=Default}。\n此舉{SetColor=Gold}不會導致行動結束{SetColor=Default}，務必多多嘗試對話。
+MID_TUT_Bmap_SortiePreparation_t: 戰鬥準備
+MID_TUT_Bmap_SortiePreparation_m01_001: 在{SetColor=Gold}戰鬥準備選單{SetColor=Default}中，可以{SetColor=Gold}進行各種準備{SetColor=Default}。\n例如更改武器和特技、確認敵人的配置，\n或更改我方的配置等。
+MID_TUT_Bmap_SortiePreparation_m01_002: 準備完成後再選擇{SetColor=Gold}開始戰鬥{SetColor=Default}吧。
+MID_TUT_Bmap_UnitSelection_t: 選擇單位
+MID_TUT_Bmap_UnitSelection_m01_001: 在{SetColor=Gold}選擇單位{SetColor=Default}中，可{SetColor=Gold}更改出擊的同伴{SetColor=Default}。\n{SetColor=Gold}按下{ButtonA}{SetColor=Default}即可{SetColor=Gold}切換{SetColor=Default}是／否出擊。
+MID_TUT_Bmap_UnitSelection_m01_002: 但有{SetColor=Gold}上鎖圖示{SetColor=Default}的單位為必須出擊的單位，\n因此{SetColor=Gold}無法更改{SetColor=Default}。
+MID_TUT_Bmap_UnitSelection_m01_003: 每張戰鬥地圖都有限制{SetColor=Gold}可出擊的人數{SetColor=Default}，\n只要在指定的人數範圍內皆可自由選擇。
+MID_TUT_Bmap_GettingDressed_t: 整備
+MID_TUT_Bmap_GettingDressed_m01_001: 在{SetColor=Gold}整備{SetColor=Default}中，\n可以{SetColor=Gold}整理{SetColor=Default}單位持有的{SetColor=Gold}武器{SetColor=Default}、{SetColor=Gold}裝備{SetColor=Default}和{SetColor=Gold}道具{SetColor=Default}等。
+MID_TUT_Bmap_GettingDressed_m01_002: 還可以{SetColor=Gold}替換{SetColor=Default}欲使用的{SetColor=Gold}特技{SetColor=Default}和{SetColor=Gold}戰技{SetColor=Default}等，\n根據狀況來進行整備吧。
+MID_TUT_Bmap_Realignment_t: 更改配置
+MID_TUT_Bmap_Realignment_m01_001: 在{SetColor=Gold}更改配置{SetColor=Default}中，\n可以{SetColor=Gold}更改戰鬥開始時的我方單位的位置{SetColor=Default}。
+MID_TUT_Bmap_Realignment_m01_002: {SetColor=Gold}按下{ButtonA}來選擇兩名我方{SetColor=Default}，即可使其位置{SetColor=Gold}互換{SetColor=Default}。\n可以反覆進行此操作，來調整理想的配置。
+MID_TUT_Bmap_Realignment_m01_003: 但是，{SetColor=Gold}格子為綠色{SetColor=Default}的單位\n出擊位置是固定的，因此{SetColor=Gold}無法更改{SetColor=Default}。
+MID_TUT_Bmap_Carriage_t: 保衛共乘馬車
+MID_TUT_Bmap_Carriage_m01_001: {SetColor=Gold}共乘馬車{SetColor=Default}因為受到敵人的攻擊\n而導致{SetColor=Gold}耐久HP歸０{SetColor=Default}時，便會視為{SetColor=Gold}敗北{SetColor=Default}。
+MID_TUT_Bmap_Carriage_m01_002: 擊敗靠近的敵人，或擋住敵人前進的路線，\n設法{SetColor=Gold}避免馬車遭到攻擊{SetColor=Default}吧。
+MID_TUT_Bmap_Carriage_m01_003: 只要將{SetColor=Gold}游標{SetColor=Default}對準{SetColor=Gold}馬車{SetColor=Default}，\n剩下的耐久HP便會顯示在畫面左下方。
+MID_TUT_Bmap_TerrainDestruction_t: 破壞地形
+MID_TUT_Bmap_TerrainDestruction_m01_001: 地形情報有顯示{SetColor=Gold}耐久HP{SetColor=Default}時，\n便代表該地形可以透過{SetColor=Gold}攻擊{SetColor=Default}來{SetColor=Gold}破壞{SetColor=Default}。
+MID_TUT_Bmap_TerrainDestruction_m01_002: {SetColor=Gold}破壞{SetColor=Default}後會變得{SetColor=Gold}可以通行{SetColor=Default}，\n不破壞則可以{SetColor=Gold}當成障礙物來使用{SetColor=Default}。\n視情況好好善用吧。
+MID_TUT_Bmap_HPStock_t: 儲備HP
+MID_TUT_Bmap_HPStock_m01_001: 敵人有時會顯示{SetColor=Gold}紅色記號{SetColor=Default}，\n此稱為{SetColor=Gold}儲備HP{SetColor=Default}。
+MID_TUT_Bmap_HPStock_m01_002: 擁有{SetColor=Gold}儲備HP{SetColor=Default}的敵人，{SetColor=Gold}一個記號{SetColor=Default}就代表，\n能{SetColor=Gold}在HP歸０時完全回復一次{SetColor=Default}。
+MID_TUT_Bmap_HPStock_m01_003: 在該敵人的{SetColor=Gold}儲備HP耗盡的狀態{SetColor=Default}下，\n使其{SetColor=Gold}HP歸０{SetColor=Default}即可將其{SetColor=Gold}擊敗{SetColor=Default}。
+MID_TUT_Bmap_Withdrawal_t: 脫離
+MID_TUT_Bmap_Withdrawal_m01_001: 在戰鬥地圖中，\n勝利條件有時會是{SetColor=Gold}脫離{SetColor=Default}該地圖。
+MID_TUT_Bmap_Withdrawal_m01_002: 只要讓{SetColor=Gold}指定的單位{SetColor=Default}前進到{SetColor=Gold}指定的格子{SetColor=Default}，\n即可選擇「脫離」。
+MID_TUT_Bmap_GiantEnemy_t: 大型單位的障壁
+MID_TUT_Bmap_GiantEnemy_m01_001: 大型單位都擁有{SetColor=Gold}障壁{SetColor=Default}，\n可以透過攻擊來{SetColor=Gold}破壞該處的障壁{SetColor=Default}。
+MID_TUT_Bmap_GiantEnemy_m01_002: 破壞一片障壁可使敵人暫時無法反擊，\n且攻擊破壞後的格子會更容易造成傷害。
+MID_TUT_Bmap_GiantEnemy_m01_003: 破壞所有障壁則可使敵人無法行動一回合，\n有時還能獲得道具。
+MID_TUT_Bmap_Onslaught_t: 猛攻
+MID_TUT_Bmap_Onslaught_m01_001: 有些敵人能使用\n名為{SetColor=Gold}猛攻{SetColor=Default}的{SetColor=Gold}強大範圍攻擊{SetColor=Default}。
+MID_TUT_Bmap_Onslaught_m01_002: 敵人準備使用猛攻時，{SetColor=Gold}攻擊範圍{SetColor=Default}將顯示為{SetColor=Gold}紫色{SetColor=Default}，\n並於{SetColor=Gold}下個行動階段發動{SetColor=Default}。
+MID_TUT_Bmap_Onslaught_m01_003: 範圍內的所有我方都會受到攻擊，\n障礙物也會被破壞。
+MID_TUT_Bmap_Pillar_t: 脆弱的柱子
+MID_TUT_Bmap_Pillar_m01_001: 與{SetColor=Gold}脆弱的柱子{SetColor=Default}鄰接時選擇「{SetColor=Gold}脆弱的柱子{SetColor=Default}」，\n即可將其放倒當成{SetColor=Gold}障礙物{SetColor=Default}。
+MID_TUT_Bmap_Pillar_m01_002: 除了飛行兵種以外的單位都{SetColor=Gold}無法進入{SetColor=Default}，\n可以藉此來阻止敵人前進。
+MID_TUT_Bmap_TreasureChest_t: 寶箱
+MID_TUT_Bmap_TreasureChest_m01_001: {SetColor=Gold}持有寶箱鑰匙的單位與寶箱鄰接{SetColor=Default}時，\n可選擇「{SetColor=Gold}寶箱{SetColor=Default}」來獲得裡面的物品。
+MID_TUT_Bmap_TreasureChest_m01_002: {SetColor=Gold}寶箱鑰匙{SetColor=Default}有時會在敵人手上，\n只要將其{SetColor=Gold}擊敗{SetColor=Default}即可{SetColor=Gold}入手{SetColor=Default}。
+MID_TUT_Bmap_FogMap_t: 尋敵地圖
+MID_TUT_Bmap_FogMap_m01_001: 因霧氣或沙暴等限制了視野，\n而不清楚敵人位置的戰鬥地圖稱為{SetColor=Gold}尋敵地圖{SetColor=Default}。
+MID_TUT_Bmap_FogMap_m01_002: 我方{SetColor=Gold}行動結束{SetColor=Default}時{SetColor=Gold}視野會更新{SetColor=Default}，\n若於此時{SetColor=Gold}發現新的敵人{SetColor=Default}，\n可使敵人陷入{SetColor=Gold}混亂狀態{SetColor=Default}。
+MID_TUT_Bmap_FogMap_m01_003: 但如果我方{SetColor=Gold}在移動中撞見未發現的敵人{SetColor=Default}，\n我方便會直接{SetColor=Gold}行動結束{SetColor=Default}，務必多加注意。
+MID_TUT_Bmap_BowBattery_t: 兵器
+MID_TUT_Bmap_BowBattery_m01_001: {SetColor=Gold}炮台{SetColor=Default}和{SetColor=Gold}投石機{SetColor=Default}等設置於戰鬥地圖的{SetColor=Gold}兵器{SetColor=Default}，\n只需{SetColor=Gold}配置單位{SetColor=Default}即可{SetColor=Gold}使用{SetColor=Default}。
+MID_TUT_Bmap_BowBattery_m01_002: {SetColor=Gold}弓弩炮台{SetColor=Default}僅限{SetColor=Gold}會用弓的兵種{SetColor=Default}使用，\n{SetColor=Gold}魔道炮台{SetColor=Default}僅限{SetColor=Gold}會用魔法的兵種{SetColor=Default}使用，\n{SetColor=Gold}投石機{SetColor=Default}則是{SetColor=Gold}所有兵種{SetColor=Default}都能使用。
+MID_TUT_Bmap_BowBattery_m01_003: 雖然兵器的{SetColor=Gold}彈數有限{SetColor=Default}，但射程都很長，\n因此可以用來{SetColor=Gold}攻擊遠處的單位{SetColor=Default}。
+MID_TUT_Bmap_BowBattery_m01_004: 但除了我方外，{SetColor=Gold}敵方也能使用{SetColor=Default}，\n務必多加注意。
+MID_TUT_Bmap_Explosives_t: 爆炸物
+MID_TUT_Bmap_Explosives_m01_001: 只要攻擊{SetColor=Gold}爆炸物{SetColor=Default}，就會對{SetColor=Gold}周圍的敵人{SetColor=Default}造成{SetColor=Gold}傷害{SetColor=Default}，\n並使其{SetColor=Gold}無法移動一回合{SetColor=Default}。
+MID_TUT_Bmap_Explosives_m01_002: {SetColor=Gold}敵方使用{SetColor=Default}時，\n{SetColor=Gold}我方{SetColor=Default}也會{SetColor=Gold}受到該效果影響{SetColor=Default}，還請多加注意。
+MID_TUT_Bmap_ControllerKaiEdited_t: 被隔開的凱伊
+MID_TUT_Bmap_ControllerKaiEdited_m01_001: 想支援被隔開的凱伊，\n就必須{SetColor=Gold}解除魔法防護牆{SetColor=Default}。
+MID_TUT_Bmap_ControllerKaiEdited_m01_002: 可在{SetColor=Gold}與控制裝置鄰接{SetColor=Default}時透過「{SetColor=Gold}裝置{SetColor=Default}」進行操作，\n{SetColor=Gold}操作兩處{SetColor=Default}的控制裝置即可予以解除。
+MID_TUT_Bmap_ControllerKaiEdited_m01_003: 或者是，先{SetColor=Gold}擊敗卡司托爾{SetColor=Default}也可以解除。
+MID_TUT_Bmap_BattleOfCastor_t: 魔法陣的使用限制
+MID_TUT_Bmap_BattleOfCastor_m01_001: 本戰鬥地圖中的回復陣等{SetColor=Gold}魔法陣{SetColor=Default}\n只要{SetColor=Gold}效果發動過{SetColor=Default}一次，\n便會從{SetColor=Gold}下個回合{SetColor=Default}開始{SetColor=Gold}失去功能{SetColor=Default}。
+MID_TUT_Bmap_BattleOfCastor_m01_002: 要在何時使用回復或防守強化等效果，\n務必仔細考慮好時機。
+MID_TUT_Bmap_SpecialEffectsFlooring_t: 特殊的地形
+MID_TUT_Bmap_SpecialEffectsFlooring_m01_001: 戰鬥地圖中有時會配置{SetColor=Gold}擁有各種效果的地形{SetColor=Default}，\n例如可在行動階段開始時回復HP的回復陣等。
+MID_TUT_Bmap_SpecialEffectsFlooring_m01_002: 除了有利的效果外，\n也有會讓單位{SetColor=Gold}受到傷害的地形{SetColor=Default}，\n移動前務必先行確認。
+MID_TUT_Bmap_Rain_t: 雨天
+MID_TUT_Bmap_Rain_m01_001: 戰鬥地圖為{SetColor=Gold}雨天{SetColor=Default}時，\n將會{SetColor=Gold}無法使用炮台{SetColor=Default}。
+MID_TUT_Bmap_Rain_m01_002: 此外，{SetColor=Gold}雷攻擊的傷害{SetColor=Default}會{SetColor=Gold}提升{SetColor=Default}，\n{SetColor=Gold}炎攻擊的傷害{SetColor=Default}則會{SetColor=Gold}減少{SetColor=Default}。
+MID_TUT_Bmap_TreasureHunt_t: 獲得寶珠
+MID_TUT_Bmap_TreasureHunt_m01_001: 讓單位在有{SetColor=Gold}魔法寶珠{SetColor=Default}的格子上{SetColor=Gold}待命{SetColor=Default}，\n即可{SetColor=Gold}獲得寶珠{SetColor=Default}。
+MID_TUT_Bmap_TreasureHunt_m01_002: {SetColor=Gold}每個單位{SetColor=Default}只能持有{SetColor=Gold}一個寶珠{SetColor=Default}。\n即使得到第二個，其也會{SetColor=Gold}被丟至遠方{SetColor=Default}。
+MID_TUT_Bmap_TreasureHunt_m01_003: 此外，寶珠亦{SetColor=Gold}無法丟棄或交換{SetColor=Default}。\n僅限在持有物品已滿時，可以將其置於地上。
+MID_TUT_Bmap_TreasureHunt_m01_004: 寶珠的初期配置對敵方較有利。\n因此，{SetColor=Gold}最後一回合{SetColor=Default}將會{SetColor=Gold}跳過敵軍行動階段{SetColor=Default}，\n在{SetColor=Gold}我軍行動階段結束後{SetColor=Default}直接結束。
+MID_TUT_Bmap_Revival_t: 自動歸隊
+MID_TUT_Bmap_Revival_m01_001: 在本戰鬥地圖中，單位的HP歸０也不會被擊敗，\n將會以{SetColor=Gold}HP完全回復{SetColor=Default}的狀態{SetColor=Gold}歸隊{SetColor=Default}。
+MID_TUT_Bmap_Revival_m01_002: 我軍和敵軍都有各自的{SetColor=Gold}歸隊區域{SetColor=Default}，\n單位會被再次配置於該區域中。
+MID_TUT_Bmap_Revival_m01_003: 剛歸隊的單位{SetColor=Gold}該回合無法行動{SetColor=Default}，\n務必多加注意。
+MID_TUT_Bmap_ShiftingDevice_t: 轉移陣
+MID_TUT_Bmap_ShiftingDevice_m01_001: 讓單位移動到{SetColor=Gold}轉移陣{SetColor=Default}上後再選擇「{SetColor=Gold}轉移{SetColor=Default}」，\n即可{SetColor=Gold}瞬間移動{SetColor=Default}至對應的轉移陣。
+MID_TUT_Bmap_ShiftingDevice_m01_002: 若{SetColor=Gold}在移動力尚存的狀態下轉移{SetColor=Default}，\n轉移到目的地後，還可視剩下的移動力進行{SetColor=Gold}移動{SetColor=Default}。
+MID_TUT_Bmap_ShiftingDevice_m01_003: {SetColor=Gold}轉移的目的地有其他單位存在{SetColor=Default}時，\n將{SetColor=Gold}無法轉移{SetColor=Default}。
+MID_TUT_Bmap_HolyWater_t: 聖水
+MID_TUT_Bmap_HolyWater_m01_001: {SetColor=Gold}聖水{SetColor=Default}道具擁有讓使用的單位{SetColor=Gold}魔防+10{SetColor=Default}的效果。
+MID_TUT_Bmap_HolyWater_m01_002: 提升的魔防{SetColor=Gold}每經過一回合{SetColor=Default}都會{SetColor=Gold}減少{SetColor=Default}，\n經過{SetColor=Gold}五回合{SetColor=Default}後便會{SetColor=Gold}失效{SetColor=Default}。
+MID_TUT_Bmap_HumidityRegulator_t: 聖水的無效化
+MID_TUT_Bmap_HumidityRegulator_m01_001: 在與{SetColor=Gold}控制裝置{SetColor=Default}鄰接時使用「{SetColor=Gold}裝置{SetColor=Default}」，\n即可讓所有單位的{SetColor=Gold}聖水效果失效{SetColor=Default}。
+MID_TUT_Bmap_HumidityRegulator_m01_002: 控制裝置總共有五個，\n每個可以使用一次。
+MID_TUT_Bmap_Weakness_t: 突變迪甘瑪
+MID_TUT_Bmap_Weakness_m01_001: 迪甘瑪當中，有一些狀態不同的{SetColor=Gold}突變個體{SetColor=Default}。\n對其{SetColor=Gold}造成傷害{SetColor=Default}時，能{SetColor=Gold}對周圍的迪甘瑪造成相同的傷害{SetColor=Default}。
+MID_TUT_Bmap_Weakness_m01_002: 仔細{SetColor=Gold}觀察{SetColor=Default}即可{SetColor=Gold}發現{SetColor=Default}突變個體。\n務必善加利用，更有效率地擊敗敵人。
+MID_TUT_Bmap_BellTower_t: 戰象的失控
+MID_TUT_Bmap_BellTower_m01_001: 破壞鐘樓的聲音會讓敵方的戰象失控，\n使{SetColor=Gold}戰象兵{SetColor=Default}在{SetColor=Gold}三回合內{SetColor=Default}變成{SetColor=Gold}第三方軍隊{SetColor=Default}。
+MID_TUT_Bmap_BellTower_m01_002: 其會在這段期間{SetColor=Gold}優先攻擊敵軍{SetColor=Default}，\n但若{SetColor=Gold}附近沒有敵軍{SetColor=Default}，{SetColor=Gold}我軍也會被盯上{SetColor=Default}，\n戰鬥時務必多加注意。
+MID_TUT_Bmap_SeaGod_t: 身壓
+MID_TUT_Bmap_SeaGod_m01_001: 克托斯的猛攻{SetColor=Gold}身壓{SetColor=Default}\n會對{SetColor=Gold}攻擊範圍內的單位{SetColor=Default}造成{SetColor=Gold}巨大傷害{SetColor=Default}。
+MID_TUT_Bmap_SeaGod_m01_002: 此外，待在範圍{SetColor=Gold}中央九格{SetColor=Default}的單位\n無論剩餘的HP有多少，都會被{SetColor=Gold}一擊擊敗{SetColor=Default}。
+MID_TUT_Bmap_SeaGod_m01_003: 這招發動前會顯示{SetColor=Gold}紫色的攻擊範圍{SetColor=Default}，\n並於{SetColor=Gold}下個敵方行動階段發動{SetColor=Default}，務必多加注意。
+MID_TUT_Bmap_MagicTrap_t: 魔法陷阱
+MID_TUT_Bmap_MagicTrap_m01_001: 在與{SetColor=Gold}魔法陷阱生成裝置{SetColor=Default}鄰接時選擇「{SetColor=Gold}裝置{SetColor=Default}」，\n即可在周圍{SetColor=Gold}生成持續一回合的魔法陷阱{SetColor=Default}。
+MID_TUT_Bmap_MagicTrap_m01_002: 若{SetColor=Gold}克托斯{SetColor=Default}在生成的{SetColor=Gold}魔法陷阱的範圍內待命{SetColor=Default}，\n陷阱便會發動。在{SetColor=Gold}與其戰鬥一次{SetColor=Default}，\n或在{SetColor=Gold}下個我軍行動階段{SetColor=Default}前，其將{SetColor=Gold}無法行動{SetColor=Default}。
+MID_TUT_Bmap_MagicTrap_m01_003: 在克托斯的所在位置{SetColor=Gold}直接生成{SetColor=Default}魔法陷阱，\n效果也會發動。
+MID_TUT_Bmap_MagicTrap_m01_004: 魔法陷阱生成裝置總共有八個，\n每個可以使用一次。
+MID_TUT_Bmap_RemovalDevice_t: 沙暴去除裝置
+MID_TUT_Bmap_RemovalDevice_m01_001: 使用「{SetColor=Gold}沙暴去除裝置{SetColor=Default}」，\n即可{SetColor=Gold}去除一定範圍的沙暴一回合{SetColor=Default}。
+MID_TUT_Bmap_RemovalDevice_m01_002: 使用過一次後，在{SetColor=Gold}該回合及下回合{SetColor=Default}，\n任何人都{SetColor=Gold}無法使用{SetColor=Default}「沙暴去除裝置」，\n務必多加注意。
+MID_TUT_Bmap_Lantern_t: 燈籠
+MID_TUT_Bmap_Lantern_m01_001: 在與{SetColor=Gold}紅色火焰的燈籠{SetColor=Default}鄰接時使用「{SetColor=Gold}燈籠{SetColor=Default}」，\n即可為其{SetColor=Gold}點上藍色火焰{SetColor=Default}。
+MID_TUT_Bmap_Lantern2_t: 燈籠的機關
+MID_TUT_Bmap_Lantern2_m01_001: 只要{SetColor=Gold}用相同顏色的火焰包夾{SetColor=Default}，\n即可改變被夾在中間的燈籠之火的顏色。
+MID_TUT_Bmap_Lantern2_m01_002: 從{SetColor=Gold}上下、左右{SetColor=Default}進行{SetColor=Gold}包夾{SetColor=Default}自不必說，\n{SetColor=Gold}斜線方向的包夾{SetColor=Default}也可以改變燈籠之火的顏色。
+MID_TUT_Bmap_EnclosingWall_t: 賽奧朵拉的防護牆
+MID_TUT_Bmap_EnclosingWall_m01_001: {SetColor=Gold}隔開賽奧朵拉的防護牆{SetColor=Default}只要\n把防護牆{SetColor=Gold}外的敵人全部打倒{SetColor=Default}即可{SetColor=Gold}解除{SetColor=Default}。
+MID_TUT_Bmap_EnclosingWall_m01_002: 本戰鬥地圖分為兩個區域，\n請把兩個區域中的{SetColor=Gold}敵人全部打倒{SetColor=Default}。
+MID_TUT_Bmap_ControllerL_t: 針對大轟土的對策
+MID_TUT_Bmap_ControllerL_m01_001: 在與{SetColor=Gold}控制裝置{SetColor=Default}鄰接時使用「{SetColor=Gold}裝置{SetColor=Default}」，\n即可強化防護牆{SetColor=Gold}一回合{SetColor=Default}，以{SetColor=Gold}擋住大轟土{SetColor=Default}。
+MID_TUT_Bmap_ControllerL_m01_002: 控制裝置總共有四個，\n每個可以使用一次。
+MID_TUT_Bmap_StomachAcid_t: 強酸
+MID_TUT_Bmap_StomachAcid_m01_001: 在{SetColor=Gold}強酸{SetColor=Default}上待命的單位，\n會在{SetColor=Gold}下個我軍行動階段開始時{SetColor=Default}受到{SetColor=Gold}傷害{SetColor=Default}。
+MID_TUT_Bmap_StomachAcid_m01_002: 敵我雙方都會受到此效果的影響，\n只有飛行的單位不會受到傷害。
+MID_TUT_Bmap_StomachAcid_m01_003: 使用{SetColor=Gold}冷狂之歌{SetColor=Default}可以凍結強酸。\n到{SetColor=Gold}一回合後的我軍行動階段{SetColor=Default}為止，將{SetColor=Gold}不會受到傷害{SetColor=Default}。
+MID_TUT_Bmap_StomachAcid2_t: 強酸的變化
+MID_TUT_Bmap_StomachAcid2_m01_001: {SetColor=Gold}強酸格子{SetColor=Default}的範圍{SetColor=Gold}每隔一回合{SetColor=Default}，\n就會{SetColor=Gold}擴大或縮小{SetColor=Default}。
+MID_TUT_Bmap_StomachAcid2_m01_002: {SetColor=Gold}較小的強酸會擴大{SetColor=Default}，{SetColor=Gold}較大的強酸會縮小{SetColor=Default}。\n戰鬥時務必看清其變化。
+MID_TUT_Bmap_Kai_t: 冥炎彈（凱伊）
+MID_TUT_Bmap_Kai_m01_001: 凱伊的聖焰戰技{SetColor=Gold}冥炎彈{SetColor=Default}\n是可以將選擇位置的周邊範圍包含在內，\n{SetColor=Gold}一口氣對複數敵人造成傷害{SetColor=Default}的招式。
+MID_TUT_Bmap_Seodola_t: 轟土（賽奧朵拉）
+MID_TUT_Bmap_Seodola_m01_001: 賽奧朵拉的聖焰戰技{SetColor=Gold}轟土{SetColor=Default}是可以攻擊直線上\n距離最近之一名敵人的{SetColor=Gold}超遠距離攻擊{SetColor=Default}。
+MID_TUT_Bmap_Leda_t: 咒歌（蕾達）
+MID_TUT_Bmap_Leda_m01_001: 蕾達的聖焰戰技{SetColor=Gold}咒歌{SetColor=Default}擁有\n{SetColor=Gold}為範圍內的我方提供各種支援{SetColor=Default}等效果。\n可以視情況詠唱不同的歌曲。
+MID_TUT_Bmap_Ditlih_t: 影渡（迪托利希）
+MID_TUT_Bmap_Ditlih_m01_001: 迪托利希的聖焰戰技{SetColor=Gold}影渡{SetColor=Default}可於{SetColor=Gold}移動後{SetColor=Default}\n再{SetColor=Gold}瞬間移動{SetColor=Default}至較遠的位置，藉此{SetColor=Gold}攻擊遠處的敵人{SetColor=Default}。
+MID_TUT_Bmap_FirstGate_t: 怠惰的瘴氣
+MID_TUT_Bmap_FirstGate_m01_001: 待在{SetColor=Gold}怠惰的瘴氣{SetColor=Default}上的單位\n戰鬥時將{SetColor=Gold}無法追擊{SetColor=Default}。
+MID_TUT_Bmap_FirstGate_m01_002: 敵我雙方都會受到此效果的影響，\n務必多加留心，並在戰鬥中善加利用。
+MID_TUT_Bmap_SecondGate_t: 貪婪的瘴氣
+MID_TUT_Bmap_SecondGate_m01_001: 在{SetColor=Gold}貪婪的瘴氣{SetColor=Default}上待命的單位{SetColor=Gold}防守{SetColor=Default}會{SetColor=Gold}歸０{SetColor=Default}，\n並在{SetColor=Gold}下個我軍行動階段開始時HP減半{SetColor=Default}。
+MID_TUT_Bmap_SecondGate_m01_002: 敵人不會受到此效果的影響，\n戰鬥時務必多加注意。
+MID_TUT_Bmap_SecondGate2_t: 金塊的增加
+MID_TUT_Bmap_SecondGate2_m01_001: 待在{SetColor=Gold}貪婪的瘴氣{SetColor=Default}上的單位{SetColor=Gold}擊敗持有金塊的敵人時{SetColor=Default}，\n可以{SetColor=Gold}獲得更多的金塊{SetColor=Default}。
+MID_TUT_Bmap_ThirdGate_t: 欺瞞的瘴氣
+MID_TUT_Bmap_ThirdGate_m01_001: 在{SetColor=Gold}欺瞞的瘴氣{SetColor=Default}上待命的單位\n視野會變窄到{SetColor=Gold}只能看見鄰接的格子{SetColor=Default}。
+MID_TUT_Bmap_ThirdGate_m01_002: 敵人不會受到此效果的影響，\n戰鬥時務必多加注意。
+MID_TUT_Bmap_FourthGate_t: 嫉妒的瘴氣
+MID_TUT_Bmap_FourthGate_m01_001: 此戰鬥地圖的敵人被擊敗時，\n會在周圍{SetColor=Gold}生成嫉妒的瘴氣{SetColor=Default}。
+MID_TUT_Bmap_FourthGate_m01_002: 待在{SetColor=Gold}嫉妒的瘴氣{SetColor=Default}上的單位\n在與{SetColor=Gold}等級比自己高的對手{SetColor=Default}戰鬥時，\n{SetColor=Gold}命中{SetColor=Default}會變為{SetColor=Gold}兩倍{SetColor=Default}，但{SetColor=Gold}回避{SetColor=Default}會變為{SetColor=Gold}０{SetColor=Default}。
+MID_TUT_Bmap_FourthGate_m01_003: 敵我雙方都會受到此效果的影響，\n戰鬥時務必留意彼此的等級。
+MID_TUT_Bmap_FifthGate_t: 憤怒的瘴氣
+MID_TUT_Bmap_FifthGate_m01_001: 待在{SetColor=Gold}憤怒的瘴氣{SetColor=Default}上的單位\n戰鬥時{SetColor=Gold}必殺{SetColor=Default}會變為{SetColor=Gold}兩倍{SetColor=Default}，但{SetColor=Gold}防守{SetColor=Default}會{SetColor=Gold}減半{SetColor=Default}。
+MID_TUT_Bmap_FifthGate_m01_002: 敵我雙方都會受到此效果的影響，\n務必多加留心，並在戰鬥中善加利用。
+MID_TUT_Bmap_SixthGate_t: 傲慢的瘴氣
+MID_TUT_Bmap_SixthGate_m01_001: 待在{SetColor=Gold}傲慢的瘴氣{SetColor=Default}上的單位\n在與{SetColor=Gold}等級比自己低的對手{SetColor=Default}戰鬥時，\n{SetColor=Gold}命中{SetColor=Default}會{SetColor=Gold}減半{SetColor=Default}。
+MID_TUT_Bmap_SixthGate_m01_002: 敵我雙方都會受到此效果的影響，\n戰鬥時務必留意彼此的等級。
+MID_TUT_Bmap_SeventhGate_t: 色欲的瘴氣
+MID_TUT_Bmap_SeventhGate_m01_001: 待在{SetColor=Gold}色欲的瘴氣{SetColor=Default}上的單位\n在與{SetColor=Gold}魅力比自己高的對手{SetColor=Default}戰鬥時，\n{SetColor=Gold}命中和回避{SetColor=Default}都會{SetColor=Gold}減半{SetColor=Default}。
+MID_TUT_Bmap_SeventhGate_m01_002: 敵我雙方都會受到此效果的影響，\n戰鬥時務必留意彼此的魅力。
+MID_TUT_Bmap_EighthGate_t: 暴食的瘴氣
+MID_TUT_Bmap_EighthGate_m01_001: 待在{SetColor=Gold}暴食的瘴氣{SetColor=Default}上的單位\n於{SetColor=Gold}下個我軍行動階段開始時{SetColor=Default}，\n裝備中的{SetColor=Gold}武器的耐久值{SetColor=Default}和{SetColor=Gold}魔法使用次數{SetColor=Default}都會{SetColor=Gold}減少{SetColor=Default}。
+MID_TUT_Bmap_EighthGate_m01_002: 敵我雙方都會受到此效果的影響，\n戰鬥時務必多加注意。
+MID_TUT_Bmap_NinthGate_t: 恐怖的瘴氣
+MID_TUT_Bmap_NinthGate_m01_001: 在{SetColor=Gold}恐怖的瘴氣{SetColor=Default}上待命的我方單位\n於{SetColor=Gold}下個敵軍行動階段開始時{SetColor=Default}，會陷入{SetColor=Gold}混亂狀態{SetColor=Default}。
+MID_TUT_Bmap_NinthGate_m01_002: 敵人不會受到此效果的影響，\n戰鬥時務必多加注意。
+MID_TUT_Bmap_NinthGate_m01_003: 若{SetColor=Gold}敵方單位在恐怖的瘴氣上待命{SetColor=Default}，\n其{SetColor=Gold}周圍{SetColor=Default}會額外{SetColor=Gold}生成恐怖的瘴氣{SetColor=Default}。
+MID_TUT_Bmap_NinthGate_m01_004: 新生成的瘴氣會持續到{SetColor=Gold}三回合後的敵方行動階段{SetColor=Default}。
+MID_TUT_Bmap_LastBattle_t: 霸羅爾的障壁
+MID_TUT_Bmap_LastBattle_m01_001: 不{SetColor=Gold}削弱{SetColor=Default}或{SetColor=Gold}破壞障壁{SetColor=Default}，就{SetColor=Gold}無法{SetColor=Default}對霸羅爾{SetColor=Gold}造成傷害{SetColor=Default}。\n就算直接攻擊，也很難破壞障壁。
+MID_TUT_Bmap_LastBattle_m01_002: 可以透過{SetColor=Gold}破壞{SetColor=Default}戰鬥地圖中的{SetColor=Gold}冥界之門{SetColor=Default}來削弱障壁。\n{SetColor=Gold}破壞一道門{SetColor=Default}，對霸羅爾{SetColor=Gold}造成的傷害{SetColor=Default}會變為{SetColor=Gold}50％{SetColor=Default}，\n{SetColor=Gold}破壞兩道門{SetColor=Default}，對霸羅爾{SetColor=Gold}造成的傷害{SetColor=Default}會變為{SetColor=Gold}100％{SetColor=Default}。
+MID_TUT_Bmap_LastBattle_m01_003: 若已{SetColor=Gold}將世界地圖出現的冥界之門全部破壞{SetColor=Default}，\n本戰鬥地圖中的門{SetColor=Gold}耐久值{SetColor=Default}便會{SetColor=Gold}減少{SetColor=Default}，\n出現的{SetColor=Gold}增援{SetColor=Default}也會{SetColor=Gold}弱化{SetColor=Default}。
+MID_TUT_Bmap_LanternAshes_t: 香爐的機關
+MID_TUT_Bmap_LanternAshes_m01_001: {SetColor=Gold}破壞香爐僅會對周圍的敵方單位{SetColor=Default}造成{SetColor=Gold}傷害{SetColor=Default}，\n並使其{SetColor=Gold}移動力降低一回合{SetColor=Default}。
+MID_TUT_Bmap_LanternAshes_m01_002: 此外，會有{SetColor=Gold}妨礙移動的灰{SetColor=Default}向周圍飛散。\n{SetColor=Gold}灰飛散的位置{SetColor=Default}會{SetColor=Gold}依香爐而有所不同{SetColor=Default}。
+MID_TUT_Bmap_LanternAshes_m01_003: 香爐總共有八個，\n每個可以使用一次。
+MID_TUT_Bmap_Giant_t: 擊敗巨人的勝負
+MID_TUT_Bmap_Giant_m01_001: 在這場比試中，\n比敵軍更快{SetColor=Gold}擊敗四個巨人{SetColor=Default}即可獲得勝利。
+MID_TUT_Bmap_Giant_m01_002: 擊敗巨人時，{SetColor=Gold}巨人的增援{SetColor=Default}就會{SetColor=Gold}出現{SetColor=Default}，\n戰鬥地圖中{SetColor=Gold}總共{SetColor=Default}會出現{SetColor=Gold}七個巨人。{SetColor=Default}
+MID_TUT_Bmap_Giant_m01_003: 在本戰鬥地圖中，{SetColor=Gold}單位的HP歸０{SetColor=Default}也不會被擊敗，\n將會{SetColor=Gold}回復HP{SetColor=Default}並{SetColor=Gold}歸隊{SetColor=Default}。
+MID_TUT_Bmap_GiantFood_t: 巨人飼料
+MID_TUT_Bmap_GiantFood_m01_001: {SetColor=Gold}餵食飼料{SetColor=Default}後，{SetColor=Gold}巨人{SetColor=Default}會變成{SetColor=Gold}無敵{SetColor=Default}狀態{SetColor=Gold}一回合{SetColor=Default}，\n且{SetColor=Gold}不會盯上與餵食者同陣營{SetColor=Default}的單位。
+MID_TUT_Bmap_GiantFood_m01_002: 移動到距離巨人{SetColor=Gold}三格以內{SetColor=Default}處，\n再選擇「{SetColor=Gold}飼料{SetColor=Default}」即可進行餵食。
+MID_TUT_Bmap_GiantFood_m01_003: {SetColor=Gold}我方的飼料數量有限{SetColor=Default}，\n戰鬥時務必多加注意。
+MID_TUT_Bmap_ChamberCargo_t: 奪回貨物
+MID_TUT_Bmap_ChamberCargo_m01_001: {SetColor=Gold}奪走貨物的盜賊抵達目標地點{SetColor=Default}後\n便會脫離，戰鬥會視為{SetColor=Gold}敗北{SetColor=Default}。
+MID_TUT_Bmap_ChamberCargo_m01_002: 只要{SetColor=Gold}擊敗{SetColor=Default}盜賊，{SetColor=Gold}貨物{SetColor=Default}就會{SetColor=Gold}掉落{SetColor=Default}。\n在盜賊脫離前打倒他們，並回收貨物吧。
+MID_TUT_Bmap_Trebuchet_t: 特殊的投石機
+MID_TUT_Bmap_Trebuchet_m01_001: 在{SetColor=Gold}同一個行動階段中啟動兩台發射裝置{SetColor=Default}，\n即可用{SetColor=Gold}投石機{SetColor=Default}來發動{SetColor=Gold}僅限一次的範圍攻擊{SetColor=Default}。
+MID_TUT_Bmap_Trebuchet_m01_002: 在與{SetColor=Gold}發射裝置{SetColor=Default}鄰接時選擇「{SetColor=Gold}裝置{SetColor=Default}」即可啟動。
+MID_TUT_Bmap_People_t: 誘導人民
+MID_TUT_Bmap_People_m01_001: {SetColor=Gold}崑崙之民{SetColor=Default}會{SetColor=Gold}移動到愛娜特莉亞身邊{SetColor=Default}，\n帶領他們前往目標地點吧。
+MID_TUT_Bmap_People_m01_002: 若有{SetColor=Gold}三個以上的人民被擊敗{SetColor=Default}，便會視為{SetColor=Gold}敗北{SetColor=Default}，\n務必保護好他們，不讓他們被敵人攻擊。
+MID_TUT_Bmap_Confusion_t: 瘴怪電波
+MID_TUT_Bmap_Confusion_m01_001: {SetColor=Gold}崑崙之民{SetColor=Default}被五頭‧修德拉的{SetColor=Gold}瘴怪電波{SetColor=Default}命中時，\n會陷入{SetColor=Gold}混亂{SetColor=Default}狀態，開始{SetColor=Gold}不再朝愛娜特莉亞的身邊移動{SetColor=Default}。
+MID_TUT_Bmap_Confusion_m01_002: 在我方單位與其鄰接時選擇「{SetColor=Gold}搭話{SetColor=Default}」，\n即可為其{SetColor=Gold}解除混亂狀態{SetColor=Default}。
+MID_TUT_Bmap_Orichalcum_t: 奧利哈鋼山
+MID_TUT_Bmap_Orichalcum_m01_001: 每當{SetColor=Gold}破壞五個奧利哈鋼山{SetColor=Default}，\n就能{SetColor=Gold}對巨人造成巨大的傷害{SetColor=Default}。
+MID_TUT_Bmap_Orichalcum_m01_002: 奧利哈鋼山共有十個，\n最多可對巨人造成兩次傷害。
+MID_TUT_Bmap_FogRemoval_t: 驅散霧氣的裝置
+MID_TUT_Bmap_FogRemoval_m01_001: 在與{SetColor=Gold}送風機控制裝置{SetColor=Default}鄰接時選擇「{SetColor=Gold}裝置{SetColor=Default}」，\n即可在該行動階段中{SetColor=Gold}驅散地圖中的所有霧氣{SetColor=Default}。
+MID_TUT_Bmap_FogRemoval_m01_002: 控制裝置總共有三個，\n每個可以使用一次。
+MID_TUT_Bmap_TargetLine_t: 從敵人身上延伸出來的線
+MID_TUT_Bmap_TargetLine_m01_001: 將{SetColor=Gold}游標對準{SetColor=Default}或{SetColor=Gold}選擇我方單位{SetColor=Default}時，\n若身處敵人的{SetColor=Gold}危險範圍{SetColor=Default}內，\n便會{SetColor=Gold}顯示從敵人身上延伸出來的線{SetColor=Default}。
+MID_TUT_Bmap_TargetLine_m01_002: 若顯示好幾條線，\n就代表身處複數敵人的危險範圍內，\n務必多加注意。
+MID_TUT_Bmap_TargetLine_m01_003: 將敵人的危險範圍設為{SetColor=Gold}持續顯示{SetColor=Default}時，\n只需在{SetColor=Gold}危險範圍內移動游標{SetColor=Default}即可{SetColor=Gold}確認線{SetColor=Default}。
+MID_TUT_Bmap_TargetLine2_t: 線的顏色代表的意思
+MID_TUT_Bmap_TargetLine2_m01_001: {SetColor=Gold}從敵人身上延伸出來的線的顏色{SetColor=Default}\n會視敵人攻擊的{SetColor=Gold}種類或內容{SetColor=Default}而{SetColor=Gold}有所變化{SetColor=Default}。
+MID_TUT_Bmap_TargetLine2_m01_002: {SetColor=Gold}普通攻擊{SetColor=Default}時為{SetColor=Gold}紅色{SetColor=Default}，{SetColor=Gold}高必殺{SetColor=Default}時為{SetColor=Gold}黃色{SetColor=Default}，\n擁有{SetColor=Gold}有效或克制{SetColor=Default}效果時為{SetColor=Gold}紫色{SetColor=Default}，\n使用{SetColor=Gold}聖焰戰技{SetColor=Default}時則會以{SetColor=Gold}深紫色{SetColor=Default}來顯示。
+MID_TUT_Bmap_Flame_t: 地形的燃燒
+MID_TUT_Bmap_Flame_m01_001: 若在燃燒的地形上{SetColor=Gold}待命{SetColor=Default}，\n{SetColor=Gold}我軍行動階段開始時{SetColor=Default}將會受到{SetColor=Gold}傷害{SetColor=Default}。
+MID_TUT_Bmap_Flame_m01_002: {SetColor=Gold}燃燒{SetColor=Default}的地形可以透過{SetColor=Gold}計策{SetColor=Default}\n或{SetColor=Gold}聖焰爆發時的聖焰戰技{SetColor=Default}來{SetColor=Gold}滅火{SetColor=Default}。
+MID_TUT_Bmap_BondsParticipation_t: 牽絆參戰
+MID_TUT_Bmap_BondsParticipation_m01_001: 完成外傳的真焰將會在滿足{SetColor=Gold}條件{SetColor=Default}時，\n於救世篇中作為{SetColor=Gold}限定同伴{SetColor=Default}參戰。\n此機制稱為{SetColor=Gold}牽絆參戰{SetColor=Default}。
+MID_TUT_Bmap_BondsParticipation_m01_002: 牽絆參戰的真焰將{SetColor=Gold}基本上不會參與故事{SetColor=Default}，\n支援對話也只能觀看一部分，\n但會作為{SetColor=Gold}戰力{SetColor=Default}提供幫助。
+MID_TUT_Gmap_Gmap_t: 世界地圖
+MID_TUT_Gmap_Gmap_m01_001: 在世界地圖上，有著{SetColor=Gold}各種{SetColor=Default}可前往的{SetColor=Gold}地方{SetColor=Default}，\n包含村莊、迷宮及大道等。\n這些地方都被稱為{SetColor=Gold}場所{SetColor=Default}。
+MID_TUT_Gmap_Gmap_m01_002: 將{SetColor=Gold}游標{SetColor=Default}對準{SetColor=Gold}單位{SetColor=Default}後{SetColor=Gold}按下{ButtonA}{SetColor=Default}，\n{SetColor=Gold}可移動的範圍{SetColor=Default}便會{SetColor=Gold}顯示為藍色{SetColor=Default}，\n接著再選擇{SetColor=Gold}想去的場所{SetColor=Default}後{SetColor=Gold}按下{ButtonA}{SetColor=Default}即可移動。
+MID_TUT_Gmap_Gmap_m01_003: 移動後，需{SetColor=Gold}選擇{SetColor=Default}可在該場所執行的{SetColor=Gold}行動{SetColor=Default}。\n行動結束後，便會進入下一回合。
+MID_TUT_Gmap_TroopAppearance_t: 來往於世界各地的人們
+MID_TUT_Gmap_TroopAppearance_m01_001: 場所上有時會{SetColor=Gold}出現敵人{SetColor=Default}，\n與其接觸時會發生{SetColor=Gold}遭遇戰{SetColor=Default}。
+MID_TUT_Gmap_TroopAppearance_m01_002: 此外，也會{SetColor=Gold}出現商人{SetColor=Default}，\n移動至其所在的場所即可進行{SetColor=Gold}購物{SetColor=Default}。
+MID_TUT_Gmap_AfterBattle_t: 自由行動時的回復
+MID_TUT_Gmap_AfterBattle_m01_001: {SetColor=Gold}自由行動時的戰鬥{SetColor=Default}在戰鬥後\n不會回復{SetColor=Gold}HP和魔法使用次數{SetColor=Default}，\n請善用據點中的旅舍等設施。
+MID_TUT_Gmap_Explore_t: 探索場所
+MID_TUT_Gmap_Explore_m01_001: 在{SetColor=Gold}探索場所{SetColor=Default}進行{SetColor=Gold}探索{SetColor=Default}，\n可以{SetColor=Gold}獲得{SetColor=Default}各種{SetColor=Gold}素材{SetColor=Default}。
+MID_TUT_Gmap_Explore_m01_002: 獲得的素材會視該場所的\n素材{SetColor=Gold}出現率{SetColor=Default}隨機變化。
+MID_TUT_Gmap_Feast_t: 饗宴場所
+MID_TUT_Gmap_Feast_m01_001: 在{SetColor=Gold}饗宴場所{SetColor=Default}舉辦{SetColor=Gold}饗宴{SetColor=Default}，即可{SetColor=Gold}回復所有同伴{SetColor=Default}的\n{SetColor=Gold}HP和魔法使用次數{SetColor=Default}，並{SetColor=Gold}提升支援值{SetColor=Default}。
+MID_TUT_Gmap_Feast_m01_002: 回復量會視使用的{SetColor=Gold}食材種類和數量{SetColor=Default}而{SetColor=Gold}有所變化{SetColor=Default}。
+MID_TUT_Gmap_EncounterBattle_t: 遭遇戰
+MID_TUT_Gmap_EncounterBattle_m01_001: 在{SetColor=Gold}世界地圖{SetColor=Default}上{SetColor=Gold}與敵人接觸{SetColor=Default}時，會發生{SetColor=Gold}遭遇戰{SetColor=Default}。\n可透過戰鬥來獲得經驗值、支援值和道具等，\n藉此來培育同伴。
+MID_TUT_Gmap_EncounterBattle_m01_002: 偶爾還會出現第三方軍隊的敵人。\n只要在其逃跑前將其擊敗，\n即可獲得更多的經驗值和道具。
+MID_TUT_Gmap_Merchant_t: 在世界地圖上的交易
+MID_TUT_Gmap_Merchant_m01_001: 在{SetColor=Gold}商人所在的場所{SetColor=Default}，\n可以{SetColor=Gold}購買商品{SetColor=Default}。
+MID_TUT_Gmap_Merchant_m01_002: 在{SetColor=Gold}旺達爾商會成員所在的場所{SetColor=Default}，\n則可以透過{SetColor=Gold}素材交換{SetColor=Default}來獲得武器或道具。
+MID_TUT_Gmap_Merchant_m01_003: 商品的種類會視對象而有所不同，\n試著{SetColor=Gold}在場所上按下{ButtonZL}{SetColor=Default}來確認看看吧。
+MID_TUT_Gmap_Seki_t: 關隘場所
+MID_TUT_Gmap_Seki_m01_001: 若未達到各關隘規定的{SetColor=Gold}名聲LV{SetColor=Default}，\n就{SetColor=Gold}無法通過關隘場所{SetColor=Default}。
+MID_TUT_Gmap_Seki_m01_002: 名聲可以透過推進故事、達成任務，\n以及使用特定設施等來提高。
+MID_TUT_Gmap_DungeonSpot_t: 迷宮場所
+MID_TUT_Gmap_DungeonSpot_m01_001: 在{SetColor=Gold}迷宮場所{SetColor=Default}，\n可以進入迷宮並在內部{SetColor=Gold}探索{SetColor=Default}。
+MID_TUT_Gmap_DungeonSpot_m01_002: 除了可以透過打倒徘徊的敵人來{SetColor=Gold}獲得經驗值{SetColor=Default}，\n還可以破壞木箱或礦石來{SetColor=Gold}獲得素材等{SetColor=Default}。
+MID_TUT_Gmap_DungeonSpot_m01_003: 打倒的敵人直到下個章節開始前都不會復活，\n素材則可在重新進入後再次獲得。
+MID_TUT_Gmap_DungeonSpot_m01_004: 當{SetColor=Gold}有其他出入口{SetColor=Default}時，只要{SetColor=Gold}從那裡離開{SetColor=Default}，\n世界地圖上便會{SetColor=Gold}出現新的道路{SetColor=Default}，\n且以後可以直接通行。
+MID_TUT_Gmap_TempleSpot_t: 神殿場所
+MID_TUT_Gmap_TempleSpot_m01_001: 在{SetColor=Gold}神殿場所{SetColor=Default}，可以進到內部{SetColor=Gold}散步{SetColor=Default}。
+MID_TUT_Gmap_TempleSpot_m01_002: 可以在內部使用和韃古席翁的神殿一樣的功能。
+MID_TUT_Gmap_SimpleBase_t: 準據點場所
+MID_TUT_Gmap_SimpleBase_m01_001: 在{SetColor=Gold}準據點場所{SetColor=Default}，可以{SetColor=Gold}使用商店{SetColor=Default}。\n商店及商品的種類會因地點而異。
+MID_TUT_Gmap_SimpleBase_m01_002: 只要和居民們對話，\n有時還能得到{SetColor=Gold}有助於冒險的情報{SetColor=Default}。
+MID_TUT_Gmap_Station_t: 驛站場所
+MID_TUT_Gmap_Station_m01_001: 在{SetColor=Gold}驛站場所{SetColor=Default}可以搭乘{SetColor=Gold}共乘馬車{SetColor=Default}，\n來{SetColor=Gold}快速移動{SetColor=Default}至其他驛站場所。
+MID_TUT_Gmap_Station_m01_002: 目的地可以在相同路線內的\n{SetColor=Gold}已解鎖的驛站場所{SetColor=Default}中進行選擇。
+MID_TUT_Gmap_Base_t: 據點場所
+MID_TUT_Gmap_Base_m01_001: 在{SetColor=Gold}據點場所{SetColor=Default}，可以進到內部{SetColor=Gold}散步{SetColor=Default}。
+MID_TUT_Gmap_Base_m01_002: 只要在場所上按下{ButtonZL}，\n即可確認據點內商店和商品的種類。
+MID_TUT_Gmap_UnderworldGateStatus_t: 冥界之門
+MID_TUT_Gmap_UnderworldGateStatus_m01_001: {SetColor=Gold}自由行動期間結束{SetColor=Default}後，{SetColor=Gold}冥界之門{SetColor=Default}便會{SetColor=Gold}實體化{SetColor=Default}，\n此時將{SetColor=Gold}可進行門破壞作戰{SetColor=Default}。
+MID_TUT_Gmap_UnderworldGateStatus_m01_002: {SetColor=Gold}即將實體化的門{SetColor=Default}除了{SetColor=Gold}外觀{SetColor=Default}會發生{SetColor=Gold}變化{SetColor=Default}外，\n也可透過{SetColor=Gold}場所情報{SetColor=Default}來進行{SetColor=Gold}確認{SetColor=Default}。
+MID_TUT_Gmap_TroopFormation_t: 編組部隊
+MID_TUT_Gmap_TroopFormation_m01_001: 在救世篇中，在世界地圖上的行動\n都會由{SetColor=Gold}以喜歡的同伴編組而成的部隊{SetColor=Default}來執行。
+MID_TUT_Gmap_TroopFormation_m01_002: 編組可以透過{AvatarName}的\n「{SetColor=Gold}編組部隊{SetColor=Default}」來進行。
+MID_TUT_Gmap_TroopFormation_m01_003: 此外，{SetColor=Gold}{AvatarName}{SetColor=Default}將{SetColor=Gold}不屬於任何部隊{SetColor=Default}。\n其會常駐韃古席翁，負責指揮全軍。
+MID_TUT_Gmap_TroopFormation_m01_004: {AvatarName}以外的{SetColor=Gold}同伴全滅{SetColor=Default}時，\n將會無法編組部隊，並導致{SetColor=Gold}遊戲結束{SetColor=Default}，\n務必多加注意。
+MID_TUT_Gmap_StandbyUnit_t: 預備軍同伴的經驗值
+MID_TUT_Gmap_StandbyUnit_m01_001: {SetColor=Gold}未編入部隊的同伴{SetColor=Default}會在韃古席翁進行訓練，\n並可在{SetColor=Gold}回合結束時獲得經驗值{SetColor=Default}。
+MID_TUT_Gmap_IshmalComing_t: {AvatarName}的參加
+MID_TUT_Gmap_IshmalComing_m01_001: 部隊在戰鬥或探索迷宮時，\n{SetColor=Gold}{AvatarName}{SetColor=Default}都會瞬間移動前來{SetColor=Gold}參加{SetColor=Default}。
+MID_TUT_Gmap_Miasma_t: 瘴氣
+MID_TUT_Gmap_Miasma_m01_001: 場所有{SetColor=Gold}瘴氣{SetColor=Default}發生時，\n直到{SetColor=Gold}消散{SetColor=Default}前都{SetColor=Gold}不能使用該場所的功能{SetColor=Default}。
+MID_TUT_Gmap_Miasma_m01_002: 此外，若想挑戰{SetColor=Gold}冥界之門{SetColor=Default}，\n就必須先讓和門同一個州內的{SetColor=Gold}瘴氣全部消散{SetColor=Default}才行。
+MID_TUT_Gmap_Miasma_m01_003: 使用{SetColor=Gold}驅散瘴氣{SetColor=Default}指令即可進行驅散，\n瘴氣消散後可以獲得報酬。
+MID_TUT_Gmap_MultipleTroops_t: 操作複數部隊
+MID_TUT_Gmap_MultipleTroops_m01_001: 只要{SetColor=Gold}編組複數部隊{SetColor=Default}，\n即可操作{SetColor=Gold}各部隊{SetColor=Default}，使其{SetColor=Gold}分別行動{SetColor=Default}。
+MID_TUT_Gmap_MultipleTroops_m01_002: 所有部隊都行動完畢，或選擇結束回合指令，\n即可進入下一回合。
+MID_TUT_Gmap_UnderworldGate_t: 在冥界之門的戰鬥
+MID_TUT_Gmap_UnderworldGate_m01_001: 移動至{SetColor=Gold}實體化的冥界之門{SetColor=Default}，\n即可和守門的{SetColor=Gold}冥將戰鬥{SetColor=Default}。
+MID_TUT_Gmap_UnderworldGate_m01_002: 出擊的單位除了{SetColor=Gold}抵達冥界之門的部隊{SetColor=Default}外，\n還可以從{SetColor=Gold}鄰接場所的部隊中{SetColor=Default}進行選擇。
+MID_TUT_Gmap_GateDestruction_t: 破壞冥界之門
+MID_TUT_Gmap_GateDestruction_m01_001: 在冥界之門的戰鬥中取勝後，只要使用{SetColor=Gold}破壞門{SetColor=Default}指令，\n即可{SetColor=Gold}破壞門{SetColor=Default}、{SetColor=Gold}獲得報酬{SetColor=Default}並{SetColor=Gold}推進故事{SetColor=Default}。
+MID_TUT_Gmap_GateDestruction_m01_002: 想{SetColor=Gold}先不破壞門並繼續行動{SetColor=Default}也沒有問題，\n但{SetColor=Gold}期限{SetColor=Default}到來時，故事將被強制推進。
+MID_TUT_Gmap_Defense_t: 冥界兵對韃古席翁的侵略
+MID_TUT_Gmap_Defense_m01_001: 自{SetColor=Gold}瘴氣{SetColor=Default}中出現的{SetColor=Gold}冥界兵{SetColor=Default}\n會為了破壞韃古席翁而不斷{SetColor=Gold}逼近{SetColor=Default}。
+MID_TUT_Gmap_Defense_m01_002: {SetColor=Gold}冥界兵抵達{SetColor=Default}時，地圖上將會發生戰鬥，\n並開始韃古席翁防衛戰。
+MID_TUT_Gmap_Defense_m01_003: 在防衛戰中，會有{SetColor=Gold}非常強大的敵人{SetColor=Default}被{SetColor=Gold}召喚{SetColor=Default}出來。\n建議在冥界兵抵達韃古席翁前將其擊敗。
+MID_TUT_Gmap_Defense_m01_004: 若在{SetColor=Gold}防衛戰{SetColor=Default}中{SetColor=Gold}敗北{SetColor=Default}，韃古席翁的{SetColor=Gold}耐久值{SetColor=Default}便會{SetColor=Gold}減少{SetColor=Default}，\n耐久值{SetColor=Gold}歸０{SetColor=Default}則會導致{SetColor=Gold}遊戲結束{SetColor=Default}。
+MID_TUT_Gmap_DefenseBattle_t: 韃古席翁防衛戰
+MID_TUT_Gmap_DefenseBattle_m01_001: 在{SetColor=Gold}韃古席翁防衛戰{SetColor=Default}中，要和非常強大的敵人戰鬥。\n就算{SetColor=Gold}敗北{SetColor=Default}，{SetColor=Gold}故事也會繼續推進{SetColor=Default}。
+MID_TUT_Gmap_DefenseBattle_m01_002: 且無論勝利或敗北，\n{SetColor=Gold}被擊敗的同伴{SetColor=Default}都會在防衛戰結束後{SetColor=Gold}復活{SetColor=Default}。
+MID_TUT_Gmap_DefenseBattle_m01_003: 但敗北時{SetColor=Gold}韃古席翁的耐久值會減少1{SetColor=Default}，\n耐久值{SetColor=Gold}歸０{SetColor=Default}則會導致{SetColor=Gold}遊戲結束{SetColor=Default}。
+MID_TUT_Gmap_MultipleGate_t: 冥界之門同時出現
+MID_TUT_Gmap_MultipleGate_m01_001: {SetColor=Gold}出現數道冥界之門{SetColor=Default}時，\n必須{SetColor=Gold}攻略所有的門{SetColor=Default}。
+MID_TUT_Gmap_MultipleGate_m01_002: 若無法在期限前攻略所有的門，\n將導致{SetColor=Gold}遊戲結束{SetColor=Default}，務必多加注意。
+MID_TUT_Gmap_BigGate_t: 冥界之門（大型）
+MID_TUT_Gmap_BigGate_m01_001: 在{SetColor=Gold}大型的冥界之門{SetColor=Default}，\n會比普通的門{SetColor=Gold}出現更多敵人{SetColor=Default}。
+MID_TUT_Gmap_BigGate_m01_002: {SetColor=Gold}我方可出擊的人數{SetColor=Default}也會比平時{SetColor=Gold}更多{SetColor=Default}。\n只要將複數部隊配置在該門或與門鄰接的場所，\n就可以編組{SetColor=Gold}混合部隊{SetColor=Default}進行挑戰。
+MID_TUT_Gmap_Reconstruction_t: 損壞場所的復興
+MID_TUT_Gmap_Reconstruction_m01_001: 在{SetColor=Gold}損壞的場所{SetColor=Default}，\n將{SetColor=Gold}無法使用{SetColor=Default}該場所原本的{SetColor=Gold}功能{SetColor=Default}。
+MID_TUT_Gmap_Reconstruction_m01_002: 只要收集需要的{SetColor=Gold}素材{SetColor=Default}並進行「{SetColor=Gold}復興{SetColor=Default}」，\n即可展開復興作業。
+MID_TUT_Gmap_Reconstruction_m01_003: 復興會在{SetColor=Gold}數回合後完成{SetColor=Default}，\n屆時可{SetColor=Gold}獲得報酬{SetColor=Default}，並可再次使用該場所的功能。
+MID_TUT_Gmap_LastGate_t: 魔神霸羅爾
+MID_TUT_Gmap_LastGate_m01_001: 雖然可以隨時挑戰與{SetColor=Gold}魔神霸羅爾{SetColor=Default}的決戰，\n但立刻去挑戰應該也很難獲勝。
+MID_TUT_Gmap_LastGate_m01_002: 只要{SetColor=Gold}破壞冥界之門{SetColor=Default}，\n即可視破壞的數量{SetColor=Gold}削弱霸羅爾的力量{SetColor=Default}。\n建議優先去破壞門。
+MID_TUT_Gmap_ReconstructionShorten_t: 復興派兵
+MID_TUT_Gmap_ReconstructionShorten_m01_001: 只要在{SetColor=Gold}復興中{SetColor=Default}的{SetColor=Gold}損壞場所{SetColor=Default}進行派兵，\n即可{SetColor=Gold}縮短{SetColor=Default}復興所需的{SetColor=Gold}回合數{SetColor=Default}。
+MID_TUT_Gmap_Fort_t: 堡壘場所
+MID_TUT_Gmap_Fort_m01_001: 關隘場所在救世篇中，\n會變成{SetColor=Gold}堡壘場所{SetColor=Default}。
+MID_TUT_Gmap_Fort_m01_002: 只要在堡壘場所進行{SetColor=Gold}防衛派兵{SetColor=Default}，\n其便會在{SetColor=Gold}一定的次數{SetColor=Default}內，\n幫忙{SetColor=Gold}擊敗{SetColor=Default}試圖通過該場所的{SetColor=Gold}敵方部隊{SetColor=Default}。
+MID_TUT_Gmap_DefenseBattle2_t: 保衛市民
+MID_TUT_Gmap_DefenseBattle2_m01_001: 在韃古席翁防衛戰中，每當{SetColor=Gold}市民被擊敗{SetColor=Default}時，\n{SetColor=Gold}敵人的能力{SetColor=Default}就會{SetColor=Gold}大幅提升{SetColor=Default}。
+MID_TUT_Gmap_DefenseBattle2_m01_002: 此外，市民被{SetColor=Gold}全數擊敗{SetColor=Default}時將視為{SetColor=Gold}敗北{SetColor=Default}，\n戰鬥時務必多加注意。
+MID_TUT_ShortBattle_ShortBattle_t: 速決戰
+MID_TUT_ShortBattle_ShortBattle_m01_001: 在迷宮中，將會以我軍和敵軍\n輪流攻擊的{SetColor=Gold}速決戰{SetColor=Default}來進行戰鬥。
+MID_TUT_ShortBattle_ShortBattle_m01_002: {SetColor=Gold}每一輪{SetColor=Default}可以{SetColor=Gold}攻擊一次{SetColor=Default}，\n我方和敵方都結束行動後，便會進入{SetColor=Gold}下一輪{SetColor=Default}。
+MID_TUT_ShortBattle_ShortBattle_m01_003: {SetColor=Gold}所有單位的HP總和{SetColor=Default}即為{SetColor=Gold}軍隊的HP{SetColor=Default}，\n讓{SetColor=Gold}敵軍的HP歸０{SetColor=Default}即可獲得{SetColor=Gold}勝利{SetColor=Default}。
+MID_TUT_ShortBattle_Cooperation_t: 連攜
+MID_TUT_ShortBattle_Cooperation_m01_001: 在速決戰中，可與同伴一起攜手攻擊敵人。\n此機制稱為{SetColor=Gold}連攜{SetColor=Default}。
+MID_TUT_ShortBattle_Cooperation_m01_002: 根據同伴的{SetColor=Gold}武器{SetColor=Default}、{SetColor=Gold}魔法{SetColor=Default}或{SetColor=Gold}支援LV{SetColor=Default}，\n可以使用{SetColor=Gold}各式各樣的連攜{SetColor=Default}。
+MID_TUT_ShortBattle_Cooperation_m01_003: 例如{SetColor=Gold}攻擊連攜{SetColor=Default}可以和所選的同伴一起攻擊，\n並{SetColor=Gold}對敵人造成巨大的傷害{SetColor=Default}。
+MID_TUT_ShortBattle_Cooperation_m01_004: {SetColor=Gold}發動連攜的同伴{SetColor=Default}可{SetColor=Gold}提升支援值{SetColor=Default}，\n務必積極地使用。
+MID_TUT_ShortBattle_Cooperation_m01_005: 使用連攜時需消耗{SetColor=Gold}LP（連攜點數）{SetColor=Default}，\nLP在{SetColor=Gold}迷宮探索開始時{SetColor=Default}會是{SetColor=Gold}MAX{SetColor=Default}的狀態。
+MID_TUT_ShortBattle_MVP_t: 速決戰的MVP
+MID_TUT_ShortBattle_MVP_m01_001: 給予敵人最後一擊，\n為我軍{SetColor=Gold}帶來勝利的單位{SetColor=Default}會在戰鬥後被評為{SetColor=Gold}MVP{SetColor=Default}。
+MID_TUT_ShortBattle_MVP_m01_002: 該單位將{SetColor=Gold}得到大量的經驗值{SetColor=Default}，\n行動時可以先想好要讓誰成為MVP。
+MID_TUT_ShortBattle_Dungeon_t: 迷宮探索中的戰鬥
+MID_TUT_ShortBattle_Dungeon_m01_001: 迷宮中會有{SetColor=Gold}敵人徘徊{SetColor=Default}，\n與其{SetColor=Gold}接觸{SetColor=Default}時會觸發{SetColor=Gold}速決戰{SetColor=Default}。
+MID_TUT_ShortBattle_Dungeon_m01_002: {SetColor=Gold}按下{ButtonY}{SetColor=Default}即可用武器等來{SetColor=Gold}發動攻擊{SetColor=Default}，\n若攻擊{SetColor=Gold}命中敵人{SetColor=Default}，就能{SetColor=Gold}搶先攻擊{SetColor=Default}。
+MID_TUT_ShortBattle_Auto_t: 速決戰的自動行動
+MID_TUT_ShortBattle_Auto_m01_001: 在速決戰中{SetColor=Gold}按下{ButtonX}{SetColor=Default}即可進入{SetColor=Gold}自動行動{SetColor=Default}狀態，\n單位會{SetColor=Gold}自行視狀況{SetColor=Default}採取{SetColor=Gold}適合的行動{SetColor=Default}。
+MID_TUT_ShortBattle_Auto_m01_002: 在自動行動中{SetColor=Gold}按下{LR}{SetColor=Default}，\n即可{SetColor=Gold}切換{SetColor=Default}行動的{SetColor=Gold}單位{SetColor=Default}。
+MID_TUT_ShortBattle_Auto_m01_003: 若{SetColor=Gold}想解除{SetColor=Default}自動行動，\n只需{SetColor=Gold}再按一次{ButtonX}{SetColor=Default}即可。
+MID_TUT_ShortBattle_EventBattle_t: 事件戰鬥
+MID_TUT_ShortBattle_EventBattle_m01_001: 在故事中，有時會發生重要的速決戰，\n此稱為{SetColor=Gold}事件戰鬥{SetColor=Default}。
+MID_TUT_ShortBattle_EventBattle_m01_002: 若已將速決戰設為自動行動，\n將會以解除自動行動的狀態開始戰鬥，\n但仍可以再次按下{ButtonX}來恢復自動行動。
+MID_TUT_ShortBattle_DestroyedItems_t: 迷宮中能破壞的東西
+MID_TUT_ShortBattle_DestroyedItems_m01_001: 迷宮中會有箱子等{SetColor=Gold}能破壞的東西{SetColor=Default}，\n{SetColor=Gold}按下{ButtonY}{SetColor=Default}來發動{SetColor=Gold}攻擊{SetColor=Default}即可將其{SetColor=Gold}破壞{SetColor=Default}。
+MID_TUT_ShortBattle_DestroyedItems_m01_002: 破壞後可以{SetColor=Gold}獲得道具{SetColor=Default}或{SetColor=Gold}回復LP{SetColor=Default}。
+MID_TUT_ShortBattle_DngTreasureChest_t: 迷宮的寶箱
+MID_TUT_ShortBattle_DngTreasureChest_m01_001: 迷宮的{SetColor=Gold}寶箱{SetColor=Default}只要在接近後{SetColor=Gold}按下{ButtonA}{SetColor=Default}，\n即可{SetColor=Gold}獲得{SetColor=Default}裡面的{SetColor=Gold}道具{SetColor=Default}。
+MID_TUT_ShortBattle_DngTreasureChest_m01_002: 尚未調查的寶箱數量\n則會顯示在畫面的右上方。
+MID_TUT_ShortBattle_RestingPlace_t: 在迷宮中休息
+MID_TUT_ShortBattle_RestingPlace_m01_001: 迷宮中會有可以{SetColor=Gold}休息{SetColor=Default}，\n以{SetColor=Gold}回復HP和魔法使用次數{SetColor=Default}的地方。
+MID_TUT_ShortBattle_RestingPlace_m01_002: 休息{SetColor=Gold}至少{SetColor=Default}需要{SetColor=Gold}一個食材{SetColor=Default}，\n{SetColor=Gold}回復量{SetColor=Default}會視使用的{SetColor=Gold}食材種類和數量{SetColor=Default}而{SetColor=Gold}有所變化{SetColor=Default}。
+MID_TUT_ShortBattle_RestingPlace_m01_003: 在同一次的迷宮探索中，只能休息{SetColor=Gold}一次{SetColor=Default}。\n此外，{SetColor=Gold}被敵人追趕時{SetColor=Default}則無法休息。
+MID_TUT_ShortBattle_FieldKill_t: 以瞬間擊殺取得迷宮戰鬥的勝利
+MID_TUT_ShortBattle_FieldKill_m01_001: 我軍的平均LV比敵軍高出許多時，\n便會顯示{SetColor=Gold}可瞬間擊殺{SetColor=Default}，\n此時只需{SetColor=Gold}按下{ButtonY}使攻擊命中{SetColor=Default}即可直接{SetColor=Gold}取勝{SetColor=Default}。
+MID_TUT_Root_SalvationKAI_t: 魔眼凱伊的能力
+MID_TUT_Root_SalvationKAI_m01_001: {SetColor=Gold}凱伊{SetColor=Default}成為{SetColor=Gold}同伴{SetColor=Default}後，\n即可使用{SetColor=Gold}廄舍{SetColor=Default}並{SetColor=Gold}配屬坐騎{SetColor=Default}。
+MID_TUT_Root_SalvationKAI_m01_002: {SetColor=Gold}凱伊所在的部隊{SetColor=Default}除了能進行{SetColor=Gold}栽種{SetColor=Default}和{SetColor=Gold}誘捕{SetColor=Default}外，\n還能在探索迷宮時使用{SetColor=Gold}透視{SetColor=Default}。
+MID_TUT_Root_SalvationKAI_m01_003: 此外，所有的部隊都能進行{SetColor=Gold}收成{SetColor=Default}和{SetColor=Gold}捕獲{SetColor=Default}。
+MID_TUT_Root_SalvationDIT_t: 美影鬼迪托利希的能力
+MID_TUT_Root_SalvationDIT_m01_001: {SetColor=Gold}迪托利希{SetColor=Default}成為{SetColor=Gold}同伴{SetColor=Default}後，即可進行{SetColor=Gold}戰技強化{SetColor=Default}。\n迪托利希{SetColor=Gold}待在韃古席翁時{SetColor=Default}，還能進行{SetColor=Gold}秘傳傳授{SetColor=Default}。
+MID_TUT_Root_SalvationDIT_m01_002: 此外，{SetColor=Gold}迪托利希所在的部隊{SetColor=Default}可以使用{SetColor=Gold}刃鳴{SetColor=Default}。
+MID_TUT_Root_SalvationSEO_t: 破軍星賽奧朵拉的能力
+MID_TUT_Root_SalvationSEO_m01_001: {SetColor=Gold}賽奧朵拉{SetColor=Default}成為{SetColor=Gold}同伴{SetColor=Default}後，\n即可進行{SetColor=Gold}軍兵運輸{SetColor=Default}並{SetColor=Gold}配屬軍團兵{SetColor=Default}。
+MID_TUT_Root_SalvationSEO_m01_002: {SetColor=Gold}賽奧朵拉所在的部隊{SetColor=Default}可以進行\n{SetColor=Gold}士兵招募{SetColor=Default}、{SetColor=Gold}激勵演講{SetColor=Default}和{SetColor=Gold}派兵{SetColor=Default}。
+MID_TUT_Root_SalvationSEO_m01_003: 能透過士兵招募招到的士兵階級\n和能派兵的數量都會提升至上限。
+MID_TUT_Root_SalvationLED_t: 幽弦奏者蕾達的能力
+MID_TUT_Root_SalvationLED_m01_001: {SetColor=Gold}蕾達{SetColor=Default}成為{SetColor=Gold}同伴{SetColor=Default}後，\n所有人都能使用酒館的{SetColor=Gold}調飲師{SetColor=Default}功能。
+MID_TUT_Root_SalvationLED_m01_002: 此外，蕾達{SetColor=Gold}待在韃古席翁{SetColor=Default}時，\n還能承接來自酒館老闆的{SetColor=Gold}表演{SetColor=Default}委託。
+MID_TUT_Root_SalvationANH_t: 龍破（愛娜特莉亞）
+MID_TUT_Root_SalvationANH_m01_001: 愛娜特莉亞的聖焰戰技{SetColor=Gold}龍破{SetColor=Default}\n可以對{SetColor=Gold}範圍內的敵人造成傷害{SetColor=Default}，且{SetColor=Gold}能破壞障礙物{SetColor=Default}。\n攻擊範圍會依照戰技的階級上升變廣。
+MID_TUT_Root_SalvationBEL_t: 覺醒（貝特蘭）
+MID_TUT_Root_SalvationBEL_m01_001: 貝特蘭的聖焰戰技{SetColor=Gold}覺醒{SetColor=Default}\n可以{SetColor=Gold}提升{SetColor=Default}自身的{SetColor=Gold}狀態{SetColor=Default}，\n持續到下一個玩家行動階段開始為止。
+MID_TUT_Root_SalvationBEL_m01_002: 並且，在使用當下的行動階段\n可以{SetColor=Gold}接著攻擊敵人{SetColor=Default}。
+MID_TUT_Root_SalvationTAL_t: 冥咒（譚利穆恩）
+MID_TUT_Root_SalvationTAL_m01_001: 譚利穆恩的聖焰戰技{SetColor=Gold}冥咒{SetColor=Default}\n可以使{SetColor=Gold}遠處的複數敵人{SetColor=Default}陷入{SetColor=Gold}異常狀態{SetColor=Default}。
+MID_TUT_Root_SalvationTAL_m01_002: 異常狀態的效果會在\n進行戰鬥後或經過一回合後解除。
+MID_TUT_Root_SalvationORH_t: 守護天使之業（歐露赫露）
+MID_TUT_Root_SalvationORH_m01_001: 歐露赫露的聖焰戰技{SetColor=Gold}守護天使之業{SetColor=Default}\n可以視情況選用{SetColor=Gold}廣範圍的閃耀光線{SetColor=Default}\n和{SetColor=Gold}超遠距離的光輝耀槍{SetColor=Default}等兩種攻擊。
+MID_TUT_Root_HelpePeople_t: 助人（凱伊）
+MID_TUT_Root_HelpePeople_m01_001: 和有煩惱的人對話，即可承接{SetColor=Gold}助人任務{SetColor=Default}，\n解決後可以{SetColor=Gold}提高名聲{SetColor=Default}並獲得報酬。
+MID_TUT_Root_HelpePeople_m01_002: 有煩惱的人會{SetColor=Gold}顯示圖示{SetColor=Default}，\n亦可透過據點地圖來進行確認。
+MID_TUT_Root_HelpePeople_m01_003: 名聲LV提升後，能做的事情便會增加。\n試著透過助人來提高名聲吧。
+MID_TUT_Root_HelpePeople_m01_004: 也可透過冒險手冊的任務一覽，\n來確認所承接之助人任務的內容和進度。
+MID_TUT_Root_Practice_t: 指導（凱伊）
+MID_TUT_Root_Practice_m01_001: {SetColor=Gold}名聲LV提升{SetColor=Default}後，\n即可接受特定人物的{SetColor=Gold}指導{SetColor=Default}並得到各種恩惠。
+MID_TUT_Root_Practice_m01_002: 可提供指導的人物會{SetColor=Gold}顯示圖示{SetColor=Default}，\n亦可透過據點地圖來進行確認。
+MID_TUT_Root_Practice_m01_003: 指導的內容會因人物及名聲LV而異，\n試著提高名聲，並拜訪可提供指導的人吧。
+MID_TUT_Root_Field_t: 栽種（凱伊）
+MID_TUT_Root_Field_m01_001: 在{SetColor=Gold}空地場所{SetColor=Default}使用{SetColor=Gold}栽種{SetColor=Default}指令，\n即可開墾能種出植物的{SetColor=Gold}田地{SetColor=Default}。
+MID_TUT_Root_Field_m01_002: 首次開墾田地時，會{SetColor=Gold}需要一個植物{SetColor=Default}。\n進行栽種後，可在{SetColor=Gold}數回合後收成{SetColor=Default}。
+MID_TUT_Root_Field_m01_003: 想要{SetColor=Gold}收成{SetColor=Default}時，{SetColor=Gold}只需通過{SetColor=Default}該場所即可。\n收成後，將繼續栽種同一種植物。
+MID_TUT_Root_Field_m01_004: {SetColor=Gold}收成數次{SetColor=Default}後，田地將會變回{SetColor=Gold}空地{SetColor=Default}。
+MID_TUT_Root_Capture_t: 誘捕（凱伊）
+MID_TUT_Root_Capture_m01_001: 在{SetColor=Gold}動物場所{SetColor=Default}使用{SetColor=Gold}誘捕{SetColor=Default}指令，\n即可設置{SetColor=Gold}誘餌{SetColor=Default}來{SetColor=Gold}吸引坐騎{SetColor=Default}。
+MID_TUT_Root_Capture_m01_002: 進行誘捕並{SetColor=Gold}經過數回合{SetColor=Default}後，動物便會現身，\n此時將可以使用{SetColor=Gold}捕獲{SetColor=Default}指令。
+MID_TUT_Root_Capture_m01_003: {SetColor=Gold}成功{SetColor=Default}時可以{SetColor=Gold}獲得坐騎{SetColor=Default}，但{SetColor=Gold}失敗{SetColor=Default}時動物會逃走，\n且有時可能會{SetColor=Gold}與其他生物發生戰鬥{SetColor=Default}。
+MID_TUT_Root_Capture_m01_004: 設置{SetColor=Gold}出現的動物喜歡的誘餌{SetColor=Default}，\n會{SetColor=Gold}更容易捕獲成功{SetColor=Default}。
+MID_TUT_Root_Fertilizer_t: 作物的變化與變更（凱伊）
+MID_TUT_Root_Fertilizer_m01_001: 田地偶爾能收成到與栽作物不同的{SetColor=Gold}意想不到的植物{SetColor=Default}。
+MID_TUT_Root_Fertilizer_m01_002: 此外，在已為田地的場所使用{SetColor=Gold}重新栽種{SetColor=Default}指令，\n即可將該場所開墾成{SetColor=Gold}栽種其他植物的田地{SetColor=Default}。
+MID_TUT_Root_Stable_t: 照顧（凱伊）
+MID_TUT_Root_Stable_m01_001: 在廄舍中，可以透過「{SetColor=Gold}照顧{SetColor=Default}」來{SetColor=Gold}餵食{SetColor=Default}捕獲的坐騎，\n以和其{SetColor=Gold}變得更親密{SetColor=Default}。
+MID_TUT_Root_Stable_m01_002: 只要持續照顧，即可{SetColor=Gold}提升友好LV{SetColor=Default}，\n並變得{SetColor=Gold}可以使用騎乘特技{SetColor=Default}。
+MID_TUT_Root_Stable_m01_003: 騎乘特技也會在{SetColor=Gold}騎乘{SetColor=Default}該動物時{SetColor=Gold}發現{SetColor=Default}。\n其會帶來各種對同伴有益的效果。
+MID_TUT_Root_Stable_m01_004: 餵食{SetColor=Gold}喜歡的食物{SetColor=Default}時，{SetColor=Gold}友好LV{SetColor=Default}會{SetColor=Gold}更容易提升{SetColor=Default}，\n選擇前建議先確認動物的喜好。
+MID_TUT_Root_Stable2_t: 廄舍（凱伊）
+MID_TUT_Root_Stable2_m01_001: 在廄舍中，除了可以{SetColor=Gold}替坐騎命名{SetColor=Default}，\n還可以透過{SetColor=Gold}照顧{SetColor=Default}來與其{SetColor=Gold}增進感情{SetColor=Default}。
+MID_TUT_Root_Stable2_m01_002: 也可以{SetColor=Gold}放生{SetColor=Default}動物。\n放生時，可視友好LV獲得{SetColor=Gold}道具{SetColor=Default}。
+MID_TUT_Root_Perspective_t: 透視（凱伊）
+MID_TUT_Root_Perspective_m01_001: 凱伊{SetColor=Gold}待在迷宮中時{SetColor=Default}，\n可以{SetColor=Gold}長按{ButtonZL}{SetColor=Default}來隔牆{SetColor=Gold}透視敵人{SetColor=Default}的紅色剪影。
+MID_TUT_Root_Perspective_m01_002: 但是，{SetColor=Gold}透視中{SetColor=Default}將{SetColor=Gold}無法移動{SetColor=Default}，\n務必要小心別遭到敵人的襲擊。
+MID_TUT_Root_Reinforcement_t: 戰技強化（迪托利希）
+MID_TUT_Root_Reinforcement_m01_001: 在{SetColor=Gold}史米爾諾斯神殿{SetColor=Default}向參拜者接待員搭話，\n即可進行{SetColor=Gold}戰技強化{SetColor=Default}。
+MID_TUT_Root_Reinforcement_m01_002: 進行戰技強化可以{SetColor=Gold}提升威力或命中{SetColor=Default}，\n或{SetColor=Gold}減少消耗耐久{SetColor=Default}等，讓戰技變得更加強大。
+MID_TUT_Root_Reinforcement_m01_003: 強化時需要{SetColor=Gold}魔響石{SetColor=Default}，\n魔響石可以透過{SetColor=Gold}打倒靠刃鳴發現的敵人{SetColor=Default}來獲得。
+MID_TUT_Root_Blade_t: 刃鳴（迪托利希）
+MID_TUT_Root_Blade_m01_001: 在世界地圖上使用{SetColor=Gold}刃鳴{SetColor=Default}指令，\n即可發現{SetColor=Gold}隱藏的敵人{SetColor=Default}，並挑戰{SetColor=Gold}遭遇戰{SetColor=Default}。
+MID_TUT_Root_Blade_m01_002: 能發現的範圍會{SetColor=Gold}隨著使用次數而縮小{SetColor=Default}，\n最後將會無法使用刃鳴。
+MID_TUT_Root_Blade_m01_003: 範圍{SetColor=Gold}每回合{SetColor=Default}都會{SetColor=Gold}逐漸回復{SetColor=Default}，\n{SetColor=Gold}進出據點或迷宮{SetColor=Default}時也會{SetColor=Gold}回復{SetColor=Default}。
+MID_TUT_Root_SeaKing_t: 尋找克托斯
+MID_TUT_Root_SeaKing_m01_001: 使用{SetColor=Gold}刃鳴{SetColor=Default}即可發現{SetColor=Gold}克托斯的氣息{SetColor=Default}。\n試著{SetColor=Gold}移動到散發氣息的場所{SetColor=Default}吧。
+MID_TUT_Root_SeaKing_m01_002: 在{SetColor=Gold}確認{SetColor=Default}所發現的{SetColor=Gold}氣息的真偽{SetColor=Default}前，\n都無法使用刃鳴。
+MID_TUT_Root_Arrangement_t: 掮客（迪托利希）
+MID_TUT_Root_Arrangement_m01_001: 承接託付給{SetColor=Gold}掮客{SetColor=Default}的{SetColor=Gold}挑戰書的委託{SetColor=Default}，\n即可和被稱為{SetColor=Gold}凶戰士{SetColor=Default}的強者們戰鬥。
+MID_TUT_Root_Arrangement_m01_002: 凶戰士們都會使用各自的{SetColor=Gold}秘傳戰技{SetColor=Default}。\n獲勝後，迪托利希將會{SetColor=Gold}習得{SetColor=Default}他們的{SetColor=Gold}秘傳{SetColor=Default}。
+MID_TUT_Root_Arrangement_m01_003: 他們會{SetColor=Gold}潛伏{SetColor=Default}於目的地{SetColor=Gold}迷宮中的某處{SetColor=Default}。\n到現場探索，試著找出他們吧。
+MID_TUT_Root_Arrangement_m01_004: {SetColor=Gold}名聲LV提升{SetColor=Default}後，便會收到{SetColor=Gold}新的挑戰書{SetColor=Default}，\n屆時務必去找掮客進行確認。
+MID_TUT_Root_Arrangement_m01_005: 也可透過冒險手冊的任務一覽，\n來確認所承接之挑戰書任務的委託內容和進度。
+MID_TUT_Root_Initiation_t: 秘傳傳授（迪托利希）
+MID_TUT_Root_Initiation_m01_001: 迪托利希{SetColor=Gold}從凶戰士那裡習得戰技{SetColor=Default}後，\n可以使用{SetColor=Gold}魔響石{SetColor=Default}，透過{SetColor=Gold}秘傳傳授{SetColor=Default}將其傳授給{SetColor=Gold}其他同伴{SetColor=Default}。
+MID_TUT_Root_Initiation_m01_002: 只要有魔響石，要傳授幾次都沒問題，\n但{SetColor=Gold}無法傳授戰技強化後的狀態{SetColor=Default}。
+MID_TUT_Root_Legionnaire_t: 軍團兵（賽奧朵拉）
+MID_TUT_Root_Legionnaire_m01_001: 只要{SetColor=Gold}配屬軍團兵{SetColor=Default}，單位的{SetColor=Gold}狀態{SetColor=Default}便會{SetColor=Gold}提升{SetColor=Default}，\n並變得可以使用{SetColor=Gold}計策{SetColor=Default}。
+MID_TUT_Root_Legionnaire_m01_002: 有些軍團兵在計策使用後會發生追加效果，\n配屬前務必仔細確認其能力。\n此外，騎兵單位無法配屬軍團兵。
+MID_TUT_Root_RecruitingSoldiers_t: 士兵招募（賽奧朵拉）
+MID_TUT_Root_RecruitingSoldiers_m01_001: 在{SetColor=Gold}據點場所{SetColor=Default}使用{SetColor=Gold}士兵招募{SetColor=Default}指令，\n{SetColor=Gold}軍團兵{SetColor=Default}便會在{SetColor=Gold}數回合後{SetColor=Default}集結加入。
+MID_TUT_Root_RecruitingSoldiers_m01_002: {SetColor=Gold}名聲LV越高{SetColor=Default}，就能集結{SetColor=Gold}越高階的軍團兵{SetColor=Default}。
+MID_TUT_Root_BigRecruitingSoldiers_t: 士兵大招募（賽奧朵拉）
+MID_TUT_Root_BigRecruitingSoldiers_m01_001: {SetColor=Gold}士兵大招募{SetColor=Default}包含了{SetColor=Gold}激勵演講的效果{SetColor=Default}，\n{SetColor=Gold}較容易集結到高階的軍團兵{SetColor=Default}，\n是很划算的士兵招募。
+MID_TUT_Root_BigRecruitingSoldiers_m01_002: 有時能在據點場所進行選擇，\n看到的話務必嘗試看看。
+MID_TUT_Root_Allowance_t: 戰備增強（賽奧朵拉）
+MID_TUT_Root_Allowance_m01_001: 透過{SetColor=Gold}戰備增強{SetColor=Default}來{SetColor=Gold}提交{SetColor=Default}薩拉彌斯人民{SetColor=Gold}委託的物資{SetColor=Default}，\n就能{SetColor=Gold}提高名聲{SetColor=Default}並獲得{SetColor=Gold}報酬{SetColor=Default}。
+MID_TUT_Root_Allowance_m01_002: 只要向{SetColor=Gold}波拿帕爾特{SetColor=Default}搭話，\n即可確認戰備增強的委託內容及提交物資。
+MID_TUT_Root_Allowance_m01_003: 也可透過冒險手冊的任務一覽，\n來確認委託的內容。
+MID_TUT_Root_Deployment_t: 探索派兵（賽奧朵拉）
+MID_TUT_Root_Deployment_m01_001: 在{SetColor=Gold}探索場所{SetColor=Default}及{SetColor=Gold}迷宮場所{SetColor=Default}，\n可以透過軍團兵的{SetColor=Gold}派兵{SetColor=Default}來{SetColor=Gold}收集素材{SetColor=Default}。
+MID_TUT_Root_Deployment_m01_002: 派兵中的軍團兵{SetColor=Gold}在結束為止的數回合內{SetColor=Default}，\n{SetColor=Gold}無法用於{SetColor=Default}配屬等{SetColor=Gold}其他用途{SetColor=Default}。
+MID_TUT_Root_Deployment_m01_003: 若派出的是高階的軍團兵，\n或與該場所契合度較佳的軍團兵，\n將可以收集到更多素材。
+MID_TUT_Root_Deployment_m01_004: {SetColor=Gold}名聲LV提升{SetColor=Default}後，{SetColor=Gold}能同時派兵的數量{SetColor=Default}也會{SetColor=Gold}增加{SetColor=Default}。\n可以透過情報的{SetColor=Gold}派兵情報{SetColor=Default}，來確認軍團兵的派兵狀況。
+MID_TUT_Root_MercenaryUnion_t: 軍兵運輸（賽奧朵拉）
+MID_TUT_Root_MercenaryUnion_m01_001: 可以透過{SetColor=Gold}軍兵運輸{SetColor=Default}，\n將不需要的軍團兵送回國並{SetColor=Gold}獲得軍備值{SetColor=Default}。
+MID_TUT_Root_MercenaryUnion_m01_002: {SetColor=Gold}軍備值每累積到100{SetColor=Default}時可以{SetColor=Gold}獲得戰術指南書{SetColor=Default}，\n軍團兵過多時務必嘗試看看。
+MID_TUT_Root_Speech_t: 激勵演講（賽奧朵拉）
+MID_TUT_Root_Speech_m01_001: 在進行{SetColor=Gold}士兵招募{SetColor=Default}的場所發表{SetColor=Gold}激勵演講{SetColor=Default}，\n{SetColor=Gold}高階的軍團兵會更容易集結{SetColor=Default}。
+MID_TUT_Root_LocalEntertainment_t: 地區表演（蕾達）
+MID_TUT_Root_LocalEntertainment_m01_001: {SetColor=Gold}地區表演{SetColor=Default}是指從韃古扎各地發到{SetColor=Gold}酒館{SetColor=Default}的\n登台跳舞的表演委託。
+MID_TUT_Root_LocalEntertainment_m01_002: 前往{SetColor=Gold}委託指定的場所{SetColor=Default}進行{SetColor=Gold}表演{SetColor=Default}，\n即可達成委託並{SetColor=Gold}獲得名聲與報酬{SetColor=Default}。
+MID_TUT_Root_LocalEntertainment_m01_003: 委託可以找{SetColor=Gold}酒館老闆{SetColor=Default}承接，\n委託內容則可在任務一覽頁面進行確認。
+MID_TUT_Root_LocalEntertainment_m01_004: 達成委託後，\n有時似乎還能得到{SetColor=Gold}秘密情報{SetColor=Default}……？
+MID_TUT_Root_LocalEntertainment2_t: 秘密場所（蕾達）
+MID_TUT_Root_LocalEntertainment2_m01_001: {SetColor=Gold}完成地區表演{SetColor=Default}後，\n有時能從當地居民那裡得到{SetColor=Gold}秘密場所{SetColor=Default}的情報。
+MID_TUT_Root_LocalEntertainment2_m01_002: {SetColor=Gold}探索秘密場所{SetColor=Default}可以得到\n在其他地方得不到的{SetColor=Gold}特別的素材{SetColor=Default}。
+MID_TUT_Root_DrinkPerson_t: 調飲師（蕾達）
+MID_TUT_Root_DrinkPerson_m01_001: 將{SetColor=Gold}素材{SetColor=Default}交給{SetColor=Gold}調飲師{SetColor=Default}，\n其便會幫忙製作{SetColor=Gold}可提升狀態的飲料{SetColor=Default}。
+MID_TUT_Root_DrinkPerson_m01_002: 飲料可以在戰鬥地圖中使用，\n{SetColor=Gold}效果會持續到戰鬥結束{SetColor=Default}為止。
+MID_TUT_Root_BarShow_t: 酒館表演（蕾達）
+MID_TUT_Root_BarShow_m01_001: 蕾達接受{SetColor=Gold}酒館老闆{SetColor=Default}的委託進行{SetColor=Gold}酒館表演{SetColor=Default}後，\n可以{SetColor=Gold}習得{SetColor=Default}新的{SetColor=Gold}聖焰戰技{SetColor=Default}。
+MID_TUT_Root_BarShow_m01_002: 若想進行酒館表演，只需收集{SetColor=Gold}必要的素材{SetColor=Default}，\n並在{SetColor=Gold}名聲LV提升{SetColor=Default}後去{SetColor=Gold}和老闆對話{SetColor=Default}即可。
+MID_TUT_Root_BarShow_m01_003: 也可透過冒險手冊的任務一覽，\n來確認酒館表演的委託內容和進度。
+MID_TUT_Root_FortuneTelling_t: 
+MID_TUT_Root_FortuneTelling_m01_001: 
+MID_TUT_Root_FortuneTelling_m01_002: 
+MID_TUT_Root_FortuneTelling_m01_003: 
+MID_TUT_Root_AnimalDeployment_t: 坐騎
+MID_TUT_Root_AnimalDeployment_m01_001: 透過「整備」中的「配屬」來{SetColor=Gold}配屬{SetColor=Default}捕獲的{SetColor=Gold}坐騎{SetColor=Default}，\n可以{SetColor=Gold}提升{SetColor=Default}單位的{SetColor=Gold}狀態{SetColor=Default}。
+MID_TUT_Root_AnimalDeployment_m01_002: 此外，{SetColor=Gold}若在配屬的狀態下進行戰鬥{SetColor=Default}，\n單位和坐騎的{SetColor=Gold}友好LV{SetColor=Default}便會提升，有時還能{SetColor=Gold}發現特技{SetColor=Default}。
+MID_TUT_AutoSave_t: 自動儲存
+MID_TUT_AutoSave_m01_001: 本遊戲的進度將會{SetColor=Gold}自動儲存{SetColor=Default}。\n{SetColor=Gold}正在儲存時{SetColor=Default}，畫面右下角會顯示{SetColor=Gold}圖示{SetColor=Default}，\n此時{SetColor=Gold}請勿關閉{SetColor=Default}主機{SetColor=Gold}電源{SetColor=Default}。
+MID_TUT_AutoSave_m01_002: 
+MID_TUT_Mouse1_t: 滑鼠操作
+MID_TUT_Mouse1_m01_001: 單位的行動及選擇指令等，\n在遊戲中的{SetColor=Gold}所有地方{SetColor=Default}都可以使用{SetColor=Gold}滑鼠操作{SetColor=Default}。
+MID_TUT_Mouse1_m01_002: 將{SetColor=Gold}Joy-Con 2 (R)立於{SetColor=Default}平坦處，\n即可{SetColor=Gold}切換{SetColor=Default}成{SetColor=Gold}滑鼠操作{SetColor=Default}。
+MID_TUT_Mouse2_t: 滑鼠操作的補充情報
+MID_TUT_Mouse2_m01_001: 滑鼠能操作的內容會依照遊戲各處不同。\n若對操作有疑問，可以於{SetColor=Gold}系統{SetColor=Default}的{SetColor=Gold}滑鼠操作說明{SetColor=Default}中\n確認操作方法。
+MID_TUT_Mouse2_m01_002: 於說明畫面{SetColor=Gold}按下{ButtonPlus}{SetColor=Default}後，\n即可{SetColor=Gold}測定{SetColor=Default}滑動滑鼠時的{SetColor=Gold}補正角度{SetColor=Default}。\n若覺得難以滑動時，就嘗試{SetColor=Gold}測定{SetColor=Default}吧。
+MID_TUT_Mouse2_m01_003: 操作滑鼠時，有部分的{SetColor=Gold}按鍵功能{SetColor=Default}會有所{SetColor=Gold}變化{SetColor=Default}。\n請確認顯示的{SetColor=Gold}按鍵說明{SetColor=Default}吧。
+MID_TUT_Mouse2_m01_004: {SetColor=Gold}滑鼠操作說明{SetColor=Default}於{SetColor=Gold}操作滑鼠{SetColor=Default}時，\n只要{SetColor=Gold}按下{ButtonPlus}{SetColor=Default}就可以確認。
+MID_TUT_Bmap_ArmoredSoldier_t: 
+MID_TUT_Bmap_ArmoredSoldier_m01_001: 
+MID_TUT_Bmap_ArmoredSoldier2_t: 
+MID_TUT_Bmap_ArmoredSoldier2_m01_001: 
+MID_TUT_Bmap_ArmoredSoldier2_m01_002: 
+MID_TUT_Bmap_Extinction_t: 
+MID_TUT_Bmap_Extinction_m01_001: 
+MID_TUT_Bmap_Extinction_m01_002: 
+MID_TUT_Bmap_MoonlitFlower_t: 
+MID_TUT_Bmap_MoonlitFlower_m01_001: 
+MID_TUT_Bmap_MoonlitFlower_m01_002: 
+MID_TUT_Bmap_MoonlitFlower_m01_003: 
+MID_TUT_Bmap_PrisonAndLantern_t: 
+MID_TUT_Bmap_PrisonAndLantern_m01_001: 
+MID_TUT_Bmap_PrisonAndLantern_m01_002: 
+MID_TUT_Bmap_PrisonAndLantern_m01_003: 
+MID_TUT_Bmap_PrisonAndLantern_m01_004: 
+MID_TUT_Bmap_BonFire_t: 
+MID_TUT_Bmap_BonFire_m01_001: 
+MID_TUT_Bmap_BonFire_m01_002: 
+MID_TUT_Bmap_BonFire_m01_003: 
+MID_TUT_Bmap_BonFire_m01_004: 
+MID_TUT_Bmap_DestructionRocks_t: 
+MID_TUT_Bmap_DestructionRocks_m01_001: 
+MID_TUT_Bmap_DestructionRocks_m01_002: 
+MID_TUT_Bmap_ElephantSoldier_t: 
+MID_TUT_Bmap_ElephantSoldier_m01_001: 
+MID_TUT_Bmap_ElephantSoldier_m01_002: 
+MID_TUT_Bmap_ElephantSoldier_m01_003: 
+MID_TUT_Bmap_ElephantSoldier_m01_004: 
+MID_TUT_Bmap_ReturnElephantSoldier_t: 
+MID_TUT_Bmap_ReturnElephantSoldier_m01_001: 
+MID_TUT_Bmap_ReturnElephantSoldier_m01_002: 
+MID_TUT_Bmap_SandyRecovery_t: 
+MID_TUT_Bmap_SandyRecovery_m01_001: 
+MID_TUT_Bmap_SandyRecovery_m01_002: 
+MID_TUT_Bmap_SandyRecovery_m01_003: 
+MID_TUT_Bmap_SandyRecovery_m01_004: 
+MID_TUT_Bmap_PirateSubjugation_t: 
+MID_TUT_Bmap_PirateSubjugation_m01_001: 
+MID_TUT_Bmap_PirateSubjugation_m01_002: 
+MID_TUT_Bmap_PirateSubjugation_m01_003: 
+MID_TUT_Bmap_PirateSubjugation2_t: 
+MID_TUT_Bmap_PirateSubjugation2_m01_001: 
+MID_TUT_Bmap_PirateSubjugation2_m01_002: 
+MID_TUT_Bmap_MiasmaTerrain_t: 
+MID_TUT_Bmap_MiasmaTerrain_m01_001: 
+MID_TUT_Bmap_MiasmaTerrain_m01_002: 
+MID_TUT_Bmap_MiasmaTerrain_m01_003: 
+MID_TUT_Bmap_MiasmaTerrain_m01_004: 
+MID_TUT_Bmap_CandleStick_t: 
+MID_TUT_Bmap_CandleStick_m01_001: 
+MID_TUT_Bmap_CandleStick_m01_002: 
+MID_TUT_Bmap_CandleStick_m01_003: 
+MID_TUT_Bmap_CandleStick2_t: 
+MID_TUT_Bmap_CandleStick2_m01_001: 
+MID_TUT_Bmap_CandleStick2_m01_002: 
+MID_TUT_Bmap_TreasureCup_t: 
+MID_TUT_Bmap_TreasureCup_m01_001: 
+MID_TUT_Bmap_TreasureCup_m01_002: 
+MID_TUT_Bmap_TreasureCup_m01_003: 
+MID_TUT_Bmap_TreasureCup_m01_004: 
+MID_TUT_Bmap_MovingRecovery_t: 
+MID_TUT_Bmap_MovingRecovery_m01_001: 
+MID_TUT_Bmap_MovingRecovery_m01_002: 
+MID_TUT_Bmap_Cargo_t: 
+MID_TUT_Bmap_Cargo_m01_001: 
+MID_TUT_Bmap_Cargo_m01_002: 
+MID_TUT_Bmap_Cargo_m01_003: 
+MID_TUT_Bmap_Cargo_m01_004: 
+MID_TUT_Bmap_VerticalWolf_t: 
+MID_TUT_Bmap_VerticalWolf_m01_001: 
+MID_TUT_Bmap_VerticalWolf_m01_002: 
+MID_TUT_Bmap_VerticalWolf_m01_003: 
+MID_TUT_Bmap_ElephantCannon_t: 
+MID_TUT_Bmap_ElephantCannon_m01_001: 
+MID_TUT_Bmap_ElephantCannon_m01_002: 
+MID_TUT_Bmap_ElephantCannon_m01_003: 
+MID_TUT_Bmap_ElephantCannon_m01_004: 
+MID_TUT_Bmap_ElephantCannon_m01_005: 
+MID_TUT_Bmap_Groove_t: 
+MID_TUT_Bmap_Groove_m01_001: 
+MID_TUT_Bmap_Resentment_t: 
+MID_TUT_Bmap_Resentment_m01_001: 
+MID_TUT_Bmap_Bitumen_t: 
+MID_TUT_Bmap_Bitumen_m01_001: 
+MID_TUT_Bmap_Bitumen_m01_002: 

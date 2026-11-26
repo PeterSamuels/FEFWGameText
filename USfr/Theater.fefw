@@ -1,0 +1,183 @@
+﻿MID_Stage_Act_01: Acte I
+MID_Stage_Act_02: Acte II
+MID_Stage_Act_03: Acte III
+MID_Stage_Act_04: Acte IV
+MID_Stage_Act_05: Acte V
+MID_Stage_Howdoyouplay: Le comédien devra...
+MID_Stage_Emotion_Joy_01: être joyeux.
+MID_Stage_Emotion_Joy_02: se montrer plein d'entrain.
+MID_Stage_Emotion_Joy_03: rayonner de joie.
+MID_Stage_Emotion_Anger_01: à peine contenir sa colère.
+MID_Stage_Emotion_Anger_02: avoir l'air énervé.
+MID_Stage_Emotion_Anger_03: être en colère.
+MID_Stage_Emotion_Sadness_01: baisser les épaules.
+MID_Stage_Emotion_Sadness_02: lever les sourcils et gémir.
+MID_Stage_Emotion_Sadness_03: retenir ses larmes.
+MID_Stage_Emotion_Worry_01: prendre un air inquiet.
+MID_Stage_Emotion_Worry_02: avoir l'air tourmenté.
+MID_Stage_Emotion_Worry_03: être mal à l'aise.
+MID_Stage_Emotion_Laugh_01: rire de bon cœur.
+MID_Stage_Emotion_Laugh_02: s'esclaffer.
+MID_Stage_Emotion_Laugh_03: ricaner de plaisir.
+MID_Stage_Emotion_Brave_01: montrer du courage.
+MID_Stage_Emotion_Brave_02: se montrer intrépide.
+MID_Stage_Emotion_Brave_03: avoir l'air héroïque.
+MID_Stage_Emotion_Love_01: faire preuve de tendresse.
+MID_Stage_Emotion_Love_02: avoir un geste affectueux.
+MID_Stage_Emotion_Love_03: murmurer des mots doux.
+MID_Stage_Emotion_Hate_01: avoir un élan de haine.
+MID_Stage_Emotion_Hate_02: exploser de rage.
+MID_Stage_Emotion_Hate_03: fulminer et pester.
+MID_Stage_Title_ComedyA: Mascarina la voleuse
+MID_Stage_Plot_ComedyA: Voleuse précédée par sa réputation,\nMascarina a toujours une longueur d'avance !\n\nMais lorsqu'elle donne une lettre au flamine stipulant\n« Votre livre sacré sera ma prochaine cible. », un des\nsages du temple demande aux gardes de se cacher\ndans des armures ornementales afin de lui tendre\nun piège.\n\nQui finira par l'emporter, du sage ou de\nla voleuse intrépide ?
+MID_Stage_Cast_ComedyA_01: Voleuse
+MID_Stage_Cast_ComedyA_02: Flamine
+MID_Stage_Cast_ComedyA_03: Sage
+MID_Stage_Situation_ComedyA_01_t: Mascarina entre en scène !
+MID_Stage_Situation_ComedyA_01: La voleuse, incarnée par {Variable=0},\nest plus maligne que les gardes et leur échappe.
+MID_Stage_Situation_ComedyA_02_t: Le livre sacré
+MID_Stage_Situation_ComedyA_02: Le flamine, joué par {Variable=0}, lit la lettre\nde la voleuse dans laquelle elle annonce son intention\nde dérober le livre.
+MID_Stage_Situation_ComedyA_03_t: Le triomphe du sage
+MID_Stage_Situation_ComedyA_03: Le sage, interprété par {Variable=0}, parvient\nà piéger la voleuse et à la capturer.
+MID_Stage_Title_ComedyB: La Récompense d'Aureus
+MID_Stage_Plot_ComedyB: Un débauché criblé de dettes est contraint de\nquitter sa famille. Sans le sou et exilé, il rencontre\nun vieux vagabond affamé qui lui donne une\nancienne carte en échange d'un quignon de pain.\n\nLa carte indique l'emplacement de l'or abandonné\npar le mage Aureus.\n\nDésireux de faire amende honorable, le débauché part\nalors avec un parent au fait de certaines rumeurs\nconcernant le trésor.
+MID_Stage_Cast_ComedyB_01: Vieux vagabond
+MID_Stage_Cast_ComedyB_02: Parent
+MID_Stage_Cast_ComedyB_03: Débauché
+MID_Stage_Situation_ComedyB_01_t: Une bonne action
+MID_Stage_Situation_ComedyB_01: Un vieux vagabond affamé, incarné par\n{Variable=0}, reçoit un quignon\nde pain d'un débauché.
+MID_Stage_Situation_ComedyB_02_t: Où est l'or ?
+MID_Stage_Situation_ComedyB_02: Le parent du débauché, que joue {Variable=0},\nse sert de la carte pour chercher le trésor dans la forêt.
+MID_Stage_Situation_ComedyB_03_t: Le vrai trésor
+MID_Stage_Situation_ComedyB_03: Le débauché, interprété par {Variable=0}, ne\ntrouve pas d'or, mais de délicieux champignons dorés.
+MID_Stage_Title_ComedyC: Le Scandale de la mégère
+MID_Stage_Plot_ComedyC: Une protagoniste peu conventionnelle et qu'on\nappellera « la mégère » débarque dans la capitale\nimpériale afin d'y retrouver quelqu'un.\n\nAprès de longues années à croire son frère disparu\nen mer, la mégère a récemment entendu qu'on l'aurait\nen fait aperçu vivant.\n\nMalheureusement, le caractère exécrable de\nla mégère prend le dessus et des querelles éclatent.\n\nSon frère serait-il en vie ? Le trouvera-t-elle ?\nUne histoire rocambolesque qui prend vie dans\nla capitale impériale !
+MID_Stage_Cast_ComedyC_01: Mégère
+MID_Stage_Cast_ComedyC_02: Tavernier
+MID_Stage_Cast_ComedyC_03: Enquêteur
+MID_Stage_Situation_ComedyC_01_t: Réminiscences au port
+MID_Stage_Situation_ComedyC_01: La mégère, interprétée par {Variable=0}, arrive\nau port de la capitale impériale et se souvient de\nson frère dont elle a été séparée.
+MID_Stage_Situation_ComedyC_02_t: Après la tempête
+MID_Stage_Situation_ComedyC_02: Le tavernier, incarné par {Variable=0}, conduit\nau temple la mégère, qui avait provoqué une rixe.
+MID_Stage_Situation_ComedyC_03_t: Souvenirs persistants
+MID_Stage_Situation_ComedyC_03: L'enquêteur, joué par {Variable=0}, était en fait\nle frère de la mégère et avait perdu la mémoire !\nCette découverte donne lieu à d'émouvantes retrouvailles.
+MID_Stage_Title_TragedyA: L'Anneau maudit
+MID_Stage_Plot_TragedyA: Le personnage principal est un noble d'une très grande\nfamille. Parcourant les bois au cours d'une partie\nde chasse, il tombe amoureux de la fille d'un ermite.\n\nLeur amour est consolidé par de multiples rendez-vous.\nMais l'ermite a autrefois été escroqué par la famille\ndu noble et, pour se venger, il décide de tuer ce dernier\nen lui donnant un anneau maudit qu'il fait passer pour\nune bague de fiançailles.\n\nLa fille de l'ermite tente de reprendre l'anneau,\nmais le noble, pensant qu'elle a changé d'avis,\nse jette dans un lac...\n\nIci s'arrête le destin tragique de ce couple maudit.
+MID_Stage_Cast_TragedyA_01: Noble
+MID_Stage_Cast_TragedyA_02: Ermite
+MID_Stage_Cast_TragedyA_03: Fille de l'ermite
+MID_Stage_Situation_TragedyA_01_t: Naissance d'un amour interdit
+MID_Stage_Situation_TragedyA_01: Le noble, incarné par {Variable=0},\nrencontre la fille de l'ermite dans les bois,\net tous deux tombent amoureux.
+MID_Stage_Situation_TragedyA_02_t: Cadeau de fiançailles
+MID_Stage_Situation_TragedyA_02: L'ermite, joué par {Variable=0},\ndonne l'anneau maudit au noble.
+MID_Stage_Situation_TragedyA_03_t: Retrouvailles dans l'au-delà
+MID_Stage_Situation_TragedyA_03: La fille de l'ermite, interprétée par {Variable=0},\npasse l'anneau à son doigt pour suivre son fiancé.
+MID_Stage_Title_TragedyB: Des Amis et des Armes
+MID_Stage_Plot_TragedyB: Longtemps en proie à d'interminables guerres,\nl'Est et l'Ouest ont fini par conclure une paix précaire.\nToutefois, le conflit est sur le point d'éclater à nouveau.\n\nLes postes de contrôle de la frontière sont occupés\npar des soldats de chaque camp, deux amis d'enfance\noriginaires d'un même village séparé en deux par\ncette nouvelle ligne de démarcation. À présent, ils\nsont ennemis...\n\nPar-delà la frontière, ils discutent et échangent\ndes plaisanteries. Mais les hostilités commencent\net ils n'ont d'autre choix que de se battre...\n\nVoici la complainte d'une amitié qui fleurit\nsur le lisier de la guerre.
+MID_Stage_Cast_TragedyB_01: Soldat de l'Ouest
+MID_Stage_Cast_TragedyB_02: Soldat de l'Est
+MID_Stage_Cast_TragedyB_03: Villageois
+MID_Stage_Situation_TragedyB_01_t: Une amitié indéfectible
+MID_Stage_Situation_TragedyB_01: Le soldat de l'Ouest, joué par {Variable=0},\nretrouve à la frontière son ami d'enfance,\nle soldat de l'Est.
+MID_Stage_Situation_TragedyB_02_t: Le conflit éclate
+MID_Stage_Situation_TragedyB_02: Le soldat de l'Est, incarné par {Variable=0},\napprend que la guerre vient d'éclater entre l'Est\net l'Ouest et qu'il doit se battre.
+MID_Stage_Situation_TragedyB_03_t: Après la bataille
+MID_Stage_Situation_TragedyB_03: La guerre est terminée et un villageois,\ninterprété par {Variable=0}, dépose des fleurs\nsur la frontière aussi silencieuse que déserte.
+MID_Stage_Title_TragedyC: Lignées et Querelles
+MID_Stage_Plot_TragedyC: Un noble prestigieux meurt au combat.\nSon héritier, déterminé à se venger, se fait passer\npour un serviteur et s'infiltre dans la maison du général\nqui a tué son père.\n\nMais coup du sort, l'héritier tombe amoureux du général !\n\nApprenant ensuite qu'on projette à nouveau d'envahir\nson pays, l'héritier révèle sa véritable identité et prépare\nson départ. Toutefois, le général aime également\nl'héritier et l'invite à abandonner son pays pour qu'ils\npuissent fuir ensemble !\n\nL'histoire d'amour tragique d'un couple à la merci\ndu destin.
+MID_Stage_Cast_TragedyC_01: Noble prestigieux
+MID_Stage_Cast_TragedyC_02: Héritier
+MID_Stage_Cast_TragedyC_03: Général
+MID_Stage_Situation_TragedyC_01_t: La chute du noble
+MID_Stage_Situation_TragedyC_01: Le noble prestigieux, interprété par {Variable=0},\naffronte le général d'un pays ennemi et meurt au combat.
+MID_Stage_Situation_TragedyC_02_t: La romance interdite
+MID_Stage_Situation_TragedyC_02: L'héritier du noble, incarné par {Variable=0},\ns'infiltre en territoire ennemi, mais finit par\ntomber amoureux du général qui a tué son père.
+MID_Stage_Situation_TragedyC_03_t: L'amour sur l'échafaud
+MID_Stage_Situation_TragedyC_03: Pour avoir fui avec l'héritier, le général, que joue\n{Variable=0}, est condamné à mort.
+MID_Stage_Title_OperaA: Une Foi éprouvée
+MID_Stage_Plot_OperaA: Un berger adore un dieu et le prie chaque jour.\nToutefois le dieu éprouve sa foi en lui imposant\ndes épreuves.\n\nLe berger perd ses récoltes, son bétail, ses économies,\net tombe même malade.\n\nMais le berger continue de louer son dieu et ne perd\npas la foi, malgré tout ce qu'il endure...\n\nQuel sort attend le berger ? Une histoire douloureuse\nmais poignante, entre humains et dieux.
+MID_Stage_Cast_OperaA_01: Berger
+MID_Stage_Cast_OperaA_02: Dieu
+MID_Stage_Cast_OperaA_03: Enfant du dieu
+MID_Stage_Situation_OperaA_01_t: L'épreuve des dieux
+MID_Stage_Situation_OperaA_01: Le berger, interprété par {Variable=0}, est éprouvé\npar son dieu et perd ses récoltes et ses moutons.
+MID_Stage_Situation_OperaA_02_t: Un test de foi
+MID_Stage_Situation_OperaA_02: Le dieu, incarné par {Variable=0}, réfléchit\nau type d'épreuve à infliger au berger.
+MID_Stage_Situation_OperaA_03_t: Du baume à l'âme
+MID_Stage_Situation_OperaA_03: L'enfant du dieu, joué par {Variable=0},\ninforme le berger qu'il a réussi toutes\nles épreuves et qu'ils vont se marier.
+MID_Stage_Title_OperaB: L'Épée noire du spectre
+MID_Stage_Plot_OperaB: La mort fait partie du quotidien des gladiateurs.\nUn gladiateur vaincu revient toutefois dans l'arène\nsous la forme d'un fantôme et est bientôt\nsurnommé « le spectre ».\n\nLe personnage principal, un jeune gladiateur,\nrencontre le spectre qui lui donne une épée noire.\nSa renommée croît à chaque victoire...\n\nÀ force de conquêtes, le gladiateur devient arrogant.\nMalheureusement, lors d'un combat décisif,\nson épée noire se brise.\n\nUn conte sanglant et fantasque parcouru par les\nombres capricieuses de la gloire et de la déchéance !
+MID_Stage_Cast_OperaB_01: Jeune gladiateur
+MID_Stage_Cast_OperaB_02: Gladiateur rival
+MID_Stage_Cast_OperaB_03: Spectre
+MID_Stage_Situation_OperaB_01_t: Le spectre de l'arène
+MID_Stage_Situation_OperaB_01: Le jeune gladiateur, interprété par {Variable=0},\nreçoit une épée noire du spectre et remporte triomphe\nsur triomphe.
+MID_Stage_Situation_OperaB_02_t: La fin de la gloire
+MID_Stage_Situation_OperaB_02: Le gladiateur rival, qu'incarne {Variable=0},\nvainc le jeune gladiateur arrogant.
+MID_Stage_Situation_OperaB_03_t: Le cycle des ténèbres
+MID_Stage_Situation_OperaB_03: Le spectre, joué par {Variable=0},\nse saisit de l'épée noire et, l'air satisfait,\ncherche une autre victime à maudire.
+MID_Stage_Title_OperaC: Arcs-en-ciel sur Iapetus
+MID_Stage_Plot_OperaC: Les monts de Iapetus sont une chaîne de montagnes\nsacrées au nord de Dagda. De nombreux esprits y ont\nélu domicile et apparaîtraient aux yeux des humains\nlorsque des arcs-en-ciel luisent dans le firmament.\n\nUn bûcheron escalade les montagnes alors qu'un\narc-en-ciel se dessine à l'horizon. Les esprits\napparaissent et le conduisent vers leur souverain.\n\nSe réjouissant de sa chance, le bûcheron apprend\nqu'il va être jugé pour avoir détruit la zone.\n\nUne allégorie entre humains et esprits,\nbrillant de toutes les couleurs de l'arc-en-ciel.
+MID_Stage_Cast_OperaC_01: Esprit de l'arbre
+MID_Stage_Cast_OperaC_02: Esprit souverain
+MID_Stage_Cast_OperaC_03: Bûcheron
+MID_Stage_Situation_OperaC_01_t: Le procès des esprits
+MID_Stage_Situation_OperaC_01: L'esprit de l'arbre, joué par {Variable=0},\naccuse le bûcheron d'avoir abattu ses amis.
+MID_Stage_Situation_OperaC_02_t: Le verdict
+MID_Stage_Situation_OperaC_02: L'esprit souverain, incarné par {Variable=0},\nsoutient les accusations et tente de châtier le bûcheron.
+MID_Stage_Situation_OperaC_03_t: Sauver et être sauvé
+MID_Stage_Situation_OperaC_03: Le bûcheron, interprété par {Variable=0},\nest protégé par les esprits des animaux qu'il a sauvés\ndans le passé et rentre chez lui sans être inquiété.
+MID_Stage_Title_SpecialA: L'Essor du Démon Chenu
+MID_Stage_Plot_SpecialA: « L'Essor du Démon Chenu », l'une des plus grandes\nœuvres littéraires de l'histoire de Dagda, enfin sur scène !\n\nUn jeune général, victime d'un coup monté par\nson meilleur ami, est sur le point d'être exécuté\nlorsqu'il est sauvé par Mars, le Héraut de la\nGuerre. Il est alors mis à l'épreuve dans l'arène\net devient le Démon Chenu.\n\nCombats contre de redoutables adversaires, pièges\ntendus par ses ennemis, amour d'une belle cléresse\ndont il finit séparé...\n\nAujourd'hui encore, le Démon Chenu continue d'affronter\nles épreuves, en attendant que se lève enfin le jour où il\npourra prouver son innocence et recouvrer sa liberté.
+MID_Stage_Cast_SpecialA_01: Jeune général
+MID_Stage_Cast_SpecialA_02: Ami du général
+MID_Stage_Cast_SpecialA_03: Gladiateur
+MID_Stage_Cast_SpecialA_04: Cléresse
+MID_Stage_Cast_SpecialA_05: Démon Chenu
+MID_Stage_Situation_SpecialA_01_t: L'ascension du jeune général
+MID_Stage_Situation_SpecialA_01: Le jeune général, interprété par {Variable=0},\ns'illustre sur le champ de bataille.
+MID_Stage_Situation_SpecialA_02_t: Des accusations sans fondement
+MID_Stage_Situation_SpecialA_02: L'ami du général, incarné par {Variable=0},\npiège ce dernier et le fait emprisonner.
+MID_Stage_Situation_SpecialA_03_t: Le Triomphe du Démon Chenu
+MID_Stage_Situation_SpecialA_03: Un gladiateur, joué par {Variable=0}, combat\nle général devenu Démon Chenu, et est battu\nà plate couture.
+MID_Stage_Situation_SpecialA_04_t: Un après-midi en prison
+MID_Stage_Situation_SpecialA_04: La cléresse, jouée par {Variable=0},\nrencontre le Démon Chenu en cachette en prison.
+MID_Stage_Situation_SpecialA_05_t: Une victoire pour l'avenir
+MID_Stage_Situation_SpecialA_05: Le Démon Chenu, qu'incarne {Variable=0},\ntriomphe d'un adversaire redoutable malgré le vil\npiège qui lui a été tendu.
+MID_Stage_Title_SpecialB: Les Sept Travaux d'Arago
+MID_Stage_Plot_SpecialB: Le héros Arago, humain et fils de Dagda le Grand,\nétait connu dans tout Dagda non seulement pour\nsa bravoure, mais aussi pour ses nombreuses\naventures amoureuses. Aujourd'hui, la saga des\naventures héroïques d'Arago prend vie sur scène !\n\nTout y est raconté : sa victoire sur le gigantesque diable\ndes sables, son duel avec le chef des Lydia, sa traversée\ndu col avec la belle Olivia, sans oublier son combat pour\nhonorer la promesse faite au roi de Brigid !\n\nPréparez-vous à une épopée vertigineuse !
+MID_Stage_Cast_SpecialB_01: Villageois
+MID_Stage_Cast_SpecialB_02: Chef des Lydia
+MID_Stage_Cast_SpecialB_03: Olivia
+MID_Stage_Cast_SpecialB_04: Chef ennemi
+MID_Stage_Cast_SpecialB_05: Arago
+MID_Stage_Situation_SpecialB_01_t: L'élimination du monstre
+MID_Stage_Situation_SpecialB_01: Le villageois, joué par {Variable=0}, couvre\nArago d'éloges pour sa victoire sur le gigantesque\ndiable des sables.
+MID_Stage_Situation_SpecialB_02_t: Le duel du siècle
+MID_Stage_Situation_SpecialB_02: Le chef des Lydia, joué par {Variable=0}, défie\nArago en duel, mais a du mal à l'affronter.
+MID_Stage_Situation_SpecialB_03_t: Une rencontre romantique
+MID_Stage_Situation_SpecialB_03: Olivia, interprétée par {Variable=0},\nest sous le charme d'un Arago aussi fort que grossier.
+MID_Stage_Situation_SpecialB_04_t: Une alliance prodigieuse
+MID_Stage_Situation_SpecialB_04: Le chef ennemi, qu'incarne {Variable=0}, est vaincu\net humilié par Arago et le roi de Brigid.
+MID_Stage_Situation_SpecialB_05_t: La légende sans fin
+MID_Stage_Situation_SpecialB_05: Arago, interprété par {Variable=0},\nse met en route pour sa prochaine bataille,\nen quête d'un nouvel ennemi.
+MID_Stage_Title_SpecialC: L'Incomparable Cohen
+MID_Stage_Plot_SpecialC: L'histoire de Cohen, l'incomparable barde dont nul\nn'ignore le nom !\n\nVihuela à la main, Cohen arpente tout Dagda,\ncomposant et interprétant des chansons de toutes sortes\net faisant naître moult légendes dans son sillage.\nOn raconte qu'il lui aurait suffi de jouer quelques notes\npour repousser une invasion de rats et transformer\nun tonneau d'eau en ghosh millésimé ! Il aurait même\ndéplacé une montagne par la seule force de sa virtuosité.\n\nCe spectacle illustre l'histoire émouvante de sa vie,\nde sa jeunesse prometteuse à sa chute tragique.
+MID_Stage_Cast_SpecialC_01: Cohen
+MID_Stage_Cast_SpecialC_02: Villageois
+MID_Stage_Cast_SpecialC_03: Soldat du temple
+MID_Stage_Cast_SpecialC_04: Bandit
+MID_Stage_Cast_SpecialC_05: Kalla
+MID_Stage_Situation_SpecialC_01_t: Les ennuis d'un jeune chanteur
+MID_Stage_Situation_SpecialC_01: Cohen, interprété par {Variable=0}, se demande\ns'il peut rendre son jeu encore plus mélodieux.
+MID_Stage_Situation_SpecialC_02_t: L'enchanteur musical
+MID_Stage_Situation_SpecialC_02: Un villageois, joué par {Variable=0},\nchante les louanges de l'habileté\nde Cohen à la vihuela.
+MID_Stage_Situation_SpecialC_03_t: Quand le vent souffle
+MID_Stage_Situation_SpecialC_03: Un soldat dans un temple, incarné par {Variable=0},\nse sent galvanisé par la musique de Cohen.
+MID_Stage_Situation_SpecialC_04_t: L'eau vivifiante
+MID_Stage_Situation_SpecialC_04: Un bandit, interprété par {Variable=0},\nexprime sa joie lorsque l'eau est transformée\nen ghosh par la virtuosité de Cohen.
+MID_Stage_Situation_SpecialC_05_t: Que sa mélodie soit éternelle
+MID_Stage_Situation_SpecialC_05: Kalla, jouée par {Variable=0}, pleure\nla perte de Cohen, son fils qui lui manque cruellement.
+MID_Stage_Calendar_Help_SpecialA: Une représentation spéciale\nde l'Essor du Démon Chenu\naura lieu au théâtre.
+MID_Stage_Calendar_Help_SpecialB: Une représentation spéciale\ndes Sept Travaux d'Arago aura\nlieu au théâtre.
+MID_Stage_Calendar_Help_SpecialC: Une représentation spéciale\nde l'Incomparable Cohen aura\nlieu au théâtre.

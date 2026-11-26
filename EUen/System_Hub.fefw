@@ -1,0 +1,462 @@
+﻿MID_GiftMenu_Help: Select an item to give.
+MID_GiftMenu_Confirm: Back out of giving a gift?
+MID_ScoutInfo_Introduction: Character Info
+MID_ScoutInfo_Status: Combat Info
+MID_ScoutInfo_Profile: Profile
+MID_ScoutMenu_Give_Help: Select something to give.
+MID_HubMenu_RouteSelect: Causality Select
+MID_RouteSelectMenu_Help: Select which version of a character to recruit.
+MID_RouteSelectMenu_Confirm: Recruit {Variable=1} from {Variable=0}?
+MID_RouteSelectMenu_AutoGrow_Confirm: You can recruit {Variable=1} from {Variable=0}.\nThey will be leveled up appropriately for the final campaign.
+MID_RouteSelectMenu_AutoGrow_Yes: Level up and recruit.
+MID_RouteSelectMenu_AutoGrow_Yes_NotGrow: Recruit as is.
+MID_RouteSelectMenu_AutoGrow_No: Return.
+MID_HeroJoyn_AutoGrow_Confirm: You can level up Flame Lord {Variable=0} to be strong enough\nfor the final campaign. Level up and recruit {Variable=0}?
+MID_Joyn_AutoGrow_Confirm: You can level up {Variable=0} to be strong enough\nfor the final campaign. Level up and recruit this unit?
+MID_LessonMenu_Help: Select a lesson.
+MID_LessonMenu_Explanation: Seminar
+MID_LessonMenu_Practice: Combat
+MID_LessonMenu_Subjugation: Conquest
+MID_LessonMenu_PracticeConfirm: Combat will begin on the battle map. Begin this lesson?
+MID_ProcurementMenu_Help: View and deliver requests.
+MID_QuestBoard_Help: View active subquests.
+MID_QuestMenu_MaineQuest: Main Quest
+MID_QuestMenu_SubQuest: Subquest
+MID_QuestMenu_SideStoryQuest: Paralogue
+MID_QuestMenu_RouteQuest_Kindness: Kindness
+MID_QuestMenu_RouteQuest_Challenge: Challenge Letter
+MID_QuestMenu_RouteQuest_Procurement: Send Supplies
+MID_QuestMenu_RouteQuest_Show: Perform
+MID_QuestMenu_RouteQuest: Special Quest
+MID_QuestMenu_Condition: Objective
+MID_QuestMenu_Destination: Location
+MID_QuestMenu_TimeLimit: Deadline
+MID_QuestMenu_Reward: Reward
+MID_QuestMenu_Acceptable: Available
+MID_QuestMenu_Reportable: Turn In
+MID_QuestMenu_Progressing: Ongoing
+MID_QuestMenu_Failed: Expired
+MID_QuestMenu_Accept_Yes: Accept
+MID_QuestMenu_Accept_No: Decline
+MID_QuestMenu_Report_Yes: Report
+MID_QuestMenu_Report_No: Don't Report
+MID_QuestMenu_Delivery_Yes: Deliver
+MID_QuestMenu_Delivery_No: Don't Deliver
+MID_QuestMenu_Confirm: Accept {Variable=0}?
+MID_QuestMenu_Report_Confirm: Report finishing the quest?
+MID_QuestMenu_AcceptReport_Confirm: You have already finished the quest. Report it now?
+MID_QuestMenu_ExclusiveQuest_Confirm: If you deliver this item for this quest, you can no longer\ncomplete the quest "{Variable=0}"\non this route. Proceed anyway?
+MID_DeliveryMenu_Title: Deliver
+MID_DeliveryMenu_ItemSelect_Help: Select what to deliver.
+MID_DeliveryMenu_AnimalSelect_Help: Select animals to deliver.
+MID_DeliveryMenu_Confirm: Deliver the following?
+MID_DeliveryMenu_Select_Confirm: Select how many to deliver.
+MID_DeliveryMenu_Cancel_Confirm: Cancel delivery?
+MID_ScoutDeliveryMenu_Confirm: Hand over the following?
+MID_ScoutDeliveryMenu_Cancel_Confirm: Cancel recruiting?
+MID_HubMenu_FastTravel: Base Map
+MID_FastTravelMenu_Area: Areas
+MID_FastTravelMenu_Facility: Facilities
+MID_FastTravelMenu_CanScout: Recruitable
+MID_FastTravelMenu_CannotScout: Not Recruitable
+MID_FastTravelMenu_CanJoin: Can Join
+MID_FastTravelMenu_ScoutCondition: Conditions
+MID_FastTravelMenu_Action: Activities
+MID_FastTravelMenu_Confirm: Fast-travel to this location?
+MID_FastTravelMenu_NotMove_Message: You cannot fast-travel at this time.
+MID_FastTravelMenu_NameOrder: By Name
+MID_Facility_Special: SPECIAL
+MID_Facility_HalfPrice: 50% OFF
+MID_Facility_Menu_Lv: {Variable=0} Lv {Variable=1}
+MID_Facility_MenuBoard: Weekly Options
+MID_Shop_Buy: Buy
+MID_Shop_Buy_Help: Purchase wares.
+MID_Shop_Sell: Sell
+MID_Shop_Sell_Help: Sell items or materials.
+MID_Shop_Trade: Exchange
+MID_Shop_Trade_Help: Exchange materials for items.
+MID_ShopMenu_Buy_UnitSelect_Help: Select a unit to give items to.
+MID_ShopMenu_Sell_UnitSelect_Help: Select the unit with an item you want to sell.
+MID_ShopMenu_Help: Select an item.
+MID_Shop_Transport_Help: Shared storage for weapons,\nequipment, and items.
+MID_Shop_Material_Help: Shared storage for materials\nand gifts.
+MID_Shop_Price: Cost
+MID_Shop_Stock: Stock
+MID_Shop_NotSell: Can't Sell
+MID_Shop_Sell_TotalNum: Amount Sold
+MID_Shop_Sell_TotalPrice: Total Sale Value
+MID_Shop_Buy_TotalNum: Total Items
+MID_Shop_Buy_TotalPrice: Total Price
+MID_Shop_Consumption: Cost
+MID_Shop_Aquisition: Receive
+MID_Shop_Item_Other: Other
+MID_Shop_Buy_Confirm: Buy the following?
+MID_Shop_Sell_Confirm: Sell the following?
+MID_Shop_Exchange_Confirm: Exchange the following?
+MID_Shop_FullItem_Transport_Message: Your storage is full. Discard or sell what you don't need.
+MID_Shop_FullItem_Unit_Message: Unable to carry more. Discard or sell what you don't need.
+MID_Shop_FullItem_Material_Message: Your material bag is full. Discard or sell what you don't need.
+MID_BlacksmithShop_Refine: Refine
+MID_BlacksmithShop_Refine_Help: Use materials to enhance weapons.
+MID_BlacksmithShop_Repair: Repair
+MID_BlacksmithShop_Repair_Help: Use materials to restore weapon durability.
+MID_RefineMenu_UnitSelect_Help: Select the unit with a weapon you want to enhance.
+MID_RefineMenu_Help: Select a weapon.
+MID_RefineMenu_Select_Help: Select a refinement level.
+MID_RefineMenu_CanRefine: Refinable
+MID_RefineMenu_Before: Before Refining
+MID_RefineMenu_After: After Refining
+MID_RefineMenu_Confirm: Refine the following?
+MID_RefineMenu_Result: The weapon has been refined.
+MID_RepairMenu_UnitSelect_Help: Select the unit with a weapon you want to repair.
+MID_RepairMenu_Help: Select a weapon.
+MID_RepairMenu_Confirm: Repair the following?
+MID_RepairMenu_Result: The weapon has been repaired.
+MID_LegionShop_Sell: Transfer Battalions
+MID_LegionShop_Sell_Help: Transfer battalions to earn troop points.
+MID_LegionSellMenu_Help: Select a battalion.
+MID_LegionSellMenu_Confirm: Transfer the following battalion?
+MID_LegionSellMenu_Dispatch_Confirm: This battalion is deployed to {Variable=0}.\nCancel the deployment and transfer them?
+MID_LegionSellMenu_Owner_Confirm: This battalion is assigned to {Variable=0}.\nUnassign the battalion and transfer them?
+MID_LegionSellMenu_Result: You received the following for {Variable=0} troop points:
+MID_HubMenu_Stable: Stable
+MID_StableMenu_Naming: Name
+MID_StableMenu_Naming_Help: Name or rename animals. 
+MID_StableMenu_Breeding: Tend
+MID_StableMenu_Breeding_Help: Feed animals to deepen your bond.
+MID_StableMenu_Release: Release
+MID_StableMenu_Release_Help: Release an animal so it may leave the frontlines.\nYou may receive a parting item.
+MID_StableMenu_FullRelease_Message: The stable is full. Select an animal to release.
+MID_NamingMenu_AnimalSelect_Help: Select an animal.
+MID_ReleaseMenu_AnimalSelect_Help: Select an animal.
+MID_ReleaselMenu_Confirm: Release this animal?
+MID_ReleaseMenu_OwnerConfirm: This animal is currently assigned to {Variable=0}.\nUnassign it and release it?
+MID_ReleaseMenu_Result: Released {Variable=0}.
+MID_ReleaseMenu_GetItem_Result: {CapitalizeNextLetter}{Variable=0} left behind an item.
+MID_BreedingMenu_FoodSelect_Help: Select food to give.
+MID_BreedingMenu_FavoriteTaste: Taste
+MID_BreedingMenu_FavoriteFoodType: Likes
+MID_BreedingMenu_FavoriteFood: Favorite
+MID_BreedingMenu_RideFull: Full
+MID_HubMenu_Hotel: Inn
+MID_HotelMenu_Stay: Rent a Room
+MID_HotelMenu_Stay_Help: Rest for a turn to restore HP, magic, and motivation.
+MID_HotelMenu_Dining: Meal
+MID_HotelMenu_Dining_Help: Share a meal between three allies. Their support points\nwill increase.
+MID_HotelMenu_Reliance: Support
+MID_HotelMenu_Reliance_Help: View available support conversations.
+MID_HotelMenu_Individual: Auto-Activities
+MID_HotelMenu_Individual_Help: Direct allies to gain materials, gold, or Exp for a set number\nof turns.
+MID_HotelMenu_Individual_Part3_Help: Direct allies to gain materials, gold, or Exp for a set number\nof turns. (This will pass all turns up to the deadline.)
+MID_HotelMenu_Stay_Confirm: Stay at the inn?
+MID_HotelMenu_Stay_Part3_Annotation: {Variable=0}'s squad will end its turn and return to\nthe world map.
+MID_HotelMenu_Stay_Part3Ism_Annotation: {CapitalizeNextLetter}{AvatarName} will end their turn and return to the world map.\nThe Form Squad command will still be available.
+MID_DiningMenu_RecipeSelect_Help: Select a dish.
+MID_DiningMenu_Confirm: Share this meal?
+MID_IndividualMenu_Help: Select activities for your allies.
+MID_IndividualMenu_Action: Action
+MID_IndividualMenu_ActualCombat: Combat
+MID_IndividualMenu_Confirm: Choose the number of turns to perform auto-activities.
+MID_IndividualMenu_Reminder_Confirm: This exceeds your reminder of {Variable=0} {Variable=1}. Proceed anyway?\n(You have {Variable=2} turn(s) until your set date.)
+MID_IndividualMenu_Reminder_Yes: Perform
+MID_IndividualMenu_Reminder_Yes_Fixed: Perform for {Variable=0} turn(s).
+MID_IndividualMenu_Reminder_No: Return
+MID_HubMenu_Thermae: Thermae
+MID_ThermaeMenu_Thermae: Bathe
+MID_ThermaeMenu_Thermae_Help: Two allies bathe together, raising their support points while\nrestoring HP, magic, and motivation. They can gain special\nabilities that last until the end of this chapter's main battle.
+MID_ThermaeMenu_Thermae_Part3_Help: Two allies bathe together, raising their support points while\nrestoring HP, magic, and motivation. They can gain special\nabilities that last until the end of this section's main battles.
+MID_ThermaeMenu_ThermaeSelect_Help: Select a bath.
+MID_ThermaeMenu_Confirm: Take this bath?
+MID_HubMenu_Theater: Theater
+MID_TheaterMenu_Act: Act
+MID_TheaterMenu_Act_Help: Select allies to perform in a play. Their support points\nincrease and rewards are granted based on the outcome.
+MID_TheaterMenu_Watch: Watch
+MID_TheaterMenu_Watch_Help: Two allies watch a play together, increasing their\nsupport points.
+MID_TheaterMenu_HelpDetail: Program Details
+MID_TheaterMenu_DramaGenre_Comedy: Comedy
+MID_TheaterMenu_DramaGenre_Tragedy: Tragedy
+MID_TheaterMenu_DramaGenre_Opera: Opera
+MID_TheaterMenu_DramaGenre_Special: Special
+MID_TheaterActMenu_Confirm: Perform with these allies?
+MID_TheaterActMenu_GetFunItem_Result: You received a gift from the audience.
+MID_TheaterAct_Recovery: Won them over!
+MID_TheaterAct_Recovery_Message: {CapitalizeNextLetter}{Variable=0}'s passionate performance dazzled the crowd!
+MID_TheaterWatchMenu_Confirm: Watch with these allies?
+MID_TheaterWatch_Perfect_Message: The pair were delighted to have the same impressions!
+MID_TheaterWatch_Good_Message: It appears the pair had a fairly good time.
+MID_TheaterWatch_Bad_Message: It seems only one of the pair enjoyed the show...
+MID_PerchMenu_Perch: Feed Pale Raven
+MID_PerchMenu_Perch_Help: Deepen your bond with the Pale Raven. (Increases support\npoints with {AvatarName} in the form of the Pale Raven.)
+MID_PerchMenu_Perch_Part3: Observe Ally
+MID_PerchMenu_Perch_Part3_Help: Observe an ally as the Pale Raven.
+MID_PerchMenu_Obelisk: Obelisk Chamber
+MID_PerchMenu_Obelisk_Help: Temporarily suspend current story.\n(Use the Obelisk Chamber to progress other paths or view\npreviously unlocked scenes and music.)
+MID_PerchMenu_BattleHint: Foresight
+MID_PerchMenu_BattleHint_Help: View information and advice for this chapter's main battle.
+MID_PerchMenu_BattleHint_Part3_Help: View information and advice for this section's main battle.
+MID_PerchMenu_ResetChapter_Help: Restart the chapter from the beginning. (All progress made\nin this chapter will be lost.)
+MID_PerchMenu_ResetChapter_Part3_Help: Restart the section from the beginning. (All progress made\nin this section will be lost.)
+MID_PerchMenu_FoodSelect_Help: Select food to give.
+MID_PerchMenu_Confirm: Give it this food?
+MID_PerchMenu_Part3_Confirm: Observe {Variable=0}?
+MID_Perch_QuetionCorrect_Message: They seem happy.
+MID_Perch_QuetionWrong_Message: They don't seem too pleased.
+MID_GazeMenu_FreeTime: Idle Time
+MID_GazeMenu_Gaze: Observe
+MID_GazeMenu_Farewell: End
+MID_BattleHintMenu_MainBattle: Main Battle
+MID_BattleHintMenu_Lv: Ideal Lv
+MID_BattleHintMenu_JobRank: Ideal Class Tier
+MID_BattleHintMenu_WeaponRank: Ideal Weapons
+MID_BattleHintMenu_Job: Suggested Classes
+MID_BattleHintMenu_Item: Suggested Items
+MID_BattleHintMenu_Advice: Advice
+MID_BattleHintMenu_SortiePlayer: You
+MID_BattleHintMenu_SortieGuest: Guests
+MID_DivinationMenu_DivinationVisiter: Fortune-Telling
+MID_DivinationMenu_DivinationVisiter_Help: Have Anatolia read your fortune.
+MID_DivinationMenu_DivinationVisiter_Confirm: Have your fortune read?
+MID_DivinationMenu_Divination: 
+MID_DivinationMenu_Divination_Help: 
+MID_DivinationMenu_Divination_Confirm: 
+MID_HubMenu_Temple: Divine Service
+MID_TempleMenu_MiracleEquip: Blessings
+MID_TempleMenu_MiracleEquip_Help: Choose the blessings available in battle.
+MID_TempleMenu_Volunteer: Service
+MID_TempleMenu_Trial: Trial
+MID_TempleMenu_Trial_Help: Challenge soldiers who are under the effect of\n{Variable=0}. If you win, you will be\nrewarded with powerful equipment.
+MID_TempleMenu_Trial_RecommendedLv: Ideal Lv
+MID_TempleMenu_Trial_Clear: Complete
+MID_TempleMenu_HelpDetail: Temple
+MID_TempleMenu_HelpDetail_Miracle: Blessing Effects
+MID_TempleMenu_HelpDetail_LuckyWeek: Holy Days
+MID_TempleMenu_HelpDetail_WholeLuckyWeek: ALL
+MID_TempleMenu_Reinforce: Boost Combat Arts
+MID_TempleMenu_Reinforce_Help: Strengthens combat arts to increase stats, reduce\ndurability cost, or other effects.
+MID_TempleMenu_Educate: Teach Secrets
+MID_TempleMenu_Educate_Help: Dietrich teaches other allies the secret combat arts learned\nfrom dread warriors.
+MID_TempleMenu_Audience: Audience
+MID_MiracleEquipMenu_Help: You can select {Variable=0} {SingularPlural0=blessing|blessings}.
+MID_MiracleEquipMenu_EquippedNum: Selected
+MID_MiracleEquipMenu_Info_Help: View blessing effects.
+MID_MiracleEquipMenu_NotTemple_Message: You can select active blessings at temples or at any\nbase with a temple.
+MID_MiracleEquipMenu_Invalid_Message: This cannot yet be changed.
+MID_VolunteerMenu_Confirm: Carry out the service with these allies?
+MID_TrialMenu_Help: Select units to deploy for the {LowercaseNextLetter}Clash.
+MID_TrialMenu_Confirm: Start the trial?
+MID_ReinforceMenu_UnitSelect_Help: Select the unit with a combat art you want to strengthen.
+MID_ReinforceMenu_Help: Select a combat art.
+MID_ReinforceMenu_Confirm: Strengthen the following?
+MID_EducateMenu_UnitSelect_Help: Select the unit you want to teach.
+MID_EducateMenu_Help: Select a secret combat art.
+MID_EducateMenu_Confirm: Teach this secret?
+MID_HubMenu_ClassExaminer: Certification Exam
+MID_TempleMenu_ClassChange: Reclass
+MID_TempleMenu_ClassChange_Help: Change your current class to another certified class.
+MID_TempleMenu_ClassTrial: Certification Exam
+MID_TempleMenu_ClassTrial_Help: Take a certification exam, which must be passed to unlock\na new class.
+MID_TempleMenu_ClassRecycle: Return Certification
+MID_TempleMenu_ClassRecycle_Help: Surrender an exclusive class certification.\n(The exam item will be returned.)
+MID_ClassTrialMenu_UnitSelect_Help: Select a unit to take the exam.
+MID_ClassTrialMenu_ClassSelect_Help: Select a tier.
+MID_ClassTrialMenu_JobRank: Tier
+MID_ClassTrialMenu_JobRank_None: Base
+MID_ClassTrialMenu_JobRank_Novice: Beginner
+MID_ClassTrialMenu_JobRank_Middle: Specialty
+MID_ClassTrialMenu_JobRank_Higher: Advanced
+MID_ClassTrialMenu_JobRank_Super: Master
+MID_ClassTrialMenu_JobRank_Legend: Divine
+MID_ClassTrialMenu_JobSelect_Help: Select a class.
+MID_ClassTrialMenu_JobRankSelect: {Variable=0} Exam
+MID_ClassTrialMenu_PassRate: Pass Chance
+MID_ClassTrialMenu_RequiredMastery: Primary Skills
+MID_ClassTrialMenu_ElectiveMastery: Secondary Skills
+MID_ClassTrialMenu_ConditionPart3: Salvation Arc
+MID_ClassTrialMenu_TrialInfo: Exam Description
+MID_ClassTrialMenu_Job_Bonus: Growth/Skills
+MID_ClassTrialMenu_MasterSkill: Master Abilities
+MID_ClassTrialMenu_UsableMastery: Usable Skills
+MID_ClassTrialMenu_SkillEXP_Bonus: Skill Exp Bonus
+MID_ClassTrialMenu_Confirm: Take this exam?
+MID_ClassTrialMenu_PassRateFull_Message: This class exam can only be taken when the chance to pass is 100%. 
+MID_ClassTrialMenu_ChangeConfirm: Switch to your new class now?
+MID_Sys_Result_ClassTrial_Passed: PASSED!
+MID_Sys_Result_ClassTrial_Failed: Failed...
+MID_ClassChangeMenu_UnitSelect_Help: Select a unit to reclass.
+MID_ClassChangeMenu_JobSelect_Help: Select a class to change to.
+MID_ClassChangeMenu_Confirm: Change to this class?
+MID_ClassChangeMenu_CostumeInvalid_Message: {CapitalizeNextLetter}{Variable=0} cannot change outfits as this class.
+MID_ClassRecycleMenu_JobSelect_Help: Select a class.
+MID_ClassRecycleMenu_Confirm: Surrender certification for this class?\n(The exam item will be returned.)
+MID_ClassRecycleMenu_JobChange_Confirm: You need to change your current class. Choose another class?
+MID_ClassRecycleMenu_Change_Confirm: Switch to this class and surrender your certification?\n(The exam item will be returned.)
+MID_HubMenu_Arena: Arena
+MID_ArenaMenu_Training: Training
+MID_ArenaMenu_Training_Help: Train to hone various skills.
+MID_ArenaMenu_Watching: Spectate
+MID_ArenaMenu_Watching_Help: Watch another clan's match. All allies will gain skill Exp.
+MID_ArenaMenu_Watching_Accepting: Spectators Welcome
+MID_TrainingMenu_Help: Select training.
+MID_TrainingMenu_TrainingMastery: Trains
+MID_TrainingMenu_Confirm: Start this training?
+MID_WatchingMenu_Confirm: Watch the match?
+MID_HubMenu_Training: Training Grounds
+MID_SortiePlanMenu_BottomUp: Training Drills
+MID_SortiePlanMenu_BottomUp_Help: Train underpowered units to raise their levels on par\nwith their higher-powered allies.
+MID_SortiePlanMenu_BottomUp_Confirm: Perform training drills?
+MID_SortiePlanMenu_Training: Group Drills
+MID_SortiePlanMenu_Training_Heip: Train all allies at once to hone everyone's skills.
+MID_SortiePlanMenu_Training_Confirm: Perform group drills?
+MID_SortiePlanMenu_Volunteer: Group Service
+MID_SortiePlanMenu_Volunteer_Help: All allies work together to serve a god and raise tribute.
+MID_SortiePlanMenu_Volunteer_Confirm: Start group service?
+MID_CharaMaking_Page_Body: Body
+MID_CharaMaking_Page_Skin: Skin Tone
+MID_CharaMaking_Page_Head: Hairstyle
+MID_CharaMaking_Page_Hair: Hair Color
+MID_CharaMaking_Page_Clothes: Outfit
+MID_CharaMaking_Page_Name: Name
+MID_CharaMaking_Page_Confirm: Confirm
+MID_CharaMaking_BodyType: Select Body
+MID_CharaMaking_SkinColor: Select Skin Tone
+MID_CharaMaking_HeadType: Select Hairstyle
+MID_CharaMaking_HairColor: Select Hair Color
+MID_CharaMaking_Clothes: Select Outfit
+MID_CharaMaking_Check: Confirm
+MID_CharaMaking_Type_A: Type A
+MID_CharaMaking_Type_B: Type B
+MID_CharaMaking_Type_C: Type C
+MID_CharaMaking_Type_D: Type D
+MID_CharaMaking_Type_E: Type E
+MID_CharaMaking_Swkbd_Header: Enter a name. (Unavailable characters will be shown as ■.)
+MID_CharaMaking_Confirm_Yes: OK
+MID_CharaMaking_Confirm_RemakeAppearance: Redo
+MID_CharaMaking_Confirm_Rename: Rename
+MID_HeroMenu_Start_Part1: Touch This Obelisk
+MID_HeroMenu_Start_Part2: Go to the War Arc
+MID_HeroMenu_Start_Part3: Go to the Final Campaign
+MID_HeroMenu_Start_Part1_Confirm: Touch this obelisk and guide the Flame Lord {Variable=0}?
+MID_HeroMenu_Start_Part2_Confirm: Follow {Variable=0} to the War Arc?
+MID_HeroMenu_Start_Part3_Confirm: Go to the decisive campaign against the demon god Balor?
+MID_HeroMenu_Continue_Part1: Resume {Variable=0}
+MID_HeroMenu_Continue_Part2: Resume the War Arc
+MID_HeroMenu_Continue_Part3: Resume the Salvation Arc
+MID_HeroMenu_Continue_Confirm: Resume from {Variable=0}?
+MID_HeroMenu_Continue_Part3_Confirm: Resume the Salvation Arc?
+MID_HeroMenu_Skip_Part2: Skip the War Arc
+MID_HeroMenu_Skip_Confirm: See a summary of the War Arc before marking it cleared. Your allies\nwill develop automatically. Skip the War Arc?
+MID_HeroMenu_Skip_Comment: You can still play through this arc as normal if you wish\nafter marking it cleared.
+MID_HeroMenu_Skip_Attention: {Variable=0}'s progress in the War Arc will be lost.
+MID_HeroMenu_Restart: Replay from Any Chapter
+MID_HeroMenu_Restart_Attention: There is existing play data for {Variable=0}.\nStarting a replay will overwrite this data.
+MID_HeroMenu_Restart_Part2_Attention: There is existing play data for {Variable=0}'s War Arc.\nStarting a replay will overwrite this data.
+MID_HeroMenu_RestartChapter_Confirm: Replay from this chapter?
+MID_HeroMenu_RestartChapter_Attention: Clearing Part I again will overwrite your units' starting data for Part II.
+MID_HeroMenu_Restart_Part3: Replay from Any Section
+MID_HeroMenu_Restart_Part3_Attention: Replaying from any section will reset your story progression and\nallies' development to what they were at that point.
+MID_HeroMenu_RestartChapter_Part3_Confirm: Replay from this section?
+MID_HeroMenu_RestartChapter_Continue_Confirm: This is data from before descending again.\n{CapitalizeNextLetter}{AvatarName}'s class will be set to {LowercaseNextLetter}Guardian.\nReplay from this section?
+MID_HeroMenu_ClearData_KeyHelp: Check Clear Data
+MID_HeroMenu_Mastery: Strengths
+MID_ResumeMenu_Help: Select a chapter to replay.
+MID_ResumeMenu_Part3_Help: Select a section to replay.
+MID_ResumeMenu_UpdateDate: Last Updated
+MID_ChapterStatus_Title: View Status
+MID_ChapterStatus_Title_Help: Check your allies' status as of this point.
+MID_ClearStatus_Title: View Clear Data
+MID_ClearStatus_Help: Check your status at the point you cleared the War Arc.
+MID_ClearStatus_Acquired_Skill: Learned new abilities.
+MID_ClearStatus_Acquired_Arts: Learned new combat arts.
+MID_ObeliskMenu_Memory: Memories
+MID_ObeliskMenu_Memory_Help: You can look back on your memories up to this point of\nevents, support conversations, and music.
+MID_ObeliskMenu_Memory_Sound: Listen to Music
+MID_ObeliskMenu_Memory_Movie: View Movies
+MID_ObeliskMenu_Memory_Event: View Events
+MID_ObeliskMenu_Memory_Reliance: View Supports
+MID_ObeliskMenu_Destiny: Notable Deeds
+MID_ObeliskMenu_Destiny_Help: View the various milestones you've achieved so far and\nreceive karma shards as a reward.
+MID_ObeliskMenu_Causation: Boons of Salvation
+MID_ObeliskMenu_Causation_Help: Use karma shards earned from Notable Deeds and other\nsources to unlock various benefits.
+MID_ObeliskMenu_CausationSkill: 
+MID_ObeliskMenu_CausationSkill_Help: 
+MID_ObeliskMenu_UnitMarge: Merge Causality
+MID_ObeliskMenu_UnitMarge_Help: Merge the power of an allied unit upon completion of the\nWar Arc with the same unit in the Salvation Arc.
+MID_ObeliskMenu_Depository: Drifting Reliquary
+MID_ObeliskMenu_Depository_Help: Spend karma shards to generate items and materials.
+MID_ObeliskMenu_DownDifficulty: Change Difficulty
+MID_ObeliskMenu_DownDifficulty_Help: Lower the game's difficulty. Changing the difficulty will not\naffect the story.
+MID_AchieveMenu_Help: View your notable deeds and receive rewards.
+MID_AchieveMenu_Battle: Battle
+MID_AchieveMenu_Hub: Bases
+MID_AchieveMenu_Gmap: The World Map
+MID_AchieveMenu_Friend: Allies
+MID_AchieveMenu_Item: Item
+MID_AchieveMenu_Report: Other
+MID_AchieveMenu_State: Status
+MID_AchieveMenu_Receive_Result: Earned the reward for "{Variable=0}"
+MID_AchieveMenu_ReceiveAll_Confirm: Accept all rewards?
+MID_AchieveMenu_ReceiveAll_Result: All rewards have been accepted.
+MID_CausationMenu_Help: Select a boon to receive.
+MID_CausationMenu_Opened: Received
+MID_CausationMenu_NotCondition: Locked
+MID_CausationMenu_Condition_Message: Unlock by altering causality for {Variable=0} or more people.
+MID_CausationMenu_Confirm: Receive {Variable=0}?
+MID_CausationMenu_Confirm2: Receive {Variable=0} {Variable=1}?
+MID_UnitMergeMenu_UnitSelect_Help: Select a unit to update stats.
+MID_UnitMergeMenu_RouteSelect_Help: Select the path the unit will receive stats from.
+MID_UnitMergeMenu_Confirm: Proceed to merge causality?
+MID_UnitMergeMenu_Acquired: Receive {Variable=0}
+MID_UnitMergeMenu_Acquired_Other: And {Variable=0} more.
+MID_UnitMergeMenu_JobExpUp: Class Exp Up
+MID_DepositoryMenu_Item_Help: Select an item to generate.
+MID_DepositoryMenu_Ride_Help: Select an animal to generate.
+MID_DepositoryMenu_Legion_Help: Select a battalion to generate.
+MID_DepositoryMenu_TotalNum: Total
+MID_DepositoryMenu_TotalPrice: Required Shards
+MID_DepositoryMenu_Confirm: Generate the following?
+MID_DepositoryMenu_Need_KAI_Message: Cai must be in your party with secured causality to\ngenerate an animal.
+MID_DepositoryMenu_Need_SEO_Message: Theodora must be in your party with secured causality to\ngenerate battalions.
+MID_DepositoryMenu_Overlap_Animal_Message: Unable to generate, since an identical animal is already in use.
+MID_DepositoryMenu_FullItem_Animal_Message: Animal storage is full.
+MID_DepositoryMenu_FullItem_Legion_Message: Battalion storage is full.
+MID_DownDifficulty_Confirm: Change the game's difficulty from {Variable=0}\nto {Variable=1}?
+MID_DownDifficulty_Annotation: You can only lower the game's difficulty.\nTo raise it, you must Descend Again.
+MID_DownDifficulty_Result: Difficulty set to {Variable=0}.
+MID_DownDifficulty_Lowest_Message: Difficulty cannot be changed from {Variable=0}.
+MID_MemoryMovieMenu_Help: Select a movie.
+MID_MemoryEventMenu_Help: Select an event.
+MID_MemoryEventMenu_Conditions: Scene Conditions
+MID_MemorySoundMenu_Help: Select a music track.
+MID_MemorySoundMenu_BattleOn: Combat Version
+MID_MemorySoundMenu_BattleOff: Map Version
+MID_MemorySoundMenu_Arrange: Change Arrangement
+MID_MemorySoundMenu_NowPlaying: ♪Now Playing
+MID_MemorySoundMenu_Note: ♪
+MID_CrownJobInfo_Message: Sleeps in {LowercaseNextLetter}{Variable=0}...
+MID_Crown_OpenDoor_Confirm: Use a Key of the Diadem to open {LowercaseNextLetter}{Variable=0}?\n(Keys held: {Variable=1})
+MID_Crown_NotOpenDoor_Message: You need a Key of the Diadem to open this door.\nKeys are hidden in various dungeons across the land.
+MID_Crown_NotOpenTemple_Message: Cannot enter yet.
+MID_HubMenu_MainQuest: Main Quest
+MID_HubMenu_MainQuest_Help: Proceed to the {Lowercase}Main Quest{NormalCase}.\n(This will end free time.)
+MID_HubMenu_SubQuest: Subquest
+MID_HubMenu_SubQuest_Help: Accept and report subquests.
+MID_HubMenu_SideStory: Paralogue
+MID_HubMenu_SideStory_Help: Start the {LowercaseNextLetter}Paralogue.\n(This will not end free time.)
+MID_HubMenu_Gift: Gifts
+MID_HubMenu_Gift_Help: Give a gift to increase support\npoints with the recipient.
+MID_HubMenu_Scout: Recruit
+MID_HubMenu_Scout_Help: Invite to join you. Success requires\nmeeting certain conditions or\nfulfilling their requests.
+MID_HubMenu_ScoutInfo: Character Info
+MID_HubMenu_ScoutInfo_Help: View information on a character's\nabilities, preferences, and\nrecruitment conditions.
+MID_HubMenu_SortiePlan: Army Action
+MID_HubMenu_SortiePlan_Help: Choose a single action to bolster\nyour army's fighting strength.
+MID_HubMenu_Lesson: Mentoring
+MID_HubMenu_Lesson_Help: Receive mentoring to gain\nknowledge, items, and other\nrewards useful in battle.
+MID_HubMenu_Procurement: Send Supplies
+MID_HubMenu_Procurement_Help: Deliver materials to the people of\nSaramis to increase your renown.
+MID_HubMenu_Divination: Divination Booth
+MID_HubMenu_Aurora: To Aurora's Quarters
+MID_HubMenu_Outing: 
+MID_HubMenu_Outing_Return: 
+MID_EXMenu_EX-091: 
+MID_EXMenu_EX-088: 

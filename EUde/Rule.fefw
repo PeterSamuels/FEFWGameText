@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: Sieg
+MID_Rule_Title_Lose: Niederlage
+MID_WINRULE_Annihilate: Alle gegnerischen Einheiten werden besiegt.
+MID_WINRULE_Destroy: {Variable=0} wird besiegt.
+MID_WINRULE_Destroy2: {Variable=0} und {Variable=1} werden\nbesiegt.
+MID_LOSERULE_Annihilate: Alle eigenen Einheiten werden besiegt.
+MID_LOSERULE_Destroy: {Variable=0} wird besiegt.
+MID_LOSERULE_Destroy2: {Variable=0} oder {Variable=1} wird\nbesiegt.
+MID_LOSERULE_Destroy3: {Variable=0}, {Variable=1}\noder {Variable=2} wird besiegt.
+MID_WINRULE_SC11_01_1: Das rote Juwel wird erobert.
+MID_WINRULE_SC12_08_1: Alle Hebel werden verwendet.
+MID_WINRULE_SC13_00_1: Theodora erreicht das Ziel.
+MID_WINRULE_SC13_10: Das Epimenium wird erobert.
+MID_WINRULE_SC13_11_1: Die eigenen Einheiten besitzen nach {Variable=0} {SingularPlural0=Runde|Runden}\nmehr Kugeln als der Gegner.
+MID_WINRULE_SC13_11_2: Die eigenen Einheiten erhalten 1 Kugel oder\nsorgen dafür, dass der Gegner 1 Kugel verliert.
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: Nach {Variable=0} {SingularPlural0=Runde|Runden} ist die Anzahl der blauen\nFlammen höher als die der roten Flammen.
+MID_WINRULE_SC14_05_2: Leda erreicht das Ziel.
+MID_WINRULE_SC30_08: {LordName} erreicht das Ziel.
+MID_WINRULE_SC00_16: Der Unterweltpfeiler wird zerstört.
+MID_WINRULE_SCXX_01: {Variable=0} {SingularPlural0=Runde wird|Runden werden} überstanden.
+MID_WINRULE_SCXX_02: Alle Mechanismen werden aktiviert.
+MID_WINRULE_SCXX_04: Die Mehrheit der Riesen wird besiegt.
+MID_WINRULE_SCXX_05: Die gesamte Warenladung von Vandahl wird\nzurückgeholt oder alle Gegner werden besiegt.
+MID_WINRULE_SCXX_07_1: Alle verbliebenen Einwohner von Kunlun erreichen\ndas Ziel oder die Pentkehydra wird besiegt.
+MID_WINRULE_SCXX_07_2: Anatolia erreicht das Ziel oder die Pentkehydra wird\nbesiegt.
+MID_WINRULE_KL_02_1: Eine gegnerische Barriere wird entfernt und alle\nGegner werden besiegt.
+MID_WINRULE_KL_02_2: Alle gegnerischen Barrieren werden entfernt und alle\nGegner werden besiegt.
+MID_LOSERULE_SC11_03: Die Karawane wird zerstört oder Cai fällt in der\nSchlacht.
+MID_LOSERULE_SC12_08_1: {Variable=0} {SingularPlural0=Runde|Runden} {SingularPlural0=verstreicht|verstreichen} oder Dietrich\nfällt in der Schlacht.
+MID_LOSERULE_SC13_09: {Variable=0} {SingularPlural0=Runde|Runden} {SingularPlural0=verstreicht|verstreichen} oder Theodora\nfällt in der Schlacht.
+MID_LOSERULE_SC13_11_1: Der Gegner besitzt nach {Variable=0} {SingularPlural0=Runde|Runden}\nmehr Kugeln als die eigenen Einheiten.
+MID_LOSERULE_SC13_11_2: Die gegnerischen Einheiten erhalten 1 Kugel oder\ndie eigenen Einheiten verlieren 1 Kugel.
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: Nach {Variable=0} {SingularPlural0=Runde|Runden} ist die Anzahl der roten\nFlammen höher als die der blauen Flammen.
+MID_LOSERULE_SCXX_00: Ein Gegner erreicht das Ziel oder\n{LordName} oder Cai fällt in der Schlacht.
+MID_LOSERULE_SCXX_01: Ein Gegner erreicht das Ziel oder\n{LordName} oder Dietrich fällt in\nder Schlacht.
+MID_LOSERULE_SCXX_04: Die gegnerischen Einheiten besiegen einen Großteil\nder Riesen.
+MID_LOSERULE_SCXX_05_2: Ein Dieb mit der Warenladung erreicht das Ziel\noder {LordName} oder Talimun fällt in der\nSchlacht.
+MID_LOSERULE_SCXX_07: 3 von Kunluns Einwohnern werden besiegt oder\n{LordName} oder Anatolia fällt in der Schlacht.
+MID_LOSERULE_DefenseBattle: Alle Bürger werden besiegt oder\n{LordName} fällt in der Schlacht.

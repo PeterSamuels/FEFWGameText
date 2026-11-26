@@ -1,0 +1,150 @@
+﻿MID_Sys_PlayerPhase: Player Phase
+MID_Sys_EnemyPhase: Enemy Phase
+MID_Sys_AllyPhase: Ally Phase
+MID_Battle_Damage_NoDamage: No Damage!
+MID_Battle_Damage_Miss: Miss!
+MID_Battle_Damage_Critical: Critical!
+MID_Battle_Damage_Guard: Guard!
+MID_Battle_Damage_ChainAttack: Chain Attack!
+MID_Battle_Damage_OverBlaze: Over Blaze!
+MID_Battle_Damage_Burst: Burst!
+MID_Battle_StatusUp: Status Up
+MID_Battle_StatusDown: Status Down
+MID_Battle_BadCondition: Bad Condition
+MID_Battle_CureCondition: Cured
+MID_Sys_EndureHp: 내구 HP
+MID_Sys_Damage: 대미지
+MID_Sys_CannonCount: 탄 수
+MID_Sys_NoEntry: 진입 불가
+MID_Sys_NoWalkingEntry: 보행 불가
+MID_Sys_NoWalkingAndDestroy: 보행·파괴 불가
+MID_Btl_FirstAttack: 선공
+MID_Btl_LastAttack: 후공
+MID_Btl_Buff: 강화
+MID_Btl_Debuff: 약화
+MID_Btl_EnemyDetail_Barrier: 배리어
+MID_Btl_EnemyDetail_BarrierItem: 모든 배리어 파괴 보수
+MID_Btl_EnemyDetail_StockSkill: 잠재 스킬
+MID_Btl_EnemyDetail_ActivationStock: 발동 단계
+MID_SortieMenu_UnitSelect_Help: 출격 유닛을 선택해 주십시오
+MID_BtlMenu_SortieUnit: 출격 인원
+MID_BtlMenu_UnitGuest: GUEST
+MID_BtlMenu_TurnCount: TURN
+MID_BtlMenu_WaitUnitCount: 미행동
+MID_BtlMenu_DefeatCount_GuestUnit: GUEST가 격파한 적
+MID_BtlMenu_WeaponCost: 내구 소비
+MID_BtlMenu_ConsumeHp: 소비 HP
+MID_BtlMenu_BigUnitCantSpace_Message: 출격 가능한 칸이 부족하므로\n대형 유닛을 배치할 수 없습니다\n출격할 유닛을 조정해 주십시오
+MID_BtlMenu_BigUnitChangeDispos_Message: 대형 유닛에게 맞춰서 배치 위치가 조정되었습니다
+MID_MiracleMenu_Help: 가호를 선택해 주십시오
+MID_MiracleMenu_Detail: {Variable=0}의 효과
+MID_MiracleMenu_Attention_Using: 다른 가호가 발동 중이므로 선택할 수 없습니다
+MID_MiracleMenu_Used: 발동 중
+MID_MiracleMenu_Confirm: {Variable=0}를 사용하겠습니까?
+MID_RewindMenu_NotPlayerPhase_Confirm: 아군 페이즈가 아닙니다.\n이때의 상황으로 되돌리겠습니까?
+MID_BtlMenu_Attack: 공격
+MID_BtlMenu_Arts: 전투 기술
+MID_BtlMenu_Special: 블레이즈 아츠
+MID_BtlMenu_SpecialGauge: 블레이즈 제어
+MID_BtlMenu_Gambit: 계략
+MID_BtlMenu_Rage: 맹격
+MID_BtlMenu_Morph: 용화
+MID_BtlMenu_Assist: 보조
+MID_BtlMenu_RideOn: 타기
+MID_BtlMenu_RideOff: 내리기
+MID_BtlMenu_Item: 소지품
+MID_BtlMenu_Transport: 도구 주머니
+MID_BtlMenu_Trade: 교환
+MID_BtlMenu_Fixed: 대기
+MID_BtlMenu_Treasurebox: 보물 상자
+MID_BtlMenu_Warp: 전이
+MID_BtlMenu_Secede: 이탈
+MID_BtlMenu_Talk: 대화
+MID_BtlMenu_Cannon: 병기
+MID_BtlMenu_Terrain_Default: 장치
+MID_H_BtlMenu_Terrain_Default_SC11_14: 장치를 조작한다\n(모두 조작하면\n마법 방벽이 해제된다)
+MID_H_BtlMenu_Terrain_Default_SC12_08: 장치를 조작한다\n(모두 조작하면\n코끼리병의 배리어가 해제된다)
+MID_H_BtlMenu_Terrain_Default_SC13_12: 장치를 조작한다\n(여러 개를 조작하면\n마법 방벽이 해제된다)
+MID_H_BtlMenu_Terrain_Default_SC14_06: 장치를 조작해\n모든 유닛의 성수 효과를 제거한다
+MID_H_BtlMenu_Terrain_Default_SC14_13: 장치를 조작해 1턴 동안\n방벽을 강화하여 대굉토를 막는다
+MID_H_BtlMenu_Terrain_Default_SC15_07: 장치를 조작한다\n(모두 조작하면\n거인의 강화가 해제된다)
+MID_H_BtlMenu_Terrain_Default_SC15_15: 장치를 조작해\n바닥 함정을 해제한다
+MID_H_BtlMenu_Terrain_Default_SC18_14: 장치를 조작해 근처의 바닥 함정에\n적이 있으면 대미지를 준다\n(2회 사용 가능)
+MID_H_BtlMenu_Terrain_Default_SC13_13_2: 장치를 조작한다\n(모두 조작하면\n큰 문이 열린다)
+MID_H_BtlMenu_Terrain_Default_SC13_13_1: 장치를 조작해 전이 마법진을\n사용할 수 있게 만든다
+MID_H_BtlMenu_Terrain_Default_SC16_18: 장치를 조작해\n플라마의 방출을 멈춘다
+MID_H_BtlMenu_Terrain_Default_SC18_10: 장치를 조작해 적의 강화 상태를\n물방 또는 항마로 전환한다
+MID_H_BtlMenu_Terrain_Default_SC18_03: 장치를 조작해\n아나톨리아를 강화한다
+MID_H_BtlMenu_Terrain_Default_SC12_03: 장치를 조작한다\n3개를 조작하면 아나톨리아의\n강화가 해제된다
+MID_H_BtlMenu_Terrain_Default_SC12_15: 장치에 조작을 가한다\n적의 타이타니스가 배리어가 모두\n파괴된 상태로 기동한다
+MID_H_BtlMenu_Terrain_Default_SCXX_06: 장치를 조작한다\n같은 페이즈에 2개를 모두\n조작하면 투석기가 작동된다
+MID_H_BtlMenu_Terrain_Default_SC12_12: 장치를 조작해 케투스를\n행동 불능 상태로 만드는 덫을\n1턴 동안 생성한다
+MID_H_BtlMenu_Terrain_Default_SC13_09: 장치를 조작해\n맵 전체의 안개를 제거한다\n(해당 페이즈 동안만 적용)
+MID_BtlMenu_Terrain_Lightflame: 등불
+MID_H_BtlMenu_Terrain_Lightflame: 등불의 색을 푸른색으로 바꾼다
+MID_BtlMenu_Terrain_Bonfire: 화톳불대
+MID_H_BtlMenu_Terrain_Bonfire: 화톳불대에 불을 붙여\n1턴 동안 주변 시야를 넓힌다
+MID_BtlMenu_Terrain_Candle: 등불
+MID_H_BtlMenu_Terrain_Candle: 등불을 밝혀 주변에\n적들이 싫어하는 빛을 발산한다
+MID_BtlMenu_Terrain_Fallpillar: 허술한 기둥
+MID_BtlMenu_Terrain_Attendpower: 월사화
+MID_H_BtlMenu_Terrain_Attendpower: 꽃에 힘을 불어넣어\n아군이 꽃 주변에 서 있는 동안\n바람에 날아가지 않게 만든다
+MID_BtlMenu_Skill_Invincible: 생성기 보호
+MID_BtlMenu_Skill_Clearsandstorm: 모래 폭풍 제거 장치
+MID_BtlMenu_Skill_Throwfeed: 먹이
+MID_BtlMenu_Skill_Calmdown: 진정시키기
+MID_BtlMenu_Skill_Thunder: 투척뢰
+MID_BtlMenu_Warning_Invalid_Fallpillar: 기둥 뒤에 다른 유닛이 있습니다
+MID_BtlMenu_Warning_Invalid_Warp: 전이할 곳에 다른 유닛이 있습니다
+MID_BtlMenu_Warning_AfterTurn: {Variable=0}턴 후 재사용 가능
+MID_BtlMenu_Warning_TurnEnd: 다음 턴까지 사용할 수 없습니다
+MID_RewindMenu_Help: 다시 시작할 시점을 선택해 주십시오
+MID_RewindMsg_BattleStart: 전투 개시
+MID_RewindMsg_PlayerPhase: 플레이어 페이즈 개시
+MID_RewindMsg_EnemyPhase: 에너미 페이즈 개시
+MID_RewindMsg_ThirdPhase: 제3군 페이즈 개시
+MID_RewindMsg_AllyPhase: 우군 페이즈 개시
+MID_RewindMsg_Mov: {Variable=0}의 이동
+MID_RewindMsg_Wait: {Variable=0}{ConsonantVowel=이|가} 대기
+MID_RewindMsg_Defeat: {Variable=0}{ConsonantVowel=이|가} {Variable=1}{ConsonantVowel=을|를} 격파
+MID_RewindMsg_Defeat2: {Variable=0}{ConsonantVowel=이|가} {Variable=1}들을 격파
+MID_RewindMsg_Person_Attack: {Variable=0}의 공격, {Variable=1}에게 {Variable=2}의 대미지
+MID_RewindMsg_Destroy: {Variable=0}{ConsonantVowel=이|가} {Variable=1}{ConsonantVowel=을|를} 파괴
+MID_RewindMsg_Attack: {Variable=0}의 공격, {Variable=1}에 {Variable=2}의 대미지
+MID_RewindMsg_Magic: 
+MID_RewindMsg_Skill: {Variable=0}의 {Variable=1}
+MID_RewindMsg_HPRecovery_Magic: {Variable=0}{ConsonantVowel=이|가} {Variable=1}의 HP를 {Variable=2} 회복
+MID_RewindMsg_Recovery_Magic: {Variable=0}의 {Variable=1}
+MID_RewindMsg_Assist_Magic: {Variable=0}의 {Variable=1}
+MID_RewindMsg_Assist_Arts: {Variable=0}의 {Variable=1}
+MID_RewindMsg_Special: {Variable=0}의 {Variable=1}
+MID_RewindMsg_Gambit: {Variable=0}의 {Variable=1}
+MID_RewindMsg_Rage: {Variable=0}의 {Variable=1}
+MID_RewindMsg_Used_Item: {Variable=0}{ConsonantVowel=이|가} {Variable=1}{ConsonantVowel=을|를} 사용
+MID_RewindMsg_Secede: {Variable=0}{ConsonantVowel=이|가} 이탈
+MID_RewindMsg_Get_Item: {Variable=0}{ConsonantVowel=이|가} 보물 상자에서 {Variable=1}{ConsonantVowel=을|를} 획득
+MID_RewindMsg_Open_Treasurebox: {Variable=0}{ConsonantVowel=이|가} 보물 상자를 개방
+MID_RewindMsg_Miracle: {Variable=0}{ConsonantVowel=을|를} 사용
+MID_RewindMsg_UnitSkill: {Variable=0}{ConsonantVowel=이|가} {Variable=1}{ConsonantVowel=을|를} 사용
+MID_RewindMsg_Fixed: {Variable=0}의 행동
+MWID_Rain: 우천
+MWID_H_Rain: 번개 공격의 대미지가 2배로 증가,\n화염 공격의 대미지가 반감,\n포대 사용 불가
+MWID_Sandstorm: 모래 폭풍
+MWID_H_Sandstorm: 시야가 나빠진다
+MWID_Fog: 안개
+MWID_H_Fog: 시야가 나빠진다
+MWID_SC18_10_DefUp: 수비의 역장
+MWID_H_SC18_10_DefUp: 맵에 있는 모든 유닛의\n수비가 대폭 상승한다
+MWID_SC18_10_MdefUp: 마방의 역장
+MWID_H_SC18_10_MdefUp: 맵에 있는 모든 유닛의\n마방이 대폭 상승한다
+MID_Battle_AnimSimple_Confirm: 이 맵에서는 적끼리 전투하는 경우가 많으므로\n적의 전투 연출을 OFF로 설정할 수 있습니다\n맵이 끝날 때까지 OFF로 설정하겠습니까?
+MID_Battle_AnimReset_Message: 적의 전투 연출 설정을 원래대로 되돌립니다
+MID_Battle_EnthusiasticSong: {Variable=1}{ConsonantVowel=이|가} 범위 내 아군의 공격력을 상승시키는\n「{Variable=0}{ConsonantVowel=」을|」를} 불렀다
+MID_Battle_EnthusiasticSong_All: {Variable=1}{ConsonantVowel=이|가} 모든 아군의 공격력을 상승시키는\n「{Variable=0}{ConsonantVowel=」을|」를} 불렀다
+MID_Battle_FrozenSong: {Variable=1}{ConsonantVowel=이|가} 범위 내 아군의 방어력을 상승시키는\n「{Variable=0}{ConsonantVowel=」을|」를} 불렀다
+MID_Battle_FrozenSong_All: {Variable=1}{ConsonantVowel=이|가} 모든 아군의 방어력을 상승시키는\n「{Variable=0}{ConsonantVowel=」을|」를} 불렀다
+MID_Battle_FrenzySong: {Variable=1}{ConsonantVowel=이|가} 범위 내에 있는 적을 혼란 상태로 만드는\n「{Variable=0}{ConsonantVowel=」을|」를} 불렀다
+MID_Battle_FrenzySong_All: {Variable=1}{ConsonantVowel=이|가} 모든 적을 혼란 상태로 만드는\n「{Variable=0}{ConsonantVowel=」을|」를} 불렀다
+MID_Battle_PowerAwakening: 베르트랑이 다음 아군 페이즈까지 명중이 상승하는\n「패자의 각성」을 사용했다
+MID_Battle_SkillAwakening: 베르트랑이 다음 아군 페이즈까지 물방이 상승하는\n「번뜩임의 각성」을 사용했다
+MID_Battle_StormAwakening: 베르트랑이 다음 아군 페이즈까지 회피가 상승하는\n「폭풍의 각성」을 사용했다

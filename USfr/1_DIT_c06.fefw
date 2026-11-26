@@ -1,0 +1,284 @@
+﻿MID_EV12_027_m01: <EDH>
+MID_EV12_027_m01_001: Excusez-moi. J'aimerais voir votre épée de plus\nprès... Elle me semble familière.
+MID_EV12_027_m01_002: <NCA>Le laisser voir l'épée.
+MID_EV12_027_m01_003: Venez-vous de Fódlan ?
+MID_EV12_027_m01_004: Exact. Ah, il s'agit de Damnation. Vous appartenez\nà la maison Lamine, donc.
+MID_EV12_027_m01_005: Dietrich Gregor Lamine. Mon navire a fait naufrage,\net le hasard m'a mené ici.
+MID_EV12_027_m01_006: Vous êtes... réputé. Le massacre de la vallée de\nLailon. J'en ai entendu parler. Et de bien d'autres\nchoses.
+MID_EV12_027_m01_007: Je me risquerais à présumer que vous êtes derrière\nl'échauffourée qui a ulcéré le marquis Ribas.
+MID_EV12_027_m01_008: En observant votre combat, j'ai remarqué qu'une\nRelique de Héros était arrivée en Dagda.
+MID_EV12_027_m01_009: Vous avez l'air farouche. La férocité de la bête\nassoiffée de sang, à vrai dire.
+MID_EV12_027_m01_010: Ainsi, vous m'avez traqué comme une proie.\nMes compliments.
+MID_EV12_027_m01_011: Et maintenant que je vous ai acculé, peut-être\nm'écouterez-vous.
+MID_EV12_027_m01_012: Votre technique est implacable. Vous n'aspirez qu'à\nanéantir vos adversaires.
+MID_EV12_027_m01_013: C'est par plaisir que vous combattez, et vous vous\ndélectez de tuer.
+MID_EV12_027_m01_014: Vous n'êtes guère différent des Dix Braves de Fódlan,\npour qui seule comptait la force.
+MID_EV12_027_m01_015: <NCA>Admettre cette possibilité.
+MID_EV12_027_m01_016: <NCB>Le contredire.
+MID_EV12_027_m01_017: <ACA>Peut-être.
+MID_EV12_027_m01_018: <ACA>Si vous continuez sur cette voie, vous mettrez en\ndanger non seulement vous-même, mais aussi tout\nle monde autour de vous.
+MID_EV12_027_m01_019: <ACA>Je vous suggère de réfléchir à une autre voie.\nCelle-ci ne mène qu'à la destruction.
+MID_EV12_027_m01_020: <ACB>Qu'en savez-vous ?
+MID_EV12_027_m01_021: <ACB>Je n'aime pas les gens tels que vous. Vos vaines\nbatailles, les vies que vous volez...
+MID_EV12_027_m01_022: <ACB>À toutes les époques, ce sont toujours les plus faibles\nqui pâtissent de ces tueries inutiles.
+MID_EV12_027_m01_023: Quand vous parlez des Braves, vous donnez\nl'impression de très bien les connaître.
+MID_EV12_027_m01_024: J'ai confiance en mon jugement... et il n'y a pas\nà s'y tromper. Vous êtes un vrai tueur.
+MID_EV12_027_m01_025: Et je vous surveille. Gardez bien cela à l'esprit.
+MID_EV12_027_m01_026: Il semble que nous ayons attiré l'attention\nd'une personne fort gênante.
+MID_EV12_027_m01_027: Il appartient à l'Église de Seiros, et à ses plus\nhauts échelons, qui plus est.
+MID_EV12_027_m01_028: Hmm... Peut-être un cardinal ? Peut-être même\nplus.
+MID_EV12_027_m01_029: En ce cas... pourquoi vous cacher ? Vous appartenez\nà la même église. N'êtes-vous pas alliés ?
+MID_EV12_027_m01_030: J'ai mes raisons. Il est des personnes qu'il vaut\nmieux éviter.
+MID_EV12_027_m01_031: Bon... si vous insistez, je puis vous expliquer.
+MID_EV12_027_m01_032: Cela étant... je vous serais reconnaissant de garder\nvos distances avec cet homme. À tout prix.
+MID_EV12_027_m01_033: C'est à lui qu'il faut le dire.
+MID_EV12_028_m01: <EDH>
+MID_EV12_028_m01_001: Vous, là ! J'ai besoin de votre aide.
+MID_EV12_028_m01_002: Vous êtes l'équipe Maison Lamine, pas vrai ?
+MID_EV12_028_m01_003: Ce nom, prononcé à voix haute, me semble,\nune fois encore, terriblement incongru.
+MID_EV12_028_m01_004: Moi, il me plaît ! Je vois pas le problème !
+MID_EV12_028_m01_005: J'ai peut-être pas de chez-moi, mais au moins j'ai...\nune « maison » !
+MID_EV12_028_m01_006: Je vous reconnais. Vous étiez au temple.
+MID_EV12_028_m01_007: Ah ? Vraiment ? Intéressant, ha ha ha. Je n'en ai\naucun souvenir.
+MID_EV12_028_m01_008: Vous semblez avoir gagné la confiance du Souverain\nDivin. Pourquoi jouer cette comédie ?
+MID_EV12_028_m01_009: Chut ! Oublions ça, voulez-vous ? J'essaie de\nne pas attirer l'attention !
+MID_EV12_028_m01_010: Soit.
+MID_EV12_028_m01_011: Hum. Bon, écoutez-moi ! La date de votre prochain\ncombat ainsi que votre adversaire sont maintenant\nconnus.
+MID_EV12_028_m01_012: Tenez. Tout est écrit ici. Lisez attentivement.
+MID_EV12_028_m01_013: <TLP>Maison Lamine\n\nJeux Héroïques : deuxième combat de qualification\nAdversaires : Chevaliers d'Argent de Tellus\nChef d'équipe : Alexandra\n\nDate : {DateTime=Day} {LowercaseNextLetter}{DateTime=Month}
+MID_EV12_028_m01_014: Préparez-vous bien pour ce combat si vous ne voulez\npas avoir de regrets. Pas de temps à perdre !
+MID_EV12_028_m01_015: Comme vous avez survécu au premier tour,\nje suppose que je n'ai pas besoin de tout\nvous expliquer à nouveau ?
+MID_EV12_028_m01_016: Mais si vous avez des questions, n'hésitez pas à me\nles poser !
+MID_EV12_028_m01_017: <NCA>Poser une question sur vos équipiers.
+MID_EV12_028_m01_018: <NCB>Ne rien demander.
+MID_EV12_028_m01_019: <ACA>Devrons-nous encore combattre aux côtés d'une autre\néquipe ?
+MID_EV12_028_m01_020: <ACA>Ce sera comme la dernière fois. Quant aux détails...\nVous devrez attendre le résultat des combats\nde qualification.
+MID_EV12_028_m01_021: <ACA>Il est vrai que la chance est réputée jouer\nun rôle dans les jeux. Peut-être est-ce ainsi\nqu'ils introduisent cet élément.
+MID_EV12_028_m01_022: <ACB>Je n'ai aucune question.
+MID_EV12_028_m01_023: N'oubliez pas que je vous encouragerai, alors...\nbonne chance !
+MID_EV12_028_m01_024: Apparemment, notre adversaire est célèbre à\nDagsion. Elle est riche et fait beaucoup parler d'elle.
+MID_EV12_028_m01_025: Elle est parfaitement éduquée, compétente et jolie.\nLes hommes sont tous à ses pieds, paraît-il.
+MID_EV12_028_m01_026: La femme idéale, on dirait... Tout le contraire de moi.
+MID_EV12_028_m01_027: J'ai grandi dans un petit village au milieu de nulle\npart. Dans une ville comme celle-ci, je fais l'effet\nd'un chat de gouttière.
+MID_EV12_028_m01_028: Ne te dévalue pas comme ça ! Aie un peu plus\nconfiance en toi, Esmeralda.
+MID_EV12_028_m01_029: Ce qui compte, c'est ce qu'il y a dans ton cœur.\nEt aussi de bien choisir les hommes...
+MID_EV12_028_m01_030: Pour l'instant, il y a que Chaton qui compte\npour moi !
+MID_EV12_028_m01_031: À propos de notre adversaire, cette Alexandra...
+MID_EV12_028_m01_032: J'ai entendu dire que sa stratégie pour gagner était...\ndisons... peu scrupuleuse.
+MID_EV12_028_m01_033: Allez, dites les choses franchement !
+MID_EV12_028_m01_034: Il semblerait que, même avant les Jeux Héroïques,\nelle eût une curieuse propension à remporter\nses combats par forfait.
+MID_EV12_028_m01_035: Nous ferions bien de nous méfier d'éventuels\ncoups bas.
+MID_EV12_108_m01: <EDH>
+MID_EV12_108_m01_001: Tiens, tiens... Drôle d'endroit pour une promenade\nsolitaire.
+MID_EV12_108_m01_035: 
+MID_EV12_108_m01_036: 
+MID_EV12_108_m01_037: 
+MID_EV12_108_m01_002: Tu vas aller nulle part. On a deux mots à te dire.
+MID_EV12_108_m01_003: Hé hé... On a un service à te demander, une broutille.\nT'as juste à pas te présenter à ton prochain combat.
+MID_EV12_108_m01_004: Et t'en fais pas, on a pensé à une bonne excuse...
+MID_EV12_108_m01_005: On va te casser un bras ou deux ! Tu peux pas te\nbattre si tu peux pas tenir ton arme, pas vrai ?
+MID_EV12_108_m01_006: Un défi ? Amusant.
+MID_EV12_108_m01_007: Approchez. Tous en même temps, si vous préférez.
+MID_EV12_108_m01_008: Vos têtes ne me disent rien, mais vous m'avez défiée\ndès que vous m'avez reconnue.
+MID_EV12_108_m01_009: Je commence à comprendre pourquoi elle gagne\ntous ses combats par forfait.
+MID_EV12_108_m01_010: Plusieurs hommes menacent une jeune femme et\nils pensent qu'elle va se laisser faire ?
+MID_EV12_108_m01_011: Pourquoi ces types sont-ils aussi... stupides ?
+MID_EV12_108_m01_038: 
+MID_EV12_108_m01_039: 
+MID_EV12_108_m01_040: 
+MID_EV12_108_m01_012: J'y crois pas... Quelle force !
+MID_EV12_108_m01_013: On se reverra ! Et cette fois, tu me le paieras !
+MID_EV12_108_m01_014: Quoi ? Mes jambes... Je peux pas bouger !\nQu'est-ce qui se passe ? Au secours !
+MID_EV12_108_m01_015: Parlons un peu. Qui vous envoie ?
+MID_EV12_108_m01_016: Tu croyais que j'allais te laisser t'enfuir ?\nDis-moi qui a commandité l'attaque.
+MID_EV12_108_m01_017: Tu croyais que t'arriverais à t'enfuir ? Imbécile.\nPourquoi tu m'as attaquée ? Qui t'envoie ?
+MID_EV12_108_m01_018: Non, pitié ! Je peux rien te dire ! Ils vont me tuer\net toi aussi ! Pitié !
+MID_EV12_108_m01_019: Je ne suis guère intimidé.
+MID_EV12_108_m01_020: Échapper à un assassin en Dagda pourrait peut-être\nmême me distraire.
+MID_EV12_108_m01_021: Mais tu ne m'es d'aucune utilité. Meurs.
+MID_EV12_108_m01_022: Ta vie m'importe peu. Laisse-moi plutôt te montrer\nde qui tu devrais avoir peur.
+MID_EV12_108_m01_023: Si tu ne me dis pas ce que tu sais, je commencerai\npar te casser les bras, puis les jambes.
+MID_EV12_108_m01_024: Et pourquoi s'arrêter en si bon chemin ? Il y a\ntellement d'os à casser en attendant que tu te\ndécides à parler.
+MID_EV12_108_m01_025: Ah oui ? Je crois que tu comprends pas très bien\ndans quelle situation tu t'es mis.
+MID_EV12_108_m01_026: J'ai une suggestion, tu me dis qui t'envoie et\ntu quittes la ville. C'est aussi simple que ça.
+MID_EV12_108_m01_027: Non ? Bon... Et si je te coupais les oreilles ? Oooh, ou\nle nez ? Ça te ferait changer d'avis ?
+MID_EV12_108_m01_028: Aaaah ! Non ! Pitié ! Je vous dirai tout !
+MID_EV12_108_m01_029: Les soupçons de Fabio étaient donc fondés.
+MID_EV12_108_m01_030: Ce plan a échoué, mais j'ai hâte de voir la suite...
+MID_EV12_108_m01_031: Mes soupçons se confirment.
+MID_EV12_108_m01_032: Sous ses airs innocents, cette fille cache un côté\nmalveillant.
+MID_EV12_108_m01_033: Je vois. Tout s'explique...
+MID_EV12_108_m01_034: Elle fait la gentille, mais au fond, c'est pas joli-joli.\nElle cache bien son jeu.
+MID_EV12_029_m01: <EDH>
+MID_EV12_029_m01_001: Vous devez être Dietrich ! Eh bien, en effet,\nc'est quelque chose !
+MID_EV12_029_m01_002: J'étais très curieuse de vous rencontrer.\nEt maintenant que je vous vois de près...\nc'est vrai que vous êtes terriblement beau.
+MID_EV12_029_m01_003: J'ai presque envie de vous échanger contre Sirocco !
+MID_EV12_029_m01_004: Allons, Demoiselle Leda, vous n'y pensez\ntout de même pas...
+MID_EV12_029_m01_033: J'ai presque envie de vous échanger contre Sirocco !
+MID_EV12_029_m01_034: Allons, Demoiselle Leda, vous n'y pensez\ntout de même pas...
+MID_EV12_029_m01_005: Qu'en pensez-vous, Reine Theodora ?\nIl est époustouflant, non ?
+MID_EV12_029_m01_006: Je suspends mon jugement. Je mets un point\nd'honneur à ne jamais juger un homme sur\nson apparence.
+MID_EV12_029_m01_007: Je vous accorde qu'il est bel homme, mais je ne\nvois rien en lui de remarquable par ailleurs.
+MID_EV12_029_m01_008: Votre Majesté, vous pourriez chercher longtemps\ndans tout Dagda avant d'en trouver deux comme lui.\nSa beauté me fait presque mal aux yeux !
+MID_EV12_029_m01_009: C'est bien vrai ! Et mon Chaton n'est pas juste beau.\nIl a tout pour lui !
+MID_EV12_029_m01_010: Sa personnalité, par exemple... Au fond, c'est un\nvrai chou à la crème ! Même si c'est pas évident\ntout de suite.
+MID_EV12_029_m01_011: Ah ? Mais vous êtes en couple ?
+MID_EV12_029_m01_012: En couple ? Euh, j'aimerais bien, mais...
+MID_EV12_029_m01_013: Ah, justement ! Je me posais la question...\nPourquoi les filles de la ville comme vous\nsont toutes si rayonnantes ?
+MID_EV12_029_m01_014: Rayonnantes ? Euh, je sais pas pour les autres filles,\nmais moi, je mets une crème de beauté. Je peux\nvous en passer, si vous voulez.
+MID_EV12_029_m01_015: Vraiment ? Merci ! Avec plaisir !
+MID_EV12_029_m01_016: Leda, c'est ça ? Je veux bien l'essayer moi aussi.
+MID_EV12_029_m01_017: Dès que je vous ai vue, j'ai remarqué que vous\naviez une peau splendide. Cette crème doit être\nvraiement exceptionnelle.
+MID_EV12_029_m01_018: Oh, euh... merci. Elle est fabriquée en Caelus,\ndonc elle n'est pas si facile à trouver.
+MID_EV12_029_m01_019: J'éprouve les pires difficultés à suivre cette\nconversation... Non pas que j'en aie envie.\nElle me met terriblement mal à l'aise.
+MID_EV12_029_m01_020: Cette atmosphère conviviale est aux antipodes\nde mes aspirations érudites.
+MID_EV12_029_m01_021: Je ne suis guère à l'aise avec ces badinages,\nmoi non plus. Ma sœur le serait peut-être...\nencore qu'elle est plus calme.
+MID_EV12_029_m01_022: Bahaha ! N'importe où dans le monde, si vous mettez\ntrois jeunes filles dans une pièce, l'atmosphère est\nà la fête !
+MID_EV12_029_m01_023: C'est toujours mieux qu'une salle pleine de mecs,\noù ça sent juste le bouquetin.
+MID_EV12_029_m01_024: Regarde comme elle oublie son statut le temps\nd'un moment d'insouciance avec des filles de son âge.
+MID_EV12_029_m01_025: Depuis quand Sa Majesté ne s'était-elle pas autorisé\nça ? J'en ai les larmes aux yeux.
+MID_EV12_029_m01_026: Ma détermination de ne pas mourir avant d'avoir\nassisté aux noces de Sa Majesté s'en trouve\nrenforcée.
+MID_EV12_029_m01_027: Ouais, mais après tu diras que tu peux pas mourir\navant d'avoir fait sauter ses petits-enfants sur\ntes genoux.
+MID_EV12_029_m01_028: C'est ton sentimentalisme qui te maintiendra\nen vie, Bona.
+MID_EV12_029_m01_029: Blague à part, il y a un truc qui me dérange\ndepuis qu'on est arrivés ici.
+MID_EV12_029_m01_030: J'entends comme un bruit d'eau. D'où ça peut\nbien venir ?
+MID_EV12_029_m01_031: Ah. Maintenant que tu le dis, j'ai entendu dire que\ncette arène était équipée d'un système hydraulique.
+MID_EV12_029_m01_032: Peut-être que ces bruits d'eau annoncent ce qui\nnous attend dans l'arène.
+MID_EV12_030_m01: <EDH>
+MID_EV12_030_m01_001: Au nord-ouest de Dagda, où s'étend la scintillante\nmer de Lir, les îles de Brigid émergent, telles\ndes dragons.
+MID_EV12_030_m01_002: Sur ces terres à l'histoire turbulente,\nune guerre éclata, il y a cinq-cents ans...
+MID_EV12_030_m01_003: Donnant lieu à la plus grande bataille navale de\nl'histoire de ce continent. Vous avez deviné de\nquoi il s'agit, je parie !
+MID_EV12_030_m01_004: En l'an 875, le roi Arago le Juste décida de\nrétablir l'ordre dans la mer du nord-ouest.
+MID_EV12_030_m01_005: Il confia au général Gisco le commandement des\nnavires de guerre de l'empire et l'envoya attaquer\nl'archipel.
+MID_EV12_030_m01_006: Les sept clans de Brigid s'allièrent et opposèrent\nune résistance farouche ! La mer elle-même\ndevint un champ de bataille !
+MID_EV12_030_m01_007: Dans la division est, Alexandra et ses Chevaliers\nd'Argent de Tellus représenteront l'armée du général\nGisco !
+MID_EV12_030_m01_008: Dans la division ouest, la reine Theodora et ses\nindomptables alliés jouent le rôle des champions\nde Brigid !
+MID_EV12_030_m01_009: Accrochez-vous à vos sièges, chers spectateurs,\ncar une bataille épique va commencer !
+MID_EV12_030_m01_010: Vous avez vu ? Une mer ! Ils ont fait une mer\ndans l'arène !
+MID_EV12_030_m01_011: Regardez, cheffe, ils ont rempli l'arène comme une\nbaignoire ! Ils ont même mis des vrais bateaux !
+MID_EV12_030_m01_012: Ouah ! C'est... Toute cette eau ! L'intérieur\ndu Colisée est un océan !
+MID_EV12_030_m01_013: Ça, ça m'en bouche un coin ! Je savais pas\nqu'on pouvait faire ça dans le Colisée !
+MID_EV12_030_m01_014: Du calme, Tobias. L'échelle est impressionnante,\nmais en fin de compte, ça reste un décor.
+MID_EV12_030_m01_015: ...
+MID_EV12_030_m01_016: L'heure de livrer bataille est proche et vous êtes\nplongé dans vos pensées. Dois-je m'inquiéter ?
+MID_EV12_030_m01_017: Non. Je me disais que sur ce continent, mon destin\nsemble lié à la mer.
+MID_EV12_030_m01_018: C'est la mer qui vous a amené ici. La mer qui a\nsauvé cette fille.
+MID_EV12_030_m01_019: Et voilà que dans ces jeux, la mer est notre\nchamp de bataille.
+MID_EV12_030_m01_020: Notre adversaire est une chevaleresse ailée.\nIl y a de quoi se poser des questions...
+MID_EV12_030_m01_021: Sur ces bateaux, nous serons en équilibre précaire\net notre progression en sera ralentie.
+MID_EV12_030_m01_022: L'ennemi, bien sûr, n'aura pas ce problème,\npuisqu'il vole.
+MID_EV12_030_m01_023: Bah, nos archers s'en chargeront. Une flèche et\nc'en est fini de cette chevaleresse volante.
+MID_EV12_030_m01_024: Ce ne sera pas si simple, Tobias. Regarde le bouclier\nde cette jeune femme.
+MID_EV12_030_m01_025: Beau matos. Il a dû coûter bonbon.
+MID_EV12_030_m01_026: C'est le bouclier de Zephyrus, un artéfact\nde Smyrnos, le Magicien Savant.
+MID_EV12_030_m01_027: Il paraît que Zephyrus peut invoquer le vent,\net freiner les flèches.
+MID_EV12_030_m01_028: Les artéfacts... L'équivalent des armes sacrées\nde Fódlan, si je me souviens bien.
+MID_EV12_030_m01_029: Inutile de m'étendre sur la puissance de cet objet.
+MID_EV12_030_m01_030: Donc, elle pourrait être vulnérable aux flèches, mais\nson bouclier résout le problème. C'est pas gagné.
+MID_EV12_030_m01_031: Vous voulez dire que cette fille a aucun point faible ?\nOn va s'amuser, tiens.
+MID_EV12_030_m01_032: Elle paraît... invincible ? Voilà qui est fort inquiétant.
+MID_EV12_030_m01_033: Tout est prévu pour avantager notre adversaire.\nElle bénéficie même d'un artéfact.
+MID_EV12_030_m01_034: Mais c'est scandaleux, ce favoritisme !\nEt tellement flagrant. J'ai jamais vu ça !
+MID_EV12_030_m01_035: Ce ne sera pas facile, mais je n'aurai de repos avant\nd'avoir triomphé.
+MID_EV12_030_m01_036: Une fois la victoire obtenue, nous traquerons\nle véritable responsable.
+MID_EV12_030_m01_037: Oh, excellente idée ! Comptez sur moi !
+MID_EV12_030_m01_038: Vous nous aiderez aussi, n'est-ce pas, Dietrich ?
+MID_EV12_030_m01_039: Mes actions ne sont pas dictées par les circonstances.\nQuiconque m'affronte mourra.
+MID_EV12_030_m01_040: Argh...
+MID_EV12_030_m01_041: Cheffe ? Tout va bien ?
+MID_EV12_030_m01_042: Oui... Ce n'est rien. Je vais bien... pour l'instant.
+MID_EV12_031_m01: <EDH>
+MID_EV12_031_m01_001: ...
+MID_EV12_031_m01_002: Ce combat a l'air de te passionner.
+MID_EV12_031_m01_003: J'ai donné le baiser des Limbes à cet homme.
+MID_EV12_031_m01_004: Indéniablement. Je l'ai vu de mes propres yeux.
+MID_EV12_031_m01_005: Et pourtant, il est là, agissant de sa propre volonté.
+MID_EV12_031_m01_006: Jamais mon charme n'avait échoué, jamais.\nC'est la première fois.
+MID_EV12_031_m01_007: Toutes ces années à me faire passer pour une vieille\nfemme auraient-elles flétri mon corps et mon âme ?
+MID_EV12_031_m01_008: Il me faut son corps. Telle est la volonté de\nnotre père !
+MID_EV12_031_m01_009: Vraiment, ma sœur ? Ne serait-ce pas plutôt\nla tienne ? Ce désir ne serait-il pas le tien ?
+MID_EV12_031_m01_010: C'est absurde !
+MID_EV12_031_m01_011: Tu ne t'en es même pas rendue compte ? J'ai vu\nta façon de le regarder.
+MID_EV12_031_m01_012: Contrairement à toi, je connais bien cette émotion.\nC'est de l'amour.
+MID_EV12_031_m01_013: C'est fascinant que tu ne l'aies pas compris.
+MID_EV12_031_m01_014: Ironique, n'est-ce pas ? C'est toi qui lui a donné le\nbaiser des Limbes, mais c'est ton cœur qui a été volé.
+MID_EV12_031_m01_015: Impossible ! Impensable ! Je ne suis pas comme\nYu Phas ! Je n'ai rien à voir avec elle !
+MID_EV12_031_m01_016: Notre dévotion envers notre père est absolue !\nCe que tu sous-entends est... intolérable.
+MID_EV12_031_m01_017: Ma chère sœur... l'amour est une maladie.\nTu l'attrapes sans y prendre gare et c'en est\nfini de ton cœur.
+MID_EV12_031_m01_018: Tsk.
+MID_EV12_031_m01_019: C'est par bonté d'âme que je te dis ça. Contrairement\nà notre chère Eishet, je ne renie pas l'amour.
+MID_EV12_031_m01_020: Mahna, tu... Impossible...
+MID_EV12_031_m01_021: Oh, si. J'ai aimé. J'ai même eu un enfant.
+MID_EV12_031_m01_022: Tout est venu d'un stratagème que j'avais ourdi...\ndans l'intérêt de Père, bien sûr.
+MID_EV12_031_m01_023: Tu dois te montrer prudente. Ne fais pas la même\nerreur que moi.
+MID_EV12_031_m01_024: Si tu laisses tes émotions te submerger et perds\nde vue ton objectif... tu le regretteras amèrement.
+MID_EV12_031_m01_025: Je le sais. Nous avons tellement sacrifié pour\natteindre notre but.
+MID_EV12_031_m01_026: Surtout toi, ma sœur, qui portes en toi le diadème\nde l'idolâtrie.
+MID_EV12_031_m01_027: Ton rôle est essentiel pour notre objectif :\nramener Père à la vie.
+MID_EV12_032_m01: <EDH>
+MID_EV12_032_m01_001: Bien joué, tout le monde ! C'est pas passé loin,\nmais on a gagné et c'est tout ce qui compte.
+MID_EV12_032_m01_002: Où est passée la reine ? Je l'ai même pas vu filer !
+MID_EV12_032_m01_003: Elle et son entourage se sont retirés à l'écart.\nLa situation semble grave.
+MID_EV12_032_m01_004: Vous m'avez tous impressionnée. J'avais jamais vu\nune magie pareille, et cette épée... bizarre...
+MID_EV12_032_m01_005: Vous pouvez me dire comment acquérir\nun arsenal pareil ?
+MID_EV12_032_m01_006: Hélas, mes pouvoirs ne sont pas à la portée\nde n'importe qui.
+MID_EV12_032_m01_007: Et on pourrait en dire autant de l'épée. Rares sont\nceux qui pourraient la manier... Encore que...
+MID_EV12_032_m01_008: Je n'exclus pas que vous en fassiez partie.\nVotre pouvoir me rappelle l'emblème de\nDominic, en Fódlan.
+MID_EV12_032_m01_009: Euh, je tenais à vous remercier de m'avoir aidée,\ndans l'arène.
+MID_EV12_032_m01_010: Vous devriez peut-être pas être debout. J'apprécie\nvos remerciements, mais ça aurait pu attendre.
+MID_EV12_032_m01_011: Il a dû se passer quelque chose...
+MID_EV12_032_m01_012: Tout ce qui s'est passé... était l'idée de mon oncle.
+MID_EV12_032_m01_013: Il voulait que je remporte les jeux en me couvrant\nde gloire afin de pouvoir me marier à un noble\nde son choix.
+MID_EV12_032_m01_014: Pour tout vous dire, je savais très bien ce qu'il faisait.
+MID_EV12_032_m01_015: Je pensais lui être redevable de s'être occupé de moi.\nC'est pourquoi je faisais ce qu'il me demandait.
+MID_EV12_032_m01_016: Mais je viens de discuter avec lui... Il m'a dit\nqu'en perdant, j'avais réduit tous ses efforts\nà néant.
+MID_EV12_032_m01_017: Hm. Je savais bien que quelque chose ne tournait\npas rond. Je suis désolée. C'est horrible.
+MID_EV12_032_m01_018: Pourquoi lui être redevable ? Il vous a mis\ndans une sale situation. C'est pas juste !
+MID_EV12_032_m01_019: En un sens, c'est une bonne chose. Maintenant,\nje suis enfin prête à quitter la maison de mon oncle.
+MID_EV12_032_m01_020: C'est très libérateur. C'est pourquoi j'ai tenu\nà venir vous remercier.
+MID_EV12_032_m01_021: Trouver la volonté de briser votre cage et de\nvous envoler... C'est beau.
+MID_EV12_032_m01_022: Je prierai pour que vos rêves se réalisent.
+MID_EV12_032_m01_023: Ne vous en faites pas. Avec votre talent, vous\nvous en tirerez toujours.
+MID_EV12_032_m01_024: Mais ne laissez jamais plus un homme profiter\nde vous.
+MID_EV12_032_m01_025: Merci, Leda. Je n'oublierai pas ces paroles,\nni votre gentillesse.
+MID_EV12_032_m01_026: Et bonne chance. Je serai de tout cœur avec vous.
+MID_EV12_032_m01_027: Elle essaie de faire bonne figure, mais je sais bien\nqu'elle est secouée.
+MID_EV12_032_m01_028: Une jeune femme comme elle mérite d'être heureuse.\nJ'aimerais trouver un moyen de l'aider.
+MID_EV12_032_m01_029: Je suis contente qu'on s'en soit tirés...\nmais je me sens un peu mal à l'aise.
+MID_EV12_032_m01_030: Je vous ai rarement vue ainsi. Qu'est-ce qui\nvous préoccupe ?
+MID_EV12_032_m01_031: Ben, regardez Alexandra ! Et pas qu'elle : Leda,\nTheodora, Mikaela... c'est partout pareil !
+MID_EV12_032_m01_032: Je suis entouré de femmes géniales. Il y a de quoi\nêtre jalouse !
+MID_EV12_032_m01_033: Croyez-moi, vous êtes un diamant à l'état brut.
+MID_EV12_032_m01_034: Un petit polissage et vous aurez toute l'attention\nque vous souhaitez et bien plus.
+MID_EV12_032_m01_035: Et justement, voici la crème de beauté que je vous\nai promis avant le combat.
+MID_EV12_032_m01_036: Merci, Leda ! Me voilà prête à fleurir !
+MID_EV12_032_m01_037: Hé hé hé... Bon, eh bien... je crois qu'il est temps\npour nous d'y aller.
+MID_EV12_033_m01: <EDH>
+MID_EV12_033_m01_001: Je comprends l'intérêt de parfaire votre apparence,\nmais perfectionner votre esprit vous serait encore\nplus profitable.
+MID_EV12_033_m01_002: Facile à dire pour vous ! Vous croyez que j'ai eu\nle temps d'étudier ? D'apprendre les bonnes\nmanières ? C'est pas si simple !
+MID_EV12_033_m01_003: Moi qui croyais que vous commenciez à ressembler\nà un être humain...
+MID_EV12_033_m01_004: Attendez un peu ! Vous voulez dire que pour vous\nj'étais même pas humaine ?
+MID_EV12_033_m01_005: Bon, je me doutais que vous m'aimiez pas trop...\nmais à ce point-là ?!
+MID_EV12_033_m01_006: Eh bien, tout ce qui vit est mû par des instincts.\nMais ce sont les animaux qui se laissent dominer\npar eux.
+MID_EV12_033_m01_007: Pour le bon fonctionnement de la société, il est\nindispensable de couvrir les instincts du voile\nde la raison.
+MID_EV12_033_m01_008: Ce comportement peut être observé jusque chez\ncertains animaux qui vivent en groupe.
+MID_EV12_033_m01_009: Des sentiments négatifs tels que la jalousie, l'envie,\nla concupiscence existent en nous, je le concède.
+MID_EV12_033_m01_010: Mais par la discipline, nous pouvons nous en\ndébarrasser et nous élever. Voilà qui est sublime\net véritablement humain.
+MID_EV12_033_m01_011: Mais je sens que vos motivations sont pures.\nC'est pourquoi je vous propose de mettre fin\nà cette querelle.
+MID_EV12_033_m01_012: La concupi... quoi ? Qu'est-ce que ça veut dire ?\nTu parles d'une explication, je comprends rien !
+MID_EV12_033_m01_013: Je vous faisais un compliment.
+MID_EV12_033_m01_014: Argh...
+MID_EV12_033_m01_015: Esmeralda, moi non plus, je n'ai pas fait d'études.\nEt parfois, ça me pose des problèmes.
+MID_EV12_033_m01_016: C'est pour ça que je veux que ma fille en fasse.\nPour qu'elle ne subisse pas ça.
+MID_EV12_033_m01_017: Ce que je veux dire c'est que... ça sera peut-être\npas très drôle...
+MID_EV12_033_m01_018: Mais tu as beaucoup à apprendre de Fabio. Il sait\nénormément de choses sur le monde.
+MID_EV12_033_m01_019: Je crois que c'est la personne la plus intelligente\nque j'aie rencontrée.
+MID_EV12_033_m01_020: J'aimerais pouvoir dire le contraire, mais...
+MID_EV12_033_m01_021: Ha ha ha.
+MID_EV12_033_m01_022: Chaton ? Je t'ai entendu rire ? Tu as ri ! Et même\nsouri un peu.
+MID_EV12_033_m01_023: Maintenant que tu le dis... oui. C'est possible.
+MID_EV12_033_m01_024: Pff... Hmm...
+MID_EV12_033_m01_025: {SetColor=Gray}Je n'arrive toujours pas à les considérer\ncomme des humains.{SetColor=Default}
+MID_EV12_033_m01_026: {SetColor=Gray}Oubliant la grandeur de leurs ancêtres, ils persistent\nà dépendre d'une déesse qui est leur ennemie.{SetColor=Default}
+MID_EV12_033_m01_027: {SetColor=Gray}Ils se battent pour des miettes dans une cage\nde mensonges.{SetColor=Default}
+MID_EV12_033_m01_028: {SetColor=Gray}Comment voir autre chose en eux que\ndes animaux ?{SetColor=Default}

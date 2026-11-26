@@ -1,0 +1,421 @@
+﻿MID_Shop_Weapon: Arsenal
+MID_Shop_Tool: Laden
+MID_Shop_Blacksmith: Schmied
+MID_Shop_Market: Marktplatz
+MID_Shop_Drink: Getränkehändler
+MID_Shop_Legion: Transportoffizier
+MID_Shop_Trader: Händler
+MID_Shop_Talimun: Handelsg. Vandahl
+MID_Shop_Anna: Annas Laden
+MID_Shop_Bill: Lizenzverkäufer
+MID_Shop_Bazaar: Marktplatz
+MID_DiningMenu_Recipe_Meat01: Ziegenbraten
+MID_DiningMenu_Recipe_Meat01_Help: Gewürztes und perfekt gegrilltes\nZiegenfleisch. Herzhaft und saftig,\nmit köstlichem Kräuteraroma.
+MID_DiningMenu_Recipe_Meat02: Schinken mit Salzkruste
+MID_DiningMenu_Recipe_Meat02_Help: Sandwildschweinfleisch, mit Stein-\nsalz eingerieben und geräuchert. Riecht\nund schmeckt unwiderstehlich.
+MID_DiningMenu_Recipe_Meat03: Keiler-Bohnen-Eintopf
+MID_DiningMenu_Recipe_Meat03_Help: Eintopf aus bitteren Bohnen und\nzartem Sandwildschweinfleisch, die\ngeschmacklich perfekt harmonieren.
+MID_DiningMenu_Recipe_Meat04: Süß-saure Stabschrecken
+MID_DiningMenu_Recipe_Meat04_Help: Knusprig frittierte Stabschrecken.\nIhr Fleisch gilt in Saramis als echte\nDelikatesse.
+MID_DiningMenu_Recipe_Fish01: Knoblauch-Jakobsmuscheln
+MID_DiningMenu_Recipe_Fish01_Help: Mit Fett bestrichen und über\nHolzkohle gegrillt. Das Beste aus\nLand und Meer.
+MID_DiningMenu_Recipe_Fish02: Fischsoßensuppe
+MID_DiningMenu_Recipe_Fish02_Help: Meeresfrüchte in einer herzhaften\nBrühe, garniert mit Fischsauce.\nKöstlich bis zum letzten Löffel.
+MID_DiningMenu_Recipe_Fish03: Gegrillter Fisch
+MID_DiningMenu_Recipe_Fish03_Help: Der Klassiker: Frischer Fisch,\ngegrillt über Holzkohle. Sogar die\nInnereien sind ein wahrer Genuss.
+MID_DiningMenu_Recipe_Fish04: Krebse mit Käsegarnitur
+MID_DiningMenu_Recipe_Fish04_Help: Große Flusskrebse, garniert mit\nKäse und gegrillt. Ein aromatisches\nund auch farbenfrohes Gericht.
+MID_DiningMenu_Recipe_Vegee01: Honig-Birne
+MID_DiningMenu_Recipe_Vegee01_Help: Süße, saftige Birnen, in Honig\ngekocht. Ein unvergleichliches\nkulinarisches Erlebnis.
+MID_DiningMenu_Recipe_Vegee02: Madazinen
+MID_DiningMenu_Recipe_Vegee02_Help: Frittierte Brötchen aus zu Bakul-\nTeig geknetetem Gemüse. Perfekt\ngeeignet als Zwischenmahlzeit.
+MID_DiningMenu_Recipe_Vegee03: Kaffeebeerenbrei
+MID_DiningMenu_Recipe_Vegee03_Help: Ein süßes und leichtes Püree aus\nKaffeebeeren, das zum Verfeinern\nverschiedener Speisen dient.
+MID_DiningMenu_Recipe_Vegee04: Kürbissuppe
+MID_DiningMenu_Recipe_Vegee04_Help: Herzhafte Gemüsesuppe, serviert\nin einem ausgehöhlten Kürbis, mit\nwürzig-süßem Geschmack.
+MID_ThermaeMenu_Spring01: Heißes Bad
+MID_ThermaeMenu_Spring01_Help: Ein sehr heißes und durchblutungs-\nförderndes Bad. Gewährt Fertig-\nkeiten wie Stä.- und Krit.-Effekt.
+MID_ThermaeMenu_Spring02: Erfrischendes Bad
+MID_ThermaeMenu_Spring02_Help: Ein wohltemperiertes Bad.\nGewährt Fertigkeiten wie\nGes.-Effekt und Aw.-Effekt.
+MID_ThermaeMenu_Spring03: Heilendes Bad
+MID_ThermaeMenu_Spring03_Help: Ein Kräuterbad, das den Körper\npflegt. Gewährt Fertigkeiten wie\nFig.-Effekt und Zorn.
+MID_ThermaeMenu_Spring04: Blumenbad
+MID_ThermaeMenu_Spring04_Help: Ein mit Blumenblüten versetztes\nBad. Gewährt Fertigkeiten wie\nHeil-Effekt und Mag.-Effekt.
+MID_ThermaeMenu_SpringA01: Rubinbad
+MID_ThermaeMenu_SpringA01_Help: Ein belebendes, mit Rubinpulver\nversetztes Bad. Gewährt Fertigkei-\nten wie Stä.- und Technik-Effekt.
+MID_ThermaeMenu_SpringA02: Goldbad
+MID_ThermaeMenu_SpringA02_Help: Ein Bad mit goldglänzendem\nSchaum. Gewährt Fertigkeiten wie\nAw.-Effekt und Revitalisieren.
+MID_ThermaeMenu_SpringA03: Jadebad
+MID_ThermaeMenu_SpringA03_Help: Ein belebendes, reinigendes Bad in\neiner Jadewanne. Gewährt Fertig-\nkeiten wie Trf.-Effekt und Zorn.
+MID_ThermaeMenu_SpringA04: Adamantbad
+MID_ThermaeMenu_SpringA04_Help: Ein Bad mit Wasser aus tiefsten\nErdschichten. Gewährt Fertigkeiten\nwie Krit.-Effekt und Verwegenheit.
+MID_ThermaeMenu_SpringB01: Brisenbad
+MID_ThermaeMenu_SpringB01_Help: Ein Bad mit Früchten, die den\nKörper kühlen. Gewährt Fertig-\nkeiten wie Ges.- und Aw.-Effekt.
+MID_ThermaeMenu_SpringB02: Baum-des-Lebens-Bad
+MID_ThermaeMenu_SpringB02_Help: Ein mit Rinde angereichertes, näh-\nrendes Bad. Gewährt Fertigk. wie\nFolge-Effekt und Revitalisieren.
+MID_ThermaeMenu_SpringB03: Vulkanbad
+MID_ThermaeMenu_SpringB03_Help: Ein Bad mit Vulkansteinen. Erhöht\nden Kampfgeist. Gewährt Fertigk.\nwie Krit.-Effekt und Verwegenheit.
+MID_ThermaeMenu_SpringB04: Vollmond-Bad
+MID_ThermaeMenu_SpringB04_Help: Ein heiliges Bad, gesegnet in einer\nVollmondnacht. Gewährt Fertig-\nkeiten wie Stä.- und Beh.-Effekt.
+MID_ThermaeMenu_Special01: Riesenbad
+MID_ThermaeMenu_Special01_Help: Wasser aus der heißen Quelle\ndes Atla. Gewährt Fertigkeiten wie\nStä.-Effekt+ und Krit.-Effekt+.
+MID_ThermaeMenu_Special02: Einhornbad
+MID_ThermaeMenu_Special02_Help: Wasser aus einer Quelle am Orgus, beliebt\nbei magischen Tieren. Gewährt Fertigk.\nwie Ges.-Effekt+ und Aw.-Effekt+.
+MID_ThermaeMenu_Special03: Meerestyrannenbad
+MID_ThermaeMenu_Special03_Help: Wasser aus einer heißen Quelle im\nMeer Lir. Gewährt Fertigkeiten\nwie KP-Effekt+ und Ver.-Effekt+.
+MID_ThermaeMenu_Special04: Harpyienbad
+MID_ThermaeMenu_Special04_Help: Wasser aus einer heißen Quelle des\nBerges Ouranos. Gewährt Fertigk.\nwie Heil-Effekt+ und Mag.-Effekt+.
+MID_VolunteerMenu_Pray: Tempel reinigen
+MID_VolunteerMenu_Pray_Help: Dienst im Tempel der Aurora. Meditation und\ngewissenhaftes Läutern des Tempels wird mit\nder Gunst der Göttin belohnt.
+MID_VolunteerMenu_Guard: Tempel bewachen
+MID_VolunteerMenu_Guard_Help: Dienst im Tempel des Mars. Jegliche Hilfe bei\nder Bewachung des Tempels ist willkommen und\nsoll die Gunst des Gottes bescheren.
+MID_VolunteerMenu_Caring: Katzen pflegen
+MID_VolunteerMenu_Caring_Help: Dienst im Tempel des Smyrnos. Jene, die sich\num die Katzen im Tempel kümmern, sollen die\nGunst des Gottes erhalten.
+MID_VolunteerMenu_Library: Schriften sortieren
+MID_VolunteerMenu_Library_Help: Dienst im Tempel der Jurah. Wer Hilfe bei der\nKatalogisierung gesammelter Schriften leistet,\nwird mit der Gunst der Göttin belohnt.
+MID_VolunteerMenu_Song: Hymnen singen
+MID_VolunteerMenu_Song_Help: Dienst im Tempel der Kalla. Eine stimmkräftige\nUnterstützung des Tempelchors wird mit der\nGunst der Göttin belohnt.
+MID_VolunteerMenu_Statue: Statuen sanieren
+MID_VolunteerMenu_Statue_Help: Dienst im Tempel des Credna. Die Herstellung\nund Restaurierung von Tempelstatuen sollen die\nGunst des Gottes bescheren.
+MID_TrainingMenu_Training01: Infanterietraining
+MID_TrainingMenu_Training01_Help: Grundlegende Kampftechniken\nfür Infanteristen. Schwerpunkte:\nSchwerter, Bögen, Infanteriefähigk.
+MID_TrainingMenu_Training02: Kriegertraining
+MID_TrainingMenu_Training02_Help: Kämpfen wie ein Gladiator.\nSchwerpunkte: Schwerter, Äxte,\nFäuste.
+MID_TrainingMenu_Training03: Rüstungstraining
+MID_TrainingMenu_Training03_Help: Kampfwissen für schwer Gepan-\nzerte. Schwerpunkte: Lanzen,\nÄxte, Autorität, schwere Rüstung.
+MID_TrainingMenu_Training04: Magiertraining
+MID_TrainingMenu_Training04_Help: Verbessert Angriffs- und Heilmagie.\nSchwerpunkte: Schwarzmagie,\nWeißmagie, Autorität.
+MID_TrainingMenu_Training05: Reittraining
+MID_TrainingMenu_Training05_Help: Kampfwissen für Berittene.\nSchwerpunkte: Lanzen,\nAutorität, Reiten, Fliegen.
+MID_TrainingMenu_TrainingP3_01: Infanterietraining+
+MID_TrainingMenu_TrainingP3_01_Help: Fortgeschrittene Kampftechniken\nfür Infanteristen. Schwerpunkte:\nSchwerter, Bögen, Infanteriefähigk.
+MID_TrainingMenu_TrainingP3_02: Kriegertraining+
+MID_TrainingMenu_TrainingP3_02_Help: Vermittelt Wissen kampferprobter\nGladiatoren. Schwerpunkte:\nSchwerter, Äxte, Fäuste.
+MID_TrainingMenu_TrainingP3_03: Rüstungstraining+
+MID_TrainingMenu_TrainingP3_03_Help: Erweiterte Techniken für schwer\nGepanzerte. Schwerpunkte: Lanzen,\nÄxte, Autorität, schwere Rüstung.
+MID_TrainingMenu_TrainingP3_04: Magiertraining+
+MID_TrainingMenu_TrainingP3_04_Help: Fortgeschrittenes Magiewissen.\nSchwerpunkte: Schwarzmagie,\nWeißmagie, Autorität.
+MID_TrainingMenu_TrainingP3_05: Reittraining+
+MID_TrainingMenu_TrainingP3_05_Help: Zusatzlektionen für Berittene und\nFlieger. Schwerpunkte: Lanzen,\nAutorität, Reiten und Fliegen.
+MID_WatchMenu_WD11_05: 
+MID_WatchMenu_WD11_05_Help: 
+MID_WatchMenu_WD13_04: Qualifikation: Vergessener Alcor
+MID_WatchMenu_WD13_04_Help: Heute kämpft der Clan\nVergessener Alcor gegen andere\nClans. Sieh in der Arena zu.
+MID_WatchMenu_WD11_06: Qualifikation: Donnerwolken-Ritter
+MID_WatchMenu_WD11_06_Help: Heute kämpft der Clan Donner-\nwolken-Ritter gegen andere Clans.\nSieh in der Arena zu.
+MID_WatchMenu_WD14_06: Qualifikation: Regen von Palma
+MID_WatchMenu_WD14_06_Help: Heute kämpft der Clan Regen von\nPalma gegen andere Clans. Sieh in\nder Arena zu.
+MID_WatchMenu_WD12_09: 
+MID_WatchMenu_WD12_09_Help: 
+MID_WatchMenu_WD12_10: Qualifikation: Zwillingsjuwele von Arago
+MID_WatchMenu_WD12_10_Help: Heute kämpft die Arago-Armee\ngegen andere Clans. Sieh in der\nArena zu.
+MID_WatchMenu_WD11_09: Qualifikation: Bragança-Bruderschaft
+MID_WatchMenu_WD11_09_Help: Heute kämpft die Bragança-\nBruderschaft gegen andere Clans.\nSieh in der Arena zu.
+MID_WatchMenu_WD15_11: Schaukampf: Weißmähniger Dämon vs. Schnitter
+MID_WatchMenu_WD15_11_Help: Heute ist der Schaukampf des\nWeißmähnigen Dämons vs. den\nSchnitter. Sieh in der Arena zu.
+MID_WatchMenu_WD11_10: Hauptkampf: Cai vs. Leda
+MID_WatchMenu_WD11_10_Help: Heute ist der Kampf zwischen den\nClans Wind von Ribeira und Sturm\nder Rosen. Sieh in der Arena zu.
+MID_WatchMenu_WD13_11: Hauptkampf: Theodora vs. Talimun
+MID_WatchMenu_WD13_11_Help: Heute ist der Kampf zwischen den\nClans Leuchtfeuer von Megaira und\nTalimuns Recken. Sieh in der Arena zu.
+MID_WatchMenu_WD15_13: Hauptkampf: Bertrand vs. Orchel
+MID_WatchMenu_WD15_13_Help: Heute ist der Kampf zwischen den\nClans Flammenmähne und Linarias\nim Morgentau. Sieh in der Arena zu.
+MID_WatchMenu_WD12_15: Hauptkampf: Dietrich vs. Anatolia
+MID_WatchMenu_WD12_15_Help: Heute ist der Kampf zwischen den Clans\nHaus Lamine und Brautgesellschaft des\nFahlen Raben. Sieh in der Arena zu.
+MID_WatchMenu_WD13_12: Halbfinale: Cai vs. Theodora
+MID_WatchMenu_WD13_12_Help: Heute ist der Kampf zwischen den\nClans Wind von Ribeira und Leucht-\nfeuer von Megaira. Sieh in der Arena zu.
+MID_WatchMenu_WD12_16: Halbfinale: Dietrich vs. Bertrand
+MID_WatchMenu_WD12_16_Help: Heute ist der Kampf zwischen den\nClans Haus Lamine und Flammen-\nmähne. Sieh in der Arena zu.
+MID_WatchMenu_BD15_08: 
+MID_WatchMenu_BD15_08_Help: 
+MID_WatchMenu_WD15_09: Privater Kampf: Weißmähniger Dämon vs. Yanjin
+MID_WatchMenu_WD15_09_Help: Heute ist der private Kampf zwi-\nschen dem Weißmähnigen Dämon\nund Yanjin. Sieh im Kristallpalast zu.
+MID_Lesson_Title_Explanation1: Kampfgrundlagen
+MID_Lesson_Detail_Explanation1: Cai, ich habe lange für die Sicherheit von Aurora\nund für den Frieden in Dagsion gekämpft. Es ist an\nder Zeit, dich mental für den Kampf zu stärken.
+MID_Lesson_Title_Explanation2: Geländetipps
+MID_Lesson_Detail_Explanation2: Es gibt vieles, das ich dir beibringen wollte, aber uns\nfehlte einfach die Zeit. Als Gefangener kann ich mit\ndir zwar nicht trainieren, aber ich kann dir noch\nimmer was erklären – also sperr deine Lauscher auf!
+MID_Lesson_Title_Explanation3: Verletzungen vorbeugen
+MID_Lesson_Detail_Explanation3: Du bist deinem Vater so ähnlich, Cai, und im Kampf\nvermutlich genauso waghalsig wie er. Ich könnte es\nnicht ertragen, wenn du dich verletzt, also lass mich\ndir ein paar Ratschläge mit auf den Weg geben.
+MID_Lesson_Title_Practice1: Kenne deinen Feind
+MID_Lesson_Detail_Practice1: Die Welt ist groß, und du wirst den verschiedensten\nGegnern und Kampfstilen begegnen, doch mit den\nrichtigen Techniken kannst du sie besiegen. Ich habe\neinige Freunde gebeten, dir beim Üben zu helfen.
+MID_Lesson_Title_Practice2: Kampf gegen große Gegner
+MID_Lesson_Detail_Practice2: Früher oder später wirst du einigen großen Feinden\nwie Riesen oder Kriegselefanten gegenübertreten.\nDamit du nicht gleich in Panik gerätst, werden wir\neine solche Situation in einem Kampf durchspielen.
+MID_Lesson_Title_Subjugation1: Auftrag von Paps
+MID_Lesson_Detail_Subjugation1: Ich habe eine Bitte an dich, die sich hervorragend\nals Trainingslektion eignet. Sobald du sie erfüllt hast,\nwerde ich es einrichten, dass du ein Examen für eine\nneue Klasse ablegen darfst.
+MID_Lesson_Title_Subjugation2: Auftrag von Ma
+MID_Lesson_Detail_Subjugation2: Wenn du meiner Bitte nachkommst, will ich ein\ngutes Wort bei den Tempeln für dich einlegen und\ndir ermöglichen, ein Examen für eine neue Klasse\nabzulegen.
+MID_Lesson_Title_Subjugation3: Auftrag vom Weißmähnigen Dämon
+MID_Lesson_Detail_Subjugation3: Dein Kampfstil ist sehr praxisnah. Ich vermute, du\nhast ihn von deinem Mentor gelernt. Daher solltest\ndu auch praktisches Training erhalten. Gib dein\nBestes und erfülle meine Bitte.
+MID_Access_Common: Untersuchen
+MID_Access_ExitPos: Verlassen
+MID_Access_AreaChange: Fortschreiten
+MID_Access_DngBanquet: Rast
+MID_Access_Question: ???
+MID_Access_Spire: Schrein der Kausalität
+MID_Access_Goto_KAI_steeple: Fuchs-Obelisk
+MID_Access_Goto_DIT_steeple: Löwen-Obelisk
+MID_Access_Goto_SEO_steeple: Wolf-Obelisk
+MID_Access_Goto_LED_steeple: Adler-Obelisk
+MID_Access_Goto_BEL_steeple: 
+MID_Access_Goto_TAL_steeple: 
+MID_Access_Goto_ORH_steeple: 
+MID_Access_Goto_ANH_steeple: 
+MID_Access_Goto_2_steeple: Konflikt-Obelisk
+MID_Access_Goto_3_steeple: Schicksalstor
+MID_Access_GodlyPortal: Pforte der Götter
+MID_Access_ExPortal: Teleport-Vorrichtung
+MID_Access_QuestBoard: Schwarzes Brett
+MID_Access_Bird: Sitz
+MID_Access_Goto_Temple_Aurora: Tempel der Aurora
+MID_Access_Goto_Temple_Jura: Tempel der Jurah
+MID_Access_Goto_Temple_Mars: Tempel des Mars
+MID_Access_Goto_Temple_Smyrnos: Tempel des Smyrnos
+MID_Access_Goto_Temple_Claire: Tempel des Credna
+MID_Access_Goto_Temple_Soleil: Tempel des Solel
+MID_Access_Goto_AutomatonCorridor: 
+MID_Access_Goto_Temple_Carla: Tempel der Kalla
+MID_Access_Goto_Temple_YuPhas: Tempel der Yu Phas
+MID_Access_Goto_Sewar: Kanalisation
+MID_Access_Goto_Shop_Bar: Gasthaus
+MID_Access_Goto_Guest_Salamis: Gästehaus der Saramiser
+MID_Access_Goto_ArenaUnderground: Untergrund der Arena
+MID_Access_Goto_Temple_YuPhasGarden: Garten
+MID_Access_Goto_Garden_Aurora: Auroras Garten
+MID_Access_Goto_Boudoir: Auroras Gemächer
+MID_Access_Goto_BackRoad: Nebenstraßen
+MID_Access_Goto_UrbanArea: Stadtstraßen
+MID_Access_Goto_UpperLayer: Oberstadt
+MID_Access_Goto_MiddleLayer: Kernstadt
+MID_Access_Goto_UnderLayer: Unterstadt
+MID_Access_Goto_Gmap: Dagsion verlassen
+MID_Access_Goto_Throne: Sergios Gemächer
+MID_Access_Goto_Dng_022_A2: Kammer der Jungfer
+MID_Access_Goto_Dng_022_A3: Kammer des Propheten
+MID_Access_Goto_Dng_022_A4: Kammer des Schülers
+MID_Access_Goto_Dng_022_A5: Kammer der Verzerrung
+MID_Access_Goto_Dng_022_A6: Kammer des Sirius
+MID_Access_Out_Outland: Dorf verlassen
+MID_Access_Out_Town: Stadt verlassen
+MID_Access_Out_Village: Dorf verlassen
+MID_Access_Out_Temple: Tempel verlassen
+MID_Access_Out_Sewar: Kanalisation verlassen
+MID_Access_Out_Shop_Bar: Gasthaus verlassen
+MID_Access_Out_Guest: Gästehaus verlassen
+MID_Access_Goto_TopLayer: Dagsions Gipfel
+MID_Access_Goto_Prison_Lindo: Isolierzelle
+MID_Map_Area_Arena: Arenavorplatz
+MID_Map_Area_Shop: Einkaufsstraße
+MID_Map_Area_Hotel: Stadtstraßen
+MID_Map_Area_Temple_Lower: Unteres Tempelviertel
+MID_Map_Area_Temple_Upper: Oberes Tempelviertel
+MID_Map_Area_Port: Hafen
+MID_Map_Area_Stable: Stall
+MID_Map_Area_Slums: Unterstadt
+MID_Map_Area_Affluent: Oberstadt
+MID_Map_Area__Commercial: Zentrum
+MID_Map_Area_Guest_Salamis: Gästehaus der Saramiser
+MID_Map_Area_Temple_Dagda: Tempel des Dagda
+MID_Map_Area_Arena_Underground: Untergrund der Arena
+MID_Map_Area_Sewar: Kanalisation
+MID_Map_Area_Bar: Gasthaus
+MID_Map_Area_Room_Aurora: Auroras Gemächer
+MID_Map_Area_Garden_Aurora: Auroras Innengarten
+MID_Map_Area_Temple_Jura: Tempel der Jurah
+MID_Map_Area_Temple_Mars: Tempel des Mars
+MID_Map_Area_Temple_Smyrnos: Tempel des Smyrnos
+MID_Map_Area_Temple_YuPhas: Tempel der Yu Phas
+MID_Map_Area_Temple_Carla: Tempel der Kalla
+MID_Map_Area_Temple_Claire: Tempel des Credna
+MID_Map_Area_Temple_Aurora: Tempel der Aurora
+MID_Map_Facility_Shop_Bill: Lizenzverkäufer
+MID_Map_Facility_Shop_Bill_Help: Hier kannst du die Lizenz kaufen, die für ein\nExamen benötigt wird.
+MID_Map_Facility_Shop_Market: Kernstadt-Marktplatz
+MID_Map_Facility_Shop_Market_Help: An diesem Ort kannst du wertvolle Geschenke,\nlokale Leckereien und Kunstgegenstände\nerwerben.
+MID_Map_Facility_Shop_Bar: Laden im Gasthaus
+MID_Map_Facility_Shop_Bar_Help: Verkauft Geschenke zu vernünftigen\nPreisen in einer Ecke des Gasthauses.
+MID_Map_Facility_Shop_Weapon: Arsenal
+MID_Map_Facility_Shop_Weapon_Help: Hier finden sich verschiedene Waffen aus\naller Herren Länder.
+MID_Map_Facility_Shop_Tool: Laden
+MID_Map_Facility_Shop_Tool_Help: Bietet alle möglichen Werkzeuge an, die\nauf gefährlichen Abenteuern nützlich sind.
+MID_Map_Facility_Shop_Anna: Annas Laden
+MID_Map_Facility_Shop_Anna_Help: Annas geheimer Laden bietet seltene Items an,\ndie man kaum woanders findet.
+MID_Map_Facility_Subquest_Hotel: Schwarzes Brett (Stadtstraßen)
+MID_Map_Facility_Subquest_Temple: Schwarzes Brett (Tempelviertel)
+MID_Map_Facility_Subquest_Affluent: Schwarzes Brett (Oberstadt)
+MID_Map_Facility_Subquest_Port: Schwarzes Brett (Hafen)
+MID_Map_Facility_Subquest_Help: Hier veröffentlichen Läden und Gilden ihre\nNachrichten. Das Erfüllen ihrer Bitten erhöht\ndie Reputation und bringt auch Belohnungen.
+MID_Map_Facility_LegionShop: Transportoffizier
+MID_Map_Facility_LegionShop_Help: Entsendet Bataillone in Saramis. Belohnt die\nStärkung der Königreich-Verteidigung mit\nnützlichen Items.
+MID_Map_Facility_Blacksmith: Schmied
+MID_Map_Facility_Blacksmith_Help: Repariert beschädigte Waffen oder veredelt sie\nzu stärkeren Exemplaren.
+MID_Map_Facility_Theater: Theater
+MID_Map_Facility_Theater_Help: Zeigt populäre Stücke. Hier können Verbündete\ndie Bande festigen oder sogar aktiv am Stück teil-\nnehmen, wenn die Reputation hoch genug ist.
+MID_Map_Facility_Hotel: Gasthaus (Stadt)
+MID_Map_Facility_Hotel_Help: Hier können Reisende in Dagsion rasten. Teile\nEssen, um Bande zu stärken, oder lass Einheiten\nihre freie Zeit automatisch verbringen.
+MID_Map_Facility_Hotel_2_Help: Unterkunft in der Basis, in der sich Soldaten erholen\nkönnen. Du kannst hier Unterstützungsgespräche\nansehen, aber kein Zimmer mieten oder Essen teilen.
+MID_Map_Facility_Hotel_Slums: Gasthaus (Unterstadt)
+MID_Map_Facility_Hotel_Slums_Help: Hier können vor allem die ärmeren Besucher\nvon Dagsion rasten oder ihre Freizeit genießen\n(automatisch). Mahlzeiten werden keine serviert.
+MID_Map_Facility_Thermae: Therme
+MID_Map_Facility_Thermae_Help: Dagdas bestes öffentliches Bad. Gemeinsames\nPlanschen stärkt die Bande und sorgt für Wohl-\nbefinden von Körper und Geist.
+MID_Map_Facility_Temple_Aurora: Auroras Nebentempel
+MID_Map_Facility_Temple_Claire: Crednas Nebentempel
+MID_Map_Facility_Temple_Carla: Kallas Nebentempel
+MID_Map_Facility_Temple_Smyrnos: Smyrnos’ Nebentempel
+MID_Map_Facility_Temple_Mars: Mars’ Nebentempel
+MID_Map_Facility_Temple_Jura: Jurahs Nebentempel
+MID_Map_Facility_Temple_Help: Ein Heiligtum für Audienzen mit den Göttern.\nDurch Leisten von Diensten können Bande\ngestärkt und Segen erhalten werden.
+MID_Map_Facility_Temple_2_Help: Ein einfacher Schrein für fromme Soldaten, in\ndem man um Segen bitten kann. Für Tempel-\ndienste ist der Entsendungsoffizier zuständig.
+MID_Map_Facility_ClassExaminer: Prüfer
+MID_Map_Facility_ClassExaminer_Help: Hier können Examen abgelegt werden.\nJedes Examen benötigt eine Lizenz des\nentsprechenden Ranges.
+MID_Map_Facility_StableBlock: Stall
+MID_Map_Facility_StableBlock_Help: Hier kannst du dich um die gefangenen Tiere\nkümmern. Stärke deine Bande mit ihnen und\ngib ihnen schöne Namen.
+MID_Map_Facility_Perch_Hotel: Sitz (Stadtstraßen)
+MID_Map_Facility_Perch_Temple: Sitz (Tempelviertel)
+MID_Map_Facility_Perch_Affluent: Sitz (Oberstadt)
+MID_Map_Facility_Perch_Port: Sitz (Hafen)
+MID_Map_Facility_Perch_Underground: Sitz (Untergrund)
+MID_Map_Facility_Perch_Help: Niemand weiß, von wem dieser Sitz gebaut\nwurde – oder wann. Dort sitzt oft ein seltsamer\nweißer Vogel, der besonders freundlich sein soll.
+MID_Map_Facility_Perch_2_Help: Ein Sitz für einen Vogel. Der weiße Vogel er-\nscheint nicht, wenn deine Einheiten unterwegs\nsind. Voraussicht u. Heldentaten sind abrufbar.
+MID_Map_Facility_Firm: Handelsg. Vandahl
+MID_Map_Facility_Firm_Help: Hier können Materialien gehandelt werden. Sie\nbieten einfach alles an, von Gütern des täglichen\nBedarfs bis zu wirklich seltenen Schätzen.
+MID_Map_Facility_TempleWarp: Pforte der Götter
+MID_Map_Facility_TempleWarp_Help: Ein mysteriöses Tor, das einen Haupttempel mit\nseinem Nebentempel verbindet. Die Benutzung\nerfordert die Erlaubnis der jeweiligen Gottheit.
+MID_Map_Facility_Arena: Arena
+MID_Map_Facility_Arena_Help: Die große Arena des Kaiserreichs Dagda. Ein\nheiliger Ort, an dem Gladiatoren Tag und Nacht\nkämpfen. Ein Bereich dient dem Training.
+MID_Map_Facility_Divination: Wahrsagerstand
+MID_Map_Facility_Divination_Help: In Dagsion berühmte Wahrsagerin, sagt mit selt-\nsamen Methoden die Zukunft voraus. Ob man da-\nran glauben will, bleibt jedem selbst überlassen.
+MID_Map_Facility_DitArranger: Anwerber
+MID_Map_Facility_DitArranger_Help: Seltsame Gestalt mit Verbindungen zu fähigen\nKämpfern in Dagda. Gibt ihre Herausforderungs-\nbriefe weiter.
+MID_Map_Facility_SeoProcurement: Vorräte senden
+MID_Map_Facility_SeoProcurement_Help: Hier können Hilfsgüter nach Saramis geschickt\nwerden. Liefert Königin Theodora persönlich, ver-\nbessert sie ihre Reputation und finanziellen Mittel.
+MID_Map_Facility_LedShowman: Gastwirt
+MID_Map_Facility_LedShowman_Help: Ein Darbietungsspezialist, der Ledas Talent\nerkannt hat. Auftritte verschaffen ihr neue\nLieder der Magie und Reisewege.
+MID_Map_Facility_LedDrinkSeller: Getränkehändler
+MID_Map_Facility_LedDrinkSeller_Help: Seine geheimen Mixturen verbessern die Fertig-\nkeiten enorm. Wächst Ledas Reputation, werden\nneue Getränke verfügbar.
+MID_Map_Facility_Revivalist: Gastwirt
+MID_Map_Facility_Revivalist_Help: Ein Darbietungsspezialist, der Ledas Talent\nerkannt hat. Ihre Auftritte sollen dem Publikum\nMut und Hoffnung vermitteln.
+MID_Map_Facility_SortiePlan: Entsendungsoffizier
+MID_Map_Facility_SortiePlan_Help: Überwacht das Training und die Entsendung in\nKriegszeiten. Organisiert auch den Dienst in den\nTempeln.
+MID_Map_Facility_Temple_Main: Tempelrezeption
+MID_Map_Facility_Temple_Main_Help: Hier kann Dienst abgeleistet werden. Jene, die\ngemeinsam Dienst tun, stärken ihr Band und\nihnen werden stärkere Segen gewährt.
+MID_Map_Facility_Shop_Bazaar: Marktplatz
+MID_Map_Facility_Shop_Bazaar_Help: Kleiner Markt, auf dem Händler ihre Waren ver-\nkaufen, die sie in ganz Dagda erstanden haben.\nSie handeln hauptsächlich mit Geschenken.
+MID_AreaTelop_UpperLayer: Oberstadt
+MID_AreaTelop_MiddleLayer: Kernstadt
+MID_AreaTelop_UnderLayer: Unterstadt
+MID_AreaTelop_Guest_Salamis: Gästehaus der Saramiser
+MID_AreaTelop_Guest_Arago: Gästehaus der Aragonier
+MID_AreaTelop_Arena_Underground: Untergrund der Arena
+MID_AreaTelop_Sewar: Kanalisation
+MID_AreaTelop_Shop_Bar: Gasthaus
+MID_AreaTelop_Temple_Jura: Jurahs Nebentempel
+MID_AreaTelop_Temple_Mars: Mars’ Nebentempel
+MID_AreaTelop_Temple_Smyrnos: Smyrnos’ Nebentempel
+MID_AreaTelop_Temple_YuPhas: Yu Phas’ Nebentempel
+MID_AreaTelop_Temple_Carla: Kallas Nebentempel
+MID_AreaTelop_Temple_Claire: Crednas Nebentempel
+MID_AreaTelop_Temple_Aurora: Auroras Nebentempel
+MID_AreaTelop_Obelisk: Gewölbe der Obelisken
+MID_AreaTelop_TopLayer: Gipfel von Dagsion
+MID_AreaTelop_Cydonia: Gouvernement Cydonia
+MID_AreaTelop_Prison: Isolierzelle
+MID_AreaTelop_Garden: Innengarten
+MID_FT_CharacterHelp_Kai: Lebhafter Junge, motiviert durch seine Familienliebe.
+MID_FT_CharacterHelp_Kai1: Junger Mann, motiviert durch seine Familienliebe.
+MID_FT_CharacterHelp_Dit: Fremder Schwertkämpfer, vom Duelldurst getrieben.
+MID_FT_CharacterHelp_Seo: Furchtlose Königin von Saramis.
+MID_FT_CharacterHelp_Led: Verzaubert durch Tanz und Musik gleichermaßen.
+MID_FT_CharacterHelp_Bel: Stolzer Krieger, der für seine Freiheit kämpft.
+MID_FT_CharacterHelp_Tal: Größter Händler Dagdas, mit ehrgeizigem Herzen.
+MID_FT_CharacterHelp_Orh: Starke Dame, deren Äußeres Geheimnisse verbirgt.
+MID_FT_CharacterHelp_Anh: Junge Mediatorin, die für ihr Volk kämpft.
+MID_FT_CharacterHelp_Tia: Mädchen, das über ein breites Wissen verfügt.
+MID_FT_CharacterHelp_Tia1: Junge Frau, die über ein breites Wissen verfügt.
+MID_FT_CharacterHelp_Pet: Junge, der ein meisterhafter Bogenschütze ist.
+MID_FT_CharacterHelp_Pet1: Junger Mann, der ein meisterhafter Bogenschütze ist.
+MID_FT_CharacterHelp_Hur: Freundliche junge Frau, die den Tempeln dient.
+MID_FT_CharacterHelp_Fab: Missionar aus einem fremden Land.
+MID_FT_CharacterHelp_Esm: Frau mit großer Kraft, aus einem Fischerdorf.
+MID_FT_CharacterHelp_Mic: Ehemalige Söldnerin von Ruhm.
+MID_FT_CharacterHelp_Bon: Kluger General aus Saramis.
+MID_FT_CharacterHelp_Tob: Kühner, ungehemmter General aus Saramis.
+MID_FT_CharacterHelp_Lil: Bogenschützin aus Saramis.
+MID_FT_CharacterHelp_Lys: Ritter aus Saramis.
+MID_FT_CharacterHelp_Buc: Erfahrener und extrem loyaler Ritter.
+MID_FT_CharacterHelp_Sci: Frauenheld und Barde aus Leidenschaft.
+MID_FT_CharacterHelp_Moo: Aufrichtiges Mädchen, dem seine Familie alles bedeutet.
+MID_FT_CharacterHelp_Moo1: Aufrichtige Frau, der ihre Familie alles bedeutet.
+MID_FT_CharacterHelp_Oly: Singende Priesterin, bekannt als Blaue Rose von Caelus.
+MID_FT_CharacterHelp_Gat: Im Osten ausgebildeter Krieger.
+MID_FT_CharacterHelp_Jes: Possenreißer in Kriegsbemalung.
+MID_FT_CharacterHelp_Max: Netter junger Mann, der einst ein Possenreißer war.
+MID_FT_CharacterHelp_Gol: Hüne, auch bekannt als der Schlächter.
+MID_FT_CharacterHelp_Dan: Meisterin des Schreibens und unvergleichliche Autorin.
+MID_FT_CharacterHelp_Urs: Geschäftsführerin der Handelsgesellschaft Vandahl.
+MID_FT_CharacterHelp_Sim: Söldner, der dem Tod oft von der Schippe sprang.
+MID_FT_CharacterHelp_Lou: Junges Mitglied der Handelsgesellschaft Vandahl.
+MID_FT_CharacterHelp_Fia: Frau im Schutze der Handelsgesellschaft Vandahl.
+MID_FT_CharacterHelp_Die: Treuer Aufpasser von Orchel.
+MID_FT_CharacterHelp_Lor: Lebhaftes Mädchen, das Orchel dient.
+MID_FT_CharacterHelp_Lor1: Lebhaftes Mädchen, das Orchel anhimmelt.
+MID_FT_CharacterHelp_Set: Reisender, der ganz Dagda bereist.
+MID_FT_CharacterHelp_Nin: Mysteriöses Mädchen, das als Vulkanerin dient.
+MID_FT_CharacterHelp_Sar: Frau mit ruhigem, gelassenem Auftreten.
+MID_FT_CharacterHelp_Naz: Junger Schwertkämpfer, der keinen Kampf scheut.
+MID_FT_CharacterHelp_Dai: Mutiger junger Mann, der sich mit Maschinen auskennt.
+MID_FT_CharacterHelp_Hal: Talentierte Straßenkünstlerin.
+MID_FT_CharacterHelp_Kou: Magier mit beeindruckender Zauberkraft.
+MID_FT_CharacterHelp_Tro: Alte Frau mit großem Wissen und viel Erfahrung.
+MID_FT_CharacterHelp_Guj: Prahlender Söldner, der stets macht, was ihm gefällt.
+MID_FT_CharacterHelp_Ned: Söldnerin aus Saramis.
+MID_FT_CharacterHelp_Noc: Gladiatorin mit großem Siegeswillen.
+MID_FT_CharacterHelp_Sop: Nimmersatte Priesterin.
+MID_FT_CharacterHelp_Yan: Trinkstarker Mönch auf Wanderschaft.
+MID_FT_CharacterHelp_Cat: Söldnerin, die sich rühmt, erstklassig zu sein.
+MID_FT_CharacterHelp_Maj: Außergewöhnlich starker und brutaler Raufbold.
+MID_FT_CharacterHelp_Kir: Skrupelloser, ehemaliger Anführer einer Piratenbande.
+MID_FT_CharacterHelp_Iio: Junger Söldner, stets an der Seite seines treuen Rosses.
+MID_FT_CharacterHelp_Nuz: Krieger von den Völkern des Waldes.
+MID_FT_CharacterHelp_Pep: Junger Mann aus einem fremden Land.
+MID_FT_CharacterHelp_Zac: Von Banditen aufgezogener Mann.
+MID_FT_CharacterHelp_Ven: Alter und arroganter Soldat.
+MID_FT_CharacterHelp_Jas: Anführerin einer Söldnertruppe.
+MID_FT_CharacterHelp_Ale: Goldige Ritterin mit großer Liebe für ihren Pegasus.
+MID_FT_CharacterHelp_Ini: Meisterhafte Bogenschützin vom Land.
+MID_FT_CharacterHelp_Nat: Mächtiger General aus Arago.
+MID_FT_CharacterHelp_Hri: Brillanter und gerissener General aus Arago.
+MID_FT_CharacterHelp_Cen: Ritter der Tempel, der Aurora dient.
+MID_FT_CharacterHelp_Cle: Magienutzer aus Agartha von großer Schönheit.
+MID_FT_CharacterHelp_Mys: Unscheinbarer Magienutzer aus Agartha.
+MID_FT_CharacterHelp_Ann: Hilfspriesterin im Tempel des Solel.
+MID_FT_CharacterHelp_Asw: Aragonische Hoheit, Nachkommin eines großen Königs.
+MID_FT_CharacterHelp_Gra: Schwertmeister, der von großen Helden abstammt.
+MID_FT_CharacterHelp_Kra: General der Mosa.
+MID_FT_CharacterHelp_Cas: Cais Vater.
+MID_FT_CharacterHelp_Lon: Weiser Meister der Kampfkünste.
+MID_FT_CharacterHelp_Tah: Aswans treue Dienerin.
+MID_FT_CharacterHelp_Jun: Die Geberin der Fruchtbarkeit.
+MID_FT_CharacterHelp_Mar: Der Kriegsbringer.
+MID_FT_CharacterHelp_Smi: Der Zaubergelehrte.
+MID_FT_CharacterHelp_Cla: Der Funke des Schmiedefeuers.
+MID_FT_CharacterHelp_Car: Die Göttin der Jagd und der Künste.
+MID_FT_CharacterHelp_Aur: Der Weckruf des Navigators.
+MID_FT_CharacterHelp_Gab: Leitet alle Angelegenheiten im Untergrund der Arena.
+MID_FT_CharacterHelp_Che: 
+MID_FT_CharacterHelp_Cir: 
+MID_FT_CharacterHelp_Nom: 
+MID_FT_CharacterHelp_Ile: 
+MID_FT_CharacterHelp_Mta: 
+MID_FT_CharacterHelp_Sol: 
+MID_FT_CharacterHelp_Shi: 
+MID_FT_CharacterHelp_Hyo: 
+MID_FT_CharacterHelp_Gan: 
+MID_FT_CharacterHelp_Gil: 
+MID_FT_CharacterHelp_Sua: 
+MID_FT_CharacterHelp_Har: 
+MID_FT_CharacterHelp_Ger: 
+MID_FT_CharacterHelp_Kar: 
+MID_FT_CharacterHelp_Bou: 
+MID_FT_CharacterHelp_Lin: 
+MID_FT_CharacterHelp_Miw: 
+MID_FT_CharacterHelp_Ver: 
+MID_FT_CharacterHelp_Kyo: 

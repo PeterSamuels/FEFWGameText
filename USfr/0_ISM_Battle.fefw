@@ -1,0 +1,175 @@
+﻿MID_SC00_00_m01: <TH>
+MID_SC00_00_m01_001: Vous vous trouvez dans un espace virtuel.
+MID_SC00_00_m01_002: Je m'en sers pour simuler les performances\ndu corps dans lequel vous vous incarnerez.
+MID_SC00_00_m01_003: En effet, vous êtes toujours {AvatarGender=endormi|endormie}. Votre corps\nn'est pas encore prêt.
+MID_SC00_00_m01_004: Mais si nous vous entraînons dès maintenant,\nvous serez apte à vous battre dès votre réveil.
+MID_SC00_00_m01_005: Dès que vous serez {AvatarGender=prêt|prête}, je lancerai la simulation.
+MID_SC00_00_m01_006: <ICA>Je suis {AvatarGender=prêt|prête}.
+MID_SC00_00_m01_007: <ICB>Je n'ai pas besoin de m'entraîner.
+MID_SC00_00_m01_008: <ACA>Très bien. Commençons.
+MID_SC00_00_m01_009: <ACB>Vous en êtes {AvatarGender=certain|certaine} ? Nous ne vous\nl'imposerons pas.
+MID_SC00_00_m01_010: <ACB>Mais le corps des nonces est entièrement\npersonnalisé. Il est très différent de celui\ndes humains ordinaires.
+MID_SC00_00_m01_011: <ACB>Je pense que vous auriez tout intérêt à vous\nfamiliariser avec lui.
+MID_SC00_00_m01_012: <ICA>Tu as raison.
+MID_SC00_00_m01_013: <ICB>Ce ne sera pas nécessaire.
+MID_SC00_00_m01_016: <ACA>Très bien. Commençons.
+MID_SC00_00_m01_015: <ACA>
+MID_SC00_00_m01_014: <ACB>Si vous le dites, je vous crois.\nNous nous passerons de la simulation.
+MID_SC00_00_m03: <TH>
+MID_SC00_00_m03_001: Ce que je vous ai appris s'appliquera à tous\nvos futurs combats. Tâchez de vous en souvenir.
+MID_SC00_00_m03_002: Maintenant, passons au scénario suivant.
+MID_SC00_00_e01: <TH>
+MID_SC00_00_e01_001: C'est vous.
+MID_SC00_00_e02: <TH>
+MID_SC00_00_e02_001: Et voici votre ennemi. Vous devez le vaincre.
+MID_SC00_00_e02_002: D'abord, {SetColor=Gold}approchez-vous{SetColor=Default} de votre adversaire.
+MID_SC00_00_e03: <TH>
+MID_SC00_00_e03_001: <DLG>Déplacez le curseur sur {AvatarName} et appuyez sur {ButtonA}.
+MID_SC00_00_e04: <TH>
+MID_SC00_00_e04_001: <DLG>Maintenant, déplacez le curseur à l'emplacement où\nvous souhaitez vous rendre et appuyez sur {ButtonA}.
+MID_SC00_00_e05: <TH>
+MID_SC00_00_e05_001: Qu'est-ce que vous faites ? {SetColor=Gold}Rapprochez-vous{SetColor=Default}\nde votre adversaire.
+MID_SC00_00_e06: <TH>
+MID_SC00_00_e06_001: Très bien. Maintenant, {SetColor=Gold}rapprochez-vous{SetColor=Default} encore\nde votre adversaire et {SetColor=Gold}attaquez-le{SetColor=Default}.
+MID_SC00_00_e07: <TH>
+MID_SC00_00_e07_001: Bien, mais ne vous déconcentrez pas. {SetColor=Gold}C'est au tour\nde votre adversaire d'agir{SetColor=Default}.
+MID_SC00_00_e08: <TH>
+MID_SC00_00_e08_001: Bien joué !
+MID_SC00_00_e09: <TH>
+MID_SC00_00_e09_001: <DLG>Des renforts ennemis sont arrivés.
+MID_SC00_00_e10: <TH>
+MID_SC00_00_e10_001: En combat, {SetColor=Gold}de nouveaux ennemis peuvent apparaître{SetColor=Default}\nà tout moment. Gardez bien cela à l'esprit.
+MID_SC00_00_e11: <TH>
+MID_SC00_00_e11_001: Votre adversaire vous a infligé une blessure ?\nUtilisez ceci pour vous {SetColor=Gold}soigner{SetColor=Default}.
+MID_SC00_00_e12: <TH>
+MID_SC00_00_e12_001: Je n'ai plus rien à vous apprendre pour l'instant.\nServez-vous de ce que vous avez appris pour vaincre\nvotre adversaire.
+MID_SC00_00_e17: <TH>
+MID_SC00_00_e17_001: Il y a d'autres choses que je peux vous enseigner.
+MID_SC00_00_e13: <TH>
+MID_SC00_00_e13_001: <DLG>Voulez-vous essayer le mode souris dans une bataille ?\n(Les commandes vous seront expliquées par la suite.)
+MID_SC00_00_e14: <TH>
+MID_SC00_00_e14_001: <DLG>Si vous souhaitez en apprendre davantage sur le mode souris,\nconsultez les tutoriels qui lui sont dédiés.
+MID_SC00_00_e15: <TH>
+MID_SC00_00_e15_001: <DLG>Vous pouvez déplacer le curseur sur la carte de bataille\nen faisant glisser la manette Joy-Con 2 (R).
+MID_SC00_00_e15_002: <DLG>Clic gauche {MouseR}({ButtonR}) : confirmer\nClic droit {MouseZR}({ButtonZR}) : annuler
+MID_SC00_00_e15_003: <DLG>À présent, essayez de déplacer une unité. Placez le curseur\nsur {AvatarName}, et sélectionnez-{AvatarGender=le|la}.
+MID_SC00_00_e16: <TH>
+MID_SC00_00_e16_001: <DLG>Essayons un déplacement. Faites glisser la manette Joy-Con 2\nen mode souris afin de placer le curseur sur l'unité de votre choix,\npuis sélectionnez-la.
+MID_SC00_00_e18: <TH>
+MID_SC00_00_e18_001: Vous apprenez vite. C'est parfait. Essayez\nmaintenant de battre votre ennemi en utilisant\nle mode souris.
+MID_SC00_01_m02: <TH>
+MID_SC00_01_m02_001: Sur le champ de bataille, vous devez prendre en\ncompte votre environnement et l'impact qu'il peut\navoir sur votre stratégie.
+MID_SC00_01_m02_002: Passons au scénario suivant.
+MID_SC00_01_e01: <TH>
+MID_SC00_01_e01_001: Pour vaincre vos ennemis plus aisément, vous devrez\n{SetColor=Gold}utiliser le terrain à votre avantage{SetColor=Default}.
+MID_SC00_01_e02: <TH>
+MID_SC00_01_e02_001: Si vous restez sur un de ces emplacements,\nvous serez {SetColor=Gold}plus difficile à toucher{SetColor=Default}. Essayez.
+MID_SC00_01_e03: <TH>
+MID_SC00_01_e03_001: C'est un terrain favorable. Maintenant, {SetColor=Gold}attaquez{SetColor=Default}\nvotre ennemi.
+MID_SC00_02_m02: <TH>
+MID_SC00_02_m02_001: Perfectionnez vos compétences et découvrez\nde nouvelles classes pour vous ouvrir\nplus d'options tactiques.
+MID_SC00_02_m02_002: Rappelez-vous qu'aucune méthode n'est efficace\nface à tous les adversaires.
+MID_SC00_02_m02_003: Je sais bien que nous évoluons dans un espace\nvirtuel, mais il me semble que vous commencez\nà vous familiariser avec votre nouveau corps.
+MID_SC00_02_m02_004: Bon, enchaînons avec le dernier scénario.
+MID_SC00_02_e01: <TH>
+MID_SC00_02_e01_001: Voyez-vous cet ennemi {SetColor=Gold}de l'autre côté de la barrière{SetColor=Default} ?
+MID_SC00_02_e02: <TH>
+MID_SC00_02_e02_001: Cette fois, je vous ai donné une arme différente :\nun {SetColor=Gold}arc{SetColor=Default}.
+MID_SC00_02_e02_002: Les {SetColor=Gold}arcs{SetColor=Default} permettent d'{SetColor=Gold}attaquer les ennemis\nà distance{SetColor=Default}. Servez-vous du vôtre pour {SetColor=Gold}tirer\npar-dessus la barrière{SetColor=Default}.
+MID_SC00_02_e03: <TH>
+MID_SC00_02_e03_001: Maintenant, {SetColor=Gold}éliminez votre ennemi{SetColor=Default} avec cet {SetColor=Gold}arc{SetColor=Default}.
+MID_SC00_02_e04: <TH>
+MID_SC00_02_e04_001: Je vois que tout cela ne vous pose aucun problème.
+MID_SC00_02_e05: <TH>
+MID_SC00_02_e05_001: Voici un ennemi {SetColor=Gold}volant{SetColor=Default}. Ce type d'adversaire\nest {SetColor=Gold}vulnérable aux flèches des arcs{SetColor=Default}.
+MID_SC00_02_e05_002: Utilisez votre {SetColor=Gold}arc{SetColor=Default} pour {SetColor=Gold}éliminer{SetColor=Default} l'ennemi volant.
+MID_SC00_03_m02: <TH>
+MID_SC00_03_m02_001: Assez de familiarisation pour aujourd'hui.
+MID_SC00_03_m02_002: Votre corps ne sera pas prêt à évoluer dans le monde\nréel avant un certain temps.
+MID_SC00_03_m02_003: Reposez-vous tant que vous le pouvez encore.\nÀ votre réveil, vous aurez fort à faire.
+MID_SC00_03_e01: <TH>
+MID_SC00_03_e01_001: Attention, cet adversaire est fort. Bien plus que\ntous ceux que vous avez affrontés jusqu'à présent.
+MID_SC00_03_e01_002: Si vous ne faites pas preuve de prudence, vous\nrisquez de subir une riposte dévastatrice. Vous\ndevez utiliser vos {SetColor=Gold}capacités{SetColor=Default}.
+MID_SC00_03_e02: <TH>
+MID_SC00_03_e02_001: {SetColor=Gold}Éliminez{SetColor=Default} votre adversaire à l'aide de vos {SetColor=Gold}capacités{SetColor=Default}.
+MID_SC00_04_m01: <TH>
+MID_SC00_04_m01_001: Oh, je vois que votre nouveau corps fonctionne\nparfaitement.
+MID_SC00_04_m02_001: Sans votre arrivée providentielle, je serais morte.\nMerci.
+MID_SC00_04_m02_002: Vous êtes bien {AvatarGender=le sauveur|la sauveuse} qu'on nous a {AvatarGender=promis|promise}.
+MID_SC00_04_m01_002: Mais il reste des ennemis à éliminer.\nJe vais encore avoir besoin de votre aide.
+MID_SC00_04_m03: <TH>
+MID_SC00_04_m03_001: Bien, nous avons éliminé leurs forces.
+MID_SC00_04_m03_002: Mais... je m'inquiète pour Maître Zenon.
+MID_SC00_04_e02: <TH>
+MID_SC00_04_e02_001: Incroyable... Je commence à croire que vous avez\nvraiment le pouvoir de tous nous sauver.
+MID_SC00_04_e05: <TH>
+MID_SC00_04_e05_001: Je n'ai sans doute rien à vous apprendre, mais\npuisque vous venez tout juste de vous réveiller,\nje me permets de vous donner quelques conseils.
+MID_SC00_04_e05_002: J'utilise la {SetColor=Gold}magie{SetColor=Default}. Cela me {SetColor=Gold}permet de frapper{SetColor=Default} les\nennemis {SetColor=Gold}à distance{SetColor=Default}.
+MID_SC00_04_e06: <TH>
+MID_SC00_04_e06_001: Avoir une unité qui {SetColor=Gold}attaque à distance{SetColor=Default} et une autre\nqui {SetColor=Gold}porte le coup fatal{SetColor=Default} est une tactique efficace.
+MID_SC00_04_e07: <TH>
+MID_SC00_04_e07_001: Les armes telles que les lances sont moins efficaces\ncontre les {SetColor=Gold}ennemis en armure{SetColor=Default}. Laissez les adeptes de\nla {SetColor=Gold}magie{SetColor=Default} comme moi s'occuper d'eux.
+MID_SC00_04_e08: <TH>
+MID_SC00_04_e08_001: Les armes telles que les lances sont moins efficaces\nque {SetColor=Gold}la magie{SetColor=Default} contre les {SetColor=Gold}ennemis en armure{SetColor=Default}.\nLaissez-moi m'occuper de celui-ci.
+MID_SC00_04_e09: <TH>
+MID_SC00_04_e09_001: Foncer tête baissée dans la mêlée peut s'avérer\ndangereux. Vérifiez {SetColor=Gold}la portée des ennemis proches{SetColor=Default}.
+MID_SC00_04_e10: <TH>
+MID_SC00_04_e10_001: Argh, ils sont trop nombreux.
+MID_SC00_04_e10_002: Votre Providence, nous allons avoir besoin\nde votre pouvoir.
+MID_SC00_04_e11: <TH>
+MID_SC00_04_e11_001: <DLG>Utilisez la capacité ardente attribuée à {AvatarName},\nÉclair purifiant{SetColor=Menu}.{SetColor=Default}
+MID_SC00_04_e12: <TH>
+MID_SC00_04_e12_001: Je savais qu'il n'y avait rien à craindre avec vous.\nEnsemble, nous les chasserons de ces terres !
+MID_SC00_05_m01: <TH>
+MID_SC00_05_m01_001: Vous entendez ? Les voix des morts...
+MID_SC00_05_m01_002: C'est le bruit d'une forêt de cadavres\nqui vous supplient de les rejoindre.
+MID_SC00_05_m01_003: Venez à moi, ma légion... guerriers de Balor...
+MID_SC00_05_m08: <TH>
+MID_SC00_05_m01_004: Aah...
+MID_SC00_05_m09: <TH>
+MID_SC00_05_m01_005: Grr...
+MID_SC00_05_m10: <TH>
+MID_SC00_05_m01_006: Argh...
+MID_SC00_05_m11: <TH>
+MID_SC00_05_m01_007: Aah...
+MID_SC00_05_m12: <TH>
+MID_SC00_05_m01_008: C'est affreux... Même eux ont succombé ?
+MID_SC00_05_m01_009: Bon sang ! Vaincre Lind, c'est une chose, mais eux ?
+MID_SC00_05_m01_010: Je me souviens les avoir vus combattre\naux Jeux Héroïques, il y a cinq ans.\nIls étaient impressionnants.
+MID_SC00_05_m01_011: Prenez garde ! Ce ne sont pas des morts-vivants\nordinaires !
+MID_SC00_05_m02: <TH>
+MID_SC00_05_m02_001: Je voulais juste... être heureux...\nQu'est-ce qui s'est passé... ?
+MID_SC00_05_m03: <TH>
+MID_SC00_05_m03_001: Vous... vous abandonnez au plaisir ?
+MID_SC00_05_m04: <TH>
+MID_SC00_05_m04_001: Les hurlements de mes ancêtres... le chagrin\nde Yu Phas... Pour eux, je détruirai tout !
+MID_SC00_05_m05: <TH>
+MID_SC00_05_m05_001: Cet homme... J'aurai aucun repos tant que...\nje lui aurai pas arraché le cœur...
+MID_SC00_05_m06: <TH>
+MID_SC00_05_m06_001: Ah... Ce n'était pas qu'une impression...\nIl y a quelque chose de singulier chez toi...
+MID_SC00_05_m06_002: Impossible de mettre le doigt dessus... mais\npeu importe. Ça n'aura aucune importance\nquand tu seras mort{AvatarGender=|e}.
+MID_SC00_05_m07: <TH>
+MID_SC00_05_m07_001: Les vivants sont pathétiques. Laissez-moi mettre\nun terme à vos souffrances.
+MID_SC00_05_e01: <TH>
+MID_SC00_05_e01_001: Aïe... Il en a vraiment après nous.
+MID_SC00_05_e01_002: Vous avez une potion ? Sinon, je peux utiliser\nma {SetColor=Gold}magie curative{SetColor=Default} sur vous.
+MID_SC00_05_e02: <TH>
+MID_SC00_05_e02_001: Ce jeune garçon est Cai Œil de Démon. Il est connu\npour exploiter la {SetColor=Gold}grande mobilité{SetColor=Default} de sa monture\nau combat.
+MID_SC00_05_e02_002: En plus de la puissance dont vous venez d'être\ntémoin, bien sûr. Faites très attention à lui.
+MID_SC00_05_e03: <TH>
+MID_SC00_05_e03_001: S'il croit qu'il peut nous vaincre {AvatarGender=tous|toutes} les trois\nà lui tout seul, il fait une grave erreur. Attaquons-le\nà plusieurs !
+MID_SC00_05_e04: <TH>
+MID_SC00_05_e04_001: Argh... Je vois que Lind ne tient pas à ce\nqu'on l'atteigne trop facilement.
+MID_SC00_05_e05: <TH>
+MID_SC00_05_e05_001: Ces {SetColor=Gold}cases{SetColor=Default} renferment de la {SetColor=Gold}magie{SetColor=Default}. Il serait judicieux\nde s'en servir pour {SetColor=Gold}récupérer{SetColor=Default} un peu avant de\ncontinuer.
+MID_SC00_05_e06: <TH>
+MID_SC00_05_e06_001: Il s'est encore rapproché après s'être déplacé ?!
+MID_SC00_05_e06_002: C'est Dietrich, le Trancheur Ténébreux. Sa cape\nlui donne le pouvoir de se {SetColor=Gold}téléporter{SetColor=Default}.
+MID_SC00_05_e06_003: Cet attribut fait de lui un terrifiant prédateur.\nRestez à distance et tâchez de l'attaquer après\nson déplacement.
+MID_SC00_05_e07: <TH>
+MID_SC00_05_e07_001: Leda, la Sirène de la Six-Cordes... Sa musique\npeut {SetColor=Gold}hypnotiser les foules{SetColor=Default}.
+MID_SC00_05_e08: <TH>
+MID_SC00_05_e08_001: Attention ! C'est Theodora, l'Annihilatrice d'Armées.\nSa {SetColor=Gold}force brute est considérable{SetColor=Default} !
+MID_SC00_05_e08_002: Et sa défense n'est pas en reste. La magie sera\nnotre meilleur atout face à elle.
+MID_SC00_05_e09: <TH>
+MID_SC00_05_e09_001: Nous faisons face à des ennemis très puissants.\nNous devons absolument {SetColor=Gold}coordonner nos efforts\nau combat{SetColor=Default}.

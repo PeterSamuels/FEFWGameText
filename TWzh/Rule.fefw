@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: 勝利條件
+MID_Rule_Title_Lose: 戰敗條件
+MID_WINRULE_Annihilate: 擊敗所有敵人
+MID_WINRULE_Destroy: 擊敗{Variable=0}
+MID_WINRULE_Destroy2: 擊敗{Variable=0}與{Variable=1}
+MID_LOSERULE_Annihilate: 我方全員敗退
+MID_LOSERULE_Destroy: {Variable=0}敗退
+MID_LOSERULE_Destroy2: {Variable=0}或{Variable=1}敗退
+MID_LOSERULE_Destroy3: {Variable=0}、{Variable=1}\n或{Variable=2}其中之一敗退
+MID_WINRULE_SC11_01_1: 奪取赤紅寶石
+MID_WINRULE_SC12_08_1: 啟動所有控制裝置
+MID_WINRULE_SC13_00_1: 賽奧朵拉到達目標地點
+MID_WINRULE_SC13_10: 奪取埃皮米尼原礦
+MID_WINRULE_SC13_11_1: 經過{Variable=0}回合後\n我方持有的寶珠數量多於敵方
+MID_WINRULE_SC13_11_2: 我方獲得寶珠或敵方失去寶珠
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: 經過{Variable=0}回合後\n燈籠之火（藍）多於燈籠之火（紅）
+MID_WINRULE_SC14_05_2: 蕾達到達目標地點
+MID_WINRULE_SC30_08: {LordName}到達目標地點
+MID_WINRULE_SC00_16: 破壞冥界之柱
+MID_WINRULE_SCXX_01: 經過{Variable=0}回合
+MID_WINRULE_SCXX_02: 啟動所有祭壇的機關
+MID_WINRULE_SCXX_04: 我方擊敗過半數的巨人
+MID_WINRULE_SCXX_05: 回收所有商會貨物\n或擊敗所有敵人
+MID_WINRULE_SCXX_07_1: 可行動的崑崙之民全員到達目標地點\n或擊敗五頭‧修德拉
+MID_WINRULE_SCXX_07_2: 愛娜特莉亞到達目標地點\n或擊敗五頭‧修德拉
+MID_WINRULE_KL_02_1: 打破敵人的障壁（破壞一片）後擊敗敵人
+MID_WINRULE_KL_02_2: 完全打破敵人的障壁（全部破壞）後擊敗敵人
+MID_LOSERULE_SC11_03: 共乘馬車被破壞\n或凱伊敗退
+MID_LOSERULE_SC12_08_1: 經過{Variable=0}回合\n或迪托利希敗退
+MID_LOSERULE_SC13_09: 經過{Variable=0}回合\n或賽奧朵拉敗退
+MID_LOSERULE_SC13_11_1: 經過{Variable=0}回合後\n我方持有的寶珠數量少於敵方
+MID_LOSERULE_SC13_11_2: 敵方獲得寶珠\n或我方失去寶珠
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: 經過{Variable=0}回合後\n燈籠之火（紅）多於燈籠之火（藍）
+MID_LOSERULE_SCXX_00: 敵方到達目標地點\n或{LordName}、凱伊其一敗退
+MID_LOSERULE_SCXX_01: 敵方到達目標地點\n或{LordName}、迪托利希其一敗退
+MID_LOSERULE_SCXX_04: 敵方擊敗過半數的巨人
+MID_LOSERULE_SCXX_05_2: 持有商會貨物的盜賊到達目標地點\n或{LordName}、譚利穆恩其一敗退
+MID_LOSERULE_SCXX_07: 三名崑崙之民被擊敗\n或{LordName}、愛娜特莉亞其一敗退
+MID_LOSERULE_DefenseBattle: 所有市民被擊敗\n或{LordName}敗退

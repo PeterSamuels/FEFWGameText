@@ -1,0 +1,150 @@
+﻿MID_Sys_PlayerPhase: Player Phase
+MID_Sys_EnemyPhase: Enemy Phase
+MID_Sys_AllyPhase: Ally Phase
+MID_Battle_Damage_NoDamage: No Damage!
+MID_Battle_Damage_Miss: Miss!
+MID_Battle_Damage_Critical: Critical!
+MID_Battle_Damage_Guard: Guard!
+MID_Battle_Damage_ChainAttack: Link Attack!
+MID_Battle_Damage_OverBlaze: Overblaze!
+MID_Battle_Damage_Burst: Burst!
+MID_Battle_StatusUp: Buffed
+MID_Battle_StatusDown: Debuffed
+MID_Battle_BadCondition: Status Effect
+MID_Battle_CureCondition: Cured
+MID_Sys_EndureHp: Armor
+MID_Sys_Damage: Damage
+MID_Sys_CannonCount: Shots
+MID_Sys_NoEntry: Impassable
+MID_Sys_NoWalkingEntry: Inaccessible
+MID_Sys_NoWalkingAndDestroy: Inaccessible/Unbreakable
+MID_Btl_FirstAttack: Goes First
+MID_Btl_LastAttack: Goes Last
+MID_Btl_Buff: Buff:
+MID_Btl_Debuff: Debuff:
+MID_Btl_EnemyDetail_Barrier: Barrier
+MID_Btl_EnemyDetail_BarrierItem: Total Break
+MID_Btl_EnemyDetail_StockSkill: Latent Abilities
+MID_Btl_EnemyDetail_ActivationStock: Ready At
+MID_SortieMenu_UnitSelect_Help: Select units to deploy.
+MID_BtlMenu_SortieUnit: Deployed
+MID_BtlMenu_UnitGuest: GUEST
+MID_BtlMenu_TurnCount: TURNS
+MID_BtlMenu_WaitUnitCount: Units Ready
+MID_BtlMenu_DefeatCount_GuestUnit: Defeated by Guests
+MID_BtlMenu_WeaponCost: Cost
+MID_BtlMenu_ConsumeHp: HP Cost
+MID_BtlMenu_BigUnitCantSpace_Message: There is not enough space to deploy a large-scale unit.\nPlease adjust your deployed units.
+MID_BtlMenu_BigUnitChangeDispos_Message: Deployment positioning adjusted for the large-scale unit.
+MID_MiracleMenu_Help: Select a blessing.
+MID_MiracleMenu_Detail: {Variable=0} Effect
+MID_MiracleMenu_Attention_Using: You can't select this while another blessing is active.
+MID_MiracleMenu_Used: Active
+MID_MiracleMenu_Confirm: Use {Variable=0}?
+MID_RewindMenu_NotPlayerPhase_Confirm: This is not during your phase.\nDo you still wish to rewind to this point?
+MID_BtlMenu_Attack: Attack
+MID_BtlMenu_Arts: Combat Arts
+MID_BtlMenu_Special: Blaze Arts
+MID_BtlMenu_SpecialGauge: Manage Blaze
+MID_BtlMenu_Gambit: Gambit
+MID_BtlMenu_Rage: Staggering Blow
+MID_BtlMenu_Morph: Transform
+MID_BtlMenu_Assist: Assist
+MID_BtlMenu_RideOn: Mount
+MID_BtlMenu_RideOff: Dismount
+MID_BtlMenu_Item: Items
+MID_BtlMenu_Transport: Storage
+MID_BtlMenu_Trade: Trade
+MID_BtlMenu_Fixed: Wait
+MID_BtlMenu_Treasurebox: Chest
+MID_BtlMenu_Warp: Warp
+MID_BtlMenu_Secede: Escape
+MID_BtlMenu_Talk: Talk
+MID_BtlMenu_Cannon: Artillery
+MID_BtlMenu_Terrain_Default: Activate
+MID_H_BtlMenu_Terrain_Default_SC11_14: Activates device. (Activate all to\ndispel the magical barrier.)
+MID_H_BtlMenu_Terrain_Default_SC12_08: Activates device. (Activate all to\ndispel the elephant rider's barrier.)
+MID_H_BtlMenu_Terrain_Default_SC13_12: Activates device. (Activate several\nto dispel the magical barriers.)
+MID_H_BtlMenu_Terrain_Default_SC14_06: Activates device to nullify the\neffect of pure water on all units.
+MID_H_BtlMenu_Terrain_Default_SC14_13: Activates device to magically\nreinforce barriers against\nEarthen Hurl for one turn.
+MID_H_BtlMenu_Terrain_Default_SC15_07: Activates device. (Activate all to\ndispel the giant's enhancement.)
+MID_H_BtlMenu_Terrain_Default_SC15_15: Activates device to disarm\nfloor traps.
+MID_H_BtlMenu_Terrain_Default_SC18_14: Activates device to deal damage to\nfoes on nearby floor traps. (Can be\nused twice.)
+MID_H_BtlMenu_Terrain_Default_SC13_13_2: Activates device. (Activate all to\nopen the portcullis.)
+MID_H_BtlMenu_Terrain_Default_SC13_13_1: Activates device to turn on the\nwarp spots.
+MID_H_BtlMenu_Terrain_Default_SC16_18: Activates device to stop flamma\nproduction.
+MID_H_BtlMenu_Terrain_Default_SC18_10: Activates device to switch foes'\nenhancements between Prt\nand Rsl.
+MID_H_BtlMenu_Terrain_Default_SC18_03: Activates device to enhance\nAnatolia.
+MID_H_BtlMenu_Terrain_Default_SC12_03: Operates device. Interact with three\nto dispel Anatolia's enhancements.
+MID_H_BtlMenu_Terrain_Default_SC12_15: Tampers with and activates device.\nWill activate the enemy Titanus\nbut destroy all of its barriers.
+MID_H_BtlMenu_Terrain_Default_SCXX_06: Activates device. Activate both\nin the same phase to operate\nthe onager.
+MID_H_BtlMenu_Terrain_Default_SC12_12: Activates device to place a trap\nfor one turn. Cetus will become\nparalyzed if caught in the trap.
+MID_H_BtlMenu_Terrain_Default_SC13_09: Activates device to repel fog on the\nentire map for your side's phase.
+MID_BtlMenu_Terrain_Lightflame: Brazier
+MID_H_BtlMenu_Terrain_Lightflame: Lights the brazier with blue flame.
+MID_BtlMenu_Terrain_Bonfire: Bonfire
+MID_H_BtlMenu_Terrain_Bonfire: Lights the bonfire to expand\nvisibility for one turn.
+MID_BtlMenu_Terrain_Candle: Brazier
+MID_H_BtlMenu_Terrain_Candle: Lights the brazier to emit light in\nthe area that repels foes.
+MID_BtlMenu_Terrain_Fallpillar: Brittle Pillar
+MID_BtlMenu_Terrain_Attendpower: Moonlit Flowers
+MID_H_BtlMenu_Terrain_Attendpower: Imbues flowers with power to\nnegate knockback for allies who\nstand in the area.
+MID_BtlMenu_Skill_Invincible: Protect Device
+MID_BtlMenu_Skill_Clearsandstorm: Quell Sandstorm
+MID_BtlMenu_Skill_Throwfeed: Bait
+MID_BtlMenu_Skill_Calmdown: Calm
+MID_BtlMenu_Skill_Thunder: Lightning Javelin
+MID_BtlMenu_Warning_Invalid_Fallpillar: The pillar will fall on a unit.
+MID_BtlMenu_Warning_Invalid_Warp: A unit is in the way.
+MID_BtlMenu_Warning_AfterTurn: Usable again in {Variable=0} {SingularPlural0=turn|turns}.
+MID_BtlMenu_Warning_TurnEnd: Cannot be used again this turn.
+MID_RewindMenu_Help: Select a moment in time to redo.
+MID_RewindMsg_BattleStart: Fight!
+MID_RewindMsg_PlayerPhase: Began player phase.
+MID_RewindMsg_EnemyPhase: Began enemy phase.
+MID_RewindMsg_ThirdPhase: Began third army phase.
+MID_RewindMsg_AllyPhase: Began ally phase.
+MID_RewindMsg_Mov: {CapitalizeNextLetter}{Variable=0} moved.
+MID_RewindMsg_Wait: {CapitalizeNextLetter}{Variable=0} waited.
+MID_RewindMsg_Defeat: {CapitalizeNextLetter}{Variable=0} defeated {Variable=1}.
+MID_RewindMsg_Defeat2: {CapitalizeNextLetter}{Variable=0} defeated {Variable=1} and others.
+MID_RewindMsg_Person_Attack: {CapitalizeNextLetter}{Variable=0} dealt {Variable=2} damage to {Variable=1}.
+MID_RewindMsg_Destroy: {CapitalizeNextLetter}{Variable=0} destroyed {Variable=1}.
+MID_RewindMsg_Attack: {CapitalizeNextLetter}{Variable=0} dealt {Variable=2} damage to {Variable=1}.
+MID_RewindMsg_Magic: 
+MID_RewindMsg_Skill: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_HPRecovery_Magic: {CapitalizeNextLetter}{Variable=0} restored {Variable=2} HP to {Variable=1}.
+MID_RewindMsg_Recovery_Magic: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Assist_Magic: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Assist_Arts: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Special: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Gambit: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Rage: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Used_Item: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Secede: {CapitalizeNextLetter}{Variable=0} escaped.
+MID_RewindMsg_Get_Item: {CapitalizeNextLetter}{Variable=0} got {Variable=1} from the chest.
+MID_RewindMsg_Open_Treasurebox: {CapitalizeNextLetter}{Variable=0} opened the chest.
+MID_RewindMsg_Miracle: Used {Variable=0}.
+MID_RewindMsg_UnitSkill: {CapitalizeNextLetter}{Variable=0} used {Variable=1}.
+MID_RewindMsg_Fixed: {CapitalizeNextLetter}{Variable=0} took action.
+MWID_Rain: Rainy Weather
+MWID_H_Rain: Doubles damage of lightning\nattacks. Halves damage of flame\nattacks. Cannot use artillery.
+MWID_Sandstorm: Sandstorm
+MWID_H_Sandstorm: Visibility is reduced.
+MWID_Fog: Fog
+MWID_H_Fog: Visibility is reduced.
+MWID_SC18_10_DefUp: Defense Field
+MWID_H_SC18_10_DefUp: Greatly increases the Def of all\nunits on the map.
+MWID_SC18_10_MdefUp: Resistance Field
+MWID_H_SC18_10_MdefUp: Greatly increases the Res of all\nunits on the map.
+MID_Battle_AnimSimple_Confirm: Many combats between enemies may occur on this map, so you can\ndisable those animations. Disable them until the end of the map?
+MID_Battle_AnimReset_Message: Enemy combat animations will revert to normal.
+MID_Battle_EnthusiasticSong: {Variable=1} sang {Variable=0}. Foes within range\nhave increased Atk.
+MID_Battle_EnthusiasticSong_All: {Variable=1} sang {Variable=0}. All foes\nhave increased Atk.
+MID_Battle_FrozenSong: {Variable=1} sang {Variable=0}. Foes within range\nhave increased Shld.
+MID_Battle_FrozenSong_All: {Variable=1} sang {Variable=0}. All foes\nhave increased Shld.
+MID_Battle_FrenzySong: {Variable=1} sang {Variable=0}, confusing allies\nwithin range.
+MID_Battle_FrenzySong_All: {Variable=1} sang {Variable=0}, confusing all allies.
+MID_Battle_PowerAwakening: Bertrand used Ruler's Awakening. His Hit will be increased through\nthe next player phase.
+MID_Battle_SkillAwakening: Bertrand used Flash Awakening. His Prt will be increased through\nthe next player phase.
+MID_Battle_StormAwakening: Bertrand used Storm Awakening. His Avo will be increased through\nthe next player phase.

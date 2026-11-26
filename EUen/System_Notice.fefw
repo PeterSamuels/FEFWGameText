@@ -1,0 +1,112 @@
+﻿MID_Calendar_SpecialDining: Gourmand Appreciation Day
+MID_Calendar_SpecialDining_Help: Meals at the {LowercaseNextLetter}Inn are half their\nnormal price.
+MID_Calendar_Festival00: Solar Celebration
+MID_Calendar_Festival00_Help: The festival of Solel, the Sunbearer.\nOn this day, the people of Dagsion\ngive thanks for the sun's blessings.
+MID_Calendar_Festival01: Aurora's Star Observance
+MID_Calendar_Festival01_Help: A day to pray to Aurora, the\nNavigator's Clarion, for safe\nsea voyages this year.
+MID_Calendar_Festival02: Mars's Festival
+MID_Calendar_Festival02_Help: Celebrating Mars, the Bringer of\nWar, and the further development\nof the empire.
+MID_Calendar_Festival03: Smyrnos's Magic Gala
+MID_Calendar_Festival03_Help: A day to petition Smyrnos, the\nSpell-Scholar, for innovation in\nmagic and the empire.
+MID_Calendar_Festival04: Kalla's Arts Festival
+MID_Calendar_Festival04_Help: A day for Kalla, the Patron-\nHuntress. Considered auspicious\nfor undertaking new ventures.
+MID_Calendar_Festival05: Fortuna's Fate Ritual
+MID_Calendar_Festival05_Help: A day for prayers to Fortuna,\nGoddess of Fate, and for savoring\nthe blessings of a peaceful life.
+MID_Calendar_Festival06: Sirius Festival
+MID_Calendar_Festival06_Help: A day of great importance to the\nDivine Emperor and his empire.\nAll in Dagsion come out for it.
+MID_Calendar_Festival07: Service for the Dead
+MID_Calendar_Festival07_Help: A solemn day to beseech Yu Phas,\nKeeper of Death and Night, to lead\nsouls of ancestors to peace.
+MID_Calendar_Festival08: Jurah's Harvest Festival
+MID_Calendar_Festival08_Help: A festival to pray to Jurah, the\nGiver of Fertility, for a bountiful\nharvest in the coming year.
+MID_Calendar_Festival09: Credna's Hammer Day
+MID_Calendar_Festival09_Help: On this day, people from all over\nDagda flock to Dagsion to honor\nCredna, Spark of the Forge.
+MID_Calendar_Festival10: Imperial Founding Day
+MID_Calendar_Festival10_Help: The anniversary of the founding of\nthe Dagdan Empire is always an\noccasion for grand ceremonials.
+MID_Calendar_Festival11: Dagda's Advent Festival
+MID_Calendar_Festival11_Help: A commemoration of the day on\nwhich the Divine Emperor Dagda\ndescended to this land.
+MID_Calendar_Temple_Aurora: Aurora's Day
+MID_Calendar_Temple_Aurora_Help: Service at Aurora's temple has\nincreased effects.
+MID_Calendar_Temple_Mars: Mars's Day
+MID_Calendar_Temple_Mars_Help: Mars will receive guests at his\nbranch temple. Service at Mars's\ntemple has increased effects.
+MID_Calendar_Temple_Smirnoth: Smyrnos's Day
+MID_Calendar_Temple_Smirnoth_Help: Smyrnos will receive guests at his\nbranch temple. Service at Smyrnos's\ntemple has increased effects.
+MID_Calendar_Temple_Juno: Jurah's Day
+MID_Calendar_Temple_Juno_Help: Jurah will receive guests at her\nbranch temple. Service at Jurah's\ntemple has increased effects.
+MID_Calendar_Temple_Cara: Kalla's Day
+MID_Calendar_Temple_Cara_Help: Kalla will receive guests at her\nbranch temple. Service at Kalla's\ntemple has increased effects.
+MID_Calendar_Temple_Clair: Credna's Day
+MID_Calendar_Temple_Clair_Help: Service at Credna's temple has\nincreased effects.
+MID_Calendar_Temple_All: Dagda's Day
+MID_Calendar_Temple_All_Help: All gods receive guests at their\nbranch temples. Service at all\ntemples has increased effects.
+MID_Calendar_Festival12: Blighted Eclipse
+MID_Calendar_Festival12_Help: On the arrival of the solar eclipse,\nBalor's power reaches its peak,\nspilling out from the underworld.
+MID_Calendar_SpecialFishing: Spring Tide
+MID_Calendar_SpecialFishing_Help: The tide makes fish more active,\nso fishing on this day is said to\nincrease the odds of a good catch.
+MID_Calendar_SpecialHarvest: Black Moon's Reaping
+MID_Calendar_SpecialHarvest_Help: Plant growth is stimulated on this\nday, so it's an auspicious time to\nharvest crops.
+MID_Calendar_SpecialMining: Crystalline Brilliance
+MID_Calendar_SpecialMining_Help: Under a full moon that shines\nlike a jewel, mining efforts are said\nto yield more favorable results.
+MID_Calendar_miniFestival00: Golden Crow's Rest Day
+MID_Calendar_miniFestival00_Help: The Divine Sovereign decreed that\nthe 17th of each month would be\na celebration of the sun's light.
+MID_Calendar_Divination: Mysterious Fortune Teller
+MID_Calendar_Divination_Help: The fortune teller causing a stir is\nopen for business in Dagsion.
+MID_Calendar_Temple_Cara_Help_Part3: Service at Kalla's temple has\nincreased effects.
+MID_Calendar_Temple_Mars_Help_Part3: Service at Mars's temple has\nincreased effects.
+MID_Calendar_Temple_Smirnoth_Help_Part3: Service at Smyrnos's temple has\nincreased effects.
+MID_Calendar_Temple_Juno_Help_Part3: Service at Jurah's temple has\nincreased effects.
+MID_Calendar_Temple_All_Help_Part3: Service at all temples has\nincreased effects.
+MID_HonorLvMenu_Banquet: Unlocks {LowercaseNextLetter}Feasts on the {Lowercase}World Map{NormalCase}.
+MID_HonorLvNotice_Banquet: Feast has been unlocked on the {Lowercase}World Map{NormalCase}.
+MID_HonorLvMenu_Theater: Unlocks the Watch option at the {LowercaseNextLetter}Theater.
+MID_HonorLvNotice_Theater: The Watch option has been unlocked at the {LowercaseNextLetter}Theater.
+MID_HonorLvMenu_Act: Unlocks the Act option at the {LowercaseNextLetter}Theater.
+MID_HonorLvNotice_Act: The Act option at the {LowercaseNextLetter}Theater has been unlocked.
+MID_HonorLvMenu_Thermae: Unlocks the {LowercaseNextLetter}Thermae.
+MID_HonorLvNotice_Thermae: The {LowercaseNextLetter}Thermae have been unlocked.
+MID_HonorLvMenu_Thermae2: Increases the types of {LowercaseNextLetter}Thermae available.
+MID_HonorLvNotice_Thermae2: More types of {LowercaseNextLetter}Thermae are available.
+MID_HonorLvMenu_ToolShop: Adds manuals to the {Lowercase}Item Shop{NormalCase}.
+MID_HonorLvNotice_ToolShop: Manuals have been added to the {Lowercase}Item Shop{NormalCase}.
+MID_HonorLvMenu_TrainingLv2: Improves the effect of {LowercaseNextLetter}Training at the training grounds.
+MID_HonorLvNotice_TrainingLv2: Training at the training grounds has improved effect.
+MID_HonorLvMenu_TrainingLv3: Improves the effect of {LowercaseNextLetter}Training at the training grounds.
+MID_HonorLvNotice_TrainingLv3: Training at the training grounds has improved effect.
+MID_HonorLvMenu_Dining: Expands the {LowercaseNextLetter}Meal menu at {LowercaseNextLetter}Inns.
+MID_HonorLvNotice_Dining: The {LowercaseNextLetter}Meal menu at {LowercaseNextLetter}Inns is expanded.
+MID_HonorLvMenu_DiningLv2: Improves the effect of {LowercaseNextLetter}Meals at {LowercaseNextLetter}Inns.
+MID_HonorLvNotice_DiningLv2: The effect of {LowercaseNextLetter}Meals at {LowercaseNextLetter}Inns is improved.
+MID_HonorLvMenu_DiningLv3: Improves the effect of {LowercaseNextLetter}Meals at {LowercaseNextLetter}Inns.
+MID_HonorLvNotice_DiningLv3: The effect of {LowercaseNextLetter}Meals at {LowercaseNextLetter}Inns is improved.
+MID_HonorLvMenu_VolunteerLv2: Increases tribute from performing {LowercaseNextLetter}Service.
+MID_HonorLvNotice_VolunteerLv2: Tribute from performing {LowercaseNextLetter}Service is increased.
+MID_HonorLvMenu_VolunteerLv3: Increases tribute from performing {LowercaseNextLetter}Service.
+MID_HonorLvNotice_VolunteerLv3: Tribute from performing {LowercaseNextLetter}Service is increased.
+MID_HonorLvMenu_WeaponShop: Adds weapons refined to +1 to the {LowercaseNextLetter}Armory.
+MID_HonorLvNotice_WeaponShop: Weapons refined to +1 are available at the {LowercaseNextLetter}Armory.
+MID_HonorLvMenu_WeaponShop2: Adds weapons refined to +2 to the {LowercaseNextLetter}Armory.
+MID_HonorLvNotice_WeaponShop2: Weapons refined to +2 are available at the {LowercaseNextLetter}Armory.
+MID_HonorLvMenu_Farm: Lets you {LowercaseNextLetter}Farm more plots at once.
+MID_HonorLvNotice_Farm: More plots can now be {LowercaseNextLetter}Farmed at once.
+MID_HonorLvMenu_Lesson: Opens up new lessons from {LowercaseNextLetter}Mentoring.
+MID_HonorLvNotice_Lesson: New lessons from {LowercaseNextLetter}Mentoring are available.
+MID_HonorLvMenu_Dispatch: Lets you {LowercaseNextLetter}Deploy more battalions at once.
+MID_HonorLvNotice_Dispatch: Can now {LowercaseNextLetter}Deploy more battalions at once.
+MID_HonorLvMenu_Recruit: Yields higher-quality battalions from Recruit Soldiers.
+MID_HonorLvNotice_Recruit: Recruit Soldiers now yields higher-quality battalions.
+MID_HonorLvMenu_Speech: Unlocks Rousing Speech on the {Lowercase}World Map{NormalCase}.
+MID_HonorLvNotice_Speech: Rousing Speech is now available on the {Lowercase}World Map{NormalCase}.
+MID_HonorLvMenu_ClassChangeLv2: Allows units to take {LowercaseNextLetter}Specialty class exams.
+MID_HonorLvNotice_ClassChangeLv2: Units can now take {LowercaseNextLetter}Specialty class exams.
+MID_HonorLvMenu_ClassChangeLv3: Allows units to take {LowercaseNextLetter}Advanced class exams.
+MID_HonorLvNotice_ClassChangeLv3: Units can now take {LowercaseNextLetter}Advanced class exams.
+MID_HonorLvMenu_GetItem: Grants you {Variable=0} {Multiply}{Variable=1}.
+MID_NewAction_Available_Icon: {Icon}{Variable=0} has been unlocked.
+MID_NewAction_Usable: The {Variable=0} function is now available.
+MID_NewAction_Usable_Icon: The {Icon}{Variable=0} function is now available.
+MID_NewAction_Usable2_Icon: The {Icon}{Variable=1} at {Variable=0} is unlocked.
+MID_NewAction_Ism_Set_A: 
+MID_NewAction_ExWarp: You can now use the {Variable=0} teleportation device.
+MID_NewAction_Route: Functions from {Variable=0} have been unlocked.
+MID_NewAction_ClassChangeLv4: Units can now take {Icon}{LowercaseNextLetter}Master class exams.
+MID_NewAction_Refine: {Icon}You can now refine weapons to be more powerful.
+MID_NewAction_ClassChangeLv3: Units can now take {Icon}{LowercaseNextLetter}Advanced exams.

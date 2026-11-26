@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: Vittoria
+MID_Rule_Title_Lose: Sconfitta
+MID_WINRULE_Annihilate: Sconfiggi tutti i nemici.
+MID_WINRULE_Destroy: Sconfiggi il seguente nemico: {Variable=0}.
+MID_WINRULE_Destroy2: Sconfiggi i seguenti nemici:\n{Variable=0} e {Variable=1}.
+MID_LOSERULE_Annihilate: Tutte le tue unità perdono.
+MID_LOSERULE_Destroy: {Variable=0} perde.
+MID_LOSERULE_Destroy2: {Variable=0} o {Variable=1} perdono.
+MID_LOSERULE_Destroy3: {Variable=0}, {Variable=1},\no {Variable=2} perdono.
+MID_WINRULE_SC11_01_1: Prendi la gemma rossa.
+MID_WINRULE_SC12_08_1: Usa tutti i meccanismi.
+MID_WINRULE_SC13_00_1: Theodora raggiunge la destinazione.
+MID_WINRULE_SC13_10: Prendi l'epimenium.
+MID_WINRULE_SC13_11_1: Hai più sfere degli avversari dopo {Variable=0} turni.
+MID_WINRULE_SC13_11_2: Una delle tue unità prende una sfera o gli avversari\nne perdono una.
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: Il numero di bracieri blu è maggiore di quello\ndi bracieri rossi dopo {Variable=0} turni.
+MID_WINRULE_SC14_05_2: Leda raggiunge la destinazione.
+MID_WINRULE_SC30_08: {LordName} raggiunge la destinazione.
+MID_WINRULE_SC00_16: Distruggi il pilastro dell'oltretomba.
+MID_WINRULE_SCXX_01: Supera {Variable=0} turni.
+MID_WINRULE_SCXX_02: Attiva tutti i meccanismi.
+MID_WINRULE_SCXX_04: Sconfiggi la maggior parte dei giganti.
+MID_WINRULE_SCXX_05: Recupera tutto il carico della Vandahl o sconfiggi\ntutte le unità nemiche.
+MID_WINRULE_SCXX_07_1: Tutti gli abitanti di Kunlun raggiungono la\ndestinazione o sconfiggi la pentakeidra.
+MID_WINRULE_SCXX_07_2: Anatolia raggiunge la destinazione o sconfiggi\nla pentakeidra.
+MID_WINRULE_KL_02_1: Rimuovi una barriera nemica e sconfiggi\ntutti i nemici.
+MID_WINRULE_KL_02_2: Rimuovi tutte le barriere nemiche e sconfiggi\ntutti i nemici.
+MID_LOSERULE_SC11_03: Il carro viene distrutto o Cai perde.
+MID_LOSERULE_SC12_08_1: Passano {Variable=0} turni o Dietrich perde.
+MID_LOSERULE_SC13_09: Passano {Variable=0} turni o Theodora perde.
+MID_LOSERULE_SC13_11_1: Hai meno sfere degli avversari dopo {Variable=0} turni.
+MID_LOSERULE_SC13_11_2: Gli avversari prendono una sfera o una\ndelle tue unità ne perde una.
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: Il numero di bracieri rossi è maggiore di quello\ndi bracieri blu dopo {Variable=0} turni.
+MID_LOSERULE_SCXX_00: Un'unità nemica raggiunge la destinazione,\no {LordName} o Cai perdono.
+MID_LOSERULE_SCXX_01: Un'unità nemica raggiunge la destinazione,\no {LordName} o Dietrich perdono.
+MID_LOSERULE_SCXX_04: Il nemico sconfigge la maggior parte dei giganti.
+MID_LOSERULE_SCXX_05_2: Un ladro con il carico della Vandahl raggiunge\nla destinazione, o {LordName} o Talimun\nperdono.
+MID_LOSERULE_SCXX_07: Tre abitanti di Kunlun vengono sconfitti,\no {LordName} o Anatolia perdono.
+MID_LOSERULE_DefenseBattle: Tutti i civili vengono sconfitti\no {LordName} perde.

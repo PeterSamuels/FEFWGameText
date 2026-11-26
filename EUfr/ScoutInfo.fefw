@@ -1,0 +1,86 @@
+﻿MID_ScoutInfo_NegotiationConditions_Yes_Easy: Négociation requise (Facile)
+MID_ScoutInfo_NegotiationConditions_Yes_Normal: Négociation requise (Normal)
+MID_ScoutInfo_NegotiationConditions_Yes_Hard: Négociation requise (Difficile)
+MID_ScoutInfo_NegotiationConditions_Yes_VeryHard: Négociation requise (Extrême)
+MID_ScoutInfo_NegotiationConditions_Win: Accepte les paris
+MID_ScoutInfo_NegotiationConditions_Price: Requiert une compensation
+MID_ScoutInfo_NegotiationConditions_Question: A des questions
+MID_ScoutInfo_NegotiationConditions_Item: Requiert un objet adéquat
+MID_ScoutInfo_NegotiationConditions_Talk: A quelque chose à dire
+MID_ScoutInfo_NegotiationConditions_Clear: Terminer ???
+MID_ScoutInfo_NegotiationConditions_SideStoryClear: Terminer l'Annexe liée à {Variable=0}
+MID_ScoutInfo_NegotiationConditions_ClearAndAction: Terminer ??? et attendre ???
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndAction: Terminer l'Annexe liée à {Variable=0} et attendre ???
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndDefeat: Terminer l'Annexe liée à {Variable=0} + Défaite
+MID_ScoutInfo_Characteristic_Aur: Fille de la déesse Yu Phas se battant contre les\narmées des Limbes à l'aide d'un mystérieux pouvoir.
+MID_ScoutInfo_Characteristic_Pet0: Archer talentueux pouvant utiliser des capacités\npour attaquer les ennemis à distance.
+MID_ScoutInfo_Characteristic_Hur: Jeune femme au grand cœur capable de combattre\nses ennemis et de soigner ses alliés.
+MID_ScoutInfo_Characteristic_Jes: Épéiste perturbant les ennemis lors des combats\ngrâce à sa vitesse et à la capacité Inversion.
+MID_ScoutInfo_Characteristic_Gol: Colosse doté d'une force et d'une résistance uniques.\nSon physique lui permet de porter une armure lourde.
+MID_ScoutInfo_Characteristic_Dan: Experte en magie et en littérature. Ses précieux\nconseils renforcent les compétences des alliés.
+MID_ScoutInfo_Characteristic_Esm: Jeune fille forte rivalisant avec tout type d'ennemi.\nElle peut porter une armure légère ou lourde.
+MID_ScoutInfo_Characteristic_Sim: Grand guerrier assoiffé de combat. Un coup mortel\nne suffira pas à l'achever.
+MID_ScoutInfo_Characteristic_Lou: Épéiste gracieuse assaillant sans relâche ses\nennemis. Il est difficile de lui échapper.
+MID_ScoutInfo_Characteristic_Fia: Membre du clergé à l'aura sombre. Sa maîtrise de la\nmagie lui permet de soigner plusieurs alliés à la fois.
+MID_ScoutInfo_Characteristic_Lor0: Jeune fille bagarreuse consciente de son agilité. Dans\nun bon jour, elle peut esquiver n'importe quelle attaque.
+MID_ScoutInfo_Characteristic_Set: Voyageur doté d'une grande sagesse maîtrisant\nparfaitement la lance. Il riposte rapidement.
+MID_ScoutInfo_Characteristic_Nin: Étrange vulkane capable de ressentir les esprits.\nElle peut repousser les attaques magiques.
+MID_ScoutInfo_Characteristic_Lil: Archère à la précision accrue. Elle attaque à\ndistance empêchant ainsi les ripostes ennemies.
+MID_ScoutInfo_Characteristic_Lys: Excellent chevalier qui profite de sa vitesse\npour se rapprocher et attaquer en premier.
+MID_ScoutInfo_Characteristic_Sci: Barde énigmatique adepte des épées et de la magie.\nIl est capable de manier plusieurs types d'armes.
+MID_ScoutInfo_Characteristic_Moo0: Combattante novice. Elle manque d'expérience,\nmais pas de potentiel.
+MID_ScoutInfo_Characteristic_Mic: Experte du corps à corps. Elle peut anticiper les\nactions de ses adversaires pour frapper juste.
+MID_ScoutInfo_Characteristic_Oly: Chanteuse et cléresse passionnée. Cette experte\nen magie blanche est prête à tout pour gagner.
+MID_ScoutInfo_Characteristic_Naz: Jeune épéiste doté d'une force extraordinaire. Ses\nattaques gagnent en puissance s'il frappe en premier.
+MID_ScoutInfo_Characteristic_Dai: Brave guerrier doté d'une immense force physique.\nAu combat, il ne recule devant rien.
+MID_ScoutInfo_Characteristic_Hal: Archère et artiste itinérante talentueuse. Elle peut\ns'adapter à tout type de situation.
+MID_ScoutInfo_Characteristic_Guj: Mercenaire se vantant de son talent et de ses victoires,\nil pourrait bien y avoir une part de vérité dans tout cela.
+MID_ScoutInfo_Characteristic_Yan: Moine guerrier nomade pouvant combattre\net soigner. Il utilise des techniques mystérieuses.
+MID_ScoutInfo_Characteristic_Iio: Jeune mercenaire toujours accompagné de sa fidèle\nmonture. Sa mobilité l'avantage au combat.
+MID_ScoutInfo_Characteristic_Pep: Chasseur de talent dégainant rapidement ses armes.\nIl surprend les proies blessées pour les achever.
+MID_ScoutInfo_Characteristic_Noc: Guerrière aux poings rapides et féroces. Elle se\nconcentre pour esquiver les attaques au combat.
+MID_ScoutInfo_Characteristic_Sop: Cléresse au grand appétit. Spécialiste des soins\nmagiques, elle peut améliorer leurs effets.
+MID_ScoutInfo_Characteristic_Cat: Mercenaire d'exception. Grâce à sa vitesse,\nelle prend l'avantage et attaque avec précision.
+MID_ScoutInfo_Characteristic_Ned: Mercenaire qui ne fait qu'un avec son ornius.\nSes mouvements agiles effraient les ennemis.
+MID_ScoutInfo_Characteristic_Zac: Homme rusé élevé par des bandits. Ses attaques\nà la hache sont d'une précision millimétrique.
+MID_ScoutInfo_Characteristic_Maj: Brute connue pour sa force et sa violence. Il est\nencore plus féroce lorsqu'il est équipé d'une hache.
+MID_ScoutInfo_Characteristic_Ven: Cavalier vétéran féru de chars. Sa précision\naugmente lorsqu'il en conduit un.
+MID_ScoutInfo_Characteristic_Ini: Archère experte dont les flèches puissantes\ntranspercent les armures les plus résistantes.
+MID_ScoutInfo_Characteristic_Jas: Cheffe d'un groupe de mercenaires spécialisée\nen défense. Elle riposte avec précision.
+MID_ScoutInfo_Characteristic_Ale: Chevaleresse appréciant la camaraderie. Sa petite\ncarrure donne l'impression qu'elle danse dans les airs.
+MID_ScoutInfo_Characteristic_Cle: 
+MID_ScoutInfo_Characteristic_Mys: 
+MID_ScoutInfo_Characteristic_Cen: Vétéran cuirassé à la défense solide. Il peut résister\naux attaques puissantes.
+MID_ScoutInfo_Characteristic_Asw: Tireuse d'élite dont la précision frôle le divin.\nSes flèches sont dévastatrices.
+MID_ScoutInfo_Characteristic_Nat: Général renommé valant mille hommes. Il utilise\nson talent offensif depuis la ligne de front.
+MID_ScoutInfo_Characteristic_Hri: Général rusé doté d'un sens tactique unique.\nIl privilégie la défense pour se jouer de ses ennemis.
+MID_ScoutInfo_Characteristic_Gra: 
+MID_ScoutInfo_Characteristic_Kir: Pirate notoire sans bateau ni équipage. Ses attaques\nsont très efficaces contre les ennemis vulnérables.
+MID_ScoutInfo_Characteristic_Nuz: Guerrier de la forêt et meurtrier né. Il exploite\nimpitoyablement les faiblesses de ses ennemis.
+MID_ScoutInfo_Characteristic_Kra: Brave guerrier aux grandes qualités défensives.\nIl maîtrise les arts martiaux et la magie curative.
+MID_ScoutInfo_Characteristic_Ann: Cavalière cornac enjouée qui perce les formations\nennemies sur l'entièreté du champ de bataille.
+MID_ScoutInfo_Characteristic_Tia0: Stratège de génie exploitant pleinement\nles compétences de ses alliés au combat.
+MID_ScoutInfo_Characteristic_Fab: Missionnaire énigmatique maîtrisant la magie obscure.\nSes techniques brisent la volonté de l'ennemi.
+MID_ScoutInfo_Characteristic_Bon: Le Génie de Saramis. Maniant l'épée et la magie,\nil améliore la précision de ses alliés.
+MID_ScoutInfo_Characteristic_Tob: Le Cœur Intrépide de Saramis. Fort et tenace,\nil sème le chaos au combat avec ses aptitudes.
+MID_ScoutInfo_Characteristic_Buc: Gardien vétéran dont la résistance aux attaques\nennemies lui vaut le surnom d'Ours-Démon.
+MID_ScoutInfo_Characteristic_Gat: Guerrier formé dans les terres de l'est. Sa maîtrise\nde l'épée lui ouvre la voie vers la victoire.
+MID_ScoutInfo_Characteristic_Urs: Intendante du Consortium Vandahl. Son grand sens\ndes affaires permet aux unités d'accéder au stockage.
+MID_ScoutInfo_Characteristic_Die: Guerrier taciturne talentueux issu d'un peuple de la\nforêt. Il protège ses alliés contre les doubles frappes.
+MID_ScoutInfo_Characteristic_Sar: Spécialiste de la magie spirituelle. Elle peut mettre\nà l'abri ses alliés instantanément et les soigner.
+MID_ScoutInfo_Characteristic_Kai0: Garçon enthousiaste motivé par son amour pour sa\nfamille. Il combat aisément sur le champ de bataille.
+MID_ScoutInfo_Characteristic_Dit: Duelliste étranger qui se bat pour étancher sa soif\nde combat. Sa lame brille d'un éclat mortel.
+MID_ScoutInfo_Characteristic_Seo: Intrépide reine de Samaris. Sa volonté de fer\nlui permet de surmonter toutes les épreuves.
+MID_ScoutInfo_Characteristic_Led: Danseuse et musicienne envoûtante, qui se joue\ndes ripostes avec grâce.
+MID_ScoutInfo_Characteristic_Bel: Fier guerrier qui se bat pour sa liberté. Il assène\nà ses ennemis des déluges de coups.
+MID_ScoutInfo_Characteristic_Tal: Plus grand commerçant de Dagda. Ambitieux\net d'une chance insolente, il vit pour l'aventure.
+MID_ScoutInfo_Characteristic_Orh: Mystérieuse jeune fille dotée d'une force prodigieuse.\nElle n'a pas accès à toutes les classes de guerrier.
+MID_ScoutInfo_Characteristic_Anh: Nonce se battant pour son peuple. Excelle dans\nun art martial basé sur le flux d'énergie et l'esquive.
+MID_ScoutInfo_Characteristic_Kou: Mage puissante pratiquant la magie de Kunlun.\nSes offensives magiques sont rapides et précises.
+MID_ScoutInfo_Characteristic_Tro: Guerrière expérimentée dont le pouvoir s'est renforcé\nau fil des années. Elle se bat au moyen de gantelets.
+MID_ScoutInfo_Characteristic_Kai1: Jeune homme motivé par son amour pour sa\nfamille. Il combat aisément sur le champ de bataille.
+MID_ScoutInfo_Characteristic_Tia1: Stratège de génie exploitant pleinement\nles compétences de ses alliés au combat.
+MID_ScoutInfo_Characteristic_Pet1: Archer talentueux pouvant utiliser des capacités\npour attaquer les ennemis à distance.
+MID_ScoutInfo_Characteristic_Moo1: Jeune femme ayant foulé de nombreux champs de\nbataille. Son potentiel maximum reste à atteindre.
+MID_ScoutInfo_Characteristic_Lor1: Jeune femme bagarreuse consciente de son agilité. Dans\nun bon jour, elle peut esquiver n'importe quelle attaque.
+MID_ScoutInfo_Characteristic_Tah: Guerrière maîtrisant le style de combat du python.\nElle protège fièrement sa dame et tous ses alliés.

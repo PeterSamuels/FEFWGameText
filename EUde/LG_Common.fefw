@@ -1,0 +1,128 @@
+﻿MID_LGV_XXX_Ism_Closed_m01: <TH>
+MID_LGV_XXX_Ism_Closed_m01_001: Ich glaube nicht, dass ich dorthin gehen muss.
+MID_LGV_XXX_Kai_Closed_m01: <TH>
+MID_LGV_XXX_Kai_Closed_m01_001: Dorthin muss ich jetzt nicht gehen.
+MID_LGV_XXX_Dit_Closed_m01: <TH>
+MID_LGV_XXX_Dit_Closed_m01_001: Mein Weg führt woandershin.
+MID_LGV_XXX_Seo_Closed_m01: <TH>
+MID_LGV_XXX_Seo_Closed_m01_001: Ich sehe keinen Grund, dorthin zu gehen.
+MID_LGV_XXX_Led_Closed_m01: <TH>
+MID_LGV_XXX_Led_Closed_m01_001: Das scheint die falsche Richtung zu sein.
+MID_LGV_XXX_Bel_Closed_m01: 
+MID_LGV_XXX_Bel_Closed_m01_001: 
+MID_LGV_XXX_Tal_Closed_m01: 
+MID_LGV_XXX_Tal_Closed_m01_001: 
+MID_LGV_XXX_Orh_Closed_m01: 
+MID_LGV_XXX_Orh_Closed_m01_001: 
+MID_LGV_XXX_Anh_Closed_m01: 
+MID_LGV_XXX_Anh_Closed_m01_001: 
+MID_LGV_XXX_Gatekeeper_Closed_m01: <TH>
+MID_LGV_XXX_Gatekeeper_Closed_m01_001: Ab hier ist der Zutritt verboten.
+MID_LGA_XXX_Gatekeeper_Closed_m01: <BLN>Hier geht es nicht weiter.
+MID_LGV_XXX_EXDungeon_Closed_m01: <TH>
+MID_LGV_XXX_EXDungeon_Closed_m01_001: <DLG>Die Tür reagiert nicht auf dich.
+MID_LGV_1XXX_TGXX_106_m01: <TH>
+MID_LGV_1XXX_TGXX_106_m01_001: Halt! Stopp! Dieser Bereich ist gesperrt!
+MID_LGV_1XXX_TGXX_106_m01_002: Tut mir leid, aber nach dem Vorfall mit den\nRaufbolden im Gasthaus müssen wir hier erst mal\naufräumen.
+MID_LGV_XXX_Gatekeeper_m02: <TH>
+MID_LGV_XXX_Gatekeeper_m02_001: Liegt dir etwas daran, atmen zu können? Dann\nverschwinde von hier, bevor ich dir den Hals\numdrehe.
+MID_LGA_XXX_Gatekeeper_m02: <BLN>Verzieh dich.
+MID_LGV_XXX_Gatekeeper_m03: <TH>
+MID_LGV_XXX_Gatekeeper_m03_001: Hast du was an der Murmel? Ich hab dir doch gesagt,\ndu sollst verschwinden!
+MID_LGV_XXX_Gatekeeper_m03_002: Und wenn ich dich noch ein einziges Mal hier in der\nNähe erwische, kannst du dich warm anziehen.
+MID_LGV_XXX_Hur_Arena_m02: <TH>
+MID_LGV_XXX_Hur_Arena_m02_001: Heute findet der Kampf statt. Viel Glück.
+MID_LGA_XXX_Hur_Arena_m02: <BLN>Heute findet der Kampf statt.
+MID_LGV_XXX_Arena_m01: <TH>
+MID_LGV_XXX_Arena_m01_001: Der nächste Kampf findet statt am {SetColor=Gold}{DateTime=Day} {DateTime=Month}{SetColor=Default}.\nKommt an diesem Tag wieder.
+MID_LGA_XXX_Arena_m01: <BLN>Der nächste Kampf...
+MID_LGV_XXX_Arena_m02: <TH>
+MID_LGV_XXX_Arena_m02_001: Heute findet Euer Kampf statt. Seid Ihr bereit?
+MID_LGA_XXX_Arena_m02: <BLN>Heute findet Euer Kampf statt.
+MID_LGV_XXX_Arena_Final_m01: <TH>
+MID_LGV_XXX_Arena_Final_m01_001: Der letzte Kampf findet statt am {SetColor=Gold}{DateTime=Day} {DateTime=Month}{SetColor=Default}.\nKommt an diesem Tag wieder.
+MID_LGA_XXX_Arena_Final_m01: <BLN>Der nächste Kampf...
+MID_LGV_XXX_Arena_Final_m02: <TH>
+MID_LGV_XXX_Arena_Final_m02_001: Hier ist er nun... der Tag des letzten Kampfes.\nSeid Ihr bereit?
+MID_LGA_XXX_Arena_Final_m02: <BLN>Endlich, der letzte Kampf...
+MID_LGV_XXX_Arena_Watching_m01: <TH>
+MID_LGV_XXX_Arena_Watching_m01_001: Der heutige Kampf ist vorbei, aber weitere werden\nfolgen.
+MID_LGV_XXX_Elevator_m01: <TH>
+MID_LGV_XXX_Elevator_m01_001: Wollt Ihr den Wasseraufzug verwenden?
+MID_LGV_XXX_Elevator_m01_002: <ICA>Zustimmen.
+MID_LGV_XXX_Elevator_m01_003: <ICB>Ablehnen.
+MID_LGA_XXX_Elevator_U_m01: <BLN>Hier geht es zum Hafen.
+MID_LGA_XXX_Elevator_D_m01: <BLN>Hier geht es zur Arena.
+MID_LGV_XXX_Elevator_Closed_m01: <TH>
+MID_LGV_XXX_Elevator_Closed_m001_001: Bedaure. Der Wasseraufzug ist gerade außer Betrieb.\nDas Inspektionsteam kümmert sich schon darum.
+MID_LGA_XXX_Elevator_Closed_m01: <BLN>Derzeit kein Wasseraufzug.
+MID_LGV_XXX_Departure_m01: 
+MID_LGV_XXX_Departure_m01_001: 
+MID_LGV_XXX_Departure_m01_002: 
+MID_LGV_XXX_Departure_m01_003: 
+MID_LGV_XXX_Gatekeeper_m01: <TH>
+MID_LGA_XXX_Gatekeeper_m01: Das Tor kann derzeit nicht genutzt werden.
+MID_LGV_XXX_BirdFollow_m01: <TH>
+MID_LGV_XXX_BirdFollow_m01_001: Du hast also meinen Rat befolgt und die Gestalt\neines Vogels angenommen, um über sie zu wachen.
+MID_LGV_XXX_BirdFollow_m01_002: Und nicht nur das... Du hast auch noch eine\nemotionale Bindung aufgebaut.
+MID_LGV_XXX_BirdFollow_m01_003: Vermutlich ahnt niemand etwas von deiner wahren\nNatur, aber es sind schon seltsamere Dinge\ngeschehen.
+MID_LGV_XXX_BirdFollow_m01_004: Am besten akzeptieren wir einfach das bizarre\nWunder der Bande, die du zu knüpfen imstande\nwarst.
+MID_LGA_XXX_BirdFollow_m01: <BLN>Was in aller Welt...
+MID_LGV_XXX_JuFasTemple_Closed_m01: 
+MID_LGV_XXX_JuFasTemple_Closed_m01_001: 
+MID_LGV_1KAI_A60Lock_m01: <TH>
+MID_LGV_1KAI_A60Lock_m01_001: Verschlossen. Ich glaube, man kann es von der\nanderen Seite öffnen.
+MID_LGV_1KAI_A60Lock_m01_002: Aber gibt es einen Weg, dorthin zu gelangen?
+MID_LGV_1KAI_A60Open_m01: <TH>
+MID_LGV_1KAI_A60Open_m01_001: Gut, es ist offen. Nun können wir, wann immer\nwir wollen, hindurchgehen.
+MID_LGV_1KAI_A100Warp_m01: <TH>
+MID_LGV_1KAI_A100Warp_m01_001: Möchtet ihr Aurora besuchen?
+MID_LGV_1KAI_A100Warp_m01_002: <ICA>Zustimmen.
+MID_LGV_1KAI_A100Warp_m01_003: <ICB>Ablehnen.
+MID_LGV_1BEL_Gab_Jailer_m01: 
+MID_LGV_1BEL_Gab_Jailer_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_002: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_003: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_004: 
+MID_LGV_1ANH_EXAcquisition_m01: 
+MID_LGV_1ANH_EXAcquisition_m01_001: 
+MID_LGV_3ISM_Obelisk_m01: <TH>
+MID_LGV_3ISM_Obelisk_m01_001: Willst du ins Gewölbe der Obelisken zurückkehren?
+MID_LGV_3ISM_Obelisk_m01_002: <ICA>Ja.
+MID_LGV_3ISM_Obelisk_m01_003: <ICB>Nein.
+MID_LGV_3ISM_Obelisk_m01_004: <ACA>Gut. Folge mir.
+MID_LGV_3ISM_Obelisk_m01_005: <ACB>Gut. Wenn du zurückkehren willst, gib mir einfach\nBescheid.
+MID_LGV_3ISM_CrownKey_FirstGet_m01: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m01_001: Was ist das für ein Schlüssel? Er sieht uralt aus, so\nviel ist sicher, aber alles andere ist frustrierender-\nweise nicht erkennbar.
+MID_LGV_3ISM_CrownKey_FirstGet_m01_002: Das muss ich mir genauer ansehen. Bitte verliere ihn\nnicht.
+MID_LGV_3ISM_CrownKey_FirstGet_m02: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m02_001: Es handelt sich um den Schlüssel zu einem Raum\ninnerhalb des Tempels des Diadems.
+MID_LGV_3ISM_CrownKey_FirstGet_m02_002: Wenn wir dorthin gehen und ihn verwenden, bin ich\nsicher, dass wir unsere gerechte Belohnung in\nEmpfang nehmen können.
+MID_LGV_3ISM_PromptObelisk_m01: <TH>
+MID_LGV_3ISM_PromptObelisk_m01_001: Wenn du das Gefühl hast, dass deine Streitmacht zu\nschwach ist, kannst du jederzeit ins Gewölbe der\nObelisken zurückkehren.
+MID_LGV_3ISM_PromptObelisk_m01_002: Eine Änderung der Kausalität, um Bande mit den\nanderen Flammenfürsten zu knüpfen, ist eine groß-\nartige Möglichkeit, deine Armee zu verstärken.
+MID_LGA_3ISM_PromptObelisk_m01: <BLN>Hast du genügend Streitkräfte?
+MID_LGV_3ISM_RouteComplete_m01: <TH>
+MID_LGV_3ISM_RouteComplete_m01_001: Du hast die Kausalität genügend gemeistert, um hier\nund jetzt viele Krieger um dich zu scharen.
+MID_LGV_3ISM_RouteComplete_m01_002: Du weißt, was uns bevorsteht, und wir müssen\nweiterhin auf der Hut bleiben... aber das ist schon\nbeeindruckend.
+MID_LGA_3ISM_RouteComplete_m01: <BLN>Du hast viele Krieger gesammelt.
+LGV_XXX_Notice_Unlock_Guide: <TH>
+LGV_XXX_Notice_Unlock_Guide_001: <DLG>Der Abenteuerleitfaden wurde im Abenteuerplaner freigeschaltet.\nÜberprüfe dort, wie du deine freie Zeit nutzen kannst.
+LGV_XXX_Notice_Unlock_Honor: <TH>
+LGV_XXX_Notice_Unlock_Honor_001: <DLG>Reputationsvorteile wurden im Abenteuerplaner freigeschaltet.\nÜberprüfe dort, was dir deine Reputation einbringt.
+LGV_XXX_Notice_Unlock_Quest: <TH>
+LGV_XXX_Notice_Unlock_Quest_001: <DLG>Die Questliste wurde im Abenteuerplaner freigeschaltet.\nÜberprüfe dort, welche Quests du angenommen hast.
+LGV_XXX_Notice_Unlock_Calendar: <TH>
+LGV_XXX_Notice_Unlock_Calendar_001: <DLG>Der Kalender wurde im Abenteuerplaner freigeschaltet.\nNutze ihn, um deine freie Zeit so effizient wie möglich zu gestalten.
+LGV_XXX_Notice_Unlock_BattleHint: <TH>
+LGV_XXX_Notice_Unlock_BattleHint_001: <DLG>Voraussicht wurde im Abenteuerplaner freigeschaltet.\nÜberprüfe dort Informationen zum nächsten großen Kampf.

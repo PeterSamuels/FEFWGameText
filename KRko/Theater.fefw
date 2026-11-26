@@ -1,0 +1,183 @@
+﻿MID_Stage_Act_01: 제1막
+MID_Stage_Act_02: 제2막
+MID_Stage_Act_03: 제3막
+MID_Stage_Act_04: 제4막
+MID_Stage_Act_05: 제5막
+MID_Stage_Howdoyouplay: 어떻게 연기할 것인가?
+MID_Stage_Emotion_Joy_01: 매우 기쁜 것처럼
+MID_Stage_Emotion_Joy_02: 넘치는 기쁨을 드러내며
+MID_Stage_Emotion_Joy_03: 기쁜 듯한 표정으로
+MID_Stage_Emotion_Anger_01: 분노를 터뜨리는 것처럼
+MID_Stage_Emotion_Anger_02: 분노의 감정을 담아
+MID_Stage_Emotion_Anger_03: 매우 화난 느낌으로
+MID_Stage_Emotion_Sadness_01: 어깨를 축 늘어뜨리고
+MID_Stage_Emotion_Sadness_02: 슬픈 듯한 태도로
+MID_Stage_Emotion_Sadness_03: 금방이라도 울 것처럼
+MID_Stage_Emotion_Worry_01: 고뇌를 드러내며
+MID_Stage_Emotion_Worry_02: 고뇌에 찬 얼굴로
+MID_Stage_Emotion_Worry_03: 근심하는 느낌으로
+MID_Stage_Emotion_Laugh_01: 환하게 웃으며
+MID_Stage_Emotion_Laugh_02: 큰 소리로 웃으며
+MID_Stage_Emotion_Laugh_03: 즐거운 듯이 웃으며
+MID_Stage_Emotion_Brave_01: 용감하고 당당하게
+MID_Stage_Emotion_Brave_02: 당당하게 얼굴을 들고
+MID_Stage_Emotion_Brave_03: 당당하게 가슴을 펴고
+MID_Stage_Emotion_Love_01: 따뜻한 애정을 담아
+MID_Stage_Emotion_Love_02: 애정 어린 몸짓으로
+MID_Stage_Emotion_Love_03: 깊은 애정을 담아
+MID_Stage_Emotion_Hate_01: 강한 증오를 담아
+MID_Stage_Emotion_Hate_02: 증오에 몸을 떨며
+MID_Stage_Emotion_Hate_03: 증오가 끓어오르는 것처럼
+MID_Stage_Title_ComedyA: 대도적 마스커리나
+MID_Stage_Plot_ComedyA: 세상을 떠들썩하게 하는 정체불명의 대도적 마스커리나.\n\n대담하게도 신전의 대제사에게\n『다음 목표는 성전』이라는\n예고장을 보낸다.\n\n그 소식을 들은 신앙심 깊은 현자는\n위병들을 장식용 갑옷 안에 매복시키는 계략으로\n대도적을 잡으려 한다.\n\n대도적과 현자의 지혜를 겨루는 범죄극!
+MID_Stage_Cast_ComedyA_01: 대도적
+MID_Stage_Cast_ComedyA_02: 대제사
+MID_Stage_Cast_ComedyA_03: 현자
+MID_Stage_Situation_ComedyA_01_t: 대도적 마스커리나 등장!
+MID_Stage_Situation_ComedyA_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「대도적」은\n모여든 위병들을 뿌리치고 도주한다
+MID_Stage_Situation_ComedyA_02_t: 목표물이 된 성전
+MID_Stage_Situation_ComedyA_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「대제사」는 대도적이 보낸\n성전을 훔치겠다는 예고장을 읽는다
+MID_Stage_Situation_ComedyA_03_t: 현자, 지혜 겨루기에서 승리하다
+MID_Stage_Situation_ComedyA_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「현자」는\n대도적을 함정에 빠뜨려 잡는 데 성공한다
+MID_Stage_Title_ComedyB: 아우레우스의 황금
+MID_Stage_Plot_ComedyB: 방탕한 생활로 큰 빚을 지고 처자식과도 헤어진 난봉꾼.\n무일푼으로 떠돌던 중에 굶주린 노인을 만나\n갖고 있던 마지막 빵을 주자\n답례로 낡은 지도를 건네받는다.\n\n알고 보니 그것은 「마도사 아우레우스」가 남긴\n황금이 있는 곳을 표시한 지도였다.\n\n황금에 대한 소문을 들은 처자식과 함께\n인생 역전을 위한 황금 찾기에 나선다!
+MID_Stage_Cast_ComedyB_01: 수수께끼의 노인
+MID_Stage_Cast_ComedyB_02: 난봉꾼의 가족
+MID_Stage_Cast_ComedyB_03: 난봉꾼
+MID_Stage_Situation_ComedyB_01_t: 친절에 대한 보답
+MID_Stage_Situation_ComedyB_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「수수께끼의 노인」은\n굶주리던 참에 난봉꾼에게 빵을 받는다
+MID_Stage_Situation_ComedyB_02_t: 황금은 어디에?
+MID_Stage_Situation_ComedyB_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「난봉꾼의 가족」은\n노인에게 받은 지도를 단서로 숲에서 보물을 찾는다
+MID_Stage_Situation_ComedyB_03_t: 진정한 보물이란
+MID_Stage_Situation_ComedyB_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「난봉꾼」은\n황금은 아니지만 대단히 맛있는 황금색 버섯을 발견한다
+MID_Stage_Title_ComedyC: 제도 말괄량이 소동기
+MID_Stage_Plot_ComedyC: 제도에 온 전대미문의 주인공,\n통칭 「말괄량이」.\n그 목적은 형제를 찾는 것.\n\n배 사고로 죽은 줄 알았던\n형제를 본 사람이 있다는 소문을 들었기 때문이다.\n\n하지만 형제를 찾는 과정에서\n괴팍한 성격 탓에 여기저기서 소동을 일으키고 마는데……\n\n형제는 과연 살아 있는 것일까?\n살아 있다면 말괄량이와 재회할 수 있을 것인가?\n제도를 무대로 펼쳐지는 감동적인 희극!
+MID_Stage_Cast_ComedyC_01: 말괄량이
+MID_Stage_Cast_ComedyC_02: 술집 주인
+MID_Stage_Cast_ComedyC_03: 취조관
+MID_Stage_Situation_ComedyC_01_t: 항구에서의 회상
+MID_Stage_Situation_ComedyC_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「말괄량이」는\n제도의 항구에서 생이별한 형제를 떠올린다
+MID_Stage_Situation_ComedyC_02_t: 대난투 끝에
+MID_Stage_Situation_ComedyC_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「술집 주인」은\n소동을 일으킨 말괄량이를 신전에 넘긴다
+MID_Stage_Situation_ComedyC_03_t: 지워지지 않는 기억
+MID_Stage_Situation_ComedyC_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「취조관」이 바로\n기억을 잃은 형제였다! 눈물의 재회
+MID_Stage_Title_TragedyA: 저주받은 반지
+MID_Stage_Plot_TragedyA: 어느 명문가의 후계자인 주인공은\n사냥 중에 길을 잃고 숲속에서 헤매다\n그곳에 사는 은자의 아이를 만나 사랑에 빠진다.\n\n밀회를 거듭하며 사랑을 키워 가던 두 사람.\n그러나 명문가에 사기를 당한 과거가 있는 은자는\n약혼반지라고 속이며 명문가의 후계자에게 저주받은\n반지를 줘서 그를 저주로 죽이려는 음모를 꾸민다.\n\n은자의 아이는 반지를 되찾으려 하지만\n연인이 변심했다고 오해한 후계자는\n실의에 빠져 호수에 몸을 던지고 마는데……\n\n연인들에게 닥친 슬픈 운명 이야기.
+MID_Stage_Cast_TragedyA_01: 명문가의 후계자
+MID_Stage_Cast_TragedyA_02: 은자
+MID_Stage_Cast_TragedyA_03: 은자의 아이
+MID_Stage_Situation_TragedyA_01_t: 금지된 사랑의 시작
+MID_Stage_Situation_TragedyA_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「명문가의 후계자」는\n숲에서 은자의 아이를 만나 사랑에 빠진다
+MID_Stage_Situation_TragedyA_02_t: 저주받은 반지
+MID_Stage_Situation_TragedyA_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「은자」는\n저주받은 반지를 명문가의 후계자에게 건넨다
+MID_Stage_Situation_TragedyA_03_t: 적어도 다음 생에서는
+MID_Stage_Situation_TragedyA_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「은자의 아이」는\n반지를 끼고 사랑하는 명문가의 후계자의 뒤를 따른다
+MID_Stage_Title_TragedyB: 아아, 개가를 울려라
+MID_Stage_Plot_TragedyB: 오랜 다툼과 혼란 끝에\n일시적인 평화를 얻었지만\n언제 다시 전쟁이 일어나도 이상하지 않은 서국과 동국.\n\n그 국경의 관문에서 근무를 서는 두 명의 병사.\n두 사람은 같은 마을에 살던 소꿉친구였지만\n전쟁으로 새로운 국경이 생기는 바람에\n적대 관계가 되어 버렸다.\n\n국경 너머로 대화를 주고받으며 사이좋게 웃는 두 사람.\n하지만 결국 전쟁이 일어나서 서로 싸우게 되는데……\n\n전장에 흩날리는 덧없는 우정에 대한 애가.
+MID_Stage_Cast_TragedyB_01: 서국 병사
+MID_Stage_Cast_TragedyB_02: 동국 병사
+MID_Stage_Cast_TragedyB_03: 마을 사람
+MID_Stage_Situation_TragedyB_01_t: 끊을 수 없는 우정
+MID_Stage_Situation_TragedyB_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「서국 병사」는\n소꿉친구인 동국 병사와 국경에서 재회한다
+MID_Stage_Situation_TragedyB_02_t: 말에서 검으로
+MID_Stage_Situation_TragedyB_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「동국 병사」는\n양국 간에 전쟁이 일어나서 싸울 수밖에 없게 된다
+MID_Stage_Situation_TragedyB_03_t: 전쟁이 끝나고 찾아온 아침
+MID_Stage_Situation_TragedyB_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「마을 사람」은\n전쟁 후 아무도 없는 조용한 국경에 꽃을 놓는다
+MID_Stage_Title_TragedyC: 갈라진 혈족
+MID_Stage_Plot_TragedyC: 전쟁으로 가주를 잃고 몰락한 어느 나라의 귀족 명문가.\n귀족의 적자는 복수를 하기 위해 하인으로 위장해서\n부모를 죽인 장군의 집에 잠입한다.\n\n하지만 운명의 장난인지 그는 장군과 사랑에 빠지고 만다.\n\n그러다 조국이 또다시 침공당할 거란 소식을 들은\n귀족의 적자는 자기 정체를 밝히고\n조국으로 돌아가겠다 말한다.\n\n그를 사랑하게 된 장군은\n나라를 버리고 둘이서 도망가자고 하는데……?\n\n운명에 농락당하는 두 사람의 비극적인 사랑 이야기.
+MID_Stage_Cast_TragedyC_01: 명문 귀족
+MID_Stage_Cast_TragedyC_02: 귀족의 적자
+MID_Stage_Cast_TragedyC_03: 장군
+MID_Stage_Situation_TragedyC_01_t: 명문가의 몰락
+MID_Stage_Situation_TragedyC_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「명문 귀족」은\n전장에서 적국의 장군과 싸우다 목숨을 잃는다
+MID_Stage_Situation_TragedyC_02_t: 가져서는 안 되는 감정
+MID_Stage_Situation_TragedyC_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「귀족의 적자」는\n적국에 잠입하지만 원수인 장군을 사랑하게 된다
+MID_Stage_Situation_TragedyC_03_t: 사랑의 종말
+MID_Stage_Situation_TragedyC_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「장군」은\n귀족의 적자와 사랑의 도피를 하다 붙잡혀 처형된다
+MID_Stage_Title_OperaA: 다시 한번 그대에게
+MID_Stage_Plot_OperaA: 어느 신을 믿으며 매일같이 기도하는 양치기가 있었다.\n신은 그 양치기의 신앙심을 시험하기 위해 시련을 내렸다.\n\n기르던 작물을 잃고\n가축을 잃고\n모아 둔 재산을 잃고\n병에 걸리고……\n\n하지만 양치기는 어떤 고난이 닥쳐도\n믿음을 잃지 않고 신의 이름을 불렀다.\n\n그런 양치기를 기다리고 있던 것은……?\n인간과 신의 괴롭지만 아름다운 이야기.
+MID_Stage_Cast_OperaA_01: 양치기
+MID_Stage_Cast_OperaA_02: 신
+MID_Stage_Cast_OperaA_03: 신의 아이
+MID_Stage_Situation_OperaA_01_t: 신들의 시련
+MID_Stage_Situation_OperaA_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「양치기」는\n신이 내린 시련으로 인해 기르던 작물과 양을 잃는다
+MID_Stage_Situation_OperaA_02_t: 믿음의 시험
+MID_Stage_Situation_OperaA_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「신」은\n양치기에게 어떤 시련을 내릴지 고민한다
+MID_Stage_Situation_OperaA_03_t: 그 영혼에 축복을
+MID_Stage_Situation_OperaA_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「신의 아이」는\n시련을 극복한 양치기에게 반려자가 되겠다고 말한다
+MID_Stage_Title_OperaB: 아레나의 환영
+MID_Stage_Plot_OperaB: 매일매일이 전투의 연속인 검투사들.\n소문에 의하면 투기장에는 원치 않는 죽음을 맞이한\n검투사의 망령이 환영이 되어 나타난다고 한다.\n\n주인공인 젊은 검투사는 그 환영을 만나고\n그에게 검은 검을 받아 승리를 거듭하며\n명성을 높여 간다.\n\n하지만 인기가 많아질수록 오만해져 가는 검투사.\n그리고 대망의 결승전, 상대에게 마지막 일격을\n가하려는 순간 검은 검이 부서지고 마는데……\n\n영광과 좌절의 그림자 속에서 꿈틀대는\n피로 얼룩진 괴기한 이야기!
+MID_Stage_Cast_OperaB_01: 젊은 검투사
+MID_Stage_Cast_OperaB_02: 상대 검투사
+MID_Stage_Cast_OperaB_03: 환영
+MID_Stage_Situation_OperaB_01_t: 아레나의 환영
+MID_Stage_Situation_OperaB_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「젊은 검투사」는\n환영에게 검은 검을 받고 연전연승을 이어 간다
+MID_Stage_Situation_OperaB_02_t: 영광의 끝
+MID_Stage_Situation_OperaB_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「상대 검투사」는\n오만한 태도를 보인 젊은 검투사를 쓰러뜨린다
+MID_Stage_Situation_OperaB_03_t: 반복되는 어둠
+MID_Stage_Situation_OperaB_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「환영」은\n검은 검을 들고 만족한 얼굴로 다음 저주 대상을 찾는다
+MID_Stage_Title_OperaC: 이아페토스에 걸린 무지개
+MID_Stage_Plot_OperaC: 다그다 북쪽에 늘어선 이아페토스 산맥.\n그곳에는 위대한 정령들이 살고 있는데\n무지개가 뜨는 날에 사람들 앞에 모습을 드러낸다고 한다.\n\n우연히 무지개가 뜨는 날 산에 오른 주인공 나무꾼은\n정령의 안내를 받아 정령의 왕을 만나게 된다.\n\n엄청난 행운이라고 생각한 것도 잠시,\n산을 파괴하는 죄인으로서 처벌받을 위기에 처하는데……\n\n무지개가 떠 있는 동안 신비한 산에서 일어난\n인간과 정령들의 아름다운 환상담.
+MID_Stage_Cast_OperaC_01: 나무의 정령
+MID_Stage_Cast_OperaC_02: 정령의 왕
+MID_Stage_Cast_OperaC_03: 나무꾼
+MID_Stage_Situation_OperaC_01_t: 정령의 재판
+MID_Stage_Situation_OperaC_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「나무의 정령」은\n나무꾼이 동료를 베었다고 호소한다
+MID_Stage_Situation_OperaC_02_t: 판결은 내려졌다
+MID_Stage_Situation_OperaC_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「정령의 왕」은\n그 말을 듣고 나무꾼을 벌하려 한다
+MID_Stage_Situation_OperaC_03_t: 은혜 갚은 정령
+MID_Stage_Situation_OperaC_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「나무꾼」은\n과거에 도와준 동물 정령의 도움으로 무사히 빠져나온다
+MID_Stage_Title_SpecialA: 희곡·투기장의 백발귀
+MID_Stage_Plot_SpecialA: 다그다 문학사에서 대걸작으로 손꼽히는\n「투기장의 백발귀」가 드디어 무대화!\n\n친우에게 배신당해 대역죄인으로 몰린 젊은 장군은\n처형 직전에 군신 마스의 도움을 받아\n투기장의 시련에 도전하게 되면서\n「백발귀」로 불리게 된다.\n\n쟁쟁한 강적들과의 싸움,\n적의 함정,\n아름다운 신관과의 사랑과 이별……\n\n백발귀는 오늘도 고난에 맞서 싸운다.\n언젠가 결백을 증명하고 자유를 되찾을 그날을 위해……!
+MID_Stage_Cast_SpecialA_01: 젊은 장군
+MID_Stage_Cast_SpecialA_02: 장군의 친우
+MID_Stage_Cast_SpecialA_03: 검투사
+MID_Stage_Cast_SpecialA_04: 신관
+MID_Stage_Cast_SpecialA_05: 백발귀
+MID_Stage_Situation_SpecialA_01_t: 전장을 누비는 젊은 무사
+MID_Stage_Situation_SpecialA_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「젊은 장군」은\n전장에서 크게 활약한다
+MID_Stage_Situation_SpecialA_02_t: 누명
+MID_Stage_Situation_SpecialA_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「장군의 친우」는\n장군에게 대역죄인이라는 누명을 씌워 투옥시킨다
+MID_Stage_Situation_SpecialA_03_t: 투기장의 백발귀
+MID_Stage_Situation_SpecialA_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「검투사」는\n백발귀가 된 장군과의 싸움에서 무참히 패배한다
+MID_Stage_Situation_SpecialA_04_t: 미혹의 오후
+MID_Stage_Situation_SpecialA_04: {Variable=0}{ConsonantVowel=이|가} 연기하는 「신관」은\n남몰래 백발귀의 감옥에서 그와의 밀회를 이어 간다
+MID_Stage_Situation_SpecialA_05_t: 내일을 위한 승리
+MID_Stage_Situation_SpecialA_05: {Variable=0}{ConsonantVowel=이|가} 연기하는 「백발귀」는\n비열한 함정에도 굴하지 않고 강적에게 당당히 승리한다
+MID_Stage_Title_SpecialB: 아라고의 일곱 시련
+MID_Stage_Plot_SpecialB: 대제 다그다와 인간 사이에서 태어난 영웅 아라고.\n그는 다그다 곳곳에서 명성을 떨쳤으며\n염문도 많이 뿌렸다.\n그런 아라고의 수많은 무용담이\n무대 위에서 펼쳐진다!\n\n「거대 샌드 바알 퇴치」\n「리디아족 왕과의 대결」\n「미녀 올리비아와의 고개 넘기」\n「브리기트 왕과의 맹세의 전투」\n등등……\n\n당신은 이제 역사의 목격자가 된다.
+MID_Stage_Cast_SpecialB_01: 마을 사람
+MID_Stage_Cast_SpecialB_02: 리디아족 왕
+MID_Stage_Cast_SpecialB_03: 올리비아
+MID_Stage_Cast_SpecialB_04: 적 부족의 왕
+MID_Stage_Cast_SpecialB_05: 아라고
+MID_Stage_Situation_SpecialB_01_t: 위험한 괴물 토벌
+MID_Stage_Situation_SpecialB_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「마을 사람」은\n거대 샌드 바알을 쓰러뜨린 아라고를 찬양한다
+MID_Stage_Situation_SpecialB_02_t: 세기의 대결
+MID_Stage_Situation_SpecialB_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「리디아족 왕」은\n아라고와 대결을 벌이지만 고전을 면치 못한다
+MID_Stage_Situation_SpecialB_03_t: 사랑의 조우
+MID_Stage_Situation_SpecialB_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「올리비아」는\n거칠지만 늠름한 아라고에게 마음을 빼앗긴다
+MID_Stage_Situation_SpecialB_04_t: 엄청난 협공
+MID_Stage_Situation_SpecialB_04: {Variable=0}{ConsonantVowel=이|가} 연기하는 「적 부족의 왕」은\n아라고와 브리기트 왕에게 패하고 울상을 짓는다
+MID_Stage_Situation_SpecialB_05_t: 끝나지 않는 전설
+MID_Stage_Situation_SpecialB_05: {Variable=0}{ConsonantVowel=이|가} 연기하는 「아라고」는\n새로운 적을 찾아 다음 전장으로 향한다
+MID_Stage_Title_SpecialC: 희대의 가수 코엔
+MID_Stage_Plot_SpecialC: 그 이름을 모르는 자가 없는, 노래와 연주의 천재이자\n희대의 음유 시인인 코엔의 이야기!\n\n코엔은 많은 곡을 만들고 연주하기 위해\n비우엘라를 손에 들고 다그다 전역을 여행하며\n『창궐한 쥐 떼를 노래로 쫓아냈다』,\n『연주를 하자 통 안의 물이 향기로운 홍소로 변했다』,\n『비우엘라 연주로 거대한 산을 움직였다』 등등\n무수한 전설을 남겼다.\n\n사람들을 매료시켰던 찬란한 젊은 시절부터\n그 빛이 다하여 예술의 신 칼라가 애도하는 순간까지의\n감동적인 생애를 담은 일대기!
+MID_Stage_Cast_SpecialC_01: 코엔
+MID_Stage_Cast_SpecialC_02: 마을 사람
+MID_Stage_Cast_SpecialC_03: 신전병
+MID_Stage_Cast_SpecialC_04: 불량배
+MID_Stage_Cast_SpecialC_05: 칼라
+MID_Stage_Situation_SpecialC_01_t: 젊은 가수의 고민
+MID_Stage_Situation_SpecialC_01: {Variable=0}{ConsonantVowel=이|가} 연기하는 「코엔」은\n어떻게 하면 더 멋진 연주를 할 수 있을지 고민한다
+MID_Stage_Situation_SpecialC_02_t: 매혹적인 연주자
+MID_Stage_Situation_SpecialC_02: {Variable=0}{ConsonantVowel=이|가} 연기하는 「마을 사람」은\n코엔의 멋진 연주를 듣고 최고의 찬사를 보낸다
+MID_Stage_Situation_SpecialC_03_t: 바람이 불 때
+MID_Stage_Situation_SpecialC_03: {Variable=0}{ConsonantVowel=이|가} 연기하는 「신전병」은\n코엔의 노래를 듣고 사기가 오른다
+MID_Stage_Situation_SpecialC_04_t: 생명을 얻은 물
+MID_Stage_Situation_SpecialC_04: {Variable=0}{ConsonantVowel=이|가} 연기하는 「불량배」는\n코엔의 연주로 물이 홍소로 변하자 기분이 좋아진다
+MID_Stage_Situation_SpecialC_05_t: 그의 노래여, 영원하라
+MID_Stage_Situation_SpecialC_05: {Variable=0}{ConsonantVowel=이|가} 연기하는 「칼라」는\n죽은 코엔을 그리워하며 애도한다
+MID_Stage_Calendar_Help_SpecialA: 극장에서 특별 공연\n「희곡·투기장의 백발귀」가\n상연됩니다
+MID_Stage_Calendar_Help_SpecialB: 극장에서 특별 공연\n「아라고의 일곱 시련」이\n상연됩니다
+MID_Stage_Calendar_Help_SpecialC: 극장에서 특별 공연\n「희대의 가수 코엔」이\n상연됩니다

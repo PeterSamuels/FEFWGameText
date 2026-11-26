@@ -1,0 +1,86 @@
+﻿MID_ScoutInfo_NegotiationConditions_Yes_Easy: 需交涉（难度 低）
+MID_ScoutInfo_NegotiationConditions_Yes_Normal: 需交涉（难度 中）
+MID_ScoutInfo_NegotiationConditions_Yes_Hard: 需交涉（难度 高）
+MID_ScoutInfo_NegotiationConditions_Yes_VeryHard: 需交涉（难度 超高）
+MID_ScoutInfo_NegotiationConditions_Win: 在赌局中获胜
+MID_ScoutInfo_NegotiationConditions_Price: 协商金额
+MID_ScoutInfo_NegotiationConditions_Question: 回答问题
+MID_ScoutInfo_NegotiationConditions_Item: 交付指定物品
+MID_ScoutInfo_NegotiationConditions_Talk: 询问详情
+MID_ScoutInfo_NegotiationConditions_Clear: 完成？？？
+MID_ScoutInfo_NegotiationConditions_SideStoryClear: 完成{Variable=0}外传
+MID_ScoutInfo_NegotiationConditions_ClearAndAction: 完成？？？并达成？？？
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndAction: 完成{Variable=0}外传并达成？？？
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndDefeat: 完成{Variable=0}外传并让其于正赛败退
+MID_ScoutInfo_Characteristic_Aur: 继承了幽·法丝血脉，内心纯净的女神。\n能使用神秘的力量对抗冥界的侵略。
+MID_ScoutInfo_Characteristic_Pet0: 视力超群，擅长远距离射击的神射手。\n使用战技时可射穿更远处的敌人。
+MID_ScoutInfo_Characteristic_Hur: 精通战斗与治疗，强大且温柔的女性。\n能一边与敌人交战，一边治疗伙伴。
+MID_ScoutInfo_Characteristic_Jes: 移动速度如电光石火，将敌人玩弄于股掌的剑客。\n使用战技“替换”时可在战场上自由穿行。
+MID_ScoutInfo_Characteristic_Gol: 用压倒性的力量与防守，来镇压敌人的彪形大汉。\n体格超乎常人，即使身穿重型装备也游刃有余。
+MID_ScoutInfo_Characteristic_Dan: 强大的魔道使用者，同时也是知识丰富的文豪。\n可通过精准的指示提升己方的能力。
+MID_ScoutInfo_Characteristic_Esm: 用蛮力粉碎敌人的强壮长枪手。\n可轻松驾驭一切沉重的武器。
+MID_ScoutInfo_Characteristic_Sim: 经历过无数次死斗的战斗专家。\n即使受到致命伤也能因“贼运”存活。
+MID_ScoutInfo_Characteristic_Lou: 会用连续攻击压制敌人，惹人怜爱的剑客。\n抢占先机后，再通过追击将敌人逼至绝境。
+MID_ScoutInfo_Characteristic_Fia: 擅长回复魔法，似乎有隐情的神职人员。\n能减少魔法消耗，并治疗众多伙伴。
+MID_ScoutInfo_Characteristic_Lor0: 以敏捷身手为傲的活泼少女。\n状态良好时甚至可以回避任何攻击。
+MID_ScoutInfo_Characteristic_Set: 枪术卓越的聪明的旅行者。\n能通过迅速的反击来削弱敌人的锐气。
+MID_ScoutInfo_Characteristic_Nin: 在神殿担任瓦尔坎的神秘少女。\n能倾听精灵之声及抵御魔法攻击。
+MID_ScoutInfo_Characteristic_Lil: 擅长稳健战斗的弓箭手。\n拥有从远距离单方面攻击敌人的实力。
+MID_ScoutInfo_Characteristic_Lys: 活用速度进行战斗的优秀骑士。\n擅长在战斗中与敌人拉近距离以抢占先机。
+MID_ScoutInfo_Characteristic_Sci: 灵活运用剑与魔法，谜团重重的吟游诗人。\n能熟练地驾驭各种武器。
+MID_ScoutInfo_Characteristic_Moo0: 对战场还不甚熟悉的稚嫩少女。\n但蕴藏着巨大潜力。
+MID_ScoutInfo_Characteristic_Mic: 擅长白刃战的老练女战士。\n能判读敌人的动作，让攻击精准命中。
+MID_ScoutInfo_Characteristic_Oly: 擅长使用白魔法，热情的歌之巫女。\n以强烈的求胜心为魔法带来致命的威力。
+MID_ScoutInfo_Characteristic_Naz: 力量异于常人、精力充沛的少年剑客。\n只要占得先机，攻势即可进一步增强。
+MID_ScoutInfo_Characteristic_Dai: 用引以为傲的臂力大胆战斗的青年。\n通过全力的一击粉碎一切敌人。
+MID_ScoutInfo_Characteristic_Hal: 技艺精湛的弓箭手，同时也是一名江湖艺人。\n擅长实战，能够应对各种战况。
+MID_ScoutInfo_Characteristic_Guj: 实力不凡、不拘一格且自由奔放的佣兵。\n连如何战斗及获胜都取决于当下的心情。
+MID_ScoutInfo_Characteristic_Yan: 不仅能治疗，还擅长战斗的流浪僧兵。\n会使用打倒敌人后强化自身的神秘法术。
+MID_ScoutInfo_Characteristic_Iio: 和爱马一同驰骋战场的青年佣兵。\n擅长在战斗中利用机动能力抢占先机。
+MID_ScoutInfo_Characteristic_Pep: 身手敏捷、战斗华丽的狩猎专家。\n伏击虚弱的敌人，切实给予其最后一击。
+MID_ScoutInfo_Characteristic_Noc: 兼备力量与速度的老练斗士。\n战斗时可提高注意力以回避任何攻击。
+MID_ScoutInfo_Characteristic_Sop: 擅长用魔法进行回复的贪吃神官。\n能增强治愈魔法的效果。
+MID_ScoutInfo_Characteristic_Cat: 战斗技巧十分出色的一流佣兵。\n靠速度取得的优势越大，攻击就越精准。
+MID_ScoutInfo_Characteristic_Ned: 随心所欲驾驭飞鸵的优秀骑兵。\n自由驰骋于战场，将敌人玩弄于股掌。
+MID_ScoutInfo_Characteristic_Zac: 招式承袭山贼的用斧之人。\n持斧攻击时的命中率很高。
+MID_ScoutInfo_Characteristic_Maj: 以体力和暴力见长的暴徒。\n装备斧头后，攻击性会进一步提升。
+MID_ScoutInfo_Characteristic_Ven: 热爱战车的老练骑手。\n乘上战车后，射击能力会得到提升。
+MID_ScoutInfo_Characteristic_Ini: 可射出强力箭矢的箭术专家。\n所射之箭甚至能贯穿坚硬的铠甲。
+MID_ScoutInfo_Characteristic_Jas: 擅长防守的佣兵，是佣兵团的团长。\n能在接下敌人的攻击后发动高精准度的反击。
+MID_ScoutInfo_Characteristic_Ale: 身姿轻盈地翱翔于天际，惹人怜爱的天马骑士。\n会将伙伴们热烈的声援化作战斗的动力。
+MID_ScoutInfo_Characteristic_Cle: 
+MID_ScoutInfo_Characteristic_Mys: 
+MID_ScoutInfo_Characteristic_Cen: 拥有铁壁般防守力的老练重装骑士。\n其防御足以挡下沉重的一击。
+MID_ScoutInfo_Characteristic_Asw: 技艺足以匹敌神明的弓圣。\n能以惊人的命中率精准击穿敌人。
+MID_ScoutInfo_Characteristic_Nat: 拥有压倒性攻击力，一以当千的将领。\n善用冲锋陷阵以抢占先机的战术。
+MID_ScoutInfo_Characteristic_Hri: 拥有卓越技巧和才略，足智多谋的将领。\n善用假借守势戏弄敌人的战术。
+MID_ScoutInfo_Characteristic_Gra: 
+MID_ScoutInfo_Characteristic_Kir: 残忍且臭名昭著的海贼团前首领。\n面对毫无抵抗的对手时更能发挥实力。
+MID_ScoutInfo_Characteristic_Nuz: 杀戮技巧无与伦比的部族战士。\n只要敌人暴露弱点，便会毫不留情地攻其要害。
+MID_ScoutInfo_Characteristic_Kra: 不仅擅长武术，治愈魔法也颇有心得的守护战士。\n拥有不屈的精神，能一直战斗下去。
+MID_ScoutInfo_Characteristic_Ann: 可突破敌方的布阵，性格开朗的战象兵。\n会骑着战象，顽强地驰骋于战场。
+MID_ScoutInfo_Characteristic_Tia0: 拥有丰富知识及军师之才的少女。\n能以娴熟的兵法巧妙地整顿友方战力。
+MID_ScoutInfo_Characteristic_Fab: 可操纵暗魔法，充满谜团的传教士。\n会用特殊的法术让敌人丧失斗志。
+MID_ScoutInfo_Characteristic_Bon: 操纵剑与魔法的“萨拉弥斯的贤将”。\n会为友方传授秘策，以提高其攻击精度。
+MID_ScoutInfo_Characteristic_Tob: 以力量和防守为傲的“萨拉弥斯的刚将”。\n会用千锤百炼的招式，于战场上大显身手。
+MID_ScoutInfo_Characteristic_Buc: 人称“鬼熊”，身经百战的守护骑士。\n拥有强韧的肉体，能挡下敌人的攻击。
+MID_ScoutInfo_Characteristic_Gat: 曾在东方修行过的实力非凡的武术高手。\n其犀利的剑术将为战场带来胜利之风。
+MID_ScoutInfo_Characteristic_Urs: 沉着冷静的旺达尔商会理事。\n精通贸易，可在战场上分享道具袋。
+MID_ScoutInfo_Characteristic_Die: 沉默寡言但战斗技术高超，原为森之民的青年。\n擅长护卫技巧，不给敌人追击机会。
+MID_ScoutInfo_Characteristic_Sar: 擅长精灵魔法的性格稳重的女性。\n能使陷入危机的友方退到后方，并为其疗伤。
+MID_ScoutInfo_Characteristic_Kai0: 充满活力、关心家人的直爽少年。\n行动力极强，尽情活跃于战场。
+MID_ScoutInfo_Characteristic_Dit: 为排解饥渴而寻求厮杀的异国剑客。\n挑战敌人时，其剑会散发出必杀的光芒。
+MID_ScoutInfo_Characteristic_Seo: 勇猛果敢且刚毅果断的萨拉弥斯的女王。\n拥有勇于面对一切困难的不屈意志。
+MID_ScoutInfo_Characteristic_Led: 演奏着魅惑旋律的美丽舞姬。\n能用优雅的动作轻松躲避反击。
+MID_ScoutInfo_Characteristic_Bel: 为自由而战的高洁战士。\n会用在斗技场练就的招式，对敌人发动连击。
+MID_ScoutInfo_Characteristic_Tal: 胸怀非凡野心，鞑古扎之地首屈一指的大商人。\n天生被好运眷顾，表现大胆且活跃。
+MID_ScoutInfo_Characteristic_Orh: 身怀诸多秘密的神秘少女。\n无法成为部分兵种，但拥有坚固的身体。
+MID_ScoutInfo_Characteristic_Anh: 为拯救故乡同胞而战的白衣少女。\n精通运用气功的体术，擅长回避。
+MID_ScoutInfo_Characteristic_Kou: 操纵昆仑魔法的强大魔道使用者。\n会用精炼而出的魔力精准命中敌人。
+MID_ScoutInfo_Characteristic_Tro: 经验丰富、值得信赖的老战士。\n尤其能在使用手甲的战斗中展示其卓越的身手。
+MID_ScoutInfo_Characteristic_Kai1: 充满活力、关心家人的直爽青年。\n行动力极强，尽情活跃于战场。
+MID_ScoutInfo_Characteristic_Tia1: 拥有丰富知识及军师之才的女性。\n能以娴熟的兵法巧妙地整顿友方战力。
+MID_ScoutInfo_Characteristic_Pet1: 视力超群，擅长远距离射击的神射手。\n使用战技时可射穿更远处的敌人。
+MID_ScoutInfo_Characteristic_Moo1: 已熟知战场并获得成长的女性。\n但依然蕴藏着巨大潜力。
+MID_ScoutInfo_Characteristic_Lor1: 以敏捷身手为傲的活泼少女。\n状态良好时甚至可以回避任何攻击。
+MID_ScoutInfo_Characteristic_Tah: 习得了琵冬流格斗术的斗士。其训练有素的肉体\n不仅为主君亚丝望所用，亦是保护我方的可靠盾牌。

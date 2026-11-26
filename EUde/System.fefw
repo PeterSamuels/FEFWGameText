@@ -1,0 +1,1047 @@
+﻿MID_Sys_EXFont_ButtonA: {ButtonA}
+MID_Sys_EXFont_ButtonB: {ButtonB}
+MID_Sys_EXFont_ButtonX: {ButtonX}
+MID_Sys_EXFont_ButtonY: {ButtonY}
+MID_Sys_EXFont_ButtonL: {ButtonL}
+MID_Sys_EXFont_ButtonR: {ButtonR}
+MID_Sys_EXFont_ButtonZL: {ButtonZL}
+MID_Sys_EXFont_ButtonZR: {ButtonZR}
+MID_Sys_EXFont_ButtonSL: {ButtonSL}
+MID_Sys_EXFont_ButtonSR: {ButtonSR}
+MID_Sys_EXFont_ButtonPlus: {ButtonPlus}
+MID_Sys_EXFont_ButtonMinus: {ButtonMinus}
+MID_Sys_EXFont_StickL: {StickL}
+MID_Sys_EXFont_StickL_Up: {StickL_Up}
+MID_Sys_EXFont_StickL_UD: {StickL_UD}
+MID_Sys_EXFont_StickL_LR: {StickL_LR}
+MID_Sys_EXFont_StickR: {StickR}
+MID_Sys_EXFont_StickR_Down: {StickR_Down}
+MID_Sys_EXFont_StickR_UD: {StickR_UD}
+MID_Sys_EXFont_StickR_LR: {StickR_LR}
+MID_Sys_EXFont_StickLPush: {StickLPush}
+MID_Sys_EXFont_StickRPush: {StickRPush}
+MID_Sys_EXFont_Up: {Up}
+MID_Sys_EXFont_Down: {Down}
+MID_Sys_EXFont_Left: {Left}
+MID_Sys_EXFont_Right: {Right}
+MID_Sys_EXFont_UD: {UD}
+MID_Sys_EXFont_LR: {LR}
+MID_Sys_EXFont_Mouse: {Mouse}
+MID_Sys_EXFont_Mouse_UD: {Mouse_UD}
+MID_Sys_EXFont_Mouse_LR: {Mouse_LR}
+MID_Sys_EXFont_MouseR: {MouseR}
+MID_Sys_EXFont_MouseR_Up: {MouseR_Up}
+MID_Sys_EXFont_MouseR_UD: {MouseR_UD}
+MID_Sys_EXFont_MouseR_LR: {MouseR_LR}
+MID_Sys_EXFont_MouseZR: {MouseZR}
+MID_Sys_Localize_CN_Third_M: 他
+MID_Sys_Localize_CN_Third_F: 她
+MID_Sys_Localize_TW_Third_M: 他
+MID_Sys_Localize_TW_Third_F: 她
+MID_Sys_Singular_Magic: Magie
+MID_Sys_Singular_Skill: Fertigk.
+MID_Sys_Singular_Arts: Kampftechnik
+MID_Sys_Singular_Special: Brandtechnik
+MID_Sys_Singular_BlazeSkill: Brandfertigkeit
+MID_Sys_Plural_Class: Klassen
+MID_Sys_Null: 
+MID_Sys_Plus: +
+MID_Sys_Minus: -
+MID_Sys_Multiply: {Multiply}
+MID_Sys_Percent: %
+MID_Sys_Solidus: /
+MID_Sys_Tilde: –
+MID_Sys_Over: o. mehr
+MID_Sys_RightArrow: →
+MID_Sys_Increase_Value: +{Variable=0}
+MID_Sys_Increase_Ratio: {Variable=0} %
+MID_Sys_Distance: {Variable=0} m
+MID_Sys_Ellipsis: ...
+MID_Sys_Reliance_Rank_C: C
+MID_Sys_Reliance_Rank_B: B
+MID_Sys_Reliance_Rank_A: A
+MID_Sys_Reliance_Rank_S: S
+MID_Sys_ValueEmpty: --
+MID_Sys_ValueEmptyLong: ----
+MID_Sys_ValueUnknown: ?
+MID_Sys_Unknown: ???
+MID_Sys_unlimited: ∞
+MID_Sys_MAX: MAX
+MID_Sys_Total: Gesamt
+MID_Sys_Empty: Keine
+MID_Sys_NoEquipment: Nichts ausgerüstet
+MID_Sys_Equipped: Ausgerüstet
+MID_Sys_Deployed: Zugewiesen
+MID_Sys_WeaponEndure: Haltbark.
+MID_Sys_MagicEndure: Magie
+MID_Sys_Remaining: Noch:
+MID_Sys_Turn: Zug/Züge
+MID_Sys_Saving: Speichern...
+MID_Sys_FastForward: Schnelldurchlauf
+MID_Sys_RequiredCondition: Bedingungen
+MID_Sys_EnemySilhouette: Drittes Auge
+MID_Sys_Gold: Gold
+MID_Sys_HonorLv: Reputat.
+MID_Sys_HonorLV_Part3: Erlöserwert
+MID_Sys_Rewind: Göttl. Sand
+MID_Sys_Fragment: Karmasplitter
+MID_Sys_Award: Truppenpkt.
+MID_Sys_Motivation: Motivation
+MID_Sys_Item: Item
+MID_Sys_ItemEtc: Items/Ausrüstung
+MID_Sys_ReliancePt: Unterstützungswert
+MID_Sys_Contribution: Tribut
+MID_Sys_ForcePower: Kampfstärke
+MID_Sys_Material: Materialien
+MID_Sys_Exp: Erf.
+MID_Sys_ClassEXP: Klassen-Erf.
+MID_Sys_SkillEXP: Fähigkeitenerf.
+MID_Sys_HonorExp: Reputation
+MID_Sys_HonorExp_Part3: Erlöserpunkte
+MID_Sys_Hp: KP
+MID_H_Sys_Hp: Kraftpunkte. Die Einheit zieht sich\nzurück, wenn sie auf 0 sinken.
+MID_Sys_Str: Stä.
+MID_H_Sys_Str: Stärke. Beeinflusst den mit phys.\nAngriffen ausgeteilten Schaden.
+MID_Sys_Mag: Mag.
+MID_H_Sys_Mag: Magie. Beeinflusst den mit\nmagischen Angriffen ausgeteilten\nSchaden.
+MID_Sys_Tec: Beh.
+MID_H_Sys_Tec: Behändigkeit. Beeinflusst die\nTrefferchance & Häufigkeit krit.\nTreffer.
+MID_Sys_Spd: Ges.
+MID_H_Sys_Spd: Geschwindigkeit. Beeinflusst Aw.\nWirkt sich auch auf die\nAngriffsgeschwindigkeit aus.
+MID_Sys_Lck: Glk.
+MID_H_Sys_Lck: Glück. Verschiedene Effekte. Senkt\nRisiko gegnerischer kritischer\nAngriffe.
+MID_Sys_Def: Ver.
+MID_H_Sys_Def: Verteidigung. Senkt durch\nphysische Angriffe erhaltenen\nSchaden.
+MID_Sys_Res: Res.
+MID_H_Sys_Res: Resistenz. Senkt durch magische\nAngriffe erhaltenen Schaden.
+MID_Sys_Cha: Chm.
+MID_H_Sys_Cha: Charme. Verstärkt Trefferrate\nder Strategeme.
+MID_Sys_Mov: Bew.
+MID_H_Sys_Mov: Bewegung. Bestimmt, wie viele\nFelder eine Einheit ziehen kann.
+MID_H_Sys_HPStock: Füllt die KP der Einheit zu 100 %\nauf, wenn sie auf 0 fallen, und\nverbraucht dafür 1 Rang.
+MID_Sys_Attack: Agr.
+MID_H_Sys_Attack: Angriff. Die Stärke physischer\nund magischer Angriffe.
+MID_Sys_Physicalattack: Phys.
+MID_H_Sys_Physicalattack: Physischer Angriff. Die Angriffsstärke,\nwenn die Einheit eine physische Waffe\nverwendet.
+MID_Sys_Magicattack: MA
+MID_H_Sys_Magicattack: Magischer Angriff. Die Angriffsstärke,\nwenn die Einheit Magie oder eine\nmagische Waffe verwendet.
+MID_Sys_Otherattack: Spz.
+MID_H_Sys_Otherattack: Spezialangriff. Die Angriffsstärke\nwird von gegner. Schu. oder Rsl.\nnicht beeinflusst.
+MID_Sys_Power: Kft.
+MID_Sys_Recovery: Erh.
+MID_H_Sys_Recovery: Erholung. Die Menge an KP, die\nbeim Ziel der Einheit durch Heilen\nwiederhergestellt wird.
+MID_Sys_HealPower: Mt.
+MID_H_Sys_HealPower: Die Kraft der Heilungsmagie\nder Waffe.
+MID_Sys_Hit: Trf.
+MID_H_Sys_Hit: Treffer. Bestimmt die\nWahrscheinlichkeit, dass\nein Angriff trifft.
+MID_Sys_Attackspeed: AG
+MID_H_Sys_Attackspeed: Angriffsgeschwindigkeit. Ist die AG\num mind. 4 höher als die des Gegn.,\nkann Einh. einen Folgeangr. ausführen.
+MID_Sys_Avoid: Aw.
+MID_H_Sys_Avoid: Ausweichen. Bestimmt die\nWahrscheinlichkeit, einem Angriff\nauszuweichen.
+MID_Sys_Secure: KA
+MID_H_Sys_Secure: Kritisches Ausweichen. Legt fest,\nwie hoch die Chance ist, einem\nkritischen Treffer auszuweichen.
+MID_Sys_Critical: Krit.
+MID_H_Sys_Critical: Kritische Chance: Chance,\nkritische Treffer zu landen\n(3-facher Schaden).
+MID_Sys_Protection: Schu.
+MID_H_Sys_Protection: Schutz. Senkt durch physische\nAngriffe erhaltenen Schaden.\nProfitiert von Schild.
+MID_Sys_Enduremagic: Rsl.
+MID_H_Sys_Enduremagic: Resilienz. Senkt durch magische\nAngriffe erhaltenen Schaden.\nProfitiert von Schild.
+MID_Sys_Rng: Rw.
+MID_H_Sys_Rng: Reichweite. Die Distanz, aus der\nein Gegner angegriffen werden\nkann.
+MID_Sys_Phy: Fig.
+MID_H_Sys_Phy: Figur. Mindert den Einfluss\nschwerer Waffen und Ausrüstung\nauf die Angriffsgeschwindigkeit.
+MID_Sys_Target: Rw.
+MID_Sys_Self: Einheit
+MID_Sys_Range: Rw.
+MID_Sys_RangeOther: Spezial
+MID_Sys_Status: Kampfwerte
+MID_Sys_Capability: Statuswerte
+MID_Sys_StatusTotal: Macht
+MID_H_Sys_StatusTotal: Die Summe der wichtigsten\nWerte der Einheit.
+MID_Sys_GrowthRate: Entwicklungsrate
+MID_H_Sys_GrowthRate: Wahrscheinlichkeit für {Variable=0}-Erhöhung.
+MID_Sys_Skill: Fähigk.
+MID_Sys_Arts: K-Tech.
+MID_Sys_FollowUp: Folg.
+MID_Sys_ExpNext: Noch
+MID_Sys_Lv: Lv.
+MID_H_Sys_Lv: Steht für die gesammelte Erfahrung\nder Einheit. Werteerhöhung bei\nAufstieg. (Nächster Lv.: {Variable=0} Erf.)
+MID_H_Sys_Lv_Max: Steht für die gesammelte Erfahrung\nder Einheit. (Max. Level)
+MID_H_Sys_Lv_NotGrow: Steht für die in den Schlachten\ngesammelte Erfahrung der Einheit.
+MID_Sys_SkillLv: Fähigkeitslevel
+MID_Sys_RelianceLv: Unterstz.-Lv.
+MID_Sys_RideLv: Bandlevel
+MID_Sys_MiracleLv: Segenlevel
+MID_Sys_NowLv: Aktueller Lv.
+MID_Sys_Concentration: VP
+MID_Sys_ItemStatus_Weight: Gw.
+MID_Sys_ItemStatus_Eff: Eff.+
+MID_Sys_ItemStatus_Valid: Eff.
+MID_Sys_ItemStatus_Skill: Fäh.
+MID_Sys_Blaze: Brandart
+MID_Sys_Blaze_Hell: Unterwelt
+MID_Sys_Blaze_Hell_Help: In Kämpfen mit verfluchten Schatz-\nteilen füllt sich die Brandleiste.\nBersten reduziert die max. KP. 
+MID_Sys_Blaze_Heaven: Him. Brunnen
+MID_Sys_Blaze_Heaven_Help: Angriffe füllen die Brandleiste.\nDie Leiste sinkt in Kämpfen mit\nverfluchten Schatzteilen.
+MID_Sys_Blaze_Machine: Automat
+MID_Sys_Blaze_Machine_Help: Die Brandleiste verändert sich\nnicht, sogar in Kämpfen mit\nverfluchten Schatzteilen.
+MID_Sys_BlazeSkill: Brandfertigkeit
+MID_Sys_BlazeOrigin: Ursprung
+MID_Sys_Blaze_UnlockPollution: Nötig
+MID_Sys_Blaze_ChangePollution: Brand
+MID_Sys_Blaze_Curse: Fluch
+MID_Sys_Person: Individuell
+MID_Sys_Ride: Beritten
+MID_Sys_Class: Klasse
+MID_Sys_Proper: Einzigartig
+MID_Sys_SkillPerson: Individuelle Fähigk.
+MID_Sys_SkillRide: Beritten-Fähigk.
+MID_Sys_SkillClass: Klassen-Fähigk.
+MID_Sys_SkillEquipped: Ausgerüstete Fähigk.
+MID_Sys_Acquire: Erlernbar: {Variable=0}
+MID_Sys_Reinforce: Verbessern: {Variable=0}
+MID_Sys_Acquired: Gelernt
+MID_Sys_UnopendRide_Help: Wird bei Band Lv. 3 gelernt.
+MID_Sys_UnusableCommand_Help: Nicht aktiv in Schnellkämpfen.
+MID_H_Sys_Skill_Sword: Schwert\nFähigkeit für den Kampf\nmit dem Schwert.
+MID_H_Sys_Skill_Lance: Lanze\nFähigkeit für den Kampf\nmit der Lanze.
+MID_H_Sys_Skill_Axe: Axt\nFähigkeit für den Kampf\nmit der Axt.
+MID_H_Sys_Skill_Bow: Bogen\nFähigkeit für den Kampf\nmit dem Bogen.
+MID_H_Sys_Skill_Fist: Faustkampf\nFähigkeit für den Kampf\nmit Panzerhänden.
+MID_H_Sys_Skill_Black: Schwarzmagie\nFähigkeit für schwarze\nund dunkle Magie.
+MID_H_Sys_Skill_White: Weißmagie\nFähigkeit für weiße Magie.
+MID_Sys_Skill_Foot: Infanterie
+MID_H_Sys_Skill_Foot: Infanterie\nFür zu Fuß kämpfende Klassen\nbenötigte Fähigkeit.
+MID_Sys_Skill_Cavalry: Reiten
+MID_H_Sys_Skill_Cavalry: Reiten\nFür berittene Klassen\nbenötigte Fähigkeit.
+MID_Sys_Skill_Heavy: Schwerer Panzer
+MID_H_Sys_Skill_Heavy: Schwerer Panzer\nFür gepanzerte Klassen\nbenötigte Fähigkeit.
+MID_Sys_Skill_Fly: Fliegen
+MID_H_Sys_Skill_Fly: Fliegen\nFür flugfähige Klassen\nbenötigte Fähigkeit.
+MID_Sys_Skill_Tactics: Autorität
+MID_H_Sys_Skill_Tactics: Autorität\nFähigkeit für das Kommandieren\nvon Bataillonen.
+MID_Sys_Effect_Foot: Infanterie
+MID_Sys_Effect_Fly: Flugeinheiten
+MID_H_Sys_Effect_Fly: Anfällig für Effektiv gegen\nFlugeinheiten; immun gegen\nGeländeeffekte
+MID_Sys_Effect_Cavalry: Berittene
+MID_H_Sys_Effect_Cavalry: Anfällig für Effektiv gegen\nberittene Einheiten.
+MID_Sys_Effect_Heavy: Gepanzerte
+MID_H_Sys_Effect_Heavy: Anfällig für Effektiv gegen\ngepanzerte Einheiten.
+MID_Sys_Effect_Dragon: Drachen
+MID_H_Sys_Effect_Dragon: Anfällig für Effektiv gegen\nDrachen.
+MID_Sys_Effect_Beast: Bestien
+MID_H_Sys_Effect_Beast: Anfällig für Effektiv gegen Bestien.
+MID_Sys_Effect_Hell: Wandelnde Tote
+MID_H_Sys_Effect_Hell: Anfällig für Effektiv gegen\nwandelnde Tote.
+MID_Sys_Legion_Physic: Phys.
+MID_Sys_Legion_Magic: MA
+MID_Sys_Legion_HealRatio: Heilung
+MID_Sys_Legion_Formation: Stopper
+MID_Sys_Ride_Horse: Pferd
+MID_Sys_Ride_Ostrich: Ornius
+MID_Sys_Ride_Pegasus: Pegasus
+MID_Sys_Ride_Dragon: Bau
+MID_Sys_Ride_Elephant: Elefant
+MID_Sys_Food_Meet: Fleisch
+MID_Sys_Food_Fish: Fisch
+MID_Sys_Food_Vegee: Gemüse
+MID_Sys_Taste_Sweet: Süß
+MID_Sys_Taste_Spicy: Scharf
+MID_Sys_Taste_Bitter: Bitter
+MID_Sys_TasteCate: Erlesen
+MID_Sys_DateTime_YMD: {Variable=2}.{Variable=1}.{Variable=0}
+MID_Sys_DateTime_MD: {Variable=1}.{Variable=0}.
+MID_Sys_DateTime_MD_Message: {Variable=1} {Variable=0}
+MID_Sys_DateTime_HM: {Variable=0}:{Variable=1}
+MID_Sys_DateTime_Mon: Mo
+MID_Sys_DateTime_Tue: Di
+MID_Sys_DateTime_Wed: Mi
+MID_Sys_DateTime_Thu: Do
+MID_Sys_DateTime_Fri: Fr
+MID_Sys_DateTime_Sat: Sa
+MID_Sys_DateTime_Sun: So
+MID_Sys_DateTime_Timeframe_EarlyMorning: Dämmerung
+MID_Sys_DateTime_Timeframe_Morning: Morgen
+MID_Sys_DateTime_Timeframe_Noon: Tagsüber
+MID_Sys_DateTime_Timeframe_Evening: Abend
+MID_Sys_DateTime_Timeframe_Night: Nacht
+MID_Sys_DateTime_Timeframe_Midnight: Mitternacht
+MID_Chapter_PartStoryChapter: {Variable=0}: {Variable=1} – {Variable=2}
+MID_Chapter_PartChapter: {Variable=0}: {Variable=1}
+MID_Chapter_PartStory: {Variable=0}: {Variable=1}
+MID_Sys_FreeAction_Start: Freie Zeit beginnen
+MID_Sys_SearchAction_Start: Jagd beginnen
+MID_Sys_FreeAction_BattlePrepare_Start: Vorbereitungen beginnen
+MID_Sys_HellGatePeriod_Start: Mission beginnen
+MID_Sys_FinishPeriod_Start: Finale beginnen
+MID_Sys_FreeAction_Purpose: Ziel
+MID_Sys_FreeAction_Limit: Ende:
+MID_Sys_Area_Title_FacilityOpen: Einrichtung freigeschaltet
+MID_Sys_Area_NewOpen: Jetzt geöffnet
+MID_Sys_Area_Title_AreaOpen: Ort freigeschaltet
+MID_Sys_Area_Msg_AreaOpen: Auf der Weltkarte erschienen: {Variable=0}
+MID_Sys_Reliance_Notification_LvUp_Units: Unterstz.-Lv. von {Variable=0} & {Variable=1}
+MID_Sys_Reliance_Notification_LvUp_Unlock: {Icon} Neues Unterstützungsgespräch verfügbar.
+MID_Sys_Known_NewBond: Neues Band
+MID_Sys_Known_Unlock_Scout: Dieser Charakter könnte rekrutiert werden.
+MID_Sys_Known_Unlock_InviteDining: Charakter kann zu einer Mahlzeit eingeladen werden.
+MID_Sys_Known_Unlock_InviteFacility: Charakter kann zu Mahlzeiten und ins Theater eingeladen werden.
+MID_Sys_InfoTelop_ReliancePt_Up: Unterstützung erhöht
+MID_Sys_InfoTelop_ReliancePt_Up_Big: Unterstützung erhöht+
+MID_Sys_InfoTelop_ReliancePt_Down: Unterstützung gesenkt
+MID_Sys_InfoTelop_Get: Erhalten
+MID_Sys_InfoTelop_Reportable: Fertig
+MID_Sys_InfoTelop_Achieve_Unlock: Meilenstein
+MID_Sys_InfoTelop_Tutorial_Add: Tutorial:
+MID_Sys_InfoTelop_Tutorial: Tutorials:
+MID_Sys_InfoTelop_Transport_Full: {Icon}{Variable=0} weggeworfen.
+MID_Sys_InfoTelop_GetCancel: Anbau abgebrochen
+MID_Sys_InfoTelop_Regist_SideStory: Nebenquest-Details im Kalender vermerkt.
+MID_Sys_InfoTelop_Regist_Event: Neue Informationen im Kalender vermerkt.
+MID_Sys_InfoTelop_LegionComback: {Variable=0} kehrte zurück von: {Variable=1}
+MID_Sys_InfoTelop_Recover_Blade: Antworters Ruf ist wieder bereit.
+MID_Sys_InfoTelop_Cancel_LegionDispatch: Miasma zwang eingesetzte Bataillone zur Rückkehr.
+MID_Sys_InfoTelop_Cancel_MaterialCommand: Materialien durch Miasma-Ausbruch verloren.
+MID_Sys_InfoTelop_NextMoveDanger: Feinde nähern sich Dagsion.
+MID_Sys_InfoTelop_GainCycleExp: Einh. in der Reserve haben durch Training Erf. gewonnen.
+MID_Sys_InfoTelop_GainExp: Erf. erhalten.
+MID_Sys_InfoTelop_CmdBtl_Support: {Variable=0} eilt zur Unterstützung.
+MID_Sys_InfoTelop_CmdBtl_IshAttack: Ein starker Wind kommt auf...
+MID_Sys_Result_Msg_SkillLv_Up: Fähigkeitslevel gestiegen.
+MID_Sys_Result_Msg_SendTransport: {Icon}{Variable=0} in den Vorrat geschickt.
+MID_Sys_Result_Headline_Result: Ergebnis
+MID_Sys_Result_Headline_Bad: Schlecht
+MID_Sys_Result_Headline_Good: Gut
+MID_Sys_Result_Headline_Great: Großartig
+MID_Sys_Result_Headline_Perfect: Perfekt
+MID_Sys_Result_Perch_Perfect: Perfekte Vogelzeit
+MID_Sys_Result_QuestClear: Quest abgeschlossen
+MID_Sys_Result_Headline_EXP_Get: Erf.
+MID_Sys_Result_Headline_EXP_Bonus: Bonus-Erf.
+MID_Sys_Result_Headline_Join: Gefährte ist beigetreten
+MID_Sys_Result_Headline_Show: Darbietung abgeschlossen
+MID_Sys_Result_Headline_Reconstruction: Wiederaufbau komplett
+MID_Sys_Result_Headline_Destroyed_Miasma: Miasma entfernt
+MID_Sys_Result_Headline_Destroyed_Hell: Tor zerstört
+MID_Sys_LevelUp: Level Up
+MID_Sys_Result_StageClear: Abgeschlossen
+MID_Sys_Result_Win: Sieg
+MID_Sys_Result_MVP: Held
+MID_Menu_ItemGet_Message: Folgendes wurde erhalten:
+MID_Menu_ItemAdd_Message: Ebenfalls wurde erhalten:
+MID_Menu_FundGet_Message: Mittel erhalten
+MID_Menu_ItemStolen_Message: Folgendes wurde gestohlen:
+MID_Sys_ItemBroken_Message: {Icon}{Variable=0} von {Variable=1} zerbrach.\nKft. und Trf. sind verringert.
+MID_Menu_ImportantGet_Message: Ein wichtiger Gegenstand wurde erhalten:
+MID_Sys_Result_Msg_GetItem: Folgendes erhalten:
+MID_Sys_Result_Msg_GetQuestItem: Belohnung erhalten:
+MID_Sys_Result_Msg_GetGold: Belohnung in Höhe von {Icon}{Variable=0} G erhalten.
+MID_Sys_Result_Msg_GetReward: {Icon}{Variable=0} als Belohnung erhalten.
+MID_Sys_Result_Msg_Status_Up: Werte von {Variable=0} wurden erhöht.
+MID_Sys_Result_Msg_Blacksmith_Change: Eine Waffe wurde verwandelt.
+MID_Sys_Result_Headline_Acquisition: Lernen
+MID_Sys_Result_Headline_NewAction: Funktion freigeschaltet
+MID_Sys_Result_Headline_Acquisition_Special: Fertigkeit freigeschaltet
+MID_Sys_Result_ClassTrial_Unlock: Klasse freigeschaltet
+MID_Sys_Result_Msg_Acquired: {Variable=0} erlernt: {Icon}{Variable=1}
+MID_Sys_Result_Msg_Acquired_Title: {Variable=0} hat Folgendes erlernt ({Variable=1}):
+MID_Sys_Result_Msg_JobMaster: Die Klasse {Variable=0} wurde gemeistert.
+MID_Sys_Result_Msg_Stable_GetSkill1: {Variable=0} und {Icon}{Variable=1} sind so vertraut\nmiteinander geworden, dass eine neue Reitfertigkeit verwendet werden kann.
+MID_Sys_Result_Msg_ClassTrial_Unlock: Neue Examen sind nun verfügbar:
+MID_Sys_Result_Headline_Recruit: Bataillon rekrutiert
+MID_Sys_Result_Msg_Recruit_Get_Legion: Ein neues Bataillon hat sich angeschlossen.
+MID_Sys_Result_Msg_Recruit_Get_Legion_Gambit: Zugehöriges Strategem:
+MID_Sys_Result_Headline_Recruit_Boost: Bataillon-Rekrutierungsinfo wurde aktualisiert.
+MID_Sys_Result_Msg_Recruit_Boost: Motivierende Rede von {Variable=0} hat talentierte Anwärter erreicht.
+MID_Sys_Result_Msg_Recruit_Boost_Bad: Motivierende Rede von {Variable=0} hatte nicht den erhofften Effekt...
+MID_Sys_Result_Headline_Scout_Success: Erfolgreich rekrutiert
+MID_Sys_Result_Headline_Scout_Failed: Rekrutierung gescheitert
+MID_Sys_Result_Msg_Join: {Variable=0} hat sich angeschlossen.
+MID_Sys_Result_Msg_Join_Maxim: Maxim (Jester) hat sich angeschlossen.
+MID_Sys_Result_Msg_Join_SideStory: {Variable=0} hat sich dir begrenzt angeschlossen.
+MID_Sys_Result_Msg_LevelUp: Level von {Variable=0} auf {Variable=1} erhöht.
+MID_Sys_Result_Success: Geschafft
+MID_Sys_Result_Failure: Misserfolg
+MID_Sys_Result_Msg_Get_Animal: {Icon}{Variable=0} gefangen.
+MID_Sys_Result_Msg_Get_Animal_Failed: {Icon}{Variable=0} geflohen...
+MID_Sys_Result_Msg_Get_Animal_Skill: Erlernbare Reitfertigkeit:
+MID_Sys_Result_Msg_FullMem_HP_MagicCount_Recovery_Max: KP, Magie und Motivation aller Einheiten wiederhergestellt.
+MID_Sys_Result_Msg_FullMem_Reliance_EXP_Up_Small: Unterstützungswert aller Einheiten leicht gestiegen.
+MID_Sys_Result_Msg_FullMem_Watching_EXP_Up: Fähigkeitenerfahrung durch Zusehen gestiegen.
+MID_Sys_Result_Msg_FullMem_Motivation_Up: Motivation auf Basis persönlicher Vorlieben wiederhergestellt.
+MID_Sys_Result_Msg_HP_MagicCount_Recovery_Max: Bei {Variable=0} {SingularPlural0=Einheit|Einheiten} KP und Magie vollständig wiederhergestellt.
+MID_Sys_Result_Msg_Reliance_EXP_Up: Unterstützungswert zwischen diesen {Variable=0} gestiegen.
+MID_Sys_Result_Msg_Reliance_EXP_Up_Big: Unterstützungswert zwischen diesen {Variable=0} stark gestiegen.
+MID_Sys_Result_Msg_Reliance_EXP_Up_Perch: Der Unterstützungswert mit {AvatarName} ist gestiegen.
+MID_Sys_Result_Msg_Reliance_EXP_Up_Big_Perch: Der Unterstützungswert mit {AvatarName} ist stark gestiegen.
+MID_Sys_Result_Msg_Skill_EXP_Up: Fähigkeitenerfahrung von {Variable=0} ist gestiegen.
+MID_Sys_Result_Msg_Thermae_Acquired: {Variable=0} hat temporär folgende Fertigkeit erlernt:
+MID_Sys_Result_Msg_Temple_Contribution_Up: Tribut an {Variable=0} ist gestiegen.
+MID_Sys_Result_Msg_Miracle_LevelUp_First: {Variable=0} kann jetzt eingesetzt werden.
+MID_Sys_Result_Msg_Miracle_LevelUp: Ein neuer Effekt wurde {Variable=0} hinzugefügt.
+MID_Sys_Result_Msg_Reliance_EXP_Up_Divination: Der Unterstützungswert mit Anatolia ist gestiegen.
+MID_Sys_Result_Causation_Established: Kausalität gesichert
+MID_Sys_Result_Msg_Causation_Established: Gefährten von {Variable=0} können\njetzt an der finalen Kampagne teilnehmen.
+MID_Sys_Result_Causation_Marged: Kausalität fusioniert
+MID_Sys_Result_Msg_Causation_Marged: {Variable=0} aus dem Erlösungsstrang erhielt Macht durch die Fusion.
+MID_Sys_Result_Causation_Updated: Kausalität verändert
+MID_Sys_Result_Msg_Causation_Updated: {Variable=0} kann jetzt den Kriegsstrang beschreiten.
+MID_Sys_Result_Msg_Causation_Second: {Variable=0}s Kausalität wurde erneut verändert. Setze die\nKausalität im Konflikt-Obelisken erneut, um die Änderung zu verifizieren.
+MID_Sys_Result_Msg_Causation_Condition: Neue Vorteile wurden freigeschaltet.
+MID_SysMenu_Lobby_Title: Basismenü
+MID_SysMenu_Gmap_Title: Weltkartenmenü
+MID_SysMenu_Sortie_Title: Vorbereitungsmenü: Kampf
+MID_SysMenu_SortieCmdBtl_Title: Vorbereitungsmenü: Schnellkampf
+MID_SysMenu_SortieDungeon_Title: Vorbereitungsmenü: Verlies
+MID_SysMenu_Bmap_Title: Kampfmenü
+MID_SysMenu_Dungeon_Title: Verliesmenü
+MID_SysMenu_Inventory: Inventar
+MID_SysMenu_Inventory_Help: Verwalte Fähigkeiten, Items usw.
+MID_SysMenu_Item: Items
+MID_SysMenu_Trade: Tausch
+MID_SysMenu_Skill: Fähigkeiten
+MID_SysMenu_Arts: Kampftechniken
+MID_SysMenu_Deploy: Zuweisen
+MID_SysMenu_ClassChange: Klassenwechsel
+MID_SysMenu_ClassChange_Help: Wechsle zu einer lizenzierten Klasse.
+MID_SysMenu_Guide: Abenteuerleitfaden
+MID_SysMenu_Quest: Questliste
+MID_SysMenu_Honor: Reputationsvorteile
+MID_SysMenu_Honor_Part3: Erlöserwertvorteile
+MID_SysMenu_Calendar: Kalender
+MID_SysMenu_Info: Informationen
+MID_SysMenu_Info_Help: Infos zu Verbündeten & Materialien.
+MID_SysMenu_TroopList: Einheiten
+MID_SysMenu_Roster: Liste
+MID_SysMenu_Reliance: Unterstützungsinfo
+MID_SysMenu_Material: Materialsack
+MID_SysMenu_GuideTop: Abenteuerplaner
+MID_SysMenu_LegionComback: Einsatzinfos
+MID_SysMenu_Facility: Einrichtungen
+MID_SysMenu_Facility_Help: Nutze Einrichtungen.
+MID_SysMenu_Temple: Tempel
+MID_SysMenu_Map: Karte
+MID_SysMenu_Map_Help: Infos zu Einrichtungen und Personen.
+MID_SysMenu_GmapMap: Weltkarte
+MID_SysMenu_GmapMap_Help: Infos über Orte einsehen.
+MID_SysMenu_Assist: Bewegen
+MID_SysMenu_Assist_Help: Gelange schnell an nützliche Orte.
+MID_SysMenu_Gmap: Zur Weltkarte
+MID_SysMenu_Escape: Zum Startpunkt
+MID_SysMenu_NextTimeline: Zur Hauptquest
+MID_SysMenu_HellGatePeriod: Zur Tormission
+MID_SysMenu_Save: Speichern
+MID_SysMenu_Save_Help: Speichere deinen Spielfortschritt.
+MID_SysMenu_Suspend: 
+MID_SysMenu_Suspend_Help: 
+MID_SysMenu_System: System
+MID_SysMenu_System_Help: Ändere die Spieleinstellungen.
+MID_SysMenu_Tutorial: Tutorials
+MID_SysMenu_Tutorial_Help: Erfahre, wie das Spiel gespielt wird.
+MID_SysMenu_Config: Einstellungen
+MID_SysMenu_MouseGuide: Maus-Steuerung
+MID_SysMenu_StartBattle: Los!
+MID_SysMenu_StartBattle_Help: Vorbereitungen beenden & Kampf beginnen.
+MID_SysMenu_StartExplore: Erkunden
+MID_SysMenu_StartExplore_Help: Vorbereitungen beenden & Erkundung beginnen.
+MID_SysMenu_UnitSelect: Einheiten wählen
+MID_SysMenu_UnitSelect_Help: Wähle einzusetzende Einheiten.
+MID_SysMenu_Change_Position: Positionen tauschen
+MID_SysMenu_Change_Position_Help: Einheitenplatzierung prüfen/ändern.
+MID_SysMenu_Miracle: Segen erbitten
+MID_SysMenu_Miracle_Help: Nutze die Kräfte der Götter.
+MID_SysMenu_Order: Auto-Kampf
+MID_SysMenu_Order_Help: Einheiten automatisch agieren lassen.
+MID_SysMenu_Order_Advance: Vorrücken
+MID_SysMenu_Order_Rush: Angreifen
+MID_SysMenu_Order_Escort: Beschützen
+MID_SysMenu_Order_Withdraw: Zurückfallen
+MID_SysMenu_Retired: Rückzug
+MID_SysMenu_Retired_Help: Zurück zur Weltkarte.
+MID_SysMenu_Retired_Hub_Help: Zurück zur Basis.
+MID_SysMenu_Retired_Dungeon_Help: Zurück zum Verlies.
+MID_SysMenu_Back: Zurück
+MID_SysMenu_Back_Help: Zurück ins Gewölbe der Obelisken.
+MID_SysMenu_End_Phase: Phase beenden
+MID_SysMenu_End_Phase_Help: Beende die Verbündetenphase.
+MID_SysMenu_End_Turn: Zug beenden
+MID_SysMenu_End_Turn_Help: Beende deinen Zug.
+MID_Sys_Yes: Ja
+MID_Sys_No: Nein
+MID_Menu_Decide: Bestätigen
+MID_Menu_Equip: Ausrüsten
+MID_Menu_Use: Verwenden
+MID_Menu_Remove: Entfernen
+MID_Menu_Discard: Wegwerfen
+MID_Menu_Receive: Nehmen
+MID_Menu_Store: Lagern
+MID_Menu_Open: Öffnen
+MID_Menu_Trade: Tausch
+MID_Menu_Cancel: Zurück
+MID_Menu_CorpsCancel: Zurück zur Reserve
+MID_Menu_CorpsLeader: Anführer ernennen
+MID_Menu_Default: Standard
+MID_Menu_Lv_Ascending: Lv. (↑)
+MID_Menu_Lv_Descending: Lv. (↓)
+MID_Menu_Lv_Rare: Seltenheit
+MID_Menu_All: Alle
+MID_Menu_Detail: Name
+MID_Menu_Stock: Anzahl
+MID_Menu_StockGold: Geld
+MID_Transporter_Stock: Gesamt
+MID_Menu_Own: Besitzer
+MID_Menu_Unit: Einheiten
+MID_Menu_Person: Personen
+MID_Menu_SideStory: Nebenquest von {Variable=0}
+MID_Menu_ParticipantsNum: Einheiten
+MID_SysMenu_NextTimeline_Unreached: Nicht verwendbar, bis das Ziel mind. einmal besucht wurde.
+MID_SysMenu_NextTimeline_Unreached_Part3: Führe einen Trupp zu einem Tor zur Unterwelt, um es anzugreifen.
+MID_SysMenu_NextTimeline_Invalid: Derzeit nicht verwendbar.
+MID_SysMenu_HellGatePeriod_Invalid: Derzeit nicht verwendbar.
+MID_SysMenu_Map_Confirm: Zur Weltkarte zurückkehren?
+MID_SysMenu_Progress_Confirm: Fortfahren?
+MID_Menu_StartBattle_Confirm: Den Kampf beginnen?
+MID_Menu_StartExplore_Confirm: Die Erkundung beginnen?
+MID_Menu_Retired_Confirm: Den Rückzug antreten?
+MID_Menu_UnitSelect_Help: Wähle eine Einheit.
+MID_Menu_Facility_UnitSelect_Help: Wähle {Variable=0} Teilnehmer.
+MID_Menu_PlayerFacility_UnitSelect_Help: Wähle {Variable=0} {SingularPlural0=Verbündeten|Verbündete}.
+MID_Menu_Food_UnitSelect_Help: Wähle einen Verbündeten, um ein Tier zu füttern.
+MID_Menu_Cause_Invalid: Momentan nicht verwendbar.
+MID_Menu_Cause_UsedDay: Heute nicht mehr verwendbar.
+MID_Menu_Cause_UsedWeek: Diese Woche nicht mehr verfügbar.
+MID_Menu_Cause_UsedChapter: In diesem Kapitel nicht mehr verwendbar.
+MID_Menu_Cause_ShortagePersonArg: Nicht genug Einheiten ({Variable=0}/{Variable=1}).
+MID_Menu_Cause_NotMotivation: Du hast nicht genug Motivation.
+MID_Menu_Cause_NotPerson: Keine passende Zieleinheit.
+MID_Menu_Cause_NotRide: Du hast keine Tiere.
+MID_Menu_Cause_NotLegion: Du hast keine Bataillone.
+MID_Menu_Cause_NotResource: Du hast kein Futter.
+MID_Menu_Cause_NotGift: Du hast keine Geschenke.
+MID_Menu_Cause_NotScout: Rekrutieren der Einh. derzeit unmöglich.
+MID_Menu_Cause_UsedLesson: Keine Unterweisung möglich.
+MID_Menu_Cause_Complete_Procurement: Keine Materialien zum Senden.
+MID_Menu_Cause_NotHero_Educate: Dietrich ist nicht hier.
+MID_Menu_Cause_NotMainTemple: Nur im Haupttempel verfügbar.
+MID_Menu_Cause_NotWatching: Es finden gerade keine Kämpfe statt.
+MID_Menu_Cause_FinishedWatching: Der Kampf ist beendet.
+MID_Menu_Cause_Complete_Heal: Du musst dich nicht erholen.
+MID_Menu_Cause_NotSunday: Nur sonntags verfügbar.
+MID_Menu_Cause_NotPerson_BottomUp: Keine Verbünd. profitieren von Training.
+MID_Menu_Cause_LvMaxVolunteer: Alle Segen haben den max. Level.
+MID_Menu_Cause_ShortageFood: Nicht genug Zutaten.
+MID_Menu_Cause_InvalidBoostFarm: Bereits verwendet.
+MID_Menu_Cause_CompletedBoostRecruit: Effekt noch aktiv.
+MID_Menu_Cause_ShortageBlade: Es gibt keine passenden Orte.
+MID_Menu_Cause_ShortageMaterial: Du hast nicht genug Materialien.
+MID_Menu_Cause_NotCorpsPool: Nicht genug Einheiten für einen Trupp.
+MID_Menu_Cause_NotRideJob: Eine gewählte Einheit ist nicht zulässig.
+MID_Menu_Cause_NoCleared: Verfügbar nach Beendigung von Teil I.
+MID_Menu_Cause_NotRelianceTalk: Keine Unterstützungsgespräche verfügbar.
+MID_Menu_Cause_ShortageRelianceLv: Der Unterstützungslevel ist zu niedrig.
+MID_Menu_Cause_NotPlayable: Du erfüllst nicht die Bedingungen.
+MID_Menu_Cause_NotPlayable_Part: In diesem Teil nicht aufrufbar.
+MID_Menu_Cause_NotPlayable_Chapter: In diesem Kapitel nicht aufrufbar.
+MID_Menu_Cause_NotAvailable_Facility: Nicht verfügbar
+MID_Menu_Cause_NotPerson_Absence: Abwesend
+MID_Menu_Cause_DeadAlive: Zurückgezogen
+MID_Menu_Cause_Dead: Gefallen
+MID_GuideMenu_Disable: Schreite in der Geschichte voran.
+MID_GuideMenu_BattleHint_Unconfirmed: Besuche den Sitz des Fahlen Raben für die Voraussicht.
+MID_GuideMenu_BattleHint_NotFound: Keine Informationen verfügbar.
+MID_GuideMenu_Guide_Help: Empfohlene Aktivitäten für dieses Kapitel.
+MID_GuideMenu_Guide_FromDagsion: Aus Dagsion
+MID_GuideMenu_Honor_Help: Belohnungen für die Erhöhung deiner Reputation.
+MID_GuideMenu_Honor_Part3_Help: Belohnungen für die Erhöhung deines Erlöserwerts.
+MID_GuideMenu_Quest_Help: Status der verschiedenen Questarten.
+MID_GuideMenu_Calender_Help: Fristen für Hauptquests, Feiertage und besondere Ereignisse.
+MID_GuideMenu_BattleHint_Help: Strategische Informationen für die nächste Hauptschlacht.
+MID_MaterialMenu_Help: Sieh dir deine Materialien und Schlüsselitems an.
+MID_MaterialMenu_Present: Geschenke
+MID_MaterialMenu_Food: Zutaten
+MID_MaterialMenu_Ore: Erz
+MID_MaterialMenu_ClassPass: Lizenzen
+MID_MaterialMenu_Stock: Andere
+MID_TutorialMenu_Help: Sieh dir bereits aufgerufene Tutorials an.
+MID_TutorialMenu_Battle: Kampf
+MID_TutorialMenu_Hub: Basen
+MID_TutorialMenu_Gmap: Weltkarte
+MID_TutorialMenu_Dungeon: Verliese
+MID_TutorialMenu_System: Flammenfürsten
+MID_TutorialMenu_PickUp: Andere
+MID_RelianceMenu_Help: Sieh dir die Beziehungen zwischen deinen Verbündeten an.
+MID_RelianceMenu_Hotel_UnitSelect_Help: Wähle, wessen Unterstützungsgespräche du sehen willst.
+MID_RelianceMenu_Hotel_Help: Wähle einen Unterstützungspartner.
+MID_RelianceMenu_Target: Unterstützungspartner
+MID_RelianceMenu_Confirm: Unterstützungsgespräch ansehen?
+MID_RelianceMenu_OtherRoute_Help: Dieses Gespräch wurde bereits angesehen.
+MID_RelianceMenu_CanRead_Help: Du kannst es als gesehen markieren, ohne es anzusehen.
+MID_RelianceMenu_AllRead_Confirm: Markiert bereits gesehene Unterstützungsgespräche als solche,\nauch jene im Pfad anderer Flammenfürsten. Bist du sicher?
+MID_RelianceMenu_CantTalk_Message: In Gasthäusern kannst du dir Unterstützungsgespräche ansehen.
+MID_ProfileMenu_Help: Sieh dir Statuswerte und Informationen deiner Verbündeten an.
+MID_ProfileMenu_Page1: Statuswerte
+MID_ProfileMenu_Page2: Kmpft./Magie
+MID_ProfileMenu_Page3: Klasse
+MID_ProfileMenu_Page4: Signaturfert.
+MID_ProfileMenu_Page5: Persönliches
+MID_ProfileMenu_Blood: Blutmal
+MID_ProfileMenu_Job: Info aktuelle Klasse
+MID_ProfileMenu_JobExpNext: Punkte bis gemeistert:
+MID_ProfileMenu_JobList: Klassenübersicht
+MID_ProfileMenu_JobHunter: Jäger
+MID_ProfileMenu_JobWarrior: Gladiatoren
+MID_ProfileMenu_JobSoldier: Soldaten
+MID_ProfileMenu_JobFlyingostrichsoldier: Flugeinheiten
+MID_ProfileMenu_JobCurseMage: Magier
+MID_ProfileMenu_Basic: Basisinformationen
+MID_ProfileMenu_Clan: Zugehörigk.
+MID_ProfileMenu_Hobby: Interessen
+MID_ProfileMenu_Like: Mag
+MID_ProfileMenu_Dislike: Mag nicht
+MID_ProfileMenu_GoodFriends: Enge Verb.
+MID_ProfileMenu_Age: Alter
+MID_ProfileMenu_AgeUnit: {Variable=0}
+MID_ProfileMenu_Birthday: Geburt.
+MID_ProfileMenu_Height: Größe
+MID_ProfileMenu_HeightUnit: {Variable=0} cm
+MID_ProfileMenu_Unknown: Unbek.
+MID_TroopList_PlayerTeam: Eigene
+MID_TroopList_EnemyTeam: Gegner
+MID_TroopList_AllyTeam: Verbündete
+MID_TroopList_ThirdTeam: Andere
+MID_TroopList_Page1: Status
+MID_TroopList_Page2: Fähigkeiten
+MID_TroopList_Page3: Kampfwerte
+MID_TroopList_Page4: Statuswerte
+MID_AutoMenu_Equip: Ausrüst. optimieren
+MID_AutoMenu_Deposit: Alles verstauen
+MID_AutoMenu_Skill: Fähigk. optimieren
+MID_AutoMenu_Arts: Kampft. optimieren
+MID_AutoMenu_Deploy: Zuweisungen optimieren
+MID_AllAutoMenu_Equip: Ausrüstung für alle Einheiten optimieren
+MID_AllAutoMenu_Deposit: Alles für alle Einheiten lagern
+MID_AllAutoMenu_Skill: Fähigkeiten für alle Einheiten optimieren
+MID_AllAutoMenu_Arts: Kampftechniken für alle Einheiten optimieren
+MID_AllAutoMenu_Deploy: Zuweisungen für alle Einheiten optimieren
+MID_AutoMenu_Deposit_Failure_Message: Im Vorrat ist nicht genug Platz, um dies zu nutzen.
+MID_TransportMenu_Help: Verwalte das Inventar.
+MID_TradeMenu_Help: Lass Einheiten Items miteinander tauschen.
+MID_TransportMenu_Sword: Schwerter
+MID_TransportMenu_Lance: Lanzen
+MID_TransportMenu_Axe: Äxte
+MID_TransportMenu_Bow: Bögen
+MID_TransportMenu_Fist: Panzerhände
+MID_TransportMenu_Accout: Ausrüstung
+MID_TransportMenu_Tool: Items
+MID_Menu_Magic: Magie
+MID_Menu_AttackMagic: Angriffsmagie
+MID_Menu_SupportMagic: Beistehmagie
+MID_Menu_ExclusiveItem: Klassenangriff
+MID_Menu_ItemUse_Confirm: Dieses Item verwenden?
+MID_Menu_ItemDiscard_Confirm: Bist du sicher, dass du dieses Item wegwerfen möchtest?
+MID_Menu_ItemSend_Confirm: Folgendes übergeben?
+MID_Menu_Part2Sortie_Message: Nur jene Waffen und Ausrüstungsteile in deinen Items\nkönnen in Teil II übernommen werden. Transferiere die\nWaffen und Ausrüstungsteile, die du behalten möchtest,\nzu den einzelnen Einheiten.\n\n(Waffen, Ausrüstung, Items und Materialien, die in Teil I\ngesammelt wurden, werden nach dem Abschluss von Teil II\nvollständig übernommen.)
+MID_Menu_Part2Sortie_Confirm: Fortfahren?
+MID_SendUnitMenu_ItemFull_Message: Mehr kannst du nicht tragen. Lege Items in den Vorrat.
+MID_SendUnitMenu_Help: Wähle ein Item, das in den Vorrat gelegt werden soll.
+MID_SendUnitMenu_Transport_Confirm: Dies in den Vorrat legen?
+MID_SendUnitMenu_MapDrop_Confirm: Dieses Item ist für die aktuelle Karte relevant und kann nicht\ngelagert werden. Willst du es wirklich wegwerfen?
+MID_DeleteTransportMenu_ItemFull_Message: Dein Vorrat ist voll. Wähle, was du wegwerfen willst.
+MID_DeleteTransportMenu_Help: Wähle ein Item, das du wegwerfen willst.
+MID_EquipMenu_Help: Ausrüsten oder Änderungen vornehmen.
+MID_DeployMenu_Animal_Help: Reittiere wählen oder wechseln.
+MID_DeployMenu_Ride: Reittier
+MID_DeployMenu_NotRide_Message: Der Klasse {Variable=1} von {Variable=0} kann nur\nFolgendes zugewiesen werden: {Variable=2}.
+MID_DeployMenu_Legion_Help: Bataillone wählen oder wechseln.
+MID_DeployMenu_Legion: Bataillon
+MID_DeployMenu_Command: Fähig.-Lv.
+MID_DeployMenu_Dispatch: Eingesetzt
+MID_DeployMenu_DispatchDeploy_Confirm: Dieses Bataillon ist derzeit hier eingesetzt: {Variable=0}.\nEinsatz abbrechen und zuweisen?
+MID_DeployMenu_NotTactics_Message: Der Autoritätslevel von {Variable=0} ist für dieses Bataillon zu niedrig.
+MID_Config_Battle: Kampf
+MID_Config_Hub: Basen/Verliese
+MID_Config_Common: Allgemein
+MID_Config_Enable: EIN
+MID_Config_Disable: AUS
+MID_Config_Simple: Einfach
+MID_Config_Enable_Scale: EIN (Zoom)
+MID_Config_Enable_NotScale: EIN (Fixe Größe)
+MID_Config_Enable_Thin: EIN (Leicht)
+MID_Config_Enable_Thick: EIN (Stark)
+MID_Config_Enable_Small: EIN (Klein)
+MID_Config_Enable_Big: EIN (Groß)
+MID_Config_Standard: Standard
+MID_Config_Detail: Detailliert
+MID_Config_Reverse: Umgekehrt
+MID_Config_Manual: Manuell
+MID_Config_Auto: Automatisch
+MID_Config_Speed_Fast: Schnell
+MID_Config_Speed_Normal: Normal
+MID_Config_Button_Hold: Halten
+MID_Config_Button_Trigger: Drücken
+MID_Config_AnimType_PlayerUnit: Nur deine Einheiten
+MID_Config_AnimType_PlayerPhase: Nur deine Phase
+MID_Config_Sound_Default: Beabsichtigte Musik spielen
+MID_Config_Status_Split: {Variable=0}/{Variable=1}
+MID_Config_Anim: Kampfanimationen
+MID_Config_Anim_Battle: Angriffsanimationen
+MID_Config_Anim_Battle_Help: Hier stellst du die Kampfanimationen ein.
+MID_Config_Anim_Assist: Beistehanimation
+MID_Config_Anim_Assist_Help: Hier stellst du die Animationen bei Beistehaktionen\n(z.B. Heilung) und Tänzen ein.
+MID_Config_Anim_Special: Großbrandanimationen
+MID_Config_Anim_Special_Help: Hier stellst du die Kampfanimationen während\nGroßbrand ein.
+MID_Config_UI: Benutzeroberfläche
+MID_Config_UI_Status: Statuswertefenster
+MID_Config_UI_Status_Help: Hier stellst du ein, wie die Statuswerte in Kämpfen angezeigt\nwerden.
+MID_Config_UI_HP: KP-Anzeige
+MID_Config_UI_HP_Help: Hier stellst du die Anzeige für die KP-Leiste auf\nKampfkarten ein.
+MID_Config_UI_Face: Charaktersymbole
+MID_Config_UI_Face_Help: Hier stellst du die Anzeige für die Charaktersymbole\nauf Kampfkarten ein.
+MID_Config_UI_GridAlpha: Raster
+MID_Config_UI_GridAlpha_Help: Hier stellst du die Anzeige für die Hilfslinien auf\nKampfkarten ein.
+MID_Config_UI_EnemyRangeAlpha: Gefahrenzonensättigung
+MID_Config_UI_EnemyRangeAlpha_Help: Hier stellst du die Sättigung der Anzeige der Gefahrenzone\nauf Kampfkarten ein.
+MID_Config_UI_SupportInfo_Unit: Zusätzliche Einheiteninfo
+MID_Config_UI_SupportInfo_Unit_Help: Hier stellst du ein, welche Informationen auf den\nKampfkarten dargestellt werden.
+MID_Config_UI_Minimap_Bmap: Kampf-Minikarte
+MID_Config_UI_Minimap_Bmap_Help: Hier stellst du die Darstellung der Minikarte auf\nKampfkarten ein.
+MID_Config_UI_MinimapRotate_Bmap: Rotation (Kampf-Minikarte)
+MID_Config_UI_MinimapRotate_Bmap_Help: Hier stellst du die Größe der Minikarte und die\nSynchronisierung beim Rotieren der Kampfkarten-\nKamera ein.
+MID_Config_UI_Minimap_Hub: Basis-Minikarte
+MID_Config_UI_Minimap_Hub_Help: Hier stellst du ein, ob die Minikarte in Basen angezeigt wird.
+MID_Config_UI_MinimapRotate_Hub: Rotation (Basis-Minikarte)
+MID_Config_UI_MinimapRotate_Hub_Help: Hier stellst du die Synchronisierung der Minikarte mit der\nKamerarotation in Basen ein.
+MID_Config_TopCamera: Kamera von oben
+MID_Config_TopCamera_ReverseX: Kamerarotation
+MID_Config_TopCamera_ReverseX_Help: Hier stellst du die Steuerung für die Kamerarotation auf\nKampfkarten ein.
+MID_Config_TopCamera_ReverseY: Zoom-Steuerung
+MID_Config_TopCamera_ReverseY_Help: Hier stellst du die Steuerung für das Zoomverhalten der\nKamera auf Kampfkarten ein.
+MID_Config_Camera_Sense: Steuerungsempfindlichkeit (Maus)
+MID_Config_Camera_Sense_Help: Hier stellst du ein, wie empfindlich die Bewegung der Kamera\nauf der Kampfkarte bei Verwendung der Maus-Steuerung\nsein soll.
+MID_Config_Cursor_Sense: Karten-Cursor-Tempo (Maus)
+MID_Config_Cursor_Sense_Help: Hier stellst du ein, wie empfindlich der Cursor auf der\nKampfkarte bei Verwendung der Maus-Steuerung sein soll.
+MID_Config_BackCamera: Kamera folgt
+MID_Config_BackCamera_ReverseX: Horizontale Bewegung
+MID_Config_BackCamera_ReverseX_Help: Hier stellst du die horizontale Bewegung der Kamera\nbeim Erkunden von Basen und Verliesen ein.
+MID_Config_BackCamera_ReverseY: Vertikale Bewegung
+MID_Config_BackCamera_ReverseY_Help: Hier stellst du die vertikale Bewegung der Kamera\nbeim Erkunden von Basen und Verliesen ein.
+MID_Config_BackCamera_Sens: Kameraempfindlichkeit (Sticks)
+MID_Config_BackCamera_Sens_Help: Hier stellst du ein, wie empfindlich die Steuerung der Kamera\nbeim Erkunden von Basen und Verliesen bei Verwendung der\nSticks sein soll.
+MID_Config_BackCamera_Mouse_Sens: Kameraempfindlichkeit (Maus)
+MID_Config_BackCamera_Mouse_Sens_Help: Hier stellst du ein, wie empfindlich die Bewegung der Kamera\nbeim Erkunden von Basen und Verliesen bei Verwendung der\nMaus-Steuerung sein soll.
+MID_Config_BackCamera_AutoSens: Auto-Kamera (Stärke)
+MID_Config_BackCamera_AutoSens_Help: Hier stellst du ein, wie sehr die Kamera den Bewegungen\nin Basen und Verliesen automatisch folgen soll.
+MID_Config_BGM: Musikeinstellungen
+MID_Config_BGM_Encount: Gefechte
+MID_Config_BGM_Encount_Help: Hier stellst du die Musik für die Kampfkarten ein.
+MID_Config_BGM_CmdBattle: Schnellkämpfe
+MID_Config_BGM_CmdBattle_Help: Hier stellst du die Musik für Schnellkämpfe ein.
+MID_Config_System: Anderes
+MID_Config_System_Speed: Spielgeschwindigkeit
+MID_Config_System_Speed_Help: Hier stellst du die allgemeine Spielgeschwindigkeit ein. Dies\nbetrifft die Bewegungsgeschwindigkeit auf Kampfkarten und\nder Weltkarte sowie diverse Animationsgeschwindigkeiten.
+MID_Config_System_TurnEndConfirm: Runde-beenden-Bestätigung (Weltkarte)
+MID_Config_System_TurnEndConfirm_Help: Hier stellst du ein, ob du das Ende deiner Runde\nbestätigen musst, nachdem alle Trupps gehandelt\nhaben und du einen neuen Trupp erstellen kannst.
+MID_Config_System_AI: Animation überspringen
+MID_Config_System_AI_Help: Hier stellst du ein, ob Kampfanimationen bei gegnerischen\nAktionen und in Auto-Kämpfen übersprungen werden sollen.
+MID_Config_System_Vibration: Vibrationsstärke
+MID_Config_System_Vibration_Help: Hier stellst du die Stärke der Vibrationsfunktion im Spiel ein.
+MID_Config_System_MouseMode: Zur Maus-Steuerung wechseln
+MID_Config_System_MouseMode_Help: Hier stellst du ein, ob automatisch zur Maus-Steuerung\ngewechselt wird. (Bei der Einstellung „Manuell“ kannst\ndu durch gleichzeitiges Drücken von {ButtonSL}/{ButtonSR} wechseln.)
+MID_Config_System_MouseSense: Menü-Cursor-Tempo (Maus)
+MID_Config_System_MouseSense_Help: Hier stellst du ein, wie empfindlich die Steuerung des Cursors\nin den Menüs bei Verwendung der Maus-Steuerung sein soll.
+MID_Config_System_Tutorial: Tutorial-Anzeige
+MID_Config_System_Tutorial_Help: Hier stellst du ein, ob du neue Tutorials anzeigen lässt oder\nob du Tutorialhinweise erhältst. (Manche Tutorials werden\ndessen ungeachtet immer angezeigt.)
+MID_Config_System_Bug: Gegner-Maskierung
+MID_Config_System_Bug_Help: Dies beeinflusst die Darstellung bestimmter insektenähnlicher\nGegner. Bei der Einstellung EIN werden diese Gegner anders\ndargestellt.
+MID_Config_Graphics: Bildschirm
+MID_Config_Graphics_Brightness: Helligkeit
+MID_Config_Graphics_Brightness_Help: Hier stellst du die Bildschirmhelligkeit im Spiel ein.
+MID_Config_Graphics_Brightness_UI: Benutzeroberfläche-Helligkeit
+MID_Config_Graphics_Brightness_UI_Help: Hier stellst du die Helligkeit der Benutzeroberfläche im\nSpiel ein. Sie wird nur angewandt, wenn HDR aktiv ist.
+MID_Config_Sound: Lautstärke
+MID_Config_Sound_BGM: Musik
+MID_Config_Sound_BGM_Help: Hier stellst du die Lautstärke der Musik im Spiel ein.
+MID_Config_Sound_SE: Soundeffekte
+MID_Config_Sound_SE_Help: Hier stellst du die Lautstärke der Soundeffekte im Spiel\nein.
+MID_Config_Sound_SystemSE: Soundeffekte (System)
+MID_Config_Sound_SystemSE_Help: Hier stellst du die Lautstärke der System-Soundeffekte\nim Spiel ein.
+MID_Config_Sound_Voice: Stimmen
+MID_Config_Sound_Voice_Help: Hier stellst du die Lautstärke der Sprachausgabe im Spiel\nein.
+MID_Config_Event: Ereignisse
+MID_Config_Event_Auto: Dialogfortschritt
+MID_Config_Event_Auto_Help: Hier stellst du ein, wie die Dialoge im Spiel voranschreiten\nsollen.
+MID_Config_Event_Subtitles: Untertitel (Film)
+MID_Config_Event_Subtitles_Help: Hier stellst du ein, ob die Untertitel in den Filmen dargestellt\nwerden sollen.
+MID_Config_Event_Skip: Überspringen
+MID_Config_Event_Skip_Help: Hier stellst du ein, wie lange der {ButtonPlus}-Knopf gehalten werden\nsoll, um Ereignisse zu überspringen.
+MID_Config_Reset_Confirm: Alle Einstellungen werden auf die Grundeinstellungen\nzurückgesetzt. Bist du sicher?
+MID_Calendar_Event: Ereignisse
+MID_Calendar_Birthday: Geburtstag
+MID_Calendar_Today: Heute
+MID_Calendar_NoEvent: Es sind keine Ereignisse geplant.
+MID_XHelp_Base: Basiswert
+MID_XHelp_Reinforce: Modifikator
+MID_XHelp_Blaze: Brand
+MID_XHelp_Burst: Bersten
+MID_XHelp_Reliance: Unterst.-Stärk.
+MID_XHelp_Class: Klasse
+MID_KeyHelp_Cancel: Zurück
+MID_KeyHelp_Next: Weiter
+MID_KeyHelp_Tutorial: Tutorials
+MID_KeyHelp_Menu: Menü
+MID_KeyHelp_Dash: Rennen
+MID_KeyHelp_Camera: Kamera
+MID_KeyHelp_Map: Karte
+MID_KeyHelp_GmapMap: Weltkarte
+MID_KeyHelp_ShowTrace: Weg zeigen
+MID_KeyHelp_Attack: Angriff
+MID_KeyHelp_EnemySilhouette: Halten: Drittes Auge
+MID_KeyHelp_AutoCancel: Auto-Kampf abbr.
+MID_KeyHelp_CmdBtlSkip: Kampf überspringen
+MID_KeyHelp_ShowDanger: Gefahrenzone
+MID_KeyHelp_Config: Einstellungen
+MID_KeyHelp_Config_Detail: Volle Einstellungen
+MID_KeyHelp_ForceChange: Armee auswählen
+MID_KeyHelp_ZoomViewMove: Umsehen
+MID_KeyHelp_Sortie_UnitSelect: Einsetzen/Entfernen
+MID_KeyHelp_BattleHint: Voraussicht
+MID_KeyHelp_BattleRule: Siegbedingungen
+MID_KeyHelp_Status: Statuswerte
+MID_KeyHelp_ItemChange: Ändern
+MID_KeyHelp_ListChange: Anzeige einstellen
+MID_KeyHelp_StatusChange: Weitere Info
+MID_KeyHelp_Costume: Kleidung ändern
+MID_KeyHelp_HelpDetail: Details
+MID_KeyHelp_Auto: Auto-Kampf
+MID_KeyHelp_AutoUnitSelect: Auto-Zuteilung
+MID_KeyHelp_AutoAll: Optimieren (Alle)
+MID_KeyHelp_MultiSelection: Mehrere wählen
+MID_KeyHelp_LongPressSkip: Halten: Überspr.
+MID_KeyHelp_WindowHide: Alles verbergen
+MID_KeyHelp_AutoPlay: Auto-Dialoge
+MID_KeyHelp_TalkLog: Verlauf
+MID_KeyHelp_ShowSubtitle: Untertitel
+MID_KeyHelp_ShowAll: Komplette Textanzeige
+MID_KeyHelp_Config_Reset: Einstellg. zurücksetzen
+MID_KeyHelp_Reminder: Erinnerung
+MID_KeyHelp_Pin: Pin
+MID_KeyHelp_OpenCalendar: Kalender öffnen
+MID_KeyHelp_Receive: Annehmen
+MID_KeyHelp_AllReceive: Alle annehmen
+MID_KeyHelp_Watch: Ansehen
+MID_KeyHelp_Read: Als gesehen markieren
+MID_KeyHelp_AllRead: Alle als gesehen markieren
+MID_KeyHelp_CameraChange: Bewegen
+MID_KeyHelp_BirdSing: Zwitschern
+MID_KeyHelp_GmapSpotPage: Seite {Variable=0}
+MID_KeyHelp_HowToPlay: Flammenfürst-Info
+MID_KeyHelp_AnimalRelease: Freilassen
+MID_KeyHelp_Mantle: Umhang
+MID_KeyHelp_CameraZoom: Zoom
+MID_KeyHelp_Play: Abspielen
+MID_KeyHelp_Stop: Stopp
+MID_KeyHelp_FastTravel: Hierher reisen
+MID_KeyHelp_MouseCalibration: Winkel kalibrieren
+MID_KeyHelp_MouseReset: Kalibr. zurücksetzen
+MID_NextSelect_Main: Freie Zeit beenden und zur Hauptquest voranschreiten?\n(KP, Magie und Göttlicher Sand werden wiederhergestellt.)
+MID_NextSelect_Main_Part2: Kampfvorbereitungen beenden und zur Hauptquest voranschreiten?\n(KP, Magie und Göttlicher Sand werden wiederhergestellt.)
+MID_NextSelect_Main_HellGatePeriod: Freie Zeit beenden und zur Tormission voranschreiten?\n(KP, Magie und Göttlicher Sand werden wiederhergestellt.)
+MID_NextSelect_Main_Free_Confirm: Die Frist endet am {Variable=1} {Variable=0} um {Variable=2}.\nBis dorthin vorspringen?
+MID_NextSelect_SideStory: {Variable=0}:\n{Variable=1} beginnen?\n(KP, Magie und Göttlicher Sand werden wiederhergestellt.)
+MID_NextSelect_SideStory_Confirm: Die Startzeit ist am {Variable=1} {Variable=0} um {Variable=2}.\nBis dorthin vorspringen?
+MID_NextSelect_Yes: Ja (Vorspringen)
+MID_NextSelect_Yes_Individual: Ja (Autom. Aktivitäten durchführen)
+MID_NextSelect_Yes_Confirm: Die übersprungene Zeit geht verloren, so, als ob du währenddessen\nkeine Aktivitäten durchgeführt hättest. Willst du wirklich in der Zeit\nvorspringen?
+MID_Reminder_MiddleDay_Caution: Du bist noch nicht an deinem Ziel angekommen. Erreichst du es nicht\ninnerhalb der Frist, ist die Hauptquest gescheitert.
+MID_Reminder_ReminderDay_Message: Der Tag deiner Erinnerung ist angebrochen.
+MID_Reminder_TimeLimit_Message: Der Tag deiner Hauptquest ist angebrochen.
+MID_Reminder_MiddleDay_Message: Die Frist für die Hauptquest ist zur Hälfte abgelaufen.
+MID_Reminder_FacilityReset_Message: Wöchentliche Aktivitäten sind erneut verfügbar.
+MID_Reminder_BirthSend_Confirm: {Variable=0} hat Geburtstag. Willst du {Variable=0} ein\nGeschenk überreichen? (Der Unterstützungswert steigt evtl. mehr.)
+MID_Reminder_BirthSend_NotPresent_Message: {Variable=0} hat Geburtstag. Ein Geburtstagsgeschenk\nlässt den Unterstützungswert mehr steigen als ein normales Geschenk.
+MID_Part2Chapter_ItemSupply_Message: Items wurden an alle Einheiten verteilt.
+MID_Part2Clear_Reward_Message: Abschlussgeschenk für den Kriegsstrang erhalten.
+MID_Part2Clear_First_Message: Enddaten für den Kriegsstrang von {LordName} aktualisiert.
+MID_Part2Clear_Merge_Message: Enddaten für den Kriegsstrang von {LordName}\nentsprechend deinem aktuellen Durchgang aktualisiert.
+MID_Part2Clear_ItemSend_Message: Items, Materialien, Tiere und Bataillone, die du aus Teil I erhalten\nhast, wurden in den Driftenden Schrein verbracht. Du kannst\nKarmasplitter einsetzen, um sie zu entnehmen.
+MID_Part2Clear_ItemSend_Annotation: Items aus einem beendeten Spiel befinden sich bereits im Driftenden Schrein.
+MID_Part2Clear_AddMemory_EV20_103: „Talimun und Lind“ wurde zu „Ereignisse ansehen“ hinzugefügt,\nda die Bedingungen dafür erfüllt sind.
+MID_Converge_Success_Message: Inhalt des Vorrats und des Materialsacks von {Variable=0} erhalten.
+MID_Converge_Failure_Message: Items oder Materialien, für die kein Platz mehr war, wurden\nweggeworfen, beginnend mit dem niedrigsten Goldwert.
+MID_Result_ItemFull_Message: Items oder Materialien, für die kein Platz mehr war, wurden\nweggeworfen, beginnend mit dem niedrigsten Goldwert.
+MID_Result_LegionFull_Message: Überzählige Bataillone wurden entlassen, beginnend mit den\nBataillonen des niedrigsten Autoritätslevels.
+MID_Subquest_ChapterReward_Message: Subquests, die in anderen Pfaden abgeschlossen wurden,\nwurden automatisch abgeschlossen und ihre Belohnungen ausbezahlt.
+MID_ContinueNewGame_Reload_Message: Dein Fortschritt vor der erneuten Ankunft wird fortgesetzt.
+MID_Clear_Message: Enddaten gespeichert.\n(Du kannst dein Spiel vor dem Kampf gegen Balor fortsetzen.)
+MCID_0_ISM_title03_2: {AvatarGender=Der Weber|Die Weberin} der Kausalität
+MCID_3_ISM_title07: Der finale Kampf
+MID_Restart_Retry: Neustartpunkt wählen
+MID_Restart_Retry_Help: Wähle einen Punkt, von dem aus du erneut starten\nmöchtest.
+MID_Restart_Battle: Schlacht neu starten
+MID_Restart_Battle_Help: Beginne diese Schlacht von vorn.
+MID_Restart_Battle_Confirm: Schlacht neu starten?
+MID_Restart_Battle_Comment: Du kannst diese Schlacht erneut starten und behältst dabei deine\nbisher gesammelte Erfahrung.
+MID_Restart_Battle_Annotation: Du kehrst zu dem Status zurück, den du vor der Schlacht hattest.
+MID_Restart_Battle_Yes: Ja (Erf. nicht behalten)
+MID_Restart_Battle_Yes_Exp: Ja (Erf. behalten)
+MID_Restart_BeforeBattle: Vor der Schlacht neu starten
+MID_Restart_BeforeBattle_Help: Kehre zum Status unmittelbar vor der Schlacht zurück.
+MID_Restart_BeforeBattle_Disable: Dies ist nicht verfügbar, weil du die Schlacht begonnen hast, ohne Züge übrig zu haben.
+MID_Restart_BeforeBattle_Confirm: Mit dem Status vor dem Kampf neu starten?
+MID_Restart_Chapter: Kapitel neu starten
+MID_Restart_Chapter_Help: Beginne das aktuelle Kapitel von vorn.
+MID_Restart_Chapter_Confirm: Kapitel neu starten?
+MID_Restart_Chapter_Annotation: Einheiten, Items usw. werden in den Zustand zu Beginn\ndes Kapitels zurückgesetzt.
+MID_Restart_Chapter_Part3: Abschnitt neu starten
+MID_Restart_Chapter_Part3_Help: Beginne den aktuellen Abschnitt von vorn.
+MID_Restart_Chapter_Part3_Confirm: Abschnitt neu starten?
+MID_Restart_Chapter_Part3_Annotation: Einheiten, Items usw. werden in den Zustand zu Beginn\nder Sektion zurückgesetzt.
+MID_Restart_Hellgate: Tormission neu starten
+MID_Restart_Hellgate_Help: Beginne die Tormission des aktuellen Abschnitts\nvon vorn.
+MID_Restart_Hellgate_Confirm: Die Tormission neu starten?
+MID_Restart_Hellgate_Annotation: Einheiten, Items usw. werden in den Zustand zu Beginn\nder Tormission zurückgesetzt.
+MID_Restart_Dit8Search: Cetus-Jagd erneut versuchen
+MID_Restart_Dit8Search_Help: Starte erneut ab dem Beginn der Cetus-Jagd.
+MID_Restart_Dit8Search_Confirm: Die Cetus-Jagd neu starten?
+MID_Restart_Dit8Search_Annotation: Starte erneut ab dem Beginn der Cetus-Jagd.
+MID_Restart_UseHistory: Segen der Fortuna einsetzen
+MID_Restart_UseHistory_Help: Drehe die Zeit zurück, um Züge neu durchzuführen.
+MID_Restart_UseHistory_Annotation: Du verfügst nicht über genügend Göttlichen Sand.
+MID_Restart_ReturnObelisk: Zurück ins Gewölbe der Obelisken
+MID_Restart_ReturnObelisk_Help: Den aktuellen Fortschritt verwerfen und ins Gewölbe\nder Obelisken zurückkehren. (Du kannst das Kapitel\nvon vorn beginnen oder einen anderen Pfad wählen.)
+MID_Restart_ReturnObelisk_Confirm: Zurück ins Gewölbe der Obelisken?
+MID_Restart_ReturnObelisk_Annotation: Wenn du zu {Variable=0} zurückkehrst, wirst\ndu vom Anfang dieses Kapitels aus starten.
+MID_Restart_ReturnObelisk_Part3: Gewölbe der Obelisken
+MID_Restart_ReturnObelisk_Part3_Help: Den aktuellen Fortschritt verwerfen und ins Gewölbe der\nObelisken zurückkehren. (Du kannst die Kausalität eines\nFlammenfürsten sichern oder den Abschnitt neu beginnen.)
+MID_Restart_ReturnObelisk_Part3_Confirm: Zurück ins Gewölbe der Obelisken?
+MID_Restart_ReturnObelisk_Part3_Annotation: Wenn du zum Erlösungsstrang zurückkehrst, beginnst du den\naktuellen Abschnitt von vorn.
+MID_Restart_ReturnObelisk_Part3_Chapter1_Annotation: Du kehrst zum Status unmittelbar vor dem Beginn des\nErlösungsstrangs zurück.
+MID_Restart_ReturnObelisk_Hellgate: Gewölbe der Obelisken
+MID_Restart_ReturnObelisk_Hellgate_Help: Den aktuellen Fortschritt verwerfen und ins Gewölbe der\nObelisken zurückkehren. (Du kannst die Kausalität eines\nFlammenfürsten sichern oder die Tormission neu beginnen.)
+MID_Restart_ReturnObelisk_Hellgate_Confirm: Zurück ins Gewölbe der Obelisken?
+MID_Restart_ReturnObelisk_Hellgate_Annotation: Wenn du zum Erlösungsstrang zurückkehrst, beginnst du am\nStart der Tormission des aktuellen Abschnitts.
+MID_Restart_ReturnTitle: Zum Titelbildschirm
+MID_Restart_ReturnTitle_Help: Kehre zum Titelbildschirm zurück.
+MID_Restart_ReturnTitle_Confirm: Zum Titelbildschirm zurückkehren, ohne deinen Spielfortschritt\nzu speichern?
+MID_GameOver_Title: Game Over
+MID_GameOver_Title_TimeOver: Zeit abgelaufen
+MID_Save_State_Hub: Basis
+MID_Save_State_Hub_Part2: Vor dem Kampf
+MID_Save_State_Dungeon: Verlies
+MID_Save_State_Gmap: Weltkarte
+MID_Save_State_Sortie: Vor dem Kampf
+MID_Save_State_Battle: Im Kampf
+MID_Save_State_Timeline: Teil abgeschlossen
+MID_Save_State_Chapter: Kapitelbeginn
+MID_Save_State_Chapter_Part3: Abschnittbeginn
+MID_Save_State_MakeComplete: Nach Identitätswahl
+MID_Save_Year_Timeline: 14--
+MID_Save_Continue_Confirm: Fortfahren, wo du aufgehört hast?
+MID_Save_Save_Confirm: Dein aktueller Fortschritt wird gespeichert, deine zuletzt erstellten\nSpeicherdaten (automatisch und/oder manuell angelegt) werden dabei\nüberschrieben. Fortschritt speichern?
+MID_Save_Save_Result: Gespeichert.
+MID_Save_Load_Failed: Die Speicherdaten stammen von einer anderen Version und können\nnicht geladen werden. Bitte schließe das Spiel und aktualisiere auf\ndie neueste Version.
+MID_Record_Title: Kampfdaten
+MID_AfterEp_Scout: Rekrutiert
+MID_AfterEp_Battle: Individuelle Kämpfe
+MID_AfterEp_CmdBtl: Schnellkampf – Held
+MID_AfterEp_Count: {Variable=0}-mal
+MID_AfterEp_BattleCount: {Variable=0} {SingularPlural0=Kampf|Kämpfe}
+MID_AfterEp_KillCount: {Variable=0} {SingularPlural0=Sieg|Siege}
+MID_Ending_Fin_LastReliance: Wunschziel
+MID_Ending_Fin: Ende
+MID_Title_Continue: Fortsetzen
+MID_Title_Continue_Help: Lade zuvor gespeicherte Daten.
+MID_Title_ContinueNewGame: Erneute Ankunft
+MID_Title_ContinueNewGame_Help: Spiele den Prolog erneut, um deinen Körper neu zu gestalten\nund gleichzeitig deinen Fortschritt auf dem jeweiligen Pfad\nzu behalten. Du kannst auch den Schwierigkeitsgrad ändern.
+MID_Title_ContinueNewGame_Confirm: Möchtest du die Speicherdaten deines aktuellen Spielfortschritts\nbehalten und den Prolog erneut spielen?
+MID_Title_ContinueNewGame_Comment: Du beginnst mit festgelegten Statuswerten. Sobald du das Gewölbe\nder Obelisken erreichst, erhältst du die Statuswerte zurück, die du\nvor der erneuten Ankunft hattest.
+MID_Title_ContinueNewGame_Attention: Um ein neues Spiel ganz ohne deinen bisherigen Fortschritt zu\nbeginnen, lösche bitte unter Extras deine Speicherdaten.
+MID_Title_ContinueNewGame_Condition_Message: Um Erneute Ankunft verwenden zu können, muss das Spiel im\nGewölbe der Obelisken gespeichert werden. Wähle Fortsetzen,\ndann kehre in das Gewölbe der Obelisken zurück und speichere erneut.
+MID_Title_Extra: Extras
+MID_Title_Extra_Help: Hier hast du Zugriff auf Spieleinstellungen und auf noch\nviel mehr.
+MID_Title_SettingVoice: Sprache (Stimmen)
+MID_Title_SettingVoice_Help: Hier kannst du die Einstellungen für die Sprachausgabe\nim Spiel vornehmen.
+MID_Title_SettingVoice_Jp: Japanisch
+MID_Title_SettingVoice_En: Englisch
+MID_Title_SettingBug: Gegner-Maskierung
+MID_Title_SettingBug_Help: Dies beeinflusst die Darstellung bestimmter insektenähnlicher\nGegner im Spiel. Bei der Einstellung EIN werden diese Gegner\nanders dargestellt.
+MID_Title_SaveDelete: Speicherdaten löschen
+MID_Title_SaveDelete_Help: Hier kannst du deine Speicherdaten komplett löschen.\n(Du kannst ein neues Spiel beginnen, ohne Daten\ndorthin mitzunehmen.)
+MID_Title_SaveDelete_Confirm: Möchtest du deine Speicherdaten wirklich löschen?
+MID_Title_SaveDelete_Attention: Der Fortschritt für jeden einzelnen Pfad geht hierbei verloren.
+MID_Title_SaveDelete_Reconfirm: Diese Aktion kann nicht rückgängig gemacht werden.\nBist du dir sicher?
+MID_Title_SaveDelete_Result: Die Speicherdaten wurden gelöscht.
+MID_Title_Continue_RollBack_Confirm: Damit werden deine Speicherdaten zurückgesetzt und du kannst\ndas Spiel von einem früheren Punkt aus fortsetzen. Bist du sicher?
+MID_Title_Continue_RollBack_Comment: Ist eine Fortsetzung des Kapitels oder Abschnitts nicht mehr\nmöglich, kann dies das Problem möglicherweise beheben.
+MID_Title_Continue_RollBack_Attention: Der in diesem Kapitel oder Abschnitt erzielte Fortschritt\nwird zurückgesetzt.
+MID_Difficulty_Message: Wähle einen Schwierigkeitsgrad.
+MID_Difficulty_Normal: Normal
+MID_Difficulty_Normal_Help: Für Neulinge und Spieler mit etwas Erfahrung.
+MID_Difficulty_Hard: Schwer
+MID_Difficulty_Hard_Help: Für erfahrene Spieler.
+MID_Difficulty_Lunatic: 
+MID_Difficulty_Lunatic_Help: 
+MID_Mode_Message: Wähle einen Modus.
+MID_Mode_Casual: Anfänger
+MID_Mode_Casual_Help: Gefallene Einheiten kehren im\nnächsten Kampf zurück.
+MID_Mode_Classic: Klassisch
+MID_Mode_Classic_Help: Gefallene Einheiten sind für immer\nverloren. Jede Entscheidung zählt.
+MID_Mouse_Notice: Maus-Steuerung
+MID_MouseGuide_Battle: Kampf
+MID_MouseGuide_Gmap: Weltkarte
+MID_MouseGuide_Hub: Basen/Verliese
+MID_MouseGuide_KeyHelp_Hold:  halten
+MID_MouseGuide_Situation_Manual: Manueller Wechsel
+MID_MouseGuide_Situation_Stay: Ohne Bewegung
+MID_MouseGuide_Situation_Unit: Einheitenauswahl
+MID_MouseGuide_Situation_Free: Standard-Cursor
+MID_MouseGuide_Situation_CmdAuto: Auto-Kampf
+MID_MouseGuide_Situation_OnEmpty: Über leere Felder
+MID_MouseGuide_MouseOnOff: Maus-Modus EIN/AUS
+MID_MouseGuide_Access: Zugriff
+MID_MouseGuide_Decide: Bestätigen
+MID_MouseGuide_Cancel: Abbrechen
+MID_MouseGuide_Skip: Überspringen
+MID_MouseGuide_Menu: Menü
+MID_MouseGuide_Guide: Abenteuerplaner
+MID_MouseGuide_Map: Karte
+MID_MouseGuide_Dash: Rennen
+MID_MouseGuide_ShowTrase: Weg zeigen
+MID_MouseGuide_Attack: Angriff
+MID_MouseGuide_ZoomView: Zoom-Ansicht
+MID_MouseGuide_PersonView: Ego-Perspektive
+MID_MouseGuide_CameraZoom: Kamera-Zoom
+MID_MouseGuide_Camera: Steuerung der Kamera
+MID_MouseGuide_CameraReset: Kamera zurücksetzen
+MID_MouseGuide_Cursor: Cursor bewegen
+MID_MouseGuide_Move: Bewegen
+MID_MouseGuide_SelectUnit: Einheit wählen
+MID_MouseGuide_SelectCorps: Trupp wählen
+MID_MouseGuide_SelectReset: Cursor zurücksetzen
+MID_MouseGuide_MapRotate: Karte drehen
+MID_MouseGuide_ShowUnitDetail: Details zeigen
+MID_MouseGuide_ShowDangerAll: Alle Gefahrenzonen
+MID_MouseGuide_ShowDangerUnit: Gefahrenzonen (Gegner)
+MID_MouseGuide_ChangeWeapon: Waffe wechseln
+MID_MouseGuide_ChaneUnit: Einheit wechseln
+MID_MouseGuide_ChangeArts: Techniken wechseln
+MID_MouseGuide_ChangeLinkUnit: Verbindungspartnertausch
+MID_MouseGuide_ChangeLinkWeapon: Partnerwaffe wechseln
+MID_MouseGuide_HelpTerrain: Gelände-Infos
+MID_MouseGuide_Pin: Stecknadel EIN/AUS
+MID_MouseGuide_OpenShopGuide: Waren-Info
+MID_MouseGuide_GmapDash: Rennen
+MID_MouseGuide_Reset_Message: Den Bewegungswinkel bei der Maus-Steuerung auf Standardeinstellung\nzurücksetzen?
+MID_MouseCalibration_Message: Stelle den Bewegungswinkel bei der Maus-Steuerung so ein,\ndass die Steuerung bequem erfolgen kann.
+MID_MouseCalibration_Check: Halte den Joy-Con 2 (R) in einem für dich angenehmen Winkel,\ndann bewege ihn vor und zurück, bis die Leiste gefüllt ist.
+MID_MouseCalibration_Failure: Kalibrierung fehlgeschlagen. Sieh dir das Beispiel an und\nhalte den Joy-Con 2 (R) so, dass die R-Taste sich vorn befindet.
+MID_Title_KeyWait: Drücke einen Knopf
+MID_Title_Previlefe: ©Nintendo / INTELLIGENT SYSTEMS
+MID_Title_Version: Ver. {Variable=0}
+MID_Memory_NotData_Message: 
+MID_Save_Suspend_Confirm: 
+MID_HeroMenu_UnOpen_Message: 
+MID_HeroMenu_UnOpen_TAL_Message: 
+MID_HeroMenu_UnOpen_BEL_Message: 
+MID_HeroMenu_UnOpen_ANH_Message: 
+MID_HeroMenu_UnOpen_ORH_Message: 

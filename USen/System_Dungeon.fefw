@@ -1,0 +1,40 @@
+﻿MID_Dungeon_Start: START
+MID_Dungeon_Complete: Complete
+MID_Dungeon_FieldKill: Strike to Skip
+MID_Dungeon_Banquet: Rest
+MID_Dungeon_BanquetMenu_Help: Select ingredients.
+MID_Dangeon_BanquetMenu_Confirm: Use the selected ingredients for a rest?
+MID_Dungeon_BanquetMenu_Cancel_Confirm: Return to exploration without resting?
+MID_Dungeon_Banquet_FindEnemy: You cannot rest while pursued by foes.
+MID_Dungeon_Banquet_NotMaterial: You must have at least one ingredient to use this.
+MID_Dungeon_Banquet_Complete: You do not need to rest.
+MID_CmdBtl_Name: Clash
+MID_CmdBtl_BattleStart: Battle
+MID_CmdBtl_EventBattleStart: Event Clash
+MID_CmdBtl_NextRound: Next Round
+MID_CmdMenu_Link: Link
+MID_CmdMenu_Link_Attack: Attack Link
+MID_CmdMenu_Link_Attack_Help: Choose an ally to attack a foe\nright after you.
+MID_CmdMenu_Link_Heal: Recovery Link
+MID_CmdMenu_Link_Heal_Help: Choose an ally to restore HP as\nyou attack a foe.
+MID_CmdMenu_Link_Guard: Mixed Link
+MID_CmdMenu_Link_Guard_Help: Block a foe's attack as you attack\nalongside an ally.
+MID_CmdMenu_Link_Cause_NotLp: You do not have enough LP.
+MID_CmdMenu_Link_Cause_NotAttack: No allies can attack.
+MID_CmdMenu_Link_Cause_NotSupport: No allies have recovery magic.
+MID_CmdMenu_Link_Cause_NotReliance: No allies have sufficient Support Lv.
+MID_CmdMenu_Link_Cause_FullHP: You do not need to recover.
+MID_CmdMenu_ConcentrationCost: LP Cost
+MID_CmdBtl_NextUnit: Next
+MID_CmdBtl_PreAttackFailed_Message: You do not have a weapon or magic capable of making a first strike.
+MID_CmdBtl_AutoAttackFailed_Message: You do not have a weapon or magic that can be used in Auto-Battle.
+MID_CmdBtl_SkipFailed_Message: The battle was not resolved. Ending Skip to Conclusion.
+MID_CmdBtl_Escape_Attention: You will be returned to the dungeon's starting point.
+MID_CmdBtl_Retry_Confirm: Since this clash has been going on for a while, you may want to\nrestart and adjust your squad's inventory and abilities. Restart it?
+MID_CmdBtl_RestartBattle_Confirm: Restart this clash?
+MID_CmdBtl_RestartBattle_Annotation: If you select No, you will return to the dungeon's starting point\nwith 1 HP.
+MID_CmdBtl_RestartBattle_GmapCasual_Annotation: If you select No, you will return to Dagsion with all units at 1 HP.
+MID_CmdBtl_RestartBattle_GmapClassic_Annotation: If you select No, all units in the squad will be defeated and lost,\nincluding units not participating in the clash. ({CapitalizeNextLetter}{AvatarName}'s\nHP will be reduced to 1, and you will return to Dagsion.)
+MID_CmdBtl_RestartBattle_Last_Confirm: This action cannot be undone. Are you sure?
+MID_Dungeon_Enemy_Destroy: There is no sign of any more foes.
+MID_Dungeon_Challenger_Confirm: Start the battle with the dread warrior?

@@ -1,0 +1,884 @@
+﻿MSQID_Goal_CommonDelivery: Entrega lo siguiente:
+MSQID_Title_TUT_ToolMaker: Bienvenida al {LowercaseNextLetter}Bazar
+MSQID_Detail_TUT_ToolMaker: Tanto si acabas de llegar a la capital como si ya estás\nplaneando tu siguiente aventura, ¡el {LowercaseNextLetter}Bazar es\nuna visita ineludible! ¡Ahora mismo obsequiamos\na todos los visitantes con un regalo!
+MSQID_Comp_TUT_ToolMaker: ¡Gracias por venir! Esta {LowercaseNextLetter}Poción es un regalo para\ntodos los que vienen por primera vez. ¡Disponemos\nde una amplia selección de objetos indispensables!\n¡Todo lo que un aventurero necesita en sus bolsillos!
+MSQID_Goal_TUT_ToolMaker: Habla con el {LowercaseNextLetter}Tendero.
+MSQID_Client_TUT_ToolMaker: {CapitalizeNextLetter}Tendero
+MSQID_Title_TUT_WeaponShop: De visita en la {LowercaseNextLetter}Armería
+MSQID_Detail_TUT_WeaponShop: Las armas de nuestro negocio son tan afiladas\ncomo equilibradas. ¡Ven a comprobarlo con\ntus propios ojos! ¡Te dejaremos probar nuestros\nartículos hasta que encuentres el mejor para ti!
+MSQID_Comp_TUT_WeaponShop: ¡Gracias por venir! Esto de aquí es una de nuestras\ncreaciones más fiables: ¡la espada de madera!\n¿Verdad que se nota la calidad? Merece la pena\nvolver pronto, porque actualizamos nuestra selección.
+MSQID_Goal_TUT_WeaponShop: Visita a la {LowercaseNextLetter}Armera.
+MSQID_Client_TUT_WeaponShop: {CapitalizeNextLetter}Armera
+MSQID_Title_TUT_TripHotel: Hospedaje en la {LowercaseNextLetter}Posada
+MSQID_Detail_TUT_TripHotel: ¿Sientes que te caes del cansancio? ¡Estupendo!\n¡Antes de desfallecer, visita nuestra posada, donde\ntenemos las camas más cómodas y comida deliciosa!\n¡Si es tu primera vez, te damos un regalo gratis!
+MSQID_Comp_TUT_TripHotel: ¡Gracias por elegirnos! ¡Aquí está el regalo que les\ndamos a los que vienen por primera vez! La {LowercaseNextLetter}Posada\nestá abierta a todas horas. ¡Somos el mejor\nestablecimiento para echarse una cabezadita!
+MSQID_Goal_TUT_TripHotel: Habla con quien regente la posada.
+MSQID_Client_TUT_TripHotel: {CapitalizeNextLetter}Posadera
+MSQID_Title_TUT_Temple: Culto a los dioses del Templo
+MSQID_Detail_TUT_Temple: Toda persona devota ha de visitar los templos de\nla zona alta de Dagsion. En cada uno se venera a \nun dios distinto, pero cualquiera de ellos es un lugar\napropiado si buscas un lugar tranquilo donde rezar.
+MSQID_Comp_TUT_Temple: ¡Gracias por visitarnos! Esto es un regalo para los que\nvienen por primera vez. Nos dedicamos en cuerpo\ny alma a servir a los dioses con la esperanza de que\nbendigan a quienes les muestran devoción.
+MSQID_Goal_TUT_Temple: Habla con el portero de algún templo.
+MSQID_Client_TUT_Temple: {CapitalizeNextLetter}Portero del templo
+MSQID_Title_TUT_Blacksmith: Un día en la herrería
+MSQID_Detail_TUT_Blacksmith: Cuenta conmigo para reparar tus armas rotas\ny alargar su vida útil, o bien para refinarlas.\nPásate por la {LowercaseNextLetter}Herrería y comprobarás que es\nposible sacarle más partido a tu equipo.
+MSQID_Comp_TUT_Blacksmith: ¡Gracias por venir! Esta {LowercaseNextLetter}Piedra de refinado es un\nregalo de agradecimiento. Te permitirá refinar un\narma de tu elección. ¡Aquí estaré, listo para la faena!
+MSQID_Goal_TUT_Blacksmith: Pásate por la herrería.
+MSQID_Client_TUT_Blacksmith: {CapitalizeNextLetter}Herrero
+MSQID_Title_TUT_Theater_Watch: ¡La magia del {LowercaseNextLetter}Teatro!
+MSQID_Detail_TUT_Theater_Watch: ¡Drama, comedia, acción! Todo esto y más ofrece\nel {LowercaseNextLetter}Teatro. Nuestras producciones incluyen\nclásicos y novedades de todos lares. ¡Si vienes\na visitarnos con alguna amistad, te llevarás un regalo!
+MSQID_Comp_TUT_Theater_Watch: ¡Cómo me alegra ver caras nuevas! Cada día\nrepresentamos una obra distinta, así que no\nte arrepentirás si repites mañana. ¡Sobre todo\nsi disfrutas de la función en buena compañía!
+MSQID_Goal_TUT_Theater_Watch: Habla con la {LowercaseNextLetter}Taquillera.
+MSQID_Client_TUT_Theater_Watch: {CapitalizeNextLetter}Taquillera
+MSQID_Title_TUT_Thermae: Belleza y bienestar en las {LowercaseNextLetter}Termas
+MSQID_Detail_TUT_Thermae: ¿Verdad que los habitantes de Dagsion lucen siempre\nfrescos y relajados? El motivo es simple: ¡son fieles\nclientes de nuestras {LowercaseNextLetter}Termas! ¿No te convence? ¡Pues\nque sepas que damos un regalo en la primera visita!
+MSQID_Comp_TUT_Thermae: ¡Te doy la bienvenida a las {LowercaseNextLetter}Termas! Encontrarás\ndistintos tipos de baños que proporcionan beneficios\ndiversos. Recomiendo probarlos todos hasta dar con\nel que más se ajuste a lo que buscas. ¡Vuelve pronto!
+MSQID_Goal_TUT_Thermae: Habla con el {LowercaseNextLetter}Gestor de las termas.
+MSQID_Client_TUT_Thermae: {CapitalizeNextLetter}Gestor de las termas
+MSQID_Title_TUT_MarketShop: Regalos en el {LowercaseNextLetter}Mercado
+MSQID_Detail_TUT_MarketShop: ¿Quieres tener un detalle con alguien especial? ¡Nada\nune más que un bonito obsequio! Situado cerca de\nla {LowercaseNextLetter}Armería y el {LowercaseNextLetter}Bazar, en nuestro puesto hallarás el\nregalo ideal para cualquier ocasión. ¡Ven a comprar!
+MSQID_Comp_TUT_MarketShop: ¡Siempre agasajo a cada cliente nuevo con un regalo!\n¡Es la mejor manera de arrancarle a alguien\nuna sonrisa! Y, aunque no aciertes con los gustos\nde todo el mundo, lo que cuenta es la intención.
+MSQID_Goal_TUT_MarketShop: Habla con la {LowercaseNextLetter}Mercadera.
+MSQID_Client_TUT_MarketShop: Mercadera
+MSQID_Title_Makeup: A la conquista de mi pichurri
+MSQID_Detail_Makeup: Me agenciaré un poco de maquillaje, me acicalaré\ncomo está mandado y, en menos que canta un gallo...\n¡mi pichurri caerá rendido a mis pies! Pero no sé\ndónde comprarlo. Mmm... Pichurri, ¿se te ocurre a ti?
+MSQID_Comp_Makeup: ¿Al final me has traído un frasco? ¡Ay, qué apañado\neres, corazón! Pero lo más importante es que me\nlo has regalado tú, pichurri. ¡Procuraré echarme\nsolo un poquito cada vez, para que me dure!
+MSQID_Goal_Makeup: Entrega lo siguiente:
+MSQID_Client_Makeup: {Unknown080E=03}Esmeralda
+MSQID_Title_BattleStrangeness: Criatura nocturna
+MSQID_Detail_BattleStrangeness: ¡Cada noche aparece un monstruo que asalta las\ntiendas! Luego desaparece por un callejón de la zona\ncentral. Tengo un premio para quien lo liquide, pero\nsolo lo entregaré de día. De noche me escondo...
+MSQID_Comp_BattleStrangeness: ¿Así que el monstruo la ha palmado? Ahora los\ncomerciantes podremos trabajar en paz.\n¡Aquí está la recompensa por tan gran favor!
+MSQID_Goal_BattleStrangeness: Derrota al espectro.
+MSQID_Client_BattleStrangeness: Comerciante
+MSQID_Title_MardleInquiry: El misterio de {Unknown080E=03}Mahdel
+MSQID_Detail_MardleInquiry: Hay algo acerca de lo sucedido con el padre {Unknown080E=03}Mahdel\nque me da mala espina... Necesito más información.\nVen a verme cuando hayas hecho las pesquisas\npertinentes.
+MSQID_Comp_MardleInquiry: Buen trabajo. Has descubierto más información de\nla que me esperaba. Parece obvio que hay gato\nencerrado en este asunto... Los servidores del templo\nde Kalla proseguiremos con la investigación.
+MSQID_Goal_MardleInquiry: Recaba información sobre {Unknown080E=03}Mahdel.
+MSQID_Client_MardleInquiry: {Unknown080E=03}Sirocco
+MSQID_Title_HrihRequest: El broche de mi difunta hermana
+MSQID_Detail_HrihRequest: ¡Qué rabia! Un rufián me ha robado el broche...\nEra un recuerdo de mi hermana pequeña.\nAhora no puedo abandonar la ciudad, así que\nnecesito que alguien me ayude.
+MSQID_Comp_HrihRequest: ¡El broche de mi hermana! Un millón de gracias.\nComo me llamo {Unknown080E=03}Creek que saldaré con creces\nesta deuda.
+MSQID_Goal_HrihRequest: Entrega lo siguiente:
+MSQID_Client_HrihRequest: {Unknown080E=03}Creek
+MSQID_Title_Relief1: Socorre a {Unknown080E=03}Centurio
+MSQID_Detail_Relief1: Un grupo de gigantes del inframundo nos atacó\nmientras escoltábamos a cierta persona desde\nRibeira hasta Dagsion. Sabemos luchar, ¡pero\nnecesitamos refuerzos con urgencia para ganar!
+MSQID_Comp_Relief1: Gracias, Providencia. Nuestra protegida está sana\ny salva y ya podemos proseguir hacia Dagsion sin\ndemora. Tened cuidado en vuestro viaje de vuelta.
+MSQID_Goal_Relief1: Derrota a los gigantes del inframundo.
+MSQID_Client_Relief1: {Unknown080E=03}Centurio
+MSQID_Title_ReconstructionArena1: La reconstrucción del coliseo
+MSQID_Detail_ReconstructionArena1: Providencia... Si reconstruimos el coliseo dagdano,\ntal vez logremos devolverle la esperanza a la gente.\nEl problema es que nos faltan recursos... ¿Podríais\nconseguir {LowercaseNextLetter}Materiales de obra, por favor?
+MSQID_Comp_ReconstructionArena1: ¡Habéis conseguido {LowercaseNextLetter}Materiales de obra! ¡Gracias,\nProvidencia! Seguro que no ha sido tarea fácil.\nCon esto volveremos a levantar el coliseo. \nSerá un símbolo de esperanza para todos.
+MSQID_Goal_ReconstructionArena1: Entrega lo siguiente:
+MSQID_Client_ReconstructionArena1: {CapitalizeNextLetter}Albañil del coliseo
+MSQID_Reward_Menu_ReconstructionArena1: Desbloquearás la opción de {LowercaseNextLetter}Entrenar.
+MSQID_Reward_Result_ReconstructionArena1: Ya es posible {LowercaseNextLetter}Entrenar.
+MSQID_Title_ReconstructionArena2: La reconstrucción del coliseo II
+MSQID_Detail_ReconstructionArena2: ¡Mirad! ¡La reconstrucción va viento en popa! Pero\nnecesitamos pertrecharnos más para mejorar\nel campo de entrenamiento. Por favor, Providencia,\n¿podríais conseguir más {LowercaseNextLetter}Materiales de obra?
+MSQID_Comp_ReconstructionArena2: Me quedo sin palabras... Es justo lo que\nnecesitábamos. Cuando el coliseo esté terminado,\nserá como un rayo de esperanza para toda Dagda.\n¡Y todo gracias a vos, Providencia!
+MSQID_Goal_ReconstructionArena2: Entrega lo siguiente:
+MSQID_Client_ReconstructionArena2: {CapitalizeNextLetter}Albañil del coliseo
+MSQID_Reward_Menu_ReconstructionArena2: Aumenta los efectos de {LowercaseNextLetter}Entrenar.
+MSQID_Reward_Result_ReconstructionArena2: Los efectos de {LowercaseNextLetter}Entrenar han aumentado.
+MSQID_Title_ReconstructionDining1: Sabores perdidos
+MSQID_Detail_ReconstructionDining1: La cocina de la posada ha quedado destruida,\nasí que ahora mismo no podemos servir comida.\nSi pudiéramos conseguir los materiales necesarios,\nla repararíamos sin falta.
+MSQID_Comp_ReconstructionDining1: Muchas gracias por conseguirnos los materiales.\n¡Ya podemos volver a preparar comidas!\nSerá un placer atender a nuestros clientes\na partir de ahora. ¡Hasta pronto!
+MSQID_Goal_ReconstructionDining1: Entrega lo siguiente:
+MSQID_Client_ReconstructionDining1: {CapitalizeNextLetter}Empleada
+MSQID_Reward_Menu_ReconstructionDining1: Desbloquearás la opción de pedir {LowercaseNextLetter}Comida.
+MSQID_Reward_Result_ReconstructionDining1: Ya se sirve {LowercaseNextLetter}Comida en la posada.
+MSQID_Title_ReconstructionDining2: Sabores restaurados
+MSQID_Detail_ReconstructionDining2: Si dispusiéramos de nuevos materiales para hacer\notros arreglos en la cocina, podríamos preparar\ncomida aún más rica. Sé que atravesamos\ntiempos difíciles, pero... ¿sería posible?
+MSQID_Comp_ReconstructionDining2: ¿Nos habéis traído más materiales? ¡Gracias,\nProvidencia! Ahora podremos mejorar la cocina\ny preparar platos exquisitos. ¡Nuestros clientes\nse van a chupar los dedos!
+MSQID_Goal_ReconstructionDining2: Entrega lo siguiente:
+MSQID_Client_ReconstructionDining2: {CapitalizeNextLetter}Empleada
+MSQID_Reward_Menu_ReconstructionDining2: Aumenta los efectos de las {LowercaseNextLetter}Comidas.
+MSQID_Reward_Result_ReconstructionDining2: Los efectos de las {LowercaseNextLetter}Comidas han aumentado.
+MSQID_Title_ReconstructionTemple: Ayuda para los devotos
+MSQID_Detail_ReconstructionTemple: Aunque los fieles siguen acudiendo a los templos,\nandamos escasos de materiales para los rituales\nsagrados. ¿Podríais donarnos algunos, por favor?
+MSQID_Comp_ReconstructionTemple: ¿Va a donarnos estos materiales? ¡Oh, cuánto os\nlos agradezco! ¡Que los dioses sigan velando por vos!
+MSQID_Goal_ReconstructionTemple: Entrega lo siguiente:
+MSQID_Client_ReconstructionTemple: {CapitalizeNextLetter}Sacerdotisa optimista
+MSQID_Reward_Menu_ReconstructionTemple: Aumenta los efectos de {LowercaseNextLetter}Servir en los templos.
+MSQID_Reward_Result_ReconstructionTemple: Los efectos de {LowercaseNextLetter}Servir en los templos han aumentado.
+MSQID_Title_KAI_FirstSubjugation: Sed de venganza
+MSQID_Detail_KAI_FirstSubjugation: Esos bandidos tienen que pagar por lo que le hicieron\na mi padre, pero yo no puedo darles su merecido...\n¿Que quieres ayudar? Pues buena suerte...\nporque creo que la vas a necesitar.
+MSQID_Comp_KAI_FirstSubjugation: ¡¿Cómo?! ¿De verdad te has cargado a los bandidos\nque atacaron a mi padre? Me parece que te juzgué\nmal... ¡Gracias! A partir de ahora, le hablaré bien\nde ti a todo el mundo.
+MSQID_Goal_KAI_FirstSubjugation: Derrota a los bandidos.
+MSQID_Client_KAI_FirstSubjugation: Niño furioso
+MSQID_Title_KAI_FirstDelivery: Horquilla perdida
+MSQID_Detail_KAI_FirstDelivery: Estaba jugando en la {LowercaseNextLetter}Mina de Niraga y se me cayó\nmi horquilla favorita cerca de la salida, pero hay\nun montón de bandoleros por allí y me da miedo\nir a buscarla. Ojalá alguien me ayudara...
+MSQID_Comp_KAI_FirstDelivery: ¡Mi horquilla favorita! Menos mal... no quería\nperderla. ¡Gracias, sois increíbles! Si alguna vez\ntengo otro problema, os buscaré. 
+MSQID_Goal_KAI_FirstDelivery: Entrega lo siguiente:
+MSQID_Client_KAI_FirstDelivery: Niña llorona
+MSQID_Title_KAI_SearchSunset: Un atardecer de fábula
+MSQID_Detail_KAI_SearchSunset: Desde el {LowercaseNextLetter}Altiplano de Magnus se ven unas hermosas\npuestas de sol, pero últimamente la zona está llena \nde fieras peligrosas. Si alguien fuera capaz\nde espantar a las bestias...
+MSQID_Comp_KAI_SearchSunset: ¿¡Has conseguido espantar a esas fieras!? ¡Vaya con\nla juventud de hoy en día! En ese lugar fue donde mi\nmujer y yo tuvimos nuestra primera cita.\nPor fin podré volver a disfrutar de sus puestas de sol.
+MSQID_Goal_KAI_SearchSunset: Derrota a la manada de fieras.
+MSQID_Client_KAI_SearchSunset: Anciano nostálgico
+MSQID_Title_KAI_SearchingGranddaughter: La nieta desaparecida
+MSQID_Detail_KAI_SearchingGranddaughter: Mi nieta salió a jugar por ahí... y ¡hace ya rato\nque tenía que haber vuelto! Por favor, ayúdame.\n¿Serías tan amable de buscarla y traerla de vuelta\na casa?
+MSQID_Comp_KAI_SearchingGranddaughter: Mi nieta ya está a salvo, y todo gracias a ti.\nLa muy pilla desaparece en cuanto le quito la vista\nde encima. Es igual que yo cuando tenía su edad.
+MSQID_Goal_KAI_SearchingGranddaughter: Habla con la nieta.
+MSQID_Client_KAI_SearchingGranddaughter: Abuela preocupada
+MSQID_Title_KAI_SolitaryFlower: Correspondencia amorosa
+MSQID_Detail_KAI_SolitaryFlower: ¡Ay, {Unknown080E=03}Alexandra es maravillosa! Quedé prendado\nde ella a primera vista. Por favor, entrégale esta carta\nen la que le declaro mis sentimientos.\n¡Sueño con que llegue a leerla!
+MSQID_Comp_KAI_SolitaryFlower: ¿Ya le has entregado mi carta a {Unknown080E=03}Alexandra?\n¡Perfecto! Ahora solo queda esperar que mis\nsentimientos sean correspondidos... ¡Seguro que sí!\n¡Qué ganas de leer su respuesta!
+MSQID_Goal_KAI_SolitaryFlower: Habla con Alexandra.
+MSQID_Client_KAI_SolitaryFlower: Hombre perdidamente enamorado
+MSQID_Title_KAI_Doppelganger: Un mensaje peculiar
+MSQID_Detail_KAI_Doppelganger: Necesito que les des un mensaje a las otras dos\nmujeres con escoba que encontrarás por Dagsion.\nDiles solo esto: «Objetivo cumplido». Dudo que estén\nni en la zona alta ni en la zona baja de la ciudad.
+MSQID_Comp_KAI_Doppelganger: Me quedé tan absorta limpiando que me acabé\nseparando de mis hermanas. ¡Pensaba que no iba\na ser capaz de encontrarlas, pero me has demostrado\nque aún queda bondad en este mundo!
+MSQID_Goal_KAI_Doppelganger: Habla con las dos mujeres con escobas.
+MSQID_Client_KAI_Doppelganger: Mujer con escoba
+MSQID_Title_KAI_SearchingNobleman: Anciano desaparecido
+MSQID_Detail_KAI_SearchingNobleman: ¡Mi señor ha desaparecido! No creo que esté fuera\nde Dagsion, ¡pero ya lo he buscado en la zona alta!\nTiene que haberse perdido en alguna parte de la zona\nbaja. Si lo encuentras, me harías un gran favor.
+MSQID_Comp_KAI_SearchingNobleman: ¡Gracias por encontrar a mi señor! Pero ¿qué se le\nhabría perdido en ese lugar? Si llega a caerse al\nagua... No, no quiero ni pensarlo. Ay, al menos\nno me he quedado sin empleo.
+MSQID_Goal_KAI_SearchingNobleman: Habla con el {LowercaseNextLetter}Anciano adinerado.
+MSQID_Client_KAI_SearchingNobleman: {CapitalizeNextLetter}Sirvienta
+MSQID_Title_KAI_LostCat: Felina perdida
+MSQID_Detail_KAI_LostCat: Una de las gatas que cuidábamos en mi templo\nha desaparecido. Debe de haber salido danzando\npor el barrio de los templos y habrá acabado en\nlos alrededores del {LowercaseNextLetter}Coliseo. ¡Encuéntrala, por favor!
+MSQID_Comp_KAI_LostCat: ¡Menos mal que has encontrado a la gata!\nMe tenía preocupadísima. ¿Cómo?\n¿Que estaba cerca de la fuente? Tendría sed,\nla pobrecilla...
+MSQID_Goal_KAI_LostCat: Encuentra a la gata perdida.
+MSQID_Client_KAI_LostCat: Sacerdotisa cuidadora de gatos
+MSQID_Title_KAI_DeepestSinner: El prisionero eterno
+MSQID_Detail_KAI_DeepestSinner: ¡He oído que hay un tipo que lleva siglos encerrado\ndebajo del coliseo! De ser cierto, ¡me encantaría\nsaber qué aspecto tiene! Ya me contarás si alguna\nvez te topas con él...
+MSQID_Comp_KAI_DeepestSinner: Así que te han pedido que me digas que no hay\nnadie... ¡Je! Ya sabía yo que los rumores eran falsos.\n¡Un momento! ¿Quién te lo ha pedido exactamente?\n¡¿Qué me estás ocultando?!
+MSQID_Goal_KAI_DeepestSinner: Habla con {Unknown080E=03}Lind.
+MSQID_Client_KAI_DeepestSinner: Vecino cotilla
+MSQID_Title_KAI_Courage: El héroe oscuro
+MSQID_Detail_KAI_Courage: ¡Si hay alguien a quien admire, es a {Unknown080E=03}Dietrich!\nVerlo luchar me llena de emoción... Tanto\nque he compuesto un poema para él. ¿Puedes\nentregárselo? Suele estar cerca del {LowercaseNextLetter}Templo de Mars.
+MSQID_Comp_KAI_Courage: ¡Gracias por darle mi poema a Dietrich!\nMe alegro tanto de que le hiciera ilusión...\nMe has animado a entregar mis propios\nregalos a partir de ahora. ¡Gracias!
+MSQID_Goal_KAI_Courage: Habla con {Unknown080E=03}Dietrich.
+MSQID_Client_KAI_Courage: {CapitalizeNextLetter}Mujer apasionada
+MSQID_Title_KAI_UsedHarness: Fabricado en Megaira
+MSQID_Detail_KAI_UsedHarness: ¡Ay! ¡Mi {LowercaseNextLetter}Carruaje está destrozado! El eje\nque necesito para arreglarlo solo se fabrica en\nMegaira. Eh, chico, ¿podrías comprarme uno?\n¡Te daré una licencia para {LowercaseNextLetter}Carruajes si lo haces!
+MSQID_Comp_KAI_UsedHarness: ¿¡No me digas que has ido a Megaira a buscarlo!?\nPues sí que te había subestimado, chaval. ¡Eres\nmás apañado que la mayoría de adultos que conozco!\nLo prometido es deuda: aquí tienes la licencia.
+MSQID_Goal_KAI_UsedHarness: Entrega lo siguiente:
+MSQID_Client_KAI_UsedHarness: Cochero
+MSQID_Reward_Menu_KAI_UsedHarness: Desbloquearás la opción de usar {LowercaseNextLetter}Carruajes.
+MSQID_Reward_Result_KAI_UsedHarness: Ya es posible usar {LowercaseNextLetter}Carruajes.
+MSQID_Title_KAI_MemoriesTreasure: Memorias ocultas
+MSQID_Detail_KAI_MemoriesTreasure: Cuando era soldado en el fuerte del norte tallaba\nuna figurita de madera entre misiones. La dejé\nescondida en un hueco de los muros de piedra que\nrodean el fuerte. ¿Podrías ir a ver si sigue ahí?
+MSQID_Comp_KAI_MemoriesTreasure: ¡Gracias por la figurita! ¡Ay, no me lo puedo creer!\nNi te imaginas lo que significa para mí. Siempre\nhe sido devoto de Jurah, y verla me ayudaba\na sobrellevar la faena... ¡Gracias!
+MSQID_Goal_KAI_MemoriesTreasure: Entrega lo siguiente:
+MSQID_Client_KAI_MemoriesTreasure: Anciano exsoldado
+MSQID_Title_KAI_LargeBouquet: Flores de amor eterno
+MSQID_Detail_KAI_LargeBouquet: El cumpleaños de mi difunta esposa se acerca,\ny me gustaría llevarle a la tumba un ramo\nde sus flores preferidas. Tú pareces un zagal\nespabilado, así que... ¡consígueme unas cuantas!
+MSQID_Comp_KAI_LargeBouquet: ¡Gracias! Ahora podré hacer un buen ramo para que\nla última morada de mi esposa sea tan hermosa como\nlo era ella. Intento traerle flores todos los años por su\ncumpleaños y espero poder hacerlo mientras viva.
+MSQID_Goal_KAI_LargeBouquet: Entrega lo siguiente:
+MSQID_Client_KAI_LargeBouquet: Esposo anciano
+MSQID_Title_KAI_LikePegasus: Un corcel alado
+MSQID_Detail_KAI_LikePegasus: Vine a la capital con la idea de comprar un {LowercaseNextLetter}Pegaso \npara tenerlo de montura, ¡pero por lo visto\naquí no los venden! ¿Me harías el favor de\nconseguirme uno salvaje? ¡Te pagaré muy bien!
+MSQID_Comp_KAI_LikePegasus: ¿¡Qué!? ¿Los pegasos no permiten que los monten\nhombres? Vaya chasco, aunque a mí tampoco\nme haría gracia que un fulano se montara encima\nde mí. En fin, a ver si al menos me hago amigo suyo.
+MSQID_Goal_KAI_LikePegasus: Entrega lo siguiente:
+MSQID_Client_KAI_LikePegasus: Mercenario en busca de pegaso
+MSQID_Title_KAI_BigAndSmall: Remilgos con el pescado
+MSQID_Detail_KAI_BigAndSmall: Mi madre está enferma, por eso quiero prepararle\nsu plato favorito. Pero, como lleva pescado, prefiero\nno tener que atraparlo yo, porque me da un asco...\n¿Podrías hacerlo tú, porfa?
+MSQID_Comp_KAI_BigAndSmall: ¡Gracias por el pescado! ¡Seguro que mamá se\nrecupera enseguida! ¿Y ahora cómo lo cocino sin\ntocarlo? ¡Ya sé! Lo rebozo en harina, le añado\nalgunas hierbas y luego lo guiso todo junto.
+MSQID_Goal_KAI_BigAndSmall: Entrega lo siguiente:
+MSQID_Client_KAI_BigAndSmall: Niño en busca de pescado
+MSQID_Title_KAI_AdultSituation: Bandidos en el camino
+MSQID_Detail_KAI_AdultSituation: Unos desgraciados han bloqueado el camino que\nconduce a la {LowercaseNextLetter}Fortaleza de Hugo. Necesito pasar por\nahí, así que agradecería muchísimo que alguien\nahuyentara a esa panda.
+MSQID_Comp_KAI_AdultSituation: ¿¡Que eran unos bandidos!? Esta gentuza de hoy en\ndía... Gracias por deshacerte de ellos. ¡Ahora por fin\npodré llegar a Castalia!
+MSQID_Goal_KAI_AdultSituation: Derrota a los {LowercaseNextLetter}Bandidos de Ainja.
+MSQID_Client_KAI_AdultSituation: Viajero de Castalia
+MSQID_Reward_Menu_KAI_AdultSituation: Desbloquea el paso por la {LowercaseNextLetter}Fortaleza de Hugo.
+MSQID_Title_KAI_NoEntry: Fieras en el camino
+MSQID_Detail_KAI_NoEntry: Había venido aquí desde Idyia por negocios, pero\nahora no puedo volver. El camino está plagado de\nbestias. ¿Puedes encargarte de esas fieras horribles,\npor favor?
+MSQID_Comp_KAI_NoEntry: ¡Gracias por espantar a las bestias! Ahora podré\nvolver a casa y a mi tienda. Por cierto,\nhay un lugar que quizá te resulte de interés al este\nde la {LowercaseNextLetter}Fortaleza de Libertas. ¡Te sugiero que lo visites!
+MSQID_Goal_KAI_NoEntry: Derrota a las {Unknown080E=03}Alas Inquebrantables.
+MSQID_Client_KAI_NoEntry: Mercadera de Idyia
+MSQID_Reward_Menu_KAI_NoEntry: Desbloquea el paso por la {LowercaseNextLetter}Fortaleza de Libertas
+MSQID_Title_KAI_BattlePest: Entomófobo en apuros
+MSQID_Detail_KAI_BattlePest: ¡La {LowercaseNextLetter}Llanura de Klytius está infestada de diablos de\nlas arenas! ¡La población está en peligro! Yo no\npuedo hacer nada porque me dan miedo los bichos.\nAcaba con ellos y recoge sus colas, por favor.
+MSQID_Comp_KAI_BattlePest: ¡Te has cargado a los diablos de las arenas! Perdona,\nme da que a ti no te disgustan, así que lamento que\nhayas tenido que acabar con ellos. ¡Pero piensa\nen las vidas que has salvado, incluyendo la mía!
+MSQID_Goal_KAI_BattlePest: Entrega lo siguiente:
+MSQID_Client_KAI_BattlePest: Soldado entomófobo
+MSQID_Title_KAI_DreamHome: La casa abandonada
+MSQID_Detail_KAI_DreamHome: El dueño de la {LowercaseNextLetter}Casa abandonada del lago, que está\nen la zona sur del lago Baal, la ha sacado a subasta.\nPero se ha convertido en la guarida de fieras salvajes.\n¿Te importaría deshacerte de ellas?
+MSQID_Comp_KAI_DreamHome: En realidad, el dueño de la casa soy yo. Las fieras\neran mías, pero un día me olvidé de cerrar la jaula\ncon llave y pasó lo que pasó. ¡Gracias a ti ahora\nel problema está resuelto!
+MSQID_Goal_KAI_DreamHome: Derrota a las bestias de las ruinas.
+MSQID_Client_KAI_DreamHome: Hombre preocupado por la casa abandonada
+MSQID_Title_KAI_AnnoyingResident: Bronca en las llanuras
+MSQID_Detail_KAI_AnnoyingResident: Alguien tiene que acabar con los ladrones que se\nhan apostado en las {LowercaseNextLetter}Llanuras de Bran, en Idyia.\nIgual bajan la guardia con vosotros, que sois\nunos críos, pero, si la cosa se pone peliaguda, ¡huid!
+MSQID_Comp_KAI_AnnoyingResident: ¿¡Cómo!? ¿Que habéis derrotado a los forajidos?\n¡Qué fuerte! ¿Quiénes sois, si puede saberse?\n¿Los «{Unknown080E=03}Vientos de Ribeira»? Anda, ¡si he oído\nhablar de vosotros! ¿Me firmáis un autógrafo?
+MSQID_Goal_KAI_AnnoyingResident: Derrota a los {LowercaseNextLetter}Forajidos pedantes.
+MSQID_Client_KAI_AnnoyingResident: Soldado de guardia
+MSQID_Title_KAI_DeadPeace: Pacificación
+MSQID_Detail_KAI_DeadPeace: Las hordas de muertos vivientes del humedal de\nMulciber no paran de crecer... Deben de albergar\nun rencor infinito hacia nuestro mundo. Ojalá alguien\nles proporcione a sus almas el descanso que merecen.
+MSQID_Comp_KAI_DeadPeace: ¡Bien hecho! Les has concedido algo de paz a esas\npobres almas. Al menos, a partir de ahora los viajeros\npodrán transitar por la zona sin mayores\npreocupaciones. Te lo agradezco.
+MSQID_Goal_KAI_DeadPeace: Derrota a los {LowercaseNextLetter}Invasores del inframundo.
+MSQID_Client_KAI_DeadPeace: Sacerdote atemorizado
+MSQID_Title_KAI_DragonValley: El misterio de la {LowercaseNextLetter}Peña del Patíbulo
+MSQID_Detail_KAI_DragonValley: ¿Has oído hablar de la {LowercaseNextLetter}Peña del Patíbulo? ¡Hay\nsoldados que dicen haber visto una sombra enorme\ncustodiándola! Está lejos como para comprobarlo yo\nmismo, pero me pregunto si los rumores son ciertos.
+MSQID_Comp_KAI_DragonValley: Así que lo que había ahí era un necrodragón...\nYo lo achaco a que el lugar estaba maldito\npor su horrible pasado. ¡A saber qué otras\ncriaturas terroríficas se ocultarán por esos lares!
+MSQID_Goal_KAI_DragonValley: Derrota al {LowercaseNextLetter}Necrodragón.
+MSQID_Client_KAI_DragonValley: {CapitalizeNextLetter}Soldado del Templo
+MSQID_Title_KAI_Practice1: El encargo especial de papá
+MSQID_Detail_KAI_Practice1: ¿Te importaría traerme flores silvestres? Ya te digo\nyo dónde crecen. De camino puede que te topes\ncon algún animal salvaje, así que ve con cuidado.\n¡Si te devoran, ya no podré enseñarte nada más!
+MSQID_Comp_KAI_Practice1: ¡Qué olor más agradable! A tu madre le encantan\nestas flores, son sus favoritas. Me trae buenos\nrecuerdos de cuando no estaba en esta celda. ¿Cómo?\nQué va a ser esto un recado... ¡ha sido una lección!
+MSQID_Goal_KAI_Practice1: Entrega lo siguiente:
+MSQID_Client_KAI_Practice1: {Unknown080E=03}Castor
+MSQID_Title_KAI_Practice2: El encargo especial de mamá
+MSQID_Detail_KAI_Practice2: Si derrotas a los soldados de Fortuna en su templo,\npodrás presentarte a un examen de aptitud para\nobtener una nueva clase. ¡Ánimo, Cai, sé que\nlo conseguirás! Que tengas suerte, cariño.
+MSQID_Comp_KAI_Practice2: ¡Enhorabuena, {Unknown080E=03}Cai! Ya puedes presentarte al examen\npara iniciarte en una clase nueva. ¡Seguro que te será\nla mar de útil en los Juegos Heroicos! Pero procura\nno exigirte demasiado, ¿vale?
+MSQID_Goal_KAI_Practice2: Derrota a los soldados del Templo.
+MSQID_Client_KAI_Practice2: {Unknown080E=03}Aurora
+MSQID_Title_KAI_Practice3: El encargo del Demonio Cano
+MSQID_Detail_KAI_Practice3: Te sorprendería la cantidad de rumores que nos\nllegan al coliseo. Dicen que unos ladrones se han\nasentado en las {LowercaseNextLetter}Ruinas del fuerte Galen. Derrótalos\na modo de entrenamiento y te recompensaré.
+MSQID_Comp_KAI_Practice3: Buen trabajo con esos ladrones. Ya no le causarán\nproblemas a nadie más. Puede parecer poca cosa,\npero cualquier acción que ayude a la gente merece\nla pena. Toma tu premio.
+MSQID_Goal_KAI_Practice3: Derrota a los ladrones.
+MSQID_Client_KAI_Practice3: {Unknown080E=03}Bertrand
+MSQID_Title_KAI_OrniuGroup: Captura de ornius
+MSQID_Detail_KAI_OrniuGroup: ¿Sabes esas aves enormes que corren rapidísimo\ny son capaces de saltar muros enormes? ¡Se llaman\n{LowercaseNextLetter}Ornius! Pues necesito hacerme con un par...\n¿Tú podrías conseguírmelos? ¡Te lo compensaré!
+MSQID_Comp_KAI_OrniuGroup: El padre de mi novia se opone a que nos casemos,\n¡y el muy cenutrio la ha encerrado en su mansión!\nPero yo no pienso renunciar a nuestro amor...\n¡La rescataré y huiremos a lomos de los {LowercaseNextLetter}Ornius!
+MSQID_Goal_KAI_OrniuGroup: Entrega lo siguiente:
+MSQID_Client_KAI_OrniuGroup: Loco de amor
+MSQID_Title_KAI_OrderVegetables1: Verduras para los saramitas
+MSQID_Detail_KAI_OrderVegetables1: ¡Necesito ayuda! El barco que traía vituallas para la\ncasa de invitados de Saramis se ha hundido. ¿Puedes\ntraerme 30 ingredientes? Necesito {LowercaseNextLetter}Bayas de café,\n{LowercaseNextLetter}Zang y {LowercaseNextLetter}Meliágrida. No importa cuántos de cada uno.
+MSQID_Comp_KAI_OrderVegetables1: Les conté a los saramitas lo que pasó con el envío\nanterior y me dijeron que no les importaba esperar.\n¡Todo el mundo los pinta como gente irascible\ne impaciente! No debería hacer caso de los rumores...
+MSQID_Goal_KAI_OrderVegetables1: Entrega lo siguiente:
+MSQID_Client_KAI_OrderVegetables1: Mercadera
+MSQID_Title_KAI_OrderVegetables2: Verduras para los aragueses
+MSQID_Detail_KAI_OrderVegetables2: La casa de invitados de Arago me ha encargado\nverduras, ¡pero las que les llevaba se han echado\na perder! ¿Puedes traerme 30 ingredientes en total?\nNecesito {LowercaseNextLetter}Melara, {LowercaseNextLetter}Shaktoh y {LowercaseNextLetter}Usama.
+MSQID_Comp_KAI_OrderVegetables2: Me habían contado unas cosas del rey de Arago\nque... Buf, si llegan a cancelar el banquete, ¡no lo\ncuento! ¡Ja, ja! De hecho, había empezado ya\na escribir mi testamento. ¡Gracias! 
+MSQID_Goal_KAI_OrderVegetables2: Entrega lo siguiente:
+MSQID_Client_KAI_OrderVegetables2: Mercader de manjares
+MSQID_Title_KAI_OrderVegetables3: Verduras para el coliseo
+MSQID_Detail_KAI_OrderVegetables3: Una plaga de ratas ha arruinado las verduras que\nllevé a la mazmorra del coliseo. ¿Me consigues\nun total de 30 ingredientes? Necesito {LowercaseNextLetter}Cocominj,\n{LowercaseNextLetter}Manja oda y {LowercaseNextLetter}Jin ba jiao. No importa cuántos de cada.
+MSQID_Comp_KAI_OrderVegetables3: ¡Has hecho un trabajo excelente, zagal! Tus padres\nestarán encantados de que les eches una mano en el\ncampo. ¡Y buen chiste, lo de que ambos están presos!\nVoy a entregar ya las verduras. ¡Muchas gracias!
+MSQID_Goal_KAI_OrderVegetables3: Entrega lo siguiente:
+MSQID_Client_KAI_OrderVegetables3: Mercader
+MSQID_Title_DIT_Challenge1: Duelo de Temerario: {Unknown080E=03}Borges
+MSQID_Detail_DIT_Challenge1: Sssangre... ¡Qué ansia de sangre! Cómo mana,\ndeliciosa, de las cabezasss que cerceno. ¡Beberla es\nlo que me da fuerzas! ¡Y sssaborearé la tuya! ¡Vamos!
+MSQID_Comp_DIT_Challenge1: Sssangre... es lo único que me sssacia. Incluso el\ninmundo líquido que brota de mis heridas me place.\nMerecesss que te enseñe mi técnica. ¡Úsala para\nsssaborear la sssangre de tus enemigos!
+MSQID_Goal_DIT_Challenge1: Derrota a {Unknown080E=03}Borges.
+MSQID_Client_DIT_Challenge1: {Unknown080E=03}Borges, el Chupasangre
+MSQID_Title_DIT_Challenge2: Duelo de Temerario: Aguirre
+MSQID_Detail_DIT_Challenge2: No hay nada más cruel que morir de hambruna.\nToda mi familia corrió ese destino, así que inventé\nuna técnica para derribar aves y comérmelas. Pero\nson rápidas... Veamos si tú eres más veloz que ellas.
+MSQID_Comp_DIT_Challenge2: ¿No te parece que las aves siempre nos miran con\narrogancia desde el cielo? Aunque tal vez yo también\npeque de eso. Si quieres probar mi técnica, adelante.
+MSQID_Goal_DIT_Challenge2: Derrota a {Unknown080E=03}Aguirre.
+MSQID_Client_DIT_Challenge2: {Unknown080E=03}Aguirre, la Matahalcones
+MSQID_Title_DIT_Challenge3: Duelo de Temerario: {Unknown080E=03}Sepente
+MSQID_Detail_DIT_Challenge3: Me gano la vida cumpliendo misiones de las que\nnadie quiere encargarse, pero voy a luchar contigo\nsolo por ponerme a prueba. «Sepente golpea primero\ny dos veces, pero a él nadie le toca». Eso dicen de mí.
+MSQID_Comp_DIT_Challenge3: Lo cierto es que esta técnica se me ocurrió al\nobservar a serpientes acuáticas. Se deslizan por\nel agua y atacan a su presa con una precisión letal.\nEspero que le des buen uso.
+MSQID_Goal_DIT_Challenge3: Derrota a {Unknown080E=03}Sepente.
+MSQID_Client_DIT_Challenge3: {Unknown080E=03}Sepente, la Anfisbena
+MSQID_Title_DIT_Challenge4: Duelo de Temerario: {Unknown080E=03}Camilo
+MSQID_Detail_DIT_Challenge4: ¡No hay nada que me haga sentir más vivo que abatir\na un enemigo descomunal! He perfeccionado mis\ndotes de esgrima para convertirme en un maestro\nmatagigantes. ¡Enfréntate a mí y te lo demostraré!
+MSQID_Comp_DIT_Challenge4: Agh... tú ganas. Eres tan fuerte como un gigante, sin\nduda. Te enseñaré mi técnica porque este combate\nme ha hecho sentir de lo más vivo. ¡Y espero que nos\nvolvamos a batir alguna vez!
+MSQID_Goal_DIT_Challenge4: Derrota a {Unknown080E=03}Camilo.
+MSQID_Client_DIT_Challenge4: {Unknown080E=03}Camilo, el Cazagigantes
+MSQID_Title_DIT_Challenge5: Duelo de Temerario: {Unknown080E=03}Il-Lara
+MSQID_Detail_DIT_Challenge5: Una armadura recia, una lanza afilada y pura suerte.\nGracias a esas tres cosas, he salido victoriosa en\ncampos de batalla del mundo entero. Ya estoy harta\nde enfrentarme a debiluchos. ¡A ver qué sabes hacer!
+MSQID_Comp_DIT_Challenge5: Mi lanza y mi armadura no han sido rival para tu\nespada, pero la suerte no me ha fallado, pues al fin\nhe sentido miedo al luchar contra alguien. Espero\nque mi técnica te sea de utilidad.
+MSQID_Goal_DIT_Challenge5: Derrota a {Unknown080E=03}Il-Lara.
+MSQID_Client_DIT_Challenge5: {Unknown080E=03}Il-Lara, la Perforadora
+MSQID_Title_DIT_Challenge6: Duelo de Temerario: {Unknown080E=03}Cabaye
+MSQID_Detail_DIT_Challenge6: Dicen que los mirmidones son los guerreros más\naptos por sus golpes críticos. ¡Bah! Ya no vivimos\nen la era de las leyendas. En la actualidad, es mucho\nmás efectivo luchar a caballo. ¡Te lo demostraré!
+MSQID_Comp_DIT_Challenge6: ¿De verdad crees que no tiene sentido decidir qué\ntipo de guerrero es más apto? Tal vez lleves razón.\nMi padre fue un mirmidón de élite, pero no le bastó\ny lo pagó con su vida en el campo de batalla...
+MSQID_Goal_DIT_Challenge6: Derrota a {Unknown080E=03}Cabaye.
+MSQID_Client_DIT_Challenge6: {Unknown080E=03}Cabaye, la Jinete Fulminante
+MSQID_Title_DIT_Challenge7: Duelo de Temerario: Damien
+MSQID_Detail_DIT_Challenge7: La belleza de la batalla está en su simpleza. Al final,\ntodo se reduce a que tu oponente falle su tiro y tú\naciertes el tuyo. Mi flecha te atravesará la frente\ndesde más allá del horizonte... Así de simple.
+MSQID_Comp_DIT_Challenge7: También hay belleza en la fragilidad. Tú has hecho\nañicos la simpleza de la batalla, pero aun así no ha\nperdido su hermosura. Ya veo que no lo entiendes...\nNo importa; te enseñaré mi bella técnica igualmente.
+MSQID_Goal_DIT_Challenge7: Derrota a Damien.
+MSQID_Client_DIT_Challenge7: Damien, el Disparo Certero
+MSQID_Title_DIT_Challenge8: Duelo de Temerario: {Unknown080E=03}Berenguela
+MSQID_Detail_DIT_Challenge8: Detesto a los demonios y la magia. Estaría\na su merced en batalla si no fuera por mis puños,\ncon los que imparto justicia y purifico todo mal.\nVen, deja que purgue tus impurezas.
+MSQID_Comp_DIT_Challenge8: Lo sagrado resulta sublime. Por eso he de purificar\nDagda y liberarla de sus demonios. Tu espada,\naun corrompida por la magia oscura, parece pura\ntambién. Es un dilema, pero te enseñaré mi técnica.
+MSQID_Goal_DIT_Challenge8: Derrota a {Unknown080E=03}Berenguela.
+MSQID_Client_DIT_Challenge8: {Unknown080E=03}Berenguela, el Puño Purificador
+MSQID_Title_DIT_Challenge9: Duelo de Temerario: {Unknown080E=03}Oko
+MSQID_Detail_DIT_Challenge9: Mi deseo es matar a un dios. Por muy longevos que\nsean, sus vidas se pueden segar igualmente. Creo que\nmi técnica de esgrima destruiría hasta sus almas.\n¿Te parece si la ponemos a prueba... contigo? 
+MSQID_Comp_DIT_Challenge9: Cuando era niño, me abandonaron a mi suerte en un\nnido de gusanos de las arenas. Ningún dios acudió\na mi rescate; lo que me salvó fue una hoja oxidada.\n¿Acaso son las espadas más fuertes que los dioses?
+MSQID_Goal_DIT_Challenge9: Derrota a {Unknown080E=03}Oko.
+MSQID_Client_DIT_Challenge9: {Unknown080E=03}Oko, el Devastador
+MSQID_Title_SEO_Procurement1: Enviar suministros: flores tetras
+MSQID_Detail_SEO_Procurement1: No nos resulta fácil prepararnos contra los mosanos\nen vuestra ausencia, majestad. ¿Podríais recolectar\nflores tetras? Creo que crecen en Amalthea. Son para\nlos niños, en cuyas espaldas recae el peso del futuro.
+MSQID_Comp_SEO_Procurement1: ¡Gracias, majestad! A los niños les ha encantado\nvuestro amable gesto, y también ha mejorado\nla moral de nuestras tropas. Seguiré supervisando\ndiligentemente la protección de nuestro reino. 
+MSQID_Goal_SEO_Procurement1: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement1: {Unknown080E=03}Kumos
+MSQID_Title_SEO_Procurement2: Enviar suministros: {LowercaseNextLetter}Acero tamahagane
+MSQID_Detail_SEO_Procurement2: Majestad, nuestras patrullas fronterizas necesitan\nabastecerse de acero tamahagane. Dicen que\nse puede extraer de las cuevas de Amalthea.\nOs agradeceríamos mucho que nos enviaseis un poco.
+MSQID_Comp_SEO_Procurement2: Hemos recibido vuestro regalo de {LowercaseNextLetter}Acero tamahagane,\nreina Theodora. Lo mínimo que podemos hacer para\ncorresponder tanta generosidad es defender la patria\nen vuestra ausencia. ¡Confiad en nosotros, majestad!
+MSQID_Goal_SEO_Procurement2: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement2: Patrullero fronterizo
+MSQID_Title_SEO_Procurement3: Enviar suministros: trifrutos
+MSQID_Detail_SEO_Procurement3: Soy el oficial que gestiona las raciones de comida\nde las tropas y me he dado cuenta de que se animan\nmucho cuando incluimos trifrutos. ¿Podríais\nenviarnos unos cuantos? Crecen en Amalthea.
+MSQID_Comp_SEO_Procurement3: Gracias, majestad. Ahora los soldados disfrutarán de\nraciones deliciosas y duraderas. Nuestros esfuerzos\npor tenerlos bien alimentados ya están dando fruto,\ny nunca mejor dicho... ¡Dejadnos a cargo del frente!
+MSQID_Goal_SEO_Procurement3: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement3: Oficial de racionamiento
+MSQID_Title_SEO_Procurement4: Enviar suministros: truchas blancas
+MSQID_Detail_SEO_Procurement4: ¡Necesitamos ayuda, majestad! ¿Seríais tan amable\nde enviarnos truchas blancas para ponerlas en\nconserva? Son peces comunes en Saramis, pero unas\nbestias marinas están atacando a los pescadores.
+MSQID_Comp_SEO_Procurement4: ¡Mil gracias, reina Theodora! Con esto tendremos\nsuministros de sobra para cualquier emergencia que\nsurja. ¡Los soldados ayudarán a espantar a esas\nbestias marinas de las aguas de Saramis!
+MSQID_Goal_SEO_Procurement4: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement4: Encargado de suministros
+MSQID_Title_SEO_Procurement5: Enviar suministros: peces acero
+MSQID_Detail_SEO_Procurement5: Qué gran honor es ponerme en contacto con vos,\nmajestad. Si no es mucha molestia, os agradecería\nque enviarais peces acero para los soldados. Habitan\nal sur del mar de Danann, cerca de Megaira.
+MSQID_Comp_SEO_Procurement5: No sabéis cuánto le alegráis el corazón a esta pobre\nanciana, majestad. Los lucios alimentarán\na las tropas y les traerán recuerdos del hogar.\n¡Seguiré trabajando en los fogones sin descanso!
+MSQID_Goal_SEO_Procurement5: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement5: Señora de Benetnasch
+MSQID_Title_SEO_Procurement6: Enviar suministros: lochas del Ladon
+MSQID_Detail_SEO_Procurement6: Quiero vender lochas del Ladon y, con los beneficios,\ncomprar armas de calidad para los soldados que me\nsalvaron la vida. Me vendría bien vuestra ayuda para\nconseguirlo, majestad.
+MSQID_Comp_SEO_Procurement6: Majestad, compré unas armas excelentes con los\nbeneficios que le saqué al maravilloso pescado que\nenviasteis. Tendríais que haber visto las caras de los\nsoldados. Me alegro de haberles subido la moral.
+MSQID_Goal_SEO_Procurement6: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement6: Mercader de Megaira
+MSQID_Title_SEO_Procurement7: Enviar suministros: rocarraíces
+MSQID_Detail_SEO_Procurement7: ¡No puedo creer que le esté pidiendo algo a la\nmismísima reina! El escuadrón de mi hermana\nadora una verdura llamada rocarraíz. Quiero darles\nuna alegría antes de que luchen contra los mosanos.
+MSQID_Comp_SEO_Procurement7: Lamento haber tenido que recurrir a vos, majestad,\npero vuestra generosidad ha ayudado a elevar\nla moral del escuadrón de mi hermana. ¡Les dará\nfuerzas para hacer frente a los mosanos! 
+MSQID_Goal_SEO_Procurement7: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement7: Hermano atento
+MSQID_Title_SEO_Procurement8: Enviar suministros: sollos del Kothar
+MSQID_Detail_SEO_Procurement8: Dirijo una cantina en la capital y me gustaría\ndeleitar a mis clientes habituales con sollos\ndel Kothar. Si no es mucha molestia,\n¿os importaría conseguirme unos cuantos?
+MSQID_Comp_SEO_Procurement8: ¡Majestad! A un mercader mayorista de armaduras le\ngustó tanto mi sollo que ha decidido hacerles un buen\ndescuento a nuestras tropas. ¿Quién me iba a decir\nque un día contribuiría a la seguridad de mi patria?
+MSQID_Goal_SEO_Procurement8: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement8: Restaurador de Megaira
+MSQID_Title_SEO_Procurement9: Enviar suministros: mijo desértico
+MSQID_Detail_SEO_Procurement9: Hola, reina {Unknown080E=03}Theodora. Mi papá se ha ido a\nprotegernos de los mosanos... ¡Qué miedo dan!\nA él le encanta comer mijo desértico. ¡Si yo\nle enviase un montón, se pondría contentísimo!
+MSQID_Comp_SEO_Procurement9: Os pido disculpas por el atrevimiento de mi hijo,\nmajestad. Me sorprendió con unos pasteles de mijo\nque compartí con mis compañeros de armas. ¡Todos\nagradecemos de corazón vuestro generoso detalle!
+MSQID_Goal_SEO_Procurement9: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement9: Familia saramita
+MSQID_Title_SEO_Procurement10: Enviar suministros: {LowercaseNextLetter}Toxolitos
+MSQID_Detail_SEO_Procurement10: Reina de Saramis, solicito vuestra ayuda como jefe\nde uno de los pueblos del bosque. Hemos diseñado\nun arma venenosa, pero necesitamos {LowercaseNextLetter}Toxolitos para\nproducirla. Solo así podremos defender nuestro hogar.
+MSQID_Comp_SEO_Procurement10: Como agradecimiento por los {LowercaseNextLetter}Toxolitos, hemos\nenseñado a vuestros soldados a fabricar nuestra\narma. No es una herramienta noble, pero las guerras\nsiempre son injustas. Esto ayudará a traer la paz. 
+MSQID_Goal_SEO_Procurement10: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement10: Jefe de uno de los pueblos del bosque
+MSQID_Title_SEO_Procurement11: Enviar suministros: pirañas de Lir
+MSQID_Detail_SEO_Procurement11: ¡Qué petición más curiosa! Los herreros de la capital\nsolicitan que les enviéis pirañas de Lir, y dicen que\nno les importa que no sean frescas. Me pregunto\nqué se traerán entre manos... ¿Les ayudaréis?
+MSQID_Comp_SEO_Procurement11: El jefe del gremio de herreros me ha informado de\nque han fabricado pequeñas dagas con los afilados\ncolmillos de las pirañas. Nos aseguran que son letales\ny que servirán para dar buena cuenta de los mosanos.
+MSQID_Goal_SEO_Procurement11: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement11: {Unknown080E=03}Kumos
+MSQID_Title_SEO_Procurement12: Enviar suministros: {LowercaseNextLetter}Ocealitos
+MSQID_Detail_SEO_Procurement12: ¿Habéis oído hablar sobre los ocealitos, majestad?\nLos marineros saramitas creen que contienen el\npoder de los mares en su interior. Si me enviáis\nalgunos, los engarzaré en las armas de los soldados.
+MSQID_Comp_SEO_Procurement12: ¡Majestad! Los ocealitos que mandasteis no solo\nhan animado a los soldados, sino también a la gente\nde a pie, gracias a los amuletos que he fabricado\ncon las piedras sobrantes. ¡Es todo mérito vuestro!
+MSQID_Goal_SEO_Procurement12: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement12: Herrero ornamental
+MSQID_Title_SEO_Procurement13: Enviar suministros: {LowercaseNextLetter}Melaras
+MSQID_Detail_SEO_Procurement13: El otro día, un tipo se desmayó en Megaira por comer\ndemasiadas melaras. El doctor dijo que era una\nreacción a las propiedades únicas de este hongo. Si\nme enviáis algunas, tal vez pueda inventar un arma.
+MSQID_Comp_SEO_Procurement13: Majestad, he desarrollado un arma a partir de una\nsustancia que extraje de las {LowercaseNextLetter}Melaras. ¡Es tan potente\nque logra apaciguar incluso a las bestias más fieras!\nAún falta optimizarla, pero tiene mucho potencial.
+MSQID_Goal_SEO_Procurement13: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement13: Inventor de armas
+MSQID_Title_SEO_Procurement14: Enviar suministros: bonitos carnosos
+MSQID_Detail_SEO_Procurement14: Nuestros soldados han capturado a un espía mosano.\n¿Podríais enviarnos unos bonitos carnosos para\nrecompensar la buena labor de las tropas? Seguro\nque les encantará tal muestra de agradecimiento.
+MSQID_Comp_SEO_Procurement14: Tendríais que haber escuchado los gritos de júbilo de\nnuestros soldados al recibir los bonitos, majestad.\nAlgunos incluso lloraron. ¡Mil gracias! Seguiremos\na la caza de espías mosanos, descuidad.
+MSQID_Goal_SEO_Procurement14: Entrega lo siguiente:
+MSQID_Client_SEO_Procurement14: {Unknown080E=03}Kumos
+MSQID_Title_LED_ShowProvince1_1: Baile en Yaaman
+MSQID_Detail_LED_ShowProvince1_1: ¡Hace siglos que nuestros cazadores no atrapan nada!\nVamos a recuperar nuestra antigua tradición de\ncelebrar un festival y rogar por la abundancia.\nNecesitamos una bailarina para animar el ambiente.
+MSQID_Comp_LED_ShowProvince1_1: ¡Gracias por venir a nuestra aldea! Nuestros\ncazadores ya han traído algunas presas, y no\nme extrañaría que se deba a tu inspiradora danza.\nEn todo caso... ¡mil gracias por la actuación!
+MSQID_Goal_LED_ShowProvince1_1: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince1_1: Aldeano de Yaaman
+MSQID_Title_LED_ShowProvince1_2: Baile en {CapitalizeNextLetter}Regia
+MSQID_Detail_LED_ShowProvince1_2: Gracias a los milicianos que patrullan nuestras calles,\nvivimos tan seguros que hasta el rácano del alcalde\nnos ha cedido fondos para hacerles un homenaje.\nBuscamos una bailarina para la ocasión.
+MSQID_Comp_LED_ShowProvince1_2: ¡Qué actuación tan maravillosa! Gracias a ti, nos\nlo hemos pasado aún mejor de lo que esperábamos.\nFíjate que el alcalde era el que más animado parecía\nde todos... ¿Volverás a bailar para nosotros pronto?
+MSQID_Goal_LED_ShowProvince1_2: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince1_2: Aldeano de Regia
+MSQID_Title_LED_ShowProvince1_3: Baile en Daimōn
+MSQID_Detail_LED_ShowProvince1_3: Me gustaría celebrar por todo lo alto el nacimiento\nde mi preciosa nieta. No puedo permitirme pagar\nmucho, pero me encantaría que una bailarina\nviniera y nos animara con sus danzas.
+MSQID_Comp_LED_ShowProvince1_3: ¡Ha sido espectacular! Hasta mi querida nieta recién\nnacida, que todavía no entiende nada, estaba dando\ngritos de alegría. Tal vez no me quede mucho tiempo\nde vida, pero le he dejado un recuerdo imborrable.
+MSQID_Goal_LED_ShowProvince1_3: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince1_3: Anciano de Daimōn
+MSQID_Title_LED_ShowProvince2_1: Baile en el {LowercaseNextLetter}Puerto de Callianeira
+MSQID_Detail_LED_ShowProvince2_1: Los piratas no dan tregua a los mercaderes que\nnavegamos por los mares orientales como yo, así que\nhe decidido crear un navío mercante acorazado y\nquiero inaugurarlo con un espectáculo de danza.
+MSQID_Comp_LED_ShowProvince2_1: ¡Ha sido una ceremonia perfecta! ¡Chupaos esa,\nSociedad Mercantil Vandahl! ¡Ja! Los piratas no\ntienen nada que hacer contra mi navío acorazado.\n¡Me voy a hacer de oro!
+MSQID_Goal_LED_ShowProvince2_1: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince2_1: Mercader de Callianeira
+MSQID_Title_LED_ShowProvince2_2: Baile en el {LowercaseNextLetter}Puerto de Raivo
+MSQID_Detail_LED_ShowProvince2_2: ¿No serás tú la hermosa bailarina de la que tanto se\nhabla en la capital últimamente? ¿Te importaría\nvenir a actuar para nosotros? ¡Nos ha picado la\ncuriosidad y queremos verte en vivo!
+MSQID_Comp_LED_ShowProvince2_2: Por los dioses, los rumores no eran ciertos... ¡Tienes\nmucho más talento de lo que se dice! Se lo dejaré\nbien claro a la mujer que me habló de ti, porque no\nte vendió como es debido. ¡Dichosas habladurías!
+MSQID_Goal_LED_ShowProvince2_2: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince2_2: Chismosa de Raivo
+MSQID_Title_LED_ShowProvince3_1: Baile en Zoste
+MSQID_Detail_LED_ShowProvince3_1: Mi aldea se especializa en la producción de sal,\ny un cliente importante va a visitarnos para negociar\nun contrato. Necesito a alguien que baile de fábula\npara garantizar que la reunión sea todo un éxito.
+MSQID_Comp_LED_ShowProvince3_1: ¡La reunión ha sido un rotundo éxito! Nuestra sal\nes de la más alta calidad, ya que nos esmeramos\nen el proceso de producción, pero tú no le vas\na la zaga. ¡Gracias, eres maravillosa!
+MSQID_Goal_LED_ShowProvince3_1: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince3_1: Mercader de sal de Zoste
+MSQID_Title_LED_ShowProvince3_2: Baile en {CapitalizeNextLetter}Mons
+MSQID_Detail_LED_ShowProvince3_2: El capitán de la guardia se va a retirar y nos gustaría\ndespedirnos de él con un banquete de lujo. Lamento\nla urgencia de la petición, pero... ¡por favor, sería\nun gran honor que vinieras a bailar para él!
+MSQID_Comp_LED_ShowProvince3_2: ¡Tu baile en el banquete fue una absoluta delicia!\nEl capitán estaba que no cabía en sí de gozo,\ny a los demás nos inspiraste para tomarle el relevo.\n¡Gracias de parte de todos!
+MSQID_Goal_LED_ShowProvince3_2: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince3_2: Soldado de Mons
+MSQID_Title_LED_ShowProvince3_3: Baile en Alecto
+MSQID_Detail_LED_ShowProvince3_3: Un espléndido tratante del puerto va a celebrar\nun festín para no desperdiciar sus excedentes\nde comida y bebida y, por supuesto, no quiere\nque falte una bailarina que entretenga al personal.
+MSQID_Comp_LED_ShowProvince3_3: Ya sentimos haber empezado el festín sin ti, pero\nal menos todavía quedaba algo de comida cuando\nllegaste. ¡Y estuviste espectacular! Intentaré no\nempinar mucho el codo la próxima vez que actúes.
+MSQID_Goal_LED_ShowProvince3_3: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince3_3: Habitante de Alecto
+MSQID_Title_LED_ShowProvince4_1: Baile en Barsk
+MSQID_Detail_LED_ShowProvince4_1: En este local nos aseguramos de que toda la gente\nque visita Barsk coma y duerma bien, pero ahora nos\ngustaría ofrecer también espectáculos como parte\ndel servicio. ¡Queremos que la taberna esté a rebosar!
+MSQID_Comp_LED_ShowProvince4_1: ¡Nunca había visto nada igual! Tenías al público\nobnubilado. La taberna estaba abarrotada y, como\nmuchos bebieron de más, se quedaron a dormir en la\nposada. ¿Y si bailas para nosotros todas las noches?
+MSQID_Goal_LED_ShowProvince4_1: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince4_1: Posada de Barsk
+MSQID_Title_LED_ShowProvince5_1: Baile en {CapitalizeNextLetter}Orens
+MSQID_Detail_LED_ShowProvince5_1: Antiguamente, nuestro pueblo siempre estaba\nhasta los topes de forasteros. Ahora solo vienen\njabalíes de las arenas, que destrozan las cosechas.\nPor favor, anima Orens con tu cautivadora danza.
+MSQID_Comp_LED_ShowProvince5_1: ¡Eres una estrella! Has animado a niños y adultos\npor igual. Ojalá tu actuación hubiese atraído\na algunos visitantes más... pero supongo\nque eso ya era mucho pedir.
+MSQID_Goal_LED_ShowProvince5_1: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince5_1: Habitante de Orens
+MSQID_Title_LED_ShowProvince5_2: Baile en el {LowercaseNextLetter}Puerto de Pandora
+MSQID_Detail_LED_ShowProvince5_2: Nuestro puerto comercia con Fódlan, lo que nos\nreporta pingües beneficios. Dicen que allí valoran el\narte, y yo quiero convertir este lugar en una meca de\nlas artes escénicas. ¿Qué tal si bailas para nosotros?
+MSQID_Comp_LED_ShowProvince5_2: Has sido un auténtico vendaval... Qué digo...\n¡Has sido como un huracán de puro talento!\nTu arrebatadora actuación ha cautivado\na la audiencia. ¡Enhorabuena!
+MSQID_Goal_LED_ShowProvince5_2: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince5_2: Comerciante de Pandora
+MSQID_Title_LED_ShowProvince5_3: Baile en la {LowercaseNextLetter}Ciudadela de Mahón
+MSQID_Detail_LED_ShowProvince5_3: No me gusta nada el ambiente tan frío que tenemos\naquí. ¡Nadie socializa, son unos muermos!\nNecesitamos algo que nos una y nos anime, así que\ncelebraré un banquete. Pero nos falta una bailarina...
+MSQID_Comp_LED_ShowProvince5_3: Una adivina me dijo que para animar a la gente\nnecesitaba una bailarina... ¡y acertó de lleno!\nTodos parecían sentirse algo incómodos, pero el\nbanquete ha sido un éxito aun así. ¡Vuelve pronto!
+MSQID_Goal_LED_ShowProvince5_3: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince5_3: Soldado conciliador de Mahón
+MSQID_Title_LED_ShowProvince5_4: Baile en Twalinn
+MSQID_Detail_LED_ShowProvince5_4: Twalinn es una aldea apartada, pero aun así\nrecibimos visitantes que vienen a probar nuestra\ngastronomía desde todas las regiones. Si te atreves\na cruzar el desierto, ¿te importaría venir a bailar?
+MSQID_Comp_LED_ShowProvince5_4: Venir hasta aquí ha sido un acto muy noble por tu\nparte, ¡y encima has estado espectacular! Además,\nnuestros manjares se han vendido aún mejor de lo\nhabitual. ¡Espero que vuelvas por aquí algún día!
+MSQID_Goal_LED_ShowProvince5_4: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince5_4: Sabia de Twalinn
+MSQID_Title_LED_ShowProvince5_5: Baile en Breston
+MSQID_Detail_LED_ShowProvince5_5: Los mejores guerreros del país se citan en el coliseo\nde nuestra capital para demostrar su valía y labrarse\nun nombre. Son valientes pero conflictivos, así que...\n¿te importaría amansarlos un poco con tu danza?
+MSQID_Comp_LED_ShowProvince5_5: ¡Le diste su merecido al granuja que intentó subirse\nal escenario! Siento el fallo de seguridad, pero nos\ntenías a todos embelesados... ¡Te has ganado\nun montón de fans, que lo sepas!
+MSQID_Goal_LED_ShowProvince5_5: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince5_5: {CapitalizeNextLetter}Soldado de Brezarant
+MSQID_Title_LED_ShowProvince5_6: Baile en Whill
+MSQID_Detail_LED_ShowProvince5_6: Cuando una bestia ataca mi aldea, no me queda otra\nque matarla para proteger a mi gente, aunque las\nvidas que he segado también merecen un homenaje.\n¿Podrías bailar junto al monumento a su memoria?
+MSQID_Comp_LED_ShowProvince5_6: Yo no me he dado cuenta, pero mi hijo dice haber\nvisto una columna de humo emerger del monumento.\n¿Será cierto? En todo caso, muchas gracias por actuar\npara nosotros. Me alegro de habértelo pedido.
+MSQID_Goal_LED_ShowProvince5_6: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince5_6: Aldeano de Whill
+MSQID_Title_LED_ShowProvince6_1: Baile en Osiris
+MSQID_Detail_LED_ShowProvince6_1: El pozo que cavaron mis ancestros se ha secado...\nSegún cierto vidente, si una hermosa bailarina\nde la capital actúa aquí, el agua brotará de nuevo.\n¡Por favor, tienes que venir a ayudarnos!
+MSQID_Comp_LED_ShowProvince6_1: ¿¡Cómo es posible!? ¡Tu danza ha hecho que la tierra\ntiemble y el agua vuelva a manar! ¡No doy crédito!\nEstamos todos en deuda contigo, y te recibiremos con\nmucho gusto siempre que quieras venir.
+MSQID_Goal_LED_ShowProvince6_1: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince6_1: Habitante de Osiris
+MSQID_Title_LED_ShowProvince6_2: Baile en el {LowercaseNextLetter}Puerto de Niiza
+MSQID_Detail_LED_ShowProvince6_2: Un cliente importante de Brigid, socio mío, viene\nde visita. Le ofreceremos la mejor comida y bebida\nposible, pero las bailarinas de aquí no son nada\ndel otro mundo. ¿Podría ayudarnos una de la capital?
+MSQID_Comp_LED_ShowProvince6_2: ¡Todo ha salido a pedir de boca! Me preocupaba\nque no nos entendiéramos por las diferencias\nculturales, pero ya veo que no son obstáculo para\nuna gran artista como tú. ¡Seremos grandes socios!
+MSQID_Goal_LED_ShowProvince6_2: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince6_2: Comerciante de Niiza
+MSQID_Title_LED_ShowProvince7_1: Baile en Aguiño
+MSQID_Detail_LED_ShowProvince7_1: Los peregrinos que viajan al templo de Aurora pasan\npor nuestra aldea. El camino es peligroso, así que\nquiero honrarlos con una oración y una danza\npor su valentía, pero necesitamos una bailarina.
+MSQID_Comp_LED_ShowProvince7_1: Los peregrinos que vienen aquí se exponen a muchos\npeligros y penurias... pero tu danza les ha devuelto\nla sonrisa por unos instantes. Ha sido precioso.\nNo sabes cuánto nos alegra que hayas venido.
+MSQID_Goal_LED_ShowProvince7_1: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince7_1: Sacerdotisa de Aguiño
+MSQID_Title_LED_ShowProvince7_2: Baile en Benetnasch
+MSQID_Detail_LED_ShowProvince7_2: Vivimos en un pueblo muy humilde, ¡pero al menos\ntenemos una hermosa vista del océano! Vamos\na celebrar una fiesta para agradecérselo al dios\ndel mar. ¿Podrías ayudarnos con una danza?
+MSQID_Comp_LED_ShowProvince7_2: La colina, el océano de fondo... Creo que teníamos\nel escenario ideal para una bailarina de tu calibre.\nNos sentimos honrados por haber presenciado\ntu actuación. ¡Y seguro que el dios del mar también!
+MSQID_Goal_LED_ShowProvince7_2: Actúa en el lugar indicado.
+MSQID_Client_LED_ShowProvince7_2: Habitante de Benetnasch
+MSQID_Title_LED_ShowBar1: Baile en la taberna
+MSQID_Detail_LED_ShowBar1: ¡La bailarina que contratamos para actuar hoy\nse ha lesionado! Buscamos una experimentada\ny de suficiente calidad para remplazarla.\n¡No podemos quedarnos con el escenario vacío!
+MSQID_Comp_LED_ShowBar1: ¡Qué maravilla de actuación! Y justo el día que\nle echo el cierre definitivo al local... En fin, ese baile\nme ha inspirado para seguir luchando. ¡Espero que\nvolvamos a vernos!
+MSQID_Goal_LED_ShowBar1: Habla con el tabernero.
+MSQID_Client_LED_ShowBar1: {CapitalizeNextLetter}Tabernero
+MSQID_Title_LED_ShowBar2: Nuevas bebidas para la taberna
+MSQID_Detail_LED_ShowBar2: Tu actuación me ha inspirado para seguir al pie del\ncañón con la taberna. Quiero que la gente de la zona\nbaja disfrute de bebidas nuevas. ¿Podrías traerme\nlos ingredientes y bailar en la fiesta que organizaré?
+MSQID_Comp_LED_ShowBar2: ¡Tanto las nuevas bebidas como tu actuación han\nsido un exitazo! Ya no me cabe duda de que a esta\ntaberna todavía le queda vida por delante. Vuelve\na pasarte cuando puedas, que tendré trabajo para ti.
+MSQID_Goal_LED_ShowBar2: Entrega lo siguiente:
+MSQID_Client_LED_ShowBar2: {CapitalizeNextLetter}Tabernero
+MSQID_Reward_Menu_LED_ShowBar2: Desbloquearás las bebidas en la taberna.
+MSQID_Reward_Result_LED_ShowBar2: Ya están disponibles las bebidas en la taberna.
+MSQID_Title_LED_ShowBar3: Nuevas bebidas para los capitanes
+MSQID_Detail_LED_ShowBar3: ¡Gracias a las nuevas bebidas y a tus actuaciones,\nla taberna va viento en popa! Ahora quiero preparar\nbebidas nuevas para atraer a los capitanes de los\nnavíos mercantes. ¿Podrías traerme los ingredientes?
+MSQID_Comp_LED_ShowBar3: ¡Los capitanes se deshicieron en elogios a las nuevas\nbebidas y a tu actuación! Todos me preguntan que\ncuándo volverán a verte de nuevo sobre el escenario.\nAvísame cuando estés por la zona.
+MSQID_Goal_LED_ShowBar3: Entrega lo siguiente:
+MSQID_Client_LED_ShowBar3: {CapitalizeNextLetter}Tabernero
+MSQID_Reward_Menu_LED_ShowBar3: Desbloquearás nuevas bebidas en la taberna.
+MSQID_Reward_Result_LED_ShowBar3: Hay nuevas bebidas disponibles en la taberna.
+MSQID_Title_LED_ShowBar4: Nuevas bebidas para la clase media
+MSQID_Detail_LED_ShowBar4: Nuestra selección de bebidas y tus bailes atraen\nmucha clientela, y ahora me propongo captar\nla atención de la clase media con alguna novedad.\n¿Podrías traerme ingredientes y bailar después?
+MSQID_Comp_LED_ShowBar4: ¡La taberna estaba hasta los topes! Más de uno\nse ha quedado sin poder entrar... Hay que ver\nlo popular que se ha vuelto este lugar gracias a ti.\n¡Me emociono solo de pensarlo! Vuelve pronto, ¿vale?
+MSQID_Goal_LED_ShowBar4: Entrega lo siguiente:
+MSQID_Client_LED_ShowBar4: {CapitalizeNextLetter}Tabernero
+MSQID_Reward_Menu_LED_ShowBar4: Desbloquearás nuevas bebidas en la taberna.
+MSQID_Reward_Result_LED_ShowBar4: Hay nuevas bebidas disponibles en la taberna.
+MSQID_Title_LED_ShowBar5: Nuevas bebidas para la nobleza
+MSQID_Detail_LED_ShowBar5: ¡Hasta en la zona alta han oído hablar de ti y\nde nuestras bebidas! Ahora, nobleza y burguesía\ntambién quieren visitar la taberna... ¡Hay que\npreparar nuevas bebidas para sorprenderlos!
+MSQID_Comp_LED_ShowBar5: Nunca imaginé que vería a ricos y pobres disfrutar\njuntos en mi humilde taberna. Me alegro tanto\nde no haberla cerrado... No sé ni cómo darte\nlas gracias, de verdad. ¡Te lo debo todo!
+MSQID_Goal_LED_ShowBar5: Entrega lo siguiente:
+MSQID_Client_LED_ShowBar5: {CapitalizeNextLetter}Tabernero
+MSQID_Reward_Menu_LED_ShowBar5: Desbloquearás nuevas bebidas en la taberna.
+MSQID_Reward_Result_LED_ShowBar5: Hay nuevas bebidas disponibles en la taberna.
+MSQID_Title_LED_ShowReconstruction1: Baile en las aldeas reconstruidas
+MSQID_Detail_LED_ShowReconstruction1: A la gente de las aldeas les vendría bien algo\nque les levantase la moral para sobrellevar mejor\nlas tareas de reconstrucción. ¿Te importaría\nvisitarlos y bailar para ellos?
+MSQID_Comp_LED_ShowReconstruction1: ¡Gracias por visitar las aldeas! No era una petición\nsencilla, pero le has dado una alegría a la gente.\nAunque el mundo sigue sumido en la oscuridad,\ntú eres como un rayo de luz para todos nosotros.
+MSQID_Goal_LED_ShowReconstruction1: Baila en los lugares indicados.
+MSQID_Client_LED_ShowReconstruction1: {CapitalizeNextLetter}Tabernero
+MSQID_Title_LED_ShowReconstruction2: Baile en las ciudades reconstruidas
+MSQID_Detail_LED_ShowReconstruction2: ¿Te importaría bailar en cuatro ciudades de los\npaíses vasallos una vez que concluyan las labores\nde reconstrucción? Sé que quedan muy lejos,\npero la gente necesita algo que les levante el ánimo.
+MSQID_Comp_LED_ShowReconstruction2: He recibido mensajes de gratitud de las cuatro\nciudades que te pedí que visitaras. Has sido muy\ngenerosa; ya sé que tienes otros asuntos que atender.\nSeguro que la Providencia se enorgullecerá de ti.
+MSQID_Goal_LED_ShowReconstruction2: Baila en los lugares indicados.
+MSQID_Client_LED_ShowReconstruction2: {CapitalizeNextLetter}Tabernero
+MSQID_Title_LED_Dancer: La sucesora del gran bailarín
+MSQID_Detail_LED_Dancer: Tengo el collar que necesitas para ser mi sucesora,\npero unos canallas me atacaron y lo dañaron.\n¿Podrías traerme los materiales que necesito\npara repararlo?
+MSQID_Comp_LED_Dancer: ¡Has conseguido los materiales! ¡Sabía que serías\nuna sucesora digna! Aquí tienes el collar de baile.\n¡Ay, qué alivio haberte encontrado!
+MSQID_Goal_LED_Dancer: Entrega lo siguiente:
+MSQID_Client_LED_Dancer: {Unknown080E=03}Vallejo, el Orgullo de Midea
+MSQID_Title_NegotiationPeter: Petición de {Unknown080E=03}Peter
+MSQID_Detail_NegotiationPeter: Hay una fruta que siempre he querido probar:\nel {LowercaseNextLetter}Ginji inusual. Poca gente ha oído hablar de él,\nporque el árbol apenas da frutos y es muy difícil de\nconseguir, pero se rumorea que sabe de maravilla...
+MSQID_Comp_NegotiationPeter: No puede ser... ¡Un {LowercaseNextLetter}Ginji inusual! ¡Cómo mola!\nBueno, un trato es un trato, así que me uno\na vuestro grupo. ¡Será un placer ayudaros!
+MSQID_Goal_NegotiationPeter: Entrega lo siguiente:
+MSQID_Client_NegotiationPeter: {Unknown080E=03}Peter
+MSQID_Title_NegotiationHurtando: Petición de {Unknown080E=03}Ultand
+MSQID_Detail_NegotiationHurtando: Mi madre envió un paquete con regalos\npara la familia, pero unos bandidos lo han robado\ny, al parecer, lo tienen escondido en las ruinas\nde un fuerte. ¿Podríais encontrarlo?
+MSQID_Detail_NegotiationHurtando_DIF: Mi madre envió un paquete con regalos\npara la familia, pero unos bandidos lo han robado\ny, al parecer, lo tienen escondido en las ruinas\nde un fuerte. ¿Podríais encontrarlo?
+MSQID_Comp_NegotiationHurtando: ¡Habéis encontrado el paquete! A partir de ahora,\nsois los héroes de toda mi familia. Y pienso saldar\nla deuda que tengo con vosotros: acabáis de haceros\ncon los servicios de Ultand Serowain.
+MSQID_Comp_NegotiationHurtando_DIF: ¡Habéis encontrado el paquete! A partir de ahora,\nsois los héroes de toda mi familia. Y pienso saldar\nla deuda que tengo con vosotros: acabáis de haceros\ncon los servicios de Ultand Serowain.
+MSQID_Goal_NegotiationHurtando: Entrega lo siguiente:
+MSQID_Client_NegotiationHurtando: {Unknown080E=03}Ultand
+MSQID_Title_NegotiationEsmeralda: Petición de {Unknown080E=03}Esmeralda
+MSQID_Detail_NegotiationEsmeralda: Mi aldea queda junto al {LowercaseNextLetter}Cabo Damasen, donde vive\nuna colonia de bestias marinas bastante agresivas.\nNingún vecino se atreve a acercarse, así que les\nvendría bien que alguien se ocupara de las bestias.
+MSQID_Comp_NegotiationEsmeralda: ¿Habéis acabado con las bestias marinas? No tenía\nmuchas esperanzas, pero... sí que sois buenos. Mi\ncorazón pertenece a mi pichurri y a nadie más,\npero os puedo echar una mano en los combates.
+MSQID_Goal_NegotiationEsmeralda: Derrota a las bestias marinas furiosas.
+MSQID_Client_NegotiationEsmeralda: {Unknown080E=03}Esmeralda
+MSQID_Title_NegotiationScirocco: Petición de {Unknown080E=03}Sirocco
+MSQID_Detail_NegotiationScirocco: Dicen que en cierto lugar erigieron un monumento\nen honor a un poeta legendario al que admiro.\nMe encantaría que alguien lo buscase y transcribiese\nlos versos de su pluma que grabaron en la placa.
+MSQID_Detail_NegotiationScirocco_DIF: Dicen que en cierto lugar erigieron un monumento\nen honor a un poeta legendario al que admiro.\nMe encantaría que alguien lo buscase y transcribiese\nlos versos de su pluma que grabaron en la placa.
+MSQID_Comp_NegotiationScirocco: Sin duda, este poema salió de la pluma del poeta\nlegendario. Quedo eternamente agradecido.\nAcudiré raudo como un vendaval en ayuda\nde vuestro grupo cuando me necesitéis.
+MSQID_Comp_NegotiationScirocco_DIF: Sin duda, este poema salió de la pluma del poeta\nlegendario. Quedo eternamente agradecido.\nAcudiré raudo como un vendaval en ayuda\nde vuestro grupo cuando me necesitéis.
+MSQID_Goal_NegotiationScirocco: Entrega lo siguiente:
+MSQID_Client_NegotiationScirocco: {Unknown080E=03}Sirocco
+MSQID_Title_NegotiationOlympia1: Petición de {Unknown080E=03}Olympia: {LowercaseNextLetter}Rocío candente
+MSQID_Detail_NegotiationOlympia1: Pocas cosas me relajan tanto como una buena taza\nde té. Si me queréis en vuestras filas, ¡traedme\nlas mejores hojas que encontréis de la variedad\nconocida como rocío candente!
+MSQID_Comp_NegotiationOlympia1: ¿Me habéis traído las hojas de té que buscaba?\n¡Sí, eso parece! Buen trabajo, aunque tampoco\nera un encargo tan difícil, ¿verdad?
+MSQID_Goal_NegotiationOlympia1: Entrega lo siguiente:
+MSQID_Client_NegotiationOlympia1: {Unknown080E=03}Olympia
+MSQID_Title_NegotiationOlympia2: Petición de {Unknown080E=03}Olympia: {LowercaseNextLetter}Rosa áurea
+MSQID_Detail_NegotiationOlympia2: Las flores más sobresalientes suelen crecer en climas\náridos y destilan un aura de solemnidad casi divina.\nTraedme la {LowercaseNextLetter}Rosa áurea, una flor resistente que crece\nen las tórridas arenas del desierto.
+MSQID_Detail_NegotiationOlympia2_DIF: Las flores más sobresalientes suelen crecer en climas\náridos y destilan un aura de solemnidad casi divina.\nTraedme la {LowercaseNextLetter}Rosa áurea, una flor resistente que crece\nen las llanuras azotadas por el viento.
+MSQID_Comp_NegotiationOlympia2: Qué colores tan vivos ¡y qué forma tan perfecta!\nAdemás, es de un tamaño inusualmente grande.\nNo habrá sido fácil dar con ella. Gracias por traerme\nun obsequio tan magnífico.
+MSQID_Goal_NegotiationOlympia2: Entrega lo siguiente:
+MSQID_Client_NegotiationOlympia2: {Unknown080E=03}Olympia
+MSQID_Title_NegotiationOlympia3: Petición de {Unknown080E=03}Olympia: {LowercaseNextLetter}Corazón cerúleo
+MSQID_Detail_NegotiationOlympia3: Lo que deseo ahora es un {LowercaseNextLetter}Corazón cerúleo,\nun mineral azul como el mar y claro como el cielo.\nHay que recorrer un buen trecho para conseguirlo,\npero merece la pena por ganarse mis afectos, ¿no?
+MSQID_Comp_NegotiationOlympia3: No puedo negarme a ayudar a quien muestra tamaña\ndeterminación por ganarse mi favor. Con {Unknown080E=03}Olympia\nIris a vuestro lado, tenéis la victoria asegurada.\n¡Y la incomparable suerte de verme en acción!
+MSQID_Goal_NegotiationOlympia3: Entrega lo siguiente:
+MSQID_Client_NegotiationOlympia3: {Unknown080E=03}Olympia
+MSQID_Title_NegotiationMaxim1: Petición de {Unknown080E=03}Jester: Destripadores de Bale
+MSQID_Detail_NegotiationMaxim1: Solo me plantearé unirme a quien derrame la sangre\nde los {Unknown080E=03}Destripadores de Bale, una panda de bárbaros\nindeseables que ronda por la {LowercaseNextLetter}Llanura de Dada,\nal sur de la capital.
+MSQID_Comp_NegotiationMaxim1: Así que los {Unknown080E=03}Destripadores de Bale ya son historia...\nVaya, o tengo ante mí a un grupo mucho más válido\nde lo que pensaba, o esos tipos no eran tan duros\ncomo se rumoreaba.
+MSQID_Goal_NegotiationMaxim1: Derrota a los {Unknown080E=03}Destripadores de Bale.
+MSQID_Client_NegotiationMaxim1: {Unknown080E=03}Jester
+MSQID_Title_NegotiationMaxim2: Petición de {Unknown080E=03}Jester: Brigada Dunanzo
+MSQID_Detail_NegotiationMaxim2: Quien quiera que me una a su grupito tiene que\npedirlo apestando al inmundo olor de la muerte.\nLos siguientes indeseables a los que quiero ver\ncaer son los miembros de la {Unknown080E=03}Brigada Dunanzo.
+MSQID_Comp_NegotiationMaxim2: Huelo la sangre de la {Unknown080E=03}Brigada Dunanzo.\nImpresionante... Sí, pero no os emocionéis,\nporque todavía no me habéis convencido.
+MSQID_Goal_NegotiationMaxim2: Derrota a la {Unknown080E=03}Brigada Dunanzo.
+MSQID_Client_NegotiationMaxim2: {Unknown080E=03}Jester
+MSQID_Title_NegotiationMaxim3: Petición de {Unknown080E=03}Jester: Errantes del Inframundo
+MSQID_Detail_NegotiationMaxim3: Acabad con los {Unknown080E=03}Errantes del Inframundo y me uniré\npor fin a vuestro grupo. Los encontraréis en la peña\nde los Susurros, pero yo ni me plantearía atacarlos.\nAl menos, no si queréis seguir con vida...
+MSQID_Comp_NegotiationMaxim3: ¡Je, je! Cruzar un mar de sangre, atravesar las\nmontañas de la muerte y adentrarse en el inframundo\nvan a parecer un paseo por el campo comparado con\nel infierno que voy a desatar junto a este grupo.
+MSQID_Goal_NegotiationMaxim3: Derrota a los {Unknown080E=03}Errantes del Inframundo.
+MSQID_Client_NegotiationMaxim3: {Unknown080E=03}Jester
+MSQID_Title_NegotiationLourdija: Petición de {Unknown080E=03}Ludia
+MSQID_Detail_NegotiationLourdija: Mi padre quiere saber qué tal le va a la nueva\nsucursal de Vandahl. ¡Toca un poco de espionaje\ncorporativo! Necesito que alguien los observe en el\n{LowercaseNextLetter}Puerto de Callianeira y elabore un informe.
+MSQID_Detail_NegotiationLourdija_DIF: Mi padre quiere saber qué tal le va a la nueva\nsucursal de Vandahl. ¡Toca un poco de espionaje\ncorporativo! Necesito que alguien los observe en el\n{LowercaseNextLetter}Puerto de Callianeira y elabore un informe.
+MSQID_Comp_NegotiationLourdija: ¡Vaya, un informe muy minucioso! Creo que nos\nconviene establecer un acuerdo de colaboración\nmutua. Yo seguiré con la compañía y os ayudaré\ncuando haga falta a cambio de ciertos favores.
+MSQID_Comp_NegotiationLourdija_DIF: ¡Vaya, un informe muy minucioso! Creo que nos\nconviene establecer un acuerdo de colaboración\nmutua. Yo seguiré con la compañía y os ayudaré\ncuando haga falta a cambio de ciertos favores.
+MSQID_Goal_NegotiationLourdija: Consigue información en el puerto.
+MSQID_Client_NegotiationLourdija: {Unknown080E=03}Ludia
+MSQID_Title_NegotiationSeteth: Petición de {Unknown080E=03}Seteth
+MSQID_Detail_NegotiationSeteth: Me he enterado de que un arma que forjé para\nque la gente de una aldea se defendiera ha caído\nen manos del líder de una banda de ladrones.\nOjalá alguien le dé su merecido y entierre la espada.
+MSQID_Comp_NegotiationSeteth: ¡El ladrón ha recibido su merecido! Gracias; ahora\nlas almas de esos aldeanos podrán descansar en paz.\nA partir de ahora, estoy a disposición\ndel grupo siempre que se me necesite.
+MSQID_Goal_NegotiationSeteth: Derrota a los {Unknown080E=03}Silbidos Crepusculares.
+MSQID_Client_NegotiationSeteth: {Unknown080E=03}Seteth
+MSQID_Title_JuraRequest: Petición de {Unknown080E=03}Jurah
+MSQID_Detail_JuraRequest: Me gustaría conservar un recuerdo de Dagda,\nmi difunto marido. Con cualquier cosa que\nle perteneciera me conformaría. Te sugiero\nbuscar en uno de los lugares donde luchó en vida.
+MSQID_Comp_JuraRequest: Sí, esto sin duda le pertenecía. Muchas gracias\npor haber cumplido mi petición.
+MSQID_Goal_JuraRequest: Entrega lo siguiente:
+MSQID_Client_JuraRequest: {Unknown080E=03}Jurah
+MSQID_Title_MarsRequest: Petición de {Unknown080E=03}Mars
+MSQID_Detail_MarsRequest: ¿Puedes recuperar mi {LowercaseNextLetter}Yelmo dorado? Los ladrones\naprovecharon mi ausencia para robarlo. Para mí\nsupone una humillación haberlo perdido y que\ncontinúe en manos de semejantes rufianes.
+MSQID_Comp_MarsRequest: Espero que no te importe que orquestase esta\npantomima con tal de verte en acción. Quedo\na tu disposición, Providencia.
+MSQID_Goal_MarsRequest: Entrega lo siguiente:
+MSQID_Client_MarsRequest: {Unknown080E=03}Mars
+MSQID_Title_SmirnothRequest: Petición de {Unknown080E=03}Smyrnos
+MSQID_Detail_SmirnothRequest: Me gustaría que apagaras las llamas que bloquean\nla entrada a la {LowercaseNextLetter}Caverna de Iapetus. Debería bastar\ncon que lances el hechizo {Unknown080E=03}Fimbulvetr nocturno\nsobre ellas.
+MSQID_Comp_SmirnothRequest: Me alegro de que lograras apagar las llamas\nsin problemas. Gracias por tu ayuda. Esa cueva\nme resulta muy útil, pues de ella extraigo materiales\npara mis experimentos mágicos.
+MSQID_Goal_SmirnothRequest: Apaga las llamas en el lugar indicado.
+MSQID_Client_SmirnothRequest: {Unknown080E=03}Smyrnos
+MSQID_Title_ClairRequest: Petición de {Unknown080E=03}Credna
+MSQID_Detail_ClairRequest: ¿Podrías conseguirme heliolitos desérticos?\nHace ya mucho tiempo encontré algunos por el \nEsqueleto del Dragón, en el desierto de Chronos.\nTe recomiendo buscar allí, si eres capaz de llegar.
+MSQID_Comp_ClairRequest: ¡Justo lo que necesitaba! Estos minerales albergan\nmuchísimo poder. ¡Bien hecho! Ahora podré reparar\nel Portal de los Dioses sin demora.
+MSQID_Goal_ClairRequest: Entrega lo siguiente:
+MSQID_Client_ClairRequest: {Unknown080E=03}Credna
+MSQID_Title_CaraRequest: Petición de {Unknown080E=03}Kalla
+MSQID_Detail_CaraRequest: Para fabricar amuletos que repelen el mal, mi templo\nnecesita una madera con una fragancia que los\nmuertos vivientes detestan. Es difícil de conseguir,\npero, por favor, busca sándalo.
+MSQID_Comp_CaraRequest: Has encontrado lo que te pedí. Qué fragancia\ntan potente... No sé si nos resultará de gran ayuda,\npero confío en que al menos traiga un poco\nde esperanza a la gente.
+MSQID_Goal_CaraRequest: Entrega lo siguiente:
+MSQID_Client_CaraRequest: {Unknown080E=03}Kalla
+MSQID_Title_AuroraRequest: Petición de {Unknown080E=03}Aurora
+MSQID_Detail_AuroraRequest: Necesito que me consigas los ingredientes necesarios\npara elaborar medicinas. Quizá resulte complicado\nhacerse con algunos, debido a la escasez, pero confío\nen tus habilidades.
+MSQID_Comp_AuroraRequest: ¡Gracias, Providencia! ¡Esto es todo lo que\nnecesitaba! Ahora podremos preparar medicinas\nque ayudarán a mucha gente.
+MSQID_Goal_AuroraRequest: Entrega lo siguiente:
+MSQID_Client_AuroraRequest: {Unknown080E=03}Aurora
+MSSID_Detail_Kai: Tengo un plan para sacar a mi padre de la mazmorra,\npero necesito ayuda. He oído que pronto se va a liar\nuna buena trifulca en el coliseo. Aprovecharemos\npara colarnos y escapar sin llamar la atención.
+MSSID_Comp_Kai: Muchas gracias por vuestra ayuda. Ahora partimos\nhacia Ribeira, pero podéis llamarme si me necesitáis.\n¡Acudiré sin falta!
+MSSID_Goal_Kai: Habla con {Unknown080E=03}Cai para iniciar el desvío.
+MSSID_Detail_Ditlih: Me he propuesto investigar unas instalaciones\nsubterráneas en ruinas, pero se me antoja\nuna aventura un tanto arriesgada, así que\nme gustaría contar con vuestros servicios.
+MSSID_Comp_Ditlih: Agradezco que me ayudarais a cumplir la misión.\nNo erré a la hora de reclutaros. Tengo la impresión\nde que también habéis impresionado a {Unknown080E=03}Dietrich,\nde modo que quizá podáis contar con él en el futuro.
+MSSID_Goal_Ditlih: Comienza el desvío en el lugar indicado.
+MSSID_Detail_Seodola: Unos desgraciados han robado la sagrada estatua\ndel guerrero saramita, erigida en Dagsion por Solel.\n¿Nos ayudarás a llevar ante la justicia\na esos malnacidos?
+MSSID_Comp_Seodola: Gracias por prestarnos tu ayuda en este asunto.\nMe alegra comprobar que aún quedan valientes\ncomo tú. Espero saldar mi deuda contigo algún día.
+MSSID_Goal_Seodola: Comienza el desvío en el lugar indicado.
+MSSID_Detail_Leda: Quiero enfrentarme al Demonio Cano a toda costa,\ny para ello debo colarme en la mazmorra donde\nlo tienen encerrado, pero siempre está custodiada.\nMe vendría bien alguien que distrajera a los guardias.
+MSSID_Detail_Leda_DIF: Quiero enfrentarme al Demonio Cano a toda costa,\ny para ello debo colarme en la mazmorra donde\nlo tienen encerrado, pero siempre está custodiada.\nMe vendría bien alguien que distrajera a los guardias.
+MSSID_Comp_Leda: Todavía no ha llegado el momento de acabar con\nBertrand. Quiero que sienta en sus carnes pavor\npor su ineludible destino. Igualmente, os agradezco\nlas molestias. Contad conmigo para lo que sea.
+MSSID_Comp_Leda_DIF: Todavía no ha llegado el momento de acabar con\nBertrand. Quiero que sienta en sus carnes pavor\npor su ineludible destino. Igualmente, os agradezco\nlas molestias. Contad conmigo para lo que sea.
+MSSID_Goal_Leda: Habla con {Unknown080E=03}Leda para iniciar el desvío.
+MSSID_Detail_Beltran: Se va a celebrar un combate amistoso al margen de\nlos Juegos contra el rey de Brigid. El Demonio Cano\nva a participar y necesito a más gente en su equipo.\n¿Os apuntáis?
+MSSID_Comp_Beltran: ¡Felicidades por vuestra victoria! Qué bien que os\nanimarais a participar. El Demonio Cano me ha\npedido que os diga que volverá a luchar a vuestro\nlado encantado si se presenta la oportunidad.
+MSSID_Goal_Beltran: Habla con {Unknown080E=03}Gabriel para iniciar el desvío.
+MSSID_Detail_Talimun: Estaba previsto que nos llegara un carro\nde la compañía con una mercancía muy valiosa,\npero ha desaparecido todo, incluido el personal\nque lo traía. ¿Queréis participar en mi investigación?
+MSSID_Comp_Talimun: Bien está lo que bien acaba. ¡Me alegro de haber\ncontado con vuestra ayuda! Pero que esta aventurilla\nquede entre nosotros, ¿eh? Estoy en deuda con\nvosotros, así que contad conmigo si necesitáis algo.
+MSSID_Goal_Talimun: Comienza el desvío en el lugar indicado.
+MSSID_Detail_Orhel: Dicen que el almirante {Unknown080E=03}Jarcham tiene un anillo que\npertenecía a la diosa {Unknown080E=03}Yu Phas, y me gustaría pedirle\nque me lo entregue. Os agradecería mucho que me\nacompañarais a negociar con él.
+MSSID_Comp_Orhel: ¡He recuperado el anillo, y todo gracias a vuestra\nayuda! No sabéis el favor que me habéis hecho.\nPodéis contar conmigo si alguna vez\nos encontráis en un apuro.
+MSSID_Goal_Orhel: Comienza el desvío en el lugar indicado.
+MSSID_Detail_Anhatolyah: Estoy tratando de evacuar a mis compatriotas\nde Kunlun, pero necesito ayuda para evitar\nposibles peligros. Yo sola no puedo ocuparme.
+MSSID_Comp_Anhatolyah: De parte de todo el pueblo de Kunlun, nuestro\nmás sincero agradecimiento. Si alguna vez necesitáis\nmi ayuda, acudiré estéis donde estéis.
+MSSID_Goal_Anhatolyah: Comienza el desvío en el lugar indicado.
+MSSID_Detail_Soleil: Alguien está profanando un antiguo lugar de culto\na las afueras de Dagsion. Me propongo investigarlo,\npero me gustaría llevar compañía, por si acaso.
+MSSID_Comp_Soleil: No todo salió según lo planeado, pero una victoria es\nuna victoria. ¡Muchas gracias por vuestra ayuda!\nAh, y de esto ninguna palabra a nadie, por favor.
+MSSID_Goal_Soleil: Habla con {Unknown080E=03}Anna para iniciar el desvío.
+MSQID_Title_BattleValeri: Ocho Colmillos
+MSQID_Detail_BattleValeri: ¿Os habéis enterado? Una manada de lobos está\naterrorizando a la gente en el {LowercaseNextLetter}Cañón de Valeri.\nLos llaman «los Ocho Colmillos». Si queréis\ndemostrar vuestra fuerza, probad contra ellos.
+MSQID_Comp_BattleValeri: ¡No puedo creer que hayáis exterminado a esas\nbestias! Ojalá os lo hubiera pedido antes.\nÚltimamente hay mucho peligro cerca de la capital,\npero con vosotros aquí seguro que estaremos a salvo.
+MSQID_Goal_BattleValeri: Derrota a los Ocho Colmillos.
+MSQID_Client_BattleValeri: Soldado de la capital
+MSQID_Title_BattleNapier: {Unknown080E=03}Hachas de Behelda
+MSQID_Detail_BattleNapier: ¿Habéis oído hablar de las {Unknown080E=03}Hachas de Behelda? No\ndejan de asaltar carros con mercancía de Vandahl.\n¡Alguien tiene que detenerlos! Vosotros parecéis\nfuertes; ¡acabad con ellos!
+MSQID_Comp_BattleNapier: Ya sé que dije «acabad con ellos», pero yo pensaba\nque les ibais a sacudir un poco para asustarlos...\nEn fin, ellos solitos se lo han buscado. ¡Bien hecho!\nSolo espero no tener que vérmelas con vosotros.
+MSQID_Goal_BattleNapier: Derrota a las {Unknown080E=03}Hachas de Behelda
+MSQID_Client_BattleNapier: {CapitalizeNextLetter}Mercante de Vandahl enfadado
+MSQID_Title_BattleGranada: Los bandidos de Granada
+MSQID_Detail_BattleGranada: Unos bandidos se han hecho fuertes en las ruinas del\nfuerte Granada, y no me permiten recorrer el camino\nque conduce a mi ciudad natal. Tengo que llevarle\nuna medicina a mi madre. ¡Que alguien me ayude!
+MSQID_Comp_BattleGranada: ¡¿Habéis acabado con los bandidos?! ¡Gracias!\nSon una auténtica plaga, pero estos ya no volverán\na causarnos problemas, ¿verdad? Aquí tenéis vuestra\nrecompensa. Y gracias de parte de mi madre.
+MSQID_Goal_BattleGranada: Derrota a los Bandidos de Zaron.
+MSQID_Client_BattleGranada: Viajero angustiado
+MSQID_Title_BattleMidea: Sacrificios siniestros
+MSQID_Detail_BattleMidea: Un grupo de hechiceros, el Sello Secreto de Sithya,\nha tomado el {LowercaseNextLetter}Fuerte del Ocaso. Creen que los\nsacrificios potencian su magia, y han empezado\na robar ganado. ¡Que alguien les pare los pies!
+MSQID_Comp_BattleMidea: Los relatos de los granjeros son aterradores. Dicen\nque encontraron una pila enorme de huesos de\nanimales. Os agradecen que hayáis ahuyentado a\nesos hechiceros, y yo también, por supuesto.
+MSQID_Goal_BattleMidea: Derrota al Sello Secreto de Sithya.
+MSQID_Client_BattleMidea: Sacerdote preocupado
+MSQID_Title_StoneOrder: Se busca {LowercaseNextLetter}Piedra de refinado
+MSQID_Detail_StoneOrder: ¿Tienes alguna {LowercaseNextLetter}Piedra de refinado? ¡Sirven para\nrefinar o reparar armas! Como no mantenga las mías\na punto, no podré trabajar. Me estaba planteando\nir a la {LowercaseNextLetter}Mina de Niraga, a ver si encuentro alguna...
+MSQID_Comp_StoneOrder: ¿Tienes alguna piedra de refinado para mí? ¡Gracias!\nSe están agotando en todas partes por culpa\nde los Juegos Heroicos. ¡Ya pensaba\nque me iba a tocar hacer de minero!
+MSQID_Goal_StoneOrder: Entrega lo siguiente:
+MSQID_Client_StoneOrder: Mercenario falto de piedras de refinado
+MSQID_Title_YamanOrder: Pétalos para un gladiador
+MSQID_Detail_YamanOrder: El gladiador que me gusta va a competir pronto,\ny me gustaría animarlo lanzando pétalos de su flor\nfavorita, el {LowercaseNextLetter}Yaamantemo, durante el combate. \n¿Os importaría traerme algún ejemplar?
+MSQID_Comp_YamanOrder: ¡Gracias por la flor! Ay, espero que mi gladiador\nfavorito se dé cuenta. Tal vez incluso me mire...\n¡Ja, ja! ¡Qué emoción!
+MSQID_Goal_YamanOrder: Entrega lo siguiente:
+MSQID_Client_YamanOrder: Espectadora del coliseo
+MSQID_Title_BattleSunPass: Bestias enormes
+MSQID_Detail_BattleSunPass: Un par de bestias gigantescas merodean por los\nalrededores del {LowercaseNextLetter}Paso de la Luna, atacando a viajeros\ny mercaderes. Hasta han herido a mis amigos...\n¡Que alguien acabe con ellas, por favor!
+MSQID_Comp_BattleSunPass: Conque las bestias eran osos del Atla... Estarían\nhambrientos, pero no lo lamento por ellos. Bastante\ndura es ya la vida del mercader... Solo nos faltaba\nacabar en el estómago de una fiera.
+MSQID_Goal_BattleSunPass: Derrota a las {LowercaseNextLetter}Bestias insaciables.
+MSQID_Client_BattleSunPass: Vendedor preocupado
+MSQID_Title_AguinhoShopping: Sabores de casa
+MSQID_Detail_AguinhoShopping: En la capital encuentras cosas deliciosas, pero echo\nde menos el sabor de la comida casera... ¡sobre todo\nde las {LowercaseNextLetter}Jyoppas! Son frutas que solo se venden en mi\npueblo, Aguiño. ¿Tú podrías traerme alguna?
+MSQID_Comp_AguinhoShopping: ¡Anda, me has traído una {LowercaseNextLetter}Jyoppa de verdad! Jo...\nqué recuerdos. Mira, se me cae una lagrimilla\nde la emoción y todo. Voy corriendo a casa\na cocinarla. ¡Muchísimas gracias!
+MSQID_Goal_AguinhoShopping: Entrega lo siguiente:
+MSQID_Client_AguinhoShopping: Nostálgica de la comida casera
+MSQID_Title_BattleTower: Notas robadas
+MSQID_Detail_BattleTower: Anoto mis cálculos astrales, con la ubicación\nde cada estrella, en una libreta. Pero unos gañanes\nque dicen que los astros son una abominación\nme la han robado. Por favor, recuperadla.
+MSQID_Comp_BattleTower: Gracias por recuperar mi libreta. ¿Por qué\nles tendrán tanto miedo a las estrellas? Quizá\npiensen que, tras la oscuridad del velo nocturno,\nse esconde algún monstruo terrorífico...
+MSQID_Goal_BattleTower: Derrota a los {Unknown080E=03}Arqueros Estelares.
+MSQID_Client_BattleTower: Sacerdotisa astrónoma
+MSQID_Title_EnrietteOrder: Frutos energéticos
+MSQID_Detail_EnrietteOrder: Mi señor me ha pedido una nuez {LowercaseNextLetter}Enrietto,\nun fruto famoso por su aporte energético.\nSi me lo consigues, te lo agradeceré mucho.\nBusca en el Jardín del Sol.
+MSQID_Comp_EnrietteOrder: Ah, gracias, justo lo que te pedí... ¿Cómo? ¿Que\nsi a mi señor le fallan las fuerzas? Bueno, en realidad\nla nuez es para su hijo, que lleva algún tiempo\nalicaído. Él espera que le ayude a recuperarse.
+MSQID_Goal_EnrietteOrder: Entrega lo siguiente:
+MSQID_Client_EnrietteOrder: Sirviente de un tipo acaudalado
+MSQID_Title_SearchingMegrez: En busca de tierras fértiles
+MSQID_Detail_SearchingMegrez: Las {LowercaseNextLetter}Ruinas de Megrez fueron otrora una tierra\nfecunda, pero una plaga la asoló y sus habitantes\nla abandonaron. Quiero saber si vuelve a ser fértil.\n¿Podrías traerme una muestra del terreno?
+MSQID_Comp_SearchingMegrez: Te lo agradezco mucho. Enviaré la muestra para que\nla analicen, pero, por el aspecto y el olor, diría que\nla contaminación ha desaparecido. Nací en Megrez,\ny ahora, gracias a ti, quizá pueda regresar a casa.
+MSQID_Goal_SearchingMegrez: Entrega lo siguiente:
+MSQID_Client_SearchingMegrez: Perita de terrenos
+MSQID_Title_BattleMound: La sombra del terror
+MSQID_Detail_BattleMound: El {LowercaseNextLetter}Túmulo de los guerreros es un lugar terrorífico...\nHace poco, el Templo envió soldados para investigar\nel avistamiento de un monstruo, pero no han vuelto.\nSi lo localizas y lo eliminas, se te recompensará.
+MSQID_Comp_BattleMound: ¿Un {LowercaseNextLetter}Necrodragón? Tiemblo solo de pensarlo...\nHabrá que enviar a alguien a purificar la zona\npara que pueda ser habitable de nuevo. Aquí tienes\ntu recompensa... Mil gracias por tu ayuda.
+MSQID_Goal_BattleMound: Derrota al misterioso monstruo.
+MSQID_Client_BattleMound: Sacerdote asustado
+MSQID_Title_BattleGalgo: El ataque de las bestias aladas
+MSQID_Detail_BattleGalgo: ¡Unos pajarracos gigantes han atacado a los niños!\nNo exagero si te digo que parecían elefantes alados,\nde lo enormes que eran... Fue cerca del {LowercaseNextLetter}Lago Brontes.\n¡Por favor, tienes que acabar con ellos!
+MSQID_Comp_BattleGalgo: ¡Gracias por deshacerte de esas bestias! A los niños\nahora les dan miedo hasta las aves más pequeñas,\ny salen corriendo nada más ver una. Pero ya puedo\ndecirles que no tienen nada que temer.
+MSQID_Goal_BattleGalgo: Derrota a las {LowercaseNextLetter}Bestias aladas.
+MSQID_Client_BattleGalgo: Aldeano del {LowercaseNextLetter}Lago Brontes
+MSQID_Title_BattleClove: Esqueletos en las ruinas
+MSQID_Detail_BattleClove: Los antiguos habitantes del foso de Krove\nse han convertido en esqueletos que deambulan\npor la zona. Acaba con ellos y libera así sus almas.
+MSQID_Comp_BattleClove: ¿Has puesto fin a su sufrimiento? Estoy en deuda\ncontigo. He investigado y resulta que eran los\ncadáveres de mis ancestros... Gracias a ti, quizá\nsus almas ahora encuentren descanso.
+MSQID_Goal_BattleClove: Acaba con los muertos vivientes del foso de Krove.
+MSQID_Client_BattleClove: Noble misteriosa
+MSQID_Title_SearchingJewelry: Un cristal sin igual
+MSQID_Detail_SearchingJewelry: Siempre le regalo una joya a mi esposa en nuestro\naniversario de boda, pero esta vez quiero algo\nespecial. Un {LowercaseNextLetter}Cristal de Aegina sería perfecto...\nSe hallan en la {LowercaseNextLetter}Caverna del Piroxeno. ¿Me traes uno?
+MSQID_Comp_SearchingJewelry: ¡Me has traído el cristal! ¡Mira cómo brilla!\nAhora solo falta contratar a un joyero que sepa\ntrabajar el material. ¿Quedará mejor en un colgante\no en un broche? Ay, qué dilema...
+MSQID_Goal_SearchingJewelry: Entrega lo siguiente:
+MSQID_Client_SearchingJewelry: Esposo afectuoso
+MSQID_Title_BattleDuel: Los Aceros Infalibles
+MSQID_Detail_BattleDuel: Te he visto combatir y cometes errores de novato.\nSi tienes valor, los Aceros Infalibles nos batiremos\nen duelo contigo y, si ganamos, te sustituiremos en\nlos Juegos. ¡Te esperamos en el {LowercaseNextLetter}Paso de Sonai!
+MSQID_Comp_BattleDuel: ¿¡Nos has derrotado!? Puede que tengas más talento\ndel que pensaba... Iba a mostrarte piedad si\nrenunciabas a tu puesto en los Juegos, pero ahora\nme he picado. ¡Volveremos a vernos las caras!
+MSQID_Goal_BattleDuel: Derrota a los {Unknown080E=03}Aceros Infalibles.
+MSQID_Client_BattleDuel: {Unknown080E=03}Aceros Infalibles
+MSQID_Title_BattleTartarus: Gólems descontrolados
+MSQID_Detail_BattleTartarus: ¿Has visto alguna vez un {LowercaseNextLetter}Gólem? Son como estatuas\ngigantes, pero capaces de moverse, y varios de ellos\nhan provocado estragos en las {LowercaseNextLetter}Ruinas de Kurdelind.\nDetenlos antes de que causen más problemas.
+MSQID_Comp_BattleTartarus: ¿¡Has acabado con los {LowercaseNextLetter}Gólems!? ¡Muchas gracias!\nNo duermen y tampoco comen, así que es casi\nimposible pillarlos desprevenidos. ¡Me alucina\nque hayas conseguido vencerlos por las bravas!
+MSQID_Goal_BattleTartarus: Derrota a los {LowercaseNextLetter}Gólems de las ruinas.
+MSQID_Client_BattleTartarus: Soldado atemorizado por los gólems
+MSQID_Title_BattleSandHole: Exterminio de {LowercaseNextLetter}Porcelios
+MSQID_Detail_BattleSandHole: El {LowercaseNextLetter}Cubil de los insectos está plagado de {LowercaseNextLetter}Porcelios.\nCuando aparecen en tropel, mal asunto. Querría\nmandar un equipo de exterminio, pero estoy\nsin voluntarios. Toda ayuda es bienvenida.
+MSQID_Comp_BattleSandHole: La zona atraía a un montón de cazadores, hasta que\nlos {LowercaseNextLetter}Porcelios se pusieron agresivos y se aficionaron\na la carne humana. Por suerte, ya se ha resuelto.\n¡Aquí tenéis una recompensa por vuestra labor!
+MSQID_Goal_BattleSandHole: Derrota a la {LowercaseNextLetter}Plaga asoladora.
+MSQID_Client_BattleSandHole: Soldado en busca de voluntarios
+MSQID_Title_BattleLakeside: Hechiceros en el bosque
+MSQID_Detail_BattleLakeside: ¡Mis amigos cazadores han desaparecido en el\n{LowercaseNextLetter}Bosque del Fauno! Dicen que allí habitan unos\nhechiceros que se dedican a secuestrar a la gente...\n¿Podrías buscarlos y liberar a los rehenes?
+MSQID_Comp_BattleLakeside: Mientras tú te enfrentabas a los hechiceros,\nhe indagado sobre los desaparecidos... y no he\nencontrado nada. Ni una sola pista. ¿Qué querrá\ndecir eso? Me resulta tan desconcertante...
+MSQID_Goal_BattleLakeside: Derrota a los {Unknown080E=03}Brujos Sombríos.
+MSQID_Client_BattleLakeside: Cazador preocupado
+MSQID_Title_BattleDamasen: Los Aceros Infalibles contratacan
+MSQID_Detail_BattleDamasen: Eh, tu cara me suena. ¡Ah, claro, de los Juegos\nHeroicos! La otra vez nos pillaste desprevenidos,\npero eso no volverá a ocurrir. Te concedemos\nla revancha en el {LowercaseNextLetter}Cabo Damasen.
+MSQID_Comp_BattleDamasen: Un duelo admirable, en el que ambos bandos lo\nhemos dado todo. Y, sin embargo... ¡me niego\na aceptar tu victoria! ¡Más te vale ir afilando\ntu espada para nuestro próximo encuentro!
+MSQID_Goal_BattleDamasen: Derrota a los {Unknown080E=03}Aceros Infalibles.
+MSQID_Client_BattleDamasen: {Unknown080E=03}Aceros Infalibles
+MSQID_Title_ReclaimAmulet: Mercancía robada
+MSQID_Detail_ReclaimAmulet: Unos har halis me han robado la valiosa mercancía\nque transportaba, un arcón de brujo. Los muy\nladrones merodean por el {LowercaseNextLetter}Altar secreto...\n¿Crees que podrías recuperar el arcón?
+MSQID_Comp_ReclaimAmulet: ¡No sabes cómo te agradezco que hayas recuperado\nel arcón! Es la tercera vez que me lo roban.\nIgual atrae mágicamente a los ladrones o algo...\n¿Te imaginas?
+MSQID_Goal_ReclaimAmulet: Entrega lo siguiente:
+MSQID_Client_ReclaimAmulet: Mercader atracado
+MSQID_Title_PandoraBargain: Un manjar digno de los dioses
+MSQID_Detail_PandoraBargain: Me gustaría hacer una ofrenda en el templo, quizá\nalgún pescado digno del paladar de los dioses.\nCreo que un {LowercaseNextLetter}Rahlan sería perfecto. Abundan en el\n{LowercaseNextLetter}Puerto de Pandora; ¿podrías conseguirme uno?
+MSQID_Comp_PandoraBargain: Qué aspecto tan raro tiene el rahlan... Sus aletas\ndorsales casi parecen alas, y posee una elegancia\nextraña... como si fuera un mensajero de los dioses\no algo así. ¡Es la ofrenda perfecta! ¡Gracias!
+MSQID_Goal_PandoraBargain: Entrega lo siguiente:
+MSQID_Client_PandoraBargain: Adepta
+MSQID_Title_StandUp: En busca de una moneda
+MSQID_Detail_StandUp: Sigo la pista del propietario de una {LowercaseNextLetter}Moneda de Djilu,\npero han perdido su rastro cerca del fuerte de la\nHuella. Me pregunto si la moneda estará allí...\n¿Tú podrías ir a buscarla y traérmela?
+MSQID_Comp_StandUp: Conque has encontrado la moneda, pero no al\npropietario... Igual es que ya no está entre nosotros.\nEn tal caso, le devolveré la moneda a su familia.\nY tú también te mereces una recompensa.
+MSQID_Goal_StandUp: Entrega lo siguiente:
+MSQID_Client_StandUp: {CapitalizeNextLetter}Numismática
+MSQID_Title_BattleUranus: El retorno de los Aceros Infalibles
+MSQID_Detail_BattleUranus: ¡Oye, tú! Nos has ganado en un par de ocasiones, sí,\npero ¡esta vez estamos preparados! Te esperamos\nen el {LowercaseNextLetter}Monte Ouranos. ¡Ven si te atreves!
+MSQID_Comp_BattleUranus: Hemos vuelto a perder. Ni siquiera el entrenamiento\nen la montaña ha cambiado nuestra suerte. Tu puesto\nen los Juegos es más que merecido. Que te vayan\nbien los próximos combates. ¡Hasta otra!
+MSQID_Goal_BattleUranus: Derrota a los {Unknown080E=03}Aceros Infalibles.
+MSQID_Client_BattleUranus: {Unknown080E=03}Aceros Infalibles
+MSQID_Title_LegiaShopping: La espada asesina
+MSQID_Detail_LegiaShopping: Busco un tipo de arma conocida como espada\nasesina. Si visitas Regia y te topas con alguna,\n¿te importaría traérmela? La necesitaré para\nla batalla que me aguarda...
+MSQID_Comp_LegiaShopping: ¡Me has conseguido una espada asesina! Magnífico,\naunque, por desgracia, mi rival se ha hecho con otra.\nEl puro talento dirimirá el resultado de la batalla,\npues. ¡Será divertido!
+MSQID_Goal_LegiaShopping: Entrega lo siguiente:
+MSQID_Client_LegiaShopping: Gladiador en busca de arma
+MSQID_Title_HeartfulGift: Pesquisas para la... ¿novia?
+MSQID_Detail_HeartfulGift: Quiero comprarle un regalo de cumpleaños a mi\nnovio, que está en la entrada de la posada, pero\nno sé qué cosas le gustan. ¿Podrías indagar\nun poco al respecto?
+MSQID_Comp_HeartfulGift: Conque el ghosh y las exquisiteces culinarias.\nVaya, vaya... ¡Je, je! Ahora solo me falta saber cómo\nse llama, dónde vive... ¡y cuándo es su cumpleaños!\nJe, je... ¡Ja, ja! ¡¡¡Ja, ja, ja!!!
+MSQID_Goal_HeartfulGift: Habla con el tipo que está en la entrada de la posada.
+MSQID_Client_HeartfulGift: {CapitalizeNextLetter}Mujer angustiada
+MSQID_Title_HungryElefant: Comida para los elefantes
+MSQID_Detail_HungryElefant: ¿Podríais traernos algo de comida? Es para mis\nelefantes de guerra. Quiero darles {LowercaseNextLetter}Hakuren,\nuna planta que solo crece en sitios concretos.\nHe visto algunas cerca de una hilera de tres rocas.
+MSQID_Comp_HungryElefant: ¡Gracias, Providencia! ¿Qué os parecería reclutar\na mis elefantes de guerra para vuestro ejército?\n¡Seguro que os vendrían de perlas!
+MSQID_Goal_HungryElefant: Entrega lo siguiente:
+MSQID_Client_HungryElefant: Jinete herida
+MSQID_Title_LittleRevenge: Entrada robada
+MSQID_Detail_LittleRevenge: Vine para ver los Juegos Heroicos, pero esos matones\nque andan por la plaza me robaron el dinero de la\nentrada. Si me ayudas, te daré una recompensa.
+MSQID_Comp_LittleRevenge: ¡Les has dado una lección! Lo he seguido todo...\ndesde la distancia. Luchas de una forma\nimpresionante, y con haberte visto me doy\npor satisfecho. ¡Es hora de volver a casa!
+MSQID_Goal_LittleRevenge: Derrota a los matones.
+MSQID_Client_LittleRevenge: Víctima de un robo
+MSQID_Title_RarePearl1: A la caza del porcelio
+MSQID_Detail_RarePearl1: ¿Te suena un invertebrado que se llama {LowercaseNextLetter}Porcelio?\nDa bastante asco, pero produce unas piedras muy\nhermosas: las {LowercaseNextLetter}Entomosferas. Si das con alguna\nde esas piedras, me buscas. Te lo compensaré.
+MSQID_Comp_RarePearl1: ¡Increíble! Cuesta tanto dar con un ejemplar...\nLlevaba siglos sin ver ninguno, de hecho.\n¡Te has ganado el título de cazaporcelios!\nQue no te extrañe si vuelvo a recurrir a ti.
+MSQID_Goal_RarePearl1: Entrega lo siguiente:
+MSQID_Client_RarePearl1: Comerciante de {LowercaseNextLetter}Entomosferas
+MSQID_Title_RarePearl2: Más Entomosferas
+MSQID_Detail_RarePearl2: Una de mis clientas me ha pedido más {LowercaseNextLetter}Entomosferas\ny, a ser posible, de mayor tamaño. De modo que,\nsi encuentras más, tráemelas. Te pagaré un suculento\nprecio por cada una.
+MSQID_Comp_RarePearl2: ¡Qué maravilla! Mi clienta quedará satisfecha.\nHay una nueva moda entre los nobles: pulverizar\nuna entomosfera en vino y bebérselo. Dicen que\nretrasa el envejecimiento. Qué excentricidad...
+MSQID_Goal_RarePearl2: Entrega lo siguiente:
+MSQID_Client_RarePearl2: Comerciante de {LowercaseNextLetter}Entomosferas
+MSQID_Title_RarePearl3: Todavía más {LowercaseNextLetter}Entomosferas
+MSQID_Detail_RarePearl3: Cierta clienta muy importante para mí está\ndisgustada y la única forma de salir del embrollo\nes entregarle una gran cantidad de {LowercaseNextLetter}Entomosferas.\n¿Crees que podrías conseguírmelas?
+MSQID_Comp_RarePearl3: ¡Las has conseguido! Así recuperaremos la confianza\nde la clienta. Mi compañía entera está en deuda\ncontigo. Nunca seré capaz de devolverte el favor,\npero, por ahora, espero que con esto baste.
+MSQID_Goal_RarePearl3: Entrega lo siguiente:
+MSQID_Client_RarePearl3: Comerciante de {LowercaseNextLetter}Entomosferas
+MSQID_Title_GarmCommitment1: Bendito garo
+MSQID_Detail_GarmCommitment1: M-me he quedado sin ga... garo. Así no puedo dar\nun paso más... ¡Te lo ruego! Tráeme un poco\ncuanto antes...
+MSQID_Comp_GarmCommitment1: ¡Ah, bendito garo! ¡Gracias, gracias! Me da un poco\nde vergüenza admitirlo, pero siento debilidad\npor los platos aderezados con garo... ¡Esto me\ndevuelve la vida! Contaré contigo en el futuro.
+MSQID_Goal_GarmCommitment1: Entrega lo siguiente:
+MSQID_Client_GarmCommitment1: Entusiasta del garo
+MSQID_Title_MessengerRequest: La carta oculta
+MSQID_Detail_MessengerRequest: Existe una carta que se envió desde otro territorio.\nEl mensajero que la portaba fue asesinado, mas tuvo\nla astucia de esconderla antes de morir. Encuentra\nla carta y tráemela... pero no se te ocurra abrirla.
+MSQID_Comp_MessengerRequest: Me has entregado la carta, tal y como te pedí.\nUn trabajo perfecto, a la altura de mis expectativas.\nTe has ganado una recompensa... y mi confianza.
+MSQID_Goal_MessengerRequest: Entrega lo siguiente:
+MSQID_Client_MessengerRequest: {CapitalizeNextLetter}Caballero sospechoso
+MSQID_Title_DisturbingElements: Por el bien del Imperio
+MSQID_Detail_DisturbingElements: Quizá puedas ayudarme. Ando a la caza\nde una facción secreta que opera en Dagda.\nSi alguien te pide que encuentres un objeto\nsospechoso, te ruego que me lo entregues a mí.
+MSQID_Comp_DisturbingElements: ¿¡Eh!? Una carta secreta... Parece normal\ny corriente, pero lo más probable es que contenga\nun mensaje encriptado. Llevaba tiempo buscando a\nlos sospechosos, y tú los has hallado. ¡Extraordinario!
+MSQID_Goal_DisturbingElements: Entrega lo siguiente:
+MSQID_Client_DisturbingElements: Capitán {Unknown080E=03}Daniel
+MSQID_Title_Assassination: Encargo luctuoso
+MSQID_Detail_Assassination: Necesito a alguien para un encargo sencillo:\nencontrar y matar a Inno. Eres libre de rechazar\nla oferta, pero ambos sabemos que eso\nno va a ocurrir.
+MSQID_Comp_Assassination: Bravo. Sabía que no me defraudarías.\nLo que has hecho es una heroicidad...\naunque solo yo lo sepa.
+MSQID_Goal_Assassination: Derrota a {Unknown080E=03}Inno.
+MSQID_Client_Assassination: {CapitalizeNextLetter}Caballero sospechoso
+MSQID_Title_RelicRecovery: Un tesoro perdido
+MSQID_Detail_RelicRecovery: Hace tiempo robaron algo muy valioso de... bueno,\nel lugar es lo de menos. Busco a alguien competente\nque vaya a la {LowercaseNextLetter}Caverna de Iapetus, al noroeste de\nArago, y me lo traiga. Ofrezco una gran recompensa.
+MSQID_Comp_RelicRecovery: Parece auténtica... Buen trabajo. Mis superiores\nestarán encantados. No le comentes nada de esto\na nadie, salvo que quieras que te cierre el pico por\nla fuerza... Es broma. No me lo tengas en cuenta.
+MSQID_Goal_RelicRecovery: Entrega lo siguiente:
+MSQID_Client_RelicRecovery: {CapitalizeNextLetter}Caballero sospechoso
+MSQID_Title_FulamaSmuggler: Traficantes de flamma
+MSQID_Detail_FulamaSmuggler: ¿Has oído hablar de la flamma? Su consumo\nse ha disparado en la capital por culpa de unos\ntraficantes que se ocultan en el {LowercaseNextLetter}Paso de Merak.\nNecesito que me ayudes a incautar su alijo.
+MSQID_Comp_FulamaSmuggler: ¡Gracias! Creo que hemos puesto freno a esta\nhorrible epidemia. Ahora solo queda desvelar\nla identidad de los culpables. ¡Los llevaré\nante la justicia!
+MSQID_Goal_FulamaSmuggler: Entrega lo siguiente:
+MSQID_Client_FulamaSmuggler: Capitán {Unknown080E=03}Daniel
+MSQID_Title_DaMinaDelivery: Armas de Da Mina
+MSQID_Detail_DaMinaDelivery: Un cliente me ha pedido que consiga varias armas\nde Da Mina, pero son tan escasas que solo he podido\nhacerme con un puñado. ¿Me echarías una mano?\nEstoy dispuesto a pagar el doble de su precio normal.
+MSQID_Comp_DaMinaDelivery: ¿Son para mí? ¡Ja, ja! ¡Qué maravilla!\nSe ve que tienes mucho tiempo libre, pero\nmuchísimas gracias por tu generosidad.
+MSQID_Goal_DaMinaDelivery: Entrega lo siguiente:
+MSQID_Client_DaMinaDelivery: Comerciante de armas
+MSQID_Title_ResearchTeam: La expedición perdida
+MSQID_Detail_ResearchTeam: Envié una expedición a las ruinas de la\n{LowercaseNextLetter}Cueva de la Hereje, pero no he vuelto a saber\nnada más de ellos y me preocupa. ¿Te importaría\nir a comprobar si están bien?
+MSQID_Comp_ResearchTeam: ¿Entonces no has dado con ellos? Vaya...\nQuizá hayan sufrido algún accidente.\nTendremos que regresar al lugar pronto, aunque\nprimero habrá que recaudar más fondos.
+MSQID_Goal_ResearchTeam: Recaba información sobre la expedición a la cueva.
+MSQID_Client_ResearchTeam: Comerciante preocupado
+MSQID_Title_SoulCrystal: Cristal espiritual
+MSQID_Detail_SoulCrystal: Para profundizar en nuestra investigación\nsobre la flamma, precisamos un {LowercaseNextLetter}Cristal espiritual.\n¿Sería posible que me lo consiguieras?
+MSQID_Comp_SoulCrystal: ¿¡Es un cristal espiritual de verdad!?\n¿Cómo has podido encontrarlo tan fácilmente?...\nNuestra investigación avanzará a pasos agigantados\na partir de ahora. ¡Gracias!
+MSQID_Goal_SoulCrystal: Entrega lo siguiente:
+MSQID_Client_SoulCrystal: Estudioso de la flamma
+MSQID_Title_SandorLegacy: El legado de un escultor legendario
+MSQID_Detail_SandorLegacy: Creemos que las cuatro esculturas de las diosas,\nel legado del legendario Shandor, están en cierto\n«templo» al este, un «paso» al norte, una «pradera»\nal oeste y un «lago» al sur. Encuéntralas, por favor.
+MSQID_Comp_SandorLegacy: Tengo ante mí la obra de un escultor legendario,\n¡un hallazgo ansiado por multitudes! Seguro\nque el general estará más que satisfecho. ¡Gracias!
+MSQID_Goal_SandorLegacy: Entrega lo siguiente:
+MSQID_Client_SandorLegacy: Subordinada del general Senghor
+MSQID_Title_AcademicFreedom: Tablilla robada
+MSQID_Detail_AcademicFreedom: Hace poco descubrí una antigua tablilla que nos\nhabría ayudado a despejar incógnitas sobre la historia\nde Iskandariya, pero me la robaron. Por favor,\nencuentra la {LowercaseNextLetter}Tablilla arcaica y tráemela.
+MSQID_Comp_AcademicFreedom: ¡La has encontrado! ¡Cómo te lo agradezco!\nHe averiguado que la robó la Orden de Mithras,\nasí que puede que no sea buena idea permanecer\nen Dagsion. Huiré, aunque espero volver a verte.
+MSQID_Goal_AcademicFreedom: Entrega lo siguiente:
+MSQID_Client_AcademicFreedom: {Unknown080E=03}Kinkara, investigador sobre Iskandariya
+MSQID_Title_PopeSecret: El secreto del divino soberano
+MSQID_Detail_PopeSecret: Últimamente, el divino soberano se ausenta\nsin decírselo a nadie. No sé adónde va.\n¿Crees que podrías ayudarme a resolver\nel misterio? Seguro que alguien lo habrá visto...
+MSQID_Comp_PopeSecret: ¿Que no has averiguado el destino de sus viajes?\nPues mira, he cambiado de idea: lo que haga\nel divino soberano no me incumbe.\nPuedes dar por cumplida mi petición.
+MSQID_Goal_PopeSecret: Recaba información sobre el divino soberano.
+MSQID_Client_PopeSecret: Sacerdote del templo de Solel
+MSQID_Title_VillageDefense: Ladrones en Aguiño
+MSQID_Detail_VillageDefense: Los ladrones saquean sin parar mi aldea, Aguiño.\nHemos llegado a un punto insostenible... Los vecinos\nhemos hecho acopio de monedas para pagarte\npor tus servicios. ¡Líbranos de esos indeseables!
+MSQID_Comp_VillageDefense: ¡Los ladrones han desaparecido! ¡Nos has salvado!\nVamos a entrenar a fondo para luchar como tú;\nasí se lo pensarán dos veces antes de atacar\nnuestra aldea otra vez.
+MSQID_Goal_VillageDefense: Derrota a los ladrones.
+MSQID_Client_VillageDefense: Aldeana de Aguiño
+MSQID_Title_BarkeeperTroubles: Cliente desaparecido
+MSQID_Detail_BarkeeperTroubles: {Unknown080E=03}Gaston, uno de mis parroquianos habituales,\nme tiene un poco preocupada. Hace tiempo\nque no se le ve el pelo por la taberna.\n¿Te importaría ir a ver si está bien?
+MSQID_Comp_BarkeeperTroubles: Vaya con {Unknown080E=03}Gaston. Conque era eso lo que se traía\nentre manos... En fin, me alegro de que esté bien.\nY quizá un nuevo diseño de vaso ayude a impulsar\nel negocio... Tendré que pensármelo.
+MSQID_Goal_BarkeeperTroubles: Habla con {Unknown080E=03}Gaston.
+MSQID_Client_BarkeeperTroubles: Camarera preocupada
+MSQID_Title_SmallCastle1: La llave de casa
+MSQID_Detail_SmallCastle1: ¡Un ricachón al que no conozco de nada\nha comprado mi casa! Si encuentro la llave,\npodré probar que es mía. Con eso bastaría,\n¿verdad? Por favor, ayúdame a buscarla.
+MSQID_Comp_SmallCastle1: ¡Esta es la llave de mi casa! Por fin puedo volver\na mi hogar... ¡Muchas gracias!
+MSQID_Goal_SmallCastle1: Entrega lo siguiente:
+MSQID_Client_SmallCastle1: Niño del mural
+MSQID_Title_SmallCastle2: Casa en venta
+MSQID_Detail_SmallCastle2: He pensado que debería vender la casa y empezar\nuna vida nueva en otro lugar. Pero quiero que\nla compre una persona maja. ¡Si conoces a alguien\nque encaje con la descripción, dímelo!
+MSQID_Comp_SmallCastle2: ¿Dices que alguien quiere comprar una casa\ncomo la mía? ¿Y parece buena persona?\nPues hala, se la regalo. Gracias por tu ayuda,\n¡y cuídate!
+MSQID_Goal_SmallCastle2: Busca un comprador para la casa.
+MSQID_Client_SmallCastle2: Niño del mural
+MSQID_Title_CollectingStones1: A pico y pala
+MSQID_Detail_CollectingStones1: Estoy llevando a cabo un experimento para\nel que necesito un tipo concreto de piedra llamado\n{LowercaseNextLetter}Ouranolito. Si no es mucho pedir, ¿podrías traerme\nalguna muestra?
+MSQID_Comp_CollectingStones1: ¡Me has traído {LowercaseNextLetter}Ouranolito! Queda claro que\nla juventud no está reñida con la experiencia...\n¡Gracias, ahora podré continuar con mi experimento!
+MSQID_Goal_CollectingStones1: Entrega lo siguiente:
+MSQID_Client_CollectingStones1: {Unknown080E=03}Royu, geólogo
+MSQID_Title_GiscoTreasure: Los tesoros de Gisco
+MSQID_Detail_GiscoTreasure: Gisco dejó acertijos como este que revelaban el\nparadero de tesoros ocultos: «Una colosa contempla\nlas aguas del Baal. En la piedra a la que apunta, algo\nimportante hallarás». ¿Crees que puedes resolverlo?
+MSQID_Comp_GiscoTreasure: ¡¿Cómo?! ¿Has logrado desentrañar el acertijo\nde Gisco? Como fue un servidor quien te habló\ndel tema, el tesoro es para mí. ¡Je, je, je!\n¡Gracias por todo!
+MSQID_Goal_GiscoTreasure: Entrega lo siguiente:
+MSQID_Client_GiscoTreasure: Aficionado a los misterios
+MSQID_Title_UnforgettableTaste: Sabor a nostalgia
+MSQID_Detail_UnforgettableTaste: Echo de menos el sabor de la carne de gusano\nde mi tierra... ¡Lo que daría por volver a disfrutarlo!\nTú no tendrás un cacho por ahí, ¿verdad?
+MSQID_Comp_UnforgettableTaste: ¡Ah, je, je! ¡Justo lo que quería! El aroma, el sabor...\n¡hasta el color! ¡Todo es tal como lo recuerdo! A mi\nedad, he probado mil cosas más ricas, pero de niño\neste era el mayor manjar que podías echarte al coleto.
+MSQID_Goal_UnforgettableTaste: Entrega carne de {LowercaseNextLetter}Gusano de las arenas.
+MSQID_Client_UnforgettableTaste: Nostálgico de la comida de su tierra

@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: 勝利条件
+MID_Rule_Title_Lose: 敗北条件
+MID_WINRULE_Annihilate: 全ての敵の撃破
+MID_WINRULE_Destroy: {Variable=0}の撃破
+MID_WINRULE_Destroy2: {Variable=0}と{Variable=1}の撃破
+MID_LOSERULE_Annihilate: 全ての味方の敗走
+MID_LOSERULE_Destroy: {Variable=0}の敗走
+MID_LOSERULE_Destroy2: {Variable=0}か{Variable=1}の敗走
+MID_LOSERULE_Destroy3: {Variable=0}、{Variable=1}、\n{Variable=2}のいずれかの敗走
+MID_WINRULE_SC11_01_1: 赤い宝石の奪取
+MID_WINRULE_SC12_08_1: 全ての制御装置の操作
+MID_WINRULE_SC13_00_1: セオドラが目標地点に到達
+MID_WINRULE_SC13_10: エピメニウムの奪取
+MID_WINRULE_SC13_11_1: {Variable=0}ターン経過時に\n味方が所持する宝珠が敵より多い
+MID_WINRULE_SC13_11_2: 味方が宝珠を獲得、または、敵が宝珠を失う
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: {Variable=0}ターン経過時に\n灯籠の炎（青）が灯籠の炎（赤）より多い
+MID_WINRULE_SC14_05_2: レダが目標地点に到達
+MID_WINRULE_SC30_08: {LordName}が目標地点に到達
+MID_WINRULE_SC00_16: 冥界の柱の破壊
+MID_WINRULE_SCXX_01: {Variable=0}ターン経過
+MID_WINRULE_SCXX_02: 全ての祭壇の仕掛けの作動
+MID_WINRULE_SCXX_04: 味方が過半数の巨人を撃破
+MID_WINRULE_SCXX_05: 全ての商会の積荷の回収、または、全ての敵の撃破
+MID_WINRULE_SCXX_07_1: 全ての行動可能なコンロンの民が目標地点に到達\nまたは、クイン・ヒュドラの撃破
+MID_WINRULE_SCXX_07_2: アナトリアが目標地点に到達\nまたは、クイン・ヒュドラの撃破
+MID_WINRULE_KL_02_1: 敵の障壁をブレイク（1枚破壊）して撃破
+MID_WINRULE_KL_02_2: 敵の障壁をオールブレイク（全て破壊）して撃破
+MID_LOSERULE_SC11_03: 乗合馬車の破壊、または、カイの敗走
+MID_LOSERULE_SC12_08_1: {Variable=0}ターン経過、または、ディートリヒの敗走
+MID_LOSERULE_SC13_09: {Variable=0}ターン経過、または、セオドラの敗走
+MID_LOSERULE_SC13_11_1: {Variable=0}ターン経過時に\n味方が所持する宝珠が敵より少ない
+MID_LOSERULE_SC13_11_2: 敵が宝珠を獲得、または、味方が宝珠を失う
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: {Variable=0}ターン経過時に\n灯籠の炎（赤）が灯籠の炎（青）より多い
+MID_LOSERULE_SCXX_00: 敵が目標地点に到達\nまたは、{LordName}かカイの敗走
+MID_LOSERULE_SCXX_01: 敵が目標地点に到達\nまたは、{LordName}かディートリヒの敗走
+MID_LOSERULE_SCXX_04: 敵が過半数の巨人を撃破
+MID_LOSERULE_SCXX_05_2: 商会の積荷を所持した盗賊が目標地点に到達\nまたは、{LordName}かタリムーンの敗走
+MID_LOSERULE_SCXX_07: 3人のコンロンの民の撃破\nまたは、{LordName}かアナトリアの敗走
+MID_LOSERULE_DefenseBattle: 全ての市民の撃破\nまたは、{LordName}の敗走

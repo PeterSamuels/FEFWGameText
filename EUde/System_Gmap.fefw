@@ -1,0 +1,207 @@
+﻿MID_Gmap_SpotKind_Hub: Basis
+MID_Gmap_SpotKind_SimpleHub: Siedlung
+MID_Gmap_SpotKind_Temple: Tempel
+MID_Gmap_SpotKind_Station: Poststation
+MID_Gmap_SpotKind_Gate: Kontrollpunkt
+MID_Gmap_SpotKind_Explore: Suche
+MID_Gmap_SpotKind_Banquet: Festmahl
+MID_Gmap_SpotKind_Dungeon: Verlies
+MID_Gmap_SpotKind_Construction: Leer
+MID_Gmap_SpotKind_Farm: Feld
+MID_Gmap_SpotKind_Animal: Tier
+MID_Gmap_SpotKind_Fort: Festung
+MID_Gmap_SpotKind_HellGate: Unterwelt
+MID_Gmap_SpotInfo_Recruit: Rekrutierungsinfo
+MID_Gmap_SpotInfo_Recruit_OtherLegions: {Variable=0} {SingularPlural0=weiteres Bataillon|weitere Bataillone}
+MID_Gmap_SpotInfo_Station: Ziel
+MID_Gmap_SpotInfo_Explore: Erscheinungsrate
+MID_Gmap_SpotInfo_Animal: Erscheinungsinfo
+MID_Gmap_SpotInfo_Reconstruction: Aufbaubedarf
+MID_Gmap_SpotInfo_Dungeon: Ideal-Lv.
+MID_Gmap_SpotInfo_Dungeon_Ore: Erzinfo
+MID_Gmap_SpotInfo_Dungeon_Enemy_Destroy: Keine Gegner
+MID_Gmap_SpotInfo_Dungeon_Traverse_CanTraverse: Unerforscht
+MID_Gmap_SpotInfo_TempleWarp_Unopened: Pforte der Götter nicht nutzbar
+MID_Gmap_SpotInfo_TempleWarp_Opened: Pforte der Götter nutzbar
+MID_Gmap_SpotInfo_TempleWarp_Null: Keine Pforte der Götter
+MID_Gmap_SpotInfo_ExWarp_Opened: Teleport-Vorrichtung aktiv
+MID_Gmap_SpotInfo_HellGate_NotPredicated: Derzeit nicht materialisiert
+MID_Gmap_SpotInfo_HellGate_Predicted: {Variable=0} {SingularPlural0=Zug|Züge} bis zur Materialisierung
+MID_Gmap_SpotInfo_HellGate_Barriered: Barriere verhindert Angriff
+MID_Gmap_SpotInfo_HellGate_Activated: Angreifbar
+MID_Gmap_SpotInfo_HellGate_Cleared: Zerstörbar
+MID_Gmap_UnusableSpot: Nicht nutzbar
+MID_Gmap_UnusableSpot_Temporarily: Nicht verfügbar
+MID_Gmap_UnusableSpot_Broken: Beschädigt
+MID_Gmap_UnusableSpot_Miasma: Miasma-Befall
+MID_Gmap_DagsionHp: Dagsions Ausdauer
+MID_Gmap_KeyHelp_OpenShopGuide: Waren
+MID_Gmap_TurnStart: Zugbeginn
+MID_Gmap_NextTurn: Nächster Zug
+MID_Gmap_Encount_Enemy: Kampf
+MID_Gmap_StartDefense: Gefahr
+MID_Gmap_MainQuest_Confirm: Zur Hauptquest voranschreiten?
+MID_Gmap_SpotSelect_Enter_Confirm: {Variable=0} betreten?
+MID_Gmap_SpotSelect_Dungeon_Confirm: {Variable=0} erkunden?
+MID_Gmap_SpotSelect_HellGate_Confirm: Tor zur Unterwelt angreifen?
+MID_Gmap_SpotSelect_HellGateDestroy_Confirm: Mit der Zerstörung des Tors schreitet die Geschichte voran.\nBist du sicher?
+MID_Gmap_CallAnimal_Confirm: Mit diesem Köder ein Tier anlocken?
+MID_Gmap_MakeFarm_Confirm: Ein Feld anlegen, um diese Feldfrucht anzubauen?
+MID_Gmap_ReMakeFarm_Confirm: Diese Feldfrucht auf dem Feld erneut anpflanzen?
+MID_Gmap_BoostFarm_Confirm: Diesen Dünger einsetzen?
+MID_Gmap_BladeResonance_Confirm: Antworters Ruf einsetzen?
+MID_Gmap_Recruit_Confirm: Rekrutierung beginnen?
+MID_Gmap_BoostRecruit_Confirm: Eine motivierende Rede halten?
+MID_Gmap_Show_Confirm: Eine Darbietung durchführen?
+MID_Gmap_CorpsDelete_Confirm: Diesen Trupp auflösen?
+MID_Gmap_CorpsDelete_Message: Trupp aufgelöst.
+MID_Gmap_Reconstruction_Confirm: Diese Items zum Wiederaufbau nutzen?
+MID_Gmap_CoopsSelect_Message: Wähle, welcher Trupp agieren soll.
+MID_Gmap_CoopsSelect_Coops: Verfügbare Trupps
+MID_Gmap_CoopsSelect_Hub: Basis
+MID_Gmap_CoopsSelect_Hub_Enable: Verfügbar
+MID_Gmap_CoopsSelect_Hub_Disable: Nicht verfügbar
+MID_Gmap_Expired_Message: Die Frist ist abgelaufen. Du schreitest in der Hauptquest voran.\n(KP, Magienutzungen und Göttlicher Sand werden wiederhergestellt.)
+MID_Gmap_SideStory_End_Message: Die Frist für {Variable=0} ist abgelaufen.
+MID_Gmap_CorpsIncreased_Message: Die Anzahl an erstellbaren Trupps wurde erhöht.
+MID_Gmap_ShowHellGate_Message: Das Miasma wurde beseitigt. Damit ist ein Angriff auf\ndas Tor zur Unterwelt möglich.
+MID_Gmap_TurnEnd_Confirm: Du hast noch nicht alle möglichen Trupps eingesetzt.\nMöchtest du den Zug wirklich beenden?
+MID_Gmap_TurnEnd_Yes: Ja (Nicht erneut fragen)
+MID_Gmap_MakeFarm_Message: Feld erschaffen.
+MID_Gmap_BoostFarm_Message: Dünger verteilt.
+MID_Gmap_CallAnimal_Message: Köder platziert.
+MID_Gmap_LegionDispatch_Message: Bataillon eingesetzt.
+MID_Gmap_Reconstruction_Message: Wiederaufbau gestartet.
+MID_Gmap_OpenRoute_Message: Die erhaltene Karte enthüllte neue Straßen.
+MID_Gmap_TalkOpenExplore_Message: Du hast über Materialien an diesem Ort erfahren: {Variable=0}
+MID_Gmap_TalkOpenAnimal_Message: Du hast über Tiere an diesem Ort erfahren: {Variable=0}
+MID_Gmap_ShowOpenSpot_Message: Ein Einwohner hat etwas über den Ort {Variable=0} erzählt.
+MID_Gmap_BladeResonance_NoEnemy_Message: Keine feindliche Präsenz zu spüren.
+MID_GmapMenu_MainQuest: Hauptquest
+MID_GmapMenu_MainQuest_Help: Zur Hauptquest voranschreiten.\n(Beendet die freie Zeit.)
+MID_GmapMenu_SideStory: Nebenquest
+MID_GmapMenu_SideStory_Help: Nebenquest beginnen.\n(Beendet nicht die freie Zeit.)
+MID_GmapMenu_Enter: Betreten
+MID_GmapMenu_Enter_Help: Gebiet zum Erkunden betreten.
+MID_GmapMenu_Dungeon: Verlies erkunden
+MID_GmapMenu_Dungeon_Help: Verlies zum Erkunden betreten.
+MID_GmapMenu_GodlyPortal: Pforte der Götter
+MID_GmapMenu_GodlyPortal_Help: Mittels verfügbarer Pforte der\nGötter zu einem anderen Tempel\nteleportieren.
+MID_GmapMenu_ExPortal: Teleport-Vorrichtung
+MID_GmapMenu_ExPortal_Help: Zu einem anderen Ort mit\nfreigeschalteter Teleport-\nVorrichtung teleportieren.
+MID_GmapMenu_Explore: Suche
+MID_GmapMenu_Explore_Help: Nach Materialien suchen.\nDabei kannst du auch neue\nOrte entdecken.
+MID_GmapMenu_Banquet: Festmahl
+MID_GmapMenu_Banquet_Help: Zutaten für ein Festmahl verwen-\nden. Stellt KP und Magie wieder\nher. Erhöht Unterstz. für alle Verb.
+MID_GmapMenu_Carriage: Kutsche
+MID_GmapMenu_Carriage_Help: Zu einer bereits besuchten\nPoststation reisen. Legt schnell\nlange Entfernungen zurück.
+MID_GmapMenu_Talk: Reden
+MID_GmapMenu_Talk_Help: Mit Leuten an diesem Ort reden.
+MID_GmapMenu_Facility: Einrichtungen nutzen
+MID_GmapMenu_Facility_Help: Die Einrichtungen dieses Ortes\nnutzen.
+MID_GmapMenu_Fix: Warten
+MID_GmapMenu_Fix_Help: Aktion beenden und warten.
+MID_GmapMenu_ContinueMove: Fortbewegen
+MID_GmapMenu_ContinueMove_Help: Den Weg weiter entlang reisen.
+MID_GmapMenu_CallAnimal: Locken
+MID_GmapMenu_CallAnimal_Help: Köder platzieren, um ein Tier\nanzulocken.
+MID_GmapMenu_CaptureAnimal: Fangen
+MID_GmapMenu_CaptureAnimal_Help: Ein angelocktes Tier einfangen.
+MID_GmapMenu_MakeFarm: Feldarbeit
+MID_GmapMenu_MakeFarm_Help: Erstelle ein Feld, um den Ertrag\nvon bestimmten Pflanzen zu\nerhöhen.
+MID_GmapMenu_ReMakeFarm: Neues Feld
+MID_GmapMenu_ReMakeFarm_Help: Das aktuelle Feld aufgeben und ein\nneues erstellen.
+MID_GmapMenu_BoostFarm: Düngen
+MID_GmapMenu_BoostFarm_Help: Dünger auf einem Feld verteilen,\num die Wahrscheinlichkeit für\nseltene Pflanzen zu erhöhen.
+MID_GmapMenu_Recruit: Soldaten rekrutieren
+MID_GmapMenu_Recruit_Help: Ein neues Bataillon rekrutieren.
+MID_GmapMenu_Recruit_ForceBoost: Rekrutierungsvorstoß
+MID_GmapMenu_Recruit_ForceBoost_Help: Bataillone rekrutieren, mit höherer\nChance für hochwertige Soldaten.
+MID_GmapMenu_BoostRecruit: Motivierende Rede
+MID_GmapMenu_BoostRecruit_Help: Erhöht Effekt von „Soldaten\nrekrutieren“, mit höherer Chance\nauf hochwertige Soldaten.
+MID_GmapMenu_LegionDispatch: Einsetzen
+MID_GmapMenu_LegionDispatch_Explore: Zur Suche einsetzen
+MID_GmapMenu_LegionDispatch_Explore_Help: Ein Bataillon anweisen, nach\nMaterialien zu suchen.
+MID_GmapMenu_LegionDispatch_Reconstruction: Zum Aufbau einsetzen
+MID_GmapMenu_LegionDispatch_Reconstruction_Help: Ein Bataillon anweisen, den\nWiederaufbau zu beschleunigen.
+MID_GmapMenu_LegionReDispatch: Erneut einsetzen
+MID_GmapMenu_LegionReDispatch_Help: Ein eingesetztes Bataillon zurück-\nrufen und an diesem Ort einsetzen.
+MID_GmapMenu_LegionDispatch_Fort: Zur Vert. einsetzen
+MID_GmapMenu_LegionDispatch_Fort_Help: Ein Bataillon anweisen, ein\nBollwerk gegen feindliche Kräfte\nzu verteidigen.
+MID_GmapMenu_Blade: Antworters Ruf
+MID_GmapMenu_Blade_Help: Feinde aufdecken, die sich an\nOrten in der Nähe versteckt halten.
+MID_GmapMenu_Show: Darbietung
+MID_GmapMenu_Show_Help: Eine Vorstellung darbieten\nund dafür Belohnungen oder\nInformationen erhalten.
+MID_GmapMenu_CorpsCreate: Trupp erstellen
+MID_GmapMenu_CorpsCreate_Help: Verbündete zu einem Trupp\nzusammenstellen und diesen\neinsetzen.
+MID_GmapMenu_CorpsDelete: Trupp auflösen
+MID_GmapMenu_CorpsDelete_Help: Einen Trupp auflösen, um die\nVerbündeten wieder nach Dagsion\nzu schicken.
+MID_GmapMenu_CorpsExchange: Mitglieder tauschen
+MID_GmapMenu_CorpsExchange_Help: Verbündete von einem Trupp zu\neinem anderen überstellen.
+MID_GmapMenu_CorpsDivide: Trupp aufteilen
+MID_GmapMenu_CorpsDivide_Help: Einen Trupp aufteilen, um die\nbeiden neuen Trupps separat\neinzusetzen.
+MID_GmapMenu_Reconstruction: Aufbauen
+MID_GmapMenu_Reconstruction_Help: Die nötigen Materialien\nverwenden, um einen Ort\nwieder aufzubauen.
+MID_GmapMenu_DestroyMiasma: Miasma beseitigen
+MID_GmapMenu_DestroyMiasma_Help: Entfernt eine Schicht Miasma.\nDichtes Miasma muss durch\nmehrere Aktionen entfernt werden.
+MID_GmapMenu_Hellgate: Tor zur Unterwelt
+MID_GmapMenu_Hellgate_Help: Zu einem Tor zur Unterwelt reisen\nund die Gegner bekämpfen, die es\nbewachen.
+MID_GmapMenu_HellgateDestroy: Tor zerstören
+MID_GmapMenu_HellgateDestroy_Help: Tor zur Unterwelt zerstören.
+MID_BanquetMenu_Help: Wähle, welche Zutaten verwendet werden sollen.
+MID_BanquetMenu_Use_Food: Zutaten
+MID_BanquetMenu_Required: Benötigt
+MID_BanquetMenu_Optional: Optional
+MID_BanquetMenu_Taste: Aroma
+MID_BanquetMenu_Magic: Magie
+MID_BanquetMenu_Recovery: Je Verbündetem wiederhergestellt
+MID_BanquetMenu_Recovery_HP: KP
+MID_BanquetMenu_Recovery_Magic: Magieanwend.
+MID_BanquetMenu_Sort_HP: KP wiederherg.
+MID_BanquetMenu_Sort_Magic: Magie wiederherg.
+MID_BanquetMenu_Confirm: Das Festmahl mit diesen Zutaten beginnen?
+MID_BanquetMenu_Cancel_Confirm: Festmahl abbrechen?
+MID_Gmap_Banquet_Perfect_Message: Das Festmahl war ein voller Erfolg. Alle haben sich erholt!
+MID_Gmap_Banquet_Good_Message: Alle haben sich erholt, aber es ist Essen übrig geblieben...
+MID_Gmap_Banquet_Bad_Message: Es gab nicht genug Essen, daher konnten sich nicht alle erholen...
+MID_GmapMap_Help: Wähle ein Ziel.
+MID_GmapMap_Invalid_Message: Das kannst du gerade nicht verwenden.
+MID_GmapMap_CorpsEmpty_Message: Derzeit nicht verwendbar.\nDie Pforte der Götter dieser Basis kann nur mit einer anderen\nEinheit als {AvatarName} verwendet werden.
+MID_GmapMap_SpotKind_Hub: Basen
+MID_GmapMap_SpotKind_SimpleHub: Siedlungen
+MID_GmapMap_SpotKind_Temple: Tempel
+MID_GmapMap_SpotKind_Station: Poststationen
+MID_GmapMap_SpotKind_Gate: Kontrollpunkte
+MID_GmapMap_SpotKind_Explore: Suchen
+MID_GmapMap_SpotKind_Banquet: Festmahle
+MID_GmapMap_SpotKind_Dungeon: Verliese
+MID_GmapMap_SpotKind_Construction: Leer
+MID_GmapMap_SpotKind_Animal: Tiere
+MID_GmapMap_SpotKind_Fort: Festungen
+MID_CorpsCreateMenu_Help: Wähle Einheiten, die einen neuen Trupp bilden sollen.
+MID_CorpsExchangeMenu_Help: Wähle Einheiten zum Tauschen aus.
+MID_CorpsDivideMenu_Help: Wähle Einheiten für den aufgeteilten Trupp.
+MID_CorpsMenu_AvgLv: Ø-Lv.
+MID_CorpsMenu_OverallHp: KP ges.
+MID_CorpsMenu_OverallMagicEndure: Magie übrig
+MID_CorpsMenu_Abilities: Talente
+MID_CorpsMenu_CorpsName: Trupp von {Variable=0}
+MID_CorpsMenu_CorpsGroupName: Team von {Variable=0}
+MID_CorpsMenu_Pool: Dagsion-Reserve
+MID_CorpsMenu_Confirm: Mit diesen Einheiten einsetzen?
+MID_CorpsMenu_Cancel_Confirm: Ohne Einsetzen zur Weltkarte zurückkehren?
+MID_LegionDispatchMenu_Unused: In Bereitschaft
+MID_LegionDispatchMenu_Deployed: Zugewiesen
+MID_LegionDispatchMenu_Explore: Zur Suche eingesetzt.
+MID_LegionDispatchMenu_Reconstruction: Zum Aufbau eingestz.
+MID_LegionDispatchMenu_Fort: Zur Vert. eingesetzt.
+MID_LegionDispatchMenu_ExploreInfo: Maximum
+MID_LegionDispatchMenu_FortInfo: Defensive
+MID_LegionDispatchMenu_State: Status
+MID_LegionDispatchMenu_Dispatch_Confirm: Dieses Bataillon ist derzeit dort eingesetzt: {Variable=0}.\nEinsatz abbrechen und erneut hier einsetzen?
+MID_LegionDispatchMenu_Owner_Confirm: Dieses Bataillon ist derzeit dort eingesetzt: {Variable=0}.\nZuweisung aufheben und stattdessen hier einsetzen?
+MID_LegionReDispatchMenu_Title: Zurückrufen und zur Suche einsetzen
+MID_LegionCombackMenu_Help: Bataillon-Einsatzstatus überprüfen.
+MID_LegionCombackMenu_ExploreInfo: Sucht
+MID_LegionCombackMenu_FortInfo: Verteidigt
+MID_LegionCombackMenu_ReconstructionInfo: Baut

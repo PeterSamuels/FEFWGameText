@@ -1,0 +1,710 @@
+﻿MID_Spot_Unknown: ???
+MID_H_Spot_NoEntry: Dieser Ort ist noch nicht zugänglich.
+MID_Spot_Dagsion: Dagsion
+MID_H_Spot_Dagsion: Eine bei der Gründung des Reichs errichtete\nriesige Stadt. Das Zentrum von Dagda.
+MID_H_Spot_Dagsion_Gate: In dieser großen Stadt – einst die kaiserliche\nHauptstadt – steht ein Tor zur Unterwelt.
+MID_Spot_Kassito: Kassite
+MID_H_Spot_Kassito: Eine von einer Tragödie befallene Stadt. Vor\neinigen Jahren hat Arago sie annektiert.
+MID_Spot_Amour: Ahm Lu
+MID_H_Spot_Amour: Einst Hauptstadt des zerstörten Königreichs\nDamascar – deutlich vom Krieg gezeichnet.
+MID_Spot_TempleSorrel: Tempel des Solel
+MID_H_Spot_TempleSorrel: Der Tempel ist Solel, dem Sonnenbringer,\ngewidmet. Zurzeit wird er nicht benutzt.
+MID_Spot_TempleFotona: Tempel der Fortuna
+MID_H_Spot_TempleFotona: Der Tempel ist Fortuna, Göttin des Schick-\nsals, gewidmet. Ein sehr besinnlicher Ort.
+MID_Spot_TempleCarla: Tempel der Kalla
+MID_H_Spot_TempleCarla: Der Tempel ist Kalla, Göttin der Jagd und\nKünste, gewidmet. Künstler beten hier gern.
+MID_Spot_TempleClaire: Tempel des Credna
+MID_H_Spot_TempleClaire: Der Tempel ist Credna, Funken des Schmie-\ndefeuers, gewidmet. Handwerker beten hier.
+MID_Spot_TempleSmyrnos: Tempel des Smyrnos
+MID_H_Spot_TempleSmyrnos: Der Tempel ist Smyrnos, dem Zaubergelehr-\nten, gewidmet. Magienutzer beten hier gern.
+MID_Spot_TempleMars: Tempel des Mars
+MID_H_Spot_TempleMars: Der Tempel ist Mars, dem Kriegsbringer, ge-\nwidmet. Krieger bitten hier um mehr Stärke.
+MID_Spot_TempleJura: Tempel der Jurah
+MID_H_Spot_TempleJura: Der Tempel ist Jurah, Geberin der Frucht-\nbarkeit, gewidmet. Bauern beten hier gern.
+MID_Spot_TempleAurora: Tempel der Aurora
+MID_H_Spot_TempleAurora: Der Tempel ist Aurora, Weckruf des Navi-\ngators, gewidmet. Seefahrer beten hier gern.
+MID_Spot_RibeiraVillage: Ribeira
+MID_H_Spot_RibeiraVillage: Ein kleines Dorf in den Bergen, in dem viele\nvon der Landwirtschaft und der Jagd leben.
+MID_Spot_KunlunVillage: Kunlun
+MID_H_Spot_KunlunVillage: Ein ummauertes Dorf im Verbotenen Land,\nin dem das Volk des Weißen Eies lebt.
+MID_Spot_FinaVillage: Fina
+MID_H_Spot_FinaVillage: Ein kleines Dorf am Meer Lir, in dem die\nmeisten von der Fischerei leben.
+MID_Spot_StMeridaBranch: Zweigstelle St. Merida
+MID_H_Spot_StMeridaBranch: Eine Zweigstelle der Handelsgesellschaft\nVandahl. Einst war sie ein Piratenversteck.
+MID_Spot_Ptolemaeus: Ptolemaios
+MID_H_Spot_Ptolemaeus: Ein Großer Megalith, der in einer riesigen\nAnlage namens EX-053 steht.
+MID_Spot_Magellan: Magellan
+MID_H_Spot_Magellan: Ein Großer Megalith, der in einer riesigen\nMilitäranlage namens EX-061 steht.
+MID_Spot_Hannibal: Hannibal
+MID_H_Spot_Hannibal: Ein Großer Megalith, der in einer riesigen\nForschungsanlage namens EX-089 steht.
+MID_Spot_Catalina: Katarina
+MID_H_Spot_Catalina: Ein Großer Megalith, der in einer riesigen\nBeobachtungsanlage namens EX-091 steht.
+MID_Spot_Cassiopeia: Cassiopeia
+MID_H_Spot_Cassiopeia: Ein Großer Megalith, der in einer riesigen\nBeobachtungsanlage namens EX-118 steht.
+MID_Spot_Hypatia: Hypatia
+MID_H_Spot_Hypatia: Ein Großer Megalith, der in einem riesigen\nTransportnetzwerk namens EX-207 steht.
+MID_Spot_Nicauley: Nicaula
+MID_H_Spot_Nicauley: Das Herz eines nie fertiggestellten Raum-\nschiffs in der Blätterdachstadt Bilqis.
+MID_Spot_TempleCrown: Tempel des Diadems
+MID_H_Spot_TempleCrown: Ein vor mehr als zwölf Jahrtausenden von\nSothis der Erschafferin errichteter Tempel.
+MID_Spot_MessilinaFarm: Messalina-Obstgärten
+MID_H_Spot_MessilinaFarm: Die größten Obstgärten in Saramis, am\nsüdlichen Ende des Nördlichen Dagda.
+MID_Spot_AguinhoVillage: Aguiño
+MID_H_Spot_AguinhoVillage: Ein kleines Dorf inmitten eines Moors. Wer\nzu Auroras Tempel reist, kann hier rasten.
+MID_Spot_OsirisVillage: Osiris
+MID_H_Spot_OsirisVillage: Ein Dorf im Nordwesten der Wüste von\nChronos. Mitunter finden Verirrte hierher.
+MID_Spot_CarianeiraPort: Hafen von Callianeira
+MID_H_Spot_CarianeiraPort: Ein Handelszentrum an der Danannsee. Die\nHandelsgesellschaft Vandahl handelt hier.
+MID_Spot_DemonicVillage: Daimōn
+MID_H_Spot_DemonicVillage: Eine kleine Siedlung in der Nähe von Jurahs\nTempel. Am Ortsrand ist eine tiefe Senke.
+MID_Spot_PandoraPort: Hafen von Pandora
+MID_H_Spot_PandoraPort: Eine führende Stadt in Dagda. Hier wird mit\nLändern jenseits des Meeres Lir gehandelt.
+MID_Spot_TobalinVillage: Twalinn
+MID_H_Spot_TobalinVillage: Eine Siedlung im Westen von Dagda, am\nEnde eines Passes zum Verbotenen Land.
+MID_Spot_ZastaVillage: Zoste
+MID_H_Spot_ZastaVillage: Eine kleine, aber geschäftige Siedlung mit\neiner florierenden Salzindustrie.
+MID_Spot_IoPort: Hafen von Raivo
+MID_H_Spot_IoPort: Schiffe, die gen Dagsion segeln, machen\nhier Halt und Händler nehmen Waren auf.
+MID_Spot_BynaOasis: Baina-Oase
+MID_H_Spot_BynaOasis: Eine illusorisch wirkende Siedlung an der\nHandelsstraße in der Wüste von Chronos.
+MID_Spot_BasqueTown: Poststadt Barsk
+MID_H_Spot_BasqueTown: Eine Poststation nördlich von Grand\nAragon. Hier finden Reisende Einkehr.
+MID_Spot_YamanVillage: Yaaman
+MID_H_Spot_YamanVillage: Eine kleine Siedlung im Wald an der Straße,\ndie aus der Ebene des Ewigen Nebels führt.
+MID_Spot_OrensTown: Orens
+MID_H_Spot_OrensTown: Ein Städtchen mit Blick auf den Berg\nAegina. Asketen kommen oft hierher.
+MID_Spot_KiraVillage: Kira
+MID_H_Spot_KiraVillage: Ein kleines Dorf in den Wäldern, etwas\nabseits des Pilgerpfads.
+MID_Spot_ZimaPort: Hafen von Shama
+MID_H_Spot_ZimaPort: Eine kleine Hafenstadt, erbaut von den\nNachkommen eines Expeditionsteams.
+MID_Spot_WillyVillage: Whill
+MID_H_Spot_WillyVillage: Ein lebhaftes Dorf unterhalb des Berges\nOrgus. Wilde Bestien greifen es oft an.
+MID_Spot_BenetnashVillage: Benetnasch
+MID_H_Spot_BenetnashVillage: Eine kleine Siedlung im Wald, erbaut von\nPionieren, die nach Ogmios gezogen waren.
+MID_Spot_DimutaineFarm: Bauernhof Diamouténé
+MID_H_Spot_DimutaineFarm: Ein familiengeführter Bauernhof, errichtet\nauf einem großen Landstrich im Tal.
+MID_Spot_NizaPort: Hafen von Niiza
+MID_H_Spot_NizaPort: Eine Hafenstadt im nördlichsten Teil\nDagdas. Sie hat gute Beziehungen zu Brigid.
+MID_Spot_BombaeVillage: Bombae
+MID_H_Spot_BombaeVillage: Ein verstecktes Dorf im Wald, in dem Nach-\nkommen des Volk des Weißen Eies leben.
+MID_Spot_DaMina: Da Mina
+MID_H_Spot_DaMina: Eine Stadt voll erfahrener Schmiede. Sie ist\nfür die Qualität ihrer Waffen berühmt.
+MID_Spot_Breston: Breston
+MID_H_Spot_Breston: Die Hauptstadt des Königreichs Brezarant,\nbenannt nach ihrem Gründerhelden Breza.
+MID_Spot_Alecto: Alecto
+MID_H_Spot_Alecto: Diese riesige Hafenstadt ist der Stolz von\nSaramis. Die ganze Welt treibt hier Handel.
+MID_Spot_Maon: Schlossstadt Mahón
+MID_H_Spot_Maon: Die zweitgrößte Stadt von Arago. Von hier\nstammen bekanntlich viele gute Strategen.
+MID_Spot_Mons: Mons
+MID_H_Spot_Mons: Eine Stadt mit einer robusten Festung. Hier\nhat ein historisches Ereignis stattgefunden.
+MID_Spot_LegiaTown: Regia
+MID_H_Spot_LegiaTown: Eine sichere Stadt, in der Selbstverteidigung\nmaßgeblich ist. Das Abendrot ist hier schön!
+MID_Spot_GranAragon: Grand Aragon
+MID_H_Spot_GranAragon: Die Hauptstadt des historischen Königreichs\nArago, benannt nach ihrem Gründerhelden.
+MID_Spot_Megaera: Megaira
+MID_H_Spot_Megaera: Die stark befestigte Hauptstadt von Saramis.\nHat ein wachsames Auge auf den Süden.
+MID_Spot_StEastAmalthea: Poststation Ost-Amalthea
+MID_H_Spot_StEastAmalthea: Ein Knotenpunkt für Kutschen, die an Orte\nim Östlichen Dagda fahren.
+MID_Spot_StWestAmaltea: Poststation West-Amalthea
+MID_H_Spot_StWestAmaltea: Ein Knotenpunkt für Kutschen, die an Orte\nim Westlichen Dagda fahren.
+MID_Spot_StCarmenta: Poststation Carmenta
+MID_H_Spot_StCarmenta: Diese Poststation verbindet West-Idyia\nmit Dagsion. Sie liegt an einer Hauptstraße.
+MID_Spot_StEohide: Poststation Eochaid
+MID_H_Spot_StEohide: Diese Poststation verbindet Castalia mit\nDagsion. Sie liegt an einer Hauptstraße.
+MID_Spot_StFeronia: Poststation Feronia
+MID_H_Spot_StFeronia: Diese Poststation verbindet Elektra mit\nDagsion. Sie liegt an einer Hauptstraße.
+MID_Spot_StSarakia: Poststation Salacia
+MID_H_Spot_StSarakia: Diese Poststation in der Nähe von Alecto\nverbindet Saveilon mit Dagsion.
+MID_Spot_StCallisto: Poststation Callisto
+MID_H_Spot_StCallisto: Diese Poststation verbindet Melias mit\nDagsion. Sie liegt an einer Hauptstraße.
+MID_Spot_StChiron: Poststation Chiron
+MID_H_Spot_StChiron: Diese Poststation in der Nähe von Breston\nverbindet Pasithea mit Dagsion.
+MID_Spot_StAragona: Poststation Aragona
+MID_H_Spot_StAragona: Diese Poststation in der Nähe von Grand\nAragon verbindet Thaleia mit Dagsion.
+MID_Spot_StCartodo: Poststation Cartodo
+MID_H_Spot_StCartodo: Diese Poststation an der Nordspitze des\nKontinents verbindet Solidus mit Dagsion.
+MID_Spot_StUruka: Poststation Urka
+MID_H_Spot_StUruka: Diese Poststation verbindet Ost-Idyia mit\nDagsion. Sie liegt an einer Hauptstraße.
+MID_Spot_GateLibertus: Bollwerk von Libertas
+MID_H_Spot_GateLibertus: Ein Bollwerk an der Grenze zwischen Idyia\nund Elektra.
+MID_Spot_GatePhrygia: Bollwerk von Phrygia
+MID_H_Spot_GatePhrygia: Ein Bollwerk, das dazu dient, Reisen von\nund nach Cybele zu verhindern.
+MID_Spot_GateAgris: Bollwerk von Agris
+MID_H_Spot_GateAgris: Ein Bollwerk an der Grenze zwischen\nAmalthea und Melias.
+MID_Spot_GateLeiria: Bollwerk von Leiria
+MID_H_Spot_GateLeiria: Ein Bollwerk zwischen Lambath und\nBraxithea.
+MID_Spot_GateGranya: Bollwerk von Grania
+MID_H_Spot_GateGranya: Ein Bollwerk an der Landenge von Grania.\nVon Natur aus standhaft.
+MID_Spot_GateAreus: Bollwerk von Areus
+MID_H_Spot_GateAreus: Ein Bollwerk zwischen Lambath und\nPasithea.
+MID_Spot_GateFugo: Bollwerk von Hugo
+MID_H_Spot_GateFugo: Ein Bollwerk zwischen Castalia und\nAmalthea.
+MID_Spot_GateKryps: Bollwerk von Kyklops
+MID_H_Spot_GateKryps: Ein Bollwerk zwischen Melias und Saveilon.
+MID_Spot_GatePhezzan: Tor von Fezzan
+MID_H_Spot_GatePhezzan: Ein Tor in der Mauer um das Verbotene\nLand. Es wurde noch nie geöffnet.
+MID_Spot_GateMuster: Musta-Brücke
+MID_H_Spot_GateMuster: Diese Brücke ist Teil eines Bollwerks. Sie führt\nüber den Fluss zwischen Melias und Braxithea.
+MID_Spot_Hecatoncheir: Festung Hecatoncheires
+MID_H_Spot_Hecatoncheir: Eine immense Festung am Fluss Sobek,\ndie Dagsion schützt.
+MID_H_Spot_Hecatoncheir_Gate: Ein Tor zur Unterwelt, das an dieser großen\nFeste erschien, die Dagsion schützen sollte.
+MID_Spot_GateKavala: Bollwerk von Kavala
+MID_H_Spot_GateKavala: Ein Bollwerk zwischen Elektra und\nAmalthea. Es ist das Tor zum Gebirge.
+MID_Spot_GateUrukuru: Bollwerk von Urkulu
+MID_H_Spot_GateUrukuru: Ein Bollwerk an einer Küstenstraße\nzwischen Solidus und Thaleia.
+MID_Spot_GateBenyara: Bollwerk von Benyera
+MID_H_Spot_GateBenyara: Ein Bollwerk zwischen Solidus und Thaleia.
+MID_Spot_GateNorthSalt: Bollwerk von Nord-Zorto
+MID_H_Spot_GateNorthSalt: Ein Bollwerk zwischen Nysiades und\nLambath. Es ist das Tor zur Salzstraße.
+MID_Spot_GatePallas: Pallas-Brücke
+MID_H_Spot_GatePallas: Diese befestigte Brücke überspannt den\nFluss zwischen Braxithea und Pasithea.
+MID_Spot_GateCayenne: Bollwerk von Kayen
+MID_H_Spot_GateCayenne: Ein Bollwerk unweit der Wüste zwischen\nAmalthea und Nysiades.
+MID_Spot_FortressGalgo: Festung Galcar
+MID_H_Spot_FortressGalgo: Eine Festung an der Mündung des Flusses\nTalto, die Dagsions schützt.
+MID_Spot_GateCarmenta: Bollwerk von Carmenta
+MID_H_Spot_GateCarmenta: Ein Bollwerk zwischen Idyia und Amalthea.
+MID_Spot_GateLeaseNorth: Nord-Bollwerk von Ries
+MID_H_Spot_GateLeaseNorth: Ein Bollwerk an der Hauptstraße zur\nköniglichen Hauptstadt Breston.
+MID_Spot_GateLeaseSouth: Süd-Bollwerk von Ries
+MID_H_Spot_GateLeaseSouth: Ein Bollwerk an der Hauptstraße durch den\nWaldgürtel der Berglöwen.
+MID_Spot_GateZanta: Bollwerk von Xantha
+MID_H_Spot_GateZanta: Ein Bollwerk in den Bergen zwischen\nAmalthea und Thaleia.
+MID_Spot_GateSouthSalt: Bollwerk von Süd-Zorto
+MID_H_Spot_GateSouthSalt: Ein Bollwerk zwischen Melias und Lambath.
+MID_Spot_GateSodan: Sodan-Teufelsbrücke
+MID_H_Spot_GateSodan: Eine Brücke zwischen Melias und Elektra.\nEinst bewehrt, nun aber unbemannt.
+MID_Spot_GateLeMonte: Bollwerk von Lemont
+MID_H_Spot_GateLeMonte: Ein Bollwerk in einem schwierigen Gebiet\nzwischen Melias und Braxithea.
+MID_Spot_GateRudria: Bollwerk von Ludria
+MID_H_Spot_GateRudria: Ein Bollwerk zwischen Thaleia und Amal-\nthea, an der Straße zu Kallas Tempel.
+MID_Spot_SilvasGate: Feste Sylvas
+MID_H_Spot_SilvasGate: Eine kleine Festung an der Nord-Chronos-\nRoute, einer Verbindung durch die Wüste.
+MID_Spot_RiesaGate: Feste Liza
+MID_H_Spot_RiesaGate: Eine Festung in den Bergen. Sie dient zur\nBeobachtung der Straße zu Kallas Tempel.
+MID_Spot_GateBeretta: Bollwerk von Veletta
+MID_H_Spot_GateBeretta: Ein Bollwerk in den zerklüfteten Bergen\nzwischen Castalia und Idyia.
+MID_Spot_LakesideHouse: Verlassenes Seehaus
+MID_H_Spot_LakesideHouse: Ein verlassenes Anwesen am südlichen Ufer\ndes Sees Baal. Es ist halb zerfallen.
+MID_Spot_MintakaCave: Mintaka-Steintor
+MID_H_Spot_MintakaCave: Ein riesiger Felsvorsprung. Er sieht einem\nTor sehr ähnlich.
+MID_Spot_WhiteCrowStand: Sitz des Fahlen Raben
+MID_H_Spot_WhiteCrowStand: {AvatarGender=Der Herold|Die Heroldin} des Fahlen Raben soll laut der\nProphezeiung bei diesem Felsen erscheinen.
+MID_Spot_MoonPass: Mondlicht-Pass
+MID_H_Spot_MoonPass: Dieser Pass ist in der Gegend als perfekter\nOrt zur Betrachtung des Mondes bekannt.
+MID_Spot_MagnusPlateau: Plateau von Magnus
+MID_H_Spot_MagnusPlateau: Ein weitläufiges Plateau inmitten der relativ\nfruchtbaren Hügellandschaft von Elektra.
+MID_Spot_SantanaBridge: Santana-Brücke
+MID_H_Spot_SantanaBridge: Eine große Brücke über den Fluss Talto. Sie\nist ein wichtiger Knotenpunkt Amaltheas.
+MID_Spot_VodunPass: Wodan-Pass
+MID_H_Spot_VodunPass: Eine dunkle, steile Bergstraße. Wucherndes\nGestrüpp erschwert hier die Sicht.
+MID_Spot_FaunusForest: Fauns Wald
+MID_H_Spot_FaunusForest: Ein dichter Wald im Süden von Saramis. Er\nbeheimatet die Völker des Waldes.
+MID_Spot_NaimiLake: See Naimi
+MID_H_Spot_NaimiLake: Ein großer Süßwassersee in Lambath. Auf\nder Oberfläche spiegelt sich Jurahs Tempel.
+MID_Spot_FinaReef: Fina-Riff
+MID_H_Spot_FinaReef: Ein Riff in der Nähe des Fischerdorfs Fina.\nEs beheimatet zahlreiche Lebewesen.
+MID_Spot_IsRuins: Ruinen von Ys
+MID_H_Spot_IsRuins: Die Reste einer Siedlung, vor langer Zeit\nwegen Flussverschmutzung verlassen.
+MID_Spot_Garamantes: See Garamantes
+MID_H_Spot_Garamantes: Ein großer Salzsee. Während der Trocken-\nzeit gleicht er einer weißen Wüste.
+MID_Spot_MenorLake: See Menor
+MID_H_Spot_MenorLake: Ein See der Toten mit blauem, stark saurem\nWasser. Fische können hier nicht überleben.
+MID_Spot_PegasusRock: Pegasusgipfel
+MID_H_Spot_PegasusRock: Ein Felsen in Form eines Pegasus. Jenseits\ndes Meeres liegt das weite Land Banbha.
+MID_Spot_ZethosFalls: Wasserfall von Zethus
+MID_H_Spot_ZethosFalls: Der größte Wasserfall von Castalia. Einer\nLegende nach ist hier ein Schatz verborgen.
+MID_Spot_IsobosPlain: Ebene von Aesobos
+MID_H_Spot_IsobosPlain: Eine Ebene in West-Idyia. Ihre Straße wird\nnur von wenigen Reisenden benutzt.
+MID_Spot_HomerosRockArea: Felsen von Homeros
+MID_H_Spot_HomerosRockArea: Eine atemberaubende Felsformation.\nSie entstand durch Wassererosion.
+MID_Spot_TartGate: Talto-Schleuse
+MID_H_Spot_TartGate: Eine Struktur am Nordabfluss des Sees Baal.\nSie reguliert den Wasserstand des Talto.
+MID_Spot_NapierForest: Napierwald
+MID_H_Spot_NapierForest: Ein Wald mit vielfältigem Pflanzenwuchs.\nMagier sammeln hier Heilkräuter.
+MID_Spot_GolaGrassland: Grasebene von Gaura
+MID_H_Spot_GolaGrassland: Eine von Bergen umgebene Grasebene. Im\nWesten liegt das Tor zu einer rauen Wüste.
+MID_Spot_SobekGate: Sobek-Schleuse
+MID_H_Spot_SobekGate: Eine Struktur am Südabfluss des Sees Baal.\nSie reguliert den Wasserstand des Sobek.
+MID_Spot_BrigadierPass: Brigadepass
+MID_H_Spot_BrigadierPass: Ein Pass auf der Straße, die entlang des\nzerklüfteten Veletta-Gebirges verläuft.
+MID_Spot_AresifField: Arrecif-Salzwiese
+MID_H_Spot_AresifField: Ein kleines Salzfeld, dessen Salz im\nKönigreich Arago verzehrt wird.
+MID_Spot_ValDelLake: See Baldr
+MID_H_Spot_ValDelLake: Ein See mit sauberem, reinem Wasser. Die\nQuelle, der See Naimi, liegt flussaufwärts.
+MID_Spot_CoenGallery: Cohens Mausoleum
+MID_H_Spot_CoenGallery: Das Grabmal des legendären Barden Cohen.\nEs heißt, das Bauwerk gleiche einer Galerie.
+MID_Spot_DamasenPass: Kap Damasen
+MID_H_Spot_DamasenPass: Ein Kap an der Spitze der Halbinsel. Sachen\naus dem Meer Lir schwemmen oft hier an.
+MID_Spot_GiantBirdJaw: Raubvogelschlund
+MID_H_Spot_GiantBirdJaw: Eine Lichtung im Wald, die man auf dem\nWeg zum Kap durchquert.
+MID_Spot_MardleAltar: Mahdels Schrein
+MID_H_Spot_MardleAltar: Ein zeremonieller Altar, der einst am Orts-\nrand stand. Er ist inzwischen abgebrannt.
+MID_Spot_HermitHut: Bergeinsiedelei
+MID_H_Spot_HermitHut: Eine bescheidene Hütte auf dem Berg\nOrgus, in der ein alter Mann lebt.
+MID_Spot_DeathValley: Das Tal des Todes
+MID_H_Spot_DeathValley: Ein Tal voll mit giftigen Vulkangasen. Es\nzu durchqueren, kann tödlich enden.
+MID_H_Spot_DeathValley_Gate: Ein Tor zur Unterwelt, das in der Vulkan-\nregion im nordwestlichen Dagda erschien.
+MID_Spot_ProntesLake: See Brontes
+MID_H_Spot_ProntesLake: Ein wunderschöner See in Cybele.\nEr enthält eine riesige Wassermenge.
+MID_Spot_ClyteiosPlain: Ebene von Klytius
+MID_H_Spot_ClyteiosPlain: Eine weite Ebene zwischen dem Grasland\num Dagsion und den Wäldern im Süden.
+MID_Spot_AtlaSummit: Atla-Gipfel
+MID_H_Spot_AtlaSummit: Der höchste Gipfel des Iapetus-Gebirges.\nEin Ort der Legenden und Sagen.
+MID_Spot_OracleFalls: Orakel-Wasserfall
+MID_H_Spot_OracleFalls: Ein kleiner Wasserfall. Laut Legende sagt\nhier ein hinreißender Geist Besuchern wahr.
+MID_Spot_BernardPass: Bernard-Pass
+MID_H_Spot_BernardPass: Ein Bergpass zu Kallas Tempel. Er wird\nhäufig von Händlern und Künstlern benutzt.
+MID_Spot_AlcineusBridge: Viadukt von Alcineus
+MID_H_Spot_AlcineusBridge: Eine riesige Brücke. Sie liegt westlich\nder kaiserlichen Hauptstadt Dagsion.
+MID_Spot_EnceladusBridge: Enceladus-Brücke
+MID_H_Spot_EnceladusBridge: Eine gewaltige Brücke. Sie liegt östlich\nder kaiserlichen Hauptstadt Dagsion.
+MID_Spot_TarbosPlain: Tarvos
+MID_H_Spot_TarbosPlain: Eine Wüstenebene. Hier fand eine der be-\nrühmtesten Schlachten der Geschichte statt.
+MID_H_Spot_TarbosPlain_Gate: Ein Tor zur Unterwelt, das sich am Ort\neiner berüchtigten Schlacht geöffnet hat.
+MID_Spot_CougarRoof: Berglöwen-Gebirge
+MID_H_Spot_CougarRoof: Eine Bergkette, die über einen großen Wald\nragt. Riesen sollen sie angehoben haben.
+MID_Spot_SidemValley: Sedden-Tal
+MID_H_Spot_SidemValley: Ein Tal aus den Sagen über die Riesen des\nLands. Eine Faust soll es geöffnet haben.
+MID_Spot_SaltLake: See Zorto
+MID_H_Spot_SaltLake: Ein See mit salzigem Wasser, das definitiv\nnicht trinkbar ist.
+MID_Spot_NereusCape: Kap Nereus
+MID_H_Spot_NereusCape: Ein Wüstenkap. Feuchte Meereswinde\nführen hier zu vielfältigem Pflanzenwuchs.
+MID_Spot_StrandedShip: Gestrandetes Schiff
+MID_H_Spot_StrandedShip: Die Überreste eines in der Meerenge von Bran\ngestrandeten Schiffs von unklarer Herkunft.
+MID_Spot_PyroxeneCave: Pyroxenhöhle
+MID_H_Spot_PyroxeneCave: Eine Höhle voll nützlicher abbaubarer Mine-\nralien, in der viele ihr Glück versuchen.
+MID_Spot_IcarosTower: Ikaros-Turm
+MID_H_Spot_IcarosTower: Eine Turmruine, deren Alter und Zweck\nunbekannt sind.
+MID_Spot_PanjaBay: Pasha-Bucht
+MID_H_Spot_PanjaBay: Eine große Bucht an der Mündung des\nTalto. Hier kann man hervorragend angeln.
+MID_Spot_MagicGrassColony: Sonnengarten
+MID_H_Spot_MagicGrassColony: Ein in sanftes Sonnenlicht getauchter Gar-\nten auf einer Ebene zwischen den Bergen.
+MID_Spot_LaughingRock: Schmunzelfels
+MID_H_Spot_LaughingRock: Ein Felsen in Form eines schmunzelnden\nalten Gesichts. Ein Orientierungspunkt.
+MID_Spot_BaptismalAltar: Schrein der Läuterung
+MID_H_Spot_BaptismalAltar: Ruinen mit einem Altar, an dem sich Yu\nPhas für ihre Hochzeit geläutert haben soll.
+MID_Spot_MurkibelWetland: Moor von Mulciber
+MID_H_Spot_MurkibelWetland: Ein uraltes Schlachtfeld. Es heißt, die Toten\nwürden hier im Nebel wieder erscheinen.
+MID_Spot_RadonLake: See Ladon
+MID_H_Spot_RadonLake: Ein in einem riesigen Sumpf gelegener See.\nEr ist ein hervorragendes Angelrevier.
+MID_Spot_PelusaCape: Kap Peluza
+MID_H_Spot_PelusaCape: Ein Kap mit Blick auf die Danannsee. Es ist\nberühmt für die wunderschöne Aussicht.
+MID_Spot_BellatoriValley: Velatori-Tal
+MID_H_Spot_BellatoriValley: Felslücke unweit des ausgewaschenen Tals\nam Handelsweg. Eine Person passt durch.
+MID_Spot_KosharooLake: See Kothar
+MID_H_Spot_KosharooLake: Ein See, der durch den Überlauf des Baal-\nSees entstand. Er liegt am Ufer des Sobek.
+MID_Spot_DeimosPlateau: Daimos-Hochland
+MID_H_Spot_DeimosPlateau: Ein Plateau auf den Grasebenen. Vor langer\nZeit ereignete sich hier etwas Schreckliches.
+MID_H_Spot_DeimosPlateau_Gate: Ein Tor zur Unterwelt, das in der Nähe des\nKönigreichs Brezarant erschienen ist.
+MID_Spot_AxionValley: Axion-Schlucht
+MID_H_Spot_AxionValley: Ein riesiges Tal nahe der Straße von Sara-\nmis. Es verläuft entlang eines Gebirgsbachs.
+MID_Spot_MountAegina: Berg Aegina
+MID_H_Spot_MountAegina: Ein Berg, der aufgrund seiner übernatürlich\nwirkenden Schönheit als heilig gilt.
+MID_Spot_DragdenPass: Dragdon-Pass
+MID_H_Spot_DragdenPass: Eine Nebenstraße durch die Berge. Es heißt,\nsie führe an geheimnisvollen Ruinen vorbei.
+MID_Spot_GoddessGate: Portal der Göttin
+MID_H_Spot_GoddessGate: Ein Monument in Form eines Tors, erbaut\nzum Gedenken an Yu Phas Hochzeit.
+MID_Spot_DubePass: Dubhe-Straße
+MID_H_Spot_DubePass: Eine Handelsroute am Rand der Wüste. Rei-\nsende kommen hier oft vom Weg ab.
+MID_Spot_MountAle: Ere-Gebirge
+MID_H_Spot_MountAle: Eine Bergregion, die den größten Teil Cydo-\nnias ausmacht. Eine Straße führt hindurch.
+MID_H_Spot_MountAle_Gate: Ein Tor zur Unterwelt, das an dem Ort, der\nals Eingang von Arago gilt, erschienen ist.
+MID_Spot_TacitPlain: Ebene von Tasit
+MID_H_Spot_TacitPlain: Eine Lichtung im Wald, an der eine schwere\nStille über allem liegt.
+MID_Spot_StarPass: Sternenlicht-Pass
+MID_H_Spot_StarPass: Ein Pass am Fuße des Tempels der Aurora,\nals Ort für Sternenbeobachtung sehr beliebt.
+MID_Spot_MegrezRuins: Megrez-Ruinen
+MID_H_Spot_MegrezRuins: Ein Dorf, das aufgrund der Vergiftung des\nBodens aufgegeben und verlassen wurde.
+MID_Spot_KulderindeRuins: Kurdelind-Ruinen
+MID_H_Spot_KulderindeRuins: Ruinen des alten Königreichs Djilu, das dem\nÜberfall durch die Mosa zum Opfer fiel.
+MID_H_Spot_KulderindeRuins_Gate: Ein Tor zur Unterwelt, das im Süden\nDagdas steht – und sogar die Mosa bedroht.
+MID_Spot_SunPass: Sonnenwacht-Pass
+MID_H_Spot_SunPass: Ein Pass an einem leichten Abhang, be-\nnannt nach Lord Solel, dem Sonnenbringer.
+MID_Spot_AfarGate: Tor von Afar
+MID_H_Spot_AfarGate: Eine torartige Steinformation, angeblich der\nEingang des einstigen Königreichs Solomon.
+MID_Spot_MegaelaLighthouse: Leuchtturm Megaira
+MID_H_Spot_MegaelaLighthouse: Ein Leuchtturm neben der Stadt Megaira,\nder Schiffe sicher über die Danannsee leitet.
+MID_Spot_SilenceTown: Totenstadt des Schweigens
+MID_H_Spot_SilenceTown: Ein unterirdischer Friedhof unweit von Dag-\nsion. Man sagt, er sei so groß wie eine Stadt.
+MID_Spot_ImplicitGraveyard: Stumme Gräber
+MID_H_Spot_ImplicitGraveyard: Ein im Wald verborgener Friedhof. Alte da-\nmascarer Grabsteine sind hier aufgereiht.
+MID_Spot_SecretAltar: Geheimer Altar
+MID_H_Spot_SecretAltar: Man sagt, hier sei es möglich, mit den\nGeistern des Waldes zu kommunizieren.
+MID_Spot_TritpatelCorridor: Tritopater-Korridor
+MID_H_Spot_TritpatelCorridor: Eine Art Naturfestung mit steilen Felswän-\nden, die so etwas wie einen Irrgarten bilden.
+MID_Spot_RyozanFort: Festung Lyoshan
+MID_H_Spot_RyozanFort: Ruinen einer Festung auf dem Moor. Einst\nfanden Banditen hier Unterschlupf.
+MID_Spot_TartarusRuins: Gr. Tartarus-Ruinen
+MID_H_Spot_TartarusRuins: Ein uraltes unterirdisches Bauwerk. Seine\nDecke brach ein und offenbarte es der Welt.
+MID_Spot_MahamadouShrine: Schrein von Mahadu
+MID_H_Spot_MahamadouShrine: Angeblich die Ruhestätte von Mahadu, der\ndas Königreich von Saramis aufbaute.
+MID_Spot_LaManchaFort: La-Mancha-Ruinen
+MID_H_Spot_LaManchaFort: Die Ruine einer legendären Festung der Rie-\nsen und Schlachtfeld beim Zodiakus-Vorfall.
+MID_Spot_OrionValley: Orion-Schlucht
+MID_H_Spot_OrionValley: Ein berühmtes Tal aus der Legende von\nArago. Es ist in dichtes Miasma gehüllt.
+MID_Spot_AugusMountain: Weg über Berg Orgus
+MID_H_Spot_AugusMountain: Ein zerklüfteter Pfad. Der tapfere Recke\nBreza soll hier einst trainiert haben.
+MID_Spot_SunsetFort: Abendlicht-Festung
+MID_H_Spot_SunsetFort: Eine verlassene Festung. Bei Sonnenunter-\ngang war sie einst ein herrlicher Anblick.
+MID_Spot_AddaFort: Feste-Ada-Ruinen
+MID_H_Spot_AddaFort: Überreste einer alten Festung. Reisende ori-\nentierten sich daran auf dem Weg zur Oase.
+MID_Spot_YashiroFort: Festung Yashiro
+MID_H_Spot_YashiroFort: Eine Festung, die zur Überwachung der\nStraße zum Iapetus-Gebirge dient.
+MID_Spot_LargeLighthouse: Großer Leuchtturm
+MID_H_Spot_LargeLighthouse: Ein Leuchtturm des Kaiserreichs, erbaut als\nWegweiser für Schiffe auf der Danannsee.
+MID_Spot_NamelessGrave: Namenlose Gräber
+MID_H_Spot_NamelessGrave: Ein Ort mit zahlreichen Grabsteinen.\nKrieger aus alter Zeit ruhen an diesem Ort.
+MID_Spot_PileStones: Kieselberg
+MID_H_Spot_PileStones: Trotz der nützlichen Mineralien an diesem\nOrt ist der Weg hierher vielen zu weit.
+MID_Spot_DawnForest: Wald der Rätsel
+MID_H_Spot_DawnForest: Auf diesem Tierpfad kann man sich leicht\nverirren. Einheimische benutzen ihn ungern.
+MID_Spot_WhisperingRock: Flüsterfelsen
+MID_H_Spot_WhisperingRock: Einem offenen Mund gleichende Formation.\nHier klingt Wellenrauschen wie Geflüster.
+MID_Spot_NightPass: Mitternachtswende
+MID_H_Spot_NightPass: Aufgrund des Geländes erreicht kaum Son-\nnenlicht den Pass. Er ist fast immer dunkel.
+MID_Spot_DawnPlains: Ebene der Morgenröte
+MID_H_Spot_DawnPlains: Eine Ebene in der Nähe von Solels Tempel,\nbenannt nach dem Sonnenbringer selbst.
+MID_Spot_MerakuPass: Merak-Pass
+MID_H_Spot_MerakuPass: Ein Pass an der Straße im Norden Aragos.\nViele Reisende sind hier unterwegs.
+MID_Spot_GorbeaGate: Gorbea-Ruinen
+MID_H_Spot_GorbeaGate: Überreste eines alten Kontrollpunktes am\nEnde der Wüste, kaum zu übersehen.
+MID_Spot_FogPlains: Ebene des Ewigen Nebels
+MID_H_Spot_FogPlains: Eine nebelverhangene Ebene, auf der viele\nKreaturen leben und man kaum etwas sieht.
+MID_Spot_MadhuRuins: Überreste von Madieu
+MID_H_Spot_MadhuRuins: Ein felsiges Ruinenfeld aus der Zeit vor der\nGründung des Kaiserreichs.
+MID_Spot_GranadaFort: Ruinen der Feste Granada
+MID_H_Spot_GranadaFort: Ruinen einer Festung, die zusammen mit dem\nBollwerk Xantha einst die Straßen sicherte.
+MID_Spot_ZoteauLake: See Zeet
+MID_H_Spot_ZoteauLake: Ein riesiger See am Hang des Ere-Gebirges,\nin dem einzigartige Fischarten leben.
+MID_Spot_BurntGrass: Brandgras-Dünen
+MID_H_Spot_BurntGrass: Sanddünen am äußeren Rand der Wüste.\nDas Gras kann sich spontan entzünden.
+MID_Spot_UtunaPass: Utuna-Pass
+MID_H_Spot_UtunaPass: Ein Pass an einer Bergstraße. Die Aussicht\nist schlecht und es gibt hier viele Banditen.
+MID_Spot_SonaiPass: Sonai-Pass
+MID_H_Spot_SonaiPass: Ein Pass an einer Weggabelung. Man sagt,\nhier gebe es verborgene heiße Quellen.
+MID_Spot_Clove: Grube Krove
+MID_H_Spot_Clove: Wann diese Grube entstand, ist unbekannt.\nAuf dem Grund soll eine heiße Quelle sein.
+MID_H_Spot_Clove_Gate: Ein Tor zur Unterwelt, das in dieser großen\nGrube unbekannten Alters erschienen ist.
+MID_Spot_AlmaPlains: Großebene von Alma
+MID_H_Spot_AlmaPlains: Eine weite, von Bergen umgebene Ebene.\nDie wichtigste Getreideregion des Reiches.
+MID_Spot_FaroForest: Wald von Faro
+MID_H_Spot_FaroForest: Ein Wald, der durch die vielen Elemente\naus der Umgebung weißlich erscheint.
+MID_Spot_BlackWingValley: Schwarzflügel-Tal
+MID_H_Spot_BlackWingValley: Ein tiefes Tal, das das Eindringen von Menschen\nablehnt. Hier leben verschiedene Pegasus-Arten.
+MID_Spot_BlueCave: Blaue Grotte
+MID_H_Spot_BlueCave: Eine seltsame Höhle, die Erze aus der See\nbirgt, obwohl sie in einer Wüste liegt.
+MID_Spot_UnexploredOasis: Einsame Oase
+MID_H_Spot_UnexploredOasis: Eine unbewohnte Oase, in der viele\nverschiedene Pflanzen gedeihen.
+MID_Spot_DragonEyeTower: Drachenaugenturm
+MID_H_Spot_DragonEyeTower: Ein aus Sagen und Legenden bekannter\nTurm. Angeblich hat man ihn nie erreicht.
+MID_Spot_VarnaIslands: Inseln von Varuna
+MID_H_Spot_VarnaIslands: Seeleute meiden diese Inseln wegen der\nverschlungenen Strömungen in ihrer Nähe.
+MID_Spot_ShipGraveyard: Schiffsfriedhof
+MID_H_Spot_ShipGraveyard: Unter Seeleuten ist dieser Ort als letzte\nRuhestätte für gesunkene Schiffe berüchtigt.
+MID_Spot_DemonSea: Dämonengewässer
+MID_H_Spot_DemonSea: Kaufleute fürchten diese Gewässer aufgrund\nder zahlreichen räuberischen Piraten.
+MID_Spot_StMeridaIslands: Inseln von St. Merida
+MID_H_Spot_StMeridaIslands: Eine Region, die aus Legenden bekannt ist.\nWenige wissen jedoch, wo sie sich befindet.
+MID_Spot_SocieBay: Bucht von Socie
+MID_H_Spot_SocieBay: Diese Bucht gilt als das Tor nach Dagsion.\nSie ist ein artenreiches Fischfanggebiet.
+MID_Spot_CharybdisMaelstrom: Strudel von Charybdis
+MID_H_Spot_CharybdisMaelstrom: Eine Region, in der aufgrund des Geländes\nund der Strömungen oft ein Strudel entsteht.
+MID_Spot_VatahaReef: Vataha-Riff
+MID_H_Spot_VatahaReef: Gefährliche Stelle im Danann-Zirkulations-\nkorridor. Ein falsches Manöver und...
+MID_Spot_SilenceSea: Stilles Meer
+MID_H_Spot_SilenceSea: Ein ruhiges Küstengewässer nahe der Straße\nvon Aonghas. Südlich davon liegt ein Riff.
+MID_Spot_FishReef: Fischreiches Riff
+MID_H_Spot_FishReef: Boote aus nahegelegenen Siedlungen sowie\naus Megaira kommen in dieses Fanggebiet.
+MID_Spot_OleansPlain: Ebene von Oleance
+MID_H_Spot_OleansPlain: Die größte Ebene von ganz Melias. Viele\nTiere leben auf diesem fruchtbaren Grund.
+MID_Spot_JorePass: Feste-Djolé-Ruinen
+MID_H_Spot_JorePass: Ein Gebirge am Wüstenrand. Man sieht von\nhier die Mauern des Verbotenen Landes.
+MID_Spot_MountainBack: Hinterer Gebirgspfad
+MID_H_Spot_MountainBack: Ein steiler Bergpfad. Asketen des Tempels\nbenutzen ihn, um zum Gipfel zu gelangen.
+MID_Spot_ZanzibarFortress: Festung Zanbar
+MID_H_Spot_ZanzibarFortress: Ursprünglich ein Schloss der Mosa, das\nSaramis zu einer Festung ausgebaut hat.
+MID_Spot_PelusaCoast: Golf von Peluza
+MID_H_Spot_PelusaCoast: Das Seegebiet vor dem Kap Peluza. Viele\nPiraten der Danannsee halten sich hier auf.
+MID_Spot_EndeWhirlpool: Edne-Strudel
+MID_H_Spot_EndeWhirlpool: In diesem Gebiet lassen Untergrund und\nGezeiten viele kleine Strudel entstehen.
+MID_Spot_GhostsSea: See der Sieben Geister
+MID_H_Spot_GhostsSea: Eine unheimliche Insel ragt in der Ferne aus\nder See. Generell meiden Schiffe das Gebiet.
+MID_Spot_PandoraFishNest: Untiefe von Pandora
+MID_H_Spot_PandoraFishNest: Ein reiches Fanggebiet am Meer Lir. Der\nHafen von Pandora profitiert davon.
+MID_Spot_WindlessDesert: Windlose Ödnis
+MID_H_Spot_WindlessDesert: Ein seltsames Gebiet, in dem trotz des\noffenen Geländes nie ein Wind weht.
+MID_Spot_SandLoophole: Wüstenfluchtweg
+MID_H_Spot_SandLoophole: Wer sich in der Wüste verirrt, kommt mit\netwas Glück an diesem Ort wieder heraus.
+MID_Spot_SandPillar: Sandsäulen
+MID_H_Spot_SandPillar: Ein mysteriöser Ort voller seltsam geformter\nSandsäulen, die bis zum Horizont reichen.
+MID_Spot_SkeletonQuicksand: Leichenfluss
+MID_H_Spot_SkeletonQuicksand: Der Endpunkt eines Treibsandstroms. Wer\nhineingerät, kommt nicht wieder heraus.
+MID_Spot_GaeGraveyard: Friedhof Gê
+MID_H_Spot_GaeGraveyard: Überreste eines alten Schlachtfelds. Rostige\nMetallsäulen ragen wie Grabmale empor.
+MID_Spot_Tristan: Antike Stadt Tristan
+MID_H_Spot_Tristan: Ruinen der Hauptstadt von Iskandariya,\neiner Nation, die in der Antike florierte.
+MID_Spot_SandGarden: Gärten der Wüste
+MID_H_Spot_SandGarden: Ein relativ sicherer Ort am Rand der Wüste.\nHier wachsen verschiedene Pflanzenarten.
+MID_Spot_SandwormNest: Sandwurm-Nest
+MID_H_Spot_SandwormNest: Ein Felsvorsprung, auf dem viele\nSandwürmer der Wüste ihre Eier ablegen.
+MID_Spot_LindrakeRockBelt: Felsen von Lindrake
+MID_H_Spot_LindrakeRockBelt: Einzigartige, geometrische, natürliche Fels-\nformationen, die nur hier zu finden sind.
+MID_Spot_SilentAndromeda: Stille Andromeda
+MID_H_Spot_SilentAndromeda: Eine seltsame künstliche Platte, die am\nRand der Großen Tartarus-Ruinen liegt.
+MID_Spot_BalorIsland: Insel des Balor
+MID_H_Spot_BalorIsland: Auch die Insel der Trauer genannt. Der\nDämonengott Balor soll hier schlummern.
+MID_Spot_HorizonCrossing: Vierung des Horizonts
+MID_H_Spot_HorizonCrossing: Eine Wegkreuzung an der Küste. Von hier\naus kann man das Kap Peluza erreichen.
+MID_Spot_ElissaPass: Elissa-Pass
+MID_H_Spot_ElissaPass: Ein recht sicherer Pass auf der Straße nach\nCarmenta in der Nähe von Dagsion.
+MID_Spot_BreezeHill: Brisenhügel
+MID_H_Spot_BreezeHill: Ein Hügel, auf dem immer eine angenehme\nBrise weht. Mit toller Aussicht auf Dagsion.
+MID_Spot_DesertEntrance: Tor zur Wüste
+MID_H_Spot_DesertEntrance: Jenseits dieses Punkts liegt eine gefahrvolle\nWüste.
+MID_Spot_DeathGarden: Garten des Zorns
+MID_H_Spot_DeathGarden: Der Zorn der gefallenen Damascarer soll die\nBlumen an diesem Ort violett gefärbt haben.
+MID_Spot_NarrowPath: Faulholzpass
+MID_H_Spot_NarrowPath: Eine Straße nach Ahm Lu, der Hauptstadt\nDamascars. Auch als Pilgerpfad bekannt.
+MID_Spot_PanjaCurrent: Pasha-Strömungen
+MID_H_Spot_PanjaCurrent: Ein Zusammenfluss im Meer Lir. Jede Strö-\nmung verläuft in eine andere Richtung.
+MID_Spot_DioneCurrent: Dione-Strömung
+MID_H_Spot_DioneCurrent: Gewässer, in denen die Pasha-Strömungen\nkomplexer werden.
+MID_Spot_MoonlightSea: Meer der Schreie
+MID_H_Spot_MoonlightSea: Ein Gewässer nahe Adrestia in Fódlan.\nViele Schiffe erleiden hier Schiffbruch.
+MID_Spot_NizaGate: Tor von Niiza
+MID_H_Spot_NizaGate: Ein Ort vor der Küste des Hafens von Niiza.\nDie zwei Felssäulen hier ähneln einem Tor.
+MID_Spot_CoralSea: Meer Montastraea
+MID_H_Spot_CoralSea: Ein Gebiet mit Untiefen und schönen Koral-\nlenriffen. Seefahrer sollten vorsichtig fahren.
+MID_Spot_SharkNest: Höhle der Großen Haie
+MID_H_Spot_SharkNest: Ein Gewässer mit zahlreichen Haien, die zu-\nweilen sogar Meeresbestien angreifen sollen.
+MID_Spot_AifStrait: Kanal von Eif
+MID_H_Spot_AifStrait: Ein Kanal in der Nähe von Fódlan, gleich\nneben der Insel Eif.
+MID_Spot_SandPath: Treibsandstraße
+MID_H_Spot_SandPath: Je weiter westlich man hier geht, desto\nstärker wird der Sog des Treibsands.
+MID_Spot_HorusStrait: Kanal von Horus
+MID_H_Spot_HorusStrait: Eine gefährliche Meerenge zwischen Dagda\nund dem Land von Banbha.
+MID_Spot_UnderwaterCave: Meereshöhle
+MID_H_Spot_UnderwaterCave: Auf dem Meeresboden ist der Eingang zu ei-\nner Höhle sichtbar, jedoch kaum erreichbar.
+MID_Spot_TravelerHill: Hügel des Reisenden
+MID_H_Spot_TravelerHill: Ein Hügelgebiet an der Grenze zu Amalthea\nmit einer herrlichen Aussicht.
+MID_Spot_NeckRock: Scharfrichterfels
+MID_H_Spot_NeckRock: Ein Felsen, der eine alte Hinrichtungsstätte\nmarkiert. Einheimische meiden diesen Ort.
+MID_Spot_WarriorPath: Straße der Krieger
+MID_H_Spot_WarriorPath: Krieger aus Brezarant benutzen diese Berg-\nstraße, um den Berg Orgus zu erklimmen.
+MID_Spot_SedoFort: Festung Theed
+MID_H_Spot_SedoFort: Diese Festung dient zur Verteidigung der\nöstlichen Regionen des Königreichs Arago.
+MID_Spot_SunsetRoad: Pfad der Dämmerung
+MID_H_Spot_SunsetRoad: Streifen von Sonnenlicht fallen durch die\nLaubbäume am Wegrand dieses Bergpfads.
+MID_Spot_SendRock: Felsen des Abschieds
+MID_H_Spot_SendRock: Einer von drei Felsen. Man sagt, hier zu be-\nten würde alle Trennungsschmerzen lindern.
+MID_Spot_ConnectRock: Felsen des Bleibens
+MID_H_Spot_ConnectRock: Einer von drei Felsen. Man sagt, hier zu\nbeten würde die Liebe füreinander stärken.
+MID_Spot_CirclRock: Felsen des Anfangs
+MID_H_Spot_CirclRock: Einer von drei Felsen. Man sagt, hier zu\nbeten könne neue Beziehungen bringen.
+MID_Spot_WalleForest: Wald von Walle
+MID_H_Spot_WalleForest: Eine Handelsstraße führt durch diesen\nWald. Abseits des Wegs lauern Bestien.
+MID_Spot_WeepingForest: Klagewald
+MID_H_Spot_WeepingForest: Ein Heulen hallt durch diesen Wald, wenn\nder Wind durch seine Laubbäume weht.
+MID_Spot_SparrowStreet: Spatzenpfad
+MID_H_Spot_SparrowStreet: Laut einer örtlichen Sage sollen sich Reisen-\nde auf dieser Route beschwingt fühlen.
+MID_Spot_InsectHole: Käferbau
+MID_H_Spot_InsectHole: Eine Höhle, in der zahlreiche Schwärme von\nInsekten zu finden sind.
+MID_Spot_DuelSquare: Lichtung der Krieger
+MID_H_Spot_DuelSquare: Eine kleine Waldlichtung, auf der Krieger\nmanchmal Duelle ausfechten.
+MID_Spot_MordoFort: Alte Festung Moldo
+MID_H_Spot_MordoFort: Diese derzeit unbemannte Festung würde\nim Notfall genutzt, um Elektra zu schützen.
+MID_Spot_BottomlessSand: Bodenlose Sandgrube
+MID_H_Spot_BottomlessSand: Eine Treibsandgrube. Wer hineingerät,\nkommt nicht wieder lebend heraus.
+MID_Spot_DeadMound: Hügel der Gefallenen
+MID_H_Spot_DeadMound: Hügelgräber, gedacht für die Seelenruhe der\nim Moor von Mulciber gefallenen Krieger.
+MID_Spot_TarbosNorth: Tarvos-Nordstraße
+MID_H_Spot_TarbosNorth: Eine Wegscheide im Norden der Ebene von\nTarvos. Dahinter ist meilenweit nur Sand.
+MID_Spot_TarbosSouth: Tarvos-Südstraße
+MID_H_Spot_TarbosSouth: Eine Wegscheide im Süden der Ebene von\nTarvos. Dahinter ist meilenweit nur Sand.
+MID_Spot_NyasaVillage: Nyassa-Ruinen
+MID_H_Spot_NyasaVillage: Eine Geisterstadt, verlassen und verwahrlost\nnach dem Angriff von Dämonenbestien.
+MID_Spot_BeastGorge: Heulende Schlucht
+MID_H_Spot_BeastGorge: Eine Schlucht am Berg des Feuers, in der\ndas Heulen von Dämonenbestien widerhallt.
+MID_Spot_MuzuraCave: Totenhöhle Muzura
+MID_H_Spot_MuzuraCave: Das giftige Gas vom Berg des Feuers kom-\npliziert hier den Abbau von Mineralien.
+MID_Spot_KnorrCave: Knohrhöhle
+MID_H_Spot_KnorrCave: Eine kleine Berghöhle, in der Reisende zum\nBerg des Feuers Rast machen können.
+MID_Spot_OsirisAltar: Schrein von Osiris
+MID_H_Spot_OsirisAltar: Ein einzigartiger Schrein, an dem die\nSchamanen aus dem Dorf Osiris beten.
+MID_Spot_SandMountain: Turmhohe Düne
+MID_H_Spot_SandMountain: Eine Sanddüne unweit der Wüste. Sie\nist wegen der großartigen Aussicht bekannt.
+MID_Spot_MemorialGarden: Garten des Gedenkens
+MID_H_Spot_MemorialGarden: Ein Blumengarten auf einer Waldlichtung.\nHier blühen seltene Blumen aus dem Süden.
+MID_Spot_StarGarden: Sternenfallgarten
+MID_H_Spot_StarGarden: Es heißt, dieser Blumengarten sei vor langer\nZeit durch den Fall eines Sterns entstanden.
+MID_Spot_GiantHill: Berg des Riesen
+MID_H_Spot_GiantHill: Einer Legende zufolge lebte auf diesem\nHügel einst eine Gruppe von Riesen.
+MID_Spot_AzureCave: Smaragdgrüne Höhlen
+MID_H_Spot_AzureCave: Grün leuchtende Höhlen von geringer Tiefe.\nIm Inneren ist hochwertiges Erz zu finden.
+MID_Spot_AshTower: Uralter Aschenturm
+MID_H_Spot_AshTower: Ein kleiner Turm, in dem einst ein Magier\nsein zurückgezogenes Leben führte.
+MID_Spot_CeleIsland: Insel Thiere
+MID_H_Spot_CeleIsland: Eine kleine Insel vor der Küste von Saramis.\nHier wohnen viele geschickte Fischer.
+MID_Spot_DadaPlain: Ebene von Dada
+MID_H_Spot_DadaPlain: Einst ein Wald voller Guibougabäume. Dag-\nda ließ sie fällen, um Kriegsschiffe zu bauen.
+MID_Spot_UzumariCoast: Uzmali-Küste
+MID_H_Spot_UzumariCoast: Ein schöner Sandstrand. In der Ferne sieht\nman von hier aus auch eine ominöse Insel.
+MID_Spot_ValerieCanyon: Valeri-Schlucht
+MID_H_Spot_ValerieCanyon: Eine ruhige Schlucht. Vor dem Bau Dagsi-\nons soll es hier einen Fluss gegeben haben.
+MID_Spot_SunshinePass: Sonnenscheinpass
+MID_H_Spot_SunshinePass: Ein relativ leicht zu begehender Pass mit\nBlick auf Dagsion und den See Baal.
+MID_Spot_MountUranus: Berg Ouranos
+MID_H_Spot_MountUranus: Der höchste Gipfel im Norden Dagdas. Die\nSpitze ist ganzjährig mit Schnee bedeckt.
+MID_Spot_LuminariaPass: Luminaria-Pass
+MID_H_Spot_LuminariaPass: Die Straße zu Crednas Tempel. Daneben\nerstreckt sich ein Wald in Richtung Süden.
+MID_Spot_LostSwirl: Wandernder Strudel
+MID_H_Spot_LostSwirl: Zusammenfließende Strömungen erschufen\nhier einen umherwandernden Strudel.
+MID_Spot_QuietBeach: Küste der ewigen Winde
+MID_H_Spot_QuietBeach: Aufgrund der starken Winde dieses Gebiets\ngehen nur geübte Seefahrer hier an Land.
+MID_Spot_UnmannedArmory: Einsames Lagerhaus
+MID_H_Spot_UnmannedArmory: In dieser Kammer werden die Vorräte des\nKönigreichs Arago für Notfälle gelagert.
+MID_Spot_DragonCape: Kap der Bau-Rufer
+MID_H_Spot_DragonCape: Ein Kap mit hoch aufragenden Felsklippen,\nüber die Bau ihre Kreise ziehen.
+MID_Spot_BranPlains: Ebene von Bran
+MID_H_Spot_BranPlains: Eine weite Ebene, nicht allzu weit entfernt\nvon der berüchtigten Meerenge von Bran.
+MID_Spot_TrashHole: Grünes Wunder
+MID_H_Spot_TrashHole: Eine Höhle, die sich zu einem Wald hin\nöffnet. Dort wachsen viele Pflanzenarten.
+MID_Spot_RemainForest: Wald ohne Umkehr
+MID_H_Spot_RemainForest: Letzte Anlaufstelle derjenigen, die das Trai-\nning auf dem Berg Orgus nicht aushalten.
+MID_Spot_MugliaRuins: Großer Baum Myugria
+MID_H_Spot_MugliaRuins: Ein großer Baum am Rand von Fauns Wald.\nFür viele ein Gegenstand der Verehrung.
+MID_Spot_MahripaGarden: Garten von Maharipa
+MID_H_Spot_MahripaGarden: Die örtlichen Stämme benutzen diesen Ort\ngemeinschaftlich als Grabstätte.
+MID_Spot_EndTower: Turm am Weltenrand
+MID_H_Spot_EndTower: Vor langer Zeit zur Überwachung der Meere\nim Westen erbaut, heute jedoch unbesetzt.
+MID_Spot_Monument: Heldenmut-Monument
+MID_H_Spot_Monument: Die Völker des Waldes hier schnitzten die\nHolzstatue in Andenken an einen Helden.
+MID_Spot_RillCave: Garten des Reisenden
+MID_H_Spot_RillCave: Ein Garten, der zur Feier eines Besuchs des\nlegendären Barden Cohen angelegt wurde.
+MID_Spot_ShiningHill: Leuchtender Hügel
+MID_H_Spot_ShiningHill: Der Boden dieses Orts ist sehr kristallhaltig\nund reflektiert das Licht auf besondere Art.
+MID_Spot_ChokingValley: Tal des Gegenwinds
+MID_H_Spot_ChokingValley: Ein offenes Areal tief im Tal, in dem stets\nWind weht. Pflanzen aller Art wachsen hier.
+MID_Spot_TroiaShrine: Troys Schrein
+MID_H_Spot_TroiaShrine: In diesem Schrein lebt Troy. Sie hilft den\nVölkern des Waldes, die ihr Respekt zollen.
+MID_Spot_LostForest: Wandernder Wald
+MID_H_Spot_LostForest: Ein mysteriöser, labyrinthartiger Wald. Da-\nhinter liegt der Schrein einer Einsiedlerin.
+MID_Spot_NigriaMine: Niraga-Mine
+MID_H_Spot_NigriaMine: Eine Mine in den Bergen bei Dagsion. Hier\nwerden viele Mineralien abgebaut.
+MID_Spot_EastPassage: Östliche Passage
+MID_H_Spot_EastPassage: Teil einer riesigen Anlage unter der Wüste.\nHier scheint es weiter in die Tiefe zu gehen.
+MID_Spot_ChorusMine: Coris-Mine
+MID_H_Spot_ChorusMine: Eine Mine in den Bergen von Cydonia. Ihre\nExistenz wurde geheim gehalten.
+MID_Spot_SouthPassage: Südliche Passage
+MID_H_Spot_SouthPassage: Teil einer großen Anlage unter der Wüste,\ndient zum Verlassen des Verbotenen Lands.
+MID_Spot_GullaneFort: Feste-Galen-Ruinen
+MID_H_Spot_GullaneFort: Die Ruine einer Bergfestung. Inzwischen\nhaben sich Banditen hier eingenistet.
+MID_Spot_NorthPassage: Nördliche Passage
+MID_H_Spot_NorthPassage: Teil einer großen Anlage unter der Wüste,\ndient zum Verlassen des Verbotenen Lands.
+MID_Spot_HainFortress: Festung Hayn
+MID_H_Spot_HainFortress: Eine alte Festung etwas abseits der Straße.\nNordöstlich ist ein hohes Gebäude zu sehen.
+MID_Spot_DrakeLabyrinth: Drakes Labyrinth
+MID_H_Spot_DrakeLabyrinth: Hier soll Drake, der einst die Danannsee be-\nherrschte, seinen Schatz versteckt haben.
+MID_Spot_TempleBalor: Tempel des Balor
+MID_H_Spot_TempleBalor: Der Tempel ist Balor, Gott der Unterwelt,\ngewidmet. Eine Aura des Todes umgibt ihn.
+MID_H_Spot_TempleBalor_Gate: Ein Tor zur Unterwelt, das an dem Ort\nerschien, an dem Balor einst begraben lag.
+MID_Spot_VolcanoCave: Aschenstraßenhöhle
+MID_H_Spot_VolcanoCave: Eine unheimliche Höhle, die sich zwischen\neingestürzten Felsen eines Vulkans befindet.
+MID_Spot_SandPalace: Sandpalast
+MID_H_Spot_SandPalace: Ein großer Raum unter der Wüste von Chro-\nnos. Er wird oft mit einem Palast verglichen.
+MID_Spot_DarkCave: Schattenhöhle
+MID_H_Spot_DarkCave: Eine in ominöse Dunkelheit gehüllte Höhle.\nTief im Inneren soll etwas verborgen sein.
+MID_Spot_HeathenCave: Höhle der Ketzer
+MID_H_Spot_HeathenCave: Der Legende nach verschwand eine Heilige,\ndie ihrem Glauben folgte, einst in der Höhle.
+MID_Spot_HolesCave: Höhle der 100 Löcher
+MID_H_Spot_HolesCave: Ein uralter, mysteriöser Ort. Die Löcher in\nden Wänden stammen von Menschenhand.
+MID_Spot_WaterfallCave: Wasserfallhöhle
+MID_H_Spot_WaterfallCave: Eine unheimliche Höhle, die sich hinter dem\nWasserfall von Zethus verbirgt.
+MID_Spot_Bilquis: Bilqis
+MID_H_Spot_Bilquis: Die Blätterdachstadt soll die Hauptstadt des\nantiken Königreichs Solomon gewesen sein.
+MID_Spot_FootprintFortress: Festung des Riesen
+MID_H_Spot_FootprintFortress: Eine Festung aus der Zeit des alten König-\nreichs Djilu, benannt nach einem Riesen.
+MID_Spot_IabetusCave: Iapetushöhle
+MID_H_Spot_IabetusCave: Eine große Höhle am Fuße des Iapetus-\nGebirges. Sie soll zum Atla-Gipfel führen.
+MID_Spot_NoahCave: Nowahs Höhle
+MID_H_Spot_NoahCave: Hier soll Nowah, der Einsiedler des Meeres,\nin hohem Alter zurückgezogen gelebt haben.
+MID_Spot_AnuIsland: Insel Enno
+MID_H_Spot_AnuIsland: Eine riesige, durch Erosion geformte Höhle.\nSie enthält viele nützliche Mineralien.
+MID_Spot_WalhallaMine: Valhalla-Mine
+MID_H_Spot_WalhallaMine: Eine Mine, die zahlreiche wichtige Erze für\ndas Königreich von Saramis produziert.
+MID_Spot_MysteriousIsland: Unerforschte Insel
+MID_H_Spot_MysteriousIsland: Eine kleine Insel ohne Namen. Manchmal\nunterhalten sich Seefahrer über sie.
+MID_Spot_NemeanCave: Nemeahöhle
+MID_H_Spot_NemeanCave: Höhle am Fuße des Berges Orgus. Sie birgt\nwertvolle Mineralien, aber auch Gefahren.
+MID_Spot_CougarForest: Waldgürtel der Berglöwen
+MID_H_Spot_CougarForest: Einer der dichtesten Wälder Dagdas. Viele\ngefährliche Tiere durchstreifen ihn.
+MID_Spot_RubesForest: Rubess-Wald
+MID_H_Spot_RubesForest: Ein tiefer Wald, der sich über Amalthea und\nMelias erstreckt.
+MID_Spot_ForbiddenForest: Maskierter Wald
+MID_H_Spot_ForbiddenForest: Die Tempel verbieten den Zutritt zu diesem\nWald, zum Schutz seiner Ressourcen.
+MID_Spot_CrumblingFortress: Eingestürzte Festung
+MID_H_Spot_CrumblingFortress: Eine vor langer Zeit erbaute Festung.\nInzwischen ist sie größtenteils eingestürzt.
+MID_Spot_MirageFortress: Sandschattenfestung
+MID_H_Spot_MirageFortress: Ruinen einer alten Festung in der Wüste.\nInzwischen ist sie in Vergessenheit geraten.
+MID_Spot_CurseAltar: Versiegelter Schrein
+MID_H_Spot_CurseAltar: Ein Altar westlich des Berges Aegina. Dort\nwohnen einige widerwärtige Anhänger.
+MID_Spot_DioneFort: Festung Dione
+MID_H_Spot_DioneFort: Einst sorgte diese Festung für Sicherheit auf\nder Straße, doch jetzt ist sie verlassen.
+MID_Spot_KoloiosFortress: Feste-Corroios-Ruinen
+MID_H_Spot_KoloiosFortress: Eine Festung, die entlang eines zerklüfteten\nWeges durch die Berge erbaut wurde.
+MID_Spot_KeelForest: Drachenknochenbau
+MID_H_Spot_KeelForest: Eine sagenumwobene Höhle. Man sagt, sie\nbestehe aus den Überresten eines Drachen.
+MID_Spot_MonstersTrail: Pfad der Bestie
+MID_H_Spot_MonstersTrail: Eine verborgene Höhle an einem Tierpfad.\nHier sollen Dämonenbestien heimisch sein.
+MID_Spot_AditiCave: Aditis Höhle
+MID_H_Spot_AditiCave: Eine schlundartige Höhle in der Wüste.\nHier lauern viele gefährliche Kreaturen.
+MID_BattleTitle_SavannahStreet: Straße
+MID_BattleTitle_ForestStreet: Wald
+MID_BattleTitle_TropicalForest: Regenwald
+MID_AmaltheaState: Amalthea
+MID_LambuthState: Lambath
+MID_ElectraState: Elektra
+MID_IduiaState: Idyia
+MID_CastaliaState: Castalia
+MID_TaliaState: Thaleia
+MID_SolidusState: Solidus
+MID_NysiadesState: Nysiades
+MID_BasithaState: Pasithea
+MID_BraxtheaState: Braxithea
+MID_MeliasState: Melias
+MID_SaveronState: Saveilon
+MID_OmaState: Ogmios
+MID_DananSea: Danannsee
+MID_LilSea: Meer Lir
+MID_LucileSea: Lucirsee
+MID_Solomon: Solomon
+MID_EventLocation_Zaras: Dunkelheit von Zahras
+MID_EventLocation_Obelisk: Gewölbe der Obelisken
+MID_EventLocation_SeaGod: Domäne von Cetus
+MID_EventLocation_Zenzel: Zenzeles Paradies
+MID_EventLocation_MarchingBase: Basis
+MID_EventLocation_Unknown: ???
+MID_EventLocation_SomeWhere: Ein bestimmter Ort
+MID_EventLocation_OnWay: Unterwegs
+MID_EventLocation_DagsionTempleDagsa: Tempel des Dagda
+MID_EventLocation_DagsionArena: Arena
+MID_EventLocation_UnderDagsionArena: Untergrund der Arena
+MID_EventLocation_DagsionTempleCarla: Tempel der Kalla
+MID_EventLocation_DagsionTempleSmyrnos: Tempel des Smyrnos
+MID_EventLocation_DagsionTempleClaire: Tempel des Credna
+MID_EventLocation_DagsionTempleAurora: Tempel der Aurora
+MID_EventLocation_DagsionTempleJuFas: Tempel der Yu Phas
+MID_EventLocation_DagsionTempleJura: Tempel der Jurah
+MID_EventLocation_DagsionTempleSoleil: Tempel des Solel
+MID_EventLocation_DagsionTempleMars: Tempel des Mars
+MID_EventLocation_CrystalPalace: Kristallpalast
+MID_EventLocation_NearDagsion: Nahe Dagsion
+MID_EventLocation_RoundTable: Kriegsratsraum
+MID_EventLocation_Sea: Auf hoher See
+MID_EventLocation_TheZaratan: Die Zaratan
+MID_EventLocation_Hideout: Versteck
+MID_EventLocation_MountOrgus: Berg Orgus
+MID_EventLocation_MountAtla: Berg Atla
+MID_EventLocation_UnderWorld: Die Unterwelt
+MID_EventLocation_DagsaCauldron: Dagdas Kessel

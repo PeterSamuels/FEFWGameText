@@ -1,0 +1,200 @@
+﻿MTID_Wall: Mur
+MTID_MagicBarrier: Barrière magique
+MTID_ControlDevice: Levier
+MTID_ControlDevice_SC12_03: Fortifiant
+MTID_ControlDevice_SC18_03: 
+MTID_ControlDevice_SC18_10: 
+MTID_ControlDevice_SC16_18: 
+MTID_MPSupplyDevice: Flux magique
+MTID_Launcher: Lanceur
+MTID_Lantern: Brasero
+MTID_CollapsiblePillar: Pilier fragile
+MTID_MoonlitFlower: 
+MTID_LightZOC: 
+MTID_ZOC1_SCXX_00: Cendres
+MTID_TBox: Coffre
+MTID_EmptyTBox: Coffre vide
+MTID_Door: Herse
+MTID_Bonfire: Torche
+MTID_Floor: Sol
+MTID_Deck: Pont
+MTID_Bridge: Pont
+MTID_EvasionTile: Dalle Esq
+MTID_RecoveryTile: Dalle Soin
+MTID_RecoveryTileStop: Dalle Soin (inactive)
+MTID_FastRecoveryTile: 
+MTID_DefenseTile: Dalle Prt
+MTID_DefenseTileStop: Dalle Prt (inactive)
+MTID_MagicDefenseTile: Dalle Rsl
+MTID_MagicDefenseTileStop: Dalle Rsl (inactive)
+MTID_GuardianTile: Dalle Protection
+MTID_GuardianTileStop: Dalle Prot. (inactive)
+MTID_TeleportTile: Dalle Téléport
+MTID_TeleportTileS1: Dalle Téléport (sortie)
+MTID_TeleportTileStop: Dalle Téléport (inact.)
+MTID_SummoningTile: Dalle Invocation
+MTID_OilField: Goudron
+MTID_Ballista: Baliste
+MTID_MagicCannon: Orbe feu
+MTID_Catapult: Trébuchet
+MTID_Stairs: Escalier
+MTID_Building: Édifice
+MTID_Rock: Roche
+MTID_Debris: Débris
+MTID_Mountain: Mont
+MTID_Cliff: Falaise
+MTID_LowWall: Muret
+MTID_CityWall: Rempart
+MTID_Hull: Bateau
+MTID_DarkMass: Chair des Limbes
+MTID_River: Rivière
+MTID_Waterfall: Chutes
+MTID_Pond: Étang
+MTID_Sea: Mer
+MTID_Bushes: Buissons
+MTID_Forest: Arbres
+MTID_Woods: Forêt
+MTID_DenseForest: Forêt dense
+MTID_Grove: Taillis
+MTID_DenseGrove: Fourré
+MTID_TrapTile: Piège
+MTID_Desert: Désert
+MTID_Sand: Sable
+MTID_Quicksand: 
+MTID_ToxicSwamp: Marais
+MTID_ShallowWater: Gué
+MTID_RoughTerrain: Boue
+MTID_Destructible: Poche de gaz
+MTID_SharedCarriage: Diligence
+MTID_Asphalt: Schiste bitumineux
+MTID_BarrierDevice: 
+MTID_DefendableObject: 
+MTID_ProofOfDestruction: Jeton de victoire
+MTID_Boulder: 
+MTID_DarkFlame: Brasier des Limbes
+MTID_Fire: Fournaise
+MTID_Puddle: Flaque
+MTID_Miasma: Miasmes
+MTID_StomachAcid: Acide
+MTID_FrozenFloor: Acide gelé
+MTID_HadesGate: Porte des Limbes
+MTID_HadesGround: Chair palpitante
+MTID_Barrier: Enceinte
+MTID_ThrownThunder: 
+MTID_WanderingWall: Barrière mobile
+MTID_Fence: Barricade
+MTID_GhostCarriage: Diligence fantôme
+MTID_BaptismalAltarSwitch: Mécanisme animique
+MTID_BellTower: Beffroi
+MTID_Explosive: Explosif
+MTID_ControlDevice_SC12_12: Dispositif de piège
+MTID_FunControlDevice: Bouton du ventilateur
+MTID_FunControl: Ventilateur
+MTID_Bonfire_SC13_11: Torche
+MTID_Lantern_SC13_13: Encensoir
+MTID_Lantern_SCXX_00: Encensoir
+MTID_Bonfire_SC15_06: 
+MTID_Bonfire_SC16_13: 
+MTID_Bonfire_SCXX_04: Flambeau de score
+MTID_Orichalcum: Pile d'orichalque
+MTID_AerialTerrain_Ban: Barrière
+MTID_Ground_Ban: Barrière (inactive)
+MTID_ObstacleLow: Obstacle
+MTID_Pier: Quai
+MTID_Ground: Sol
+MTID_Sky: Ciel
+MTID_Object: Obstacle
+MTID_CastleFloor: Dalle
+MTID_Mast: Mât
+MTID_NoEntry: Hors limites
+MTID_DarknessGround: Trône des Limbes
+MTID_Abyss: Gouffre
+MTID_Miasma_1: Miasmes de paresse
+MTID_Miasma_2: Miasmes d'avarice
+MTID_Miasma_3: Miasmes de duperie
+MTID_Miasma_4: Miasmes d'envie
+MTID_Miasma_5: Miasmes de colère
+MTID_Miasma_6: Miasmes d'orgueil
+MTID_Miasma_7: Miasmes de luxure
+MTID_Miasma_8: Miasmes de goinfrerie
+MTID_Miasma_9: Miasmes de peur
+MTID_Miasma_Final: Miasmes de déclin
+MTID_FlammaRiver: 
+MTID_Structure1_SC11_05: Chevalier intègre
+MTID_Structure2_SC11_05: Cheval de guerre
+MTID_Structure_SC11_06: Dagda le Grand
+MTID_Structure1_SC14_06: Édifice mystérieux
+MTID_Structure2_SC14_06: Idole géante
+MTID_Structure3_SC14_06: Idole de Mars
+MTID_Structure4_SC14_06: Idole de l'Empereur
+MTID_Structure5_SC14_06: Idole de Solel
+MTID_Structure_SC11_11: Grand arbre
+MTID_Structure_SCXX_02: Sanctuaire
+MTID_Barrel_SC15_03: 
+MTID_BrittleRock_SC18_02: 
+MTID_TrapTile_SC18_14: 
+MTID_ProofOfDestruction_Blue: 
+MTID_ProofOfDestruction_Red: 
+MTID_DeepHole_SC16_11: 
+MTID_H_ControlDevice_SC12_12: Déploie un piège magique.
+MTID_H_Unknown: ???
+MTID_H_BaptismalAltarSwitch: Désactive la barrière de l'autel.
+MTID_H_Asphalt: S'enflamme au contact du feu.
+MTID_H_BellTower: Sa destruction provoque du bruit.
+MTID_H_Bonfire_SC13_11: Prend la couleur de l'équipe en tête.
+MTID_H_Bonfire_SC14_03: Peut s'allumer.
+MTID_H_Bonfire_SC16_13: Émet de la lumière.
+MTID_H_Bonfire_SCXX_04: S'allume lorsqu'un géant meurt.
+MTID_H_ControlDevice_SC12_03: Renforce certains guerriers.
+MTID_H_ControlDevice_SC13_13_1: Contrôle les dalles Téléport.
+MTID_H_ControlDevice_SC13_13_2: Contrôle la herse.
+MTID_H_MagicBarrier: Bloque les mouvements et les attaques.
+MTID_H_Bonfire_SC15_06: L'allumer éclairera la voie.
+MTID_H_ControlDevice_SC16_18: Contrôle le débit de flamma.
+MTID_H_ControlDevice_SC18_03: Renforce Anatolia.
+MTID_H_ControlDevice_SC18_10: Permute la Déf et la Rés ennemie.
+MTID_H_Explosive: Sa destruction provoque une explosion.
+MTID_H_FlammaRiver: Ses miasmes renforcent les ennemis.
+MTID_H_FunControlDevice_SC13_09: Active le ventilateur.
+MTID_H_FunDevice_SC13_09: Disperse temporairement le brouillard.
+MTID_H_HadesGate: Alimente la barrière de Balor.
+MTID_H_HadesGate_Broken: Alimente la barrière de Balor.
+MTID_H_Lantern_SC13_13: Sa destruction réduit la Prc alentour.
+MTID_H_Lantern_SC15_05: Crée une barrière magique.
+MTID_H_Lantern_SCXX_00: Blesse les ennemis et réduit leur Mvt.
+MTID_H_Miasma_Final: Réduit les PV à chaque tour.
+MTID_H_MoonlitFlower: Éclosent à la pleine lune.
+MTID_H_PilesOfOrichalcum: Sa destruction endommage le géant.
+MTID_H_ProofOfDestruction_Blue: L'équipe qui en a le plus l'emporte.
+MTID_H_ProofOfDestruction_Red: L'équipe qui en a le plus perd.
+MTID_H_Quicksand: Emporte les unités à l'arrêt.
+MTID_H_TrapTile_SC18_14: Frappe les ennemis à l'activation.
+MTID_H_Structure1_SC11_05: Représente l'armée régulière.
+MTID_H_Structure2_SC11_05: Représente les forces rebelles.
+MTID_H_Structure_SC11_06: Représente l'Empereur Céleste Dagda.
+MTID_H_Structure1_SC14_06: Recréé d'après la tradition orale.
+MTID_H_Structure2_SC14_06: Représente un puissant géant.
+MTID_H_Structure3_SC14_06: Représente le Héraut de la Guerre.
+MTID_H_Structure4_SC14_06: Représente l'Empereur Céleste.
+MTID_H_Structure5_SC14_06: Représente l'Augure Héliaque.
+MTID_H_Structure_SC11_11: Arbre géant énigmatique.
+MTID_H_Structure_SCXX_02: Autel associé à Yu Phas.
+MTID_H_ControlDevice: Contrôle une barrière magique.
+MTID_H_TBox: Nécessite une clé.
+MTID_H_MPSupplyDevice: Alimente un Titanus en magie.
+MTID_H_Launcher: Contrôle un trébuchet.
+MTID_H_FastRecoveryTile: S'utilise une seule fois.
+MTID_H_ControlDevice_SC12_08: Contrôle la barrière des éléphants.
+MTID_H_ControlDevice_SC13_12: Contrôle une barrière magique.
+MTID_H_ControlDevice_SC14_06: Contrôle le taux d'humidité.
+MTID_H_ControlDevice_SC14_13: Contrôle et renforce une barrière.
+MTID_H_MagicBarrier_SC14_13: Bloque la téléport. et Assaut tellurique.
+MTID_H_ControlDevice_SC15_07: Renforce les géants présents.
+MTID_H_ControlDevice_SC15_15: Contrôle les pièges.
+MTID_H_ControlDevice_SC18_14: Contrôle les pièges.
+MTID_H_Ban: Rend l'attente impossible.
+MTID_H_TrapTile: Inflige des dégâts en début de phase.
+MTID_H_Destructible: Détruit les poches de gaz adjacentes.
+MTID_H_MagicBarrier_Attackable: Bloque la téléportation.
+MTID_H_NoTeleport: Téléportation impossible.
+MTID_H_ToxicSwamp: Inflige Poison en début de phase.

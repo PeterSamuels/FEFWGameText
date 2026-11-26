@@ -1,0 +1,207 @@
+﻿MID_Gmap_SpotKind_Hub: Base
+MID_Gmap_SpotKind_SimpleHub: Centro abitato
+MID_Gmap_SpotKind_Temple: Tempio
+MID_Gmap_SpotKind_Station: Stazione
+MID_Gmap_SpotKind_Gate: Presidio
+MID_Gmap_SpotKind_Explore: Esplora
+MID_Gmap_SpotKind_Banquet: Banchetto
+MID_Gmap_SpotKind_Dungeon: Rovine
+MID_Gmap_SpotKind_Construction: Area vuota
+MID_Gmap_SpotKind_Farm: Campo
+MID_Gmap_SpotKind_Animal: Animale
+MID_Gmap_SpotKind_Fort: Fortezza
+MID_Gmap_SpotKind_HellGate: Oltretomba
+MID_Gmap_SpotInfo_Recruit: Info reclutamento
+MID_Gmap_SpotInfo_Recruit_OtherLegions: {Variable=0} altr{SingularPlural0=o battaglione|i battaglioni}
+MID_Gmap_SpotInfo_Station: Destinazioni
+MID_Gmap_SpotInfo_Explore: Tasso apparizioni
+MID_Gmap_SpotInfo_Animal: Info apparizioni
+MID_Gmap_SpotInfo_Reconstruction: Materiali edili
+MID_Gmap_SpotInfo_Dungeon: Liv adatto
+MID_Gmap_SpotInfo_Dungeon_Ore: Info minerali
+MID_Gmap_SpotInfo_Dungeon_Enemy_Destroy: Nessun nemico
+MID_Gmap_SpotInfo_Dungeon_Traverse_CanTraverse: Da perlustrare
+MID_Gmap_SpotInfo_TempleWarp_Unopened: Portale degli dèi inutilizzabile
+MID_Gmap_SpotInfo_TempleWarp_Opened: Portale degli dèi utilizzabile
+MID_Gmap_SpotInfo_TempleWarp_Null: Portale degli dèi assente
+MID_Gmap_SpotInfo_ExWarp_Opened: Teletrasporto utilizzabile
+MID_Gmap_SpotInfo_HellGate_NotPredicated: Non materializzato
+MID_Gmap_SpotInfo_HellGate_Predicted: {Variable=0} {SingularPlural0=turno|turni} alla materializzazione
+MID_Gmap_SpotInfo_HellGate_Barriered: Barriera anti assalto attiva
+MID_Gmap_SpotInfo_HellGate_Activated: Assalto possibile
+MID_Gmap_SpotInfo_HellGate_Cleared: Distruggibile
+MID_Gmap_UnusableSpot: Inutilizzabile
+MID_Gmap_UnusableSpot_Temporarily: Non disponibile
+MID_Gmap_UnusableSpot_Broken: In rovina
+MID_Gmap_UnusableSpot_Miasma: Nel miasma
+MID_Gmap_DagsionHp: Resistenza Dagsion
+MID_Gmap_KeyHelp_OpenShopGuide: Negozi
+MID_Gmap_TurnStart: Inizio turno
+MID_Gmap_NextTurn: Turno successivo
+MID_Gmap_Encount_Enemy: Battaglia
+MID_Gmap_StartDefense: Pericolo
+MID_Gmap_MainQuest_Confirm: Vuoi procedere alla missione principale?
+MID_Gmap_SpotSelect_Enter_Confirm: Vuoi entrare qui: {Variable=0}?
+MID_Gmap_SpotSelect_Dungeon_Confirm: Vuoi perlustrare: {Variable=0}?
+MID_Gmap_SpotSelect_HellGate_Confirm: Vuoi lanciare l'assalto al portale dell'oltretomba?
+MID_Gmap_SpotSelect_HellGateDestroy_Confirm: Una volta distrutto il portale, la storia proseguirà. Confermi?
+MID_Gmap_CallAnimal_Confirm: Vuoi attirare un animale con questa esca?
+MID_Gmap_MakeFarm_Confirm: Vuoi creare un campo dove coltivare queste piante?
+MID_Gmap_ReMakeFarm_Confirm: Vuoi coltivare queste piante?
+MID_Gmap_BoostFarm_Confirm: Vuoi usare questo concime?
+MID_Gmap_BladeResonance_Confirm: Vuoi fare risuonare la spada?
+MID_Gmap_Recruit_Confirm: Vuoi iniziare il reclutamento?
+MID_Gmap_BoostRecruit_Confirm: Vuoi tenere un discorso di incoraggiamento?
+MID_Gmap_Show_Confirm: Vuoi esibirti?
+MID_Gmap_CorpsDelete_Confirm: Vuoi sciogliere la squadra?
+MID_Gmap_CorpsDelete_Message: La squadra è stata sciolta.
+MID_Gmap_Reconstruction_Confirm: Vuoi iniziare la ricostruzione con questi materiali?
+MID_Gmap_CoopsSelect_Message: Seleziona quali unità agiranno.
+MID_Gmap_CoopsSelect_Coops: Squadre disponibili
+MID_Gmap_CoopsSelect_Hub: Base
+MID_Gmap_CoopsSelect_Hub_Enable: Perlustrabile
+MID_Gmap_CoopsSelect_Hub_Disable: Perlustrata
+MID_Gmap_Expired_Message: È arrivato il momento fatidico. Procederai subito alla missione\nprincipale. (I PS, gli usi della magia e la sabbia divina verranno\nripristinati.)
+MID_Gmap_SideStory_End_Message: È passata la scadenza per l'{LowercaseNextLetter}{Variable=0}.
+MID_Gmap_CorpsIncreased_Message: È aumentato il numero di squadre che puoi formare.
+MID_Gmap_ShowHellGate_Message: Il miasma è stato rimosso. È ora possibile lanciare\nl'assalto al portale dell'oltretomba.
+MID_Gmap_TurnEnd_Confirm: Non hai schierato tutte le squadre disponibili.\nVuoi davvero terminare il turno?
+MID_Gmap_TurnEnd_Yes: Sì (non chiedere più)
+MID_Gmap_MakeFarm_Message: Hai creato un campo.
+MID_Gmap_BoostFarm_Message: Hai sparso il concime.
+MID_Gmap_CallAnimal_Message: Hai posizionato l'esca.
+MID_Gmap_LegionDispatch_Message: Hai schierato il battaglione.
+MID_Gmap_Reconstruction_Message: Sono iniziati i lavori di ricostruzione.
+MID_Gmap_OpenRoute_Message: La mappa ottenuta ha rivelato nuovi percorsi.
+MID_Gmap_TalkOpenExplore_Message: Hai scoperto che ci sono dei materiali qui: {Variable=0}.
+MID_Gmap_TalkOpenAnimal_Message: Hai scoperto che appaiono degli animali qui: {Variable=0}.
+MID_Gmap_ShowOpenSpot_Message: Una persona ti ha parlato di questo posto: {Variable=0}.
+MID_Gmap_BladeResonance_NoEnemy_Message: Non sono stati rilevati nemici nei paraggi.
+MID_GmapMenu_MainQuest: Missione principale
+MID_GmapMenu_MainQuest_Help: Procedi alla missione principale.\n(Il tempo libero terminerà.)
+MID_GmapMenu_SideStory: Appendice
+MID_GmapMenu_SideStory_Help: Inizia l'appendice. (Il tempo libero\nnon sarà interrotto.)
+MID_GmapMenu_Enter: Entra
+MID_GmapMenu_Enter_Help: Entra in questo luogo e giralo\nliberamente.
+MID_GmapMenu_Dungeon: Perlustra le rovine
+MID_GmapMenu_Dungeon_Help: Entra nelle rovine e perlustrale.
+MID_GmapMenu_GodlyPortal: Portale degli dèi
+MID_GmapMenu_GodlyPortal_Help: Usa uno dei Portali degli dèi disponibili\nper teletrasportarti in un altro tempio.
+MID_GmapMenu_ExPortal: Teletrasporto
+MID_GmapMenu_ExPortal_Help: Teletrasportati altrove usando\nun meccanismo di teletrasporto.
+MID_GmapMenu_Explore: Esplora
+MID_GmapMenu_Explore_Help: Esplora per trovare materiali.\nPotresti anche scoprire nuovi\nluoghi.
+MID_GmapMenu_Banquet: Banchetto
+MID_GmapMenu_Banquet_Help: Usa ingredienti per un banchetto e\nrecuperare PS e magia. Aumenta i\npunti di sostegno per tutti gli alleati.
+MID_GmapMenu_Carriage: Carro
+MID_GmapMenu_Carriage_Help: Copri grandi distanze raggiungendo\nun'altra stazione già visitata.
+MID_GmapMenu_Talk: Parla
+MID_GmapMenu_Talk_Help: Parla con le persone presenti qui.
+MID_GmapMenu_Facility: Strutture
+MID_GmapMenu_Facility_Help: Utilizza le strutture disponibili.
+MID_GmapMenu_Fix: Attendi
+MID_GmapMenu_Fix_Help: Termina le azioni e attendi.
+MID_GmapMenu_ContinueMove: Vai avanti
+MID_GmapMenu_ContinueMove_Help: Prosegui lungo il percorso.
+MID_GmapMenu_CallAnimal: Attira animale
+MID_GmapMenu_CallAnimal_Help: Posiziona un'esca per attirare\nun animale.
+MID_GmapMenu_CaptureAnimal: Cattura animale
+MID_GmapMenu_CaptureAnimal_Help: Prova a catturare l'animale\nche hai attirato.
+MID_GmapMenu_MakeFarm: Giardinaggio
+MID_GmapMenu_MakeFarm_Help: Crea un campo da coltivare\nper ottenere molte piante.
+MID_GmapMenu_ReMakeFarm: Cambia coltivazione
+MID_GmapMenu_ReMakeFarm_Help: Abbandona la coltivazione attuale\ne crea un nuovo campo.
+MID_GmapMenu_BoostFarm: Concima
+MID_GmapMenu_BoostFarm_Help: Spargi il concime sul campo per\naumentare le probabilità di\nraccogliere prodotti rari.
+MID_GmapMenu_Recruit: Recluta soldati
+MID_GmapMenu_Recruit_Help: Recluta soldati e crea un nuovo\nbattaglione.
+MID_GmapMenu_Recruit_ForceBoost: Recluta soldati +
+MID_GmapMenu_Recruit_ForceBoost_Help: Recluta soldati per i battaglioni.\nHai più probabilità che siano\nd'élite.
+MID_GmapMenu_BoostRecruit: Incoraggiamento
+MID_GmapMenu_BoostRecruit_Help: Aumenta l'efficacia quando recluti\nsoldati. Hai più probabilità che\nsiano d'élite.
+MID_GmapMenu_LegionDispatch: Schiera
+MID_GmapMenu_LegionDispatch_Explore: Schiera esploratori
+MID_GmapMenu_LegionDispatch_Explore_Help: Impegna un battaglione nella\nricerca di materiali.
+MID_GmapMenu_LegionDispatch_Reconstruction: Schiera (ricostruz.)
+MID_GmapMenu_LegionDispatch_Reconstruction_Help: Impegna un battaglione nei lavori\ndi ricostruzione.
+MID_GmapMenu_LegionReDispatch: Rischiera
+MID_GmapMenu_LegionReDispatch_Help: Ritira un battaglione e rischieralo\nqui.
+MID_GmapMenu_LegionDispatch_Fort: Schiera (difesa)
+MID_GmapMenu_LegionDispatch_Fort_Help: Impegna un battaglione nella\ndifesa di un presidio.
+MID_GmapMenu_Blade: Lamento di Responsum
+MID_GmapMenu_Blade_Help: Rivela i nemici presenti nei\nluoghi nel raggio d'azione.
+MID_GmapMenu_Show: Esibisciti
+MID_GmapMenu_Show_Help: Esibisciti in cambio di ricompense\no informazioni.
+MID_GmapMenu_CorpsCreate: Forma squadra
+MID_GmapMenu_CorpsCreate_Help: Raduna gli alleati e schierali.
+MID_GmapMenu_CorpsDelete: Sciogli squadra
+MID_GmapMenu_CorpsDelete_Help: Sciogli la squadra e invia a Dagsion\ngli alleati che la componevano.
+MID_GmapMenu_CorpsExchange: Scambia membri
+MID_GmapMenu_CorpsExchange_Help: Trasferisci alleati da una squadra\nall'altra.
+MID_GmapMenu_CorpsDivide: Dividi squadra
+MID_GmapMenu_CorpsDivide_Help: Dividi una squadra per crearne\ndue diverse da schierare.
+MID_GmapMenu_Reconstruction: Ricostruisci
+MID_GmapMenu_Reconstruction_Help: Usa i materiali richiesti per\nricostruire il luogo.
+MID_GmapMenu_DestroyMiasma: Rimuovi miasma
+MID_GmapMenu_DestroyMiasma_Help: Rimuovi uno strato di miasma.\nPiù è denso, più tentativi ci\nvorranno per dissiparlo del tutto.
+MID_GmapMenu_Hellgate: Portale dell'oltretomba
+MID_GmapMenu_Hellgate_Help: Raggiungi il portale dell'oltretomba\ne combatti contro il suo guardiano.
+MID_GmapMenu_HellgateDestroy: Distruggi il portale
+MID_GmapMenu_HellgateDestroy_Help: Distruggi un portale\ndell'oltretomba.
+MID_BanquetMenu_Help: Seleziona gli ingredienti.
+MID_BanquetMenu_Use_Food: Ingredienti
+MID_BanquetMenu_Required: Necessari
+MID_BanquetMenu_Optional: Extra
+MID_BanquetMenu_Taste: Sapore
+MID_BanquetMenu_Magic: Magie
+MID_BanquetMenu_Recovery: Recupero per unità
+MID_BanquetMenu_Recovery_HP: PS
+MID_BanquetMenu_Recovery_Magic: Usi magia
+MID_BanquetMenu_Sort_HP: Recupero PS
+MID_BanquetMenu_Sort_Magic: Recupero usi magia
+MID_BanquetMenu_Confirm: Vuoi dare inizio al banchetto con questi ingredienti?
+MID_BanquetMenu_Cancel_Confirm: Vuoi annullare il banchetto?
+MID_Gmap_Banquet_Perfect_Message: Il banchetto è stato un successo e tutti hanno recuperato PS e magia.
+MID_Gmap_Banquet_Good_Message: Tutti hanno recuperato PS e magia, ma è avanzato del cibo.
+MID_Gmap_Banquet_Bad_Message: Non c'era abbastanza cibo. Non tutti hanno recuperato PS e magia.
+MID_GmapMap_Help: Seleziona una destinazione.
+MID_GmapMap_Invalid_Message: Al momento non si può usare.
+MID_GmapMap_CorpsEmpty_Message: Non disponibile al momento.\nIl Portale degli dèi di questa base può essere utilizzato\nda un'unità che non sia {AvatarName}.
+MID_GmapMap_SpotKind_Hub: Basi
+MID_GmapMap_SpotKind_SimpleHub: Centri abitati
+MID_GmapMap_SpotKind_Temple: Templi
+MID_GmapMap_SpotKind_Station: Stazioni
+MID_GmapMap_SpotKind_Gate: Presidi
+MID_GmapMap_SpotKind_Explore: Esplora
+MID_GmapMap_SpotKind_Banquet: Banchetti
+MID_GmapMap_SpotKind_Dungeon: Rovine
+MID_GmapMap_SpotKind_Construction: Aree vuote
+MID_GmapMap_SpotKind_Animal: Animali
+MID_GmapMap_SpotKind_Fort: Fortezze
+MID_CorpsCreateMenu_Help: Seleziona le unità e crea una nuova squadra.
+MID_CorpsExchangeMenu_Help: Seleziona le unità da scambiare.
+MID_CorpsDivideMenu_Help: Seleziona le unità da inviare alla squadra derivante.
+MID_CorpsMenu_AvgLv: Liv medio
+MID_CorpsMenu_OverallHp: PS tot
+MID_CorpsMenu_OverallMagicEndure: Magia rimasta
+MID_CorpsMenu_Abilities: Talenti
+MID_CorpsMenu_CorpsName: Squadra di {Variable=0}
+MID_CorpsMenu_CorpsGroupName: Squadra di {Variable=0}
+MID_CorpsMenu_Pool: Riserve di Dagsion
+MID_CorpsMenu_Confirm: Vuoi schierare queste unità?
+MID_CorpsMenu_Cancel_Confirm: Vuoi tornare alla mappa del mondo senza schierare la squadra?
+MID_LegionDispatchMenu_Unused: Non assegnato
+MID_LegionDispatchMenu_Deployed: Assegnato
+MID_LegionDispatchMenu_Explore: Schierato (esploraz.)
+MID_LegionDispatchMenu_Reconstruction: Schierato (ricostruz.)
+MID_LegionDispatchMenu_Fort: Schierato (difesa)
+MID_LegionDispatchMenu_ExploreInfo: Quant. max
+MID_LegionDispatchMenu_FortInfo: Difesa
+MID_LegionDispatchMenu_State: Stato
+MID_LegionDispatchMenu_Dispatch_Confirm: Il battaglione è schierato qui: {Variable=0}. Vuoi\nrichiamarlo e rischierarlo nel luogo desiderato?
+MID_LegionDispatchMenu_Owner_Confirm: Il battaglione è assegnato a: {Variable=0}. Vuoi richiamarlo\ne schierarlo nel luogo desiderato?
+MID_LegionReDispatchMenu_Title: Rischiera ({Variable=0})
+MID_LegionCombackMenu_Help: Controlla come sono impegnati i battaglioni.
+MID_LegionCombackMenu_ExploreInfo: Esploraz.
+MID_LegionCombackMenu_FortInfo: Difesa
+MID_LegionCombackMenu_ReconstructionInfo: Ricostruz.

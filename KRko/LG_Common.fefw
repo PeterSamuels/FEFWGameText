@@ -1,0 +1,128 @@
+﻿MID_LGV_XXX_Ism_Closed_m01: <TH>
+MID_LGV_XXX_Ism_Closed_m01_001: (저쪽에는 볼일이 없을 것 같다)
+MID_LGV_XXX_Kai_Closed_m01: <TH>
+MID_LGV_XXX_Kai_Closed_m01_001: 저쪽에는 볼일이 없을 것 같아.
+MID_LGV_XXX_Dit_Closed_m01: <TH>
+MID_LGV_XXX_Dit_Closed_m01_001: 해야 할 일은……\n저쪽이 아닌 이곳에 있을 거다.
+MID_LGV_XXX_Seo_Closed_m01: <TH>
+MID_LGV_XXX_Seo_Closed_m01_001: 저쪽에 볼일은 없다.
+MID_LGV_XXX_Led_Closed_m01: <TH>
+MID_LGV_XXX_Led_Closed_m01_001: 지금 내가 해야 할 일은……\n적어도 이쪽엔 없을 거 같네.
+MID_LGV_XXX_Bel_Closed_m01: 
+MID_LGV_XXX_Bel_Closed_m01_001: 
+MID_LGV_XXX_Tal_Closed_m01: 
+MID_LGV_XXX_Tal_Closed_m01_001: 
+MID_LGV_XXX_Orh_Closed_m01: 
+MID_LGV_XXX_Orh_Closed_m01_001: 
+MID_LGV_XXX_Anh_Closed_m01: 
+MID_LGV_XXX_Anh_Closed_m01_001: 
+MID_LGV_XXX_Gatekeeper_Closed_m01: <TH>
+MID_LGV_XXX_Gatekeeper_Closed_m01_001: 이 앞은 출입 금지입니다.
+MID_LGA_XXX_Gatekeeper_Closed_m01: <BLN>이 앞은 출입 금지입니다
+MID_LGV_XXX_EXDungeon_Closed_m01: <TH>
+MID_LGV_XXX_EXDungeon_Closed_m01_001: <DLG>문은 아무 반응 없이\n조용히 있을 뿐이다……
+MID_LGV_1XXX_TGXX_106_m01: <TH>
+MID_LGV_1XXX_TGXX_106_m01_001: 아! 잠시만요!\n여기는 지금 통행금지입니다!
+MID_LGV_1XXX_TGXX_106_m01_002: 술집에서 손님들이 난동을 부려서\n그 뒷정리를 하느라…… 죄송합니다!
+MID_LGV_XXX_Gatekeeper_m02: <TH>
+MID_LGV_XXX_Gatekeeper_m02_001: 넌 뭐야?\n목숨이 아깝거든 얼씬대지 마라.
+MID_LGA_XXX_Gatekeeper_m02: <BLN>얼씬대지 마라
+MID_LGV_XXX_Gatekeeper_m03: <TH>
+MID_LGV_XXX_Gatekeeper_m03_001: ……아까부터 뭐야, 너는.\n얼씬거리지 말라고 했잖아!
+MID_LGV_XXX_Gatekeeper_m03_002: 내 말이 안 들리냐?\n썩 사라지라고!
+MID_LGV_XXX_Hur_Arena_m02: <TH>
+MID_LGV_XXX_Hur_Arena_m02_001: 오늘은 시합이 있는 날입니다.\n힘내세요!
+MID_LGA_XXX_Hur_Arena_m02: <BLN>오늘은 시합이 있는 날입니다
+MID_LGV_XXX_Arena_m01: <TH>
+MID_LGV_XXX_Arena_m01_001: 시합은 {SetColor=Gold}{DateTime=Month} {DateTime=Day}{SetColor=Default}에 진행됩니다.\n시합 날짜가 되면 다시 와 주십시오.
+MID_LGA_XXX_Arena_m01: <BLN>다음 시합은……
+MID_LGV_XXX_Arena_m02: <TH>
+MID_LGV_XXX_Arena_m02_001: 오늘은 시합 당일입니다.\n준비는 되셨습니까?
+MID_LGA_XXX_Arena_m02: <BLN>오늘은 시합 당일입니다
+MID_LGV_XXX_Arena_Final_m01: <TH>
+MID_LGV_XXX_Arena_Final_m01_001: 결승전은 {SetColor=Gold}{DateTime=Month} {DateTime=Day}{SetColor=Default}에 진행됩니다.\n시합 날짜가 되면 다시 와 주십시오.
+MID_LGA_XXX_Arena_Final_m01: <BLN>결승전은……
+MID_LGV_XXX_Arena_Final_m02: <TH>
+MID_LGV_XXX_Arena_Final_m02_001: 오늘 드디어 결승전이 개최됩니다.\n준비는 되셨습니까?
+MID_LGA_XXX_Arena_Final_m02: <BLN>오늘은 결승전 날입니다
+MID_LGV_XXX_Arena_Watching_m01: <TH>
+MID_LGV_XXX_Arena_Watching_m01_001: ……시합은 끝났다.\n나중에 또 보러 와라.
+MID_LGV_XXX_Elevator_m01: <TH>
+MID_LGV_XXX_Elevator_m01_001: 수상 승강기를 이용하시겠습니까?
+MID_LGV_XXX_Elevator_m01_002: <ICA>이용한다
+MID_LGV_XXX_Elevator_m01_003: <ICB>이용하지 않는다
+MID_LGA_XXX_Elevator_U_m01: <BLN>항구 근처로 가는 승강기입니다
+MID_LGA_XXX_Elevator_D_m01: <BLN>대투기장 근처로 가는 승강기입니다
+MID_LGV_XXX_Elevator_Closed_m01: <TH>
+MID_LGV_XXX_Elevator_Closed_m001_001: 지금은 승강기가 점검 중이라\n이용하실 수 없습니다.
+MID_LGA_XXX_Elevator_Closed_m01: <BLN>지금은 점검 중입니다
+MID_LGV_XXX_Departure_m01: 
+MID_LGV_XXX_Departure_m01_001: 
+MID_LGV_XXX_Departure_m01_002: 
+MID_LGV_XXX_Departure_m01_003: 
+MID_LGV_XXX_Gatekeeper_m01: <TH>
+MID_LGA_XXX_Gatekeeper_m01: 지금은 이용하실 수 없습니다!
+MID_LGV_XXX_BirdFollow_m01: <TH>
+MID_LGV_XXX_BirdFollow_m01_001: 너, 내가 이전에 말한 대로 작은 새가 되어서\n저 녀석들을 살펴보러 갔던 모양이구나.
+MID_LGV_XXX_BirdFollow_m01_002: 음? 이건……? 아무래도 너와 저 녀석들 사이에\n마음의 유대가 싹튼 것 같구나!
+MID_LGV_XXX_BirdFollow_m01_003: 그 새가 너라고는 털끝만큼도 짐작하지 못할 터……\n이런 불가사의한 일이 다 있을 줄이야.
+MID_LGV_XXX_BirdFollow_m01_004: 아마 너희는 기이한 인연으로 이어져 있는 것이겠지.\n이 기적은 소중히 여기도록 하거라.
+MID_LGA_XXX_BirdFollow_m01: <BLN>음? 이건……?
+MID_LGV_XXX_JuFasTemple_Closed_m01: 
+MID_LGV_XXX_JuFasTemple_Closed_m01_001: 
+MID_LGV_1KAI_A60Lock_m01: <TH>
+MID_LGV_1KAI_A60Lock_m01_001: 잠겨 있어서 열리지 않아.\n반대편에서는 열릴 것 같은데……
+MID_LGV_1KAI_A60Lock_m01_002: 반대편으로 돌아가는 길이 어디 없을까……?
+MID_LGV_1KAI_A60Open_m01: <TH>
+MID_LGV_1KAI_A60Open_m01_001: 좋아, 열렸다!\n이제 언제든 지나갈 수 있어.
+MID_LGV_1KAI_A100Warp_m01: <TH>
+MID_LGV_1KAI_A100Warp_m01_001: 아우로라님이 계신 곳으로 가시겠습니까?
+MID_LGV_1KAI_A100Warp_m01_002: <ICA>간다
+MID_LGV_1KAI_A100Warp_m01_003: <ICB>아직이다
+MID_LGV_1BEL_Gab_Jailer_m01: 
+MID_LGV_1BEL_Gab_Jailer_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_002: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_003: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_004: 
+MID_LGV_1ANH_EXAcquisition_m01: 
+MID_LGV_1ANH_EXAcquisition_m01_001: 
+MID_LGV_3ISM_Obelisk_m01: <TH>
+MID_LGV_3ISM_Obelisk_m01_001: 왜 그러지?\n방첨탑의 방으로 돌아가겠느냐?
+MID_LGV_3ISM_Obelisk_m01_002: <ICA>돌아간다
+MID_LGV_3ISM_Obelisk_m01_003: <ICB>돌아가지 않는다
+MID_LGV_3ISM_Obelisk_m01_004: <ACA>그래, 알겠다.\n나를 따라오거라.
+MID_LGV_3ISM_Obelisk_m01_005: <ACB>알겠다.\n돌아가고 싶으면 다시 부르거라.
+MID_LGV_3ISM_CrownKey_FirstGet_m01: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m01_001: 무어냐, 이 열쇠는? 꽤나 낡아 보인다만, 내 안의\n무언가가 보통 물건이 아니라고 속삭이는 듯한……
+MID_LGV_3ISM_CrownKey_FirstGet_m01_002: 이 열쇠는 내가 직접 조사해 보아야겠구나.\n잃어버리지 않도록 잘 보관해 두거라.
+MID_LGV_3ISM_CrownKey_FirstGet_m02: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m02_001: 네가 손에 넣은 것은\n「천관의 신전」 내부의 방을 열 수 있는 열쇠일 터.
+MID_LGV_3ISM_CrownKey_FirstGet_m02_002: 이걸 써서 문을 열면\n아마 어떠한 힘을 얻을 수 있을 것이야.
+MID_LGV_3ISM_PromptObelisk_m01: <TH>
+MID_LGV_3ISM_PromptObelisk_m01_001: 만약 전력이 부족하다고 느껴진다면\n방첨탑의 방으로 돌아가 보는 것이 어떠냐.
+MID_LGV_3ISM_PromptObelisk_m01_002: 인과를 엮어 새로운 진영장과 유대를 맺으면\n틀림없이 너에게 힘이 되어 줄 것이야.
+MID_LGA_3ISM_PromptObelisk_m01: <BLN>전력은 다 갖추었느냐?
+MID_LGV_3ISM_RouteComplete_m01: <TH>
+MID_LGV_3ISM_RouteComplete_m01_001: 엮어 낸 인과로 말미암아 수많은 전사들이\n이 시대의 이 땅에 집결하기에 이르렀다.
+MID_LGV_3ISM_RouteComplete_m01_002: 적이 적이니만큼 방심은 금물이다만……\n너에게는 먼저 감사의 말을 전해 두어야겠구나.
+MID_LGA_3ISM_RouteComplete_m01: <BLN>수많은 전사들이 집결했다
+LGV_XXX_Notice_Unlock_Guide: <TH>
+LGV_XXX_Notice_Unlock_Guide_001: <DLG>모험 수첩에 「모험 안내서」가 추가되었습니다\n자유행동 시에 추천하는 행동을 확인할 수 있습니다
+LGV_XXX_Notice_Unlock_Honor: <TH>
+LGV_XXX_Notice_Unlock_Honor_001: <DLG>모험 수첩에 「명성의 혜택」이 추가되었습니다\n명성이 오르면 할 수 있는 일들을 확인할 수 있습니다
+LGV_XXX_Notice_Unlock_Quest: <TH>
+LGV_XXX_Notice_Unlock_Quest_001: <DLG>모험 수첩에 「퀘스트 목록」이 추가되었습니다\n의뢰받은 퀘스트를 확인할 수 있습니다
+LGV_XXX_Notice_Unlock_Calendar: <TH>
+LGV_XXX_Notice_Unlock_Calendar_001: <DLG>모험 수첩에 「캘린더」가 추가되었습니다\n자유행동 기간을 잘 활용하는 데 도움이 될 수 있습니다
+LGV_XXX_Notice_Unlock_BattleHint: <TH>
+LGV_XXX_Notice_Unlock_BattleHint_001: <DLG>모험 수첩에 「길잡이 예언」이 추가되었습니다\n다음 메인 퀘스트 전투의 정보를 얻을 수 있습니다

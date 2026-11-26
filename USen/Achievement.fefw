@@ -1,0 +1,143 @@
+﻿MATID_Record_RelianceCCleared: Watched {Variable=0} C-{LowercaseNextLetter}Support {SingularPlural0=conversation|conversations}.
+MATID_Record_RelianceBCleared: Watched {Variable=0} B-{LowercaseNextLetter}Support {SingularPlural0=conversation|conversations}.
+MATID_Record_RelianceACleared: Watched {Variable=0} A-{LowercaseNextLetter}Support {SingularPlural0=conversation|conversations}.
+MATID_Record_PerformanceCount: Gave {Variable=0} local {SingularPlural0=performance|performances}.
+MATID_Record_DrinkSellerCount: Bought drinks {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_TrainingCount: Trained {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_StageActCount: Acted {Variable=0} {SingularPlural0=time|times} at the theater.
+MATID_Record_StageWatchCount: Watched {Variable=0} {SingularPlural0=time|times} at the theater.
+MATID_Record_ServeCount: Performed {LowercaseNextLetter}Service at the temples {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_ThermaeCount: Bathed at the thermae {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_HotelStayCount: Rented a room at an inn {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_HotelIndividualTimes: Spent {Variable=0} {SingularPlural0=turn|turns} performing individual actions.
+MATID_Record_DiningCount: Dined at an inn {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_GiftCount: Gave {Variable=0} {SingularPlural0=gift|gifts}.
+MATID_Record_PerfectTimeCount: Had {Variable=0} perfect {SingularPlural0=interaction|interactions} at the perch.
+MATID_Record_PerchCount: Deepened bond with the Pale Raven {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_ClassTrialCount: Took {Variable=0} {Lowercase}Certification Exam{NormalCase}{SingularPlural0=|s}.
+MATID_Record_Enemy01Defeat: Defeated {Variable=0} {SingularPlural0=foe|foes} in battle.
+MATID_Record_Enemy02Defeat: Defeated {Variable=0} undead {SingularPlural0=foe|foes} in battle.
+MATID_Record_Enemy03Defeat: Defeated {Variable=0} large {SingularPlural0=foe|foes} in battle.
+MATID_Record_Enemy04Defeat: Defeated {Variable=0} {SingularPlural0=beast|beasts} in battle.
+MATID_Record_BonusMommyDefeat: Defeated {Variable=0} golden or silver {SingularPlural0=mummy|mummies}.
+MATID_Record_LivestockDefeat: Defeated {Variable=0} {LowercaseNextLetter}{SingularPlural0=Livestock|Livestock} in battle.
+MATID_Record_EncounterCount: Won {Variable=0} {SingularPlural0=skirmish|skirmishes}.
+MATID_Record_AvoidCount: Avoided {Variable=0} {SingularPlural0=attack|attacks}.
+MATID_Record_CriticalCount: Performed {Variable=0} {SingularPlural0=critical attack|critical attacks}.
+MATID_Record_AssistCount: Performed {Variable=0} {SingularPlural0=assist|assists}.
+MATID_Record_SpecialCount: Used Blaze Arts {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_GambitCount: Used a {LowercaseNextLetter}Gambit {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_CompanyGoldUsed: Paid {Variable=0}G to wandering {LowercaseNextLetter}Merchants.
+MATID_Record_ExploreCount: Searched spots {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_ExploreRareGet: Obtained {Variable=0} rare {SingularPlural0=material|materials} through {SingularPlural0=a search|searches}.
+MATID_Record_BanquetCount: Had {Variable=0} {SingularPlural0=feast|feasts}.
+MATID_Record_CallAnimalCount: Used Lure {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_MakeFarmCount: Farmed {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_DestroyMiasmaCount: Dispelled miasma {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_CmdBattleVictory: Won {Variable=0} {SingularPlural0=clash|clashes}.
+MATID_Record_LinkAttackCount: Performed an Attack Link {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_LinkHealCount: Performed a Recovery Link {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_LinkGuardCount: Performed a Mixed Link {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_VandalTradeCount: Traded with the Vandahl Trading Co. {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_ShoppingGoldUsed: Spent a total of {Variable=0}G at shops in bases.
+MATID_Record_SideStoryCleared: Completed {Variable=0} {SingularPlural0=paralogue|paralogues}.
+MATID_Record_OreGet: Obtained {Variable=0} {SingularPlural0=piece|pieces} of ore.
+MATID_Record_PlayTimes: Played for more than {Variable=0} {SingularPlural0=hour|hours}.
+MATID_Record_IsmHelpCount: Triggered support salvation {Variable=0} times.
+MATID_Record_1KAI_Cleared: Completed Cai's Path in Part I.
+MATID_Record_1DIT_Cleared: Completed Dietrich's Path in Part I.
+MATID_Record_1SEO_Cleared: Completed Theodora's Path in Part I.
+MATID_Record_1LED_Cleared: Completed Leda's Path in Part I.
+MATID_Record_1BEL_Cleared: Completed Bertrand's Path in Part I.
+MATID_Record_1TAL_Cleared: Completed Talimun's Path in Part I.
+MATID_Record_1ORH_Cleared: Completed Orchel's Path in Part I.
+MATID_Record_1ANH_Cleared: Completed Anatolia's Path in Part I.
+MATID_Record_SkillLvCCount: Reached Skill Lv C {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_SkillLvBCount: Reached Skill Lv B {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_SkillLvACount: Reached Skill Lv A {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_SkillLvSCount: Reached Skill Lv S {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_SkillLvMAXCount: Maximized a skill {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_RideLv2Count: Reached Bond Lv 2 a total of {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_RideLv3Count: Reached Bond Lv 3 a total of {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_RideLv4Count: Reached Bond Lv 4 a total of {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_RideLvMAXCount: Maximized a bond {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_MiracleLv2Count: Reached Bless Lv 2 a total of {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_MiracleLvMAXCount: Maximized a blessing {Variable=0} {SingularPlural0=time|times}.
+MATID_Record_Part3_DungeonTBox_AllOpen: Opened all chests in {Variable=0} of Part III's {SingularPlural0=dungeon|dungeons}.
+MATID_Record_TempleCrown_OpenCount: Opened {Variable=0} {SingularPlural0=door|doors} in the {LowercaseNextLetter}Temple of the Diadem.
+MATID_Record_AmaltheaState_Reconstruction: Rebuilt all destroyed locations in Amalthea.
+MATID_Record_CastaliaState_Reconstruction: Rebuilt all destroyed locations in Castalia.
+MATID_Record_IduiaState_Reconstruction: Rebuilt all destroyed locations in Idyia.
+MATID_Record_ElectraState_Reconstruction: Rebuilt all destroyed locations in Elektra.
+MATID_Record_MeliasState_Reconstruction: Rebuilt all destroyed locations in Melias.
+MATID_Record_TaliaState_Reconstruction: Rebuilt all destroyed locations in Thaleia.
+MATID_Record_SolidusState_Reconstruction: Rebuilt all destroyed locations in Solidus.
+MATID_Record_NysiadesState_Reconstruction: Rebuilt all destroyed locations in Nysiades.
+MATID_Record_LambuthState_Reconstruction: Rebuilt all destroyed locations in Lambath.
+MATID_Record_BasithaState_Reconstruction: Rebuilt all destroyed locations in Pasithea.
+MATID_Record_BraxtheaState_Reconstruction: Rebuilt all destroyed locations in Braxithea.
+MATID_Record_SaveronState_Reconstruction: Rebuilt all destroyed locations in Saveilon.
+MATID_Record_OmaStateReconstruction: Rebuilt all destroyed locations in Ogmios.
+MATID_Record_SolomonReconstruction: Rebuilt all destroyed locations in Solomon.
+MATID_Reward_ExpUp: Increased Exp
+MATID_H_Reward_ExpUp: Earn more Exp from battle.
+MATID_Reward_JobExpUp: Increased Class Exp
+MATID_H_Reward_JobExpUp: Earn more class Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_SwordSkillUp: Increased Sword Exp
+MATID_H_Reward_SwordSkillUp: Earn more sword-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_LanceSkillUp: Increased Spear Exp
+MATID_H_Reward_LanceSkillUp: Earn more spear-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_AxeSkillUp: Increased Axe Exp
+MATID_H_Reward_AxeSkillUp: Earn more axe-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_BowSkillUp: Increased Bow Exp
+MATID_H_Reward_BowSkillUp: Earn more bow-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_GauntletSkillUp: Increased Brawling Exp
+MATID_H_Reward_GauntletSkillUp: Earn more brawling-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_BlackSkillUp: Increased Black-Magic Exp
+MATID_H_Reward_BlackSkillUp: Earn more black-magic-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_WhiteSkillUp: Increased White-Magic Exp
+MATID_H_Reward_WhiteSkillUp: Earn more white-magic-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_FootSkillUp: Increased Infantry Exp
+MATID_H_Reward_FootSkillUp: Earn more {LowercaseNextLetter}Infantry-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_CavalrySkillUp: Increased Rider Exp
+MATID_H_Reward_CavalrySkillUp: Earn more {LowercaseNextLetter}Riding-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_HeavySkillUp: Increased Heavy Exp
+MATID_H_Reward_HeavySkillUp: Earn more heavy-armor-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_FlySkillUp: Increased Flier Exp
+MATID_H_Reward_FlySkillUp: Earn more {LowercaseNextLetter}Flying-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_TacticsSkillUp: Increased Authority Exp
+MATID_H_Reward_TacticsSkillUp: Earn more {LowercaseNextLetter}Authority-skill Exp from battle.\n(Does not apply to {LowercaseNextLetter}Training.)
+MATID_Reward_SkillAuroraCostDown: Aurora's Blessing Discount
+MATID_H_Reward_SkillAuroraCostDown: Consume less Divine Sand when using Aurora's blessing.
+MATID_Reward_SkillMarsCostDown: Mars's Blessing Discount
+MATID_H_Reward_SkillMarsCostDown: Consume less Divine Sand when using Mars's blessing.
+MATID_Reward_SkillSmirnothCostDown: Smyrnos's Blessing Discount
+MATID_H_Reward_SkillSmirnothCostDown: Consume less Divine Sand when using Smyrnos's blessing.
+MATID_Reward_SkillJunoCostDown: Jurah's Blessing Discount
+MATID_H_Reward_SkillJunoCostDown: Consume less Divine Sand when using Jurah's blessing.
+MATID_Reward_SkillCaraCostDown: Kalla's Blessing Discount
+MATID_H_Reward_SkillCaraCostDown: Consume less Divine Sand when using Kalla's blessing.
+MATID_Reward_SkillClairCostDown: Credna's Blessing Discount
+MATID_H_Reward_SkillClairCostDown: Consume less Divine Sand when using Credna's blessing.
+MATID_Reward_CarriageDiscount: Carriage Discount
+MATID_H_Reward_CarriageDiscount: Lowers the prices of {LowercaseNextLetter}Carriage fares.
+MATID_Reward_WeaponDiscount: Weapons Discount
+MATID_H_Reward_WeaponDiscount: Lowers the prices of weapons.
+MATID_Reward_BlacksmithDiscount: Blacksmith Discount
+MATID_H_Reward_BlacksmithDiscount: Lowers the prices of {LowercaseNextLetter}Blacksmith services.
+MATID_Reward_ItemDiscount: Items Discount
+MATID_H_Reward_ItemDiscount: Lowers the prices of items.
+MATID_Reward_GiftDiscount: Gifts Discount
+MATID_H_Reward_GiftDiscount: Lowers the prices of gifts.
+MATID_Reward_MealDiscount: Meals Discount
+MATID_H_Reward_MealDiscount: Lowers the prices of {LowercaseNextLetter}Meals when dining at {LowercaseNextLetter}Inns.\n(Does not apply on discount days.)
+MATID_Reward_ThermaeDiscount: Thermae Discount
+MATID_H_Reward_ThermaeDiscount: Lowers the price to {LowercaseNextLetter}Bathe at the {LowercaseNextLetter}Thermae.
+MATID_Reward_DungeonChasePlus: Dungeon Evasion
+MATID_H_Reward_DungeonChasePlus: Reduces the time that foes spend chasing you in {LowercaseNextLetter}Dungeons.
+MATID_Reward_DungeonDropUp: Rich Deposits
+MATID_H_Reward_DungeonDropUp: Increases the drop rate of materials when destroying\nbreakable objects in {LowercaseNextLetter}Dungeons.
+MATID_Reward_HotelStayDiscount: Room Discount
+MATID_H_Reward_HotelStayDiscount: Lowers the price to {Lowercase}Rent a Room at Inns.
+MATID_Reward_TheaterWatchDiscount: Theater Discount
+MATID_H_Reward_TheaterWatchDiscount: Lowers the price to {LowercaseNextLetter}Watch a {LowercaseNextLetter}Theater performance.

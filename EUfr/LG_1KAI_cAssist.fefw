@@ -1,0 +1,644 @@
+﻿MID_LGV_1KAI_c01_LG11_001_m01: <TH>
+MID_LGV_1KAI_c01_LG11_001_m01_001: J'ai vraiment passé une journée bizarre, aujourd'hui...
+MID_LGV_1KAI_c01_LG11_001_m01_002: Le soleil va bientôt se coucher, je devrais {SetColor=Gold}rentrer{SetColor=Default}.
+MID_LGV_1KAI_c01_LG11_001_m02: <TH>
+MID_LGV_1KAI_c01_LG11_001_m02_001: Si je quitte le village sans demander la permission,\nje risque d'avoir des ennuis.
+MID_LGV_1KAI_c02_Cas_Closed_m01: <TH>
+MID_LGV_1KAI_c02_Cas_Closed_m01_001: Cai, tu vas où comme ça ? C'est pas par là.
+MID_LGV_1KAI_c02_GM11_001_m01: <TH>
+MID_LGV_1KAI_c02_GM11_001_m01_001: Quand on arrivera à la route de Carmenta,\non prendra une diligence.
+MID_LGV_1KAI_c02_GM11_001_m02: <TH>
+MID_LGV_1KAI_c02_GM11_001_m02_001: Cai, regarde ! Ces types bloquent le passage !
+MID_LGV_1KAI_c02_GM11_001_m02_002: C'est ceux qui essayaient de voler le joyau !\nIls nous ont tendu une embuscade !
+MID_LGV_1KAI_c02_GM11_001_m02_003: Papa, on fait quoi ?
+MID_LGV_1KAI_c02_GM11_001_m02_004: Laisse-moi faire. Je vais essayer de leur parler.
+MID_LGV_1KAI_c02_GM11_001_m02_005: Heureusement que ton père est avec nous !\nPas besoin de se dépatouiller de ce genre\nde trucs tout seuls.
+MID_LGV_1KAI_c02_GM11_001_m02_006: Ne crions pas victoire trop vite... Je le vois déjà\nrevenir au pas de course !
+MID_LGV_1KAI_c02_GM11_001_m02_007: Sortez vos armes ! On va devoir se battre !
+MID_LGV_1KAI_c02_GM11_001_m02_008: Hein, quoi ?!
+MID_LGV_1KAI_c02_DN11_001_m01: <TH>
+MID_LGV_1KAI_c02_DN11_001_m01_001: Ils se sont enfuis dans les ruines du fort. Je suis bien\ntenté de les y laisser et de reprendre la route, mais...
+MID_LGV_1KAI_c02_DN11_001_m01_002: On ignore ce qu'ils préparent et on aurait l'air malins\ns'ils décidaient de se venger. On ferait mieux d'aller\nles déloger.
+MID_LGV_1KAI_c02_DN11_001_m01_003: <ICA>Poursuivre les bandits.
+MID_LGV_1KAI_c02_DN11_001_m01_004: <ICB>Reprendre la route de Dagsion.
+MID_LGV_1KAI_c02_DN11_001_m01_005: <ACA>On va pas les laisser s'en tirer comme ça ! Hors de\nquestion qu'on laisse ces bandits traîner aussi près\ndu village.
+MID_LGV_1KAI_c02_DN11_001_m01_006: <ACA>Dans ce cas, allons au fort.
+MID_LGV_1KAI_c02_DN11_001_m01_007: <ACB>Mieux vaut laisser tomber. De toute façon, ça\nm'étonnerait qu'ils aient envie de revenir se frotter\nau village après la raclée qu'on leur a mise.
+MID_LGV_1KAI_c02_DN11_001_m01_008: <ACB>C'est vrai. Allez, on fait une petite pause, et on\nse remet en route.
+MID_LGV_1KAI_c02_DN11_001_m02: <TH>
+MID_LGV_1KAI_c02_DN11_001_m02_001: Dites... On dirait que des gens vivaient encore ici\nil y a pas si longtemps, non ?
+MID_LGV_1KAI_c02_DN11_001_m02_002: Un campement de bandits à deux pas du village ?\nJe ne vais plus pouvoir fermer l'œil maintenant\nque j'ai vu ça !
+MID_LGV_1KAI_c02_DN11_001_m02_003: On peut pas être sûrs qu'ils soient partis.\nIl faut qu'on {SetColor=Gold}continue à explorer{SetColor=Default}.
+MID_LGV_1KAI_TG11_001_m01: <TH>
+MID_LGV_1KAI_TG11_001_m01_001: Q-Quoi ?! Mes yeux ! Qu'est-ce qui m'arrive ?
+MID_LGV_1KAI_TG11_001_m01_002: Je... Je peux voir des êtres à travers les murs !\nC'est le joyau qui fait ça ?!
+MID_LGV_1KAI_TG11_001_m02: <TH>
+MID_LGV_1KAI_TG11_001_m02_001: Bon, il va falloir que je m'y habitue, mais ça pourrait\ns'avérer drôlement utile.
+MID_LGV_1KAI_GM11_001_m03: <TH>
+MID_LGV_1KAI_GM11_001_m03_001: La diligence s'est arrêtée. Qu'est-ce qui se passe ?
+MID_LGV_1KAI_GM11_001_m03_002: C'est bizarre... Je ne savais pas qu'il y avait\nun relais où s'arrêter ici...
+MID_LGV_1KAI_GM11_001_m03_003: On dirait qu'il y a du grabuge dehors. C'est quoi,\nà votre avis ?
+MID_LGV_1KAI_GM11_001_m03_004: Sortez de la diligence, vite ! Des bandits nous\nattaquent !
+MID_LGV_1KAI_GM11_001_m03_005: Hein ? Encore des bandits ?!
+MID_LGV_1KAI_c02_LG11_002_m01: <TH>
+MID_LGV_1KAI_c02_LG11_002_m01_001: Les enfants, maintenant qu'on est arrivés, vous\nn'avez qu'à faire un petit tour en ville.
+MID_LGV_1KAI_c02_LG11_002_m01_002: Prenez cet argent, mais attention, c'est tout ce\nqu'on a. Le jetez pas par les fenêtres.
+MID_LGV_1KAI_LG11_002_m03: <TH>
+MID_LGV_1KAI_LG11_002_m03_001: Nos chambres sont prêtes, vous pouvez partir\nà la découverte de la ville, si vous voulez.
+MID_LGV_1KAI_LG11_002_m03_002: D'ailleurs, si vous savez pas quoi faire, j'ai vu\nde la lecture sur le {SetColor=Gold}panneau d'affichage{SetColor=Default} juste ici.
+MID_LGV_1KAI_LG11_002_m03_003: Le {SetColor=Gold}magasin{SetColor=Default} et l'{SetColor=Gold}armurerie{SetColor=Default} offrent des articles\nà ceux qui viennent y faire un tour.
+MID_LGV_1KAI_LG11_002_m03_004: Bon, j'ai encore quelques affaires à régler, je vais\nvous laisser. Quand vous aurez fini votre balade,\nretrouvez-moi à l'auberge.
+MID_LGV_1KAI_TG11_101_m01: <TH>
+MID_LGV_1KAI_TG11_101_m01_001: Où est passé Kastor ?
+MID_LGV_1KAI_TG11_101_m01_002: Il est parti par là et il nous a laissés en plan...
+MID_LGV_1KAI_TG11_101_m01_003: Cai ! Nous devrions en profiter pour explorer la ville.
+MID_LGV_1KAI_TG11_101_m01_004: J'avais lu que Dagsion était une ville débordante de\nvie, mais je ne m'attendais quand même pas à ça !
+MID_LGV_1KAI_TG11_101_m01_005: J'arrive pas à croire que cet endroit existe pour\nde vrai. Il y a tellement de monde dans tous\nles sens. Ça me donne le tournis...
+MID_LGV_1KAI_TG11_101_m01_006: Je suis pas sûr que la ville, ce soit fait pour moi.
+MID_LGV_1KAI_TG11_101_m01_007: Mais maintenant qu'on est là, on peut aller\noù tu veux, Cai.
+MID_LGV_1KAI_TG11_101_m01_008: Ça marche ! Commençons par jeter un œil au\npanneau d'affichage dont mon père a parlé.
+MID_LGV_1KAI_TG11_101_m02: <TH>
+MID_LGV_1KAI_TG11_101_m02_001: Le magasin et l'armurerie vendent une quantité\nimpressionnante de produits !
+MID_LGV_1KAI_TG11_101_m02_002: J'en peux plus de tous ces escaliers et de ces pavés\ndans toutes les rues... Je sens plus mes pieds...
+MID_LGV_1KAI_TG11_101_m03: <TH>
+MID_LGV_1KAI_TG11_101_m03_001: J'en ai plein les pattes. Ça vous pose un problème,\nsi je rentre avant vous ?
+MID_LGV_1KAI_TG11_101_m03_002: Je vous attendrai à l'{SetColor=Gold}auberge{SetColor=Default}.
+MID_LGV_1KAI_TG11_101_m03_003: Nous allons pousser encore un peu notre {SetColor=Gold}exploration\nde la ville{SetColor=Default}, mais nous te retrouverons bientôt, Peter.
+MID_LGV_1KAI_TG11_101_m04: <TH>
+MID_LGV_1KAI_TG11_101_m04_001: Cai ? C'est bon, t'as vu tout ce que tu voulais ?\nJ'ai une faim de loup, j'en peux plus...
+MID_LGV_1KAI_TG11_101_m04_002: <ICA>On s'arrête là.
+MID_LGV_1KAI_TG11_101_m04_003: <ICB>On continue.
+MID_LGV_1KAI_TG11_101_m04_004: <ACB>Vraiment ? Je sais pas d'où tu sors toute\ncette énergie...
+MID_LGA_1KAI_TG11_101_m04: <BLN>Vous avez vu ce que vous voulez ?
+MID_LGV_1KAI_TG11_101_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_101_Closed_m01_001: Et si on consultait le tableau d'affichage\ntant que tout est calme ?
+MID_LGV_1KAI_c02_LG11_002_m02: <TH>
+MID_LGV_1KAI_c02_LG11_002_m02_001: C'était bien mon père et le type de l'autre fois.
+MID_LGV_1KAI_c02_LG11_002_m02_002: J'étais trop loin pour entendre ce qu'ils se disaient,\nmais ça avait l'air sérieux.
+MID_LGV_1KAI_c02_LG11_003_m01: <TH>
+MID_LGV_1KAI_c02_LG11_003_m01_001: Bon, si tout le monde a fini de manger, allons-y.
+MID_LGV_1KAI_c02_LG11_003_m01_002: Vous voulez sortir ? Mais pour aller où ?\nIl fait déjà nuit.
+MID_LGV_1KAI_c02_LG11_003_m01_003: On va dans les {SetColor=Gold}égouts{SetColor=Default}. Il y a une {SetColor=Gold}entrée{SetColor=Default}\n{SetColor=Gold}près du magasin{SetColor=Default} sur la place. En route !
+MID_LGV_1KAI_c02_LG11_003_m01_004: Hé, attends ! Il y a pas le feu au lac, Papa !
+MID_LGV_1KAI_c02_LG11_003_m06: <TH>
+MID_LGV_1KAI_c02_LG11_003_m06_001: C'est ça, l'entrée ? C'est fermé, on dirait.
+MID_LGV_1KAI_c02_LG11_003_m06_002: Oui, c'est ici. Ne t'en fais pas, j'ai la clé.
+MID_LGV_1KAI_c02_LG11_003_m06_003: Heu... Papa, pourquoi t'as une clé des égouts\nde Dagsion ?
+MID_LGV_1KAI_c02_LG11_003_m06_004: T'occupe pas de ces détails. Prends la clé\net ouvre-nous cette porte, vite.
+MID_LGV_1KAI_c02_LG11_003_m02: <TH>
+MID_LGV_1KAI_c02_LG11_003_m02_001: Mince, c'était un raccourci avant, mais c'est fermé.
+MID_LGV_1KAI_c02_LG11_003_m02_002: Bon, on va être obligés de faire un détour.
+MID_LGV_1KAI_c02_LG11_003_m03: <TH>
+MID_LGV_1KAI_c02_LG11_003_m03_001: Hé, mais on est déjà passés par ici tout à l'heure.\nTu crois que la clé pourrait ouvrir la porte\nde ce côté ?
+MID_LGV_1KAI_c02_LG11_003_m03_002: Oui, sûrement, mais on doit aller {SetColor=Gold}à droite{SetColor=Default}\nmaintenant. Évitons de nous perdre.
+MID_LGV_1KAI_c02_LG11_003_m04: <TH>
+MID_LGV_1KAI_c02_LG11_003_m04_001: Ouah, c'est magnifique ici ! On est arrivés où ?
+MID_LGV_1KAI_c02_LG11_003_m04_002: C'est le jardin intérieur du temple. Ah, que de\nsouvenirs... C'est ici que j'ai rencontré ta mère.
+MID_LGV_1KAI_c02_LG11_003_m04_003: Mais on est pas là pour ça. Retournons dans\nles tunnels.
+MID_LGV_1KAI_c02_LG11_003_m05: <TH>
+MID_LGV_1KAI_c02_LG11_003_m05_001: Emprunte {SetColor=Gold}ce passage{SetColor=Default}. Attention\noù tu marches, il fait sombre.
+MID_LGV_1KAI_c03_LG11_004_m01: <TH>
+MID_LGV_1KAI_c03_LG11_004_m01_001: Comment allons-nous faire pour trouver\nla {SetColor=Gold}procession de Saramis{SetColor=Default} ?
+MID_LGV_1KAI_c03_LG11_004_m01_002: Si c'est aussi grandiose qu'on le dit, ça devrait pas\nêtre trop compliqué.
+MID_LGV_1KAI_c03_LG11_004_m01_003: En faisant un tour, on finira bien par {SetColor=Gold}tomber sur\nla procession{SetColor=Default}.
+MID_LGV_1KAI_c03_LG11_005_m01: <TH>
+MID_LGV_1KAI_c03_LG11_005_m01_001: Du coup, comment on fait si on veut participer\naux Jeux Héroïques ?
+MID_LGV_1KAI_c03_LG11_005_m01_002: Vu leur nom, j'imagine qu'ils auront lieu\ndans l'arène ?
+MID_LGV_1KAI_c03_LG11_005_m01_003: Dans ce cas...
+MID_LGV_1KAI_LG11_005_m02: <TH>
+MID_LGV_1KAI_LG11_005_m02_001: Allons {SetColor=Gold}demander à la dame{SetColor=Default} à l'entrée de l'arène\nsi elle peut nous inscrire !
+MID_LGV_1KAI_TG11_002_m01: <TH>
+MID_LGV_1KAI_TG11_002_m01_001: Je me dis que si on y participe vraiment, il faudrait\nqu'on trouve une personne un peu balèze pour\nse battre avec nous.
+MID_LGV_1KAI_TG11_002_m01_002: On pourrait peut-être demander à Centurio de nous\nrejoindre ? Ça faciliterait un peu les choses.
+MID_LGV_1KAI_TG11_002_m01_003: Réfléchis, Peter. C'est un vulkan, il ne peut pas\nparticiper à cette compétition !
+MID_LGV_1KAI_TG11_002_m01_004: Je sais pas, je disais ça comme ça ! Tu connais un\nautre adulte qui serait prêt à participer aux Jeux\nHéroïques avec des gamins sortis de nulle part ?
+MID_LGV_1KAI_TG11_002_m01_005: Dans ce cas, tâchons de prouver notre valeur.\nPourquoi pas {SetColor=Gold}améliorer notre renommée{SetColor=Default} en capturant\nun criminel recherché ? Imaginez la récompense !
+MID_LGV_1KAI_TG11_002_m02: <TH>
+MID_LGV_1KAI_TG11_002_m02_001: Quoiii ?! Mais ça va pas, la tête ? Non, faut qu'on\ntrouve quelque chose de moins dangereux !
+MID_LGV_1KAI_TG11_002_m02_002: Bon... Et si nous trouvions des {SetColor=Gold}personnes ayant\nbesoin d'aide{SetColor=Default} dans la capitale ? Nous pourrions\nessayer de résoudre leurs problèmes.
+MID_LGV_1KAI_TG11_002_m02_003: C'est une bonne idée, mais on va les trouver où,\nces gens ?
+MID_LGV_1KAI_TG11_002_m02_004: Ça ne doit pas être si compliqué, il suffit de...\nRegardez !
+MID_LGV_1KAI_TG11_002_m02_005: Cette fille est en train de pleurer. Allons lui\ndemander ce qui ne va pas.
+MID_LGV_1KAI_TG11_002_m03: <TH>
+MID_LGV_1KAI_TG11_002_m03_001: Alors, elle a besoin d'aide, je dis pas le contraire...\nMais vous croyez vraiment que c'est à nous\nde faire ça ?
+MID_LGV_1KAI_TG11_002_m03_002: Vous l'avez entendue comme moi, pas vrai ?\nUn repaire de bandits !
+MID_LGV_1KAI_TG11_002_m03_003: Si nous parvenons à revenir avec cette barrette, nous\ncommencerons à nous faire une bonne réputation\nà Dagsion, c'est sûr !
+MID_LGV_1KAI_TG11_002_m03_004: Je suis d'accord avec toi ! Allons-y !
+MID_LGV_1KAI_TG11_002_m03_005: Cela nous fera sortir de Dagsion, évidemment...
+MID_LGV_1KAI_TG11_002_m04: <TH>
+MID_LGV_1KAI_TG11_002_m04_001: {SetColor=Gold}En passant ces portes{SetColor=Default}, nous sortirons de la ville.\nC'est parti !
+MID_LGV_1KAI_TG11_002_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_002_Closed_m01_001: Hé, Cai ! Nous devons quitter la ville.\nCe n'est pas par là qu'on pourra sortir !
+MID_LGV_1KAI_TG11_002_GM_m01: <TH>
+MID_LGV_1KAI_TG11_002_GM_m01_001: Attention ! Il y a des sales types qui barrent la route\nde la mine de Niraga.
+MID_LGV_1KAI_TG11_002_GM_m01_002: Dans ce cas, on va devoir s'en débarrasser.
+MID_LGV_1KAI_TG11_002_GM_m01_003: Occupons-nous d'eux !
+MID_LGV_1KAI_TG11_002_GM_m02: <TH>
+MID_LGV_1KAI_TG11_002_GM_m02_001: Ouf, on les a battus, on les a battus ! J'y crois pas !
+MID_LGV_1KAI_TG11_002_GM_m02_002: Dépêchons-nous d'atteindre la mine de Niraga.
+MID_LGV_1KAI_TG11_002_DN_m01: <TH>
+MID_LGV_1KAI_TG11_002_DN_m01_001: J'aime pas ça... Il fait sombre et le passage est étroit.\nÇa me fiche la frousse...
+MID_LGV_1KAI_TG11_002_DN_m01_002: Allez, Peter, un peu de courage. On a promis à cette\nfille qu'on {SetColor=Gold}retrouverait sa barrette{SetColor=Default}, tu te souviens ?
+MID_LGV_1KAI_TG11_002_DN_m02: <TH>
+MID_LGV_1KAI_TG11_002_DN_m02_001: Elle avait pas dit qu'elle avait laissé tomber sa\n{SetColor=Gold}barrette{SetColor=Default} près de la sortie ? Je la vois nulle part...
+MID_LGV_1KAI_TG11_002_DN_m02_002: Je sens un courant d'air venu de l'intérieur.\n{SetColor=Gold}Cette sortie{SetColor=Default} est peut-être par là ?
+MID_LGV_1KAI_TG11_002_DN_m02_003: T'as peut-être raison. Bon, allez, on va voir.
+MID_LGV_1KAI_TG11_002_DN_m03: <TH>
+MID_LGV_1KAI_TG11_002_DN_m03_001: Trouvée ! Comme quoi, c'était pas si compliqué.
+MID_LGV_1KAI_TG11_002_DN_m03_002: Autant {SetColor=Gold}sortir par ici{SetColor=Default} plutôt que de faire toute la route\nen sens inverse.
+MID_LGV_1KAI_TG11_002_DN_m03_003: Bonne idée. Dites, on fait un bon trio d'aventuriers,\npas vrai ?
+MID_LGV_1KAI_TG11_002_DN_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_002_DN_Closed_m01_001: Cai ! Pas par-là, ce n'est pas le moment !
+MID_LGV_1KAI_TG11_002_GM_m03: <TH>
+MID_LGV_1KAI_TG11_002_GM_m03_001: Ouah ! Je m'attendais pas à voir une sortie\nde ce côté de la mine !
+MID_LGV_1KAI_TG11_002_GM_m03_002: On se sent tout petit quand on voit ça !\nC'est plutôt chouette, non ?
+MID_LGV_1KAI_TG11_002_GM_m04: <TH>
+MID_LGV_1KAI_TG11_002_GM_m04_001: Regardez, il y a encore un groupe de sales types\nsur la route d'où on est venus.
+MID_LGV_1KAI_TG11_002_GM_m04_002: Vous pensez qu'on va encore devoir se battre ?
+MID_LGV_1KAI_TG11_002_GM_m05: <TH>
+MID_LGV_1KAI_TG11_002_GM_m05_001: Pas d'inquiétude ! Nous pouvons faire un détour\npar le sud pour rentrer à Dagsion.
+MID_LGV_1KAI_TG11_002_GM_m05_002: Comme quoi, c'était une bonne idée de traverser\nla mine, finalement, pas vrai ?
+MID_LGV_1KAI_TG11_002_GM_m05_003: Retournons en ville pour rendre sa barrette\nà cette fille !
+MID_LGV_1KAI_TG11_002_m05: <TH>
+MID_LGV_1KAI_TG11_002_m05_001: On a {SetColor=Gold}amélioré notre renommée{SetColor=Default} et on a {SetColor=Gold}aidé\nquelqu'un {SetColor=Default}qui en avait besoin, vous vous rendez\ncompte ? Ça fait du bien de se sentir utile !
+MID_LGV_1KAI_TG11_002_m05_002: Si nous croisons {SetColor=Gold}quelqu'un d'autre qui a l'air d'avoir\nbesoin d'aide{SetColor=Default}, allons {SetColor=Gold}lui parler{SetColor=Default} !
+MID_LGV_1KAI_TG11_103_m01: <TH>
+MID_LGV_1KAI_TG11_103_m01_001: Avec le service qu'on a rendu à cette fille,\non a sûrement fait parler de nous !
+MID_LGV_1KAI_TG11_103_m01_002: Exactement. Je parie que les gens vont vouloir\nparticiper aux Jeux Héroïques avec nous,\nmaintenant.
+MID_LGV_1KAI_TG11_103_m01_003: Dans ce cas...
+MID_LGV_1KAI_TG11_103_m01_004: Essayons de {SetColor=Gold}recruter{SetColor=Default} cet homme ! Il m'a tout l'air\nd'être un {SetColor=Gold}mercenaire{SetColor=Default} !
+MID_LGV_1KAI_TG11_103_m01_005: Si on veut qu'il nous écoute, on ne devrait pas aller\nle voir les mains vides... Essayons de {SetColor=Gold}lui offrir ceci{SetColor=Default} !
+MID_LGV_1KAI_TG11_103_m02: <TH>
+MID_LGV_1KAI_TG11_103_m02_001: Oui ! J'ai l'impression que nous sommes sur la bonne\nvoie pour remporter les Jeux Héroïques !
+MID_LGV_1KAI_TG11_103_m02_002: J'avais des doutes au début, mais maintenant qu'on a\ndu renfort, on peut peut-être y arriver.
+MID_LGV_1KAI_TG11_103_m02_003: On devrait essayer de {SetColor=Gold}recruter encore plus de monde{SetColor=Default}\ndans notre équipe !
+MID_LGV_1KAI_TG11_103_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_103_Closed_m01_001: Cai, ce n'est pas par ici.
+MID_LGV_1KAI_TG11_104_m01: <TH>
+MID_LGV_1KAI_TG11_104_m01_001: Hé, c'est quoi cet oiseau blanc ?
+MID_LGV_1KAI_TG11_105_m01: <TH>
+MID_LGV_1KAI_TG11_105_m01_001: Qu'est-ce que c'est que ça ? Ouah ! On dirait\n{SetColor=Gold}un indice{SetColor=Default} pour {SetColor=Gold}notre premier combat{SetColor=Default}.
+MID_LGV_1KAI_TG11_105_m02: <TH>
+MID_LGV_1KAI_TG11_105_m02_001: Jette un coup d'œil au {SetColor=Gold}journal{SetColor=Default} si tu ne sais plus\nce que nous devons faire !
+MID_LGV_1KAI_c04_LG11_007_m01: <TH>
+MID_LGV_1KAI_c04_LG11_007_m01_001: On doit pouvoir entrer dans la prison depuis l'arène,\nvous croyez pas ?
+MID_LGV_1KAI_c04_LG11_007_m01_002: Ce passage doit être bien caché.
+MID_LGV_1KAI_c04_LG11_007_m01_003: Cette prison est un cachot, et les cachots, c'est sous\nterre, pas vrai ?
+MID_LGV_1KAI_c04_LG11_007_m01_004: Peut-être qu'on peut trouver {SetColor=Gold}un accès par\nles égouts{SetColor=Default} ?
+MID_LGV_1KAI_c04_LG11_007_m02: <TH>
+MID_LGV_1KAI_c04_LG11_007_m02_001: Vous voyez ? Je le savais ! En passant par ici,\non arrive dans l'{SetColor=Gold}arène{SetColor=Default}.
+MID_LGV_1KAI_c04_LG11_010_m03: <TH>
+MID_LGV_1KAI_c04_LG11_010_m03_001: Il y a de l'agitation par ici ! On est tombés où ?
+MID_LGV_1KAI_c04_LG11_010_m03_002: Je pense que c'est le terrain d'entraînement réservé\naux gladiateurs. Ou plutôt le sous-terrain\nd'entraînement, j'imagine...
+MID_LGV_1KAI_c04_LG11_008_m01: <TH>
+MID_LGV_1KAI_c04_LG11_008_m01_001: Sa {SetColor=Gold}cellule {SetColor=Default}doit être{SetColor=Gold} un peu plus loin{SetColor=Default}...
+MID_LGV_1KAI_TG11_106_m01: <TH>
+MID_LGV_1KAI_TG11_106_m01_001: Il nous faut un meilleur équipement si on veut\navoir une chance de remporter les Jeux Héroïques.
+MID_LGV_1KAI_TG11_106_m01_002: Ce qu'il nous faut avant tout, c'est des armes\nde meilleure qualité que celles qu'ils vendent\nà l'armurerie.
+MID_LGV_1KAI_TG11_106_m02: <TH>
+MID_LGV_1KAI_TG11_106_m02_001: Ce sont des armes que vous cherchez ? Vous avez\nsans doute eu vent de l'illustre {SetColor=Gold}Consortium Vandahl{SetColor=Default} ?
+MID_LGV_1KAI_TG11_106_m02_002: Au consortium, vous pourrez {SetColor=Gold}troquer des matériaux{SetColor=Default}\ncontre toutes sortes d'articles, y compris des objets\nrares et puissants !
+MID_LGV_1KAI_TG11_106_m02_003: Notre succursale la plus proche se trouve {SetColor=Gold}près du port{SetColor=Default}\nde la ville, dans la {SetColor=Gold}ville basse{SetColor=Default}. Vous ne regretterez pas\nvotre visite, vous pouvez me croire !
+MID_LGV_1KAI_TG11_106_m02_004: Le Consortium Vandahl... J'en ai déjà entendu parler.\nJe vais partir devant et voir ce qu'ils proposent !
+MID_LGV_1KAI_TG11_106_m03: <TH>
+MID_LGV_1KAI_TG11_106_m03_001: La {SetColor=Gold}ville basse{SetColor=Default}, c'est {SetColor=Gold}de l'autre côté des portes\nen bas de ces escaliers{SetColor=Default}, non ?
+MID_LGV_1KAI_TG11_106_m04: <TH>
+MID_LGV_1KAI_TG11_106_m04_001: Cai, par ici ! Viens voir !
+MID_LGV_1KAI_TG11_106_m04_002: Cet endroit est fabuleux ! Ils ont des articles\nqu'on ne trouve pas dans les autres magasins !
+MID_LGV_1KAI_TG11_106_Pet_m01: <TH>
+MID_LGV_1KAI_TG11_106_Pet_m01_001: Donc on peut échanger des matériaux contre des\narmes... Il faut qu'on collecte plein de matériaux !
+MID_LGA_1KAI_TG11_106_Pet_m01: <BLN>C'est un échange...
+MID_LGV_1KAI_TG11_106_Tia_m01: <TH>
+MID_LGV_1KAI_TG11_106_Tia_m01_001: Tout a l'air tellement intéressant... Qu'est-ce que\nje pourrais bien échanger ?
+MID_LGA_1KAI_TG11_106_Tia_m01: <BLN>Il faut faire un échange...
+MID_LGV_1KAI_TG11_106_m05: <TH>
+MID_LGV_1KAI_TG11_106_m05_001: Alors, Cai, tu vois des choses qui te plaisent ?
+MID_LGV_1KAI_TG11_106_m05_002: Plein de choses. Mais... où est-ce qu'on est censés\ntrouver les matériaux nécessaires pour faire du troc ?
+MID_LGV_1KAI_TG11_106_m05_003: On pourrait aller en {SetColor=Gold}chercher{SetColor=Default} ! Sortons de Dagsion\npour voir ce qu'on peut trouver.
+MID_LGV_1KAI_TG11_107_GM_m01: <TH>
+MID_LGV_1KAI_TG11_107_GM_m01_001: Où pourrions-nous bien trouver des matériaux...\nEt si nous nous rendions dans le {SetColor=Gold}bois de Napier {SetColor=Default}?
+MID_LGV_1KAI_TG11_107_GM_m02: <TH>
+MID_LGV_1KAI_TG11_107_GM_m02_001: Maintenant qu'on y est, {SetColor=Gold}cherchons{SetColor=Default} un peu.
+MID_LGV_1KAI_TG11_107_GM_m03: <TH>
+MID_LGV_1KAI_TG11_107_GM_m03_001: On a pas encore beaucoup de matériaux à échanger.\nPeut-être qu'on devrait en {SetColor=Gold}chercher{SetColor=Default} aussi dans\nd'autres endroits quand on aura le temps.
+MID_LGV_1KAI_TG11_107_GM_m03_002: Oui. Je suis sûr qu'on peut trouver {SetColor=Gold}plus de matériaux{SetColor=Default}\npour {SetColor=Gold}les échanger contre un bon équipement{SetColor=Default}\navant les combats qualificatifs !
+MID_LGV_1KAI_TG11_003_m01: <TH>
+MID_LGV_1KAI_TG11_003_m01_001: Cai, je tenais à te féliciter pour ton inscription aux\nJeux Héroïques, même si je dois dire que je ne suis\npas encore certain d'approuver cette idée...
+MID_LGV_1KAI_TG11_003_m01_002: Vous inquiétez pas, Centurio. Avec mon équipe,\non va gagner, c'est dans la poche !
+MID_LGV_1KAI_TG11_003_m01_003: Cet optimisme sera un puissant allié, mais les jeux\nsont imprévisibles. Vous devrez vous mesurer à\ndes adversaires redoutables à chaque combat.
+MID_LGV_1KAI_TG11_003_m01_004: C'est pourquoi, moi, Centurio Corindon, je voudrais\nvous proposer ma modeste assistance.
+MID_LGV_1KAI_TG11_003_m01_005: Je pourrais vous servir de {SetColor=Gold}mentor{SetColor=Default}. Vous aider\ngrâce à mes conseils, des entraînements\nau combat et des expéditions.
+MID_LGV_1KAI_TG11_003_m01_006: Vous dites ça sérieusement ? Ça nous aiderait\nénormément, c'est sûr !
+MID_LGV_1KAI_TG11_003_m02: <TH>
+MID_LGV_1KAI_TG11_003_m02_001: Le combat repose sur trois piliers : l'esprit, la force\net la technique. Si l'un des trois vient à manquer,\nles deux autres ne peuvent pas suffire.
+MID_LGV_1KAI_TG11_003_m02_002: Il est important que vous enrichissiez votre esprit en\nrencontrant de nombreuses personnes différentes\nà Dagsion.
+MID_LGV_1KAI_TG11_003_m02_003: En élargissant vos horizons et en faisant de nouvelles\nconnaissances, votre renommée grandira.
+MID_LGV_1KAI_TG11_003_m02_004: De puissants alliés uniront leurs forces aux vôtres\nsi vos exploits parviennent ainsi à leurs oreilles.
+MID_LGV_1KAI_TG11_003_m02_005: Je crois que je comprends. Plus notre {SetColor=Gold}renommée\nsera élevée{SetColor=Default}, plus les gens seront prêts à nous aider !
+MID_LGV_1KAI_TG11_003_m02_006: Parfait ! On a du pain sur la planche !
+MID_LGV_1KAI_LG11_010_m01: <TH>
+MID_LGV_1KAI_LG11_010_m01_001: Utilisons le temps qu'il nous reste avant le combat\nde qualification pour nous préparer.
+MID_LGV_1KAI_LG11_010_m01_002: Nous pourrions aider les gens pour {SetColor=Gold}gagner en\nrenommée{SetColor=Default} ou trouver {SetColor=Gold}des matériaux à échanger{SetColor=Default}\ncontre {SetColor=Gold}de meilleures armes{SetColor=Default}...
+MID_LGV_1KAI_LG11_010_m01_003: Sans oublier d'aller discuter avec ce charmant petit\noiseau si on en a l'occasion !
+MID_LGV_1KAI_c05_LG11_011_m01: <TH>
+MID_LGV_1KAI_c05_LG11_011_m01_001: Je t'en supplie, mène-moi au {SetColor=Gold}Démon Chenu{SetColor=Default}.
+MID_LGV_1KAI_c05_LG11_011_m12: <TH>
+MID_LGV_1KAI_c05_LG11_011_m12_001: Ah, hmm... Êtes-vous certain que ce chemin\nnous mènera au Démon Chenu ?
+MID_LGV_1KAI_TG11_004_m01: <TH>
+MID_LGV_1KAI_TG11_004_m01_001: Comment faire pour devenir aussi fort que Bertrand ?
+MID_LGV_1KAI_TG11_004_m01_002: Je ne sais pas si tu devrais vraiment tout faire pour\nlui ressembler. Pourquoi ne pas plutôt cultiver\ntes propres talents ?
+MID_LGV_1KAI_TG11_004_m01_003: Par exemple, je ne connais personne d'aussi doué\nque toi avec les animaux.
+MID_LGV_1KAI_TG11_004_m01_004: Je parie que tu ferais un {SetColor=Gold}cavalier{SetColor=Default} formidable !
+MID_LGV_1KAI_TG11_004_m01_005: Tu sais quoi ? J'y avais jamais pensé, mais c'est\nune super idée !
+MID_LGV_1KAI_TG11_004_m01_006: C'est bien joli, mais comment je fais pour\ndevenir un cavalier, moi ?
+MID_LGV_1KAI_TG11_004_m01_007: Il y a des{SetColor=Gold} écuries{SetColor=Default} à Dagsion. Allons voir\nà quoi elles ressemblent.
+MID_LGV_1KAI_TG11_004_m01_008: Peut-être que tu y trouveras la réponse à ta question.
+MID_LGV_1KAI_TG11_004_m01_009: Je crois que c'est dans la{SetColor=Gold} ville basse{SetColor=Default}, pas très loin\ndes {SetColor=Gold}escaliers{SetColor=Default}. Je vais voir !
+MID_LGV_1KAI_TG11_004_Closed_m01: <TH>
+MID_LGV_1KAI_TG11_004_Closed_m01_001: Je crois pas que les écuries soient de ce côté.
+MID_LGV_1KAI_TG11_004_m02: <TH>
+MID_LGV_1KAI_TG11_004_m02_001: C'est la première fois que vous venez aux {SetColor=Gold}écuries{SetColor=Default} ?\nIci, vous pouvez installer et {SetColor=Gold}nourrir{SetColor=Default} vos bêtes.
+MID_LGV_1KAI_TG11_004_m03: <TH>
+MID_LGV_1KAI_TG11_004_m03_001: En {SetColor=Gold}nourrissant{SetColor=Default} vos animaux, vous améliorez votre\n{SetColor=Gold}relation avec eux{SetColor=Default} et vous les rendez plus forts !
+MID_LGV_1KAI_TG11_004_m03_002: En plus des ornius et des chevaux, nous pouvons\naussi nous occuper des baus et des pégases !
+MID_LGV_1KAI_TG11_004_m03_003: Mais on n'a pas d'animaux, nous... Comment on fait\npour en trouver ?
+MID_LGV_1KAI_TG11_004_m03_004: Les temples {SetColor=Gold}fournissent une monture {SetColor=Default}à tous ceux\nqui réussissent l'{SetColor=Gold}examen d'aptitude à la cavalerie{SetColor=Default}.
+MID_LGV_1KAI_TG11_004_m03_005: Cela dit, ta monture te sera {SetColor=Gold}encore plus fidèle{SetColor=Default} si\nc'est toi qui {SetColor=Gold}la captures et qui prends soin d'elle{SetColor=Default} !
+MID_LGV_1KAI_TG11_004_m03_006: Ce serait l'idéal, mais comment on fait pour attraper\nun animal ? On n'en voit pas souvent.
+MID_LGV_1KAI_TG11_004_m03_007: Le mieux est d'utiliser un {SetColor=Gold}appât{SetColor=Default}. Vous pouvez\nen poser {SetColor=Gold}dans une zone fréquentée par les animaux\nsauvages{SetColor=Default} et attendre que l'un d'eux se présente.
+MID_LGV_1KAI_TG11_004_m03_008: Vous posez votre appât et vous vous éloignez.\nSi un animal finit par venir, vous revenez\net vous essayez de l'{SetColor=Gold}attraper{SetColor=Default} !
+MID_LGV_1KAI_TG11_004_m03_009: Merci pour votre aide ! Allez, venez tous les deux.\nEssayons d'attraper un animal !
+MID_LGV_1KAI_TG11_004_GM_m01: <TH>
+MID_LGV_1KAI_TG11_004_GM_m01_001: Où pourrait-on bien placer un appât ? Hmm...\nEt pourquoi pas {SetColor=Gold}là-bas{SetColor=Default} ?
+MID_LGV_1KAI_TG11_004_GM_m02: <TH>
+MID_LGV_1KAI_TG11_004_GM_m02_001: Regardez, des traces ! Je crois qu'un ornius est passé\npar ici !
+MID_LGV_1KAI_TG11_004_GM_m02_002: On va poser un {SetColor=Gold}appât{SetColor=Default} et voir si ça fonctionne aussi\nbien qu'on nous l'a dit.
+MID_LGV_1KAI_TG11_004_GM_m03: <TH>
+MID_LGV_1KAI_TG11_004_GM_m03_001: Tiens. Je me suis acheté ça tout à l'heure,\nmais j'ai pas pu finir.
+MID_LGV_1KAI_TG11_004_GM_m04: <TH>
+MID_LGV_1KAI_TG11_004_GM_m04_001: On a posé l'appât, c'est bon. On a plus qu'à\nespérer qu'un animal pointe le bout de ses naseaux.
+MID_LGV_1KAI_TG11_004_GM_m04_002: À l'écurie, on nous a dit de nous éloigner et de {SetColor=Gold}laisser\npasser un peu de temps{SetColor=Default} avant de revenir.
+MID_LGV_1KAI_TG11_004_GM_m05: <TH>
+MID_LGV_1KAI_TG11_004_GM_m05_001: Regardez, ça a marché ! Vite, allons l'{SetColor=Gold}attraper{SetColor=Default} !
+MID_LGV_1KAI_TG11_004_GM_m06: <TH>
+MID_LGV_1KAI_TG11_004_GM_m06_001: Ouais ! On a réussi ! On a attrapé un ornius !
+MID_LGV_1KAI_TG11_004_GM_m06_002: Il doit avoir envie de manger un vrai repas.\nRamenons-le aux écuries !
+MID_LGV_1KAI_TG11_004_m04: <TH>
+MID_LGV_1KAI_TG11_004_m04_001: Ça {SetColor=Gold}apaisera{SetColor=Default} sûrement ce petit chou de manger\nsa {SetColor=Gold}nourriture préférée{SetColor=Default} !
+MID_LGV_1KAI_TG11_004_m05: <TH>
+MID_LGV_1KAI_TG11_004_m05_001: Oh, il a l'air de s'être régalé ! Je pense qu'il est\nrassuré maintenant, on pourra revenir lui rendre\nvisite plus tard !
+MID_LGV_1KAI_TG11_108_m01: <TH>
+MID_LGV_1KAI_TG11_108_m01_001: Maintenant, il ne te reste plus qu'à passer l'examen\nd'aptitude à la cavalerie !
+MID_LGV_1KAI_TG11_108_m01_002: Le responsable de l'écurie m'a dit que tu pouvais\nle passer ici, à Dagsion.
+MID_LGV_1KAI_TG11_108_m01_003: Euh, faut pas être {SetColor=Gold}super fort{SetColor=Default} dans {SetColor=Gold}plein\nde compétences{SetColor=Default} pour passer l'examen ?
+MID_LGV_1KAI_TG11_108_m01_004: Hmm... Peter n'a pas tort. Vous devriez vous\n{SetColor=Gold}entraîner{SetColor=Default} avant de songer à passer un examen.
+MID_LGV_1KAI_TG11_108_m01_005: Mais où ? Ah, je me demande si on pourrait pas\nutiliser le {SetColor=Gold}terrain d'entraînement{SetColor=Default} de l'arène...
+MID_LGV_1KAI_TG11_108_m01_006: Il doit sûrement être dans le Colisée. Allons\ndemander à la {SetColor=Gold}réception{SetColor=Default}.
+MID_LGV_1KAI_TG11_108_m02: <TH>
+MID_LGV_1KAI_TG11_108_m02_001: Bonjour ! Vu qu'on participe aux Jeux Héroïques,\non a le droit d'utiliser le terrain d'entraînement,\npas vrai ?
+MID_LGV_1KAI_TG11_108_m02_002: Tout à fait. Vous voulez vous entraîner maintenant ?
+MID_LGV_1KAI_TG11_108_m02_003: Et comment ! Oh, mais... {SetColor=Gold}c'est payant{SetColor=Default} ?
+MID_LGV_1KAI_TG11_108_m02_004: Ne t'en fais pas, Kastor m'a donné de l'argent\npour ce genre de dépenses !
+MID_LGV_1KAI_TG11_108_m03: <TH>
+MID_LGV_1KAI_TG11_108_m03_001: Bonjour ! Vu que je participe aux Jeux Héroïques,\nj'ai le droit d'utiliser le terrain d'entraînement,\npas vrai ?
+MID_LGV_1KAI_TG11_108_m03_002: C'est bien ici, mais... {SetColor=Gold}tu ne peux pas t'entraîner seul{SetColor=Default},\ntu sais ?
+MID_LGV_1KAI_TG11_108_m03_003: Ah bon ? Zut.
+MID_LGV_1KAI_TG11_108_m04: <TH>
+MID_LGV_1KAI_TG11_108_m04_001: Cai, je serais ravie de combattre contre toi, si cela\npeut t'aider.
+MID_LGV_1KAI_TG11_108_m04_002: Vraiment ? Ah, c'est pas de refus !
+MID_LGV_1KAI_TG11_108_m04_003: Attends, Cai... Il faut que {SetColor=Gold}tu paies{SetColor=Default}, non ?
+MID_LGV_1KAI_TG11_108_m04_004: C'est votre premier entraînement ici, pas vrai ?\nJe vous offre l'entrée pour cette fois.
+MID_LGV_1KAI_TG11_109_m01: <TH>
+MID_LGV_1KAI_TG11_109_m01_001: Allez, je pense que je suis prêt pour l'{SetColor=Gold}examen\nd'aptitude{SetColor=Default} !
+MID_LGV_1KAI_TG11_109_m01_002: À l'écurie, on nous a indiqué où trouver\nla personne qui nous le fera passer, non ?
+MID_LGV_1KAI_TG11_109_m01_003: Ah, ça me revient ! Il faut passer par {SetColor=Gold}cette porte{SetColor=Default}, puis\n{SetColor=Gold}monter les escaliers{SetColor=Default}. C'est juste {SetColor=Gold}après les premiers\ntemples{SetColor=Default}.
+MID_LGV_1KAI_TG11_109_WrongPerson_m01: <TH>
+MID_LGV_1KAI_TG11_109_WrongPerson_m01_001: Cai, ce n'est pas lui qui s'occupe des inscriptions.\nL'examinatrice se tient juste à côté.
+MID_LGV_1KAI_TG11_109_m02: <TH>
+MID_LGV_1KAI_TG11_109_m02_001: Cai, pour passer l'examen d'une classe, il te faut\nle permis correspondant.
+MID_LGV_1KAI_TG11_109_m02_002: En temps normal, on l'achète auprès d'un\n{SetColor=Gold}vendeur de permis{SetColor=Default}.
+MID_LGV_1KAI_TG11_109_m03: <TH>
+MID_LGV_1KAI_TG11_109_m03_001: Mais pour cette fois, Kastor nous en a donné un.
+MID_LGV_1KAI_TG11_109_m03_002: Voilà pour toi. Allez, c'est l'heure de vérité !
+MID_LGV_1KAI_TG11_109_m04: <TH>
+MID_LGV_1KAI_TG11_109_m04_001: Bravo, Cai ! Tu as réussi l'examen pour devenir\ncavalier !
+MID_LGV_1KAI_TG11_109_m04_002: Maintenant que tu peux monter un ornius, n'oublie\npas {SetColor=Gold}d'attribuer celui que nous avons attrapé{SetColor=Default}.
+MID_LGV_1KAI_LG11_012_m01: <TH>
+MID_LGV_1KAI_LG11_012_m01_001: Tu as réussi l'examen de cavalier et appris à capturer\ndes animaux. On est bien plus forts, maintenant !
+MID_LGV_1KAI_LG11_012_m01_002: On devrait retourner au {SetColor=Gold}terrain d'entraînement{SetColor=Default} de\ntemps en temps pour {SetColor=Gold}développer nos compétences{SetColor=Default}.\nMoi aussi, {SetColor=Gold}je veux changer de classe{SetColor=Default} !
+MID_LGV_1KAI_LG11_012_m01_003: Oh, et il paraît qu'on peut {SetColor=Gold}se mettre au service{SetColor=Default}\ndes {SetColor=Gold}temples{SetColor=Default} de la ville.
+MID_LGV_1KAI_LG11_012_m01_004: Et même que ça {SetColor=Gold}porte bonheur{SetColor=Default}. Nous devrions\nnous renseigner.
+MID_LGV_1KAI_c06_LG11_013_m01: <TH>
+MID_LGV_1KAI_c06_LG11_013_m01_001: Cai, as-tu un moment à m'accorder ?
+MID_LGV_1KAI_c06_LG11_013_m01_002: Aurora souhaiterait que tu lui rendes visite.
+MID_LGV_1KAI_c06_LG11_013_m01_003: Ma mère veut que j'aille la voir ? Je me demande\npourquoi.
+MID_LGV_1KAI_c06_LG11_013_m01_004: Elle a peut-être découvert quelque chose au sujet\nde ce bijou incrusté dans ta paume.
+MID_LGV_1KAI_c06_LG11_013_m01_005: Allons lui demander !
+MID_LGV_1KAI_c06_LG11_014_m01: <TH>
+MID_LGV_1KAI_c06_LG11_014_m01_001: Cai, ce n'est plus la peine de passer par les égouts\npour venir me voir, tu sais ?
+MID_LGV_1KAI_c06_LG11_014_m01_003: J'en ai discuté avec Centurio. Il a fait le nécessaire\npour que tu puisses me rendre visite en passant\npar le temple.
+MID_LGV_1KAI_c06_LG11_014_m01_002: Si tu souhaites {SetColor=Gold}me rendre visite{SetColor=Default} à l'avenir, parles-en\nà {SetColor=Gold}Centurio{SetColor=Default}. Il te fera entrer dans le temple.
+MID_LGV_1KAI_LG11_014_m02: <TH>
+MID_LGV_1KAI_LG11_014_m02_001: Une déesse a besoin d'un service... et c'est à nous\nqu'elle demande de l'aider ! C'est fou !
+MID_LGV_1KAI_LG11_014_m02_002: On a dû se bâtir une jolie réputation si une divinité\nen personne nous demande un coup de pouce !
+MID_LGV_1KAI_LG11_014_m02_003: Peut-être, mais c'est encore tôt pour prendre la grosse\ntête, Peter.
+MID_LGV_1KAI_LG11_014_m02_004: Pour l'instant, on va tâcher d'être fin prêts pour\nnotre rendez-vous avec ma mère.
+MID_LGV_1KAI_LG11_014_m02_005: T'as raison. Continuons à aider les gens pour\n{SetColor=Gold}devenir plus forts{SetColor=Default} !
+MID_LGV_1KAI_TG11_005_m01: <TH>
+MID_LGV_1KAI_TG11_005_m01_001: Eh, mon garçon. Je te reconnais, tu viens de Ribeira.\nPeux-tu m'aider, s'il te plaît ?
+MID_LGV_1KAI_TG11_005_m01_002: Oui, bien sûr. Qu'est-ce que je peux faire pour vous ?
+MID_LGV_1KAI_TG11_005_m02: <TH>
+MID_LGV_1KAI_TG11_005_m02_001: Où est-ce qu'on va trouver autant de légumes ?
+MID_LGV_1KAI_TG11_005_m02_002: On pourrait peut-être en {SetColor=Gold}faire pousser{SetColor=Default} nous-mêmes\ndans un champ ou un potager ? C'est comme ça\nqu'on faisait au village.
+MID_LGV_1KAI_TG11_005_m02_003: Bonne idée ! Hé, il me reste des graines,\non peut essayer avec ça pour commencer !
+MID_LGV_1KAI_TG11_005_GM_m01: <TH>
+MID_LGV_1KAI_TG11_005_GM_m01_001: Ici, ça a l'air d'être un bon endroit pour un {SetColor=Gold}champ{SetColor=Default}.
+MID_LGV_1KAI_TG11_005_GM_m02: <TH>
+MID_LGV_1KAI_TG11_005_GM_m02_001: Voilà, on a planté nos graines. Maintenant, on a plus\nqu'à {SetColor=Gold}attendre que ça pousse{SetColor=Default} ! Tant qu'à faire,\non pourrait en profiter pour en planter ailleurs.
+MID_LGV_1KAI_TG11_005_GM_m02_002: C'est pas une mauvaise idée, mais j'en ai plein\nles pattes. Viens, on va se reposer en ville et\non reviendra plus tard.
+MID_LGV_1KAI_TG11_005_GM_m03: <TH>
+MID_LGV_1KAI_TG11_005_GM_m03_001: C'est le moment de la récolte ! Allons voir\nce qui a poussé dans notre {SetColor=Gold}champ{SetColor=Default}.
+MID_LGV_1KAI_TG11_005_GM_m03_002: Pour {SetColor=Gold}récolter{SetColor=Default} ce qui a poussé dans le champ, il suffit\nde {SetColor=Gold}passer dessus{SetColor=Default}. C'est plus simple que d'attraper\ndes animaux sauvages !
+MID_LGV_1KAI_TG11_005_GM_m04: <TH>
+MID_LGV_1KAI_TG11_005_GM_m04_001: Hourra ! Ça a fonctionné ! On a réussi !\nRegardez tout ce qu'on a récolté !
+MID_LGV_1KAI_TG11_005_GM_m04_002: Au fait, vous savez que des {SetColor=Gold}plantes rares{SetColor=Default} peuvent\npousser dans les champs ? J'espère qu'on en aura\nplus à la prochaine moisson !
+MID_LGV_1KAI_TG11_005_GM_m05: <TH>
+MID_LGV_1KAI_TG11_005_GM_m05_001: Nous en avons déjà une bonne quantité.\nNous pourrons bientôt faire notre livraison.
+MID_LGV_1KAI_TG11_005_GM_m05_002: {SetColor=Gold}Planter des légumes{SetColor=Default} est bien plus efficace\nqu'en {SetColor=Gold}chercher{SetColor=Default} au petit bonheur la chance.
+MID_LGV_1KAI_TG11_005_GM_m05_003: Et puis, nous pouvons toujours les {SetColor=Gold}échanger{SetColor=Default} contre\nde l'équipement au Consortium Vandahl !
+MID_LGV_1KAI_TG11_005_GM_m05_004: Ça se présente bien ! Retournons en ville.
+MID_LGV_1KAI_LG11_014_m03: <TH>
+MID_LGV_1KAI_LG11_014_m03_001: Cai ! Une {SetColor=Gold}forge{SetColor=Default} a ouvert en ville. On pourrait\ny passer quand on aura un peu de temps !
+MID_LGV_1KAI_LG11_014_m03_002: Il paraît qu'on peut leur demander de {SetColor=Gold}réparer{SetColor=Default}\nnos {SetColor=Gold}armes{SetColor=Default} ou même de les {SetColor=Gold}améliorer{SetColor=Default} !
+MID_LGV_1KAI_c06_GM11_003_m01: <TH>
+MID_LGV_1KAI_c06_GM11_003_m01_001: Merci pour le bateau ! Vous nous sauvez la mise.
+MID_LGV_1KAI_c06_GM11_003_m01_002: Soyez prudents. L'île de Balor n'est pas un lieu\nanodin.
+MID_LGV_1KAI_c06_LG11_016_m01: <TH>
+MID_LGV_1KAI_c06_LG11_016_m01_001: Ahm Lu... C'était la capitale du Royaume de\nDamascar autrefois... Et regardez ce qu'il en reste...
+MID_LGV_1KAI_c06_LG11_016_m01_002: Tout est en ruine. Il y a personne...
+MID_LGV_1KAI_c06_LG11_016_m01_003: {SetColor=Gold}Explorons{SetColor=Default} cet endroit, nous trouverons sûrement\nquelque chose d'utile.
+MID_LGV_1KAI_c06_LG11_016_m01_004: Cai, bien que je ne voie pas d'objection à cette\nfouille, la ville morte d'Ahm Lu est dangereuse.\nFaites attention à vous pendant vos recherches.
+MID_LGV_1KAI_c06_DN11_004_m01: <TH>
+MID_LGV_1KAI_c06_DN11_004_m01_001: Peter ? Tialla ? Ultand ? Centurio ?!
+MID_LGV_1KAI_c06_DN11_004_m01_002: Il y a plus que moi ici...
+MID_LGV_1KAI_c06_DN11_004_m01_003: Je sais pas où je suis tombé, mais le meilleur moyen\nde trouver la sortie est sans doute d'{SetColor=Gold}avancer{SetColor=Default}.
+MID_LGV_1KAI_c06_DN11_005_m01: <TH>
+MID_LGV_1KAI_c06_DN11_005_m01_001: C-C-C'est quoi, ces trucs ?! Ils sortent d'oùùù ?!
+MID_LGV_1KAI_c06_DN11_005_m01_002: Peter, on a pas le temps ! Il faut qu'on {SetColor=Gold}sorte d'ici{SetColor=Default}\ntout de suite pour {SetColor=Gold}ne pas nous faire attraper{SetColor=Default} !
+MID_LGV_1KAI_c08_LG11_027_m01: <TH>
+MID_LGV_1KAI_c08_LG11_027_m01_001: Dis, le {SetColor=Gold}combat spécial{SetColor=Default} de Bertrand doit bientôt\navoir lieu, n'est-ce pas ?
+MID_LGV_1KAI_c08_LG11_027_m01_002: J'ai tellement hâte d'y assister ! Allons au {SetColor=Gold}Colisée{SetColor=Default}\ntout de suite pour avoir les meilleures places !
+MID_LGV_1KAI_c08_LG11_018_m01: <TH>
+MID_LGV_1KAI_c08_LG11_018_m01_001: Toi, là ! Tu es bien Cai, des Vents de Ribeira ?
+MID_LGV_1KAI_c08_LG11_018_m01_002: J'ai quelque chose à te demander. Pourrais-je\ncompter sur toi ?
+MID_LGV_1KAI_c09_LG11_019_m01: <TH>
+MID_LGV_1KAI_c09_LG11_019_m01_001: Cai, je te fais confiance pour mener l'{SetColor=Gold}enquête{SetColor=Default} au sein\ndu temple.
+MID_LGV_1KAI_c09_LG11_019_m01_002: Viens me voir quand tu voudras retourner dans\nles appartements d'Aurora.
+MID_LGV_1KAI_c09_LG11_019_m02: <TH>
+MID_LGV_1KAI_c09_LG11_019_m02_005: « Le Paradis éternel ». C'est une représentation\ndu paradis tel que les divinités l'ont conçu.
+MID_LGV_1KAI_c09_LG11_019_m02_001: Je me fais des idées, ou cette peinture a quelque\nchose de bizarre ?
+MID_LGV_1KAI_c09_LG11_019_m02_002: Ah bon ? Moi, je la trouve plutôt jolie.
+MID_LGV_1KAI_c09_LG11_019_m02_003: J'ai du mal à l'expliquer, mais... J'ai l'impression\nqu'il y a quelque chose qui tourne pas rond ici.
+MID_LGV_1KAI_c09_LG11_019_m02_004: Si tu as un mauvais pressentiment, nous devrions\nsans doute prendre garde à cette fresque.
+MID_LGV_1KAI_c09_LG11_019_m05: <TH>
+MID_LGV_1KAI_c09_LG11_019_m05_001: Toutes les issues du temple ont été condamnées.\nLes personnes qu'on cherche doivent encore être\nà l'intérieur, pas vrai ?
+MID_LGV_1KAI_c09_LG11_019_m05_002: Il n'est pas non plus impossible qu'elles se soient\nenfuies avant qu'on ne remarque les disparitions...
+MID_LGV_1KAI_c09_LG11_019_m05_003: Comment ces types auraient fait pour enlever\ndes gens et les faire sortir du temple au nez et\nà la barbe de tout le monde ?
+MID_LGV_1KAI_c09_LG11_019_m05_004: Ils ont peut-être rapetissé leurs victimes et les ont\nmises dans des sacs pour que personne ne s'aperçoive\nde rien ?
+MID_LGV_1KAI_c09_LG11_019_m05_005: Quoi ?! C'est possible, ça ?! C'est encore pire\nque ce que j'imaginais, cette histoire !
+MID_LGV_1KAI_c09_LG11_019_m06: <TH>
+MID_LGV_1KAI_c09_LG11_019_m06_001: C'est par ici qu'on sort quand on passe par les égouts.\nJ'y pense...
+MID_LGV_1KAI_c09_LG11_019_m06_002: Cette issue est très bien dissimulée. Je ne pense pas\nqu'on puisse la trouver par hasard.
+MID_LGV_1KAI_c09_LG11_019_m06_003: À moins que la personne qu'on cherche connaisse\ndéjà ce passage... Si c'est le cas, elle a pu l'utiliser.
+MID_LGV_1KAI_c09_LG11_019_m06_004: T'as raison, c'est pas à exclure. Pas tant qu'on a pas\nde piste plus solide.
+MID_LGV_1KAI_c09_LG11_019_m07: <TH>
+MID_LGV_1KAI_c09_LG11_019_m07_001: Cette grille a l'air extrêmement solide...
+MID_LGV_1KAI_c09_LG11_019_m07_002: Franchement, je comprends pas pourquoi ils font tout\nça pour empêcher ma mère de sortir.
+MID_LGV_1KAI_c09_LG11_019_m07_003: Comment mon grand-père Solel peut infliger ça\nà sa propre fille ?
+MID_LGV_1KAI_c09_LG11_019_m07_004: ...
+MID_LGV_1KAI_c09_LG11_019_m08: <TH>
+MID_LGV_1KAI_c09_LG11_019_m08_001: Cette statue est vraiment grande... Vous croyez\nque quelqu'un ou quelque chose pourrait s'y cacher ?
+MID_LGV_1KAI_c09_LG11_019_m08_002: Cela dit... je ne vois pas de mécanisme particulier\npour l'ouvrir.
+MID_LGV_1KAI_c09_LG11_019_m09: <TH>
+MID_LGV_1KAI_c09_LG11_019_m09_001: Quand on y pense, c'est incroyable de penser que\nle feu est capable de faire disparaître tout le corps\nd'une personne sans laisser aucune trace.
+MID_LGV_1KAI_c09_LG11_019_m09_002: Cai, arrête de dire des trucs comme ça !\nTu me files la trouille !
+MID_LGV_1KAI_c09_LG11_019_m09_003: Si quelqu'un avait vraiment fait ça, je pense que\nles os n'auraient pas été consumés.
+MID_LGV_1KAI_c09_LG11_019_m03: <TH>
+MID_LGV_1KAI_c09_LG11_019_m03_001: Nous avons fouillé le temple dans ses moindres\nrecoins, mais nous n'avons pas trouvé un seul indice.
+MID_LGV_1KAI_c09_LG11_019_m03_002: Ouais... Je pense que tout ce qu'il nous reste à faire,\nc'est d'aller {SetColor=Gold}parler à ma mère{SetColor=Default} du peu de choses\nqu'on a vues.
+MID_LGV_1KAI_c09_LG11_019_m04: <TH>
+MID_LGV_1KAI_c09_LG11_019_m04_001: Aaah !
+MID_LGV_1KAI_c09_LG11_019_m04_002: C'était Ultand ?!
+MID_LGV_1KAI_c09_LG11_019_m04_003: Ça venait de la grande salle !
+MID_LGV_1KAI_c09_LG11_019_m04_004: Vite, retournons là-bas !
+MID_LGV_1KAI_LG11_019_m01: <TH>
+MID_LGV_1KAI_LG11_019_m01_001: Ultand ?!
+MID_LGV_1KAI_LG11_019_m01_002: Je la vois nulle part.
+MID_LGV_1KAI_LG11_019_m01_003: Hmm... Que se passe-t-il ici... ?
+MID_LGV_1KAI_LG11_019_m01_004: Je ne sais pas comment l'expliquer, mais quelque\nchose a changé. L'atmosphère du temple n'est plus\nla même, tout à coup... Quelque chose cloche.
+MID_LGV_1KAI_c09_LG11_020_m01: <TH>
+MID_LGV_1KAI_c09_LG11_020_m01_001: Je me fais du souci pour Ultand, mais avant d'agir,\nnous devons comprendre la nature de notre ennemi.
+MID_LGV_1KAI_c09_LG11_020_m01_002: Cela va prendre un peu de temps, mais je vais\nme renseigner sur Zenzele.
+MID_LGV_1KAI_c09_LG11_020_m01_003: J'essaierai d'en apprendre le plus possible.\nPendant ce temps, Cai, tâche de te préparer.
+MID_LGV_1KAI_c09_LG11_021_m01: <TH>
+MID_LGV_1KAI_c09_LG11_021_m01_001: Mais où on est tombés ? On est vraiment à l'intérieur\nde la fresque, vous pensez ?
+MID_LGV_1KAI_c09_LG11_021_m01_002: Regardez autour de nous. Ce lieu est pareil à celui\nqui est représenté dans la fresque du temple.
+MID_LGV_1KAI_c09_LG11_021_m01_003: C'est donc le paradis éternel ? C'est absolument\nmagnifique, et pourtant... Je ne sais pas comment\nexpliquer ce que j'éprouve.
+MID_LGV_1KAI_c09_LG11_021_m01_004: Moi je peux : cet endroit fiche la frousse. J'ai ressenti\nla même chose la première fois qu'on s'est approchés\nde la fresque.
+MID_LGV_1KAI_c09_LG11_021_m01_005: Il faut qu'on {SetColor=Gold}trouve Ultand{SetColor=Default} et qu'on sorte d'ici !
+MID_LGV_1KAI_c09_LG11_021_m02: <TH>
+MID_LGV_1KAI_c09_LG11_021_m02_001: Ultand ! Tout va bien ?!
+MID_LGV_1KAI_c09_LG11_021_m02_002: Cai ? Où... Où sommes-nous ?
+MID_LGV_1KAI_c09_LG11_021_m02_003: Ultand, juste ciel ! Tu n'es pas blessée ?
+MID_LGV_1KAI_c09_LG11_021_m02_004: Aurora ? Que se passe-t-il ? Vous avez quitté vos\nappartements ? Est-ce que tout va bien ?
+MID_LGV_1KAI_c09_LG11_021_m02_006: Ooh, je comprends ! Je suis en train de rêver.
+MID_LGV_1KAI_c09_LG11_021_m02_005: Viens, Ultand ! On va régler son compte au type\nqui t'a enfermée ici !
+MID_LGV_1KAI_c11_LG11_023_m01: <TH>
+MID_LGV_1KAI_c11_LG11_023_m01_001: Je souhaite m'en assurer une dernière fois :\nes-tu certain qu'Aurora acceptera de m'accorder\nune audience ?
+MID_LGV_1KAI_c11_LG11_023_m01_002: Puisque je vous le dis. Suivez-moi, je vais vous mener\njusqu'à elle.
+MID_LGV_1KAI_c11_LG11_023_m01_003: Je vois que tu dis vrai. Je te fais confiance...
+MID_LGV_1KAI_c11_LG11_023_m02: <TH>
+MID_LGV_1KAI_c11_LG11_023_m02_001: Quelle odeur pestilentielle. Pourquoi me faire\nemprunter une route aussi infecte ?
+MID_LGV_1KAI_c11_LG11_023_m02_002: Baaah, parce que c'est le meilleur moyen d'aller\nvoir Aurora ?
+MID_LGV_1KAI_c11_LG11_023_m02_003: Quel toupet. Si je ne te tenais pas en si haute estime,\ntu serais châtié pour cet attentat à ma dignité.
+MID_LGV_1KAI_c11_LG11_023_m02_004: Il me coûte de croire qu'un passage aussi abject\npuisse mener à Auror... Aah !
+MID_LGV_1KAI_c11_LG11_023_m02_005: Theodora, tout va bien ? Me dites pas que vous avez\npeur des petites bestioles, si ?
+MID_LGV_1KAI_c11_LG11_023_m02_006: Il suffit. Je quitte ces lieux sur-le-champ.
+MID_LGV_1KAI_c11_LG11_023_m02_007: Comme vous voudrez. C'est vous qui voyez. Après\ntout, vous aviez peut-être pas si envie que ça\nde voir Aurora.
+MID_LGV_1KAI_c11_LG11_023_m02_008: Grr ! Tu sais t'y prendre pour me forcer la main.
+MID_LGV_1KAI_c11_LG11_023_m03: <TH>
+MID_LGV_1KAI_c11_LG11_023_m03_001: {SetColor=Gray}Y a plein de soldats par ici. Probablement\nsur ordre de Theodora...{SetColor=Default}
+MID_LGV_1KAI_c11_LG11_023_m03_002: {SetColor=Gray}Du coup, je peux pas emprunter le chemin habituel\npour aller voir maman.{SetColor=Default}
+MID_LGV_1KAI_c11_LG11_023_m03_003: Il va falloir prendre le {SetColor=Gold}passage secret{SetColor=Default} dans les égouts.
+MID_LGV_1KAI_c11_LG11_025_m01: <TH>
+MID_LGV_1KAI_c11_LG11_025_m01_001: Merci de m'aider à me faufiler hors du temple, Cai.\nNous avons même réussi à échapper à la vigilance\nde Centurio.
+MID_LGV_1KAI_c11_LG11_025_m01_002: Il y a des endroits que j'aimerais voir aujourd'hui...\nJ'espère que je ne t'en demande pas trop.
+MID_LGV_1KAI_c11_LG11_025_m01_003: Alors mettons-nous en route. J'aimerais visiter\nle {SetColor=Gold}centre-ville de Dagsion{SetColor=Default}.
+MID_LGV_1KAI_c11_Aur_Closed_m01: <TH>
+MID_LGV_1KAI_c11_Aur_Closed_m01_001: Cai, nous risquons de nous faire repérer si nous\nessayons de passer par ici.
+MID_LGV_1KAI_c11_Aur_Closed_m01_002: Ah, c'est vrai. Mieux vaut ne pas attirer l'attention\nsur nous.
+MID_LGV_1KAI_c11_Aur_Closed_m01_003: J'aimerais rester dans cette partie de la ville,\nsi tu n'y vois pas d'inconvénient.
+MID_LGV_1KAI_c11_LG11_025_m08: <TH>
+MID_LGV_1KAI_c11_LG11_025_m08_001: Oh, c'est comme si rien n'avait changé depuis\nla dernière fois.
+MID_LGV_1KAI_c11_LG11_025_m08_002: Où est-ce que tu veux aller en premier ?
+MID_LGV_1KAI_c11_LG11_025_m08_003: Je voudrais faire quelques achats. Je trouverai\nsûrement mon bonheur dans {SetColor=Gold}la rue commerçante{SetColor=Default}.
+MID_LGV_1KAI_c11_LG11_025_m08_004: J'aimerais aussi {SetColor=Gold}admirer la vue{SetColor=Default} sur le port depuis\nles hauteurs de la ville.
+MID_LGV_1KAI_c11_LG11_025_m08_005: Quel plaisir de sortir du temple. J'y ai passé tant\nd'années enfermée et isolée.
+MID_LGV_1KAI_c11_LG11_025_m08_006: Je m'en doute. Ça te dit de commencer par\nun petit tour de la ville ?
+MID_LGV_1KAI_c11_LG11_025_m02: <TH>
+MID_LGV_1KAI_c11_LG11_025_m02_001: Hmm... Peut-être qu'ils n'en font plus.
+MID_LGV_1KAI_c11_LG11_025_m02_002: Il y a d'autres échoppes dans la capitale. On peut\ncontinuer à chercher si tu veux.
+MID_LGV_1KAI_c11_LG11_025_m02_003: Excellente idée ! Je te suis.
+MID_LGV_1KAI_c11_LG11_025_m03: <TH>
+MID_LGV_1KAI_c11_LG11_025_m03_001: Oh, j'ai trouvé ! Ça me rappelle tellement\nde souvenirs...
+MID_LGV_1KAI_c11_LG11_025_m03_002: Excusez-moi, combien coûte cet article,\ns'il vous plaît ?
+MID_LGV_1KAI_c11_LG11_025_m03_005: Oh, c'est tout, vraiment ? Je vous l'achète !
+MID_LGV_1KAI_c11_LG11_025_m03_003: Je suis content de savoir que tu as pu trouver ce que\ntu cherchais.
+MID_LGV_1KAI_c11_LG11_025_m03_004: Cela faisait une éternité que je n'avais pas fait\nquelques emplettes, j'avais peur de ne plus savoir\ncomment m'y prendre ! Tu m'as trouvée rouillée ?
+MID_LGV_1KAI_c11_LG11_025_m04: <TH>
+MID_LGV_1KAI_c11_LG11_025_m04_001: On a fait tout ce que tu voulais faire, Maman.\nTu veux rentrer ?
+MID_LGV_1KAI_c11_LG11_025_m04_002: Bientôt. Mais d'abord, il y a un dernier endroit\noù je voudrais me rendre.
+MID_LGV_1KAI_c11_LG11_025_m04_004: Je voudrais rendre visite à {SetColor=Gold}Kastor{SetColor=Default}. Cai, tu sais\ncomment te rendre dans les cachots sous l'arène,\nn'est-ce pas ?
+MID_LGV_1KAI_c11_LG11_025_m04_003: Bien sûr ! Suis-moi !
+MID_LGV_1KAI_c11_LG11_025_m09: <TH>
+MID_LGV_1KAI_c11_LG11_025_m09_001: Cai, sais-tu quel jour nous sommes aujourd'hui ?
+MID_LGV_1KAI_c11_LG11_025_m09_002: Euh... Je sais pas. Pourquoi ?
+MID_LGV_1KAI_c11_LG11_025_m09_003: Ha ha... C'est un jour important... pour notre famille !
+MID_LGV_1KAI_c11_LG11_025_m09_004: J'ai dû oublier un truc...
+MID_LGV_1KAI_c11_LG11_025_m10: <TH>
+MID_LGV_1KAI_c11_LG11_025_m10_001: Rien n'a changé. Tout est toujours aussi splendide.
+MID_LGV_1KAI_c11_LG11_025_m10_002: J'ai toujours adoré cette vue.
+MID_LGV_1KAI_c11_LG11_025_m10_003: La grandeur du ciel, l'éclat du lac Baal... et ce\nsentiment d'appartenance au sein de la foule,\nau cœur de toutes ces existences qui s'entrecroisent.
+MID_LGV_1KAI_c11_LG11_025_m10_004: Moi aussi, j'aime bien la vue qu'on a ici. Elle me fait\npenser aux montagnes autour de Ribeira.
+MID_LGV_1KAI_c11_LG11_025_m10_005: J'ai peine à croire que c'est avec toi que je contemple\naujourd'hui ce paysage que nous aimions tant avec\nton père...
+MID_LGV_1KAI_c11_LG11_025_m10_006: Je me sens... Oui, c'est ça. Je me sens heureuse.
+MID_LGV_1KAI_c11_LG11_025_m05: <TH>
+MID_LGV_1KAI_c11_LG11_025_m05_001: Eeeh, mon pote ! T'es en bonne compagnie,\non dirait !
+MID_LGV_1KAI_c11_LG11_025_m05_002: On a pas le temps, laissez-nous tranquilles.
+MID_LGV_1KAI_c11_LG11_025_m05_003: Eh, fais pas ton timide ! Tu nous la présentes pas ?\nPourtant, ça vaudrait mieux pour toi, j'te l'dis.
+MID_LGV_1KAI_c11_LG11_025_m11: <TH>
+MID_LGV_1KAI_c11_LG11_025_m11_001: Aïe ! Ça va pas la tête, vous êtes malade ?
+MID_LGV_1KAI_c11_LG11_025_m11_002: Silence ! Ne vous avisez pas de toucher\nà un seul cheveu de la tête de mon fils !
+MID_LGV_1KAI_c11_LG11_025_m11_003: Oh... Attendez ! Mais ce gosse fait partie de l'équipe\ndes Vents de Ribeira, nan ? Des Jeux Héroïques ?
+MID_LGV_1KAI_c11_LG11_025_m11_004: Désolé, désolé, on vous avait pas reconnu !
+MID_LGV_1KAI_c11_LG11_025_m12: <TH>
+MID_LGV_1KAI_c11_LG11_025_m12_001: Grr... Ils sont partis.
+MID_LGV_1KAI_c11_LG11_025_m12_002: Cai, je n'en ai pas trop fait ? Cette réaction t'a-t-elle\nsemblé appropriée pour une mère ?
+MID_LGV_1KAI_c11_LG11_025_m12_003: Maman, t'inquiète pas, t'as été parfaite. J'ai adoré\nt'entendre leur dire ça.
+MID_LGV_1KAI_c11_DN11_007_m02: <TH>
+MID_LGV_1KAI_c11_DN11_007_m02_001: Dans ce cas, il me semble que la situation est claire\npour tout le monde. Nous devons les poursuivre.
+MID_LGV_1KAI_c11_DN11_007_m02_002: Ils sont partis dans les tunnels qu'on a empruntés\npour venir ici.
+MID_LGV_1KAI_c11_DN11_007_m02_004: Je les ai entendus parler d'une {SetColor=Gold}porte immense{SetColor=Default}\nqui se trouverait {SetColor=Gold}au niveau inférieur{SetColor=Default}.
+MID_LGV_1KAI_c11_DN11_007_m02_003: Dans ce cas, allons-y. Passez devant, tous les deux.\nJe ne serai pas loin derrière.
+MID_LGV_1KAI_c11_DN11_007_m03: <TH>
+MID_LGV_1KAI_c11_DN11_007_m03_001: Où sont-ils passés ?
+MID_LGV_1KAI_c11_DN11_007_m03_002: Attendez ! Il y a quelqu'un là-bas !
+MID_LGV_1KAI_c11_DN11_007_m01: <TH>
+MID_LGV_1KAI_c11_DN11_007_m01_001: Hein ? Cette porte était fermée avant.
+MID_LGV_1KAI_c11_DN11_007_m01_006: Ce sont sûrement les types que nous poursuivons\nqui l'ont ouverte. Ils ont dû continuer par là.
+MID_LGV_1KAI_c11_DN11_007_m01_002: Mais, dans les entrailles du Colisée...\nNon, impossible. Ils ne peuvent pas...
+MID_LGV_1KAI_c11_DN11_007_m01_003: Tout va bien, Maman ?
+MID_LGV_1KAI_c11_DN11_007_m01_004: Pas maintenant, Cai ! Nous devons les rattraper !
+MID_LGV_Lesson_Firsttime_Bel_m01: <TH>
+MID_LGV_Lesson_Firsttime_Bel_m01_001: Quelle soif d'apprendre ! Je ne pourrai pas ménager\nmes efforts si je veux être un mentor à la hauteur.
+MID_LGV_Lesson_Firsttime_Cas_m01: <TH>
+MID_LGV_Lesson_Firsttime_Cas_m01_001: Voyons un peu... Qu'est-ce que je ne t'ai\npas encore appris ?
+MID_LGV_Lesson_Firsttime_Aur_m01: <TH>
+MID_LGV_Lesson_Firsttime_Aur_m01_001: Cai, je sais que tu te consacres sans relâche\nà ton entraînement. Je ferai moi aussi tout mon\npossible pour être une bonne mère pour toi !
+MID_LGV_Lesson_Explanation01_Introduction_m01: <TH>
+MID_LGV_Lesson_Explanation01_Introduction_m01_001: En tant que commandant général du temple\nd'Aurora, il m'a été donné d'affronter tous types\nd'adversaires au cours de mes années de service.
+MID_LGV_Lesson_Explanation01_Introduction_m01_002: S'il est parfois possible de résoudre un conflit grâce\nau dialogue, il peut s'avérer nécessaire d'avoir\nrecours à la force.
+MID_LGV_Lesson_Explanation01_Introduction_m01_003: Il y a un principe que je souhaiterais que tu retiennes\npour les cas où une telle situation se présente...
+MID_LGV_Lesson_Explanation01_Introduction_m01_004: L'union fait la force. Un {SetColor=Gold}guerrier solitaire{SetColor=Default} l'emportera\nrarement s'il fait face à des {SetColor=Gold}ennemis en surnombre{SetColor=Default}.
+MID_LGV_Lesson_Explanation01_Introduction_m01_005: En envoyant plusieurs unités attaquer un seul\nennemi, tu minimises le risque de subir des dégâts.
+MID_LGV_Lesson_Explanation01_Introduction_m01_006: N'écoute pas ceux qui y voient un signe de lâcheté.\nIl s'agit au contraire d'une technique fondamentale,\nessentielle à tout bon stratège.
+MID_LGV_Lesson_Explanation01_Introduction_m01_007: Et si c'est toi qui te {SetColor=Gold}retrouves débordé{SetColor=Default}, ta meilleure\nchance de salut reste de {SetColor=Gold}battre en retraite{SetColor=Default}\nimmédiatement.
+MID_LGV_Lesson_Explanation01_Introduction_m01_008: Je le répète, il ne s'agit pas là de couardise. Un soldat\nmort ne sert plus à rien. N'oublie jamais cela.
+MID_LGV_Lesson_Explanation02_Introduction_m01: <TH>
+MID_LGV_Lesson_Explanation02_Introduction_m01_001: Très bien, aujourd'hui, on va apprendre à utiliser\nle terrain à notre avantage.
+MID_LGV_Lesson_Explanation02_Introduction_m01_002: Tu le sais sûrement déjà, mais si tu te tiens dans une\nzone couverte de {SetColor=Gold}végétation{SetColor=Default}, tu auras plus de facilité\nà {SetColor=Gold}esquiver les attaques{SetColor=Default}.
+MID_LGV_Lesson_Explanation02_Introduction_m01_003: En revanche, tu auras plus de mal à les {SetColor=Gold}éviter{SetColor=Default} si\ntu te trouves {SetColor=Gold}en terrain difficile{SetColor=Default}, comme sur du sable\nou si tu as les pieds dans l'eau. Fais attention.
+MID_LGV_Lesson_Explanation02_Introduction_m01_004: Maintenant, parlons des déplacements. La {SetColor=Gold}distance\nque tu peux parcourir{SetColor=Default} dépend de ta {SetColor=Gold}classe{SetColor=Default}.
+MID_LGV_Lesson_Explanation02_Introduction_m01_005: Par exemple, les fantassins doivent contourner\ncertains {SetColor=Gold}obstacles{SetColor=Default} que les {SetColor=Gold}classes aériennes{SetColor=Default} peuvent\nsurvoler sans problème.
+MID_LGV_Lesson_Explanation02_Introduction_m01_006: Il faut aussi prendre garde avec {SetColor=Gold}les montures{SetColor=Default}.\nCertes, elles permettent de couvrir une {SetColor=Gold}plus\ngrande distance{SetColor=Default}, mais...
+MID_LGV_Lesson_Explanation02_Introduction_m01_007: elles ont aussi plus de mal à évoluer sur les terrains\naccidentés que les fantassins.
+MID_LGV_Lesson_Explanation02_Introduction_m01_008: Au pire, tu peux toujours {SetColor=Gold}descendre de monture{SetColor=Default}\nen cours de combat, si la situation {SetColor=Gold}tourne en ta\ndéfaveur{SetColor=Default}.
+MID_LGV_Lesson_Explanation02_Introduction_m01_009: L'essentiel est de bien comprendre que le terrain\npeut déterminer l'issue du combat.
+MID_LGV_Lesson_Explanation03_Introduction_m01: <TH>
+MID_LGV_Lesson_Explanation03_Introduction_m01_001: Tu dois garder à l'esprit que ton adversaire peut\nriposter et t'infliger de lourds dégâts.
+MID_LGV_Lesson_Explanation03_Introduction_m01_002: Mais certaines tactiques offensives permettent\nd'éviter ce genre de contrariétés.
+MID_LGV_Lesson_Explanation03_Introduction_m01_003: En attaquant avec {SetColor=Gold}un arc ou de la magie{SetColor=Default}, tu restes\nà distance de tes ennemis, si bien qu'ils {SetColor=Gold}ne peuvent\npas riposter{SetColor=Default}.
+MID_LGV_Lesson_Explanation03_Introduction_m01_004: Il en va de même pour {SetColor=Gold}les haches de lancer et\nles javelots{SetColor=Default}, ainsi que pour certaines {SetColor=Gold}capacités{SetColor=Default}.
+MID_LGV_Lesson_Explanation03_Introduction_m01_005: D'ailleurs, utilise ces dernières avec parcimonie,\nsinon ton arme finira par se briser !
+MID_LGV_Lesson_Explanation03_Introduction_m01_006: Et à ce sujet, n'oublie pas d'aller voir le {SetColor=Gold}forgeron{SetColor=Default}\nrégulièrement pour faire {SetColor=Gold}réparer{SetColor=Default} tes armes.
+MID_LGV_Lesson_Explanation03_Introduction_m01_007: Souviens-toi que tes adversaires feront aussi\nde leur mieux pour t'empêcher de riposter,\nalors sois prudent.
+MID_LGV_Lesson_Explanation03_Introduction_m01_008: Si tu fais preuve de plus de sagesse que ceux qui\nte font face, tu sauras rester à distance quand\nil le faut pour éviter leurs attaques.
+MID_LGV_Lesson_Practice01_Introduction_m01: <TH>
+MID_LGV_Lesson_Practice01_Introduction_m01_001: Et si on changeait un peu de décor ?
+MID_LGV_Lesson_Practice02_Introduction_m01: <TH>
+MID_LGV_Lesson_Practice02_Introduction_m01_001: Très bien, changeons d'endroit maintenant.
+MID_LGV_Lesson_Subjugation01_Introduction_m01: <TH>
+MID_LGV_Lesson_Subjugation01_Introduction_m01_001: Allez, montre-moi ce que t'as appris !
+MID_LGV_Lesson_Subjugation02_Introduction_m01: <TH>
+MID_LGV_Lesson_Subjugation02_Introduction_m01_001: Fais du mieux que tu peux, Cai !
+MID_LGV_Lesson_Subjugation03_Introduction_m01: <TH>
+MID_LGV_Lesson_Subjugation03_Introduction_m01_001: Je compte sur toi pour donner tout ce que tu as.
+MID_Lesson_Practice01_During_e01: <TH>
+MID_Lesson_Practice01_During_e01_001: Grâce à cet exercice, tu en apprendras plus sur\nles forces et les faiblesses des différentes classes.
+MID_Lesson_Practice01_During_e01_002: C'est en utilisant les attaques les plus efficaces contre\ntes adversaires que tu leur feras le plus de dégâts.
+MID_Lesson_Practice01_During_e02: <TH>
+MID_Lesson_Practice01_During_e02_001: Essaie de battre ces {SetColor=Gold}combattants cuirassés{SetColor=Default}.\nLa {SetColor=Gold}magie est efficace{SetColor=Default} contre eux.
+MID_Lesson_Practice01_During_e03: <TH>
+MID_Lesson_Practice01_During_e03_001: Bien joué.
+MID_Lesson_Practice01_During_e04: <TH>
+MID_Lesson_Practice01_During_e04_001: Maintenant, au tour de ces {SetColor=Gold}soldats ailés{SetColor=Default}. Tu verras\nque {SetColor=Gold}les arcs sont particulièrement efficaces{SetColor=Default} contre\nles unités volantes.
+MID_Lesson_Practice01_During_e05: <TH>
+MID_Lesson_Practice01_During_e05_001: Bien, je n'en attendais pas moins de ta part.
+MID_Lesson_Practice01_During_e06: <TH>
+MID_Lesson_Practice01_During_e06_001: Tu vas maintenant affronter un {SetColor=Gold}combattant cuirassé{SetColor=Default}\net un {SetColor=Gold}chasseur{SetColor=Default}. Sois attentif à leur {SetColor=Gold}vitesse de\ndéplacement{SetColor=Default}.
+MID_Lesson_Practice01_During_e06_002: Les ennemis {SetColor=Gold}rapides{SetColor=Default} peuvent effectuer {SetColor=Gold}des doubles\nfrappes{SetColor=Default} et infliger des dégâts considérables.
+MID_Lesson_Practice01_During_e07: <TH>
+MID_Lesson_Practice01_During_e07_001: Excellent. Souviens-toi de ce que tu as appris\naujourd'hui et sers-t'en lors des prochaines\nbatailles que tu livreras.
+MID_Lesson_Practice02_During_e01: <TH>
+MID_Lesson_Practice02_During_e01_001: Aujourd'hui, nous allons apprendre à vaincre\ndes {SetColor=Gold}ennemis de grande taille{SetColor=Default}.
+MID_Lesson_Practice02_During_e02: <TH>
+MID_Lesson_Practice02_During_e02_001: Ces ennemis sont protégés par des {SetColor=Gold}barrières{SetColor=Default}\nqu'il convient d'abattre avant de terrasser ta cible.
+MID_Lesson_Practice02_During_e02_002: Il faut donc que tu concentres d'abord tes forces\nsur la destruction de ces protections ennemies.
+MID_Lesson_Practice02_During_e02_003: Les endroits où une barrière a été {SetColor=Gold}brisée{SetColor=Default} sont {SetColor=Gold}bien\nplus vulnérables{SetColor=Default}.
+MID_Lesson_Practice02_During_e02_004: Pour que tu intègres bien ces enseignements,\nle mieux est que tu essaies toi-même.
+MID_Lesson_Practice02_During_e03: <TH>
+MID_Lesson_Practice02_During_e03_001: Très bien, beau travail.
+MID_Lesson_Practice02_During_e04: <TH>
+MID_Lesson_Practice02_During_e04_001: Formidable.
+MID_Lesson_Practice02_During_e05: <TH>
+MID_Lesson_Practice02_During_e05_001: Quand {SetColor=Gold}toutes les barrières{SetColor=Default} ennemies sont {SetColor=Gold}détruites{SetColor=Default},\non parle de {SetColor=Gold}percée réussie{SetColor=Default}.
+MID_Lesson_Practice02_During_e05_002: Cela {SetColor=Gold}paralyse{SetColor=Default} l'ennemi et offre l'{SetColor=Gold}occasion parfaite{SetColor=Default}\npour attaquer.
+MID_Lesson_Practice02_During_e06: <TH>
+MID_Lesson_Practice02_During_e06_001: Félicitations.
+MID_Lesson_Practice02_During_e07: <TH>
+MID_Lesson_Practice02_During_e07_001: Tu penses peut-être pouvoir l'emporter ainsi,\nmais tu n'as pas suivi mes instructions.
+MID_Lesson_Practice02_During_e07_002: Écoute mes consignes et prouve que tu as compris\nla leçon que je cherchais à t'enseigner.
+MID_Lesson_Practice02_During_e08: <TH>
+MID_Lesson_Practice02_During_e08_001: Hmm... Peut-être que ça suffit.
+MID_Lesson_Practice02_During_e09: <TH>
+MID_Lesson_Practice02_During_e09_001: Bien. Cette séance d'entraînement est terminée.
+MID_Lesson_Practice02_During_e10: <TH>
+MID_Lesson_Practice02_During_e10_001: Ce n'est pas exactement la leçon que j'avais en tête,\nmais tu sais te débarrasser d'ennemis géants.
+MID_LGV_Lesson_Explanation01_Finish_m01: <TH>
+MID_LGV_Lesson_Explanation01_Finish_m01_001: Continue de t'appliquer à l'entraînement. Pour te\nrécompenser de tes efforts, je t'offre ceci.
+MID_LGV_Lesson_Explanation02_Finish_m01: <TH>
+MID_LGV_Lesson_Explanation02_Finish_m01_001: Bon, j'arrête là mon laïus. Tu préfères sûrement\nla pratique à la théorie, pas vrai ?
+MID_LGV_Lesson_Explanation02_Finish_m01_002: Garde juste en mémoire toutes mes leçons,\net fais-en usage dans tes combats.
+MID_LGV_Lesson_Explanation03_Finish_m01: <TH>
+MID_LGV_Lesson_Explanation03_Finish_m01_001: Cai, n'oublie pas mes conseils. Et repasse souvent\nme voir pour que j'admire ton sourire.
+MID_LGV_Lesson_Practice01_Finish_m01: <TH>
+MID_LGV_Lesson_Practice01_Finish_m01_001: Je vois que tu ne manques pas de talent.
+MID_LGV_Lesson_Practice02_Finish_m01: <TH>
+MID_LGV_Lesson_Practice02_Finish_m01_001: Cai, ne relâche pas tes efforts et sache que tu pourras\ntoujours compter sur l'aide de Centurio Corindon.
+MID_LGV_Lesson_Subjugation01_Finish_m01: <TH>
+MID_LGV_Lesson_Subjugation01_Finish_m01_001: Eh... On dirait que t'as fait ça toute ta vie...\nDepuis quand t'es aussi doué ? 
+MID_LGV_Lesson_Subjugation02_Finish_m01: <TH>
+MID_LGV_Lesson_Subjugation02_Finish_m01_001: Je n'avais pas réalisé que tu étais devenu si fort !
+MID_LGV_Lesson_Subjugation02_Finish_m01_002: Ce constat m'emplit de joie et de mélancolie à la fois.\nQuoi qu'il en soit, promets-moi de faire toujours\nattention à toi, d'accord ?
+MID_LGV_Lesson_Subjugation03_Finish_m01: <TH>
+MID_LGV_Lesson_Subjugation03_Finish_m01_001: Tu as changé depuis notre première rencontre, Cai.\nTu es devenu un guerrier très puissant.

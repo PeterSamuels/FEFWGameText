@@ -1,0 +1,150 @@
+﻿MID_Sys_PlayerPhase: Fase del jugador
+MID_Sys_EnemyPhase: Fase del enemigo
+MID_Sys_AllyPhase: Fase de los aliados
+MID_Battle_Damage_NoDamage: Sin daño
+MID_Battle_Damage_Miss: Fallo
+MID_Battle_Damage_Critical: Crítico
+MID_Battle_Damage_Guard: Protección
+MID_Battle_Damage_ChainAttack: Ataque en cadena
+MID_Battle_Damage_OverBlaze: Supraignición
+MID_Battle_Damage_Burst: Ráfaga
+MID_Battle_StatusUp: Mejora
+MID_Battle_StatusDown: Merma
+MID_Battle_BadCondition: Estado alterado
+MID_Battle_CureCondition: Alteración sanada
+MID_Sys_EndureHp: PV
+MID_Sys_Damage: Daño
+MID_Sys_CannonCount: Usos
+MID_Sys_NoEntry: Intransitable
+MID_Sys_NoWalkingEntry: Solo voladores
+MID_Sys_NoWalkingAndDestroy: Solo voladores/Indestructible
+MID_Btl_FirstAttack: Ataca 1.º
+MID_Btl_LastAttack: Ataca 2.º
+MID_Btl_Buff: Mejora
+MID_Btl_Debuff: Merma
+MID_Btl_EnemyDetail_Barrier: Barrera
+MID_Btl_EnemyDetail_BarrierItem: Ruptura total
+MID_Btl_EnemyDetail_StockSkill: Habilid. latentes
+MID_Btl_EnemyDetail_ActivationStock: Lista en:
+MID_SortieMenu_UnitSelect_Help: Selecciona qué unidades quieres usar en el combate.
+MID_BtlMenu_SortieUnit: Unidades
+MID_BtlMenu_UnitGuest: Invitado
+MID_BtlMenu_TurnCount: Turno
+MID_BtlMenu_WaitUnitCount: Unidades activas
+MID_BtlMenu_DefeatCount_GuestUnit: Rivales vencidos por invitados
+MID_BtlMenu_WeaponCost: Desgaste
+MID_BtlMenu_ConsumeHp: Coste PV
+MID_BtlMenu_BigUnitCantSpace_Message: No hay espacio para unidades de gran tamaño.\nRevisa las posiciones de tus unidades.
+MID_BtlMenu_BigUnitChangeDispos_Message: Se han ajustado las posiciones para acomodar\na la unidad de gran tamaño.
+MID_MiracleMenu_Help: Elige una bendición.
+MID_MiracleMenu_Detail: Efecto de la {Variable=0}
+MID_MiracleMenu_Attention_Using: No es posible mientras hay otra bendición activa.
+MID_MiracleMenu_Used: Activa
+MID_MiracleMenu_Confirm: ¿Quieres recibir la {Variable=0}?
+MID_RewindMenu_NotPlayerPhase_Confirm: Esta acción no pertenece a la fase del jugador. ¿Quieres deshacer\nlas acciones hasta este momento de todos modos?
+MID_BtlMenu_Attack: Atacar
+MID_BtlMenu_Arts: Técnica de combate
+MID_BtlMenu_Special: Técnica de ignición
+MID_BtlMenu_SpecialGauge: Control de ignición
+MID_BtlMenu_Gambit: Táctica
+MID_BtlMenu_Rage: Golpe demoledor
+MID_BtlMenu_Morph: Forma dragontina
+MID_BtlMenu_Assist: Apoyo
+MID_BtlMenu_RideOn: Montar
+MID_BtlMenu_RideOff: Desmontar
+MID_BtlMenu_Item: Objetos
+MID_BtlMenu_Transport: Carro
+MID_BtlMenu_Trade: Intercambiar
+MID_BtlMenu_Fixed: Esperar
+MID_BtlMenu_Treasurebox: Cofre
+MID_BtlMenu_Warp: Teleportación
+MID_BtlMenu_Secede: Huir
+MID_BtlMenu_Talk: Hablar
+MID_BtlMenu_Cannon: Artillería
+MID_BtlMenu_Terrain_Default: Accionar
+MID_H_BtlMenu_Terrain_Default_SC11_14: Activa el dispositivo. Activarlos\ntodos anula la barrera mágica.
+MID_H_BtlMenu_Terrain_Default_SC12_08: Acciona el dispositivo. Desactivar\ntodos anula la barrera que protege\na los jinetes de elefantes.
+MID_H_BtlMenu_Terrain_Default_SC13_12: Activa el dispositivo. Activar varios\nanula las barreras mágicas.
+MID_H_BtlMenu_Terrain_Default_SC14_06: Activa el dispositivo que anula\nel efecto del agua pura en todas\nlas unidades.
+MID_H_BtlMenu_Terrain_Default_SC14_13: Activa el dispositivo que refuerza\nlas barreras contra la técnica\nCañón telúrico durante 1 turno.
+MID_H_BtlMenu_Terrain_Default_SC15_07: Activa el dispositivo. Activarlos\ntodos anula el refuerzo del gigante.
+MID_H_BtlMenu_Terrain_Default_SC15_15: Activa el dispositivo que anula\nlas trampas del suelo.
+MID_H_BtlMenu_Terrain_Default_SC18_14: Activa las trampas del suelo cercanas\ne inflige daño a las unidades\nque haya sobre ellas (máx. 2 usos).
+MID_H_BtlMenu_Terrain_Default_SC13_13_2: Activa el dispositivo.\nActivarlos todos abre el rastrillo.
+MID_H_BtlMenu_Terrain_Default_SC13_13_1: Activa las casillas de teletransporte.
+MID_H_BtlMenu_Terrain_Default_SC16_18: Detiene la producción de flamma.
+MID_H_BtlMenu_Terrain_Default_SC18_10: Activa el dispositivo que permuta\nlas mejoras enemigas de Agu y Rsl.
+MID_H_BtlMenu_Terrain_Default_SC18_03: Activa el dispositivo para potenciar\na {Unknown080E=03}Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC12_03: Acciona el dispositivo. Accionar 3\nanula las mejoras de {Unknown080E=03}Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC12_15: Manipula el dispositivo y activa\nel {LowercaseNextLetter}Titán enemigo, a la vez que\ndestruye todas sus barreras.
+MID_H_BtlMenu_Terrain_Default_SCXX_06: Activa el dispositivo. Activar\nambos en la misma fase acciona\nla {LowercaseNextLetter}Catapulta.
+MID_H_BtlMenu_Terrain_Default_SC12_12: Coloca una trampa durante\n1 turno. Si {Unknown080E=03}Cetus cae en ella,\nquedará inmovilizado.
+MID_H_BtlMenu_Terrain_Default_SC13_09: Activa el dispositivo que\ndisipa la niebla durante\nla fase del jugador.
+MID_BtlMenu_Terrain_Lightflame: Brasero
+MID_H_BtlMenu_Terrain_Lightflame: Hace brillar una llama\nazulada en el brasero.
+MID_BtlMenu_Terrain_Bonfire: Hoguera
+MID_H_BtlMenu_Terrain_Bonfire: Encender la hoguera amplía\nla visibilidad durante 1 turno.
+MID_BtlMenu_Terrain_Candle: Brasero
+MID_H_BtlMenu_Terrain_Candle: Tras encenderlo, la luz que emite\nrepele a los enemigos.
+MID_BtlMenu_Terrain_Fallpillar: Derribar
+MID_BtlMenu_Terrain_Attendpower: Flores lunares
+MID_H_BtlMenu_Terrain_Attendpower: Imbuye las flores de un poder\nque otorga a los aliados cercanos\ninmunidad frente al retroceso.
+MID_BtlMenu_Skill_Invincible: Proteger generador
+MID_BtlMenu_Skill_Clearsandstorm: Anulatormentas
+MID_BtlMenu_Skill_Throwfeed: Cebo
+MID_BtlMenu_Skill_Calmdown: Apaciguar
+MID_BtlMenu_Skill_Thunder: Jabalina relámpago
+MID_BtlMenu_Warning_Invalid_Fallpillar: El pilar caería sobre una unidad.
+MID_BtlMenu_Warning_Invalid_Warp: El punto de destino está ocupado.
+MID_BtlMenu_Warning_AfterTurn: Se reactiva en {Variable=0} turno{SingularPlural0=|s}.
+MID_BtlMenu_Warning_TurnEnd: No puede volver a usarse este turno.
+MID_RewindMenu_Help: Selecciona un punto al que volver en el tiempo.
+MID_RewindMsg_BattleStart: ¡A luchar!
+MID_RewindMsg_PlayerPhase: Inicio de la fase del jugador.
+MID_RewindMsg_EnemyPhase: Inicio de la fase del enemigo.
+MID_RewindMsg_ThirdPhase: Inicio de la fase de la tercera facción.
+MID_RewindMsg_AllyPhase: Inicio de la fase de los aliados.
+MID_RewindMsg_Mov: {Variable=0} se mueve.
+MID_RewindMsg_Wait: {Variable=0} espera.
+MID_RewindMsg_Defeat: {Variable=0} derrota a: {Variable=1}.
+MID_RewindMsg_Defeat2: {Variable=0} derrota, entre otros, a: {Variable=1}.
+MID_RewindMsg_Person_Attack: {Variable=0} inflige {Variable=2} de daño a: {Variable=1}.
+MID_RewindMsg_Destroy: {Variable=0} destruye: {LowercaseNextLetter}{Variable=1}.
+MID_RewindMsg_Attack: {Variable=0} inflige {Variable=2} de daño a: {Variable=1}.
+MID_RewindMsg_Magic: 
+MID_RewindMsg_Skill: {Variable=0} usa {Variable=1}.
+MID_RewindMsg_HPRecovery_Magic: {Variable=0} restaura {Variable=2} PV a: {Variable=1}.
+MID_RewindMsg_Recovery_Magic: {Variable=0} lanza {Variable=1}.
+MID_RewindMsg_Assist_Magic: {Variable=0} lanza {Variable=1}.
+MID_RewindMsg_Assist_Arts: {Variable=0} usa la técnica {Variable=1}.
+MID_RewindMsg_Special: {Variable=0} usa la técnica de ignición {Variable=1}.
+MID_RewindMsg_Gambit: {Variable=0} usa {Variable=1}.
+MID_RewindMsg_Rage: {Variable=0} usa el golpe demoledor {Variable=1}.
+MID_RewindMsg_Used_Item: {Variable=0} usa: {Variable=1}.
+MID_RewindMsg_Secede: {Variable=0} huye.
+MID_RewindMsg_Get_Item: {Variable=0} encuentra en un cofre: {Variable=1}.
+MID_RewindMsg_Open_Treasurebox: {Variable=0} abre un cofre.
+MID_RewindMsg_Miracle: Se usa la {Variable=0}.
+MID_RewindMsg_UnitSkill: {Variable=0} usa {Variable=1}.
+MID_RewindMsg_Fixed: {Variable=0} actúa.
+MWID_Rain: Lluvia
+MWID_H_Rain: Dobla el daño por trueno. Reduce\na la mitad el daño por fuego.\nImpide usar artillería.
+MWID_Sandstorm: Tormenta de arena
+MWID_H_Sandstorm: Reduce la visibilidad.
+MWID_Fog: Niebla
+MWID_H_Fog: Reduce la visibilidad.
+MWID_SC18_10_DefUp: Campo defensivo
+MWID_H_SC18_10_DefUp: Aumenta enormemente la Def\nde todas las unidades en el campo\nde batalla.
+MWID_SC18_10_MdefUp: Campo resistente
+MWID_H_SC18_10_MdefUp: Aumenta enormemente la Res\nde todas las unidades en el campo\nde batalla.
+MID_Battle_AnimSimple_Confirm: En esta batalla pueden producirse muchos combates entre\nunidades enemigas. ¿Quieres desactivar las animaciones\nde dichos combates hasta el final de la batalla?
+MID_Battle_AnimReset_Message: Se han revertido los ajustes de las animaciones\nde combates entre enemigos.
+MID_Battle_EnthusiasticSong: {Variable=1} ha entonado {Variable=0}.\nAumenta el Ata de las unidades enemigas\nsituadas en el radio de alcance.
+MID_Battle_EnthusiasticSong_All: {Variable=1} ha entonado {Variable=0}.\nAumenta el Ata de todas las unidades enemigas.
+MID_Battle_FrozenSong: {Variable=1} ha entonado {Variable=0}.\nAumentan la Def y la Res de las unidades enemigas\nsituadas en el radio de alcance.
+MID_Battle_FrozenSong_All: {Variable=1} ha entonado {Variable=0}.\nAumentan la Def y la Res de todas las unidades enemigas.
+MID_Battle_FrenzySong: {Variable=1} ha entonado {Variable=0}.\nLos aliados situados en el radio de alcance\nsufren Confusión.
+MID_Battle_FrenzySong_All: {Variable=1} ha entonado {Variable=0}.\nTodos los aliados sufren Confusión.
+MID_Battle_PowerAwakening: {Unknown080E=03}Bertrand ha usado Despertar del rey. Su Gol aumenta\nhasta la siguiente fase del jugador.
+MID_Battle_SkillAwakening: {Unknown080E=03}Bertrand ha usado Despertar luminoso. Su Agu aumenta\nhasta la siguiente fase del jugador.
+MID_Battle_StormAwakening: {Unknown080E=03}Bertrand ha usado Despertar fulminante. Su Esq aumenta\nhasta la siguiente fase del jugador.

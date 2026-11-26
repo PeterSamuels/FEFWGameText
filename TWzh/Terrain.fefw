@@ -1,0 +1,200 @@
+﻿MTID_Wall: 牆壁
+MTID_MagicBarrier: 魔法防護牆
+MTID_ControlDevice: 控制裝置
+MTID_ControlDevice_SC12_03: 能力強化裝置
+MTID_ControlDevice_SC18_03: 
+MTID_ControlDevice_SC18_10: 
+MTID_ControlDevice_SC16_18: 
+MTID_MPSupplyDevice: 魔力供給裝置
+MTID_Launcher: 發射裝置
+MTID_Lantern: 燈籠
+MTID_CollapsiblePillar: 脆弱的柱子
+MTID_MoonlitFlower: 
+MTID_LightZOC: 
+MTID_ZOC1_SCXX_00: 香爐之灰
+MTID_TBox: 寶箱
+MTID_EmptyTBox: 寶箱（空）
+MTID_Door: 大門
+MTID_Bonfire: 篝火
+MTID_Floor: 地板
+MTID_Deck: 甲板
+MTID_Bridge: 橋
+MTID_EvasionTile: 回避陣
+MTID_RecoveryTile: 回復陣
+MTID_RecoveryTileStop: 回復陣（停止）
+MTID_FastRecoveryTile: 
+MTID_DefenseTile: 耐物陣
+MTID_DefenseTileStop: 耐物陣（停止）
+MTID_MagicDefenseTile: 耐魔陣
+MTID_MagicDefenseTileStop: 耐魔陣（停止）
+MTID_GuardianTile: 防衛陣
+MTID_GuardianTileStop: 防衛陣（停止）
+MTID_TeleportTile: 轉移陣
+MTID_TeleportTileS1: 轉移陣（出口）
+MTID_TeleportTileStop: 轉移陣（停止）
+MTID_SummoningTile: 召喚陣
+MTID_OilField: 瀝青
+MTID_Ballista: 弓弩炮台
+MTID_MagicCannon: 魔道炮台
+MTID_Catapult: 投石機
+MTID_Stairs: 樓梯
+MTID_Building: 建築物
+MTID_Rock: 岩石
+MTID_Debris: 瓦礫
+MTID_Mountain: 岩山
+MTID_Cliff: 懸崖
+MTID_LowWall: 矮牆
+MTID_CityWall: 城牆
+MTID_Hull: 船身
+MTID_DarkMass: 冥界的肉塊
+MTID_River: 河川
+MTID_Waterfall: 瀑布
+MTID_Pond: 池塘
+MTID_Sea: 海
+MTID_Bushes: 草叢
+MTID_Forest: 樹林
+MTID_Woods: 森林
+MTID_DenseForest: 深邃森林
+MTID_Grove: 樹叢
+MTID_DenseGrove: 深邃樹叢
+MTID_TrapTile: 地板陷阱
+MTID_Desert: 沙漠
+MTID_Sand: 沙地
+MTID_Quicksand: 
+MTID_ToxicSwamp: 毒沼
+MTID_ShallowWater: 淺灘
+MTID_RoughTerrain: 荒地
+MTID_Destructible: 氣囊
+MTID_SharedCarriage: 共乘馬車
+MTID_Asphalt: 瀝青塊
+MTID_BarrierDevice: 
+MTID_DefendableObject: 
+MTID_ProofOfDestruction: 勝利之證
+MTID_Boulder: 
+MTID_DarkFlame: 冥炎
+MTID_Fire: 燃燒
+MTID_Puddle: 水坑
+MTID_Miasma: 瘴氣
+MTID_StomachAcid: 強酸
+MTID_FrozenFloor: 凍結
+MTID_HadesGate: 冥界之門
+MTID_HadesGround: 脈動的肉塊
+MTID_Barrier: 防護
+MTID_ThrownThunder: 
+MTID_WanderingWall: 徬徨之壁
+MTID_Fence: 柵欄
+MTID_GhostCarriage: 幽靈馬車
+MTID_BaptismalAltarSwitch: 魂之踏板
+MTID_BellTower: 鐘樓
+MTID_Explosive: 爆炸物
+MTID_ControlDevice_SC12_12: 魔法陷阱生成裝置
+MTID_FunControlDevice: 送風機控制裝置
+MTID_FunControl: 除霧送風機
+MTID_Bonfire_SC13_11: 篝火
+MTID_Lantern_SC13_13: 香爐
+MTID_Lantern_SCXX_00: 香爐
+MTID_Bonfire_SC15_06: 
+MTID_Bonfire_SC16_13: 
+MTID_Bonfire_SCXX_04: 證之燈火
+MTID_Orichalcum: 奧利哈鋼山
+MTID_AerialTerrain_Ban: 防護牆
+MTID_Ground_Ban: 防護牆（停止）
+MTID_ObstacleLow: 低矮障礙物
+MTID_Pier: 棧橋
+MTID_Ground: 地面
+MTID_Sky: 空中
+MTID_Object: 障礙物
+MTID_CastleFloor: 城堡地板
+MTID_Mast: 桅杆
+MTID_NoEntry: 區域外
+MTID_DarknessGround: 冥王之座
+MTID_Abyss: 奈落
+MTID_Miasma_1: 怠惰的瘴氣
+MTID_Miasma_2: 貪婪的瘴氣
+MTID_Miasma_3: 欺瞞的瘴氣
+MTID_Miasma_4: 嫉妒的瘴氣
+MTID_Miasma_5: 憤怒的瘴氣
+MTID_Miasma_6: 傲慢的瘴氣
+MTID_Miasma_7: 色欲的瘴氣
+MTID_Miasma_8: 暴食的瘴氣
+MTID_Miasma_9: 恐怖的瘴氣
+MTID_Miasma_Final: 落日的瘴氣
+MTID_FlammaRiver: 
+MTID_Structure1_SC11_05: 勇敢的騎士
+MTID_Structure2_SC11_05: 嘶鳴的軍馬
+MTID_Structure_SC11_06: 神威大帝的威嚴
+MTID_Structure1_SC14_06: 不可思議的建築
+MTID_Structure2_SC14_06: 可怕的巨人
+MTID_Structure3_SC14_06: 軍神的雄姿
+MTID_Structure4_SC14_06: 神威大帝的雄姿
+MTID_Structure5_SC14_06: 太陽神的雄姿
+MTID_Structure_SC11_11: 大樹
+MTID_Structure_SCXX_02: 祓禊祭壇
+MTID_Barrel_SC15_03: 
+MTID_BrittleRock_SC18_02: 
+MTID_TrapTile_SC18_14: 
+MTID_ProofOfDestruction_Blue: 
+MTID_ProofOfDestruction_Red: 
+MTID_DeepHole_SC16_11: 
+MTID_H_ControlDevice_SC12_12: 啟動後，會布下魔法陷阱
+MTID_H_Unknown: ？？？
+MTID_H_BaptismalAltarSwitch: 解除祭壇結界的機關
+MTID_H_Asphalt: 用火焰攻擊時，瀝青會燃燒
+MTID_H_BellTower: 破壞後，會發出巨大的聲響
+MTID_H_Bonfire_SC13_11: 會燃起優勢方陣營顏色的火焰
+MTID_H_Bonfire_SC14_03: 可以點燃火焰
+MTID_H_Bonfire_SC16_13: 點燃火焰後，會照亮四周
+MTID_H_Bonfire_SCXX_04: 打倒巨人時會點燃一道火焰
+MTID_H_ControlDevice_SC12_03: 強化特定戰士能力的裝置
+MTID_H_ControlDevice_SC13_13_1: 轉移陣的控制裝置
+MTID_H_ControlDevice_SC13_13_2: 控制大門開關的裝置
+MTID_H_MagicBarrier: 無法越過防護牆進行攻擊或轉移
+MTID_H_Bonfire_SC15_06: 點燃火焰後，視野會擴大
+MTID_H_ControlDevice_SC16_18: 弗拉瑪的釋放控制裝置
+MTID_H_ControlDevice_SC18_03: 強化愛娜特莉亞的裝置
+MTID_H_ControlDevice_SC18_10: 切換敵人強化狀態的裝置
+MTID_H_Explosive: 破壞後，對周圍的敵人造成傷害
+MTID_H_FlammaRiver: 會產生瘴氣來強化敵人
+MTID_H_FunControlDevice_SC13_09: 啟動送風機的機關
+MTID_H_FunDevice_SC13_09: 啟動後，可暫時驅散霧氣
+MTID_H_HadesGate: 保護霸羅爾的障壁發生源
+MTID_H_HadesGate_Broken: 保護霸羅爾的障壁發生源
+MTID_H_Lantern_SC13_13: 破壞後，周圍的命中會降低
+MTID_H_Lantern_SC15_05: 生成魔法防護牆的機關
+MTID_H_Lantern_SCXX_00: 破壞時，傷害敵人並降低其移動
+MTID_H_Miasma_Final: 每回合減少HP
+MTID_H_MoonlitFlower: 綻放於滿月之夜的美麗花朵
+MTID_H_PilesOfOrichalcum: 破壞多個後，可對巨人造成傷害
+MTID_H_ProofOfDestruction_Blue: 時間到之後，數量多的一方勝利
+MTID_H_ProofOfDestruction_Red: 時間到之後，數量多的一方敗北
+MTID_H_Quicksand: 待命時，會移動至流沙的盡頭
+MTID_H_TrapTile_SC18_14: 陷阱啟動時，對敵人造成傷害
+MTID_H_Structure1_SC11_05: 象徵正規軍的舞台布景
+MTID_H_Structure2_SC11_05: 象徵叛軍的舞台布景
+MTID_H_Structure_SC11_06: 仿照韃古扎大帝的舞台布景
+MTID_H_Structure1_SC14_06: 重現傳說的舞台布景
+MTID_H_Structure2_SC14_06: 象徵強壯巨人的舞台布景
+MTID_H_Structure3_SC14_06: 象徵勇猛軍神的舞台布景
+MTID_H_Structure4_SC14_06: 象徵大帝威嚴的舞台布景
+MTID_H_Structure5_SC14_06: 象徵雄偉太陽神的舞台布景
+MTID_H_Structure_SC11_11: 氛圍神秘的巨樹
+MTID_H_Structure_SCXX_02: 與女神幽‧法絲有淵源的祭壇
+MTID_H_ControlDevice: 控制魔法防護牆的裝置
+MTID_H_TBox: 需要鑰匙才能打開
+MTID_H_MPSupplyDevice: 為泰塔尼斯提供魔力的裝置
+MTID_H_Launcher: 啟動投石機的裝置
+MTID_H_FastRecoveryTile: 只能使用一次
+MTID_H_ControlDevice_SC12_08: 控制戰象兵障壁的裝置
+MTID_H_ControlDevice_SC13_12: 控制魔法防護牆的裝置
+MTID_H_ControlDevice_SC14_06: 讓空氣變乾燥的裝置
+MTID_H_ControlDevice_SC14_13: 控制並強化防護牆的裝置
+MTID_H_MagicBarrier_SC14_13: 無法越過防護牆用大轟土和轉移
+MTID_H_ControlDevice_SC15_07: 控制巨人強化的裝置
+MTID_H_ControlDevice_SC15_15: 控制地板陷阱的裝置
+MTID_H_ControlDevice_SC18_14: 控制地板陷阱的裝置
+MTID_H_Ban: 無法待命
+MTID_H_TrapTile: 行動階段開始時造成傷害
+MTID_H_Destructible: 破壞後鄰接的氣囊也會被破壞
+MTID_H_MagicBarrier_Attackable: 無法越過防護牆進行轉移
+MTID_H_NoTeleport: 無法轉移
+MTID_H_ToxicSwamp: 行動階段開始時賦予中毒狀態

@@ -1,0 +1,183 @@
+﻿MID_Stage_Act_01: Act I
+MID_Stage_Act_02: Act II
+MID_Stage_Act_03: Act III
+MID_Stage_Act_04: Act IV
+MID_Stage_Act_05: Act V
+MID_Stage_Howdoyouplay: The performer will...
+MID_Stage_Emotion_Joy_01: Be cheerful.
+MID_Stage_Emotion_Joy_02: Show delight.
+MID_Stage_Emotion_Joy_03: Beam with joy.
+MID_Stage_Emotion_Anger_01: Barely conceal anger.
+MID_Stage_Emotion_Anger_02: Express aggravation.
+MID_Stage_Emotion_Anger_03: Seem irritated.
+MID_Stage_Emotion_Sadness_01: Droop shoulders.
+MID_Stage_Emotion_Sadness_02: Frown and whimper.
+MID_Stage_Emotion_Sadness_03: Hold back tears.
+MID_Stage_Emotion_Worry_01: Put on a worried look.
+MID_Stage_Emotion_Worry_02: Have knitted brows.
+MID_Stage_Emotion_Worry_03: Be ill at ease.
+MID_Stage_Emotion_Laugh_01: Laugh heartily.
+MID_Stage_Emotion_Laugh_02: Chortle and guffaw.
+MID_Stage_Emotion_Laugh_03: Giggle with glee.
+MID_Stage_Emotion_Brave_01: Project bravery.
+MID_Stage_Emotion_Brave_02: Act fearless.
+MID_Stage_Emotion_Brave_03: Stand tall and unafraid.
+MID_Stage_Emotion_Love_01: Show tenderness.
+MID_Stage_Emotion_Love_02: Gesture lovingly.
+MID_Stage_Emotion_Love_03: Whisper sweet nothings.
+MID_Stage_Emotion_Hate_01: Explode with hatred.
+MID_Stage_Emotion_Hate_02: Go into a rage.
+MID_Stage_Emotion_Hate_03: Seethe and curse.
+MID_Stage_Title_ComedyA: Mascarina the Thief
+MID_Stage_Plot_ComedyA: Notorious in name and deed, the daring thief Mascarina\nseems to always be a step ahead!\n\nBut when she delivers a warning to the high priest,\nsaying, "Next, I steal your holy book," a sage in the\ntemple devises a plan for the guards to conceal\nthemselves in decorative armor and ambush her.\n\nWho will win in this battle of wits between a sage and an\nintrepid thief?
+MID_Stage_Cast_ComedyA_01: Thief
+MID_Stage_Cast_ComedyA_02: High Priest
+MID_Stage_Cast_ComedyA_03: Sage
+MID_Stage_Situation_ComedyA_01_t: Enter Mascarina!
+MID_Stage_Situation_ComedyA_01: The thief, played by {Variable=0}, outsmarts the\nguards and escapes.
+MID_Stage_Situation_ComedyA_02_t: The Holy Book
+MID_Stage_Situation_ComedyA_02: The high priest, played by {Variable=0},\nreads the thief's letter where she proclaims her\nintent to take the book.
+MID_Stage_Situation_ComedyA_03_t: Triumph of the Sage
+MID_Stage_Situation_ComedyA_03: The sage, played by {Variable=0}, springs a trap\nand captures the thief.
+MID_Stage_Title_ComedyB: The Prize of Aureus
+MID_Stage_Plot_ComedyB: A rake's debauched lifestyle lands them deep in debt and\nseparated from their family. Penniless and living in exile,\nthey run into a starving old derelict and give them a scrap\nof bread, receiving in return an old map.\n\nLo and behold, the map shows the location of the gold left\nbehind by the mage Aureus.\n\nWith their family member who'd heard rumors of\nthe gold, the rake departs in search of treasure—and a\nway to turn their life around.
+MID_Stage_Cast_ComedyB_01: Old Derelict
+MID_Stage_Cast_ComedyB_02: Family Member
+MID_Stage_Cast_ComedyB_03: Rake
+MID_Stage_Situation_ComedyB_01_t: Giving in Kind
+MID_Stage_Situation_ComedyB_01: A starving vagrant, played by {Variable=0},\nreceives a scrap of bread from a rake.
+MID_Stage_Situation_ComedyB_02_t: Where's the Gold?
+MID_Stage_Situation_ComedyB_02: The rake's family member, played by {Variable=0},\nuses the map to search for treasure in the forest.
+MID_Stage_Situation_ComedyB_03_t: Actual Treasure
+MID_Stage_Situation_ComedyB_03: The rake, played by {Variable=0},\ndiscovers no gold, but does find some delicious\ngolden mushrooms.
+MID_Stage_Title_ComedyC: Scandal of the Shrew
+MID_Stage_Plot_ComedyC: An unconventional protagonist comes to the imperial\ncapital—they're known as the shrew, and they're looking\nfor someone.\n\nAfter long believing that their sibling had been lost at sea,\nthey recently heard rumors of a reappearance.\n\nBut the shrew's personality ends up getting in the way of\nthe search, and they start causing trouble left and right.\n\nCould their sibling be alive? Will the shrew find them?\nA comedy of errors set in the imperial capital!
+MID_Stage_Cast_ComedyC_01: Shrew
+MID_Stage_Cast_ComedyC_02: Tavern Owner
+MID_Stage_Cast_ComedyC_03: Investigator
+MID_Stage_Situation_ComedyC_01_t: Flashback at Port
+MID_Stage_Situation_ComedyC_01: The shrew, played by {Variable=0}, arrives at the\nport of the imperial capital and recalls their sibling, from\nwhom they've been separated.
+MID_Stage_Situation_ComedyC_02_t: After the Dust Settles
+MID_Stage_Situation_ComedyC_02: The tavern owner, played by {Variable=0}, turns\nthe shrew, who had caused a ruckus, over to the temples.
+MID_Stage_Situation_ComedyC_03_t: Enduring Memories
+MID_Stage_Situation_ComedyC_03: The investigator, played by {Variable=0}, turns out\nto be the shrew's sibling, who had lost their memories!\nA tearful reunion ensues.
+MID_Stage_Title_TragedyA: The Rending Ring
+MID_Stage_Plot_TragedyA: The protagonist, the scion of a noble house, wanders\ninto the woods on a hunting trip and falls in love\nwith the child of a hermit.\n\nThe couple deepens their love through many trysts.\nThe hermit, who had once been cheated by the noble's\nhouse, secretly gives the noble a cursed ring disguised as\na betrothal ring in order to kill them.\n\nThe hermit's child attempts to take the ring back,\nbut the noble, mistaking this for a change of heart,\nthrows themself into the lake in despair...\n\nA tale of the sad fate that befalls two lovers.
+MID_Stage_Cast_TragedyA_01: Noble Scion
+MID_Stage_Cast_TragedyA_02: Hermit
+MID_Stage_Cast_TragedyA_03: Hermit's Child
+MID_Stage_Situation_TragedyA_01_t: A Forbidden Love Begins
+MID_Stage_Situation_TragedyA_01: The noble, played by {Variable=0}, meets the\nhermit's child in the woods, and they fall in love.
+MID_Stage_Situation_TragedyA_02_t: The Rending Ring
+MID_Stage_Situation_TragedyA_02: The hermit, played by {Variable=0}, gives\nthe cursed ring to the noble scion.
+MID_Stage_Situation_TragedyA_03_t: In the Next Life, Then
+MID_Stage_Situation_TragedyA_03: The hermit's child, played by {Variable=0},\nputs on the ring and follows their beloved noble.
+MID_Stage_Title_TragedyB: Alas! Though Triumph Echoes
+MID_Stage_Plot_TragedyB: After a long period of turmoil and strife, the East and\nthe West had found temporary peace. Now, however,\nthey are on the brink of war again.\n\nSoldiers from both sides are stationed at the border\ncheckpoint. Two of them are childhood friends who come\nfrom the same village, but the conflict has drawn a new\nborder and now they must face as enemies.\n\nThey exchange words and laughter across the border.\nBut then the violence begins, and they must fight...\n\nA lament for a long-lost friendship that rekindles\nduring wartime.
+MID_Stage_Cast_TragedyB_01: Western Soldier
+MID_Stage_Cast_TragedyB_02: Eastern Soldier
+MID_Stage_Cast_TragedyB_03: Villager
+MID_Stage_Situation_TragedyB_01_t: An Indelible Friendship
+MID_Stage_Situation_TragedyB_01: The Western Soldier, played by {Variable=0},\nreunites with their childhood friend, the Eastern Soldier,\nat the border.
+MID_Stage_Situation_TragedyB_02_t: Trading Words for Swords
+MID_Stage_Situation_TragedyB_02: The Eastern Soldier, played by {Variable=0},\nlearns of the war breaking out between East and West\nand must fight.
+MID_Stage_Situation_TragedyB_03_t: Dawn After the Battle
+MID_Stage_Situation_TragedyB_03: A villager, played by {Variable=0}, offers flowers\nat the quiet, deserted border after the war.
+MID_Stage_Title_TragedyC: Bloodlines and Blood Feuds
+MID_Stage_Plot_TragedyC: When the nation's head of state is lost in battle, a noble\nfalls into ruin. Their heir, planning to exact revenge,\npretends to be a servant and infiltrates the house of the\ngeneral who killed their parent.\n\nHowever, despite their intentions, the heir falls in love\nwith the general!\n\nThen comes news of a plan to invade their country once\nagain. The noble heir reveals their true identity and\nmakes plans to return to their home...but the general,\nwho has fallen in love with the heir, invites them to\nabandon their country and run away together!\n\nA tragic love story of a couple at the mercy of fate.
+MID_Stage_Cast_TragedyC_01: Prestigious Noble
+MID_Stage_Cast_TragedyC_02: Noble's Heir
+MID_Stage_Cast_TragedyC_03: General
+MID_Stage_Situation_TragedyC_01_t: The Day the House Fell
+MID_Stage_Situation_TragedyC_01: The prestigious noble, played by {Variable=0}, fights\nthe general of an enemy country and loses their life.
+MID_Stage_Situation_TragedyC_02_t: Forbidden Love
+MID_Stage_Situation_TragedyC_02: The noble's heir, played by {Variable=0}, infiltrates\nenemy territory, but ends up falling in love with their\nparent's killer, the general.
+MID_Stage_Situation_TragedyC_03_t: The Demise of Love
+MID_Stage_Situation_TragedyC_03: After running away with the noble's heir, the general,\nplayed by {Variable=0}, is ordered to be executed.
+MID_Stage_Title_OperaA: Again, to You
+MID_Stage_Plot_OperaA: There was once a shepherd who worshipped a god,\nlavishing them every day with prayers. But the god gave \nthe shepherd trials to test their faith.\n\nThey lost their crops, their livestock, their savings.\nThey fell ill...\n\nStill the shepherd called out the god's name and did not\nlose faith, no matter the hardship.\n\nWhat awaited the shepherd then? A painful yet beautiful\nstory of humans and gods.
+MID_Stage_Cast_OperaA_01: Shepherd
+MID_Stage_Cast_OperaA_02: God
+MID_Stage_Cast_OperaA_03: God's Child
+MID_Stage_Situation_OperaA_01_t: Trial of the Gods
+MID_Stage_Situation_OperaA_01: The shepherd, played by {Variable=0}, receives\na trial from the god and loses the crops and sheep they\nhad raised.
+MID_Stage_Situation_OperaA_02_t: A Test of Faith
+MID_Stage_Situation_OperaA_02: The god, played by {Variable=0}, considers what\nkind of trial to bestow upon the shepherd.
+MID_Stage_Situation_OperaA_03_t: Blessings upon the Soul
+MID_Stage_Situation_OperaA_03: The god's child, played by {Variable=0}, informs the\nshepherd, who has passed their trials, that they are to\nwed one another.
+MID_Stage_Title_OperaB: Phantom of the Arena
+MID_Stage_Plot_OperaB: Gladiators are no strangers to the specter of death.\nBut when one gladiator was cut down, they returned to\nthe arena as a literal ghost—known as the phantom.\n\nThe protagonist, a young gladiator, meets this phantom\nand receives a black sword, and their fame grows with\neach victory.\n\nHowever, as the gladiator's popularity grows, they\nbecome arrogant—until, during the final battle to\ndetermine the winner, the black sword breaks...\n\nA bloody, bizarre tale that lurks in the shadows of glory\nand failure!
+MID_Stage_Cast_OperaB_01: Young Gladiator
+MID_Stage_Cast_OperaB_02: Rival Gladiator
+MID_Stage_Cast_OperaB_03: Phantom
+MID_Stage_Situation_OperaB_01_t: Phantom of the Arena
+MID_Stage_Situation_OperaB_01: The young gladiator, played by {Variable=0},\nreceives a black sword from the phantom, and their\nwinning streak continues.
+MID_Stage_Situation_OperaB_02_t: Glory's End
+MID_Stage_Situation_OperaB_02: The rival gladiator, played by {Variable=0}, defeats\nthe arrogant young gladiator.
+MID_Stage_Situation_OperaB_03_t: Cycle of Darkness
+MID_Stage_Situation_OperaB_03: The phantom, played by {Variable=0}, takes the\nblack sword and, looking contented, seeks another\ntarget to curse.
+MID_Stage_Title_OperaC: Rainbows over Iapetus
+MID_Stage_Plot_OperaC: The Iapetus Mountains are a sacred mountain range\nin northern Dagda. Numerous spirits reside there and\nare said to appear before humans during rainbows.\n\nA woodcutter climbs the mountains during a rainbow,\nand the spirits guide them to the spirit sovereign.\n\nJust as they consider their fortune, they learn they\nare to be tried as a criminal who destroyed the area.\n\nA fantasy of humans and spirits, shining with all the\ncolors of the rainbow.
+MID_Stage_Cast_OperaC_01: Tree Spirit
+MID_Stage_Cast_OperaC_02: Spirit Sovereign
+MID_Stage_Cast_OperaC_03: Woodcutter
+MID_Stage_Situation_OperaC_01_t: The Spirits' Trial
+MID_Stage_Situation_OperaC_01: The tree spirit, played by {Variable=0}, charges\nthe woodcutter with chopping down their friends.
+MID_Stage_Situation_OperaC_02_t: The Verdict
+MID_Stage_Situation_OperaC_02: The spirit sovereign, played by {Variable=0},\naccepts the charges and tries to punish the woodcutter.
+MID_Stage_Situation_OperaC_03_t: To Save and Be Saved
+MID_Stage_Situation_OperaC_03: The woodcutter, played by {Variable=0}, is\nprotected by the spirits of animals they had saved in the\npast, and makes their way safely home.
+MID_Stage_Title_SpecialA: Rise of the White-Maned Demon
+MID_Stage_Plot_SpecialA: The Rise of the White-Maned Demon, one of Dagda's\ngreatest literary masterpieces, finally comes to the stage!\n\nA young general, framed by his best friend, is on the\nverge of being executed when he is saved by Mars,\nthe Bringer of War. He must undertake a trial in the\narena and becomes known as the White-Maned Demon.\n\nBattles with powerful foes, traps set by his enemies,\nlove and separation from a beautiful priest...\n\nEven now, the White-Maned Demon continues to face\nhardships, until the day comes when he can finally\nprove his innocence and seize his freedom.
+MID_Stage_Cast_SpecialA_01: Young General
+MID_Stage_Cast_SpecialA_02: General's Friend
+MID_Stage_Cast_SpecialA_03: Gladiator
+MID_Stage_Cast_SpecialA_04: Priest
+MID_Stage_Cast_SpecialA_05: White-Maned Demon
+MID_Stage_Situation_SpecialA_01_t: Young General's Advance
+MID_Stage_Situation_SpecialA_01: The young general, played by {Variable=0},\ncontributes greatly on the battlefield.
+MID_Stage_Situation_SpecialA_02_t: Baseless Accusations
+MID_Stage_Situation_SpecialA_02: The general's friend, played by {Variable=0}, \nentraps the general and has him imprisoned as a criminal.
+MID_Stage_Situation_SpecialA_03_t: The White-Maned Demon
+MID_Stage_Situation_SpecialA_03: A gladiator, played by {Variable=0}, fights the\ngeneral, who is now the White-Maned Demon, and gets\nmercilessly defeated.
+MID_Stage_Situation_SpecialA_04_t: A Captivating Afternoon
+MID_Stage_Situation_SpecialA_04: The priest, played by {Variable=0}, meets the\nWhite-Maned Demon in secret in prison.
+MID_Stage_Situation_SpecialA_05_t: Victory for Tomorrow
+MID_Stage_Situation_SpecialA_05: The White-Maned Demon, played by {Variable=0},\ntriumphs over a formidable foe despite a despicable trap.
+MID_Stage_Title_SpecialB: Seven Labors of Arago
+MID_Stage_Plot_SpecialB: The hero Arago, a human born to Divine Emperor Dagda,\nwas renowned throughout Dagda, not only for his valor\nbut also for his many romantic entanglements. Now, the\nsaga of Arago's heroic deeds will be passionately\nperformed on stage!\n\nFrom his extermination of the giant sandbael, to his duel\nwith the chief of the Lydians, to his crossing of the\nmountain pass with the beautiful Olivia, to his battle to \nuphold his vow to the king of Brigid—it is all retold here!\n\nPrepare to witness history.
+MID_Stage_Cast_SpecialB_01: Villager
+MID_Stage_Cast_SpecialB_02: Lydian Chief
+MID_Stage_Cast_SpecialB_03: Olivia
+MID_Stage_Cast_SpecialB_04: Enemy Chief
+MID_Stage_Cast_SpecialB_05: Arago
+MID_Stage_Situation_SpecialB_01_t: Exterminating the Monster
+MID_Stage_Situation_SpecialB_01: After Arago defeats the giant sandbael, the villager,\nplayed by {Variable=0}, showers him with praise.
+MID_Stage_Situation_SpecialB_02_t: Duel of the Century
+MID_Stage_Situation_SpecialB_02: The Lydian chief, played by {Variable=0},\nchallenges Arago to a duel, but struggles to oppose him.
+MID_Stage_Situation_SpecialB_03_t: A Romantic Encounter
+MID_Stage_Situation_SpecialB_03: Olivia, played by {Variable=0}, has her heart stolen\nby the coarse but strong Arago.
+MID_Stage_Situation_SpecialB_04_t: A Prodigious Alliance
+MID_Stage_Situation_SpecialB_04: The enemy chief, played by {Variable=0}, is\ndefeated and disgraced by Arago and the king of Brigid.
+MID_Stage_Situation_SpecialB_05_t: The Endless Legend
+MID_Stage_Situation_SpecialB_05: Arago, played by {Variable=0}, sets off toward his\nnext battle in search of a new enemy.
+MID_Stage_Title_SpecialC: The Matchless Cohen
+MID_Stage_Plot_SpecialC: The story of peerless bard Cohen—a prodigy whose name\nis known by all!\n\nCohen traveled all over Dagda with vihuela in hand,\ncomposing and performing songs of all kinds, leaving\nlegend after legend in his wake. It is said that with his\nmusic, he drove away a rat infestation and turned a\nbarrel of water into mellow ghosh. Indeed, legend has it\nthat the man's playing once moved a mountain!\n\nThis illustrative performance recounts his moving\nlife story, from his promising youth to his tragic downfall.
+MID_Stage_Cast_SpecialC_01: Cohen
+MID_Stage_Cast_SpecialC_02: Villager
+MID_Stage_Cast_SpecialC_03: Temple Soldier
+MID_Stage_Cast_SpecialC_04: Ruffian
+MID_Stage_Cast_SpecialC_05: Kalla
+MID_Stage_Situation_SpecialC_01_t: A Young Singer's Troubles
+MID_Stage_Situation_SpecialC_01: Cohen, played by {Variable=0}, considers whether\nhe is capable of an even more enticing performance.
+MID_Stage_Situation_SpecialC_02_t: The Enchanting Performer
+MID_Stage_Situation_SpecialC_02: A villager, played by {Variable=0}, sings the praises\nof Cohen's skill with the vihuela.
+MID_Stage_Situation_SpecialC_03_t: When the Wind Blows
+MID_Stage_Situation_SpecialC_03: A soldier at a temple, played by {Variable=0},\nis emboldened by Cohen's song, their morale increased.
+MID_Stage_Situation_SpecialC_04_t: Life-Giving Water
+MID_Stage_Situation_SpecialC_04: A ruffian, played by {Variable=0}, is in high spirits\nwhen water is turned to ghosh by Cohen's performance.
+MID_Stage_Situation_SpecialC_05_t: May His Melody Be Eternal
+MID_Stage_Situation_SpecialC_05: Kalla, played by {Variable=0}, mourns the loss\nof Cohen, her sorely missed son.
+MID_Stage_Calendar_Help_SpecialA: A special performance of The Rise\nof the White-Maned Demon is to\nbe put on at the theater.
+MID_Stage_Calendar_Help_SpecialB: A special performance of Seven\nLabors of Arago is to be put on at\nthe theater.
+MID_Stage_Calendar_Help_SpecialC: A special performance of The\nMatchless Cohen is to be put on at\nthe theater.

@@ -1,0 +1,183 @@
+﻿MID_Stage_Act_01: Akt I
+MID_Stage_Act_02: Akt II
+MID_Stage_Act_03: Akt III
+MID_Stage_Act_04: Akt IV
+MID_Stage_Act_05: Akt V
+MID_Stage_Howdoyouplay: Der Darsteller soll...
+MID_Stage_Emotion_Joy_01: fröhlich sein
+MID_Stage_Emotion_Joy_02: entzückt sein
+MID_Stage_Emotion_Joy_03: vor Freude strahlen
+MID_Stage_Emotion_Anger_01: Zorn kaum verbergen
+MID_Stage_Emotion_Anger_02: Verärgerung zeigen
+MID_Stage_Emotion_Anger_03: gereizt erscheinen
+MID_Stage_Emotion_Sadness_01: Schultern hängen lassen
+MID_Stage_Emotion_Sadness_02: Stirn runzeln u. wimmern
+MID_Stage_Emotion_Sadness_03: fast anfangen zu weinen
+MID_Stage_Emotion_Worry_01: besorgt dreinblicken
+MID_Stage_Emotion_Worry_02: die Augenbrauen runzeln
+MID_Stage_Emotion_Worry_03: besorgt und unsicher sein.
+MID_Stage_Emotion_Laugh_01: herzhaft lachen
+MID_Stage_Emotion_Laugh_02: glucksen und laut lachen
+MID_Stage_Emotion_Laugh_03: vor Vergnügen kichern
+MID_Stage_Emotion_Brave_01: Tapferkeit zeigen
+MID_Stage_Emotion_Brave_02: furchtlos agieren
+MID_Stage_Emotion_Brave_03: furchtlos aufrecht stehen
+MID_Stage_Emotion_Love_01: Zärtlichkeit zeigen
+MID_Stage_Emotion_Love_02: liebevoll gestikulieren
+MID_Stage_Emotion_Love_03: liebevolle Worte flüstern
+MID_Stage_Emotion_Hate_01: vor Hass explodieren
+MID_Stage_Emotion_Hate_02: in Rage verfallen
+MID_Stage_Emotion_Hate_03: vor Wut kochen u. fluchen
+MID_Stage_Title_ComedyA: Mascarina, die Diebin
+MID_Stage_Plot_ComedyA: Ihr Name ist berühmt, ihre Taten berüchtigt. Die\ndreiste Diebin Mascarina scheint allen anderen\nstets einen Schritt voraus zu sein!\n\nDoch als sie dem Hohepriester eines Tempels die\nWarnung „Als Nächstes werde ich euer heiliges\nTraktat stehlen!“ zukommen lässt, ersinnt ein Weiser\nim Tempel einen Plan. Die Wachen sollen sich mit\nschmucken Rüstungen tarnen und die Diebin aus\ndem Hinterhalt überwältigen.\n\nWer wird diesen Kampf der List zwischen einem Weisen\nund einer gewitzten Diebin gewinnen?
+MID_Stage_Cast_ComedyA_01: Diebin
+MID_Stage_Cast_ComedyA_02: Hohepriester
+MID_Stage_Cast_ComedyA_03: Weiser
+MID_Stage_Situation_ComedyA_01_t: Auftritt Mascarina!
+MID_Stage_Situation_ComedyA_01: Die Diebin, dargestellt von {Variable=0}, überlistet\ndie Wachen und kann entkommen.
+MID_Stage_Situation_ComedyA_02_t: Das Heilige Traktat
+MID_Stage_Situation_ComedyA_02: Der Hohepriester, dargestellt von {Variable=0},\nliest die Nachricht der Diebin, in der sie ankündigt, das\nTraktat zu stehlen.
+MID_Stage_Situation_ComedyA_03_t: Der Triumph des Weisen
+MID_Stage_Situation_ComedyA_03: Der Weise, dargestellt von {Variable=0}, lässt die\nFalle zuschnappen und fängt die Diebin.
+MID_Stage_Title_ComedyB: Der Preis des Aureus
+MID_Stage_Plot_ComedyB: Der ausschweifende Lebensstil eines Lebemannes führt\ndazu, dass er einen Haufen Schulden anhäuft und von\nseiner Familie getrennt im Exil lebt. Er trifft auf einen\nalten, halb verhungerten Obdachlosen und gibt ihm ein\npaar Stücke Brot. Aus Dankbarkeit überreicht ihm der\nObdachlose eine alte Landkarte.\n\nSieh da, die Karte zeigt den Ort, an dem der Magier\nAureus Gold zurückgelassen hatte.\n\nMit einem Mitglied seiner Familie, dem Gerüchte über\ndas Gold zu Ohren gekommen war, bricht der Lebemann\nauf, um nach dem Schatz zu suchen – und nach einem\nWeg, seinem Leben eine andere Richtung zu geben.
+MID_Stage_Cast_ComedyB_01: Obdachloser
+MID_Stage_Cast_ComedyB_02: Familienmitglied
+MID_Stage_Cast_ComedyB_03: Lebemann
+MID_Stage_Situation_ComedyB_01_t: Geben und Nehmen
+MID_Stage_Situation_ComedyB_01: Ein halbverhungerter Landstreicher, gespielt von\n{Variable=0}, erhält ein bisschen Brot von einem\nLebemann.
+MID_Stage_Situation_ComedyB_02_t: Wo ist das Gold?
+MID_Stage_Situation_ComedyB_02: Das Familienmitglied des Lebemannes, gespielt von\n{Variable=0}, sucht mithilfe der Landkarte im Wald\nnach dem Schatz.
+MID_Stage_Situation_ComedyB_03_t: Der eigentliche Schatz
+MID_Stage_Situation_ComedyB_03: Der Lebemann, gespielt von {Variable=0}, findet\nkein Gold, dafür aber einige köstliche goldfarbene Pilze.
+MID_Stage_Title_ComedyC: Welch ein Skandal
+MID_Stage_Plot_ComedyC: Eine unkonventionelle Hauptfigur kommt in die\nkaiserliche Hauptstadt – sie ist als Kratzbürste bekannt,\nund ist auf der Suche nach jemandem.\n\nLange hat sie geglaubt, ihr Geschwister sei auf dem\nMeer verschollen, doch in letzter Zeit hörte sie Gerüchte\nüber eine mögliche Rückkehr.\n\nLeider macht die Persönlichkeit der Kratzbürste ihr\ndie Suche schwer – links und rechts verursacht sie\nProbleme.\n\nLebt ihr Geschwister noch? Wird die Kratzbürste\nbei ihrer Suche erfolgreich sein? Eine Komödie voller\nIrrungen und Wirrungen in der kaiserlichen Hauptstadt!
+MID_Stage_Cast_ComedyC_01: Kratzbürste
+MID_Stage_Cast_ComedyC_02: Gastwirt
+MID_Stage_Cast_ComedyC_03: Ermittler
+MID_Stage_Situation_ComedyC_01_t: Rückblick am Hafen
+MID_Stage_Situation_ComedyC_01: Die Kratzbürste, gespielt von {Variable=0}, erreicht\nden Hafen der kaiserlichen Hauptstadt und erinnert sich\nan ihr Geschwister, von dem sie getrennt worden war.
+MID_Stage_Situation_ComedyC_02_t: Nachdem sich der Staub gelegt hat
+MID_Stage_Situation_ComedyC_02: Der Gastwirt, gespielt von {Variable=0}, übergibt\ndie Kratzbürste – die für Krawall gesorgt hat – den\nTempeln.
+MID_Stage_Situation_ComedyC_03_t: Bleibende Erinnerungen
+MID_Stage_Situation_ComedyC_03: Der Ermittler, gespielt von {Variable=0}, stellt sich\nals Bruder der Kratzbürste heraus, der sein Gedächtnis\nverloren hatte! Nun fließen die Tränen.
+MID_Stage_Title_TragedyA: Der verfluchte Ring
+MID_Stage_Plot_TragedyA: Die Hauptfigur ist der Erbe eines angesehenen\nAdelshauses. Eines Tages geht sie auf die Jagd im Wald,\nund verliebt sich dort in das Kind eines Einsiedlers.\n\nDas Paar vertieft seine Liebe füreinander durch\nviele Rendezvous. Der Einsiedler, der einst vom Haus\nder adligen Hauptfigur betrogen wurde, schenkt der\nHauptfigur einen Verlobungsring, der jedoch in\nWahrheit verflucht ist und ihr den Tod bringen soll.\n\nDas Kind des Einsiedlers versucht der Hauptfigur\nden Ring wieder abzunehmen – diese ertränkt sich,\nda sie dies missversteht, aus Verzweiflung im See.\n\nDie Geschichte eines traurigen Schicksals, das\nzwei Liebende heimsucht.
+MID_Stage_Cast_TragedyA_01: Adlige Hauptfigur
+MID_Stage_Cast_TragedyA_02: Einsiedler
+MID_Stage_Cast_TragedyA_03: Einsiedlerkind
+MID_Stage_Situation_TragedyA_01_t: Eine verbotene Liebe beginnt
+MID_Stage_Situation_TragedyA_01: Eine adlige Hauptfigur, gespielt von {Variable=0},\ntrifft im Wald auf das Kind des Einsiedlers, und beide\nverlieben sich.
+MID_Stage_Situation_TragedyA_02_t: Der verfluchte Ring
+MID_Stage_Situation_TragedyA_02: Der Einsiedler, gespielt von {Variable=0}, gibt\ndem adligen Erben den verfluchten Ring.
+MID_Stage_Situation_TragedyA_03_t: Im nächsten Leben dann
+MID_Stage_Situation_TragedyA_03: Das Kind des Einsiedlers, gespielt von {Variable=0},\nlegt den Ring an und folgt seiner Liebe in den Tod.
+MID_Stage_Title_TragedyB: Freunde und doch Gegner
+MID_Stage_Plot_TragedyB: Nach einer langen Periode der Unruhen und Konflikte\nfanden der Westen und der Osten vorübergehend\nFrieden. Doch jetzt stehen sie wieder am Rande eines\nKrieges.\n\nSoldaten beider Seiten sind am Grenzübergang\nstationiert. Zwei davon waren in der Kindheit Freunde,\nsie sind in demselben Dorf aufgewachsen. Doch die\nneue Grenze macht sie nun zu Feinden.\n\nSie unterhalten sich und lachen über die Grenze hinweg.\nAber dann beginnt die Gewalt und sie müssen kämpfen.\n\nEin Klagegesang für eine verlorene Freundschaft, die in\nKriegszeiten neu erblüht.
+MID_Stage_Cast_TragedyB_01: Soldat des Westens
+MID_Stage_Cast_TragedyB_02: Soldat des Ostens
+MID_Stage_Cast_TragedyB_03: Dörfler
+MID_Stage_Situation_TragedyB_01_t: Eine unauslöschliche Freundschaft
+MID_Stage_Situation_TragedyB_01: Der Soldat aus dem Westen, gespielt von\n{Variable=0}, trifft an der Grenze seinen Freund aus\nKindertagen wieder, der nun ein Soldat des Ostens ist.
+MID_Stage_Situation_TragedyB_02_t: Wortwechsel statt Schwerthiebe
+MID_Stage_Situation_TragedyB_02: Der Soldat des Ostens, gespielt von {Variable=0},\nerfährt, dass zwischen Ost und West ein Krieg ausge-\nbrochen ist und er kämpfen muss.
+MID_Stage_Situation_TragedyB_03_t: Morgengrauen nach dem Kampf
+MID_Stage_Situation_TragedyB_03: Ein Dörfler, gespielt von {Variable=0}, legt nach\ndem Krieg an der stillen, verlassenen Grenze Blumen\nnieder.
+MID_Stage_Title_TragedyC: Blutlinien und Blutfehden
+MID_Stage_Plot_TragedyC: Ein angesehener Adliger fällt im Krieg durch die Hand\neines Feindes von hohem militärischen Rang. Sein Sohn,\nder auf Rache sinnt, gibt sich als Diener aus und infil-\ntriert das Haus der für den Tod verantwortlichen Person.\n\nObwohl es nicht in seiner Absicht liegt, verliebt der junge\nAdlige sich in diese Person!\n\nDoch dann erreicht ihn die Nachricht, dass geplant sei,\nsein Land noch einmal zu überfallen. Der Adlige gibt\nseine Identität preis und will nach Hause zurückkehren.\nDoch die von ihm geliebte Person schlägt vor, das\nLand im Stich zu lassen und gemeinsam fortzugehen.\n\nEine tragische Liebesgeschichte über ein Paar,\ndas der Gnade des Schicksals ausgesetzt ist.
+MID_Stage_Cast_TragedyC_01: Adliger
+MID_Stage_Cast_TragedyC_02: Sein Erbe
+MID_Stage_Cast_TragedyC_03: Geliebte Person
+MID_Stage_Situation_TragedyC_01_t: Der Tag, an dem das Haus fiel
+MID_Stage_Situation_TragedyC_01: Der angesehene Adlige, gespielt von {Variable=0},\nkämpft gegen jemanden von hohem militärischen Rang\neines feindlichen Landes und verliert dabei sein Leben.
+MID_Stage_Situation_TragedyC_02_t: Ungewöhnliche Liebe
+MID_Stage_Situation_TragedyC_02: Der Erbe des Adligen, gespielt von {Variable=0},\ninfiltriert das gegnerische Territorium. Doch er verliebt\nsich in die Person, die seinen Vater getötet hat.
+MID_Stage_Situation_TragedyC_03_t: Der Niedergang der Liebe
+MID_Stage_Situation_TragedyC_03: Nachdem die Person von hohem militärischen Rang,\ngespielt von {Variable=0}, mit dem adligen Erben\ndas Land verlassen hat, ergeht ein Todesurteil gegen sie.
+MID_Stage_Title_OperaA: Noch einmal, für dich
+MID_Stage_Plot_OperaA: Es war einmal ein Hirte, der einen Gott verehrte und\ndiesen jeden Tag mit Gebeten überschüttete. Aber der\nGott stellte den Glauben des Hirten durch Prüfungen auf\ndie Probe.\n\nEr verlor seine Ernte, sein Vieh, sein Erspartes.\nEr wurde krank.\n\nDoch der Hirte rief immer noch den Namen des Gottes\nund verlor seinen Glauben nicht, egal, wie schwer sein\nLeben auch wurde.\n\nWas erwartete den Hirten nun? Eine schmerzvolle,\ndoch auch schöne Geschichte von Menschen und\nGöttern.
+MID_Stage_Cast_OperaA_01: Hirte
+MID_Stage_Cast_OperaA_02: Gott
+MID_Stage_Cast_OperaA_03: Gottes Kind
+MID_Stage_Situation_OperaA_01_t: Die Prüfung des Gottes
+MID_Stage_Situation_OperaA_01: Der Hirte, gespielt von {Variable=0}, wird von dem\nGott auf die Probe gestellt und verliert seine Ernte sowie\ndie Schafe, die er aufgezogen hatte.
+MID_Stage_Situation_OperaA_02_t: Eine Prüfung des Glaubens
+MID_Stage_Situation_OperaA_02: Der Gott, gespielt von {Variable=0}, überlegt,\nwelche Art von Prüfung er dem Hirten auferlegen soll.
+MID_Stage_Situation_OperaA_03_t: Segnungen für die Seele
+MID_Stage_Situation_OperaA_03: Das Kind des Gottes, gespielt von {Variable=0},\nlässt den Hirten – der seine Prüfungen bestanden hat –\nwissen, dass sie einander heiraten werden.
+MID_Stage_Title_OperaB: Das Phantom der Arena
+MID_Stage_Plot_OperaB: Gladiatoren ist das Schreckgespenst des Todes nicht\nfremd. Aber als ein Gladiator in der Arena den Tod\nfand, erschien er ebendort wieder als echtes Gespenst.\nDieses wurde bekannt als das „Phantom“.\n\nDer Protagonist, ein junger Gladiator, trifft auf dieses\nPhantom und erhält von diesem ein schwarzes Schwert.\nVon nun an ist er siegreich und mit jedem Sieg wächst\nsein Ruhm\n\nDoch je beliebter und bekannter er wird, desto arroganter\nwird er – bis im Finalkampf, der den endgültigen Sieger\nbestimmen sollte, das schwarze Schwert zerbricht.\n\nEine blutige und bizarre Geschichte, die im Schatten von\nErfolg und Misserfolg lauert!
+MID_Stage_Cast_OperaB_01: Junger Gladiator
+MID_Stage_Cast_OperaB_02: Rivale des Gladiators
+MID_Stage_Cast_OperaB_03: Phantom
+MID_Stage_Situation_OperaB_01_t: Das Phantom
+MID_Stage_Situation_OperaB_01: Der junge Gladiator, gespielt von {Variable=0},\nerhält von dem Phantom ein schwarzes Schwert, und\nseine Siegesserie setzt sich weiter fort.
+MID_Stage_Situation_OperaB_02_t: Das Ende des Ruhms
+MID_Stage_Situation_OperaB_02: Der Rivale des Gladiators, gespielt von\n{Variable=0}, bezwingt den arroganten jungen\nGladiator.
+MID_Stage_Situation_OperaB_03_t: Kreislauf der Finsternis
+MID_Stage_Situation_OperaB_03: Das Phantom, gespielt von {Variable=0}, nimmt\ndas schwarze Schwert an sich und sucht zufrieden nach\neinem anderen Ziel, um es zu verfluchen.
+MID_Stage_Title_OperaC: Regenbögen über Iapetus
+MID_Stage_Plot_OperaC: Das Iapetus-Gebirge ist ein heiliges Gebirge, das sich im\nNorden von Dagda erstreckt. Zahllose Geister leben hier\nund man sagt, sie erscheinen vor den Menschen, wenn\nein Regenbogen am Himmel zu sehen ist.\n\nDie Hauptfigur, ein Holzfäller, steigt auf den Berg just an\neinem Tag, an dem ein Regenbogen am Himmel steht.\nDie Geister erscheinen und geleiten ihn zum\nSouverän der Geister.\n\nAls der Holzfäller sich über sein Glück freut, erfährt er,\ndass er als Verbrecher verurteilt werden soll, da er den\nBerg zerstört habe.\n\nEine fantastische Geschichte von Menschen und\nGeistern, die in allen Farben des Regenbogens erstrahlt.
+MID_Stage_Cast_OperaC_01: Geist des Baumes
+MID_Stage_Cast_OperaC_02: Souverän
+MID_Stage_Cast_OperaC_03: Holzfäller
+MID_Stage_Situation_OperaC_01_t: Die Anklage der Geister
+MID_Stage_Situation_OperaC_01: Der Geist des Baumes, gespielt von {Variable=0},\nklagt den Holzfäller an, seine Freunde gefällt zu haben.
+MID_Stage_Situation_OperaC_02_t: Das Urteil
+MID_Stage_Situation_OperaC_02: Der Souverän der Geister, gespielt von {Variable=0},\nnimmt die Anklage an und versucht, den Holzfäller zu\nbestrafen.
+MID_Stage_Situation_OperaC_03_t: Retten und gerettet werden
+MID_Stage_Situation_OperaC_03: Der Holzfäller, gespielt von {Variable=0}, wird von\nden Geistern der Tiere beschützt, die er einst gerettet\nhatte. Und so kann er nach Hause gehen.
+MID_Stage_Title_SpecialA: Der Weißmähnige Dämon
+MID_Stage_Plot_SpecialA: Eines der größten literarischen Meisterwerke in der\nGeschichte Dagdas erobert endlich die Bühne – „Der\nAufstieg des Weißmähnigen Dämons“.\n\nEinem jungen General, von seinem besten Freund\nverraten, droht die Hinrichtung, als der Kriegsbringer\nMars ihn rettet. Der General muss sich einer Prüfung in\nder Arena unterziehen – und wird als Weißmähniger\nDämon bekannt.\n\nMächtige Gegner, Gefahren, Liebe und Trennung...\n\nBis heute muss sich der Weißmähnige Dämon den\nGefahren aussetzen – bis zu dem Tage, an dem er\nendlich seine Unschuld bewiesen hat und seine\nFreiheit zurückerhält.
+MID_Stage_Cast_SpecialA_01: Junger General
+MID_Stage_Cast_SpecialA_02: Sein Freund
+MID_Stage_Cast_SpecialA_03: Gladiator
+MID_Stage_Cast_SpecialA_04: Priester
+MID_Stage_Cast_SpecialA_05: Weißmähniger Dämon
+MID_Stage_Situation_SpecialA_01_t: Vormarsch des jungen Generals
+MID_Stage_Situation_SpecialA_01: Der junge General, gespielt von {Variable=0},\nleistet auf dem Schlachtfeld Großes.
+MID_Stage_Situation_SpecialA_02_t: Unbegründete Anschuldigungen
+MID_Stage_Situation_SpecialA_02: Der Freund des Generals, gespielt von {Variable=0},\nstellt dem General eine Falle und lässt ihn als Verbrecher\nin den Kerker werfen.
+MID_Stage_Situation_SpecialA_03_t: Weißmähniger Dämon
+MID_Stage_Situation_SpecialA_03: Der Gladiator, gespielt von {Variable=0}, kämpft\ngegen den General, der nun der Weißmähnige Dämon ist,\nund wird von diesem gnadenlos besiegt.
+MID_Stage_Situation_SpecialA_04_t: Ein fesselnder Nachmittag
+MID_Stage_Situation_SpecialA_04: Ein Priester, gespielt von {Variable=0}, trifft\nden Weißmähnigen Dämon heimlich im Kerker.
+MID_Stage_Situation_SpecialA_05_t: Ein Sieg für morgen
+MID_Stage_Situation_SpecialA_05: Der Weißmähnige Dämon, gespielt von\n{Variable=0}. Obwohl ihm eine niederträchtige Falle\ngestellt wurde, triumphiert er über einen beeindruckenden Gegner.
+MID_Stage_Title_SpecialB: Aragos Heldentaten
+MID_Stage_Plot_SpecialB: Der Held Arago, ein Mensch und Sohn des Göttlichen\nKaisers Dagda, war in ganz Dagda bekannt – nicht nur\naufgrund seines Heldenmutes, sondern auch wegen\nseiner zahlreichen romantischen Techtelmechtel.\nNun wird die Sage von Aragos Heldentaten voller\nLeidenschaft auf der Bühne dargestellt!\n\nVon der Vernichtung des gigantischen Sandbahls\nüber sein Duell mit dem Oberhaupt der Lydia, bis hin\nzur Überquerung des Gebirges mit der wunderschönen\nOlivia – und selbstverständlich sein Kampf an der Seite\ndes Königs von Brigid. Alles wird hier erzählt!\n\nMacht euch bereit, Zeugen der Geschichte zu werden!
+MID_Stage_Cast_SpecialB_01: Dörfler
+MID_Stage_Cast_SpecialB_02: Lydia-Oberhaupt
+MID_Stage_Cast_SpecialB_03: Olivia
+MID_Stage_Cast_SpecialB_04: Gegn. Oberhaupt
+MID_Stage_Cast_SpecialB_05: Arago
+MID_Stage_Situation_SpecialB_01_t: Das Monster wird vernichtet
+MID_Stage_Situation_SpecialB_01: Nachdem Arago den gigantischen Sandbahl besiegt\nhat, überschüttet ihn der Dörfler, gespielt von\n{Variable=0}, mit Lob.
+MID_Stage_Situation_SpecialB_02_t: Duell des Jahrhunderts
+MID_Stage_Situation_SpecialB_02: Das Oberhaupt der Lydia, gespielt von {Variable=0},\nfordert Arago zu einem Duell heraus, hat aber Probleme,\ngegen diesen anzukommen.
+MID_Stage_Situation_SpecialB_03_t: Eine romantische Begegnung
+MID_Stage_Situation_SpecialB_03: Olivia, gespielt von {Variable=0}, verliert ihr Herz\nan den groben, aber starken Arago.
+MID_Stage_Situation_SpecialB_04_t: Eine gewaltige Allianz
+MID_Stage_Situation_SpecialB_04: Das feindliche Oberhaupt, gespielt von\n{Variable=0}, wird von Arago und dem König\nvon Brigid besiegt und entehrt.
+MID_Stage_Situation_SpecialB_05_t: Die endlose Legende
+MID_Stage_Situation_SpecialB_05: Arago, gespielt von {Variable=0}, macht sich auf\nden Weg zu seiner nächsten Schlacht, immer auf der\nSuche nach einem neuen Gegner.
+MID_Stage_Title_SpecialC: Der einzigartige Cohen
+MID_Stage_Plot_SpecialC: Die Geschichte über den einzigartigen Barden\nCohen – einem Ausnahmetalent, das jeder kannte!\n\nCohen reiste durch Fódlan, mit der Vihuela in der Hand.\nEr komponierte und führte Lieder unterschiedlichster Art\nauf, und hinterließ eine Legende nach der anderen auf\nseinem Weg. Er soll mit seiner Musik einer Rattenplage\nHerr geworden sein und Wasser in einem Fass in\nfeinsten Ghosh verwandelt haben! In der Tat, es wird\nsogar erzählt, der Mann habe mit seiner Musik einen\nBerg versetzt.\n\nDiese anschauliche Aufführung erzählt seine bewegte\nLebensgeschichte, von seiner vielversprechenden Jugend\nbis zu seinem tragischen Niedergang.
+MID_Stage_Cast_SpecialC_01: Cohen
+MID_Stage_Cast_SpecialC_02: Dörfler
+MID_Stage_Cast_SpecialC_03: Tempelsoldat
+MID_Stage_Cast_SpecialC_04: Raufbold
+MID_Stage_Cast_SpecialC_05: Kalla
+MID_Stage_Situation_SpecialC_01_t: Die Probleme eines jungen Sängers
+MID_Stage_Situation_SpecialC_01: Cohen, gespielt von {Variable=0}, überlegt, ob er zu\neiner noch verführerischeren Vorstellung fähig ist.
+MID_Stage_Situation_SpecialC_02_t: Eine bezaubernde Vorstellung
+MID_Stage_Situation_SpecialC_02: Ein Dörfler, gespielt von {Variable=0}, lobt Cohens\nGeschick beim Spiel mit der Vihuela.
+MID_Stage_Situation_SpecialC_03_t: Eine Weise des Mutes
+MID_Stage_Situation_SpecialC_03: Ein Soldat in einem Tempel, gespielt von\n{Variable=0}, wird durch Cohens Lied ermutigt,\nseine Motivation steigt.
+MID_Stage_Situation_SpecialC_04_t: Lebensspendendes Wasser
+MID_Stage_Situation_SpecialC_04: Ein Raufbold, gespielt von {Variable=0}, ist in\nHochstimmung, als das Wasser durch Cohens Lied in\nGhosh verwandelt wird.
+MID_Stage_Situation_SpecialC_05_t: Möge seine Melodie ewig sein
+MID_Stage_Situation_SpecialC_05: Kalla, gespielt von {Variable=0}, trauert um Cohen,\nihren schmerzlich vermissten Sohn.
+MID_Stage_Calendar_Help_SpecialA: Das Theater zeigt das Stück\n„Der Aufstieg des Weißmähnigen\nDämons“.
+MID_Stage_Calendar_Help_SpecialB: Das Theater zeigt das Stück\n„Aragos Heldentaten“.
+MID_Stage_Calendar_Help_SpecialC: Das Theater zeigt das Stück\n„Der einzigartige Cohen“.

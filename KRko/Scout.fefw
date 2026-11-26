@@ -1,0 +1,1803 @@
+﻿MID_LGV_Scout_Confirm: {Variable=0}{ConsonantVowel=을|를} 동료로 삼겠습니까?
+MID_LGV_Scout_Terms_Confirm_m01: <TH>
+MID_LGV_Scout_Terms_Confirm_m01_001: <DLG>{Variable=0}{ConsonantVowel=은|는} 다음과 같은 것을 원하는 모양입니다\n건네겠습니까?
+MID_LGV_Scout_Pet_m01: <TH>
+MID_LGV_Scout_Pet_m01_001: 저, 저기!\n혹시 괜찮으면……
+MID_LGV_Scout_Pet_m01_002: 당신의 동료로 삼아 줬으면 해.\n왜냐면 난 강해지고 싶거든……
+MID_LGV_Scout_Pet_m01_003: 물론 도움이 되도록 열심히 할 생각이야!\n……안 될까?
+MID_LGV_Scout_Pet_m02: <TH>
+MID_LGV_Scout_Pet_m02_001: 와, 정말!?\n아싸!
+MID_LGV_Scout_Pet_m02_002: 용기 내길 잘했어……!\n앞으로 잘 부탁해!
+MID_LGV_Scout_Pet_m03: <TH>
+MID_LGV_Scout_Pet_m03_001: 으…… 그럼 그렇지……\n만약 생각이 바뀌면 말해 줘……
+MID_LGV_Scout_Pet_m04: <TH>
+MID_LGV_Scout_Pet_m04_001: 어어~!? 동료가 되어 달라고?\n내 어디가 마음에 들어서……?
+MID_LGV_Scout_Pet_m04_002: 그…… 제안해 줘서 정말 기쁜데\n난 그럴 마음이 없어. 미안해……
+MID_LGV_Scout_Pet_m05: <TH>
+MID_LGV_Scout_Pet_m05_001: 어어!? 동료가 되어 달라고?\n무, 무리야……!
+MID_LGV_Scout_Pet_m05_002: 왜냐면 난 카이의 친구인 데다 카이를 돕기 위해\n히베이라 마을에서 여기까지 왔거든.
+MID_LGV_Scout_Pet_m05_003: 그리고 티아라를 두고 갈 수는 없어.\n걔도 카이를……
+MID_LGV_Scout_Pet_m05_004: ……꼭 동료가 되어 줬으면 하는 거야?\n곤란한데…… 아, 맞다!
+MID_LGV_Scout_Pet_m05_005: 그렇게 내가 마음에 든다면\n어떤 부탁이라도 들어줄 수 있어?
+MID_LGV_Scout_Pet_m05_006: 사실은 계속 먹어 보고 싶던 게 있거든……\n「환상의 긴지」라고 하는 건데 말이야.
+MID_LGV_Scout_Pet_m05_007: 좀처럼 열매가 맺히지 않는 데다 엄청 귀하고\n맛도 진짜 신기하대.
+MID_LGV_Scout_Pet_m05_008: 그걸 가져다주면 생각해 볼게.\n아마 힘들겠지만…… 힘내.
+MID_LGV_Scout_Pet_m06: <TH>
+MID_LGV_Scout_Pet_m06_001: 어어어!? 설마 이게 그\n「환상의 긴지」야!?
+MID_LGV_Scout_Pet_m06_002: 정말로 가져올 줄이야……\n꽤 힘들지 않았어?
+MID_LGV_Scout_Pet_m06_003: 으으…… 이렇게까지 하면 어쩔 수 없지……\n내가 졌어.
+MID_LGV_Scout_Pet_m06_004: 카이와 티아라의 친구인 건 변함없지만……\n앞으로는 당신도 도와줄게.
+MID_LGV_Scout_Pet_m06_005: 다시 한번 자기소개를 하자면 내 이름은 피터르고\n활을 조금 잘 다뤄. 그럼 앞으로 잘 부탁해!
+MID_LGV_Scout_Hur_m01: <TH>
+MID_LGV_Scout_Hur_m01_001: 잠시 할 얘기가 있는데……\n들어 줄래?
+MID_LGV_Scout_Hur_m01_002: 잠시 드릴 말씀이 있는데……\n들어 주시겠어요?
+MID_LGV_Scout_Hur_m01_003: 전부터 당신에게 힘이 되어 주고 싶다고 생각했어.\n왠지 내버려둘 수 없다고나 할까.
+MID_LGV_Scout_Hur_m01_004: 전부터 당신께 힘이 되어 드리고 싶다고 생각했어요.\n왠지 내버려둘 수 없다고나 할까요.
+MID_LGV_Scout_Hur_m01_005: 쓸데없는 참견일지도 모르겠지만……\n함께 싸워도 될까?
+MID_LGV_Scout_Hur_m01_006: 쓸데없는 참견일지도 모르겠지만……\n함께 싸워도 될까요?
+MID_LGV_Scout_Hur_m02: <TH>
+MID_LGV_Scout_Hur_m02_001: 다행이다……!\n그럼 우리는 이제부터 동료네.
+MID_LGV_Scout_Hur_m02_002: 다행이다……!\n그럼 우리는 이제부터 동료네요.
+MID_LGV_Scout_Hur_m02_003: 나 울턴드 셀로와네는\n당신을 위해 최선을 다하겠어!
+MID_LGV_Scout_Hur_m02_004: 저 울턴드 셀로와네는\n당신을 위해 최선을 다하겠어요!
+MID_LGV_Scout_Hur_m03: <TH>
+MID_LGV_Scout_Hur_m03_001: 그렇구나…… 이상한 말을 해서 미안해.\n그래도 내가 한 말을 기억해 줬으면 좋겠어.
+MID_LGV_Scout_Hur_m03_002: 그렇군요…… 이상한 말을 해서 죄송해요.\n그래도 제가 한 말을 기억해 주셨으면 좋겠어요.
+MID_LGV_Scout_Hur_m04: <TH>
+MID_LGV_Scout_Hur_m04_001: 어머, 나를 영입하려는 거야?\n우후후…… 어떻게 할까.
+MID_LGV_Scout_Hur_m04_002: 저를 영입하시려는 건가요?\n어머…… 어떻게 할까요.
+MID_LGV_Scout_Hur_m04_003: 이래 봬도 여러모로 바쁜 몸이라서 말이지.\n지금은 그럴 마음이 없어. 미안해.
+MID_LGV_Scout_Hur_m04_004: 사실 이래 봬도 여러모로 바쁜 몸이라서 말이죠.\n지금은 제안을 받아들이기 힘들 것 같아요. 죄송해요.
+MID_LGV_Scout_Hur_m05: <TH>
+MID_LGV_Scout_Hur_m05_001: 나를 당신의 클랜에 영입하려는 거야?\n우후후…… 왠지 기쁘네.
+MID_LGV_Scout_Hur_m05_002: 저를 영입하시려는 건가요?\n우후후…… 기쁘네요.
+MID_LGV_Scout_Hur_m05_003: 하지만 나는 도련……이 아니라\n카이 클랜의 일원이야.
+MID_LGV_Scout_Hur_m05_004: 하지만 저는 도련……이 아니라\n카이 클랜의 일원이에요.
+MID_LGV_Scout_Hur_m05_005: 그리고 요즘 개인적인 고민도 있어서……\n여러 가지로 힘들거든. 그래서 안 될 것 같아.
+MID_LGV_Scout_Hur_m05_006: 그리고 요즘 개인적인 고민도 있어서……\n여러 가지로 힘들거든요. 그래서 안 될 것 같아요.
+MID_LGV_Scout_Hur_m05_007: 어? 당신도 동료가 부족해서 힘들다고?\n그런 말을 들으면 마음이 약해지는데……
+MID_LGV_Scout_Hur_m05_008: 네? 당신도 동료가 부족해서 힘드시다고요?\n그런 말씀을 들으면 마음이 약해지는데……
+MID_LGV_Scout_Hur_m05_009: 저기, 괜찮다면 내 고민 좀\n들어 주지 않을래?
+MID_LGV_Scout_Hur_m05_010: 저…… 괜찮으시다면 제 고민 좀\n들어 주시겠어요?
+MID_LGV_Scout_Hur_m05_011: 실은 돈을 벌러 집을 떠난 어머니가\n나랑 동생들에게 선물을 보내 줬는데……
+MID_LGV_Scout_Hur_m05_012: 실은 돈을 벌러 집을 떠난 어머니가\n저랑 동생들에게 선물을 보내 줬는데요……
+MID_LGV_Scout_Hur_m05_013: 운송 중에 도적들의 습격을 받아\n빼앗겼대.
+MID_LGV_Scout_Hur_m05_014: 운송 중에 도적들의 습격을 받아\n빼앗겼대요.
+MID_LGV_Scout_Hur_m05_015: 도적단은 잡혔는데…… 훔친 물건은\n어느 요새의 옛터에 숨긴 것 같아.
+MID_LGV_Scout_Hur_m05_016: 도적단은 잡혔는데…… 훔친 물건은\n어느 요새의 옛터에 숨긴 것 같아요.
+MID_LGV_Scout_Hur_m05_017: 만약 거기서 소포를 찾아다 주면\n당신의 제안을 고려해 볼게.
+MID_LGV_Scout_Hur_m05_018: 만약 거기서 소포를 찾아다 주시면\n당신의 제안을 고려해 볼게요.
+MID_LGV_Scout_Hur_m06: <TH>
+MID_LGV_Scout_Hur_m06_001: 소포를 찾은 거야!?\n너무 기뻐……! 뭐라고 감사의 말을 해야 할지……!
+MID_LGV_Scout_Hur_m06_002: 소포를 찾으신 건가요!?\n너무 기뻐요! 뭐라고 감사의 말씀을 드려야 할지……!
+MID_LGV_Scout_Hur_m06_003: 내용물은 옷이나 나무 장난감 같은 거라\n솔직히 전혀 비싼 건 아니지만
+MID_LGV_Scout_Hur_m06_004: 내용물은 옷이나 나무 장난감 같은 거라\n솔직히 전혀 비싼 건 아니지만
+MID_LGV_Scout_Hur_m06_005: 부족한 돈으로나마 나랑 동생들을 위해\n열심히 준비해 준 어머니의 마음이 담겨 있어.
+MID_LGV_Scout_Hur_m06_006: 부족한 돈으로나마 저랑 동생들을 위해\n열심히 준비해 준 어머니의 마음이 담겨 있어요.
+MID_LGV_Scout_Hur_m06_007: 당신은 나의…… 아니, 우리 가족 모두의 은인이야!\n그에 대한 보답을 해야겠지.
+MID_LGV_Scout_Hur_m06_008: 당신은 저의…… 아니, 저희 가족 모두의 은인이에요!\n그에 대한 보답을 해야겠죠.
+MID_LGV_Scout_Hur_m06_009: 카이 일행과는 조금 거리를 두게 되겠지만\n야무진 애들이니 분명 괜찮을 거야.
+MID_LGV_Scout_Hur_m06_010: 카이 일행과는 조금 거리를 두게 되겠지만\n야무진 애들이니 분명 괜찮을 거예요.
+MID_LGV_Scout_Hur_m06_011: 나 울턴드 셀로와네는…… 앞으로\n당신들에게 힘을 빌려줄게! 잘 부탁해!
+MID_LGV_Scout_Hur_m06_012: 저 울턴드 셀로와네는…… 앞으로\n당신께 힘이 되어 드리겠어요. 잘 부탁드려요!
+MID_LGV_Scout_Max_m01: <TH>
+MID_LGV_Scout_Max_m01_001: 히히힛. "지옥의 광대"와 함께 싸우고 싶다니\n목숨 아까운 줄 모르는 녀석이네……
+MID_LGV_Scout_Max_m01_002: 난 변덕이 심해서\n갑자기 너의 뒤통수를 칠지도 모르는데 괜찮겠어?
+MID_LGV_Scout_Max_m02: <TH>
+MID_LGV_Scout_Max_m02_001: 히~히히히히히!\n그럼 원하는 대로 너의 곁에 있어 주지!
+MID_LGV_Scout_Max_m02_002: 피 웅덩이에서 사이좋게\n죽을 때까지 미친 듯이 춤추자고!
+MID_LGV_Scout_Max_m03: <TH>
+MID_LGV_Scout_Max_m03_001: 키히히히…… 겁먹었어?\n현명한 선택이야.
+MID_LGV_Scout_Max_m04: <TH>
+MID_LGV_Scout_Max_m04_001: 캬하하! 정말 재미있는 녀석이네!\n이 "지옥의 제스터"에게 동료가 되어 달라니!
+MID_LGV_Scout_Max_m04_002: 날 즐겁게 해 줬으니 이번에는 봐주겠어.\n난도질당하고 싶으면 언제든지 오라고.
+MID_LGV_Scout_Max_m05: <TH>
+MID_LGV_Scout_Max_m05_001: "지옥의 광대"와 함께 싸우고 싶다고?\n목숨 아까운 줄 모르는 녀석이네……
+MID_LGV_Scout_Max_m05_002: 난 변덕이 심해서\n갑자기 너의 뒤통수를 칠지도 모르는데 괜찮겠어?
+MID_LGV_Scout_Max_m05_003: 호오…… 그래도 상관없다고?\n히히힛! 마음에 드는데!
+MID_LGV_Scout_Max_m05_004: 하지만 아쉽게도 너한테서는\n베르트랑만큼의 피 냄새가 나지 않아.
+MID_LGV_Scout_Max_m05_005: 난 그런 녀석들에게 끌리지 않거든……\n아, 그래! 마침 딱 좋은 상대가 있었네.
+MID_LGV_Scout_Max_m05_006: 제도 남쪽의 「다다 평원」을 본거지로 하는\n「베일 혈섬 부대」라는 이름의 잔인한 패거리가 있어.
+MID_LGV_Scout_Max_m05_007: 근처 마을 사람들이 토벌하러 갔다가\n누가 누군지 못 알아볼 정도로 당했다고 하지!
+MID_LGV_Scout_Max_m05_008: 그 녀석들과 피 튀기는 싸움을 벌이고 와.\n그러면 너의 제안을 다시 고려해 볼게.
+MID_LGV_Scout_Max_m06: <TH>
+MID_LGV_Scout_Max_m06_001: 「베일 혈섬 부대」를 처치했다고?\n호오…… 생각보다 제법이네……
+MID_LGV_Scout_Max_m06_002: 아니지, 너희에게 당할 정도면\n녀석들이 소문만큼 강하지 않았다는 뜻인가?
+MID_LGV_Scout_Max_m06_003: 크크큭! 전보다는 좀 더 피 냄새가 나네.\n하지만 아직 부족해.
+MID_LGV_Scout_Max_m07: <TH>
+MID_LGV_Scout_Max_m07_001: 항상 죽음의 냄새를 풍길 정도여야\n내 마음을 끌 수 있어.
+MID_LGV_Scout_Max_m07_002: 다음 상대는 「세도 요새」를\n점거하고 있는 산적 무리인 「시체 감옥의 듀난조」야.
+MID_LGV_Scout_Max_m07_005: 다음 상대는 「발할라 광산」을\n점거하고 있는 산적 무리인 「시체 감옥의 듀난조」야.
+MID_LGV_Scout_Max_m07_003: 녀석들에게 납치된 사람들은 모두 돌아오지 못했어.\n아지트는 백골과 죽음의 냄새로 가득하다고 하지.
+MID_LGV_Scout_Max_m07_004: 거기서 그 녀석들과 일전을 벌이고 와.\n너의 제안은 그다음에 고려해 볼게.
+MID_LGV_Scout_Max_m08: <TH>
+MID_LGV_Scout_Max_m08_001: 뭐? 「시체 감옥의 듀난조」를 섬멸했다고!?\n그 녀석들을? 그, 그거 대단하네……
+MID_LGV_Scout_Max_m08_002: 이제 죽음의 냄새가 풍기냐고?\n음…… 뭐, 이 정도면 합격인가.
+MID_LGV_Scout_Max_m08_003: 너…… 녀석들을 쓰러뜨려서 안심한 것 같은데?\n하지만 아직 그러기에는 일러.
+MID_LGV_Scout_Max_m09: <TH>
+MID_LGV_Scout_Max_m09_001: 이번에는 「속삭임 바위」에 있는\n「명부의 떠돌이들」을 처치하고 오도록 해.
+MID_LGV_Scout_Max_m09_002: 그 패거리는 온갖 극악무도한 녀석들의 집합체로\n그야말로 저승사자들이나 다름없지.
+MID_LGV_Scout_Max_m09_003: 날 동료로 삼고 싶으면 갔다 와.\n하지만 목숨이 아깝다면 포기하는 게 좋을걸?
+MID_LGV_Scout_Max_m010: <TH>
+MID_LGV_Scout_Max_m010_001: 며…… 「명부의 떠돌이들」도 처치했다고!?\n거, 거짓말은 아닌 것 같네……
+MID_LGV_Scout_Max_m010_002: (포기하게 만들 생각이었는데……\n왜 이렇게 된 거지……)
+MID_LGV_Scout_Max_m010_003: (더 이상 거절할 수 없어…… 베르트랑씨,\n죄송해요…… 잠시 전열에서 이탈하겠습니다……)
+MID_LGV_Scout_Max_m010_004: 히히히! 너희는 피바다를 건너고\n시체의 산을 넘은 다음 저승까지 들여다봤구나!
+MID_LGV_Scout_Max_m010_005: 하지만 진짜 지옥은 지금부터 시작이라고.\n내가 옆에 있으니까 말이야.
+MID_LGV_Scout_Max_m010_006: 나 제스터를 동료로 끌어들인 걸\n후회하게 해 주겠어. 키히히히히!
+MID_LGV_Scout_Gol_m01: <TH>
+MID_LGV_Scout_Gol_m01_001: 이봐, 부탁이 있다.\n날 동료로 받아 주지 않겠어?
+MID_LGV_Scout_Gol_m01_002: 어이, 카이! 요새도 열심히 하고 있는 것 같네.\n역시 날 이긴 녀석답구먼.
+MID_LGV_Scout_Gol_m01_003: 몇 년 동안 투기장에 있었더니\n외부에서 온 강자에 대해 좀 더 알고 싶어져서 말이야.
+MID_LGV_Scout_Gol_m01_004: 왠지 모르게 너를\n더 응원해 주고 싶어졌어.
+MID_LGV_Scout_Gol_m01_005: 안 된다면 어쩔 수 없지만……
+MID_LGV_Scout_Gol_m01_006: 그래서 이 "우살자"가\n힘을 빌려줄까 하는데 어때?
+MID_LGV_Scout_Gol_m02: <TH>
+MID_LGV_Scout_Gol_m02_001: 정말이야!?\n우오오오오! 고마워!
+MID_LGV_Scout_Gol_m02_002: 푸하하하하!\n그렇게 말할 줄 알았어!
+MID_LGV_Scout_Gol_m02_003: 어떤 적이든 내가 날려 버릴 테니\n지켜보라고!
+MID_LGV_Scout_Gol_m03: <TH>
+MID_LGV_Scout_Gol_m03_001: 그렇구먼……\n시간 뺏어서 미안하다.
+MID_LGV_Scout_Gol_m03_002: 뭐, 넌 강하니까.\n그래도 혹시 내가 필요해지면 언제든지 말하라고.
+MID_LGV_Scout_Gol_m04: <TH>
+MID_LGV_Scout_Gol_m04_002: 뭐? 방금 뭐라고 했어?\n나보고 동료가 되라고?
+MID_LGV_Scout_Gol_m04_003: 너, 혹시\n함께 싸워 줄 녀석을 찾고 있는 거야?
+MID_LGV_Scout_Gol_m04_004: 푸하하하! 배짱 한번 좋구먼!\n그 배짱을 봐서 오늘은 살려 주지.
+MID_LGV_Scout_Gol_m04_005: 힘을 빌려주고 싶지만……\n난 베르트랑 형님과 함께하고 있어서 힘들 것 같다.
+MID_LGV_Scout_Gol_m05: <TH>
+MID_LGV_Scout_Gol_m05_001: 나를 동료로 삼고 싶다고?\n겁 없는 녀석이구먼.
+MID_LGV_Scout_Gol_m05_002: 카이, 여전히 열심히 하고 있구나.\n근데 혹시 날 동료로 삼고 싶은 거야?
+MID_LGV_Scout_Gol_m05_003: 대부분의 녀석들은 "우살자"라고 불리는\n내 얼굴만 봐도 도망가는데 말이야.
+MID_LGV_Scout_Gol_m05_004: 난 베르트랑 형님과 함께하고 있지만\n형님뿐만 아니라 너도 응원하고 있지.
+MID_LGV_Scout_Gol_m05_005: 그 배짱을 봐서 이야기를 들어 주지.\n근데…… 계속 싸웠더니 배고파 죽겠구먼.
+MID_LGV_Scout_Gol_m05_006: 그러니 이야기만이라면 들어 주겠어.\n근데…… 계속 싸웠더니 배고파 죽겠구먼.
+MID_LGV_Scout_Gol_m05_007: 베르트랑 형님과 함께 싸우다 보면\n투기장에서 주는 밥만으로는 부족하거든.
+MID_LGV_Scout_Gol_m05_008: 요즘 매일같이 격렬한 싸움을 하고 있어서\n투기장에서 주는 밥만으로는 부족하거든.
+MID_LGV_Scout_Gol_m05_009: 커다란 고기를 실컷 먹게 해 주면\n생각해 보지! 푸하하하!
+MID_LGV_Scout_Gol_m06: <TH>
+MID_LGV_Scout_Gol_m06_001: 뭐어!?\n진짜로 준비했다고!?
+MID_LGV_Scout_Gol_m06_002: 설마 진짜로 가져올 줄이야……\n어…… 어쩔 수 없군. 약속은 약속이니까.
+MID_LGV_Scout_Gol_m06_003: 베르트랑 형님을 배신하는 건 아니지만……\n힘을 빌려주지.
+MID_LGV_Scout_Gol_m06_004: 베르트랑 형님을 배신하는 건 아니지만……\n너에게도 힘을 빌려주지.
+MID_LGV_Scout_Gol_m06_005: 어떤 적이든 한 방에 날려 버릴 테니\n앞으로는 나만 믿어!
+MID_LGV_Scout_Gol_m07: <TH>
+MID_LGV_Scout_Gol_m07_001: 푸하하하하! 겁먹은 거냐?\n뭐, 그럴 만도 하지.
+MID_LGV_Scout_Gol_m07_002: 뭐, 너희는 나 없이도 강하니까.\n곤란한 일이 있으면 언제든지 말하라고.
+MID_LGV_Scout_Gol_m08: <TH>
+MID_LGV_Scout_Gol_m08_001: 뭐야? 안 갖고 왔잖아.\n날려 버리기 전에 내 앞에서 사라져.
+MID_LGV_Scout_Gol_m08_002: 푸하하하! 안 갖고 왔잖아.\n뭐, 진짜로 가져와도 곤란하지만.
+MID_LGV_Scout_Dan_m01: <TH>
+MID_LGV_Scout_Dan_m01_001: 혹시…… 자신의 클랜에 뭔가\n부족한 것이 있다고 생각하지 않나?
+MID_LGV_Scout_Dan_m01_002: 세오도라 폐하께 긴히 부탁드리고 싶은 것이 있습니다.\n저를 폐하의 클랜에 넣어 주실 수 있나요?
+MID_LGV_Scout_Dan_m01_003: 그게 뭐냐면 바로 나라는 극작가지.\n……왜 내가 필요하냐고?
+MID_LGV_Scout_Dan_m01_004: 극작가로서의 감이 속삭이고 있습니다…… 폐하와\n함께하면 반드시 좋은 취재가 가능할 거라고 말이죠.
+MID_LGV_Scout_Dan_m01_005: 그런 설명에 할애할 지면은 없어.\n뭐, 함께 있으면 금방 알 거야.
+MID_LGV_Scout_Dan_m01_006: 물론 전장에도 동행할 겁니다.\n짐이 될 일은 없으니 안심하시길.
+MID_LGV_Scout_Dan_m02: <TH>
+MID_LGV_Scout_Dan_m02_001: 잘 생각했어.\n예술의 여신 칼라님도 축복해 주시겠지.
+MID_LGV_Scout_Dan_m02_002: 후후후, 감사합니다.\n그럼 이제부터 폐하를 따라가도록 하죠.
+MID_LGV_Scout_Dan_m02_003: 너희와 걷는 길에서 어떤 새로운 풍경을\n볼 수 있을지…… 정말 기대되는걸……!
+MID_LGV_Scout_Dan_m02_004: 세오도라 폐하와 걷는 길에서 어떤 새로운 풍경을\n볼 수 있을지…… 정말 기대되는군요……!
+MID_LGV_Scout_Dan_m03: <TH>
+MID_LGV_Scout_Dan_m03_001: 거절하는 건가? 아쉽군……\n좀 더 본인에게 유익한 판단을 내리는 게 어때?
+MID_LGV_Scout_Dan_m03_002: 거절하시는 건가요? 걸작의 소재를 얻을 수\n있을 거라 생각했는데…… 아쉽군요.
+MID_LGV_Scout_Dan_m04: <TH>
+MID_LGV_Scout_Dan_m04_001: 나는 항상 신선하고 자극적인 체험을 원해.\n왜냐면 모든 것이 창작의 소재가 되기 때문이지!
+MID_LGV_Scout_Dan_m04_002: 저는 항상 신선하고 자극적인 체험을 원합니다.\n왜냐면 모든 것이 창작의 소재가 되기 때문이죠!
+MID_LGV_Scout_Dan_m04_003: 지금 너의 동료가 되면 그런 체험을 할 수 있나?\n그건 아닐 것 같은데. 더 수행하고 오라고!
+MID_LGV_Scout_Dan_m04_004: 지금 폐하의 동료가 되면 그런 체험을 할 수 있나요?\n제 생각에는 그건 아닐 것 같군요.
+MID_LGV_Scout_Dan_m05: <TH>
+MID_LGV_Scout_Dan_m05_001: 내게 흥미가 있나?\n나야말로 네게 흥미가 있지!
+MID_LGV_Scout_Dan_m05_002: 제게 흥미가 있으신가요?\n저야말로 폐하께 흥미가 있습니다!
+MID_LGV_Scout_Dan_m05_003: 너에게서는 독특한 분위기가 느껴진다.\n말하자면…… 기구한 운명을 가진 자의 분위기랄까.
+MID_LGV_Scout_Dan_m05_004: 폐하께서는 독특한 분위기가 느껴집니다.\n말하자면…… 기구한 운명을 가진 자의 분위기랄까요.
+MID_LGV_Scout_Dan_m05_005: 너와 있으면 창작의 소재, 즉 최고의 경험을 얻을 수\n있을 거라고…… "문호 단테"의 감이 속삭이고 있어!
+MID_LGV_Scout_Dan_m05_006: 폐하와 있으면 창작의 소재, 즉 최고의 경험을 얻을 수\n있을 거라고…… "문호 단테"의 감이 속삭이고 있죠!
+MID_LGV_Scout_Dan_m05_007: "투기장의 백발귀"를 취재하기에도 바쁘지만\n특별히 시간을 내서 너와 동행해 주지.
+MID_LGV_Scout_Dan_m05_008: "투기장의 백발귀"를 취재하기에도 바쁘지만\n특별히 시간을 내서 폐하와 동행하겠습니다.
+MID_LGV_Scout_Dan_m05_009: 하지만 일류 작가인 내가 무상으로 일할 수는 없으니\n이 정도 경비는 받아야겠어.
+MID_LGV_Scout_Dan_m05_010: 하지만 일류 작가인 제가 무상으로 일할 수는 없으니\n이 정도 경비는 받아야겠군요.
+MID_LGV_Scout_Dan_m06: <TH>
+MID_LGV_Scout_Dan_m06_001: 잘 생각했어!\n예술의 여신 칼라님도 축복해 주시겠지.
+MID_LGV_Scout_Dan_m06_002: 후후후, 감사합니다.\n그럼 이제부터 폐하를 따라가도록 하죠.
+MID_LGV_Scout_Dan_m06_003: 너희와 걷는 길에서 어떤 새로운 풍경을\n볼 수 있을지…… 정말 기대되는걸……!
+MID_LGV_Scout_Dan_m06_004: 세오도라 폐하와 걷는 길에서 어떤 새로운 풍경을\n볼 수 있을지…… 정말 기대되는군요……!
+MID_LGV_Scout_Dan_m07: <TH>
+MID_LGV_Scout_Dan_m07_001: 어라? 거절하는 건가? 정말 유감이군……\n넌 걸작의 탄생을 목격할 기회를 날린 거야.
+MID_LGV_Scout_Dan_m07_002: 거절하시는 건가요? 아쉽군요……\n걸작의 탄생을 목격할 기회를 날리신 겁니다.
+MID_LGV_Scout_Dan_m08: <TH>
+MID_LGV_Scout_Dan_m08_001: 어라? 돈이 부족한 것 같은데……\n난 도망가지 않으니 준비해서 오라고.
+MID_LGV_Scout_Dan_m08_002: 이런, 돈이 부족하신 것 같군요……\n기다릴 테니 준비해서 오시죠.
+MID_LGV_Scout_Esm_m01: <TH>
+MID_LGV_Scout_Esm_m01_001: 저기, 부탁이 있는데……\n함께 싸워도 될까?
+MID_LGV_Scout_Esm_m01_002: 내 사랑 달링은 강한 사람을 좋아하거든.\n그래서 나도 강해지고 싶은데
+MID_LGV_Scout_Esm_m01_003: 그쪽과 있으면 단련될 것 같아서 말이지.\n절대 발목 잡지 않을게. 부탁이야!
+MID_LGV_Scout_Esm_m02: <TH>
+MID_LGV_Scout_Esm_m02_001: 정말!? 고마워!\n동료로 받아 줬으니 열심히 할게!
+MID_LGV_Scout_Esm_m02_002: 이래 봬도 완력에는 자신 있거든!\n고기잡이도 잘하니까 나만 믿어!
+MID_LGV_Scout_Esm_m03: <TH>
+MID_LGV_Scout_Esm_m03_001: 사람이 이렇게 부탁하는데!\n그래도 난 포기하지 않을 거야!
+MID_LGV_Scout_Esm_m04: <TH>
+MID_LGV_Scout_Esm_m04_001: 어…… 동료가 되어 달라고?\n나보고 클랜에 들어오라는 소리야?
+MID_LGV_Scout_Esm_m04_002: 미안하지만 나한테는 달링밖에 없어.\n포기하고 다른 사람을 찾아 봐.
+MID_LGV_Scout_Esm_m05: <TH>
+MID_LGV_Scout_Esm_m05_001: 그쪽 클랜에 들어오지 않겠냐니……\n그거 진심이야?
+MID_LGV_Scout_Esm_m05_002: 나한테는 달링…… 디트리히밖에 없어.\n그러니 미안하지만 그 제안은 못 들은 걸로 할게.
+MID_LGV_Scout_Esm_m05_003: 음…… 무슨 일이 있어도 날 동료로 삼고 싶다고?\n그렇게까지 말해 주니 조금 기쁘네.
+MID_LGV_Scout_Esm_m05_004: 좋아! 아마 불가능하겠지만……\n한 번만 기회를 줄게.
+MID_LGV_Scout_Esm_m05_005: 내 고향은 피나라는 어촌이야.\n아무것도 없지만 좋은 마을이지.
+MID_LGV_Scout_Esm_m05_006: 그 근처의 「다마센곶」이라는 곳에 옛날부터\n사나운 해수들의 서식지가 있어.
+MID_LGV_Scout_Esm_m05_007: 마을 녀석들은 절대 접근하지 않는 위험한 곳이지.\n거기 있는 해수들을 모두 해치우고 와.
+MID_LGV_Scout_Esm_m05_008: 뭐, 절대 불가능하겠지만.\n만약 해치우고 오면 제안을 고려해 볼게!
+MID_LGV_Scout_Esm_m06: <TH>
+MID_LGV_Scout_Esm_m06_001: 그 사나운 해수들을 해치웠다고……!?\n불가능할 거라 생각했는데…… 제법이잖아.
+MID_LGV_Scout_Esm_m06_002: 사실 최근에 그곳의 해수가\n엄청 많아졌다는 소문을 들어서……
+MID_LGV_Scout_Esm_m06_003: 피나에 있는 엄마가 걱정됐거든.\n하지만 이제 그런 걱정도 사라졌네.
+MID_LGV_Scout_Esm_m06_004: 그 실력, 그리고 나를 동료로 삼고 싶은 마음이\n거짓이 아니라는 건 아주 잘 알았어.
+MID_LGV_Scout_Esm_m06_005: 나한테는 여전히 달링뿐이지만……\n특별히 힘을 빌려줄게!
+MID_LGV_Scout_Sim_m01: <TH>
+MID_LGV_Scout_Sim_m01_001: 내게 부탁할 일이라도 있는 건가?\n나야 싸울 수만 있다면 뭐든 환영이야.
+MID_LGV_Scout_Sim_m01_002: 사는 것도 죽는 것도 자기 실력에 달려 있지.\n그게 바로 전장의 교훈이자 묘미다.
+MID_LGV_Scout_Sim_m01_003: 너무 더러운 일만 아니라면\n어떤 의뢰든 맡아 주겠다만…… 어떻게 할래?
+MID_LGV_Scout_Sim_m02: <TH>
+MID_LGV_Scout_Sim_m02_001: 좋아, 결정됐군.\n뭐든 믿고 맡기라고.
+MID_LGV_Scout_Sim_m02_002: 이걸로 다시 전장에서\n짜릿한 사투를 즐길 수 있겠어.
+MID_LGV_Scout_Sim_m03: <TH>
+MID_LGV_Scout_Sim_m03_001: 그거 유감이군. 뭐, 난 언제든 환영이니\n도움이 필요해지면 말하라고.
+MID_LGV_Scout_Sim_m04: <TH>
+MID_LGV_Scout_Sim_m04_001: 난 대장인 타리문 밑에서 일하지만\n전속은 아니지.
+MID_LGV_Scout_Sim_m04_002: 그런데 지금은 너보다 대장과 함께하는 게\n더 재미있을 것 같군. 다음에 다시 오라고.
+MID_LGV_Scout_Sim_m04_003: 그런데 지금은 당신보다 대장과 함께하는 게\n더 재미있을 것 같군. 다음에 다시 오라고.
+MID_LGV_Scout_Negotiation_SP_Sim_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Sim_m01_001: 어떤 부탁인가 싶었는데\n『동료가 되어 달라』라는 거였나.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_002: 뭐, 타리문 대장에게 고용되긴 했지만\n반달 상회 전속 용병은 아니지.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_003: 시시한 일만 계속하다 보니 좀이 쑤시던 참이야.\n오늘부터 당신들을 도와주는 것도 나쁘지 않겠군.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_004: 하지만 바로 동료가 되는 것도 재미없으니……\n한 가지 간단한 내기를 하지 않겠어?
+MID_LGV_Scout_Negotiation_SP_Sim_m01_005: 여기 금화가 한 닢 있지.\n이걸 던질 테니 앞면인지 뒷면인지 맞혀 봐.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_006: 물론 공짜는 아니야.\n1회에 500골드다. 할래?
+MID_LGV_Scout_Negotiation_SP_Sim_m01_007: <ICA>내기에 응한다
+MID_LGV_Scout_Negotiation_SP_Sim_m01_008: <ICB>그만둔다
+MID_LGV_Scout_Negotiation_SP_Sim_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Sim_m02_001: 헷, 그렇게 나와야지!\n그럼 돈은 받아 가겠어.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_002: 준비됐어? 그럼 시작한다.\n읏……차! 자, 어느 쪽일까?
+MID_LGV_Scout_Negotiation_SP_Sim_m02_003: <ICA>앞!
+MID_LGV_Scout_Negotiation_SP_Sim_m02_004: <ICB>뒤!
+MID_LGV_Scout_Negotiation_SP_Sim_m02_005: <ACA>……안됐군! 뒷면이다.\n미안하지만 500골드는 내가 가져가겠어.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_006: <ACA>몇 번이고 도전을 받아 주지.\n또 내 주머니를 채워 달라고!
+MID_LGV_Scout_Negotiation_SP_Sim_m02_007: <ACB>정답은…… 뒷면이다!\n내가 졌어.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_008: <ACB>운이 좋군. 아니, 눈이 좋은 건가……?\n뭐, 됐어. 약속대로 도와주지.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_009: <ACB>너무 더러운 일만 아니라면\n어떤 의뢰든 맡아 줄게.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_010: <ACB>전장에서 짜릿한 사투를\n즐길 수 있다면 더할 나위 없겠지.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_011: <ACB>다시 한번 자기소개를 할까. 나는 시몬.\n시몬 클레이먼이다. 앞으로 잘 부탁해!
+MID_LGV_Scout_Negotiation_SP_Sim_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Sim_m03_001: 뭐야? 겁먹었어?\n마음이 바뀌면 언제든지 말하라고.
+MID_LGV_Scout_Negotiation_SP_NoMoney_Sim_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoMoney_Sim_m01_001: 이봐, 돈이 부족하잖아.\n주머니를 채워서 다시 오라고.
+MID_LGV_Scout_Lou_m01: <TH>
+MID_LGV_Scout_Lou_m01_001: 저기, 귀가 솔깃해질 정보가 있는데……\n날 고용하지 않을래? 그것도 공짜로!
+MID_LGV_Scout_Lou_m01_002: 저기, 당신 귀가 솔깃해질 정보가 있는데……\n절 고용하지 않으실래요? 그것도 공짜로요!
+MID_LGV_Scout_Lou_m01_003: 타리문씨가 상회에 도움이 될 만한 사람이 있으면\n도와주라고 했거든!
+MID_LGV_Scout_Lou_m01_004: 타리문씨가 상회에 도움이 될 만한 사람이 있으면\n도와주라고 했거든요!
+MID_LGV_Scout_Lou_m02: <TH>
+MID_LGV_Scout_Lou_m02_001: 그럼 잘 부탁해!\n실력에는 자신 있으니 기대해도 좋아!
+MID_LGV_Scout_Lou_m02_002: 네, 앞으로 잘 부탁드려요!\n실력에는 자신 있으니 기대하셔도 좋아요!
+MID_LGV_Scout_Lou_m02_003: 이래 봬도 난 다그다 제국 제11군단을\n맡고 있는 상고르 장군의 딸이거든!
+MID_LGV_Scout_Lou_m02_004: 이래 봬도 전 다그다 제국 제11군단을\n맡고 있는 상고르 장군의 딸이거든요!
+MID_LGV_Scout_Lou_m03: <TH>
+MID_LGV_Scout_Lou_m03_001: 자, 잠깐! 무급으로 날\n고용할 수 있는 파격적인 조건인데도!?
+MID_LGV_Scout_Lou_m03_002: 자, 잠깐만요! 무급으로 절\n고용할 수 있는 파격적인 조건인데도요!?
+MID_LGV_Scout_Lou_m04: <TH>
+MID_LGV_Scout_Lou_m04_001: 어어!? 어어어어~!?\n루루를 동료로 삼고 싶다고?
+MID_LGV_Scout_Lou_m04_002: 어어!? 어어어어~!?\n루루를 동료로 삼고 싶으시다고요?
+MID_LGV_Scout_Lou_m04_003: 엄청 기쁘긴 한데…… 난 상회에서\n아직 하고 싶은 일이 있거든…… 미안해!
+MID_LGV_Scout_Lou_m04_004: 엄청 기쁘긴 한데…… 전 상회에서\n아직 하고 싶은 일이 있거든요…… 죄송해요!
+MID_LGV_Scout_Lou_m05: <TH>
+MID_LGV_Scout_Lou_m05_001: 뭔가 필요한 상품이라도 있……\n루, 루루가 필요하다고!?
+MID_LGV_Scout_Lou_m05_002: 뭔가 필요하신 상품이라도 있……\n루, 루루가 필요하시다고요!?
+MID_LGV_Scout_Lou_m05_003: 미안하지만 루루는 반달 상회 소속……\n즉, 타리문씨의 부하야!
+MID_LGV_Scout_Lou_m05_004: 죄송하지만 루루는 반달 상회 소속……\n즉, 타리문씨의 부하예요!
+MID_LGV_Scout_Lou_m05_005: 그리고 이건 비밀이지만\n아버지께 부탁받은 일도 많아서……
+MID_LGV_Scout_Lou_m05_006: 그리고 이건 비밀이지만\n아버지께 부탁받은 일도 많아서……
+MID_LGV_Scout_Lou_m05_007: 상회 일도 열심히 해야 하고\n아버지의 의뢰도 처리해야 하니 힘들거든……
+MID_LGV_Scout_Lou_m05_008: 상회 일도 열심히 해야 하고\n아버지의 의뢰도 처리해야 하니 힘들거든요……
+MID_LGV_Scout_Lou_m05_009: 그러고 보니 입이 무거워 보이는데\n몰래 루루의 비밀 임무 좀 도와줄 수 있어?
+MID_LGV_Scout_Lou_m05_010: 그러고 보니 당신, 입이 무거워 보이는데\n몰래 루루의 비밀 임무 좀 도와주실 수 있나요?
+MID_LGV_Scout_Lou_m05_011: 사실 루루의 아버지는 다그다 제국의 장군인데\n타리문씨를 눈엣가시로 여기고 있거든!
+MID_LGV_Scout_Lou_m05_012: 사실 루루의 아버지는 다그다 제국의 장군인데\n타리문씨를 눈엣가시로 여기고 있거든요!
+MID_LGV_Scout_Lou_m05_013: 그래서 상회에 대한 정보를 몰래 보고하고 있는데\n최근에 새로 생긴 지부가 신경 쓰인다는 것 같아.
+MID_LGV_Scout_Lou_m05_014: 그래서 상회에 대한 정보를 몰래 보고하고 있는데\n최근에 새로 생긴 지부가 신경 쓰인다는 것 같아요.
+MID_LGV_Scout_Lou_m05_015: 다른 지부가 있는 「칼리아네이라 항구」에서\n그 새로운 지부로 물자를 보내고 있는데……
+MID_LGV_Scout_Lou_m05_016: 다른 지부가 있는 「칼리아네이라 항구」에서\n그 새로운 지부로 물자를 보내고 있는데……
+MID_LGV_Scout_Lou_m05_017: 나 대신 항구로 가서\n새로운 지부의 정보를 수집해 주지 않을래?
+MID_LGV_Scout_Lou_m05_018: 저 대신 항구로 가서\n새로운 지부의 정보를 수집해 주시지 않을래요?
+MID_LGV_Scout_Lou_m05_019: 그걸로 믿을 만한 사람인지 아닌지 알 수 있겠지!\n그 후에 제안에 대해서 얘기해 볼까?
+MID_LGV_Scout_Lou_m05_020: 그걸로 당신이 믿을 만한 분인지 아닌지 알 수 있겠죠!\n그 후에 당신의 제안에 대해서 얘기해 볼까요?
+MID_LGV_Scout_Lou_m06: <TH>
+MID_LGV_Scout_Lou_m06_001: 음, 충분한 정보네.\n이 정도면 아버지도 만족하실 거야.
+MID_LGV_Scout_Lou_m06_002: 음, 충분한 정보네요.\n이 정도면 아버지도 만족하실 거예요.
+MID_LGV_Scout_Lou_m06_003: 앞으로도 이런 식으로 도와주면\n좋겠는데…… 저기, 이건 어때?
+MID_LGV_Scout_Lou_m06_004: 앞으로도 이런 식으로 도와주시면\n좋겠는데…… 저기, 이건 어때요?
+MID_LGV_Scout_Lou_m06_005: 반달 상회에는\n단골손님이라고 둘러대고
+MID_LGV_Scout_Lou_m06_006: 반달 상회에는\n단골손님이라고 둘러대고
+MID_LGV_Scout_Lou_m06_007: 상회에 소속된 채\n힘을 빌려줄게.
+MID_LGV_Scout_Lou_m06_008: 상회에 소속된 채\n힘을 빌려드릴게요.
+MID_LGV_Scout_Lou_m06_009: 그러니까 앞으로도 루루를 도와줘!\n괜찮지? 그럼 결정이네!
+MID_LGV_Scout_Lou_m06_010: 그 대신 앞으로도 루루를 도와주세요!\n괜찮죠? 그럼 결정이네요!
+MID_LGV_Scout_Lou_m06_011: 이래 봬도 군인의 딸이라 실력에는 자신 있어.\n내 활약을 기대해 줘!
+MID_LGV_Scout_Lou_m06_012: 이래 봬도 군인의 딸이라 실력에는 자신 있어요.\n제 활약을 기대해 주세요!
+MID_LGV_Scout_Fia_m01: <TH>
+MID_LGV_Scout_Fia_m01_001: ……저, 저기,\n당신에게 부탁이 있는데요……
+MID_LGV_Scout_Fia_m01_002: 당신을 따라다녀도 될까요……?\n전에 상회의 창고를 정리할 때 큰 실수를 저질렀어요.
+MID_LGV_Scout_Fia_m01_003: 비싼 항아리를 더러운 물건인 줄 알고 버렸거든요.\n너무 무지했죠. 그래서 견문을 좀 넓히고 싶어요……!
+MID_LGV_Scout_Fia_m02: <TH>
+MID_LGV_Scout_Fia_m02_001: 정말인가요……?\n가, 감사합니다……
+MID_LGV_Scout_Fia_m02_002: 저는 회복 마법이 특기예요……\n어떤 상처든 치료해 드릴게요……
+MID_LGV_Scout_Fia_m03: <TH>
+MID_LGV_Scout_Fia_m03_001: 그렇군요…… 죄송해요.\n그래도 혹시 회복 담당이 필요하시면 언제든지……
+MID_LGV_Scout_Fia_m04: <TH>
+MID_LGV_Scout_Fia_m04_001: ……혹시……\n지금 저를 영입하시려는 건가요?
+MID_LGV_Scout_Fia_m04_002: 타리문씨의 곁을 떠나는 것은\n상상도 할 수 없어요. 돌아가 주세요.
+MID_LGV_Scout_Fia_m05: <TH>
+MID_LGV_Scout_Fia_m05_001: 네……? 저를 영입하시려는 건가요?\n죄송하지만 다른 분을 찾아 보세요……
+MID_LGV_Scout_Fia_m05_002: ……저는 타리문씨의 곁에 있고 싶어요.\n하지만 아직 힘도 부족하고……
+MID_LGV_Scout_Fia_m05_003: 사실 과거의 기억도 없어서……\n남들보다 더 노력해야 해요.
+MID_LGV_Scout_Fia_m05_004: 아! 저를 비밀리에 단련시켜 주실 수 있나요?\n그러면 당신의 제안을 받아들일게요……
+MID_LGV_Scout_Fia_m05_005: 타리문씨에게는 일이라고 둘러댈 테니\n보수도 좀 준비해 주시겠어요?
+MID_LGV_Scout_Fia_m06: <TH>
+MID_LGV_Scout_Fia_m06_001: 정말인가요……?\n가, 감사합니다……
+MID_LGV_Scout_Fia_m06_002: 저는 회복 마법이 특기예요……\n상처를 입었을 때는 제게 맡겨 주세요……
+MID_LGV_Scout_Fia_m07: <TH>
+MID_LGV_Scout_Fia_m07_001: 그렇군요…… 죄송해요.\n그래도 혹시 마음이 바뀌시면 언제든지……
+MID_LGV_Scout_Fia_m08: <TH>
+MID_LGV_Scout_Fia_m08_001: 실례지만 안 갖고 계신 것 같은데요……\n기대하게 해 놓고 너무하시네요……
+MID_LGV_Scout_Lor_m01: <TH>
+MID_LGV_Scout_Lor_m01_001: 당신, 강하지?\n날 동료로 받아 주지 않을래?
+MID_LGV_Scout_Lor_m01_002: 나랑 비슷한 나이 같은데……\n너, 꽤 강하네.
+MID_LGV_Scout_Lor_m01_003: 이래 봬도 신전병에게 단련받은 몸이라고.\n소질은 있어! 제발!
+MID_LGV_Scout_Lor_m01_004: 날 동료로 받아 줘.\n이래 봬도 신전병에게 단련받은 몸이라고.
+MID_LGV_Scout_Lor_m02: <TH>
+MID_LGV_Scout_Lor_m02_001: 그럼 잘 부탁해!\n헤헷, 난 더 강해질 거야!
+MID_LGV_Scout_Lor_m03: <TH>
+MID_LGV_Scout_Lor_m03_001: 뭐야, 너무하네.\n이 정도 부탁은 들어줄 수 있잖아……
+MID_LGV_Scout_Lor_m04: <TH>
+MID_LGV_Scout_Lor_m04_001: 저기, 잘 모르는 녀석한테 그런 말을 들으면\n내가 순순히 따라갈 거라 생각했어?
+MID_LGV_Scout_Lor_m04_002: 난 남들 못지않게 산전수전 다 겪은 사람이야.\n어리다고 얕보지 마!
+MID_LGV_Scout_Lor_m04_003: 난 산전수전 다 겪은 사람이야.\n네가 어리다고 해서 믿을 수 있을 것 같아?
+MID_LGV_Scout_Lor_m05: <TH>
+MID_LGV_Scout_Lor_m05_001: 이봐, 당신…… 꽤 강하다며.\n거리에 소문이 자자해.
+MID_LGV_Scout_Lor_m05_002: 너…… 꽤 강하다며.\n거리에 소문이 자자해.
+MID_LGV_Scout_Lor_m05_003: 그런 당신이 나를 영입하러 오다니.\n크~! 나도 제법인걸!
+MID_LGV_Scout_Lor_m05_004: 그런 네가 나를 영입하러 오다니.\n크~! 나도 제법인걸!
+MID_LGV_Scout_Lor_m05_005: 나는 조니씨라는 사람에게 검을 배웠는데\n실력을 더욱 늘리고 싶어.
+MID_LGV_Scout_Lor_m05_006: 지금은 오르헬…… 제사님의 시제를 맡고 있는데\n그 일을 그만두지 않아도 괜찮다면 도와줄게.
+MID_LGV_Scout_Lor_m05_007: 하지만 역시 공짜로는 안 되지!\n신뢰의 표시로 이걸 가져다줄 수 있어?
+MID_LGV_Scout_Lor_m06: <TH>
+MID_LGV_Scout_Lor_m06_001: 정말이야? 아싸!\n그럼 앞으로 잘 부탁해!
+MID_LGV_Scout_Lor_m06_002: 조니씨가 가르쳐 준 검술로\n적들을 팍팍 쓰러뜨려 주겠어!
+MID_LGV_Scout_Lor_m07: <TH>
+MID_LGV_Scout_Lor_m07_001: 뭐야……\n거절할 거면 처음부터 말 걸지 말든가!
+MID_LGV_Scout_Lor_m08: <TH>
+MID_LGV_Scout_Lor_m08_001: 이봐…… 부족하잖아!\n어리다고 얕보는 거야?
+MID_LGV_Scout_Lor_m08_002: 야…… 부족하잖아!\n날 얕보는 거라면 용서하지 않겠어!
+MID_LGV_Scout_Set_m01: <TH>
+MID_LGV_Scout_Set_m01_001: 뭐?\n나와 함께 싸우고 싶다고?
+MID_LGV_Scout_Set_m01_002: 설마 자네도 알아챈 건가?\n……아니, 아무것도 아니다.
+MID_LGV_Scout_Set_m01_003: 보다시피 난 보잘것없는 여행자다만.\n그래도 상관없나?
+MID_LGV_Scout_Set_m02: <TH>
+MID_LGV_Scout_Set_m02_001: ……훗. 자네 같은 젊은이가\n그렇게까지 간청하니 어쩔 수 없군.
+MID_LGV_Scout_Set_m02_002: 자네와 함께 가도록 하지.\n앞으로 잘 부탁하네.
+MID_LGV_Scout_Set_m03: <TH>
+MID_LGV_Scout_Set_m03_001: 그런가.\n그럼 나는 여행을 계속하도록 하지.
+MID_LGV_Scout_Set_m04: <TH>
+MID_LGV_Scout_Set_m04_001: 호오, 나를 영입하려는 건가?\n놀라긴 했지만…… 싫지는 않군.
+MID_LGV_Scout_Set_m04_002: 그러나 다른 일에 관여할 시간은 없다.\n더 자네에게 맞는 동료를 찾는 게 어떻겠나.
+MID_LGV_Scout_Set_m05: <TH>
+MID_LGV_Scout_Set_m05_001: 자네의 클랜에 들어와 달라고?\n그건 좀 곤란한 부탁이군.
+MID_LGV_Scout_Set_m05_002: 난 현재 오르헬을 도와주고 있는 데다\n이 땅에서 하고 싶은 일도 많아서 말이지.
+MID_LGV_Scout_Set_m05_003: 흠…… 그래도 부탁한다는 건가?\n나를 꽤 높이 평가해 주는 것 같군.
+MID_LGV_Scout_Set_m05_004: 그럼 이렇게 하지.\n중요한 부탁을 하나 들어줄 수 있나?
+MID_LGV_Scout_Set_m05_005: 이건 일행에게도 말하지 않았으니\n부디 비밀로 해 주게.
+MID_LGV_Scout_Set_m05_006: 난 단조에 좀 소양이 있는데, 예전에 들렀던 마을에서\n묵게 해 준 답례로 마을 사람에게 무기를 만들어 줬지.
+MID_LGV_Scout_Set_m05_007: 썩 뛰어난 건 아니었지만 마을 사람은 기뻐해 줬어.\n하지만 그 마을은 이후에 도적들의 습격을 받아……
+MID_LGV_Scout_Set_m05_008: 지금은 그 도적들의 두목이 내 무기를\n악용하고 있다는 것 같아서 걱정이다.
+MID_LGV_Scout_Set_m05_009: 괜찮다면 그 녀석들을 토벌하고\n내 무기도 함께 묻어 주지 않겠나?
+MID_LGV_Scout_Set_m05_010: 소재는 이미 파악했지. 날 도와주면\n자네의 제안을 고려해 보겠네.
+MID_LGV_Scout_Set_m06: <TH>
+MID_LGV_Scout_Set_m06_001: 오오…… 그 도적들을 토벌해 준 건가!\n고맙네. 이제 마을 사람들도 편히 쉴 수 있겠지.
+MID_LGV_Scout_Set_m06_002: 좋은 사람들이었는데 안타깝군.\n난 계속 후회하고 있었다.
+MID_LGV_Scout_Set_m06_003: 만약 그때 더 강력한 무기를 만들어 줬다면\n그들을 살릴 수 있지 않았을까?
+MID_LGV_Scout_Set_m06_004: 아니, 결국엔 그마저도 도적들의 손에 넘어가서\n더 많은 사람들이 죽었으려나? ……하고 말이야.
+MID_LGV_Scout_Set_m06_005: 이런, 나도 모르게 쓸데없는 말을……\n아무래도 자네는 믿을 만한 사람인 것 같군.
+MID_LGV_Scout_Set_m06_006: 오르헬에겐 미안하지만, 자네들에게도 힘을 빌려주지.\n앞으로는 날 의지해 주게.
+MID_LGV_Scout_Nin_m01: <TH>
+MID_LGV_Scout_Nin_m01_001: ……?\n리네를 동료로 삼고 싶은 거야?
+MID_LGV_Scout_Nin_m01_002: ……다들\n당신을 나쁘게 생각하지 않는 것 같네.
+MID_LGV_Scout_Nin_m01_003: 좋아. 일에 방해가 되지 않는 범위 내에서\n함께 싸워 줄게.
+MID_LGV_Scout_Nin_m02: <TH>
+MID_LGV_Scout_Nin_m02_001: 알았어.\n리네의 힘을 빌려줄게.
+MID_LGV_Scout_Nin_m02_002: 정령들도 기뻐하고 있어……\n그래…… 이건 분명 좋은 징조야……
+MID_LGV_Scout_Nin_m03: <TH>
+MID_LGV_Scout_Nin_m03_001: ……그래? 변덕쟁이네.\n리네는 딱히 상관없어.
+MID_LGV_Scout_Nin_m04: <TH>
+MID_LGV_Scout_Nin_m04_001: 대부분의 사람들은 리네를 무서워하는데……\n동료가 되어 달라니, 이상한 사람이네……
+MID_LGV_Scout_Nin_m04_002: 리네와 얽히면 불행해져.\n그러니 가까이 오지 않는 게 좋아. 그럼 안녕……
+MID_LGV_Scout_Nin_m05: <TH>
+MID_LGV_Scout_Nin_m05_001: ……리네를 동료로 삼고 싶은 거야?\n리네가 무섭지 않아? 이상한 사람이네……
+MID_LGV_Scout_Nin_m05_002: 리네는 크레르 신전의 발칸이라\n오르헬님을 지켜야 해……
+MID_LGV_Scout_Nin_m05_003: 그런데…… 왜일까. 다들\n당신을 나쁘게 생각하지 않는 것 같네.
+MID_LGV_Scout_Nin_m05_004: 오르헬님에게는 죄송하지만, 흥미가 생겼어……\n당신에게 힘을 조금 빌려줄게.
+MID_LGV_Scout_Nin_m05_005: 계약? 대가는 필요 없지만……\n당신이 그렇게 말한다면…… 이걸로 어때?
+MID_LGV_Scout_Nin_m06: <TH>
+MID_LGV_Scout_Nin_m06_001: 계약 성립이네……\n그럼 오늘부터 함께 싸워 줄게.
+MID_LGV_Scout_Nin_m06_002: 정령들이…… 모두 기뻐하고 있어……\n그래…… 이건 분명 좋은 징조야……
+MID_LGV_Scout_Nin_m07: <TH>
+MID_LGV_Scout_Nin_m07_001: ……그래? 변덕쟁이네.\n리네는 딱히 상관없어.
+MID_LGV_Scout_Nin_m08: <TH>
+MID_LGV_Scout_Nin_m08_001: ……부족하네.\n리네의 말을 제대로 들어.
+MID_LGV_Scout_Lil_m01: <TH>
+MID_LGV_Scout_Lil_m01_001: 뭐야~?\n나한테 부탁할 일이라도 있어~?
+MID_LGV_Scout_Lil_m01_002: 좋아~ 세오도라님도 업무에 지장이 없다면\n뭘 하든 상관없다고 했거든~
+MID_LGV_Scout_Lil_m01_003: 그런데 난 비싸다고~\n물론 그만큼 밥값을 하지만~
+MID_LGV_Scout_Lil_m02: <TH>
+MID_LGV_Scout_Lil_m02_001: 알았어~\n그럼 앞으로 잘 부탁해~
+MID_LGV_Scout_Lil_m02_002: 보수만 제대로 준다면\n열심히 일해 줄게~
+MID_LGV_Scout_Lil_m03: <TH>
+MID_LGV_Scout_Lil_m03_001: 협상 결렬이네~\n아~ 새로운 일거리가 생기나 싶었는데~
+MID_LGV_Scout_Lil_m04: <TH>
+MID_LGV_Scout_Lil_m04_001: 어라~ 나한테 말 거는 사람은\n별로 없는데~ 꽤 기쁘네~
+MID_LGV_Scout_Lil_m04_002: 하지만 아쉽게도 난 세오도라님을 섬기고 있어.\n그러니 이 이야기는 없던 걸로 할게. 미안해~!
+MID_LGV_Scout_Lil_m05: <TH>
+MID_LGV_Scout_Lil_m05_001: 어라, 날 동료로 삼고 싶다고?\n활을 잘 쏴서? 그거 고맙네~
+MID_LGV_Scout_Lil_m05_002: 나는 세오도라님을 모시고 있어~\n거기서 급료를 받으며 일하고 있다는 소리지.
+MID_LGV_Scout_Lil_m05_003: 하지만 난 돈이 더 필요하거든~\n그러니 그쪽 일을 도와줄게.
+MID_LGV_Scout_Lil_m05_004: 그래서, 계약금은 얼마나 줄 거야?\n미리 말해 두는데 난 비싸다고~
+MID_LGV_Scout_Lil_m06: <TH>
+MID_LGV_Scout_Lil_m06_001: 저…… 정말? 이렇게나 많이?\n아싸~! 말해 보길 잘했네~!
+MID_LGV_Scout_Lil_m06_002: 받은 만큼은 열심히 일할 테니\n기대해 줘!
+MID_LGV_Scout_Lil_m07: <TH>
+MID_LGV_Scout_Lil_m07_001: 어라? ……협상 결렬인가?\n아~ 새로운 일거리가 생기나 싶었는데~
+MID_LGV_Scout_Lil_m08: <TH>
+MID_LGV_Scout_Lil_m08_001: 잠깐! 부족하잖아~!\n돈이 없으면 없다고 솔직히 말하라고……
+MID_LGV_Scout_Lys_m01: <TH>
+MID_LGV_Scout_Lys_m01_001: 부탁이 있다!\n시간을 많이 뺏지는 않을 테니 이야기를 들어 주게!
+MID_LGV_Scout_Lys_m01_002: 『살라미스 밖에서 여러 전법을 접하며\n견식을 넓혀라』라고 폐하께서 명하셨는데……
+MID_LGV_Scout_Lys_m01_003: 날 동료로 받아 주지 않겠나?\n함께 싸우며 많은 것을 배우고 싶다.
+MID_LGV_Scout_Lys_m02: <TH>
+MID_LGV_Scout_Lys_m02_001: 받아 주는 건가!\n고맙군!
+MID_LGV_Scout_Lys_m02_002: 이제부터는 동료로서\n서로 협력하도록 하지!
+MID_LGV_Scout_Lys_m03: <TH>
+MID_LGV_Scout_Lys_m03_001: 그런가…… 하지만 상황은 변하기 마련이니\n다음에 또 이야기해 보도록 하지.
+MID_LGV_Scout_Lys_m04: <TH>
+MID_LGV_Scout_Lys_m04_001: 내 힘을 원한다고?\n하하하! 그거 영광이군!
+MID_LGV_Scout_Lys_m04_002: 하지만 난 긍지 높은 살라미스의 전사다.\n여왕 폐하 외의 사람을 위해 창을 휘두를 생각은 없어.
+MID_LGV_Scout_Lys_m05: <TH>
+MID_LGV_Scout_Lys_m05_001: 함께 싸워 주길 바라는 건가?\n평소 같았으면 바로 거절했겠지만……
+MID_LGV_Scout_Lys_m05_002: 전부터 조국 살라미스를 위해, 다른 나라의\n정세를 살피고 문화를 배우며 견문을 넓히려 했었다.
+MID_LGV_Scout_Lys_m05_003: 내가 세오도라 폐하의 가신인 건 변함없지만\n허락을 받으면 함께 행동할 수 있겠지.
+MID_LGV_Scout_Lys_m05_004: 그래도 신뢰의 증거로 계약은 확실히 해 두고 싶군.\n예를 들어 이런 건 어떤가?
+MID_LGV_Scout_Lys_m06: <TH>
+MID_LGV_Scout_Lys_m06_001: 오오…… 흔쾌히 승낙해 줘서 고맙군!
+MID_LGV_Scout_Lys_m06_002: 이제부터 내 창에 의지해도 좋다.\n서로 협력하도록 하지.
+MID_LGV_Scout_Lys_m07: <TH>
+MID_LGV_Scout_Lys_m07_001: 그런가…… 유감이군.\n마음이 바뀌면 언제든지 말해 주게.
+MID_LGV_Scout_Lys_m08: <TH>
+MID_LGV_Scout_Lys_m08_001: 이봐, 안 갖고 있잖나!\n믿고 싶었는데…… 유감이군.
+MID_LGV_Scout_Sci_m01: <TH>
+MID_LGV_Scout_Sci_m01_001: 날 동료로 삼고 싶다고? 남자의 초대 따위,\n평소 같았으면 거절했겠지만……
+MID_LGV_Scout_Sci_m01_002: 호오, 아름다운 아가씨.\n나를 의지해 주는 건가?
+MID_LGV_Scout_Sci_m01_003: 호오, 아름다운 여왕님.\n저를 의지해 주시는 겁니까?
+MID_LGV_Scout_Sci_m01_004: 오늘은 기분 좋은 바람이 불고 있군.\n바람에 이끌려 새로운 길을 가 보는 것도 재미있겠어.
+MID_LGV_Scout_Sci_m01_005: 당신의 소원이라면……\n나 시로코는 기꺼이 받아들이지.
+MID_LGV_Scout_Sci_m01_006: 당신의 소원이라면……\n저 시로코는 기꺼이 받아들이죠.
+MID_LGV_Scout_Sci_m01_007: 함께 싸우고 싶다면\n못 들어줄 것도 없지.
+MID_LGV_Scout_Sci_m01_008: 서로에게 등을 맡기다 보면\n뜨거운 사랑이 싹트기도 하니까.
+MID_LGV_Scout_Sci_m01_009: 서로에게 등을 맡기다 보면\n뜨거운 사랑이 싹트기도 하니까요.
+MID_LGV_Scout_Sci_m02: <TH>
+MID_LGV_Scout_Sci_m02_001: 좋아.\n앞으로는 나만 믿으라고.
+MID_LGV_Scout_Sci_m02_002: 그럼 싸울 때 불러 주게. 열풍과 함께 달려가서\n당신을 지키겠다고 신께 맹세하지.
+MID_LGV_Scout_Sci_m02_003: 그럼 싸울 때 불러 주시죠. 열풍과 함께 달려가서\n당신을 지키겠다고 신께 맹세하겠습니다.
+MID_LGV_Scout_Sci_m02_004: 한낱 음유 시인이라고 얕보지 말도록.\n열풍과 함께 반드시 승리를 가져다줄 테니.
+MID_LGV_Scout_Sci_m02_005: 물론 전장 밖에서의 초대도 환영이지만.
+MID_LGV_Scout_Sci_m02_006: 물론 전장 밖에서의 초대도 환영이지만요.
+MID_LGV_Scout_Sci_m03: <TH>
+MID_LGV_Scout_Sci_m03_001: 뭐야, 바람의 방향도 못 읽는 건가……\n쓸데없이 시간 뺏지 말라고.
+MID_LGV_Scout_Sci_m03_002: 이런…… 심리전인가.\n후후, 날 애타게 만드는 상대도 싫지 않지.
+MID_LGV_Scout_Sci_m03_003: 이런…… 심리전입니까.\n후후, 절 애타게 만드는 상대도 싫지 않죠.
+MID_LGV_Scout_Sci_m04: <TH>
+MID_LGV_Scout_Sci_m04_001: 호오…… 날 동료로 삼고 싶다고?\n승리를 가져다주는 열풍을 원하는 건가.
+MID_LGV_Scout_Sci_m04_002: 호오…… 당신의 초대를 받을 줄이야.\n오늘 밤 침실에서 사랑의 노래라도 듣고 싶으신 건지?
+MID_LGV_Scout_Sci_m04_003: 하지만 바람이란 변덕스러운 법…… 오늘 밤에는\n바람이 불지 않을 것 같군. 돌아가 주겠나?
+MID_LGV_Scout_Sci_m04_004: 하지만 아쉽게도 예약이 꽉 차서……\n바람이 다시 불 때까지 기다려 주시길.
+MID_LGV_Scout_Sci_m05: <TH>
+MID_LGV_Scout_Sci_m05_001: 호오, 무슨 일인가 했더니……\n날 원하는 건가?
+MID_LGV_Scout_Sci_m05_010: 오오, 무슨 일인가 했더니……\n당신이 나를 유혹할 줄은 몰랐군.
+MID_LGV_Scout_Sci_m05_018: 오오, 무슨 일이신가 했더니……\n당신이 저를 유혹하실 줄은 몰랐군요.
+MID_LGV_Scout_Sci_m05_002: 함께 여행하는 것도 재미있겠지만……\n난 레다양이라는 아름다운 장미를 장식하는 바람이다.
+MID_LGV_Scout_Sci_m05_012: 기꺼이 당신과 함께……라고 말하고 싶지만\n난 레다양이라는 장미를 장식하는 바람이라서 말이야.
+MID_LGV_Scout_Sci_m05_019: 기꺼이 당신과 함께……라고 말씀드리고 싶지만\n전 레다양이라는 장미를 장식하는 바람이라서 말이죠.
+MID_LGV_Scout_Sci_m05_003: 그러니 제안은 고맙지만\n정중히 거절하도록 하지.
+MID_LGV_Scout_Sci_m05_011: 더할 나위 없이 기쁜 제안이지만\n정중히 거절하도록 하지.
+MID_LGV_Scout_Sci_m05_020: 더할 나위 없이 기쁜 제안이지만\n정중히 거절하도록 하지요.
+MID_LGV_Scout_Sci_m05_004: 흠…… 눈빛을 보니 포기할 마음이 없는 모양이군.\n이런, 남자에게 이렇게까지 구애를 받을 줄이야.
+MID_LGV_Scout_Sci_m05_013: 흠…… 눈빛을 보니 포기할 마음이 없는 모양이군.\n이렇게까지 날 원하는데 무시하는 건 예의가 아니겠지.
+MID_LGV_Scout_Sci_m05_021: 흠…… 눈빛을 보니 포기하실 마음이 없는 것 같군요.\n이렇게나 절 원하시는데 무시하는 건 예의가 아니겠죠.
+MID_LGV_Scout_Sci_m05_005: 그 열정을 봐서\n한 번만 기회를 주지.
+MID_LGV_Scout_Sci_m05_014: 당신의 열정을 봐서\n한 번만 기회를 주도록 할까.
+MID_LGV_Scout_Sci_m05_022: 당신의 열정을 봐서\n한 번만 기회를 드리도록 할까요.
+MID_LGV_Scout_Sci_m05_006: 난 어떤 시인을 정신적 스승으로 삼고 있다.\n그래…… 「전설의 시인」이라고 해 둘까.
+MID_LGV_Scout_Sci_m05_015: 난 어떤 시인을 정신적 스승으로 삼고 있다.\n그래…… 「전설의 시인」이라고 해 둘까.
+MID_LGV_Scout_Sci_m05_023: 전 어떤 시인을 정신적 스승으로 삼고 있습니다.\n음…… 「전설의 시인」이라고 해 둘까요.
+MID_LGV_Scout_Sci_m05_007: 최근에 그 시인의 시가 새겨진 비석이\n어딘가에 숨겨져 있다는 소문을 들었다.
+MID_LGV_Scout_Sci_m05_016: 최근에 그 시인의 시가 새겨진 비석이\n어딘가에 숨겨져 있다는 소문을 들었다.
+MID_LGV_Scout_Sci_m05_024: 최근에 그 시인의 시가 새겨진 비석이\n어딘가에 숨겨져 있다는 소문을 들었습니다.
+MID_LGV_Scout_Sci_m05_008: 만약 사실이라면 그 시를 꼭 읽어 보고 싶은데……\n비석을 찾아서 내용을 베껴 와 줄 수 있는지……?
+MID_LGV_Scout_Sci_m05_009: 그걸 가져다주면 제안을 고려해 보겠어.\n그럼 잘 부탁하지.
+MID_LGV_Scout_Sci_m05_017: 그걸 가져다주면 제안을 고려해 보겠어.\n그럼 잘 부탁하지.
+MID_LGV_Scout_Sci_m05_025: 그걸 가져다주시면 제안을 고려해 보죠.\n그럼 잘 부탁드립니다.
+MID_LGV_Scout_Sci_m06: <TH>
+MID_LGV_Scout_Sci_m06_001: 오오…… 시 속에 담긴 깊고 풍부한 감정……\n몇 번을 읽어도 탄성이 절로 나오는군.
+MID_LGV_Scout_Sci_m06_002: 이건 「전설의 시인」의 작품임에 틀림없어.\n찾아 줘서 고맙다.
+MID_LGV_Scout_Sci_m06_007: 이건 「전설의 시인」의 작품임에 틀림없어.\n정말로 찾아 줄 줄이야……
+MID_LGV_Scout_Sci_m06_011: 이건 「전설의 시인」의 작품임에 틀림없습니다.\n정말로 찾아 주실 줄이야……
+MID_LGV_Scout_Sci_m06_003: 무리한 부탁을 하면 포기할 줄 알았는데……\n얕본 나 자신이 부끄럽군.
+MID_LGV_Scout_Sci_m06_008: 무리한 부탁을 하면 포기할 줄 알았는데……\n당신을 얕본 나 자신이 부끄럽군.
+MID_LGV_Scout_Sci_m06_012: 무리한 부탁을 드리면 포기하실 줄 알았는데……\n당신을 얕본 저 자신이 부끄럽군요.
+MID_LGV_Scout_Sci_m06_004: 앞으로도 주군의 뜻에 따라\n레다양을 지켜보는 건 변함없지만……
+MID_LGV_Scout_Sci_m06_005: 그쪽까지 지키는 것은\n순전히 내 의지다.
+MID_LGV_Scout_Sci_m06_009: 당신까지 지키는 것은\n순전히 내 의지다.
+MID_LGV_Scout_Sci_m06_013: 당신까지 지키는 것은\n순전히 제 의지입니다.
+MID_LGV_Scout_Sci_m06_006: 앞으로는 나만 믿으라고.\n부르면 언제든지 질풍처럼 달려갈 테니.
+MID_LGV_Scout_Sci_m06_010: 이 시로코의 이름을 절대 잊지 말라고.\n부르면 언제든지 질풍처럼 달려갈 테니.
+MID_LGV_Scout_Sci_m06_014: 이 시로코의 이름을 절대 잊지 마시죠.\n부르시면 언제든지 질풍처럼 달려가겠습니다.
+MID_LGV_Scout_Moo_m01: <TH>
+MID_LGV_Scout_Moo_m01_001: 무슨 일이야?\n……혹시 날 동료로 삼고 싶어?
+MID_LGV_Scout_Moo_m01_002: 무슨 일이세요?\n……혹시 절 동료로 삼고 싶으신 건가요?
+MID_LGV_Scout_Moo_m01_003: 에헤헤…… 의지해 주니 기쁘네.\n평소에는 어린애 취급만 받거든.
+MID_LGV_Scout_Moo_m01_004: 의지해 주시니 기쁘네요.\n평소에는 어린애 취급만 받거든요.
+MID_LGV_Scout_Moo_m02: <TH>
+MID_LGV_Scout_Moo_m02_001: 응, 함께 싸우자!\n기대에 보답할게!
+MID_LGV_Scout_Moo_m02_002: 네, 함께 싸워요!\n기대에 보답할게요!
+MID_LGV_Scout_Moo_m03: <TH>
+MID_LGV_Scout_Moo_m03_001: 어라…… 그게 아니었어?\n내가 설레발을 쳤네…… 부끄러워라……
+MID_LGV_Scout_Moo_m03_002: 어라…… 그게 아니었나요?\n제가 설레발을 쳤네요…… 부끄러워라……
+MID_LGV_Scout_Moo_m04: <TH>
+MID_LGV_Scout_Moo_m04_001: 어…… 혹시\n날 동료로 삼고 싶은 거야?
+MID_LGV_Scout_Moo_m04_002: 어…… 혹시\n절 동료로 삼고 싶으신 건가요?
+MID_LGV_Scout_Moo_m04_003: 음, 미안하지만 그건 힘들 것 같은데……\n그도 그럴 게 너에 대해서 잘 모르고……
+MID_LGV_Scout_Moo_m04_004: 죄송하지만 그건 힘들 것 같은데요……\n그도 그럴 게 당신에 대해서 잘 모르고……
+MID_LGV_Scout_Moo_m05: <TH>
+MID_LGV_Scout_Moo_m05_001: 혹시 날 동료로 삼고 싶은 거야?\n내가 약초에 빠삭해서?
+MID_LGV_Scout_Moo_m05_002: 앗, 절 동료로 삼고 싶으신 건가요?\n제가 약초에 빠삭해서요?
+MID_LGV_Scout_Moo_m05_003: 에헤헤…… 다들 항상 날 어린애 취급 하는데\n이렇게 의지해 주니 좀 기쁘네.
+MID_LGV_Scout_Moo_m05_004: 에헤헤…… 다들 항상 절 어린애 취급 하는데\n이렇게 의지해 주시니 좀 기쁘네요.
+MID_LGV_Scout_Moo_m05_005: 이미 레다씨를 도와주고 있긴 하지만\n그렇다고 너를 도울 수 없는 건 아니야.
+MID_LGV_Scout_Moo_m05_006: 이미 레다씨를 도와주고 있긴 하지만\n그렇다고 당신을 도울 수 없는 건 아니에요.
+MID_LGV_Scout_Moo_m05_007: 하지만 그렇게 쉽게 동료가 되어 줄 수는 없지!\n내가 지금 찾고 있는 걸 가져다주면 생각해 볼게!
+MID_LGV_Scout_Moo_m05_008: 하지만 그렇게 쉽게 동료가 되어 드릴 수는 없죠!\n제가 지금 찾고 있는 걸 가져다주시면 생각해 볼게요!
+MID_LGV_Scout_Moo_m06: <TH>
+MID_LGV_Scout_Moo_m06_001: 바로 이거야! 계속 갖고 싶었어!\n정말 주는 거야? 고마워.
+MID_LGV_Scout_Moo_m06_002: 바로 이거예요! 계속 갖고 싶었어요!\n정말 주시는 건가요? 감사해요.
+MID_LGV_Scout_Moo_m06_003: 이 정도면 널 믿어도 될 것 같네.\n그럼 앞으로 잘 부탁해!
+MID_LGV_Scout_Moo_m06_004: 이 정도면 당신을 믿어도 될 것 같네요.\n그럼 앞으로 잘 부탁드려요!
+MID_LGV_Scout_Moo_m07: <TH>
+MID_LGV_Scout_Moo_m07_001: 어!? 안 줄 거야!?\n그럼 제안은 못 들은 걸로 해야겠네…… 미안해.
+MID_LGV_Scout_Moo_m07_002: 네!? 안 주실 건가요!?\n그럼 죄송하지만 제안은 못 들은 걸로 해야겠네요……
+MID_LGV_Scout_Moo_m08: <TH>
+MID_LGV_Scout_Moo_m08_001: 어라, 안 갖고 있는 것 같은데……?\n괘, 괜찮아, 신경 쓰지 마! 다음에 가져오면 되지!
+MID_LGV_Scout_Moo_m08_002: 어라, 안 갖고 계신 것 같은데요……?\n다음번을 기대할게요!
+MID_LGV_Scout_Mic_m01: <TH>
+MID_LGV_Scout_Mic_m01_001: 저기,\n나한테 뭔가 의뢰할 일 없어?
+MID_LGV_Scout_Mic_m01_002: 이래 봬도 유명한 용병이었거든.\n다소 힘든 일이라도 해낼 수 있다고.
+MID_LGV_Scout_Mic_m01_003: 나에게는 얼마까지 벌겠다는 목표가 있어서 말이지.\n결정한 건 지키는 것이 도리잖아?
+MID_LGV_Scout_Mic_m02: <TH>
+MID_LGV_Scout_Mic_m02_001: 좋아, 계약 성립이네.\n밥값은 확실히 할게.
+MID_LGV_Scout_Mic_m02_002: 네가 의리를 저버리지 않는 한\n나도 배신하지 않을 테니 걱정 마!
+MID_LGV_Scout_Mic_m03: <TH>
+MID_LGV_Scout_Mic_m03_001: 마음이 바뀌었어?\n그럼 어쩔 수 없지. 내가 필요해지면 언제든지 말해.
+MID_LGV_Scout_Mic_m04: <TH>
+MID_LGV_Scout_Mic_m04_001: 이 도시에 있다 보면 너 같은 사람한테\n동료가 되지 않겠냐는 제안을 자주 받지.
+MID_LGV_Scout_Mic_m04_002: 싫지는 않지만…… 은혜를 갚아야 할 상대가 있거든.\n그러니 다른 사람을 찾아 봐.
+MID_LGV_Scout_Mic_m05: <TH>
+MID_LGV_Scout_Mic_m05_001: 무슨 얘기인가 했더니……\n나를 동료로 삼고 싶은 거야?
+MID_LGV_Scout_Mic_m05_002: 예전에 용병 일을 했었는데, 아직도 가끔\n너 같은 사람한테 그런 제안을 받곤 하지.
+MID_LGV_Scout_Mic_m05_003: 디트리히에게는 도움을 받은 은혜가 있어서\n그쪽과 연을 끊을 생각은 없지만……
+MID_LGV_Scout_Mic_m05_004: 나도 돈을 벌어야 하는 사정이 있어서 말이야.\n보수를 준다면 너한테 힘을 빌려줄게.
+MID_LGV_Scout_Mic_m06: <TH>
+MID_LGV_Scout_Mic_m06_001: 좋아, 계약 성립이네!\n앞으로 잘 부탁해.
+MID_LGV_Scout_Mic_m06_002: 네가 의리를 저버리지 않는 한\n나도 배신하지 않을 테니 걱정 마!
+MID_LGV_Scout_Mic_m07: <TH>
+MID_LGV_Scout_Mic_m07_001: 어라, 마음이 바뀌었어?\n그럼 어쩔 수 없지. 내가 필요해지면 언제든지 말해.
+MID_LGV_Scout_Mic_m08: <TH>
+MID_LGV_Scout_Mic_m08_001: 음…… 부족하네.\n일은 일이니 이 부분은 확실히 해 줬으면 좋겠는데.
+MID_LGV_Scout_Oly_m01: <TH>
+MID_LGV_Scout_Oly_m01_001: ……어머, 무슨 일이죠?\n혹시 나한테 반한 건가요?
+MID_LGV_Scout_Oly_m01_002: ……어머, 무슨 일이시죠?\n설마 나한테 반하신 건가요?
+MID_LGV_Scout_Oly_m01_003: 꽤나 좋은 안목을 가지고 있는 것 같네요.\n힘도 나무랄 데 없고요……
+MID_LGV_Scout_Oly_m01_004: 역시 세오도라님이세요. 안목이 뛰어나시네요.\n힘도 겸비하고 계시고요……
+MID_LGV_Scout_Oly_m01_005: 당신의 전장에\n꽃을 곁들여도 되겠어요.
+MID_LGV_Scout_Oly_m01_006: 부디 폐하의 전장에서\n함께 춤추는 것을 허락해 주시겠어요?
+MID_LGV_Scout_Oly_m02: <TH>
+MID_LGV_Scout_Oly_m02_001: 그럼 갈까요? 아름다움을 이해하는 분과\n함께 춤출 수 있어 기분이 좋네요.
+MID_LGV_Scout_Oly_m02_002: 알겠어요.\n그럼 오늘부터 함께 활짝 피어 있도록 할게요.
+MID_LGV_Scout_Oly_m02_003: "카엘루스의 푸른 장미"의 우아한 전투 방식을\n똑똑히 보도록 하세요.
+MID_LGV_Scout_Oly_m02_004: "카엘루스의 푸른 장미"와 폐하의 아름다움 앞에서\n다들 맥을 못 출 것이 틀림없어요.
+MID_LGV_Scout_Oly_m03: <TH>
+MID_LGV_Scout_Oly_m03_001: 그렇군요. 괜찮아요. 설령 적으로 만난다 해도\n꽃의 아름다움은 변하지 않으니까요.
+MID_LGV_Scout_Oly_m03_002: 홀로 화려하게 피어 있고 싶으신 거군요.\n그 마음, 잘 알아요.
+MID_LGV_Scout_Oly_m04: <TH>
+MID_LGV_Scout_Oly_m04_001: 예상하고 있었어요. 내가 앞에 있는데\n말을 걸지 않을 이유가 없으니까요.
+MID_LGV_Scout_Oly_m04_002: 하지만 당신이 나에게 어울리는지 아닌지는\n별개의 문제죠. 미안해요.
+MID_LGV_Scout_Oly_m04_003: 하지만 나는 폐하께 어울리지 않아요.\n그러니 제안은 정중히 거절하도록 할게요.
+MID_LGV_Scout_Oly_m05: <TH>
+MID_LGV_Scout_Oly_m05_001: ……무슨 일이죠?\n아, 나한테 반한 건가요?
+MID_LGV_Scout_Oly_m05_002: ……어머, 무슨 일이시죠?\n설마 나한테 반하신 건가요?
+MID_LGV_Scout_Oly_m05_003: 당연한 결과죠. 나는 사냥과 예술의 신 칼라님께\n인정받은 "카엘루스의 푸른 장미"니까요.
+MID_LGV_Scout_Oly_m05_004: 하지만 그것도 문제네요. 매일같이\n많은 사람들의 초대를 받으니 말이에요.
+MID_LGV_Scout_Oly_m05_005: 일일이 거절하는 것도 힘들어서\n나는 항상 이렇게 대답해요.
+MID_LGV_Scout_Oly_m05_006: 『내가 원하는 걸 모두 가져다주면\n당신의 것이 되겠어요』……라고요.
+MID_LGV_Scout_Oly_m05_007: 도전해 보고 싶나요?\n그럼 잘 들으세요.
+MID_LGV_Scout_Oly_m05_008: 도전해 보고 싶으신가요?\n그럼 잘 들어 주세요.
+MID_LGV_Scout_Oly_m05_009: 다그다 사람들은 테프를 즐겨 마시지만\n나는 홍차를 더 좋아해요.
+MID_LGV_Scout_Oly_m05_010: 내 마음을 사로잡고 싶다면\n우선 최고급 홍차를 가져다주세요.
+MID_LGV_Scout_Oly_m05_011: 내가 원하는 것은 「홍작의 물방울」이라는 희귀한\n찻잎이에요. 우후후…… 기다리고 있을게요.
+MID_LGV_Scout_Oly_m06: <TH>
+MID_LGV_Scout_Oly_m06_001: 벌써 가져오셨나요?\n네, 바로 이거예요.
+MID_LGV_Scout_Oly_m06_002: 수고하셨어요. 하지만 이 부탁을\n들어주는 분들은 많죠.
+MID_LGV_Scout_Oly_m06_003: 이제부터가 진짜 시작이에요.\n마음의 준비를 하고 잘 들으세요.
+MID_LGV_Scout_Oly_m06_004: 이제부터가 진짜 시작이에요.\n마음의 준비를 하시고 잘 들어 주세요.
+MID_LGV_Scout_Oly_m07: <TH>
+MID_LGV_Scout_Oly_m07_001: 꽃이란 아름답고 고귀한 존재.\n나는 다양한 꽃을 봐 왔는데……
+MID_LGV_Scout_Oly_m07_002: 가혹한 환경에서 자란 꽃이 더 아름답고 화려하게\n피어나고, 때로는 신성한 기운마저 풍기더군요.
+MID_LGV_Scout_Oly_m07_003: 이번에는 사막의 뜨거운 열기를 견디며 피어나는\n황금색 장미, 「아우룸 로즈」를 가져다주세요.
+MID_LGV_Scout_Oly_m07_005: 이번에는 매서운 칼바람을 견디며 피어나는\n황금색 장미, 「아우룸 로즈」를 가져다주세요.
+MID_LGV_Scout_Oly_m07_004: 난 여기서 기다리고 있을게요.\n부디 진심을 보여 주세요.
+MID_LGV_Scout_Oly_m08: <TH>
+MID_LGV_Scout_Oly_m08_001: 네, 바로 이게\n내가 원하던 꽃이에요!
+MID_LGV_Scout_Oly_m08_002: 이 아름다운 색깔과…… 당당한 자태……\n이렇게까지 커다란 꽃은 보기 드물어요.
+MID_LGV_Scout_Oly_m08_003: 찾느라 고생이 많으셨겠죠.\n덕분에 정말 멋진 꽃을 볼 수 있었어요.
+MID_LGV_Scout_Oly_m08_004: 하지만…… 이걸로 만족할 내가 아니죠.\n다음이 마지막 부탁이에요. 잘 들어 주세요.
+MID_LGV_Scout_Oly_m09: <TH>
+MID_LGV_Scout_Oly_m09_001: 사람들은 아름다운 것을 추구하죠. 하지만 진정한\n아름다움은 쉽게 눈에 띄지 않는 곳에 있는 법이에요.
+MID_LGV_Scout_Oly_m09_002: 땅속에서 잠든 채 아름다움을 가꾸어 가는\n「보석」은 그중 으뜸이라고 할 수 있죠.
+MID_LGV_Scout_Oly_m09_003: 이번에는 바다처럼 깊고 하늘처럼 맑은 수정,\n「푸른 심장」을 가져다주세요.
+MID_LGV_Scout_Oly_m09_004: 조금 멀지만…… 내 소원을 위해서라면\n문제 될 것이 없겠죠? 그럼 잘 부탁드려요.
+MID_LGV_Scout_Oly_m010: <TH>
+MID_LGV_Scout_Oly_m010_001: ……입으로는 나를 원한다고 말하면서도\n모든 소원을 들어준 분은 지금까지 없었죠.
+MID_LGV_Scout_Oly_m010_002: 나를 향한 강한 마음, 그리고 반드시\n목적을 이루려는 강한 의지에 감명받았어요.
+MID_LGV_Scout_Oly_m010_003: 이 정도면 나라는 꽃을 소중히 여겨서\n시들지 않게 해 주실 것 같네요.
+MID_LGV_Scout_Oly_m010_004: 레일리다나…… 레다가 내 호적수이자\n소중한 동료라는 사실은…… 앞으로도 변함없어요.
+MID_LGV_Scout_Oly_m010_005: 하지만 다른 클랜을 장식하는 꽃이 되어\n밖에서 그녀의 모습을 지켜보는 것도 나쁘지 않겠죠.
+MID_LGV_Scout_Oly_m010_006: 나 올림피아 아이리스는 당신과 함께하겠어요.\n특등석에서 내 화려한 전투를 지켜봐 주세요!
+MID_LGV_Scout_Naz_m01: <TH>
+MID_LGV_Scout_Naz_m01_001: 오오?\n나를 동료로 삼고 싶은 거야?
+MID_LGV_Scout_Naz_m01_002: 뭐어!? 날 동료로 삼고 싶다고!?\n누가 브리트라의 앞잡이와……
+MID_LGV_Scout_Naz_m01_003: 헤헤, 보는 눈이 있네!\n내 몸과 갈고닦은 기술은 차원이 다르거든.
+MID_LGV_Scout_Naz_m01_004: ……잠깐, 좋은 기회이니 일단은 저쪽의 제안을\n받아들인 다음에 역으로 정보를 캐내는 건 어떨까……
+MID_LGV_Scout_Naz_m01_005: 좋아! 그렇게 내 힘을 원한다면\n함께 싸워 주지!
+MID_LGV_Scout_Naz_m01_006: 조, 좋아! 그렇게 내 힘을 원한다면\n함께 싸워 주지!
+MID_LGV_Scout_Naz_m02: <TH>
+MID_LGV_Scout_Naz_m02_001: 좋아아아!!\n실컷 날뛰어 주겠어!
+MID_LGV_Scout_Naz_m02_002: 좋아아아!!\n이렇게 된 이상 실컷 날뛰어 주겠어!
+MID_LGV_Scout_Naz_m02_003: 어딜 가든\n내가 가장 강하다는 것을 증명해 주지!
+MID_LGV_Scout_Naz_m03: <TH>
+MID_LGV_Scout_Naz_m03_001: 뭐!? 먼저 제안해 놓고 됐다고!?\n그럼 처음부터 말 걸지 말든가!
+MID_LGV_Scout_Naz_m04: <TH>
+MID_LGV_Scout_Naz_m04_001: 날 동료로 삼고 싶다고? 혹시……\n내가 강하다는 소문이 돌고 있나?
+MID_LGV_Scout_Naz_m04_002: 큰일이네! 너무 눈에 띄면 안 되는데……\n미안! 다른 녀석을 찾아 봐!
+MID_LGV_Scout_Naz_m05: <TH>
+MID_LGV_Scout_Naz_m05_001: 날 동료로 삼고 싶다고!?\n나는 아나톨리아의 수호자인데……?
+MID_LGV_Scout_Naz_m05_002: 네 동료가 되라고? 나는 아나톨리아의 수호자야.\n누가 브리트라의 앞잡이와……
+MID_LGV_Scout_Naz_m05_003: 잠깐…… 너와 함께라면\n지금보다 더 강해질 수 있겠는걸.
+MID_LGV_Scout_Naz_m05_004: 난 최강을 목표로 하고 있어!\n강하지 않으면 내 존재 가치는 없으니까……
+MID_LGV_Scout_Naz_m05_005: 더 많은 경험을 쌓고\n더 다양한 단련을 할 수 있다면…… 나쁘지 않으려나?
+MID_LGV_Scout_Naz_m05_006: 좋아, 힘을 빌려줄게. 대신 보수를 줘.\n다른 녀석들한테는 일이라고 둘러댈 테니 말이야.
+MID_LGV_Scout_Naz_m06: <TH>
+MID_LGV_Scout_Naz_m06_001: 거래 성립이네! 좋아아아!!\n함께 최강을 목표로 하자고!
+MID_LGV_Scout_Naz_m06_002: 응? 최강이 두 명일 수는 없나……?\n뭐, 어쨌든 앞으로 잘 부탁해!
+MID_LGV_Scout_Naz_m07: <TH>
+MID_LGV_Scout_Naz_m07_001: 뭐!? 됐다고!?\n그럼 처음부터 말 걸지 말든가!
+MID_LGV_Scout_Naz_m08: <TH>
+MID_LGV_Scout_Naz_m08_001: 야! 안 갖고 있잖아!\n은근슬쩍 속이려 하지 마!
+MID_LGV_Scout_Dai_m01: <TH>
+MID_LGV_Scout_Dai_m01_001: 결심했어.\n오늘부터 너와 함께 싸워 줄게.
+MID_LGV_Scout_Dai_m01_002: 결심했어.\n오늘부터 당신과 함께 싸워 줄게.
+MID_LGV_Scout_Dai_m01_003: 마을 녀석들은 죄다\n날 싫어하거든.
+MID_LGV_Scout_Dai_m01_004: 막상 떨어져 보면\n대도님이 얼마나 고마운 존재인지 알게 되겠지!
+MID_LGV_Scout_Dai_m02: <TH>
+MID_LGV_Scout_Dai_m02_001: 그래! 네가 뭘 위해 싸우는지는 잘 모르겠지만\n신나게 날뛰어 줄게!
+MID_LGV_Scout_Dai_m02_002: 그래! 당신이 뭘 위해 싸우는지는 잘 모르겠지만\n신나게 날뛰어 줄게!
+MID_LGV_Scout_Dai_m02_003: 그러면 그 녀석들도 질질 짜면서\n다시 돌아와 달라고 빌겠지!
+MID_LGV_Scout_Dai_m03: <TH>
+MID_LGV_Scout_Dai_m03_001: 너도 내가 얼마나 대단한지 모르나 보네!?\n나중에 후회해도 난 몰라!
+MID_LGV_Scout_Dai_m03_002: 당신도 내가 얼마나 대단한지 모르나 보네!?\n나중에 후회해도 난 몰라!
+MID_LGV_Scout_Dai_m04: <TH>
+MID_LGV_Scout_Dai_m04_001: 날 동료로 삼고 싶다니\n너, 꽤 보는 눈이 있네!
+MID_LGV_Scout_Dai_m04_002: 날 동료로 삼고 싶다니\n당신, 꽤 보는 눈이 있네!
+MID_LGV_Scout_Dai_m04_003: 하지만 나는 내 여자…… 아나톨리아를\n지켜 줘야 해서 힘들 것 같아. 그럼 안녕!
+MID_LGV_Scout_Dai_m05: <TH>
+MID_LGV_Scout_Dai_m05_001: 나한테 할 말이 있는 거야?\n이거 우연이네! 나돈데!
+MID_LGV_Scout_Dai_m05_002: 사실 아나톨리아에게 『넌 내 여자야』라고\n몇 번이나 말했는데 전혀 상대해 주지 않거든……
+MID_LGV_Scout_Dai_m05_003: 그래서 다른 곳에서 몰래 남자다움을 갈고닦아\n저쪽이 먼저 나를 쳐다보게 만들 생각이야!
+MID_LGV_Scout_Dai_m05_004: 너는 꽤 강해 보이니까\n같이 싸우다 보면 나도 더 강해지겠지!
+MID_LGV_Scout_Dai_m05_005: 당신은 꽤 강해 보이니까\n같이 싸우다 보면 나도 더 강해지겠지!
+MID_LGV_Scout_Dai_m05_006: 이제부터는 내가 함께해 줄게.\n보수는 이 정도로 충분해!
+MID_LGV_Scout_Dai_m06: <TH>
+MID_LGV_Scout_Dai_m06_001: 후후후…… 아나톨리아는 물론 모든 여자들이\n내게 홀딱 빠질 모습이 벌써부터 그려지네!
+MID_LGV_Scout_Dai_m06_002: 네가 뭘 위해 싸우는지는 잘 모르겠지만\n대활약해 줄 테니 나한테 맡겨!
+MID_LGV_Scout_Dai_m06_003: 당신이 뭘 위해 싸우는지는 잘 모르겠지만\n대활약해 줄 테니 나한테 맡겨!
+MID_LGV_Scout_Dai_m07: <TH>
+MID_LGV_Scout_Dai_m07_001: 먼저 제안해 놓고 거절하기냐!\n내가 얼마나 대단한지 모르나 보네!?
+MID_LGV_Scout_Dai_m08: <TH>
+MID_LGV_Scout_Dai_m08_001: 없으면 없다고 솔직히 말해!\n이번에는 봐줄 테니 다음엔 꼭 가져와!
+MID_LGV_Scout_Hal_m01: <TH>
+MID_LGV_Scout_Hal_m01_001: 에에엑!\n동료가 되어 달라니…… 진심이야!?
+MID_LGV_Scout_Hal_m01_002: 에에엑!\n동료가 되어 달라니…… 진심이세요!?
+MID_LGV_Scout_Hal_m01_003: 싸움에 그다지 자신도 없고\n잘하는 거라곤 길거리 공연뿐인데……
+MID_LGV_Scout_Hal_m01_004: 그래도 괜찮다면……\n나, 나야말로 잘 부탁해……
+MID_LGV_Scout_Hal_m01_005: 그래도 괜찮으시다면……\n저, 저야말로 잘 부탁드려요!
+MID_LGV_Scout_Hal_m02: <TH>
+MID_LGV_Scout_Hal_m02_001: 바, 받아 줬어……!\n다행이다……! 고마워!
+MID_LGV_Scout_Hal_m02_002: 바, 받아 줬어……!\n다행이다……! 감사합니다!
+MID_LGV_Scout_Hal_m02_003: ……어라? 어느샌가 부탁하는 입장이\n되어 버렸네? 잘 모르겠지만.
+MID_LGV_Scout_Hal_m03: <TH>
+MID_LGV_Scout_Hal_m03_001: 어라!? 거절당했네!?\n그냥 놀리는 거였나, 잘 모르겠지만!?
+MID_LGV_Scout_Hal_m04: <TH>
+MID_LGV_Scout_Hal_m04_001: 나, 예전에 아나톨리아한테 도움받은 적이 있는데\n그때 일을 정말 감사하게 생각하고 있거든……
+MID_LGV_Scout_Hal_m04_002: 저, 예전에 아나톨리아한테 도움받은 적이 있는데\n그때 일을 정말 감사하게 생각하고 있거든요.
+MID_LGV_Scout_Hal_m04_003: 그래서 너와는 같이 갈 수 없어.\n그 대신 곡예를 보고 싶으면 언제든 보여 줄게!
+MID_LGV_Scout_Hal_m04_004: 그래서 당신과는 같이 갈 수 없어요.\n그 대신 곡예를 보고 싶으시면 언제든 보여 드릴게요!
+MID_LGV_Scout_Hal_m05: <TH>
+MID_LGV_Scout_Hal_m05_001: 에에엑! 동료로 삼고 싶다고!?\n나를? 다른 사람과 착각한 거 아니야?
+MID_LGV_Scout_Hal_m05_002: 에에엑! 동료로 삼고 싶으시다고요!?\n저를요? 다른 사람과 착각하신 거 아니에요?
+MID_LGV_Scout_Hal_m05_003: 그도 그럴 게 난 싸움 같은 거 잘 못하잖아?\n항상 아나톨리아한테만 의지하고……
+MID_LGV_Scout_Hal_m05_004: 그도 그럴 게 전 싸움 같은 거 잘 못하잖아요?\n항상 아나톨리아한테만 의지하고……
+MID_LGV_Scout_Hal_m05_005: 앗! 하지만 이대로는 안 되나?\n내가 강했다면 그 사람도 구할 수 있지 않았을까?
+MID_LGV_Scout_Hal_m05_006: 너를 도와주면 소중한 사람을 지킬 수 있을 만큼\n강해질 수 있겠지? 잘 모르겠지만?
+MID_LGV_Scout_Hal_m05_007: 당신을 도와드리면 소중한 사람을 지킬 수 있을 만큼\n강해질 수 있겠죠? 잘 모르겠지만?
+MID_LGV_Scout_Hal_m05_008: 그…… 그럼 부탁해도 되려나!\n보수? 시세는 모르겠지만…… 이 정도?
+MID_LGV_Scout_Hal_m06: <TH>
+MID_LGV_Scout_Hal_m06_001: 바, 받아 줬어……!\n다행이다……!
+MID_LGV_Scout_Hal_m06_002: ……어라? 어느샌가 부탁하는 입장이\n되어 버렸네? 잘 모르겠지만.
+MID_LGV_Scout_Hal_m06_003: 어, 어쨌든…… 앞으로 잘 부탁해!
+MID_LGV_Scout_Hal_m06_004: 어, 어쨌든……\n앞으로 잘 부탁드려요!
+MID_LGV_Scout_Hal_m07: <TH>
+MID_LGV_Scout_Hal_m07_001: 어, 어라!? 거절당했네!?\n그냥 놀리는 거였나, 잘 모르겠지만!?
+MID_LGV_Scout_Hal_m08: <TH>
+MID_LGV_Scout_Hal_m08_001: 어라……? 부족한데?\n혹시 너무 비싸게 불렀나? 잘 모르겠지만!?
+MID_LGV_Scout_Hal_m08_002: 어라……? 부족한데요?\n혹시 너무 비싸게 불렀나요? 잘 모르겠지만!?
+MID_LGV_Scout_Guj_m01: <TH>
+MID_LGV_Scout_Guj_m01_001: 오늘은 너에게만 특별히 좋은 제안을 하지.
+MID_LGV_Scout_Guj_m01_002: 세오도라님. 절 당신의 클랜에\n영입할 생각은 없으십니까?
+MID_LGV_Scout_Guj_m01_003: 이 "불사의 그자람"을\n고용해 볼 생각은 없나?
+MID_LGV_Scout_Guj_m01_004: 제가 무기를 한 번 휘두르면\n수천 명의 적이 순식간에 쓰러지죠……
+MID_LGV_Scout_Guj_m01_005: 경계하지 마.\n그저 도와주려는 것뿐이야.
+MID_LGV_Scout_Guj_m01_006: 반드시 도움이 될 겁니다.\n나쁜 제안은 아닐 텐데요?
+MID_LGV_Scout_Guj_m02: <TH>
+MID_LGV_Scout_Guj_m02_001: 잘 생각했어! 너는 지금 이 순간\n누구도 얻을 수 없는 권리를 얻은 거다.
+MID_LGV_Scout_Guj_m02_002: 역시 세오도라님이십니다. 역전의 강자끼리\n통하는 부분이 있는 모양이군요.
+MID_LGV_Scout_Guj_m02_003: 내 새로운 전설의 탄생을\n직접 볼 수 있는 권리를 말이야!
+MID_LGV_Scout_Guj_m02_004: 저 "불사의 그자람"을 선택하신 것을\n결코 후회하지 않으실 겁니다.
+MID_LGV_Scout_Guj_m03: <TH>
+MID_LGV_Scout_Guj_m03_001: 이봐, 정말 괜찮겠어?\n내 실력은 진짜라고.
+MID_LGV_Scout_Guj_m03_002: 이런, 그거 유감이군요.\n제 실력은 진짜인데 말이죠.
+MID_LGV_Scout_Guj_m04: <TH>
+MID_LGV_Scout_Guj_m04_001: 너, 나한테 관심 있어?\n……그런 걸 짝사랑이라고 하지.
+MID_LGV_Scout_Guj_m04_002: 음? 저한테 관심이 있으신 겁니까?\n……역시 눈이 높으시군요.
+MID_LGV_Scout_Guj_m04_003: 난 나를 더 즐겁게 해 줄 재미있는 녀석과\n어울리고 싶어서 말이야. 미안하게 됐다.
+MID_LGV_Scout_Guj_m04_004: 그런데 절 다룰 수 있는 능력이 있으신지?\n죄송하지만 다음에 다시 와 주시죠.
+MID_LGV_Scout_Guj_m05: <TH>
+MID_LGV_Scout_Guj_m05_001: 너…… 꽤 좋은 눈을 하고 있는걸?\n뭔가 물러설 수 없는 의지를 품고 있는 녀석 같군.
+MID_LGV_Scout_Guj_m05_002: 제게 말을 거시다니 눈이 높으시군요.\n역시 살라미스의 여왕, 세오도라 폐하이십니다.
+MID_LGV_Scout_Guj_m05_003: 내 감이 말하고 있어.\n너와 있으면 재미있는 걸 볼 수 있을 거라고 말이야.
+MID_LGV_Scout_Guj_m05_004: 저는 그자람! 역전의 용병입니다.\n이 일대 용병들은 모두 제가 키운 거나 마찬가지죠.
+MID_LGV_Scout_Guj_m05_005: 나는 그자람! 전설의 용병이다.\n이 일대 용병들은 모두 내가 키운 거나 마찬가지지.
+MID_LGV_Scout_Guj_m05_006: 이건 제 감입니다만……\n당신과 있으면 재미있는 걸 볼 수 있을 것 같군요.
+MID_LGV_Scout_Guj_m05_007: 동료가 필요하다면 내 힘을 빌려주겠어.\n지금이라면 파격적인 조건으로 해 주지.
+MID_LGV_Scout_Guj_m05_008: 마침 심심하던 참이었습니다.\n지금이라면 파격적인 조건으로 해 드리죠!
+MID_LGV_Scout_Guj_m06: <TH>
+MID_LGV_Scout_Guj_m06_001: 정확하군! 계약 성립이다!
+MID_LGV_Scout_Guj_m06_002: 역시 세오도라님이십니다. 판단이 빠르시군요!\n그럼 당신께 제 힘을 맡기도록 하죠.
+MID_LGV_Scout_Guj_m06_003: 자, 가자! 이 "불사의 그자람"과 함께\n누구도 흉내 낼 수 없는 전설을 만들어 보자고!
+MID_LGV_Scout_Guj_m06_004: 저 "불사의 그자람"을 선택하신 것을\n결코 후회하지 않으실 겁니다!
+MID_LGV_Scout_Guj_m07: <TH>
+MID_LGV_Scout_Guj_m07_001: 이봐, 정말 괜찮겠어? 이렇게 좋은 제안은\n10년…… 아니, 1000년에 한 번밖에 없다고?
+MID_LGV_Scout_Guj_m07_002: 이런, 차였군요.\n마음이 바뀌시면 언제든지 말씀해 주시죠.
+MID_LGV_Scout_Guj_m08: <TH>
+MID_LGV_Scout_Guj_m08_001: 아하하! 안 갖고 있잖아!\n기다려 줄 테니 준비해 오라고.
+MID_LGV_Scout_Guj_m08_002: 이런, 실례지만 안 갖고 계신 것 같군요.\n전 여기 있을 테니 준비해 오시죠.
+MID_LGV_Scout_Yan_m01: <TH>
+MID_LGV_Scout_Yan_m01_001: 그나저나 내 힘을 활용할 생각은 없나?
+MID_LGV_Scout_Yan_m01_002: 그나저나 세오도라 여왕이여,\n날 귀공의 휘하에 둘 생각은 없으신가?
+MID_LGV_Scout_Yan_m01_003: 터무니없는 보수를 요구할 일은 없으니 안심하거라.\n나는 인연에 따라 싸울 뿐이다.
+MID_LGV_Scout_Yan_m01_004: 귀공 밑에서라면 내 힘을 발휘할 수 있을 거라 생각한\n것뿐, 뭔가 꿍꿍이가 있는 건 아니니 걱정하지 마시게.
+MID_LGV_Scout_Yan_m01_005: ……그 대신 술은 실컷 마시겠지만.\n크하하하!
+MID_LGV_Scout_Yan_m01_006: ……그 대신 술은 실컷 마시겠지만.\n크하하하!
+MID_LGV_Scout_Yan_m02: <TH>
+MID_LGV_Scout_Yan_m02_001: 잘 생각했다!\n그럼 너를 위해 내 힘을……
+MID_LGV_Scout_Yan_m02_002: 잘 생각하셨군!\n그럼 내 힘을……
+MID_LGV_Scout_Yan_m02_003: 전 세계를 누벼 온 이 양계의 힘을\n마음껏 발휘하도록 하지!
+MID_LGV_Scout_Yan_m02_004: 전 세계를 누벼 온 이 양계의 힘을\n귀공 뜻대로 휘두르시게!
+MID_LGV_Scout_Yan_m03: <TH>
+MID_LGV_Scout_Yan_m03_001: 흠, 그런가…… 만약 또 인연이 닿는다면\n그때는 잘 부탁하도록 하지.
+MID_LGV_Scout_Yan_m03_002: 흠…… 마음이 바뀌면 언제든지 말해 주시게.\n그때까지 귀공의 소원 성취를 기원하도록 하지.
+MID_LGV_Scout_Yan_m04: <TH>
+MID_LGV_Scout_Yan_m04_001: 지금은 이 땅에 머물고 있긴 하지만\n난 원래 각지를 방랑하는 부평초.
+MID_LGV_Scout_Yan_m04_002: 제안은 고맙지만 자유로운 생활을\n방해받고 싶지는 않군. 인연이 있으면 또 만나겠지.
+MID_LGV_Scout_Yan_m04_003: 제안은 감사하지만 자유로운 생활이 성미에\n맞는지라…… 인연이 있으면 또 만나도록 하지.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_001: 흠…… 날 너의 동료로\n맞이하고 싶다는 건가?
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_002: 흠…… 날 귀공의 휘하에\n들이고 싶다는 말씀이신가?
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_003: 생각해 보니 여기서 만난 것도 기묘한 인연이군.\n너와 함께하라는 하늘의 인도일지도 모르겠어.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_004: 생각해 보니 여기서 만난 것도 기묘한 인연이군.\n귀공과 함께하라는 하늘의 인도일지도 모르겠어.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_005: 하지만 그 전에 확인하고 싶은 게 있다.\n하늘의 인도보다 더 중요한 것이지.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_006: 하지만 그 전에 확인하고 싶은 게 있네.\n하늘의 인도보다 훨씬 중요한 것인데……
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_007: 그건 바로 「술 취향」!\n이게 맞지 않으면 동료고 뭐고 없다.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_008: 그건 바로 「술 취향」!\n이게 맞지 않으면 동료고 뭐고 없지.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_009: 어디 한번 시험해 볼까.\n지금부터 너에게 술에 관한 세 가지 질문을 할 건데
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_010: 어디 한번 시험해 볼까.\n지금부터 귀공에게 술에 관한 세 가지 질문을 할 건데
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_011: 내가 납득할 수 있는 대답을 내놓는다면\n너의 동료가 되도록 하지.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_012: 내가 납득할 수 있는 대답을 내놓는다면\n귀공의 동료가 되도록 하지.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_013: <ICA>알겠다
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_014: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Yan_m01_001: 음…… 시도해 보지도 않고 포기하다니.\n뭐, 마음대로 하거라.
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Yan_m01_002: 음…… 시도해 보지도 않고 포기하다니.\n뭐, 마음대로 하시게.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_001: 좋아! 그럼 첫 번째는…… 포도주에 관한 질문이다.\n이 술에 맞는 안주는 뭐라고 생각하나?
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_002: 좋아! 그럼 첫 번째는…… 포도주에 관한 질문!\n이 술에 맞는 안주는 뭐라고 생각하시나?
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_003: <ICA>건어물
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_004: <ICB>치즈
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_005: <ICC>대추야자
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_006: <ACA>멍청한 소리! 그런 건 비린내가 나서\n귀한 포도주의 맛을 망치지 않느냐.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_007: <ACA>무슨 소리! 그런 건 비린내가 나서\n귀한 포도주의 맛을 망치지 않는가!
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_008: <ACA>너와는 술 취향이 전혀 맞지 않는 것 같군.\n흥이 깨졌다…… 더 수행하고 오거라.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_009: <ACA>귀공과는 술 취향이 전혀 맞지 않는 것 같군.\n흥이 깨졌어…… 더 수행하고 오시게.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_010: <ACB>정답! 치즈의 감칠맛이 포도주의 신맛과 쓴맛이랑\n어우러져 말로 표현할 수 없는 희열을 선사하지!
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_011: <ACB>정답! 치즈의 감칠맛이 포도주의 신맛과 쓴맛이랑\n어우러져 말로 표현할 수 없는 희열을 선사하지!
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_012: <ACB>좋아하는 원산지의 포도주에 맞는\n치즈를 찾는 것도 재미있고 말이야.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_013: <ACB>좋아하는 원산지의 포도주에 맞는\n치즈를 찾는 것도 재미있고 말이야.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_014: <ACC>안타깝지만 포도주를 그런 단것과\n같이 마시면 떫은맛이 강조되어 버리지.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_015: <ACC>안타깝지만 포도주를 그런 단것과\n같이 마시면 떫은맛이 강조되어 버리지.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_016: <ACC>적어도 내 취향은 아니야.\n도저히 납득할 수 없군. 더 수행하고 오거라.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_017: <ACC>적어도 내 취향은 아니야.\n도저히 납득할 수 없군. 더 수행하고 오시게.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_001: 좋아! 그럼 다음은 장소에 관한 질문이다.\n술을 즐길 때는 장소의 분위기도 매우 중요하지.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_002: 좋아! 그럼 다음은 장소에 관한 질문을 해 볼까.\n술을 즐길 때는 장소의 분위기도 매우 중요하지.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_003: 내가 술을 마실 때\n어떤 장소를 선호하는지 맞혀 보거라.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_004: 내가 술을 마실 때\n어떤 장소를 선호하는지 맞혀 보시게.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_005: <ICA>보름달이 뜬 밤
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_006: <ICB>작열하는 사막
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_007: <ICC>폭풍우 속 선상
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_008: <ACA>정답! 밤하늘에 차갑게 빛나는\n보름달을 바라보며 마시는 술은 풍류 그 자체!
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_009: <ACA>정답! 밤하늘에 차갑게 빛나는\n보름달을 바라보며 마시는 술은 풍류 그 자체!
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_010: <ACA>조상으로부터 물려받은 피 때문인지는 몰라도\n영혼이 흔들리는 느낌이지! 뭘 좀 아는군.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_011: <ACA>조상으로부터 물려받은 피 때문인지는 몰라도\n영혼이 흔들리는 느낌이지! 뭘 좀 아시는군.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_012: <ACB>멍청한 소리! 그런 곳에서 술을 마시면\n참을 수 없는 갈증에 시달릴 것이 뻔하지 않으냐.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_013: <ACB>어리석은 소리! 그런 곳에서 술을 마시면\n참을 수 없는 갈증에 시달릴 것이 뻔하지 않은가.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_014: <ACB>분위기가 뭔지 전혀 모르다니……\n실망스럽군. 더 수행하고 오거라.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_015: <ACB>분위기가 뭔지 전혀 모르다니……\n실망스럽군. 더 수행하고 오시게.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_016: <ACC>멍청한 소리. 그런 곳에서 마시면 뱃멀미 때문에\n모처럼 마신 술을 다 토해 낼 것이 뻔하지 않으냐!
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_017: <ACC>어리석은 소리! 그런 곳에서 마시면 뱃멀미 때문에\n모처럼 마신 술을 다 토해 낼 것이 뻔하지 않은가!
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_018: <ACC>이런 것도 모르다니 한심하군……\n상식이 의심스럽다. 더 수행하고 오거라!
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_019: <ACC>이런 것도 모르다니……\n애주가 축에 끼지도 못하는군. 더 수행하고 오시게!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_001: 제법 훌륭해.\n그럼 다음이 마지막 질문이다.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_002: 제법 훌륭해.\n그럼 다음이 마지막 질문이네.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_003: 술이라는 것은\n정말 다양한 재료로 만들 수 있지.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_004: 알고 있겠지만 술이라는 것은\n정말 다양한 재료로 만들 수 있지.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_005: 그렇다면 내가 좋아하는 술은 어떤 재료로\n만들어지는지 맞혀 보거라!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_006: 그렇다면 내가 좋아하는 술은 어떤 재료로\n만들어지는지 맞혀 보시게!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_007: <ICA>과일
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_008: <ICB>고구마
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_009: <ICC>벌꿀
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_010: <ACA>음! 과일을 발효시키면\n실로 다양한 술을 만들 수 있지.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_011: <ACA>어떤 과일을 사용하느냐에 따라 결과물이\n천차만별이라는 점도 재미있고 말이야.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_012: <ACA>그러한 이유로 내가 좋아하지.\n따라서…… 정답!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_013: <ACB>음. 단맛이 적은 고구마로도\n인류는 부단한 노력으로 훌륭한 술을 만들어 냈지.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_014: <ACB>증류를 통해 독하게 빚은 고구마술을 마시면\n속세의 근심을 한순간에 잊어버릴 수 있어.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_015: <ACB>그러한 이유로 내가 좋아하지.\n따라서…… 정답!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_016: <ACC>음. 달콤한 벌꿀을 물과 섞어\n며칠만 두면 저절로 술이 만들어지지.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_017: <ACC>그게 바로 봉밀주! 발효 과정에서 당분이 주정으로\n변하기 때문에 이름에 비해 별로 달지는 않아.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_018: <ACC>그러한 이유로 내가 좋아하지.\n따라서…… 정답!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_019: 역시 훌륭해! 이걸로 확실해졌다.\n너와는 마음이 정말 잘 맞을 것 같군!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_020: 역시 훌륭해! 이걸로 확실해졌어.\n귀공과는 마음이 정말 잘 맞을 것 같군.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_021: 그럼 오늘부터\n너를 위해 내 힘을……
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_022: 세오도라 여왕이여,\n그럼 오늘부터 내 힘을……
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_023: 전 세계를 누벼 온 이 양계의 힘을\n마음껏 발휘하도록 하지!
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_024: 전 세계를 누벼 온 이 양계의 힘을\n귀공 뜻대로 휘두르시게!
+MID_LGV_Scout_Iio_m01: <TH>
+MID_LGV_Scout_Iio_m01_001: 이봐, 날 고용해 주지 않겠나?\n함께 싸우고 싶다.
+MID_LGV_Scout_Iio_m01_002: 폐하, 무리한 부탁이라는 건 알지만\n저를 고용해 주시지 않겠습니까?
+MID_LGV_Scout_Iio_m01_003: 베르트랑씨,\n당신과 함께 싸워도 되겠나?
+MID_LGV_Scout_Iio_m01_004: 섬길 만한 주군을 찾고 있는 미숙한 몸으로서\n내가 모르는 전투 방식을 배우고 싶어서 말이야.
+MID_LGV_Scout_Iio_m01_005: 섬길 만한 주군을 찾고 있는 미숙한 몸으로서\n제가 모르는 전투 방식을 배우고 싶습니다.
+MID_LGV_Scout_Iio_m01_006: 내가 아라고 출신이라 믿기 어려울지도 모르지.\n하지만 그래도 부탁하고 싶다.
+MID_LGV_Scout_Iio_m02: <TH>
+MID_LGV_Scout_Iio_m02_001: ! 고맙군.\n뭐든 맡겨도 좋다.
+MID_LGV_Scout_Iio_m02_002: ! 감사합니다.\n뭐든 맡겨 주십시오.
+MID_LGV_Scout_Iio_m03: <TH>
+MID_LGV_Scout_Iio_m03_001: ……그런가.\n마음이 바뀌면 언제든지 말해 달라고.
+MID_LGV_Scout_Iio_m03_002: ……그렇습니까. 아쉽군요.\n마음이 바뀌시면 언제든지 말씀해 주십시오.
+MID_LGV_Scout_Iio_m04: <TH>
+MID_LGV_Scout_Iio_m04_001: 내가 고용주를 찾고 있는 건 맞지만\n그렇다고 아무나 다 좋다는 것은 아니다.
+MID_LGV_Scout_Iio_m04_002: 제안은 감사하지만……\n절 고용하시지 않는 편이 더 좋을 겁니다.
+MID_LGV_Scout_Iio_m04_003: 제안은 고맙지만……\n날 고용하지 않는 편이 더 좋을 거다.
+MID_LGV_Scout_Iio_m04_004: 난 당신을 믿을 수 없어……\n다른 녀석을 찾아 봐.
+MID_LGV_Scout_Iio_m04_005: 저는 조국의 왕에게 충성을 다하지 못한 자입니다.\n폐하께도 그러지 않으리라는 보장은 없죠.
+MID_LGV_Scout_Iio_m04_006: 나는 조국의 왕에게 충성을 다하지 못한 자.\n당신에게도 그러지 않으리라는 보장은 없지.
+MID_LGV_Scout_Iio_m05: <TH>
+MID_LGV_Scout_Iio_m05_001: 난 원래 아라고의 기사였다.\n하지만 조국에 염증을 느껴 도망쳐 나왔지.
+MID_LGV_Scout_Iio_m05_002: 전 원래 아라고의 기사였습니다.\n하지만 조국에 염증을 느껴 도망쳐 나왔죠.
+MID_LGV_Scout_Iio_m05_003: 당신은 베르트랑 장군……!?\n아라고에서 당신을 한 번 본 적이 있다.
+MID_LGV_Scout_Iio_m05_004: 지금은 진정으로 섬길 만한 주군을 찾으며\n용병으로 활동하고 있다.
+MID_LGV_Scout_Iio_m05_005: 지금은 진정으로 섬길 만한 주군을 찾으며\n용병으로 활동하고 있습니다.
+MID_LGV_Scout_Iio_m05_006: 난 원래 아라고의 기사였지만\n나라에 염증을 느껴 도망쳐 나왔지.
+MID_LGV_Scout_Iio_m05_007: 당신을 주군으로…… 삼을 생각은 없지만\n신뢰할 수 있는 고용주인 것 같긴 하군.
+MID_LGV_Scout_Iio_m05_008: 폐하께서 이상적인 주군이신지 아닌지는 모르겠지만\n명군이라는 소문은 들었습니다.
+MID_LGV_Scout_Iio_m05_009: 지금은 섬길 만한 주군을 찾으며\n용병으로 활동하고 있다.
+MID_LGV_Scout_Iio_m05_010: 좋아. 충분한 보수를 준다면\n당신에게 힘을 빌려주지.
+MID_LGV_Scout_Iio_m05_011: 충분한 보수를 주신다면\n용병으로서 폐하와 함께하도록 하겠습니다.
+MID_LGV_Scout_Iio_m05_012: 당신도 아라고에 대해 생각하는 바가 있겠지.\n보수를 준다면 힘을 빌려주겠어.
+MID_LGV_Scout_Iio_m05_013: 우선 배고파하는 내 애마를 위해\n계약금으로 이걸 준비해 줄 수 있겠나?
+MID_LGV_Scout_Iio_m05_014: 우선 배고파하는 제 애마를 위해\n계약금으로 이것을 준비해 주실 수 있겠습니까?
+MID_LGV_Scout_Iio_m06: <TH>
+MID_LGV_Scout_Iio_m06_001: 고맙다!\n애마 「로시난」도 기뻐하겠군.
+MID_LGV_Scout_Iio_m06_002: 감사합니다!\n애마 「로시난」도 기뻐하겠군요.
+MID_LGV_Scout_Iio_m06_003: 아직 미숙한 몸이지만\n반드시 도움이 되어 보이겠다.
+MID_LGV_Scout_Iio_m06_004: 아직 미숙한 몸이지만\n뭐든 맡겨 주십시오.
+MID_LGV_Scout_Iio_m07: <TH>
+MID_LGV_Scout_Iio_m07_001: ……그런가.\n마음이 바뀌면 언제든지 말해 달라고.
+MID_LGV_Scout_Iio_m07_002: ……그렇습니까. 아쉽군요.\n마음이 바뀌시면 언제든지 말씀해 주십시오.
+MID_LGV_Scout_Iio_m08: <TH>
+MID_LGV_Scout_Iio_m08_001: ……부족하군.\n기다리고 있을 테니 준비해 오라고.
+MID_LGV_Scout_Iio_m08_002: ……부족한 것 같군요.\n준비해 오실 때까지 기다리고 있겠습니다.
+MID_LGV_Scout_Pep_m01: <TH>
+MID_LGV_Scout_Pep_m01_001: 호오! 이 브리기트 왕과\n함께 싸우고 싶은 건가?
+MID_LGV_Scout_Pep_m01_002: 후하하하! 좋다!\n짐을 한 번 꺾은 자의 제안이라!
+MID_LGV_Scout_Pep_m01_003: 원하는 대로 짐의 힘을 빌려주지!\n영광으로 생각하거라!
+MID_LGV_Scout_Pep_m02: <TH>
+MID_LGV_Scout_Pep_m02_001: 음! 그럼 이제부터 함께 나아가자꾸나!\n우리에게 정령의 가호가 있기를!
+MID_LGV_Scout_Pep_m02_002: 음! 그럼 이제부터 함께 나아가도록 하지!\n그대에게 정령의 가호가 있기를!
+MID_LGV_Scout_Pep_m03: <TH>
+MID_LGV_Scout_Pep_m03_001: 왜 그러지? 짐의 위광에 겁을 먹었나?\n사양할 필요 없다!
+MID_LGV_Scout_Noc_m01: <TH>
+MID_LGV_Scout_Noc_m01_001: 당신, 함께 싸울 녀석을 찾고 있지?\n내 감이 그렇게 말하고 있어.
+MID_LGV_Scout_Noc_m01_002: 그렇다면 지금 당신 눈앞에 있는 내가 딱이야.\n이래 봬도 현역 검투사거든.
+MID_LGV_Scout_Noc_m01_003: 특히 힘에 자신 있지!\n어때, 동료로 받아 주지 않겠어?
+MID_LGV_Scout_Noc_m02: <TH>
+MID_LGV_Scout_Noc_m02_001: 역시 내 감이 맞았네.\n그렇게 나와 줘야지!
+MID_LGV_Scout_Noc_m02_002: 난 입만 산 사람이 아니야.\n제대로 활약해 줄 테니 기대하라고!
+MID_LGV_Scout_Noc_m03: <TH>
+MID_LGV_Scout_Noc_m03_001: 어라? 감이 빗나갔나……\n뭐, 됐어! 내가 필요해지면 언제든지 말하라고.
+MID_LGV_Scout_Noc_m04: <TH>
+MID_LGV_Scout_Noc_m04_001: ……전에 여자만 밝히는 쓰레기 고용주를\n두들겨 팬 적이 있거든.
+MID_LGV_Scout_Noc_m04_002: 당신은 과연 어떨까……?\n제안해 줘서 고마운데 조금 생각해 볼게.
+MID_LGV_Scout_Sop_m01: <TH>
+MID_LGV_Scout_Sop_m01_001: 회복 담당이 필요하다면\n나는 어때?
+MID_LGV_Scout_Sop_m01_002: 회복 담당이 필요하시다면\n저는 어떠신가요?
+MID_LGV_Scout_Sop_m01_003: 내 입으로 말하는 것도 뭐하지만\n신전에서도 꽤 유능한 편이거든. 엣헴!
+MID_LGV_Scout_Sop_m01_004: 제 입으로 말하는 것도 뭐하지만\n신전에서도 우수한 편이라 도움이 될 거예요. 엣헴!
+MID_LGV_Scout_Sop_m02: <TH>
+MID_LGV_Scout_Sop_m02_001: 고마워! 좋아, 이제 수입이 부족할 일은……\n아, 아무것도 아니야!
+MID_LGV_Scout_Sop_m02_002: 감사합니다! 이제 수입이 부족할 일은……\n아, 아무것도 아니에요!
+MID_LGV_Scout_Sop_m02_003: 동료로 받아 줬으니 열심히 할게!\n앞으로 잘 부탁해!
+MID_LGV_Scout_Sop_m02_004: 그럼 열심히 할게요!\n앞으로 잘 부탁드려요!
+MID_LGV_Scout_Sop_m03: <TH>
+MID_LGV_Scout_Sop_m03_001: 어머, 그렇구나……\n그래도 내 힘이 필요하면 언제든지 말해 줘.
+MID_LGV_Scout_Sop_m03_002: 어머, 그렇군요……\n그래도 제 힘이 필요하시면 언제든지 말씀해 주세요.
+MID_LGV_Scout_Sop_m04: <TH>
+MID_LGV_Scout_Sop_m04_001: 내 힘이 필요해?\n우후후…… 기쁘네!
+MID_LGV_Scout_Sop_m04_002: 제 힘이 필요하신가요?\n우후후…… 기쁘네요!
+MID_LGV_Scout_Sop_m04_003: 하지만 난 널 잘 모르거든……\n그래서 미안하지만 거절할게.
+MID_LGV_Scout_Sop_m04_004: 하지만 아직…… 폐하가\n무섭게 느껴져서…… 죄송해요!
+MID_LGV_Scout_Cat_m01: <TH>
+MID_LGV_Scout_Cat_m01_001: 잠깐만요. 지금 당신이 무슨 생각을\n하고 계신지 맞혀 볼게요.
+MID_LGV_Scout_Cat_m01_002: 잠깐만요. 지금 당신이 무슨 생각을\n하고 계신지 맞혀 볼게요.
+MID_LGV_Scout_Cat_m01_005: 잠깐만요…… 당신의 이름이\n세간에 널리 알려져 있는지 확인해 보도록 하죠.
+MID_LGV_Scout_Cat_m01_003: ………………
+MID_LGV_Scout_Cat_m01_004: 후후, 참 알기 쉬운 분이네요.\n절 동료로 삼고 싶으신 거죠!?
+MID_LGV_Scout_Cat_m01_006: 「레다」라는 이름이 사람들 사이에 회자되고 있군요!\n그래서 제게 다시 영입 제안을 하러 오신 건가요?
+MID_LGV_Scout_Cat_m02: <TH>
+MID_LGV_Scout_Cat_m02_001: 역시 그랬군요. 그럴 만도 하죠.\n저는 당대 최고의 기사니까요.
+MID_LGV_Scout_Cat_m02_004: 역시 그랬군요. 지난번에는 실례했습니다.\n지금의 당신이라면 기꺼이 제 창을 바칠 수 있겠네요.
+MID_LGV_Scout_Cat_m02_002: 그럼 오늘부터 함께 싸우도록 하죠. 다만!\n당신은 저의 주군이 아니라 동료일 뿐이에요!
+MID_LGV_Scout_Cat_m02_003: 그럼 오늘부터 함께 싸우도록 하죠. 다만!\n당신은 저의 주군이 아니라 동료일 뿐이에요!
+MID_LGV_Scout_Cat_m03: <TH>
+MID_LGV_Scout_Cat_m03_001: ……? 죄송해요, 잘 안 들렸어요.\n기다릴 테니 다시 한번 제대로 말씀해 주세요.
+MID_LGV_Scout_Cat_m04: <TH>
+MID_LGV_Scout_Cat_m04_001: 저를 동료로 삼고 싶으시다니\n아무래도 안목이 일류이신 것 같네요.
+MID_LGV_Scout_Cat_m04_002: 저를 동료로 삼고 싶으시다니\n아무래도 안목이 일류이신 것 같네요.
+MID_LGV_Scout_Cat_m04_003: 저를 동료로 선택해 주시다니\n역시 안목이 일류시네요.
+MID_LGV_Scout_Cat_m04_007: 어떻게든 저를 동료로 삼고 싶으신 건가요?\n……아무래도 안목이 일류이신 것 같네요.
+MID_LGV_Scout_Cat_m04_004: 하지만 저 또한 일류 기사이기에 알 수 있어요.\n당신은 절 다룰 수 없다는 걸요. 더 수행하고 오세요.
+MID_LGV_Scout_Cat_m04_005: 하지만 저 또한 일류 기사이기에 알 수 있어요.\n당신은 절 다룰 수 없다는 걸요. 더 수행하고 오세요.
+MID_LGV_Scout_Cat_m04_006: 하지만 저 또한 일류 기사입니다. 실례지만\n당신은 절 다루실 수 없을 것 같군요. 돌아가 주세요.
+MID_LGV_Scout_Cat_m04_008: 하지만 저 또한 일류 기사입니다. 당신이 높은 명성을\n얻으실 때까지는 제안을 받아들이지 않겠어요.
+MID_LGV_Scout_Ned_m01: <TH>
+MID_LGV_Scout_Ned_m01_001: 무슨 일이지?\n날 고용하고 싶나?
+MID_LGV_Scout_Ned_m01_002: ……절 고용하고 싶다는 말씀이십니까?\n한때 반란에 가담했던 저를……
+MID_LGV_Scout_Ned_m01_003: ……그쪽 정도면\n신뢰할 수 있는 고용주인 것 같군.
+MID_LGV_Scout_Ned_m01_004: ……이런. 세오도라님께서 직접 의뢰하신 일에\n의심을 품다니 제가 너무 주제넘었군요.
+MID_LGV_Scout_Ned_m01_005: 무엇보다 그 몸에서 용솟음치는 힘이 느껴진다.\n원한다면 기꺼이 계약하지.
+MID_LGV_Scout_Ned_m01_006: 당신은 여왕이자 비할 데 없는 전사입니다.\n원하신다면 기꺼이 계약하죠.
+MID_LGV_Scout_Ned_m02: <TH>
+MID_LGV_Scout_Ned_m02_001: 계약 성립이군.\n이제부터는 지시에 따르도록 하지.
+MID_LGV_Scout_Ned_m02_002: 계약 성립이군요.\n이제부터는 당신의 지시에 따르겠습니다.
+MID_LGV_Scout_Ned_m03: <TH>
+MID_LGV_Scout_Ned_m03_001: 그런가.\n뭐, 좋을 대로 해라.
+MID_LGV_Scout_Ned_m03_002: ……알겠습니다.\n세오도라님 뜻대로 하십시오.
+MID_LGV_Scout_Ned_m04: <TH>
+MID_LGV_Scout_Ned_m04_001: 날 고용하고 싶나?\n훗, 확실히 내가 있으면 도움이 되겠지.
+MID_LGV_Scout_Ned_m04_002: 제안해 주셔서 영광입니다.\n하지만 저는 다얀 전하를 지지한 가문 출신이죠.
+MID_LGV_Scout_Ned_m04_003: 하지만 나에게도 고용주를 선택할 권리가 있다.\n미안하지만 그쪽은 신뢰할 만한 사람이 아닌 것 같군.
+MID_LGV_Scout_Ned_m04_004: 더 적합한 자가 있을 겁니다.\n부디 다른 사람을 찾아 주십시오.
+MID_LGV_Scout_Ned_m05: <TH>
+MID_LGV_Scout_Ned_m05_001: 사정이 있어 지금은 용병으로 활동하고 있지만\n난 원래 긍지 높은 살라미스의 기사였다.
+MID_LGV_Scout_Ned_m05_002: 제안해 주셔서 영광입니다.\n하지만 저는 다얀 전하를 지지한 가문 출신……
+MID_LGV_Scout_Ned_m05_003: 불성실한 고용주는 따르지 않을뿐더러\n더러운 일도 거절하고 있지.
+MID_LGV_Scout_Ned_m05_004: 살라미스를 버리고 용병으로 전락한 기사를\n휘하에 두시면 폐하의 오점이 될 것입니다.
+MID_LGV_Scout_Ned_m05_005: 하지만 그쪽은 신뢰할 수 있는 사람 같군.\n어리석은 지시를 내릴 것 같지도 않아.
+MID_LGV_Scout_Ned_m05_006: !? 그래도 고용하고 싶다는 말씀이십니까?\n역시 폐하께서는 마음이 넓으시군요.
+MID_LGV_Scout_Ned_m05_007: 그리고 무엇보다 좋은 눈을 하고 있어.\n뭔가 이루고 싶은 강한 소망이 있는 자의 눈빛이야.
+MID_LGV_Scout_Ned_m05_008: 세오도라님께서 직접 이렇게 부탁하시는데\n더 이상 거절할 수는 없겠죠.
+MID_LGV_Scout_Ned_m05_009: 그쪽이 상대라면 기꺼이 계약하겠다.\n보수는 이 정도로 어떻지?
+MID_LGV_Scout_Ned_m05_010: 그럼 실례지만 계약을 맺도록 하겠습니다.\n보수는 이 정도로 어떠신지요?
+MID_LGV_Scout_Ned_m06: <TH>
+MID_LGV_Scout_Ned_m06_001: 계약 성립이군.\n이제부터는 명령에 따르도록 하지.
+MID_LGV_Scout_Ned_m06_002: 계약 성립이군요.\n무엇이든 분부만 내려 주시죠.
+MID_LGV_Scout_Ned_m06_003: 난 다른 자들과 단련 수준이 다르지.\n내 힘을 전장에서 마음껏 활용해라.
+MID_LGV_Scout_Ned_m06_004: 전 다른 자들과 단련 수준이 다릅니다.\n제 힘을 전장에서 마음껏 활용해 주십시오.
+MID_LGV_Scout_Ned_m07: <TH>
+MID_LGV_Scout_Ned_m07_001: ……그런가. 조금 아쉽군.\n뭐, 좋을 대로 해라.
+MID_LGV_Scout_Ned_m07_002: 마음이 바뀌셨습니까……?\n알겠습니다. 세오도라님 뜻대로 하십시오.
+MID_LGV_Scout_Ned_m08: <TH>
+MID_LGV_Scout_Ned_m08_001: ……보수가 부족하군.\n미안하지만 내 실력을 싸게 팔 생각은 없다.
+MID_LGV_Scout_Ned_m08_002: ……보수가 부족한 것 같군요.\n왕이시라면 약속은 지키시는 게……
+MID_LGV_Scout_Zac_m01: <TH>
+MID_LGV_Scout_Zac_m01_001: 이봐, 너.\n대검투제에서 연승 중이지?
+MID_LGV_Scout_Zac_m01_002: 으으……\n너한테 부탁하기는 정말 싫지만……
+MID_LGV_Scout_Zac_m01_003: 이 몸을 동료로 받아 주지 않겠냐?\n마침 지금 어디에도 소속되어 있지 않아서 말이야.
+MID_LGV_Scout_Zac_m01_004: 이 몸을 동료로 받아 주지 않겠냐?\n"가이아 여단" 녀석들은 모두 떠나서 말이야.
+MID_LGV_Scout_Zac_m01_005: 오갈 데 없는 곤란한 처지다.\n어느 정도는 네 지시에 따라 줄 테니……
+MID_LGV_Scout_Zac_m02: <TH>
+MID_LGV_Scout_Zac_m02_001: 말이 통하는군.\n좋아, 이제 다시 마음대로……
+MID_LGV_Scout_Zac_m02_002: 응? 안 해, 안 해!\n나쁜 짓이라니! 할 리가 없잖아. 히히히.
+MID_LGV_Scout_Zac_m03: <TH>
+MID_LGV_Scout_Zac_m03_001: 젠장, 이렇게 간청하는데……!\n부탁 좀 들어주면 어디 덧나냐!
+MID_LGV_Scout_Zac_m03_002: 젠장, 이 몸을 이겼다고 잘난 척하기는!\n부탁 좀 들어주면 어디 덧나냐!
+MID_LGV_Scout_Zac_m04: <TH>
+MID_LGV_Scout_Zac_m04_001: 뭐?\n동료가 되어 달라……?
+MID_LGV_Scout_Zac_m04_002: 이쪽은 시합에서 져서 열받아 있다고!\n함부로 말 걸지 마!
+MID_LGV_Scout_Zac_m04_003: 이 몸을 이런 꼴로 만들어 놓고 잘도……\n함부로 말 걸지 마!
+MID_LGV_Scout_Negotiation_SP_Zac_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m01_001: 이봐, 이 몸을 동료로 받아 주지 않겠냐?\n마침 지금 어디에도 소속되어 있지 않아서 말이야.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_002: 으으…… 너한테 부탁하기는 정말 싫지만……\n찬밥 더운밥 가릴 때가 아니지……
+MID_LGV_Scout_Negotiation_SP_Zac_m01_003: 대검투제에 출전했는데…… 져 버렸거든.\n솔직히 말하면 오갈 데 없는 곤란한 처지다.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_004: 이 몸을 동료로 받아 주지 않겠냐?\n"가이아 여단" 녀석들은 모두 떠나서 말이야……
+MID_LGV_Scout_Negotiation_SP_Zac_m01_005: 뭐!? 너도 지금 나한테 영입 제안을 하려 했다고?\n그런 건 빨리 말해! ……쳇, 괜히 저자세로 나갔잖아!
+MID_LGV_Scout_Negotiation_SP_Zac_m01_006: 그런데…… 설마 이 몸이 공짜로\n도와줄 거라 생각한 건 아니겠지?
+MID_LGV_Scout_Negotiation_SP_Zac_m01_007: 무슨 말인지 알겠냐?\n「성의」를 보고 싶다는 거다.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_008: 어디 보자…… 10000골드만 내놔.\n그럼 생각해 보지.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_009: <ICA>10000골드를 지불한다
+MID_LGV_Scout_Negotiation_SP_Zac_m01_010: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_Zac_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m02_001: 뭐!? 지, 진심이냐!?\n정말 그 금액으로 괜찮다고?
+MID_LGV_Scout_Negotiation_SP_Zac_m02_002: 거짓말 아니지? 진짜 괜찮아?\n나중에 돌려달라고 해도 안 돌려줄 거야!
+MID_LGV_Scout_Negotiation_SP_Zac_m02_003: <ICA>정말로 10000골드를 지불한다
+MID_LGV_Scout_Negotiation_SP_Zac_m02_004: <ICB>다시 생각한다
+MID_LGV_Scout_Negotiation_SP_Zac_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m03_001: 네, 네가 괜찮다면 이 몸이야 좋지.\n통이 엄청 크잖아! 마음에 들었어!
+MID_LGV_Scout_Negotiation_SP_Zac_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m04_001: 뭐라고!? 이봐, 제대로 이해한 거야?\n이 자코네를 동료로 삼을 수 있는 기회라고!
+MID_LGV_Scout_Negotiation_SP_Zac_m04_002: 칫…… 어쩔 수 없지.\n금액을 조금 낮춰 줄까……
+MID_LGV_Scout_Negotiation_SP_Zac_m04_003: 좋아, 그럼 1000골드 어때?\n더 이상은 한 푼도 못 깎아!
+MID_LGV_Scout_Negotiation_SP_Zac_m04_004: <ICA>1000골드를 지불한다
+MID_LGV_Scout_Negotiation_SP_Zac_m04_005: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_Zac_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m05_001: 포, 포기하는 거냐……?\n이봐, 흥정이라는 것도 몰라?
+MID_LGV_Scout_Negotiation_SP_Zac_m05_002: ……어쩔 수 없지.\n그럼 금액을 조금 낮춰서……
+MID_LGV_Scout_Negotiation_SP_Zac_m05_003: 좋아, 1000골드 어때?\n더 이상은 한 푼도 못 깎아!
+MID_LGV_Scout_Negotiation_SP_Zac_m05_004: <ICA>1000골드를 지불한다
+MID_LGV_Scout_Negotiation_SP_Zac_m05_005: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_Zac_m06: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m06_001: 오오, 그렇게 나와야지!\n히히히…… 말이 통하는군.
+MID_LGV_Scout_Negotiation_SP_Zac_m07: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m07_001: 뭣…… 까불지 마, 이 녀석아!\n곤란에 처한 사람의 약점을 이용하는 거냐!
+MID_LGV_Scout_Negotiation_SP_Zac_m07_002: 이 몸을 싸게 부려 먹으려 하다니……\n나중에 후회하지 마라!
+MID_LGV_Scout_Negotiation_SP_Zac_m07_003: 그, 그럼, 100골드 어때……?\n거저나 다름없다, 날강도야!
+MID_LGV_Scout_Negotiation_SP_Zac_m07_004: <ICA>100골드를 지불한다
+MID_LGV_Scout_Negotiation_SP_Zac_m07_005: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_Zac_m08: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m08_001: 너, 너무 성의가 없어졌는데……\n뭐, 이 정도로 봐줄까.
+MID_LGV_Scout_Negotiation_SP_Zac_m09: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m09_001: 이봐, 잠깐! 사람 맞아? 악마냐?\n너, 대체 뭐 하는 녀석이야!
+MID_LGV_Scout_Negotiation_SP_Zac_m09_002: 넌 성의라는 것을 몰라?\n사람으로서 중요한 거잖아!
+MID_LGV_Scout_Negotiation_SP_Zac_m09_003: 에라, 모르겠다! 10골드로 봐주지!\n이봐, 부탁이니 제발 알겠다고 해 줘……
+MID_LGV_Scout_Negotiation_SP_Zac_m09_004: <ICA>10골드를 지불한다
+MID_LGV_Scout_Negotiation_SP_Zac_m09_005: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_Zac_m10: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m10_001: ……엄청 후려치네.\n이 녀석, 이 몸보다 더한 악당이군……
+MID_LGV_Scout_Negotiation_SP_Zac_m11: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m11_001: 아, 그러냐! 이 피도 눈물도 없는 녀석!\n너 같은 녀석은 이쪽에서 먼저 사양이다, 퉷!
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01_001: 그럼 계약 성립이군. 오늘부터 이 자코네님도\n네 클랜의 일원이니…… 사이좋게 지내자고!
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01_002: 좋아, 동료가 되었으니까\n이제 다시 마음대로……
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01_003: 응? 안 해, 안 해!\n나쁜 짓이라니! 할 리가 없잖아. 히히히.
+MID_LGV_Scout_Negotiation_SP_NoMoney_Zac_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoMoney_Zac_m01_001: 잠깐, 부족하잖아!\n뻔뻔한 녀석! 돈 마련해서 다시 오라고!
+MID_LGV_Scout_Maj_m01: <TH>
+MID_LGV_Scout_Maj_m01_001: 대검투제 개회식 날까지만 해도……\n의욕과 희망으로 가득 차 있었는데……
+MID_LGV_Scout_Maj_m01_002: 타지에서 온 얼굴만 반반한\n검사 녀석한테 참가권을 빼앗기는 바람에……!
+MID_LGV_Scout_Maj_m01_003: 누님이 어디 있는지 몰라서 돈도 못 돌려받고……\n주변 녀석들한테는 찬밥 취급을 받고 있으니……
+MID_LGV_Scout_Maj_m01_004: 바로 너 말이야! 디트리히!\n내 인생을 망쳐 놓다니!
+MID_LGV_Scout_Maj_m01_005: ……어디서 차이가 벌어진 거지.\n예전에 너는 내 노예가 될 뻔했는데 말이야.
+MID_LGV_Scout_Maj_m02: <TH>
+MID_LGV_Scout_Maj_m02_001: 뭐? 나를 「동료」로 삼고 싶다고?\n저, 정말이냐? 거짓말 아니지?
+MID_LGV_Scout_Maj_m02_002: ………………크흡! 우는 거 아니야!\n어, 어쩔 수 없군! 힘을 빌려주도록 할까!
+MID_LGV_Scout_Maj_m02_003: 어쩔 수 없군! 이런 걸로 널 용서할 생각은\n전혀 없지만 도와주도록 할까!
+MID_LGV_Scout_Maj_m02_004: 헷, 드디어 이 마지데님의 그릇이 얼마나 큰지\n깨달은 모양이군! 좋아!
+MID_LGV_Scout_Maj_m03: <TH>
+MID_LGV_Scout_Maj_m03_001: 큭, 볼일 없으면 얼른 어디론가 가 버려.\n이 마지데님은 지금 기분이 안 좋다고!
+MID_LGV_Scout_Maj_m04: <TH>
+MID_LGV_Scout_Maj_m04_001: 이 마지데님을 부하로 삼으려는 거냐?\n……쳇, 얕보기는.
+MID_LGV_Scout_Maj_m04_002: 난 더 이상 누구와도 안 엮이고 누구도 안 믿을 거다.\n알았으면 얼른 사라져!
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_001: 대검투제 개회식 날까지만 해도……\n의욕과 희망으로 가득 차 있었는데……
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_002: 포드라인지 뭔지에서 온 얼굴만 반반한\n검사 녀석한테 참가권을 빼앗기는 바람에……!
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_003: 바로 너 말이야! 디트리히!\n내 인생을 망쳐 놓다니!
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_004: ……어디서 차이가 벌어진 거지.\n예전에 너는 내 노예가 될 뻔했는데 말이야.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_005: 누님이 어디 있는지 몰라서 돈도 못 돌려받고……\n주변 녀석들한테는 찬밥 취급을 받고 있으니……
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_006: 그래서? 이 마지데님을 동료로 삼고 싶다고?\n정말 별난 녀석도 다 있군.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_007: 그래서? 날 동료로 삼고 싶다고?\n장난하냐……
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_008: 이런 내가 필요할 리가 없잖아……\n만약 그렇다면 그렇다고 확실히 말해!
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_009: <ICA>필요하다
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_010: <ICB>필요하지 않다
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_011: <ACA>마음에도 없는 소리 하기는…… 돌아가!\n어차피 너도 사실은 날 무시하고 있겠지.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_012: <ACA>……쳇, 짜증 나네.\n차라리 어디 먼 데로 떠날까……
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_013: <ACA>하지만…… 아는 녀석이 아무도 없는 곳으로 가 봤자\n의욕이 안 생길 것 같고……
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_014: <ACB>그럼 그렇지! 정말 짜증 나네……\n거슬리니까 내 앞에서 사라져!
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_001: 젠장…… 비참하기 짝이 없군.\n아무도 이 마지데님의 가치를 몰라주다니.
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_002: 이제는 개나 소나 나를\n쓰레기 보듯 보고……
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_003: 이 빌어먹을 도시의 지배자가 된다는 꿈은 포기다!\n차라리 다 망해 버려라!
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_004: 너, 저번에도 날 동료로 삼고 싶다고 했었지?\n정말 내가 그렇게 필요해?
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_005: <ICA>필요하다
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_006: <ICB>필요하지 않다
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_007: <ACA>큭! ……그 말을 어떻게 믿어.\n좋은 녀석인 척하고 싶은 것뿐이겠지.
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_008: <ACA>입으로는 그렇게 말하지만 속으로는\n비참한 나를 놀리며 즐거워하고 있는 거 다 안다!
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_009: <ACB>……아, 그러냐. 그럼 사라져.\n이 마지데님은 지금 기분이 안 좋다고!
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_001: 이런 이야기를 들으면 이 마지데님이\n한물갔다고 생각할지도 모르겠지만……
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_002: 난 더 이상 누구와도 안 엮이고 누구도 안 믿을 거야.\n그렇게 생각했는데……
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_003: 사실 나는 누군가가 진심으로 나를\n필요로 해 주길 바라고 있는 것 같다……
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_004: 혹시나…… 혹시나 해서 묻는 건데\n너, 나한테 은근히 신경 써 주고 있지 않냐?
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_005: 설마 이런 나를 진심으로\n필요로 하는 건 아니겠지?
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_006: <ICA>진심으로 필요하다
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_007: <ICB>필요하지 않다
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_008: <ACA>뭐? 저, 정말이냐? 거짓말 아니지?\n그렇게까지 이 마지데님을……
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_009: <ACA>어쩔 수 없군! 이런 걸로 널 용서할 생각은\n전혀 없지만 도와주도록 할까!
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_010: <ACA>헷, 드디어 이 마지데님이 얼마나 대단한 존재인지\n깨달은 모양이군! 너무 늦잖아!
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_011: <ACA>………………크흡! 우는 거 아니야!\n어, 어쩔 수 없군! 힘을 빌려주도록 할까!
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_012: <ACA>난 한때 이 도시의 지배자가 되려고 했던 남자다.\n일당십인 이 몸의 힘을 최대한 조심히 다루라고!
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_013: <ACB>……젠장, 뭐 이런 녀석이 다 있어! 너한테 조금이라도\n기대했던 내가 바보지…… 사라지고 싶다……
+MID_LGV_Scout_Ven_m01: <TH>
+MID_LGV_Scout_Ven_m01_001: 네 녀석에게 제안이 있다.\n이 밴디츠 장군의 동료가 되지 않겠나?
+MID_LGV_Scout_Ven_m01_002: 귀하께 제안이 있습니다.\n이 밴디츠의 동료가 되지 않겠습니까?
+MID_LGV_Scout_Ven_m01_003: 나를 쓰러뜨린 네 녀석은 장래성이 있어.\n이 밴디츠 장군의 동료로 삼아 주마.
+MID_LGV_Scout_Ven_m01_004: 내가 실력을 인정하고 이런 제안을 하는 것은\n흔치 않은 일이지. 자신감을 가져도 좋다.
+MID_LGV_Scout_Ven_m01_005: 제가 실력을 인정하고 이런 제안을 하는 것은\n흔치 않은 일이지요. 자신감을 가지셔도 좋습니다.
+MID_LGV_Scout_Ven_m01_006: 그야말로 천재일우의 기회지!\n거절하면 나중에 후회할 거다.
+MID_LGV_Scout_Ven_m01_007: 내 숭고한 목적을 달성하는 데 일익을\n담당하게 해 주마. 아주 달콤한 제안 아니냐?
+MID_LGV_Scout_Ven_m01_008: 제 숭고한 목적을 달성하는 데 일익을\n담당해 주셨으면 합니다만, 어떻습니까?
+MID_LGV_Scout_Ven_m01_009: 내 숭고한 목적을 달성하는 데\n일익을 담당할 수 있는 기회니 말이야.
+MID_LGV_Scout_Ven_m02: <TH>
+MID_LGV_Scout_Ven_m02_001: 내가 영토를 갖게 되면\n네 녀석의 이름을 역사에 새겨 주지.
+MID_LGV_Scout_Ven_m02_002: 우하하! 귀하의 도움이 있다면\n저는 반드시 영토를 가질 수 있을 겁니다!
+MID_LGV_Scout_Ven_m02_003: 내가 영토를 갖게 되면\n네 녀석의 이름을 역사에 새겨 주지.
+MID_LGV_Scout_Ven_m02_004: 앞으로 내 수족이 되어 열심히 일하도록.\n우하하하하!
+MID_LGV_Scout_Ven_m02_005: 앞으로의 활약을 기대하겠습니다.\n잘 부탁드리지요. 우하하하하!
+MID_LGV_Scout_Ven_m02_006: 이 밴디츠 장군을 위해 네 녀석의 힘을\n한껏 발휘하도록. 우하하하하!
+MID_LGV_Scout_Ven_m03: <TH>
+MID_LGV_Scout_Ven_m03_001: 내 위대함에 압도된 모양이군.\n자신감을 되찾을 때까지 기다려 주지.
+MID_LGV_Scout_Ven_m03_002: 으으으…… 어, 어쩔 수 없군요.\n만족이 될 때까지 천천히 생각해 보시지요……
+MID_LGV_Scout_Ven_m03_003: 날 이겼다고 기고만장하기는!\n하지만 나는 관대하니 기다려 주지.
+MID_LGV_Scout_Ven_m04: <TH>
+MID_LGV_Scout_Ven_m04_001: 이 밴디츠와 싸워 본 네 녀석은\n나의 대단함을 아주 잘 아는 것 같군.
+MID_LGV_Scout_Ven_m04_002: 이 밴디츠를 영입하려 하다니\n내 위대함을 잘 아는 자로군!
+MID_LGV_Scout_Ven_m04_003: 이 밴디츠를 영입하려 하시다니\n역시 여왕님은 제 위대함을 잘 알고 계시는군요!
+MID_LGV_Scout_Ven_m04_004: 하지만 안타깝게도 네 녀석은 나와\n급이 맞지 않는다. 더 정진하고 오도록!
+MID_LGV_Scout_Ven_m04_005: 하지만 안타깝게도 아직 귀하는 저를 다루실 수\n없을 것 같습니다. 더 자신을 단련하고 오시지요!
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_001: 내게 무슨 볼일이라도 있나?\n이거 우연이군. 사실 나도 할 얘기가 있다.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_002: 제게 무슨 볼일이라도 있으십니까?\n이거 우연이군요. 사실 저도 할 얘기가 있습니다.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_003: 네 녀석에게 좋은 제안을 하지.\n이 밴디츠 장군의 동료가 되지 않겠나?
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_004: 단도직입적으로 말씀드리지요.\n이 밴디츠 장군의 동료가 되지 않겠습니까?
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_005: 나를 쓰러뜨린 네 녀석은 장래성이 있어.\n이 밴디츠 장군의 동료로 삼아 주마.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_006: 내가 이 정도로 호의를 보이는 것은\n흔치 않은 일이지. 자신감을 가져도 좋다.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_007: 제가 이러는 것은 흔치 않은 일이지요.\n귀하이기 때문에 이런 제안을 하는 겁니다.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_008: 어떠냐? 내 숭고한 목적을 달성하는 데 일익을\n담당할 수 있는, 아주 달콤한 제안 아닌가?
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_009: 제 숭고한 목적을 달성하는 데\n힘을 보태 주셨으면 합니다만, 어떻습니까?
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_010: 모든 준비는 되어 있다.\n자, 내 군대의 일원이 되어라!
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_011: 모든 준비는 되어 있습니다.\n자, 대답을 들려주시지요!
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_012: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_013: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_001: 우하핫! 잘 생각했다!\n그렇게 말할 줄 알았지!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_002: 우하핫!\n그렇게 말씀하실 줄 알았습니다!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_003: 내 동료가 될 수 있는 기회는\n좀처럼 없으니 말이야!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_004: 제 동료가 될 수 있는 기회는\n좀처럼 없으니 말입니다!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_005: 정말 기분이 좋군! 그렇지, 네 녀석에게\n좋은 이야기를 하나 들려주마.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_006: 정말 기분이 좋군요. 귀하께\n좋은 이야기를 하나 들려드리지요.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_007: 이 밴디츠가 아직 젊었을 적……\n십인대장의 지위를 하사받았을 때의 일이다.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_008: 이 밴디츠가 아직 젊었을 적……\n십인대장의 지위를 하사받았을 때의 일입니다.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_009: 어느 날 밤, 대장군이 되어 휘하 수만 명의 군단에\n돌격을 명령하는 꿈을 꾸었는데
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_010: 어느 날 밤, 대장군이 되어 휘하 수만 명의 군단에\n돌격을 명령하는 꿈을 꾸었는데
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_011: 그 군단은 나의 지휘 아래\n아름다운 대열을 이루며 적들을 향해 돌진했지!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_012: 그 군단은 저의 명령이 떨어지자마자\n아름다운 대열을 이루며 적들을 향해 돌진했지요!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_013: 그리고 난 보았다! 내 무적 군단이 거대한 적들을\n차례차례 쓰러뜨리는 용감한 모습을!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_014: 그리고 전 보았습니다! 제 무적 군단이 거대한 적들을\n차례차례 쓰러뜨리는 용감한 모습을!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_015: 그것은 바로 일종의 계시였어.\n잠에서 깨어난 나는 벼락을 맞은 듯이 전율했다.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_016: 그것은 바로 일종의 계시였지요……\n잠에서 깨어난 저는 벼락을 맞은 듯이 전율했습니다.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_017: 그때 깨달았지. 대장군이 되는 게 나의 사명이자\n모든 걸 걸고 이루어야 할 비원……이라는 것을.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_018: 그때 깨달았지요. 대장군이 되는 게 저의 사명이자\n모든 걸 걸고 이루어야 할 비원……이라는 것을.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_019: 그 이후로 죽기 살기로 공부했다.\n위대한 대참모 아우구스트의 전술서를 섭렵하며……
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_020: 그 이후로 죽기 살기로 공부했습니다.\n위대한 대참모 아우구스트의 전술서를 섭렵하며……
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_021: 대장군에게 필요한 지식과 교양을 습득하고\n신체도 단련했지.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_022: 대장군에게 필요한 지식과 교양을 습득하고\n신체도 단련했지요.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_023: ……도중에 본의 아니게 파면되는\n불명예스러운 경험을 하기도 했다만……
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_024: ……도중에 본의 아니게 파면되는\n불명예스러운 경험을 하기도 했습니다만……
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_025: ………………
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_026: ……그나저나\n무슨 얘기 중이었지?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_027: ……그나저나\n무슨 얘기 중이었지요?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_028: 아, 네 녀석을 동료로 받아 주겠다는\n이야기를 하던 중이었군!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_029: 아, 귀하를 동료로 받아들이겠다는\n이야기를 하던 중이었군요!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_030: 내가 명성을 떨쳐 역사에 이름을 새기게 되면\n네 녀석의 이름도 그 옆에 같이 새겨 주지.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_031: 귀하의 도움이 있다면 저는 반드시\n대장군이 되어 역사에 이름을 새길 수 있을 겁니다!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_032: 그날이 올 때까지 내 수족이 되어\n열심히 일하도록. 우하하하하!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_033: 앞으로의 활약을 기대하겠습니다.\n잘 부탁드리지요. 우하하하하!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_001: 뭐? 잘 안 들렸다만.\n자, 내 군대의 일원이 되어라!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_002: 예? 잘 안 들렸습니다만……\n제 군대의 일원이 되어 주시겠습니까?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_001: 목소리가 작다! 더 크게 말해라!\n자, 『당신 군대의 일원이 되겠다』라고 말하도록!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_002: 예? 역시 안 들리는군요……\n『동료가 되겠다』라고 말씀하셨습니까?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_001: 에잇, 안 들린다고 했잖느냐!\n빨리 내 군대의 일원이 되겠다고 말해라!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_002: 죄송합니다…… 요즘 귀가 잘 안 들려서……\n제 군대의 일원이 되겠다는 말씀이시지요?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_001: 거절? 네 녀석, 혹시 거절할 생각이냐?\n하하, 그럴 리가…… 내 동료가 될 거지?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_002: 서, 설마…… 거절하실 생각입니까?\n하하, 그럴 리가…… 제 동료가 되어 주시겠지요?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_001: 아하, 긴장해서 잘못 말했나 보군.\n무서워할 필요 없다! 자, 본심을 말하도록!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_002: 아하, 살라미스가 걱정되시나 보군요!\n저도 국방을 도울 테니 안심하셔도 됩니다!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_001: 아, 대가를 걱정하는 거냐?\n네 녀석에게는 충분한 명예가 주어질 테니 안심해라!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_002: 혹시 보수를 걱정하시는 겁니까?\n귀하께서는 충분한 명예를 얻으실 테니 안심하시길.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_001: 음…… 명예만으로는 부족하다는 건가?\n어쩔 수 없군. 특별히 이 안대를 주도록 하지.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_002: 이거 실례했습니다! 명예는 이미 충분히 얻으셨을 터.\n어쩔 수 없군요. 특별히 이 안대를 드리도록 하지요.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_001: 안대가 싫다고? 이 욕심 많은 녀석!\n그럼 정말 특별히 이 코걸이도 주마.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_002: 예? 필요 없으시다고요? 역시 눈이 높으시군요……\n그럼 정말 특별히 이 코걸이도 드리도록 하지요.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_001: 필요 없다고? 자신을 싸게 팔지 않으려는 그 태도,\n아주 좋군! 더더욱 동료로 삼고 싶어졌다!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_002: 예? 절 처형하신다고요!? 농담도 잘하십니다!\n더더욱 동료로 삼고 싶어지는군요!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_003: <ICA>동료가 되겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_004: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_001: 그런가…… 나는 위대한 대참모 아우구스트의\n전술서에서 물러날 때가 중요하다는 것을 배웠지.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_002: 그렇습니까…… 저는 위대한 대참모 아우구스트의\n전술서에서 물러날 때가 중요하다는 것을 배웠습니다.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_003: 그러니 오늘은 이쯤에서 물러나겠다.\n하지만 네 녀석을 포기한 것은 아니야. 두고 봐라!
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_004: 그러니 오늘은 이쯤에서 물러나도록 하지요.\n하지만 폐하를 포기한 것은 아닙니다!
+MID_LGV_Scout_Ini_m01: <TH>
+MID_LGV_Scout_Ini_m01_001: 저기…… 괜찮다면\n나를 동료로 받아 주지 않을래……?
+MID_LGV_Scout_Ini_m01_002: 저기…… 괜찮으시다면\n저를 동료로 받아 주실 수 있나요……?
+MID_LGV_Scout_Ini_m01_003: 저기…… 나를 동료로 받아 주지 않을래……?\n우리, 저번에 대검투제에서 싸웠잖아……
+MID_LGV_Scout_Ini_m01_004: 함께 다니면 활 솜씨를\n더 갈고닦을 수 있을 것 같아서…… 부탁이야……
+MID_LGV_Scout_Ini_m01_005: 함께 다니면 활 솜씨를\n더 갈고닦을 수 있을 것 같아서요…… 부탁이에요……
+MID_LGV_Scout_Ini_m01_006: 그 상태의 날 이긴 당신과 함께라면…… 활 솜씨를\n더 갈고닦을 수 있을 것 같아서…… 부탁이야……
+MID_LGV_Scout_Ini_m02: <TH>
+MID_LGV_Scout_Ini_m02_001: 고마워……!\n용기 내서 말해 보길 잘했네……
+MID_LGV_Scout_Ini_m02_002: 감사합니다……!\n용기 내서 말해 보길 잘했네요……
+MID_LGV_Scout_Ini_m02_003: 다행이다…… 대검투제에서 안 좋은 모습을 보였으니\n받아 주지 않을까 봐 걱정했거든……
+MID_LGV_Scout_Ini_m02_004: 나를 동료로 받아 준 걸 후회하지 않도록……\n열심히 할게…… 앞으로 잘 부탁해……
+MID_LGV_Scout_Ini_m02_005: 저를 동료로 받아 준 걸 후회하시지 않도록……\n열심히 할게요…… 앞으로 잘 부탁드려요……
+MID_LGV_Scout_Ini_m02_006: 동료로 받아 주길 잘했다는 생각이 들도록……\n열심히 할게…… 앞으로 잘 부탁해……
+MID_LGV_Scout_Ini_m03: <TH>
+MID_LGV_Scout_Ini_m03_001: 거절하는 게 당연하지……\n그래도 마음이 바뀌면 언제든지 말해 줘……
+MID_LGV_Scout_Ini_m03_002: 거절하시는 게 당연하죠……\n그래도 마음이 바뀌시면 언제든지 말씀해 주세요……
+MID_LGV_Scout_Ini_m03_003: 그때만큼의 실력은 기대할 수 없을 테니…… 이해해.\n그래도 마음이 바뀌면 언제든지 말해 줘……
+MID_LGV_Scout_Ini_m04: <TH>
+MID_LGV_Scout_Ini_m04_001: 어……? 나를 동료로……?\n진심이야?
+MID_LGV_Scout_Ini_m04_002: 네……? 저를 동료로……?\n진심이세요?
+MID_LGV_Scout_Ini_m04_003: 당신…… 어디선가 만났던가……\n미안…… 지금 그럴 기분이 아니라서……
+MID_LGV_Scout_Ini_m04_004: 미안…… 당신에 대해서 잘 모르기도 하고\n지금은…… 그럴 기분이 아니라서……
+MID_LGV_Scout_Ini_m04_005: 죄송해요…… 저, 지금은 아직\n그럴 기분이 아니라서……
+MID_LGV_Scout_Ini_m05: <TH>
+MID_LGV_Scout_Ini_m05_001: 나를 고용하고 싶다고?\n안 그래도 일거리가 필요했어……
+MID_LGV_Scout_Ini_m05_002: 저를 고용하고 싶으시다고요?\n안 그래도 일거리가 필요했어요……
+MID_LGV_Scout_Ini_m05_003: 당신…… 어디선가 본 것 같은데……\n아! 대검투제에서 나랑 싸웠던 사람이지……?
+MID_LGV_Scout_Ini_m05_004: 가지고 있던 돈을 모두……\n미트라스 수도회에 줘 버렸거든……
+MID_LGV_Scout_Ini_m05_005: 가지고 있던 돈을 모두……\n미트라스 수도회에 줘 버렸거든요……
+MID_LGV_Scout_Ini_m05_006: 「오호의 활」을 갖고 있었을 때의 일은\n정말로 잘 기억이 안 나거든……
+MID_LGV_Scout_Ini_m05_007: 그 대신 「오호의 활」이라는 것을 받고\n한때 "마궁의 이니오니"라고 불렸는데
+MID_LGV_Scout_Ini_m05_008: 그 대신 「오호의 활」이라는 것을 받고\n한때 "마궁의 이니오니"라고 불렸는데
+MID_LGV_Scout_Ini_m05_009: 혹시 폐를 끼쳤다면\n미안해……
+MID_LGV_Scout_Ini_m05_010: 미트라스 수도회와 연을 끊어서\n지금은 활도 없고…… 돈도 없어……
+MID_LGV_Scout_Ini_m05_011: 미트라스 수도회와 연을 끊어서\n지금은 활도 없고…… 돈도 없어요……
+MID_LGV_Scout_Ini_m05_012: 그 활을 줬던 미트라스 수도회와는\n연을 끊어서…… 지금은 일거리를 찾고 있어……
+MID_LGV_Scout_Ini_m05_013: 활 솜씨에는 자신 있으니……\n활을 살 돈을 주면 동료가 될게……
+MID_LGV_Scout_Ini_m05_014: 활 솜씨에는 자신 있으니……\n활을 살 돈을 주시면 동료가 될게요……
+MID_LGV_Scout_Ini_m06: <TH>
+MID_LGV_Scout_Ini_m06_001: 정말 받아도 돼……? 고마워……!\n동료가 생긴 것도 기뻐……
+MID_LGV_Scout_Ini_m06_002: 정말 받아도 되나요……? 감사합니다.\n동료가 생긴 것도 기뻐요……
+MID_LGV_Scout_Ini_m06_003: 나를 영입한 걸 후회하지 않도록……\n열심히 할게…… 앞으로 잘 부탁해……
+MID_LGV_Scout_Ini_m06_004: 저를 영입한 걸 후회하시지 않도록……\n열심히 할게요…… 잘 부탁드려요……
+MID_LGV_Scout_Ini_m07: <TH>
+MID_LGV_Scout_Ini_m07_001: 거절하는 게 당연하지……\n그래도 마음이 바뀌면 언제든지 말해 줘……
+MID_LGV_Scout_Ini_m07_002: 거절하시는 게 당연하죠……\n그래도 마음이 바뀌시면 언제든지 말씀해 주세요……
+MID_LGV_Scout_Ini_m08: <TH>
+MID_LGV_Scout_Ini_m08_001: 부족하네…… 충분한 장비가 없으면\n싸울 수 없어…… 준비되면 다시 와 줘……
+MID_LGV_Scout_Ini_m08_002: 부족하네요…… 충분한 장비가 없으면\n싸울 수 없어요…… 준비되면 다시 와 주세요……
+MID_LGV_Scout_Jas_m01: <TH>
+MID_LGV_Scout_Jas_m01_001: 명성이 자자하던걸.\n대단한 실력자라고 말이야.
+MID_LGV_Scout_Jas_m01_002: 명성이 자자하던걸.\n역시 우리 클랜을 꺾은 실력자다워.
+MID_LGV_Scout_Jas_m01_003: 세오도라님의 명성은 익히 들었어요.\n용맹하기로 이름난 여걸이라더군요.
+MID_LGV_Scout_Jas_m01_004: 함께 싸우면 나도 유명해지겠지.\n날 동료로 받아 주지 않을래?
+MID_LGV_Scout_Jas_m01_005: 이 용병 자스민에게 폐하 밑에서\n실력을 발휘할 수 있는 영예를 주시지 않겠어요?
+MID_LGV_Scout_Jas_m02: <TH>
+MID_LGV_Scout_Jas_m02_001: 고마워.\n그럼 이제부터 우리는 가족이나 다름없네.
+MID_LGV_Scout_Jas_m02_002: 감사합니다.\n그럼 이제부터 우리는 가족이나 다름없네요.
+MID_LGV_Scout_Jas_m02_003: 먹고 마시며 웃을 때도, 싸우다 죽을 때도\n함께하자고!
+MID_LGV_Scout_Jas_m02_004: 먹고 마시며 웃을 때도, 싸우다 죽을 때도\n함께하시죠!
+MID_LGV_Scout_Jas_m03: <TH>
+MID_LGV_Scout_Jas_m03_001: 그렇게 매정하게 굴지 말고.\n손해 보는 일은 없을 거야.
+MID_LGV_Scout_Jas_m03_002: 그렇군요……\n마음이 바뀌시면 언제든지 말씀해 주세요.
+MID_LGV_Scout_Jas_m04: <TH>
+MID_LGV_Scout_Jas_m04_001: 내가 용병단을 이끌 때는\n단원 모두를 가족처럼 여겼지.
+MID_LGV_Scout_Jas_m04_002: 제가 용병단을 이끌 때는\n단원 모두를 가족처럼 대했어요.
+MID_LGV_Scout_Jas_m04_003: 그런데 우리는 아직 그런 관계가 되지 못할 것 같네.\n미안하지만 다음에 다시 와 줘.
+MID_LGV_Scout_Jas_m04_004: 폐하와도 그렇게 될 수 있다면 좋겠지만……\n그건 실례겠죠. 그러니 돌아가 주세요.
+MID_LGV_Scout_Jas_m05: <TH>
+MID_LGV_Scout_Jas_m05_001: 실력 있는 용병을 찾고 있어?\n이거 우연이네. 나도 마찬가지야!
+MID_LGV_Scout_Jas_m05_002: 폐하, 실력 있는 용병을 찾고 계신가요?\n이거 우연이네요. 저도 마찬가지예요.
+MID_LGV_Scout_Jas_m05_003: 난 내 용병단을 재건하는 게 꿈인데\n그러기 위해서 좋은 동료들을 많이 모으고 싶거든.
+MID_LGV_Scout_Jas_m05_004: 전 제 용병단을 재건하는 게 꿈인데\n그러기 위해서 좋은 동료들을 많이 모으고 싶거든요.
+MID_LGV_Scout_Jas_m05_005: 하지만 알고 있지? 그런 사람들을 고용하려면\n엄청난 명성과 돈이 필요하다는 사실을 말이야.
+MID_LGV_Scout_Jas_m05_006: 하지만 폐하도 아시죠? 그런 사람들을 고용하려면\n엄청난 명성과 돈이 필요하다는 사실을 말이에요.
+MID_LGV_Scout_Jas_m05_007: 만약 우리가 함께 싸운다면\n이름도 알리고 돈도 받을 수 있겠지.
+MID_LGV_Scout_Jas_m05_008: 만약 세오도라님 밑에서 실력을 발휘할 수 있다면\n그런 것들은 걱정하지 않아도 되겠죠.
+MID_LGV_Scout_Jas_m05_009: 그러니 날 고용해 줘!\n조금은 싸게 해 줄게.
+MID_LGV_Scout_Jas_m05_010: 폐하, 지금이라면 싸게 해 드릴 수 있는데\n이 용병 자스민을 휘하에 들이지 않으시겠어요?
+MID_LGV_Scout_Jas_m06: <TH>
+MID_LGV_Scout_Jas_m06_001: 고마워! 그럼 결정이네!\n이제부터 우리는 가족이나 다름없는 거야.
+MID_LGV_Scout_Jas_m06_002: 감사합니다.\n그럼 이제부터 우리는 가족이나 다름없네요.
+MID_LGV_Scout_Jas_m06_003: 앞으로는 승리의 축배를 들며 웃을 때도,\n실패나 부상 때문에 울 때도 함께하자고!
+MID_LGV_Scout_Jas_m06_004: 앞으로는 승리의 축배에 취할 때도,\n패배의 눈물을 흘릴 때도 함께하시죠!
+MID_LGV_Scout_Jas_m07: <TH>
+MID_LGV_Scout_Jas_m07_001: 어라? 매정하네……\n가족이 될 수 있을 줄 알았는데.
+MID_LGV_Scout_Jas_m07_002: 그렇군요…… 아쉽네요.\n마음이 바뀌시면 언제든지 말씀해 주세요.
+MID_LGV_Scout_Jas_m08: <TH>
+MID_LGV_Scout_Jas_m08_001: 하하하! 안 갖고 있잖아!\n어쩔 수 없지. 다음에 가져와.
+MID_LGV_Scout_Jas_m08_002: 이런 말씀 드리기 뭐하지만…… 안 갖고 계시네요.\n준비되면 다시 와 주세요.
+MID_LGV_Scout_Ale_m01: <TH>
+MID_LGV_Scout_Ale_m01_001: ……저기, 무리한 부탁이라는 건 아는데요!\n함께 싸우게 해 주실 수 있나요?
+MID_LGV_Scout_Ale_m01_002: 대검투제에서 패배한 후\n제가 얼마나 미숙한지 깨달았죠.
+MID_LGV_Scout_Ale_m01_003: 그래서 지금까지 연승 중인 강한 분 밑에서\n무예를 연마하고 싶어요!
+MID_LGV_Scout_Ale_m02: <TH>
+MID_LGV_Scout_Ale_m02_001: ! 감사합니다!\n최선을 다할게요!
+MID_LGV_Scout_Ale_m02_002: 아, 그리고 부케팔라스…… 제 파트너인 페가수스도\n잘 부탁드려요. 사이좋게 지내 주세요.
+MID_LGV_Scout_Ale_m02_003: 아, 물론 부케팔라스도 잘 부탁드려요.\n그 아이도 의욕이 넘치는 상태예요.
+MID_LGV_Scout_Ale_m03: <TH>
+MID_LGV_Scout_Ale_m03_001: 그렇군요. 시간 뺏어서 죄송해요.\n……앞으로도 힘내세요!
+MID_LGV_Scout_Ale_m04: <TH>
+MID_LGV_Scout_Ale_m04_001: 제안은 감사하지만\n저는 아직 실력이 부족하다고 느끼고 있어요.
+MID_LGV_Scout_Ale_m04_002: 저보다 더 대단한 분이 많이 계실 거예요.\n부디 다른 분을 찾아 주세요.
+MID_LGV_Scout_Kir_m01: <TH>
+MID_LGV_Scout_Kir_m01_001: 이봐, 날 동료로 받아 줘.\n지명 수배 중이라 잡히면 바로 교수형이라고.
+MID_LGV_Scout_Kir_m01_002: 어이, 날 동료로 받아 줘라. 지명 수배 중이라\n잡히면 바로 교수형이란 말이다.
+MID_LGV_Scout_Kir_m01_003: 뭐든 시키는 대로 얌전히 따를 테니\n사람 하나 살린다고 생각하고 숨겨 줘!
+MID_LGV_Scout_Kir_m01_004: 너 때문에 이렇게 됐잖아.\n책임지고 숨겨 달라고!
+MID_LGV_Scout_Kir_m02: <TH>
+MID_LGV_Scout_Kir_m02_001: 고맙다!\n덕분에 목숨을 건졌어……
+MID_LGV_Scout_Kir_m02_002: 당연히 그래야지, 멍청한 녀석.\n허무하게 죽기는 싫다고.
+MID_LGV_Scout_Kir_m02_003: "괴조 키로이카"의 활약을 기대하라고.\n위장 신분이긴 하지만 앞으로 잘 부탁한다!
+MID_LGV_Scout_Kir_m02_004: 내키지는 않지만 지시에는 따라 주지.\n위장 신분이긴 하지만 앞으로 잘 부탁한다.
+MID_LGV_Scout_Kir_m03: <TH>
+MID_LGV_Scout_Kir_m03_001: 어째서야, 젠장!\n내가 포기할까 보냐!
+MID_LGV_Scout_Kir_m03_002: 어째서야, 이 망할 녀석아!\n어디 확 파묻혀 버려라!
+MID_LGV_Scout_Kir_m04: <TH>
+MID_LGV_Scout_Kir_m04_001: 모든 것을 잃은 내게 손을 내밀어 주는 거냐?\n오오~! 마음의 벗이여!
+MID_LGV_Scout_Kir_m04_002: 타리문!? 전에는 잘도 내 배를……\n이 해적보다 더 사악한 녀석!!
+MID_LGV_Scout_Kir_m04_003: 잠깐! 그렇게 말하면서 현상금을 노리고\n신전에 넘기려는 거 아냐? 절대 안 속아!
+MID_LGV_Scout_Kir_m04_004: 내가 유일하게 귀신보다 더 보고 싶지 않은 게\n바로 네 얼굴이다! 당장 사라져!
+MID_LGV_Scout_Kir_m05: <TH>
+MID_LGV_Scout_Kir_m05_001: 내가 누군지 아냐? 다난해를 주름잡던\n흑조 해적단의 두목…… "괴조 키로이카"님이다!
+MID_LGV_Scout_Kir_m05_002: 나를 기억하냐? 이 빌어먹을 타리문 녀석아!\n흑조 해적단의 두목, "괴조 키로이카"님이다!
+MID_LGV_Scout_Kir_m05_003: 아니, 두목이었다……고 해야겠지.\n어떤 녀석한테 당해서…… 지금은 고독한 수배자다.
+MID_LGV_Scout_Kir_m05_004: 아니, 두목이었다……고 해야겠지.\n너한테 당해서…… 지금은 고독한 수배자다!
+MID_LGV_Scout_Kir_m05_005: 그뿐만 아니라 그때 죽을 뻔한 이후로 낮에도\n내가 싫어하는 귀신들이 보이게 돼서……
+MID_LGV_Scout_Kir_m05_006: 호, 혹시나 해서 묻는 건데 귀신인 건 아니지……?\n방심하고 있으면 바로 그 녀석들이 나타나거든.
+MID_LGV_Scout_Kir_m05_007: 너, 너 때문이야! 조금이라도 미안하다면\n책임지고 날 고용해라!
+MID_LGV_Scout_Kir_m05_008: 이봐, 혹시 귀신 쫓는 물건 없어?\n있는 거 다 줘. 그러면 동료가 되어 주지.
+MID_LGV_Scout_Kir_m05_009: 혹시 귀신 쫓는 물건 없어?\n있는 거 다 줘. 그러면 동료가 되어 주지.
+MID_LGV_Scout_Kir_m06: <TH>
+MID_LGV_Scout_Kir_m06_001: 고맙다! 심리적 위안일지도 모르겠지만\n이런 거라도 있고 없고의 차이가 크다고.
+MID_LGV_Scout_Kir_m06_002: 갖고 있잖아! 심리적 위안일지도 모르겠지만\n이런 거라도 있고 없고의 차이가 크다고.
+MID_LGV_Scout_Kir_m06_003: 해적은 거짓말을 하지 않지. 오늘부터 우린 동료야.\n위장 신분이긴 하지만 앞으로 잘 부탁한다!
+MID_LGV_Scout_Kir_m06_004: 동료가 되었으니 지시에는 따라 주지.\n위장 신분이긴 하지만 앞으로 잘 부탁한다.
+MID_LGV_Scout_Kir_m07: <TH>
+MID_LGV_Scout_Kir_m07_001: 뭐야, 날 갖고 노는 거냐! 젠장!\n내가 이러다 죽으면 귀신이 되어 나타나 줄 테다!
+MID_LGV_Scout_Kir_m08: <TH>
+MID_LGV_Scout_Kir_m08_001: 어이! 없으면 없다고 말해!\n이쪽은 목숨이 걸려 있다고!
+MID_LGV_Scout_Nuz_m01: <TH>
+MID_LGV_Scout_Nuz_m01_001: ……날 동료로 삼고 싶다는 건가.\n마침 잘됐군.
+MID_LGV_Scout_Nuz_m01_002: 유 파스의 후손이여……\n너는 할 하리족에게 귀한 존재다.
+MID_LGV_Scout_Nuz_m01_003: 살라미스의 왕이여…… 우리를 받아 준 것에 대해\n진심으로 감사하고 있다.
+MID_LGV_Scout_Nuz_m01_004: 족장 대리 역할을 마치고 할 하리 전사로서\n전장을 갈망하던 참이었지……
+MID_LGV_Scout_Nuz_m01_005: 그러니…… 힘을 빌려주지.\n함께 싸우지 않겠나.
+MID_LGV_Scout_Nuz_m01_006: 더 강해지기 위해서라도\n너에게 힘을 빌려주겠다.
+MID_LGV_Scout_Nuz_m01_007: 나 역시 할 하리 전사……\n전투 성과는 기대해도 좋다……
+MID_LGV_Scout_Nuz_m02: <TH>
+MID_LGV_Scout_Nuz_m02_001: 그럼 싸울 때 불러라.\n작은 신호만으로도 충분하다……
+MID_LGV_Scout_Nuz_m02_002: 오오…… 고맙군.\n그럼 싸울 때 불러라.
+MID_LGV_Scout_Nuz_m02_003: 어디든 달려가서\n적의 목을 베어 주지……
+MID_LGV_Scout_Nuz_m03: <TH>
+MID_LGV_Scout_Nuz_m03_001: 음…… 마음이 바뀌었나.\n그럼 어쩔 수 없지……
+MID_LGV_Scout_Nuz_m03_002: 그런가…… 내가 주제넘었군.\n마음이 바뀌면 언제든지 말해라……
+MID_LGV_Scout_Nuz_m04: <TH>
+MID_LGV_Scout_Nuz_m04_001: 힘을 빌려달라는 건가?\n……충고 하나 하지.
+MID_LGV_Scout_Nuz_m04_002: 신원을 잘 모르는 자를 동료로 끌어들이지 마라.\n자다가 목이 달아날지도 모른다.
+MID_LGV_Scout_Nuz_m05: <TH>
+MID_LGV_Scout_Nuz_m05_001: ……날 동료로 삼고 싶다는 건가.\n마침 잘됐군.
+MID_LGV_Scout_Nuz_m05_002: 나는 원래 「할 하리족」의 족장 대리를 맡고 있었는데\n지금은 그 책임도 끝났다.
+MID_LGV_Scout_Nuz_m05_003: 너의 밑에서 일개 전사로 살면서 숲 밖의 세상에 대해\n배우는 것도 우리 부족을 위한 일이겠지.
+MID_LGV_Scout_Nuz_m05_004: 원한다면 힘을 빌려주겠다.\n하지만 그에 상응하는 보수를 받았으면 좋겠군……
+MID_LGV_Scout_Nuz_m06: <TH>
+MID_LGV_Scout_Nuz_m06_001: 그럼 싸울 때 불러라.\n작은 신호만으로도 충분하다……
+MID_LGV_Scout_Nuz_m06_002: 어디든 달려가서\n적의 목을 베어 주지……
+MID_LGV_Scout_Nuz_m07: <TH>
+MID_LGV_Scout_Nuz_m07_001: 음…… 마음이 바뀌었나.\n그럼 어쩔 수 없지……
+MID_LGV_Scout_Nuz_m08: <TH>
+MID_LGV_Scout_Nuz_m08_001: 없으면 없다고 말해라.\n만약 속이려 한 거라면 용서하지 않겠다.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_001: 저번에 카이를 도와줘서\n정말 고마워!
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_002: 저번에 카이를 도와주셔서\n정말 감사합니다!
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_003: 카이가 그렇게 기뻐하는 모습을\n오랜만에 봐서 안심했어.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_004: 카이가 그렇게 기뻐하는 모습을\n오랜만에 봐서 안심했어요.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_005: 어……? 함께 싸워 달라고……?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_006: 네……? 함께 싸워 달라고요……?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_007: 당신이 믿을 수 있는 사람이란 거 알아.\n나라도 괜찮다면 기꺼이 도와줄게!
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_008: 당신이 믿을 수 있는 사람이란 거 알아요.\n저라도 괜찮으시다면 기꺼이 도와드릴게요!
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_009: 그 대가……는 아니지만\n내 부탁도 들어줄 수 있어?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_010: 그 대가……는 아니지만\n제 부탁도 들어주실 수 있나요?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_011: 말하기 좀 그런데 돈이 필요해서……\n3000골드 정도 빌릴 수 있을까?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_012: 말씀드리기 좀 그런데 돈이 필요해서요……\n3000골드 정도 빌려주셨으면 해요……
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_013: <ICA>이유를 묻는다
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_014: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_001: 사실…… 「아이기나에 내리는 얼음」이라는\n희곡의 사본을 꼭 갖고 싶어서……!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_002: 사실…… 「아이기나에 내리는 얼음」이라는\n희곡의 사본을 꼭 갖고 싶어서요……!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_003: 단테씨가 작가로 활동을 시작한\n이듬해에 공개한 희곡이야.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_004: 단테씨가 작가로 활동을 시작한\n이듬해에 공개한 희곡이에요.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_005: 인기작이라 사본 자체는 많이 있는데\n얼마 전에 발견한 사본은 특별한 거라……
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_006: 인기작이라 사본 자체는 많이 있는데\n얼마 전에 발견한 사본은 특별한 거라……
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_007: 엄청 유명한 사본 장인인\n베아트리체씨라는 사람이 필사를 담당했거든!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_008: 엄청 유명한 사본 장인인\n베아트리체씨라는 사람이 필사를 담당했거든요!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_009: 그 사람, 단테씨의 육필 원고를\n원본으로 사용하고 있다는 소문이 있어……
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_010: 그 사람, 단테씨의 육필 원고를\n원본으로 사용하고 있다는 소문이 있어요.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_011: 게다가 단순히 문장만 베끼는 것이 아니라\n글씨체까지 단테씨와 똑같아서……
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_012: 게다가 단순히 문장만 베끼는 것이 아니라\n글씨체까지 단테씨와 똑같아서……
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_013: 『단테의 육필을 보고 싶다면 베아트리체의 사본을\n손에 넣어라』라는 속설도 있을 정도야!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_014: 『단테의 육필을 보고 싶다면 베아트리체의 사본을\n손에 넣어라』라는 속설도 있을 정도죠!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_015: 그렇기에 보통은 가격이\n천정부지로 치솟는데……
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_016: 그렇기에 보통은 가격이\n천정부지로 치솟는데……
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_017: 그런 걸 3000골드에 팔고 있더라고!\n단돈 3000골드에! 이 정도면 정말 싼 거야!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_018: 그런 걸 3000골드에 팔고 있더라고요!\n단돈 3000골드에! 이 정도면 정말 싼 거예요!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_019: ……아, 미안.\n나만 신나게 떠들었네.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_020: ……아, 죄송해요.\n저만 신나게 떠들었네요.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_021: 그래서 지금 목돈이 필요해……\n부탁해도 될까?
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_022: 그래서 지금 목돈이 필요해요.\n……부탁드려도 될까요?
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_023: <ICA>3000골드를 건넨다
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_024: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_001: 야호! 고마워!\n당신에게 상담하길 정말 잘했네……!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_002: 야호! 감사합니다!\n당신께 상담하길 정말 잘했네요……!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_003: 이 은혜는 반드시 갚을게.\n그럼 앞으로 잘 부탁해!
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_004: 이 은혜는 반드시 갚을게요.\n그럼 앞으로 잘 부탁드려요!
+MID_LGV_Scout_Negotiation_SP_No_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Tia_m01_001: 갑자기 돈 얘기를 꺼내서 미안해……\n방금 한 말은 잊어 줘……
+MID_LGV_Scout_Negotiation_SP_No_Tia_m01_002: 갑자기 돈 얘기를 꺼내서 죄송해요……\n방금 한 말은 잊어 주세요……
+MID_LGV_Scout_Negotiation_SP_No_Tia_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Tia_m02_001: 그렇구나…… 무리한 부탁을 해서 미안해.\n남에게 의지하지 않고 스스로 어떻게든 해 볼게!
+MID_LGV_Scout_Negotiation_SP_No_Tia_m02_002: 그렇군요…… 무리한 부탁을 드려서 죄송해요.\n남에게 의지하지 않고 스스로 어떻게든 해 볼게요!
+MID_LGV_Scout_Negotiation_SP_NoMoney_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoMoney_Tia_m01_001: 어…… 조금 부족한 것 같네……\n미안해, 다른 사람에게 상담해 볼게.
+MID_LGV_Scout_Negotiation_SP_NoMoney_Tia_m01_002: 어…… 조금 부족한 것 같네요……\n죄송해요, 다른 사람에게 상담해 볼게요.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_001: 호오, 혹시 저를\n영입하려는 건가요?
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_002: 흐음. 제 능력을 제대로 평가하고\n그런 제안을 하는 거라면 기분이 썩 나쁘지는 않군요.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_003: 좋습니다. 당분간은 한가하기도 하고\n지난번에 도와주신 것에 대한 보답도 해야 하니까요.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_004: 그리고 저도 개인적으로\n당신에게 흥미가 있거든요. 다만……
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_005: 조건이 하나 있습니다.\n뭔가 대가를 받을 수 있을까요?
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_006: 뭐…… 얻는 것도 없이 일회용품 취급을\n받고 싶지는 않아서요.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_007: 당신이 절 어떻게 평가하고 있는지\n궁금해서 드리는 부탁입니다.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_008: ……뭐든 상관없습니다.\n물건을 선정하는 건 당신에게 맡기도록 하죠.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_009: <ICA>무언가 건넨다
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_010: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Fab_m01_001: <DLG>파비오에게 건넬 물건을 선택해 주십시오
+MID_LGV_Scout_Negotiation_SP_NoGive_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoGive_Fab_m01_001: 거절하시는 겁니까? 이런……\n쓸데없이 시간 뺏지 말아 주시죠.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_001: 호오…… 이렇게 비싼 물건을 주시는 건가요?\n생각보다 저를 높이 평가해 주시는 것 같네요.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_002: 하지만 적절한 평가라고는 할 수 없군요.\n제 눈치를 보시는 겁니까?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_003: 비싼 물건일수록 제가 기뻐할 거라고 생각하셨나요?\n그렇다면 큰 오산입니다.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_004: 아무래도 당신과는 잘 맞지 않을 것 같군요.\n이 이야기는 없던 걸로 하죠.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_001: 호오…… 꽤 괜찮은 물건인 것 같군요.\n이걸 주시는 겁니까?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_002: 흠. 당신의 마음은\n확실히 전해졌습니다.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_003: 이건 돌려드리죠.\n진짜 원하던 것은 받았으니까요.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_004: 그럼 저 파비오는\n지금부터 당신의 힘이 되어 드리겠습니다.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_005: 저 같은 상위 존재의 도움을 받을 수 있는 것은\n엄청난 행운이라는 사실을 항상 기억해 주시죠.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_001: 음……\n이게 대체 뭡니까?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_002: 흠, 저에 대한 평가가\n이 정도였나요.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_003: 이런 걸로는 부족합니다.\n다시 준비해서 오시죠.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_004: 정말이지…… 당신 같은 분에게\n조금이라도 기대한 제가 바보였군요.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m05_001: 아무것도 가지고 있지 않은 것 같군요……\n할 말이 없네요. 준비해서 다시 오시죠.
+MID_LGV_Scout_Negotiation_SP_Bon_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m01_001: 허허…… 다시 말해\n내 도움을 받고 싶다는 건가?
+MID_LGV_Scout_Negotiation_SP_Bon_m01_002: 그냥 농담으로 넘길 수 있는 말이 아니다.\n……그걸 알면서도 그런 제안을 하는 거겠지?
+MID_LGV_Scout_Negotiation_SP_Bon_m01_003: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Bon_m01_004: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Bon_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m02_001: 난 "살라미스의 지장"이라는\n이명으로 불리고 있다.
+MID_LGV_Scout_Negotiation_SP_Bon_m02_002: 그런 나를 영입하려 한다는 것은\n내 힘을 잘 활용할 수 있다는 뜻이겠지.
+MID_LGV_Scout_Negotiation_SP_Bon_m02_003: 신중히 대답해라……\n정말로 그러한가?
+MID_LGV_Scout_Negotiation_SP_Bon_m02_004: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Bon_m02_005: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Bon_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m03_001: ……난 오랫동안 세오도라 폐하를 섬겨 온\n폐하의 오른팔 같은 존재다.
+MID_LGV_Scout_Negotiation_SP_Bon_m03_002: 선왕 때부터 살라미스의 충신이었던 내가\n폐하의 곁을 떠난다는 것은 어떤 의미인지……
+MID_LGV_Scout_Negotiation_SP_Bon_m03_003: 모르지는 않겠지. 다시 묻겠다……\n그래도 나를 동료로 삼고 싶다는 건가?
+MID_LGV_Scout_Negotiation_SP_Bon_m03_004: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Bon_m03_005: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Bon_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m04_001: …………좋다!\n그럼 너의 동료가 되도록 하지.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_002: 현재 살라미스는 큰 문제에\n직면해 있지만……
+MID_LGV_Scout_Negotiation_SP_Bon_m04_003: 그렇기 때문에 누군가는 계속해서 제도의 동향을\n예의 주시 할 필요가 있다.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_004: 사실 얼마 전에 폐하와 그런 이야기를\n나누기도 했고……
+MID_LGV_Scout_Negotiation_SP_Bon_m04_005: 그게 아니더라도 너 정도 되는 무인에게 세 번이나\n권유를 받았으니 더 이상 거절해서는 안 되겠지.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_006: 날 원하는 너의 열의와 각오는\n확실히 전해졌다.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_007: 폐하가 마음에 걸리긴 하지만……\n토비아스에게 맡기면 될 터.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_008: 나 보나파르트의 지혜는 당분간 네게 맡기도록 하지.\n앞으로 잘 부탁한다.
+MID_LGV_Scout_Negotiation_SP_No_Bon_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Bon_m01_001: 허허허! 아무래도 각오가 부족한 모양이군.\n다음에 다시 오도록.
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_001: 오, 무슨 일이야?\n나한테 할 말이라도 있어?
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_002: 들어 주고 싶지만 지금\n목이 말라서 말이지~
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_003: 갈증이 너무 심해서……\n몸 상태가 안 좋아졌어.
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_004: 뭔가 마실 것 좀 주지 않을래?\n이야기는 그다음에 하자고~!
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_005: <ICA>무언가 건넨다
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_006: <ICB>거절한다
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Tob_m01_001: <DLG>토비아스에게 건넬 물건을 선택해 주십시오
+MID_LGV_Scout_Negotiation_SP_NoGive_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoGive_Tob_m01_001: 어이, 곤경에 처한 나를 내버려둘 거야~?\n정말 매정한 녀석이구먼~!
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01_001: 꿀꺽…… 꿀꺽…… 꿀꺽……\n푸하~~!! 살 것 같다~!
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01_002: 후우, 맛있구먼!\n너무 맛있어서 단숨에 마셔 버렸네!
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01_003: 덕분에 겨우 제정신이 들었어.\n그래서, 나한테 무슨 용건이야~?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02_001: 음~! 이거 좋네!\n꽤 괜찮은데~!
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02_002: 평소에는 이런 거 잘 안 마시지만\n목마를 때는 상당히 고마운 존재구먼.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02_003: 덕분에 살았어~!\n그래서, 나한테 무슨 용건이야~?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03_001: 이건 뭔가 아닌 것 같은데……\n그래도 줬으니 한번 마셔 볼까……
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03_002: ……으음, 이, 이거는 안 되겠구먼!\n오히려 갈증이 더 심해져~!!
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03_003: 게다가 왠지 배까지 아파 오기 시작했어……\n다음에 이야기하자!
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m05_001: 뭐여? 아무것도 없어?\n중요할 때 도움이 안 되는 녀석이구먼~!
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_001: ……음, 그러니까\n동료가 되어 달라는 거여?
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_002: 뭐, "살라미스의 맹장"이라고 불리는\n내게 눈독을 들이는 건 당연한가~!
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_003: 너한테는 전에도 신세를 졌고……\n이번 일로 인해 빚이 더 생겼으니
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_004: 이 기회에 한꺼번에 갚을까~\n좋아, 동료가 되어 줄게!
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_005: 사실 나도 너에게 흥미가 있었거든.\n아기씨한테 들려줄 이야기도 많이 생길 테니 딱 좋네!
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_006: 뭐? 아기씨가 걱정되지 않냐……고?\n크하하! 무슨 소리여!
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_007: 아기씨에게는 보나가 있잖아!\n보나한테 맡기면 걱정 없어!
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_008: 그럼 앞으로 잘 부탁해!\n내 힘을 마음껏 활용하라고~!
+MID_LGV_Scout_Negotiation_SP_Buc_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Buc_m01_001: ……뭐?\n내 힘이 필요하다는 건가?
+MID_LGV_Scout_Negotiation_SP_Buc_m01_002: ……예?\n제 힘이 필요하다고 하셨습니까?
+MID_LGV_Scout_Negotiation_SP_Buc_m01_003: ……너에게는 감사하고 있다.\n아가씨를 도와드렸다지.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_004: ……당신께는 감사하고 있습니다.\n아가씨를 도와주셨다지요.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_005: 그런 중요한 순간에 아무런 도움도\n되지 못한 나 자신에게 화가 난다.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_006: 그런 중요한 순간에 아무런 도움도\n되지 못한 저 자신에게 화가 납니다.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_007: 그 일이 있고 나서 나는 지금까지 대체 무엇을 위해\n아가씨의 곁을 지켜 온 건지……
+MID_LGV_Scout_Negotiation_SP_Buc_m01_008: 그 일이 있고 나서 저는 지금까지 대체 무엇을 위해\n아가씨의 곁을 지켜 온 건지……
+MID_LGV_Scout_Negotiation_SP_Buc_m01_009: 고민하고 있었는데\n아가씨는 다 꿰뚫어 보신 것 같더군.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_010: 고민하고 있었는데\n아가씨는 다 꿰뚫어 본 것 같더군요.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_011: 실은 당분간 쉬다 오라는 말씀을 들었지……\n어디 가서 기분 전환 좀 하고 오라시더군.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_012: 실은 당분간 쉬다 오라는 말씀을 들었습니다……\n어디 가서 기분 전환 좀 하고 오라며……
+MID_LGV_Scout_Negotiation_SP_Buc_m01_013: 물론 그게 아가씨 나름대로 나를\n배려해서 하신 말씀이라는 건 잘 알고 있다.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_014: 물론 그게 아가씨 나름대로 저를\n배려해서 하신 말씀이라는 건 잘 알고 있습니다.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_015: 확실히 지금은 서로를 위해서라도\n거리를 두는 것이 좋을지도 모르겠어.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_016: 확실히 지금은 서로를 위해서라도\n거리를 두는 것이 좋을지도 모르겠군요.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_017: 만약 네가 내 힘을 필요로 한다면\n거절할 이유가 없지.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_018: 만약 당신이 제 힘을 필요로 하신다면\n거절할 이유가 없지요.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_019: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Buc_m01_020: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Buc_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Buc_m02_001: 고맙군! 네 밑에서 나는\n충의에 대해 다시 한번 깊이 생각해 보려고 한다.
+MID_LGV_Scout_Negotiation_SP_Buc_m02_002: 감사합니다! 당신 밑에서 저는\n충의에 대해 더 깊이 생각해 보려고 합니다.
+MID_LGV_Scout_Negotiation_SP_Buc_m02_003: 한때 바포스의 귀웅이라고 불렸던 내 힘을\n마음껏 활용하도록!
+MID_LGV_Scout_Negotiation_SP_Buc_m02_004: 한때 바포스의 귀웅이라고 불렸던 제 힘을\n마음껏 활용해 주십시오!
+MID_LGV_Scout_Negotiation_SP_Buc_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Buc_m03_001: 으음, 그런가……\n마음이 바뀌면 언제든지 말해라.
+MID_LGV_Scout_Negotiation_SP_Buc_m03_002: 으음, 그렇습니까……\n마음이 바뀌시면 언제든지 말씀해 주십시오.
+MID_LGV_Scout_Negotiation_SP_Gat_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Gat_m01_001: 뭔가 뜨거운 시선이 느껴진다 했더니……\n혹시 날 영입하려는 건가?
+MID_LGV_Scout_Negotiation_SP_Gat_m01_002: 뭔가 뜨거운 시선이 느껴진다 했더니……\n혹시 절 영입하시려는 겁니까?
+MID_LGV_Scout_Negotiation_SP_Gat_m01_003: 그러고 보니 지난번 브리기트 왕과의 시합,\n훌륭했다.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_004: 그러고 보니 지난번 브리기트 왕과의 시합,\n훌륭했습니다.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_005: 무예가 상당하더군.\n관객석에서 잘 봤다.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_006: 폐하의 뛰어난 무예는\n관객석에서 잘 보았습니다.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_007: 역시 너도 그분께서\n인정하신 전사 중 한 명……
+MID_LGV_Scout_Negotiation_SP_Gat_m01_008: 역시 폐하도 그분께서\n인정하신 전사 중 한 명……
+MID_LGV_Scout_Negotiation_SP_Gat_m01_009: ……아, 그냥 혼잣말이니\n신경 쓰지 마라.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_010: ……이런, 실례했군요.\n방금 건 혼잣말이니 신경 쓰지 않으셔도 됩니다.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_011: 그 시합 이후로 너에게 흥미가 생겼다.\n가능하면 옆에서 지켜보고 싶다는 생각까지 들더군.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_012: 그 시합 이후로 폐하를 보는 눈이 달라졌습니다.\n더 가까이서 지켜보고 싶다는 생각까지 들더군요……
+MID_LGV_Scout_Negotiation_SP_Gat_m01_013: 네가 내 힘을 필요로 한다면\n더 바랄 게 없지. 기꺼이 응하겠다.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_014: 폐하께서 제 힘을 필요로 하신다면\n더 바랄 게 없지요. 기꺼이 응하겠습니다.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_015: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Gat_m01_016: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Gat_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Gat_m02_001: 그럼 잘 부탁하지.\n너와 함께 싸울 수 있어서 기쁘군.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_002: 그럼 잘 부탁드립니다.\n폐하와 함께 싸울 수 있어서 기쁘군요.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_003: 단, 이래 봬도 꽤 바쁜 몸이라
+MID_LGV_Scout_Negotiation_SP_Gat_m02_004: 다만, 저도\n이것저것 할 일이 많기에
+MID_LGV_Scout_Negotiation_SP_Gat_m02_005: 급한 용무로 갑자기 불려 가는 일이\n없을 거라고는 단언할 수 없지만……
+MID_LGV_Scout_Negotiation_SP_Gat_m02_006: 급한 용무 때문에 갑자기 사라지는 일이\n없을 거라고는 단언할 수 없습니다.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_007: 뭐, 그건 그때 가서 생각할까.\n그 전까지는 문제없을 거다.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_008: 죄송하지만 그때는 부디 양해해 주십시오.
+MID_LGV_Scout_Negotiation_SP_Gat_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Gat_m03_001: 그만두는 건가. 그것도 나쁘지는 않겠지.\n조금 아쉽기는 하지만 말이야.
+MID_LGV_Scout_Negotiation_SP_Gat_m03_002: 다시 생각해 보시겠습니까? 아쉽군요.\n뜻대로 하시지요……
+MID_LGV_Scout_Negotiation_SP_Urs_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m01_001: 음…… 다시 말해\n저와 계약을 맺고 싶다는 말씀이신가요?
+MID_LGV_Scout_Negotiation_SP_Urs_m01_002: ……마침 대검투제도 끝나서 상회가 처리해야 할\n긴급한 안건은 없는 상태입니다.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_003: 이 이야기는……\n긍정적으로 검토해 보도록 하죠.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_004: 계약 전에…… 몇 가지 확인하고 싶은\n조건이 있습니다.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_005: 이래 봬도 저는 반달 상회에서\n상당히 책임이 막중한 위치에 있죠.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_006: 만약 상회에 긴급 상황이 발생한 경우에는\n이탈할 수도 있는데 괜찮으신가요?
+MID_LGV_Scout_Negotiation_SP_Urs_m01_007: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Urs_m01_008: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Urs_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m02_001: 그때 제 이탈로 인해 손해를 입는다 하더라도\n보상해 드릴 수 없는데 그래도 괜찮으신가요?
+MID_LGV_Scout_Negotiation_SP_Urs_m02_002: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Urs_m02_003: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Urs_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m03_001: 제가 동료가 된다고 해서 반달 상회가\n뭔가 편의를 봐주거나 하는 일은 없습니다.
+MID_LGV_Scout_Negotiation_SP_Urs_m03_002: 또한, 최고 지배인인 타리문에게 당신들에 대한\n보고를 할 생각인데 그래도 괜찮으신가요?
+MID_LGV_Scout_Negotiation_SP_Urs_m03_003: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Urs_m03_004: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Urs_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m04_001: ……안 그래도 최근에 타리문과\n당신을 감시할 필요성에 대해 상담했는데
+MID_LGV_Scout_Negotiation_SP_Urs_m04_002: 마침 잘됐네요.\n좋은 타이밍에 제안을 해 주셨군요……
+MID_LGV_Scout_Negotiation_SP_Urs_m04_003: ……아, 혼잣말이니\n신경 쓰지 않으셔도 돼요.
+MID_LGV_Scout_Negotiation_SP_Urs_m04_004: 감사합니다.\n확인한 내용은 나중에 서면으로 작성해서 드릴게요.
+MID_LGV_Scout_Negotiation_SP_Urs_m04_005: 이로써 계약이 완료되었습니다. 이제부터 저는\n당신의 동료예요…… 앞으로 잘 부탁드립니다.
+MID_LGV_Scout_Negotiation_SP_No_Urs_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Urs_m05_001: 아쉽네요……\n그럼 이 이야기는 없던 걸로 하죠.
+MID_LGV_Scout_Negotiation_SP_Die_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Die_m01_001: 흠…… 다시 말해\n나보고 동료가 되라는 건가?
+MID_LGV_Scout_Negotiation_SP_Die_m01_002: ………………뭐,\n그것도 나쁘지는 않겠군.
+MID_LGV_Scout_Negotiation_SP_Die_m01_003: 얼마 전까지만 해도\n잠시라도 오르헬의 곁을 떠날 생각이 없었다.
+MID_LGV_Scout_Negotiation_SP_Die_m01_004: ……하지만 요즘 들어\n내 힘이 부족하다는 걸 뼈저리게 느끼고 있지.
+MID_LGV_Scout_Negotiation_SP_Die_m01_005: 적도 아군도 인간을 초월한 녀석들뿐……\n이대로라면 난 점점 뒤처질 거야.
+MID_LGV_Scout_Negotiation_SP_Die_m01_006: ……그래서는 안 돼.\n나에게는 더 큰 힘이 필요해……!
+MID_LGV_Scout_Negotiation_SP_Die_m01_007: 대검투제 시합과 지난번 일을 통해\n네 실력은 충분히 알았다.
+MID_LGV_Scout_Negotiation_SP_Die_m01_008: 대검투제 시합과 지난번 일을 통해\n당신의 실력은 충분히 알았다.
+MID_LGV_Scout_Negotiation_SP_Die_m01_009: 너와 함께 다니다 보면\n새로운 힘을 얻을 수 있을지도 모르지.
+MID_LGV_Scout_Negotiation_SP_Die_m01_010: 당신과 함께 다니다 보면\n새로운 힘을 얻을 수 있을지도 모르지.
+MID_LGV_Scout_Negotiation_SP_Die_m01_011: ……하지만 너와 같이 행동하더라도\n내 마음은 항상 오르헬 곁에 있을 거다.
+MID_LGV_Scout_Negotiation_SP_Die_m01_012: ……하지만 당신과 같이 행동하더라도\n내 마음은 항상 오르헬 곁에 있을 거다.
+MID_LGV_Scout_Negotiation_SP_Die_m01_013: 그래도 괜찮다면\n동료가 되어 주겠어.
+MID_LGV_Scout_Negotiation_SP_Die_m01_014: <ICA>예
+MID_LGV_Scout_Negotiation_SP_Die_m01_015: <ICB>아니요
+MID_LGV_Scout_Negotiation_SP_Die_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Die_m02_001: ……당분간 네 옆에서\n자신을 다잡아 볼 생각이야.
+MID_LGV_Scout_Negotiation_SP_Die_m02_002: ……당분간 당신 옆에서\n자신을 다잡아 볼 생각이야.
+MID_LGV_Scout_Negotiation_SP_Die_m02_003: 그것이 결국 오르헬을\n지키는 데 도움이 될 거라…… 믿는다.
+MID_LGV_Scout_Negotiation_SP_Die_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Die_m03_001: ……뭐야, 관두는 건가?\n나야 상관없다만.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_001: 어?\n함께 싸워 달라고?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_002: 네?\n함께 싸워 달라고요?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_003: 음, 당신이 도와준 덕분에\n마을 사람들을 어떻게든 탈출시킬 수 있었고……
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_004: 음…… 당신이 도와주신 덕분에\n마을 사람들을 어떻게든 탈출시킬 수 있었고……
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_005: 나도 아나톨리아의 수호자로서\n중요한 역할을 무사히 완수할 수 있었지.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_006: 저도 아나톨리아의 수호자로서\n중요한 역할을 무사히 완수할 수 있었죠.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_007: 그에 대한 보답으로 제안을 받아들일게.\n……단, 조건이 있어.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_008: 그에 대한 보답으로 제안을 받아들일게요.\n……단, 조건이 있어요.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_009: 날 동료로 삼고 싶다면\n지금부터 내는 문제에 대답해 줘.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_010: 절 동료로 삼고 싶으시다면\n지금부터 내는 문제에 대답해 주세요.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_011: 사실 장래에 하고 싶은 일이 있어서……\n세상에 대해 더 많이 배우고 싶거든.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_012: 사실 장래에 하고 싶은 일이 있어서……\n세상에 대해 더 많이 배우고 싶거든요.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_013: 당신을 따라가면 배울 점이 있을지,\n그 지식을 확인해 보고 싶어. 괜찮을까?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_014: 당신과 함께하면 배울 점이 있을지,\n그 지식을 확인해 보고 싶어요. 괜찮을까요?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_015: <ICA>알겠다
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_016: <ICB>거절하겠다
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Sar_m01_001: 어머, 그렇구나……\n아쉽네…… 그럼 또 봐.
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Sar_m01_002: 어머, 그렇군요……\n아쉽네요…… 그럼 또 봬요.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_001: 우후후. 그럼 바로 시작할게.\n첫 번째 문제!
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_002: 우후후. 그럼 바로 시작할게요.\n첫 번째 문제!
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_003: 「해양 도시 알렉토」는 전 세계의 항구와 교역하는\n대단한 도시라지?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_004: 「해양 도시 알렉토」는 전 세계의 항구와 교역하는\n대단한 도시라죠?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_005: 꼭 한번 가 보고 싶은데……\n알렉토는 어느 나라에 있는 도시일까?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_006: 꼭 한번 가 보고 싶은데……\n알렉토는 어느 나라에 있는 도시일까요?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_007: <ICA>다그다 제국
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_008: <ICB>아라고 왕국
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_009: <ICC>살라미스 왕국
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_001: 정답이야!\n뭐, 이 정도는 당연히 알겠지.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_002: 정답이에요!\n후후, 이 정도는 당연히 아시겠죠.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_003: 너무 쉬웠나?\n그럼…… 두 번째 문제!
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_004: 너무 쉬웠나요?\n그럼…… 두 번째 문제!
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_005: 다그다의 땅 어딘가에 아주 좋은 품질의\n무기를 만드는 마을이 있는 거 알아?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_006: 다그다의 땅 어딘가에 아주 좋은 품질의\n무기를 만드는 마을이 있는 거 아세요?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_007: 무기의 이름에는 마을 이름이 들어가 있는데……\n이 마을은 어디일까?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_008: 무기의 이름에는 마을 이름이 들어가 있는데……\n이 마을은 어디일까요?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_009: <ICA>다 미나
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_010: <ICB>칼리아네이라
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_011: <ICC>판도라
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_001: 정답이야!\n혹시 이것도 쉬웠나?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_002: 정답이에요!\n혹시 이것도 쉬웠나요?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_003: 제법이네.\n그럼…… 마지막 문제!
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_004: 제법이네요.\n그럼…… 마지막 문제!
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_005: 동쪽에 있는 블랑의 문 근처에 가 본 적 있어?\n그곳의 암초 가까이에 뭐가 있는지 알아?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_006: 동쪽에 있는 블랑의 문 근처에 가 본 적 있으세요?\n그곳의 암초 가까이에 뭐가 있는지 아시나요?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_007: 매우 거대하고, 안에는 많은 보물이\n잠들어 있다는데…… 그게 뭘까?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_008: 매우 거대하고, 안에는 많은 보물이\n잠들어 있다는데…… 그게 뭘까요?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_009: <ICA>유리 산
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_010: <ICB>좌초된 대형 선박
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_011: <ICC>하늘을 찌를 듯한 탑
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_001: 정답! 완벽하네.\n이 정도면 많은 것을 배울 수 있겠어.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_002: 정답! 완벽하네요.\n이 정도면 많은 것을 배울 수 있겠어요.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_003: 합격이야. 약속대로\n당신들과 함께 싸워 줄게.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_004: 합격이에요. 약속대로\n당신들과 함께 싸워 드릴게요.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_005: 물론 아나톨리아가 걱정되기는 하지만\n이 경험은 분명 그 아이를 지키는 데 도움이 되겠지.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_006: 물론 아나톨리아가 걱정되기는 하지만\n이 경험은 분명 그 아이를 지키는 데 도움이 되겠죠.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_007: 후후…… 내 기대를 저버리면 안 돼!\n그럼 앞으로 잘 부탁해!
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_008: 후후…… 제 기대를 저버리시면 안 돼요!\n그럼 앞으로 잘 부탁드려요!
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_001: 어머, 바보네……\n그럴 리가 없잖아.
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_002: 땡!\n틀렸어요……
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_003: ……기대가 컸는데\n내가 잘못 생각한 것 같네.
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_004: ……기대가 컸는데\n제가 잘못 생각한 것 같네요……
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_005: 더 공부하고 와.\n그럼 안녕.
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_006: 기회가 되면 또 부탁드려요.\n그럼 안녕히 가세요.

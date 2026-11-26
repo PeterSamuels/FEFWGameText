@@ -1,0 +1,1803 @@
+﻿MID_LGV_Scout_Confirm: Demander à {Variable=0} de se joindre à vous ?
+MID_LGV_Scout_Terms_Confirm_m01: <TH>
+MID_LGV_Scout_Terms_Confirm_m01_001: <DLG>{CapitalizeNextLetter}{Variable=0} veut quelque chose en retour.\nVoulez-vous le lui donner ?
+MID_LGV_Scout_Pet_m01: <TH>
+MID_LGV_Scout_Pet_m01_001: Hmm, bonjour. On peut parler ?
+MID_LGV_Scout_Pet_m01_002: Je crois que je pourrais vraiment être utile.\nEnfin, je veux dire, si je faisais partie de\nvotre équipe. Je veux devenir super fort !
+MID_LGV_Scout_Pet_m01_003: Mais j'imagine que ce sera non,\nmême si je peux vraiment servir à quelque chose...
+MID_LGV_Scout_Pet_m02: <TH>
+MID_LGV_Scout_Pet_m02_001: Ouah ! J'y crois pas !
+MID_LGV_Scout_Pet_m02_002: Je suis super content d'avoir osé m'exprimer !\nC'est tellement chouette !
+MID_LGV_Scout_Pet_m03: <TH>
+MID_LGV_Scout_Pet_m03_001: Je comprends... Bon, si la situation change,\nje suis là.
+MID_LGV_Scout_Pet_m04: <TH>
+MID_LGV_Scout_Pet_m04_001: Quoi ?! Me recruter ? Mais pourquoi ?\nEn quoi je serais bon ?
+MID_LGV_Scout_Pet_m04_002: Je suis content, mais je crois pas que je serais\nun bon élément. C'est peut-être pas une bonne\nidée, désolé.
+MID_LGV_Scout_Pet_m05: <TH>
+MID_LGV_Scout_Pet_m05_001: Quoi ?! Me recruter ?
+MID_LGV_Scout_Pet_m05_002: Mais, je suis l'ami de Cai. J'ai fait tout\nle trajet depuis Ribeira pour l'aider, lui.
+MID_LGV_Scout_Pet_m05_003: Et je veux pas abandonner Tialla non plus.\nMême si elle...
+MID_LGV_Scout_Pet_m05_004: Enfin bref, pourquoi est-ce que j'irais dans\ncette équipe ?
+MID_LGV_Scout_Pet_m05_005: Pour me recruter, il faudrait me rendre\nun service.
+MID_LGV_Scout_Pet_m05_006: Y a quelque chose que j'ai toujours voulu goûter...\nDu {LowercaseNextLetter}Ginji rarissime. C'est pas très connu.
+MID_LGV_Scout_Pet_m05_007: Ce sont des fruits rares donc c'est compliqué d'en\ntrouver, mais il paraît que c'est super bon.
+MID_LGV_Scout_Pet_m05_008: Peut-être bien que je rejoindrais l'équipe de celui\nou celle qui m'en apporterait. Mais c'est sûrement\nimpossible d'en trouver...
+MID_LGV_Scout_Pet_m06: <TH>
+MID_LGV_Scout_Pet_m06_001: Ouah ! Mais non ! Un {LowercaseNextLetter}Ginji rarissime !
+MID_LGV_Scout_Pet_m06_002: Alors, ça a été super dur à dénicher ?
+MID_LGV_Scout_Pet_m06_003: Arf... Je pensais vraiment que ce serait impossible.
+MID_LGV_Scout_Pet_m06_004: J'ai jamais quitté mes amis Cai et Tialla.\nMais on avait un marché, alors c'est décidé !
+MID_LGV_Scout_Pet_m06_005: Bon, moi c'est Peter, et je suis pas trop mauvais pour\nle tir à l'arc. J'ai hâte de voir ce qu'on pourra\nfaire dans notre équipe !
+MID_LGV_Scout_Hur_m01: <TH>
+MID_LGV_Scout_Hur_m01_001: Bonjour. Je voudrais qu'on parle de quelque\nchose, si je ne dérange pas.
+MID_LGV_Scout_Hur_m01_002: Bonjour. Excusez-moi, mais il y a quelque\nchose que j'aimerais aborder avec vous.
+MID_LGV_Scout_Hur_m01_003: Je m'intéresse à votre équipe depuis un certain\ntemps. Je pense que j'y apprendrais beaucoup.
+MID_LGV_Scout_Hur_m01_004: Je pense que je pourrais en apprendre beaucoup dans\nvotre équipe, en espérant que cela vous intéresse.
+MID_LGV_Scout_Hur_m01_005: Au risque de paraître cavalière, j'aimerais\nla rejoindre.
+MID_LGV_Scout_Hur_m01_006: Sans vouloir vous forcer la main, j'espère\nque vous me laisserez être des vôtres.
+MID_LGV_Scout_Hur_m02: <TH>
+MID_LGV_Scout_Hur_m02_001: Parfait ! Alors, c'est décidé. C'est merveilleux de faire\npartie d'une équipe !
+MID_LGV_Scout_Hur_m02_002: Merci ! Je suis soulagée de savoir que je pourrai\nfaire avancer votre cause.
+MID_LGV_Scout_Hur_m02_003: Je m'appelle Ultand Serowain. Je ferai tout\nce qu'il faut pour me rendre utile.
+MID_LGV_Scout_Hur_m02_004: Ultand Serowain, à votre service !
+MID_LGV_Scout_Hur_m03: <TH>
+MID_LGV_Scout_Hur_m03_001: Pas de souci. Si j'ai été brusque, je m'en excuse.\nJ'espère avoir une deuxième chance.
+MID_LGV_Scout_Hur_m03_002: Je comprends. Je m'excuse de vous avoir dérangée.\nMais je vous en prie, comptez sur moi si jamais\nvous en avez besoin.
+MID_LGV_Scout_Hur_m04: <TH>
+MID_LGV_Scout_Hur_m04_001: Moi, rejoindre cette équipe ? Hmm...
+MID_LGV_Scout_Hur_m04_002: Vous m'invitez à me joindre à vous ? Hmm...
+MID_LGV_Scout_Hur_m04_003: Je ne sais pas. Je suis très occupée en ce moment.\nJe ne serais pas d'une grande aide. Désolée.
+MID_LGV_Scout_Hur_m04_004: Je suis désolée, mais j'ai d'autres devoirs à accomplir.\nJe ne peux pas vous venir en aide en ce moment.
+MID_LGV_Scout_Hur_m05: <TH>
+MID_LGV_Scout_Hur_m05_001: Que je me joigne à votre équipe ?\nVoilà qui me va droit au cœur...
+MID_LGV_Scout_Hur_m05_002: Vous voulez que je me joigne à votre équipe ?\nC'est un honneur...
+MID_LGV_Scout_Hur_m05_003: Mais je suis déjà avec les jeunes des Vents\nde Ribeira.
+MID_LGV_Scout_Hur_m05_004: Mais je suis déjà avec les jeunes des Vents\nde Ribeira.
+MID_LGV_Scout_Hur_m05_005: Et puis, j'ai eu mon lot de problèmes personnels\ndernièrement, alors j'ai un peu la tête ailleurs.
+MID_LGV_Scout_Hur_m05_006: Et j'ai de nombreux autres problèmes dans ma vie\nen ce moment, alors c'est un peu compliqué pour moi\nde m'engager.
+MID_LGV_Scout_Hur_m05_007: Mais j'ai en face de moi quelqu'un qui a\nbesoin de mes forces, alors... j'écoute.\nC'est le moins que je puisse faire.
+MID_LGV_Scout_Hur_m05_008: Mais puisque vous avez vraiment besoin\nde mes forces, je devrais au moins vous écouter.
+MID_LGV_Scout_Hur_m05_009: Cependant, j'ai d'abord un problème à résoudre\net pour ça, j'aurais besoin qu'on m'aide.
+MID_LGV_Scout_Hur_m05_010: Cependant, j'ai d'abord un problème à résoudre,\net je pense que vous en êtes capable.
+MID_LGV_Scout_Hur_m05_011: Ma mère doit travailler loin d'ici, et elle nous a\nenvoyé un paquet, à mes petits frères et moi...
+MID_LGV_Scout_Hur_m05_012: Ma mère travaille loin d'ici, voyez-vous ? Et elle nous\na envoyé un paquet, à mes petits frères et moi...
+MID_LGV_Scout_Hur_m05_013: Mais des bandits ont volé les cadeaux avant\nqu'on les reçoive.
+MID_LGV_Scout_Hur_m05_014: Mais des bandits ont volé les cadeaux avant\nqu'on les reçoive.
+MID_LGV_Scout_Hur_m05_015: Les bandits ont été arrêtés, mais ils avaient déjà\ntout caché dans leur forteresse secrète.
+MID_LGV_Scout_Hur_m05_016: Les bandits ont été appréhendés, mais ils avaient\ndéjà caché leur butin dans leur forteresse secrète.
+MID_LGV_Scout_Hur_m05_017: Je rejoindrai l'équipe de quiconque me rapportera\nce paquet volé. Marché conclu ?
+MID_LGV_Scout_Hur_m05_018: Si vous pouvez me retrouver le paquet, je rejoindrai\nvotre équipe.
+MID_LGV_Scout_Hur_m06: <TH>
+MID_LGV_Scout_Hur_m06_001: C'est le paquet ? Super ! Merci beaucoup !
+MID_LGV_Scout_Hur_m06_002: Vous avez trouvé le paquet ? C'est formidable !\nMerci beaucoup !
+MID_LGV_Scout_Hur_m06_003: Il y a des habits, des jouets en bois sculptés...\nrien que l'on pourrait qualifier d'objet de valeur.
+MID_LGV_Scout_Hur_m06_004: Il y a des habits, des jouets en bois sculptés...\nrien que l'on pourrait qualifier d'objet de valeur.
+MID_LGV_Scout_Hur_m06_005: Mais ils viennent de notre mère. Elle est loin d'ici,\nn'a quasiment pas d'argent... et pourtant, elle pense\ntoujours à nous.
+MID_LGV_Scout_Hur_m06_006: Mais ils viennent de notre mère. Elle est loin d'ici,\nn'a quasiment pas d'argent... et pourtant, elle pense\ntoujours à nous.
+MID_LGV_Scout_Hur_m06_007: Je... Non. Ma famille a à présent une dette.\nEt je compte bien la payer.
+MID_LGV_Scout_Hur_m06_008: J'ai... Non. Ma famille tout entière a une dette\nenvers vous ! Et je compte bien la payer.
+MID_LGV_Scout_Hur_m06_009: Il y aura forcément un impact sur mon amitié\navec Cai et les autres, mais ce sont de braves\nenfants. Ils vont s'en sortir, pas vrai ?
+MID_LGV_Scout_Hur_m06_010: Il y aura forcément un impact sur mon amitié\navec Cai et les autres, mais ce sont de braves\nenfants. Ils s'en sortiront, pas vrai ?
+MID_LGV_Scout_Hur_m06_011: Je m'appelle Ultand Serowain, et nous nous\nbattrons désormais côte à côte !
+MID_LGV_Scout_Hur_m06_012: Ultand Serowain, à vos ordres à partir d'aujourd'hui.\nJ'espère que je pourrai vous être utile.
+MID_LGV_Scout_Max_m01: <TH>
+MID_LGV_Scout_Max_m01_001: Tu veux faire équipe avec le Clown Infernal, hein ?\nMais c'est que t'as du cran, dis donc !
+MID_LGV_Scout_Max_m01_002: Tu sais, faut pas me faire confiance.\nJe pourrais bien te poignarder dans le dos.
+MID_LGV_Scout_Max_m02: <TH>
+MID_LGV_Scout_Max_m02_001: Hé hé hé ! Tu m'as voulu, ben tu m'as,\nmaintenant !
+MID_LGV_Scout_Max_m02_002: On va verser une bonne grosse mare de sang...\net on ira patauger dedans !
+MID_LGV_Scout_Max_m03: <TH>
+MID_LGV_Scout_Max_m03_001: Hé hé hé... Quoi ? T'as peur de moi ?\nEh bah t'as bien raison !
+MID_LGV_Scout_Max_m04: <TH>
+MID_LGV_Scout_Max_m04_001: Hé hé hé. C'est une bonne idée de vouloir\nle Clown Infernal dans ton équipe.
+MID_LGV_Scout_Max_m04_002: Pour la peine, je vais rien te faire. Mais si t'as\nenvie de te faire couper en petits morceaux,\nj'suis ton homme.
+MID_LGV_Scout_Max_m05: <TH>
+MID_LGV_Scout_Max_m05_001: Tu veux faire équipe avec le Clown Infernal,\nhein ? Faut avoir du courage pour ça, dis donc.
+MID_LGV_Scout_Max_m05_002: Faut savoir que je suis d'humeur changeante.\nAujourd'hui je peux rejoindre ton côté,\net finir par te planter demain.
+MID_LGV_Scout_Max_m05_003: Alors tu veux vraiment de moi ? Hé hé hé !\nÇa me plaît.
+MID_LGV_Scout_Max_m05_004: Tu sais, autant je peux sniffer la mort sur\nBertrand, autant sur toi... Je la sens pas du tout.
+MID_LGV_Scout_Max_m05_005: Alors c'est pas bien parti pour ta cause.\nAprès, suffit de te salir un peu les mains...
+MID_LGV_Scout_Max_m05_006: Les Éventreurs de Bale, tu connais ? De la vermine\nqui s'terre dans la {LowercaseNextLetter}Plaine Dada, au sud de la capitale.
+MID_LGV_Scout_Max_m05_007: Des villageois sont allés les traquer, et ils ont fini\ndéchiquetés en petits morceaux.
+MID_LGV_Scout_Max_m05_008: Alors, si tu vas te battre contre ces tarés, p'têt' ben\nqu'je réfléchirai à rejoindre ta petite équipe.
+MID_LGV_Scout_Max_m06: <TH>
+MID_LGV_Scout_Max_m06_001: T'as battu les Éventreurs de Bale ? Ouah !\nT'es plus balèze que je croyais.
+MID_LGV_Scout_Max_m06_002: Après, si toi et ta p'tite bande, vous avez réussi\nà les battre, c'est qu'ils devaient pas être si forts.
+MID_LGV_Scout_Max_m06_003: Hé hé ! Je sens le sang sur toi, mais ça suffit pas.
+MID_LGV_Scout_Max_m07: <TH>
+MID_LGV_Scout_Max_m07_001: Pour capter mon attention, va falloir\nfaire crever un peu plus de monde.
+MID_LGV_Scout_Max_m07_002: Allez... va au {LowercaseNextLetter}Fort Theed. Là-bas, y a un groupe de\nbandits qu'on appelle les Charognes de Dunanzo.
+MID_LGV_Scout_Max_m07_005: Faudrait aller à la {LowercaseNextLetter}Mine de Valhalla.\nC'est là qu'il y a le groupe de bandits\nqu'on appelle les Charognes de Dunanzo.
+MID_LGV_Scout_Max_m07_003: Ils enlèvent les gens et leurs victimes reviennent\nplus jamais. Du coup, leur repaire est rempli\nde squelettes.
+MID_LGV_Scout_Max_m07_004: Va leur donner une raclée, et là, peut-être\nque j'rejoindrai ton équipe.
+MID_LGV_Scout_Max_m08: <TH>
+MID_LGV_Scout_Max_m08_001: Hein ? C'en est fini des Charognes de Dunanzo ?\nComment c'est possible ?
+MID_LGV_Scout_Max_m08_002: Alors voyons comment tu sens ? Hmm...\nOui, tu sens le cadavre, c'est pas mal.
+MID_LGV_Scout_Max_m08_003: Oh mais regarde-toi avec ton air tout fier\nde les avoir tués... Enfin va pas choper\nle melon, c'est pas fini !
+MID_LGV_Scout_Max_m09: <TH>
+MID_LGV_Scout_Max_m09_001: Les Malandrins des Limbes se terrent près\ndu {LowercaseNextLetter}Rocher des murmures. Terrasse-les,\npuis reviens me voir.
+MID_LGV_Scout_Max_m09_002: Cette bande, c'est le gratin des ordures.\nAu point qu'on les surnomme les livreurs des Limbes.
+MID_LGV_Scout_Max_m09_003: Alors si le but, c'est que je rejoigne ton équipe,\nt'as plus qu'à y aller... Par contre, si tu tiens à la vie,\ntu f'rais mieux de rester ici.
+MID_LGV_Scout_Max_m010: <TH>
+MID_LGV_Scout_Max_m010_001: T'as battu les Malandrins des Limbes ?\nT'as même pas l'air de raconter des craques, en plus !
+MID_LGV_Scout_Max_m010_002: {SetColor=Gray}Et moi qui voulais lui faire changer d'avis...{SetColor=Default}
+MID_LGV_Scout_Max_m010_003: {SetColor=Gray}On dirait que je vais devoir l'aider... Je me sens\nmal pour Bertrand.{SetColor=Default}
+MID_LGV_Scout_Max_m010_004: Hé hé hé ! T'as nagé dans une mare de sang,\nescaladé une montagne de cadavres...\net même visité les Limbes !
+MID_LGV_Scout_Max_m010_005: Et maintenant que je suis avec toi, tu vas avoir\ndroit à un p'tit aperçu de l'enfer.
+MID_LGV_Scout_Max_m010_006: Alors, tu regrettes déjà ? Hé hé hé !
+MID_LGV_Scout_Gol_m01: <TH>
+MID_LGV_Scout_Gol_m01_001: Hé ! J'ai une question. J'pourrais aller\ndans votre équipe ?
+MID_LGV_Scout_Gol_m01_002: Hé, Cai ! Encore à plancher, hein ? Hé hé...\nT'es vraiment un bosseur... c'est pour ça\nque tu m'as battu !
+MID_LGV_Scout_Gol_m01_003: Ça fait un bail que je file des coups dans l'arène,\nalors je veux connaître les combattants\ndepuis l'extérieur.
+MID_LGV_Scout_Gol_m01_004: Tu sais, c'est bizarre... J'ai envie de\nte filer un coup de main.
+MID_LGV_Scout_Gol_m01_005: Mais bon, si c'est non, je m'en remettrai.
+MID_LGV_Scout_Gol_m01_006: T'en dis quoi ? Tu veux avoir le Boucher\nde ton côté ?
+MID_LGV_Scout_Gol_m02: <TH>
+MID_LGV_Scout_Gol_m02_001: Sérieux ? Ouah, merci !
+MID_LGV_Scout_Gol_m02_002: Bahaha. Je savais que t'allais dire ça !
+MID_LGV_Scout_Gol_m02_003: Peu importe qui viendra se frotter à nous,\nje vais tous les faire bouffer la terre !
+MID_LGV_Scout_Gol_m03: <TH>
+MID_LGV_Scout_Gol_m03_001: Oh, ouais. OK. Bon, bah désolé pour\nla perte de temps.
+MID_LGV_Scout_Gol_m03_002: Logique... t'es déjà bien assez fort tout seul.\nBon, si jamais t'as besoin de quelque chose,\ntu me fais signe.
+MID_LGV_Scout_Gol_m04: <TH>
+MID_LGV_Scout_Gol_m04_002: Hein ? Que j'intègre cette équipe ?
+MID_LGV_Scout_Gol_m04_003: Ooh, me dis pas que tu cherches quelqu'un pour être\ndans ton équipe !
+MID_LGV_Scout_Gol_m04_004: Bahaha ! Faut des tripes pour me demander ça.\nJe vais être gentil et tout le monde pourra\nrepartir en un seul morceau.
+MID_LGV_Scout_Gol_m04_005: Je demande qu'à t'aider, sauf que je dois rester\navec Bertrand. C'est mon frérot !
+MID_LGV_Scout_Gol_m05: <TH>
+MID_LGV_Scout_Gol_m05_001: Moi, intégrer cette équipe ? Faut pas manquer\nde courage pour me demander un truc pareil.
+MID_LGV_Scout_Gol_m05_002: Cai, tu t'arrêtes jamais ! T'es venu me demander\nd'aller dans ton équipe ?
+MID_LGV_Scout_Gol_m05_003: La plupart des gens veulent même pas me parler.\nSuffit qu'ils voient ma trogne et ils se barrent\nen courant.
+MID_LGV_Scout_Gol_m05_004: Je f'rais mieux de rester avec Bertrand. C'est mon\nfrère, quoi. Sauf que je veux te soutenir aussi...
+MID_LGV_Scout_Gol_m05_005: Bon, comme j'suis en face de quelqu'un qu'a des\ntripes, j'ai une proposition. Avec tous ces combats,\nj'ai une faim d'ogre.
+MID_LGV_Scout_Gol_m05_006: Tu sais quoi ? Je vais te faire une offre. J'ai vraiment\nune faim d'ogre.
+MID_LGV_Scout_Gol_m05_007: La bouffe qu'ils nous donnent à Bertrand et moi\ndans l'arène, ben elle fait pas l'affaire.
+MID_LGV_Scout_Gol_m05_008: Les derniers combats étaient vraiment durs,\net la bouffe dans l'arène fait juste pas l'affaire.
+MID_LGV_Scout_Gol_m05_009: Si je peux avoir une montagne de viande,\nje réfléchirai peut-être à intégrer une équipe !\nBahaha !
+MID_LGV_Scout_Gol_m06: <TH>
+MID_LGV_Scout_Gol_m06_001: Quoi ?! Y a tant de plats si bons !
+MID_LGV_Scout_Gol_m06_002: Et c'est vraiment tout pour moi ?! Ouah...\nBon, je l'avais promis.
+MID_LGV_Scout_Gol_m06_003: Je veux pas laisser Bertrand en plan, mais je vais\nfiler un coup de main à cette équipe.
+MID_LGV_Scout_Gol_m06_004: Je veux pas laisser Bertrand en plan,\nmais je vais te filer un coup de main.
+MID_LGV_Scout_Gol_m06_005: Je suis des vôtres, maintenant. Peu importe qui va\nnous chercher des noises, je vais leur faire pleurer\nleur mère.
+MID_LGV_Scout_Gol_m07: <TH>
+MID_LGV_Scout_Gol_m07_001: Bahaha ! On se dégonfle ? Je comprends.
+MID_LGV_Scout_Gol_m07_002: Oh, je comprends ! Vous êtes déjà assez balèzes\nsans moi. Si jamais t'as besoin d'aide, tu m'appelles.
+MID_LGV_Scout_Gol_m08: <TH>
+MID_LGV_Scout_Gol_m08_001: Quoi ? Elle est où, la viande que j'avais demandée ?!\nJe vais péter un câble.
+MID_LGV_Scout_Gol_m08_002: Bahaha ! Tu m'as eu. Pas grave, si t'avais\nla viande, je serais un peu coincé.
+MID_LGV_Scout_Dan_m01: <TH>
+MID_LGV_Scout_Dan_m01_001: Y a-t-il quelque chose qui manque dans votre équipe,\nsans que vous puissiez déterminer de quoi il s'agit ?
+MID_LGV_Scout_Dan_m01_002: J'ai une faveur à vous demander, Votre Majesté.\nMe laisseriez-vous me joindre à votre équipe ?
+MID_LGV_Scout_Dan_m01_003: Eh bien, j'ai la réponse à cette question ! Il manque\nune dramaturge ! Autrement dit... moi !
+MID_LGV_Scout_Dan_m01_004: J'ai du flair pour les sujets intéressants, et je dois\navouer que vous êtes quelqu'un de prometteur.
+MID_LGV_Scout_Dan_m01_005: Il faudrait bien des pages pour expliquer ma valeur\nen détail, mais je sais qu'à terme, celle-ci\napparaîtra comme une évidence !
+MID_LGV_Scout_Dan_m01_006: Bien évidemment, je vous accompagnerai également\ndans les combats à venir ! Croyez-moi, je serai\npour vous un atout.
+MID_LGV_Scout_Dan_m02: <TH>
+MID_LGV_Scout_Dan_m02_001: Voilà une décision que je ne peux que saluer !\nJe suis certaine que Kalla, la Mécène Chasseresse,\nbénira cette équipe qu'est la nôtre.
+MID_LGV_Scout_Dan_m02_002: Ha ha ha ! Je vous remercie. Dorénavant, je serai\nà vos côtés.
+MID_LGV_Scout_Dan_m02_003: J'ai hâte de voir où nous mènera notre quête\nde nouveaux royaumes narratifs !
+MID_LGV_Scout_Dan_m02_004: J'ai hâte de chercher de nouveaux royaumes\nnarratifs en votre compagnie, Votre Majesté !
+MID_LGV_Scout_Dan_m03: <TH>
+MID_LGV_Scout_Dan_m03_001: Non ?! Voilà une décision ridicule\nqu'on ne saurait que regretter !
+MID_LGV_Scout_Dan_m03_002: Vous ferez donc sans moi ? Hélas... je ne peux\nque pleurer le chef-d'œuvre qui aurait pu voir le jour.
+MID_LGV_Scout_Dan_m04: <TH>
+MID_LGV_Scout_Dan_m04_001: Je recherche toujours des gens remarquables... des\npersonnages qui méritent d'avoir leurs propres récits.
+MID_LGV_Scout_Dan_m04_002: Je recherche toujours des gens remarquables... des\npersonnages qui méritent d'avoir leurs propres récits.
+MID_LGV_Scout_Dan_m04_003: J'ai bien peur de ne pas avoir cette personne\nen face de moi. Mais je ne demande qu'à\nêtre détrompée. Et là, on pourra reparler.
+MID_LGV_Scout_Dan_m04_004: Vous êtes peut-être remarquable... mais je ne\npense pas que l'on puisse écrire un livre entier\navec votre histoire.
+MID_LGV_Scout_Dan_m05: <TH>
+MID_LGV_Scout_Dan_m05_001: Alors comme ça, on est intéressé par mes services ?\nCet intérêt est réciproque !
+MID_LGV_Scout_Dan_m05_002: Alors comme ça, mes services suscitent votre\nintérêt ? Eh bien, vous m'intéressez, vous aussi !
+MID_LGV_Scout_Dan_m05_003: Me voilà face à quelqu'un qui est doté de\ncette chose unique... Oui. C'est l'inimitable\nparfum de l'excellence.
+MID_LGV_Scout_Dan_m05_004: Vous avez cette chose unique... Oui. C'est\nl'inimitable parfum de l'excellence.
+MID_LGV_Scout_Dan_m05_005: En tant que plume de génie, je ne peux m'empêcher\nde suivre ce parfum afin de raconter cette histoire !
+MID_LGV_Scout_Dan_m05_006: En tant que plume de génie, je ne peux m'empêcher\nde suivre ce parfum afin de raconter votre histoire !
+MID_LGV_Scout_Dan_m05_007: Enfin... je suis en train d'effectuer des recherches\npour « L'Essor du Démon Chenu », mais je pourrais\nlibérer un peu de temps pour votre équipe.
+MID_LGV_Scout_Dan_m05_008: Je suis certes en train d'effectuer des recherches\npour « L'Essor du Démon Chenu », mais je pourrais\nlibérer un peu de temps pour me joindre à vous.
+MID_LGV_Scout_Dan_m05_009: Cela dit... une écrivaine de mon niveau ne travaille\npas gratuitement. Il faudrait couvrir mes dépenses.
+MID_LGV_Scout_Dan_m05_010: Cela dit... une écrivaine de mon niveau ne travaille\npas gratuitement. Il vous faudrait couvrir mes\ndépenses.
+MID_LGV_Scout_Dan_m06: <TH>
+MID_LGV_Scout_Dan_m06_001: Voilà une décision que je ne peux que saluer !\nJe suis certaine que Kalla, la Mécène Chasseresse,\nbénira cette équipe qu'est la nôtre.
+MID_LGV_Scout_Dan_m06_002: Ha ha ha ! Je vous remercie. Dorénavant, je serai\nà vos côtés.
+MID_LGV_Scout_Dan_m06_003: J'ai hâte de voir où nous mènera notre quête\nde nouveaux royaumes narratifs !
+MID_LGV_Scout_Dan_m06_004: J'ai hâte de chercher de nouveaux royaumes\nnarratifs en votre compagnie, Votre Majesté !
+MID_LGV_Scout_Dan_m07: <TH>
+MID_LGV_Scout_Dan_m07_001: C'est non ? Quel dommage. Le chef-d'œuvre\nque nous aurions pu créer ensemble ne verra\njamais le jour.
+MID_LGV_Scout_Dan_m07_002: Vous refusez ? C'est regrettable... Je crains\nque vous ne renonciez à la possibilité de créer\nun chef-d'œuvre.
+MID_LGV_Scout_Dan_m08: <TH>
+MID_LGV_Scout_Dan_m08_001: Oh, c'est embarrassant. Mes services nécessitent\nplus d'argent que ça. Enfin... une fois la somme\nréunie, il ne faut pas hésiter à revenir.
+MID_LGV_Scout_Dan_m08_002: On dirait que vous n'avez pas assez d'argent...\nJ'attendrai le temps qu'il faudra. Revenez quand\nvous aurez la somme nécessaire, je vous en prie.
+MID_LGV_Scout_Esm_m01: <TH>
+MID_LGV_Scout_Esm_m01_001: Hé, petite question. Est-ce que je pourrais\nrejoindre votre équipe ?
+MID_LGV_Scout_Esm_m01_002: Je veux me battre et devenir plus forte. Chaton\npréfère les personnes fortes.
+MID_LGV_Scout_Esm_m01_003: Si je suis avec vous, je devrais pouvoir\nperfectionner mes compétences. Je ferai\nde mon mieux !
+MID_LGV_Scout_Esm_m02: <TH>
+MID_LGV_Scout_Esm_m02_001: Vraiment ? Merci ! Comme je l'ai dit, je suis prête\nà me mettre au travail !
+MID_LGV_Scout_Esm_m02_002: Si j'ai l'air de venir d'un village de pêcheurs,\nc'est probablement parce que c'est le cas. Ça fait que\nje suis très forte et que je peux attraper le dîner !
+MID_LGV_Scout_Esm_m03: <TH>
+MID_LGV_Scout_Esm_m03_001: Ah mais zut ! Je veux vraiment devenir plus forte,\net je vais tout donner. Je suis là si le besoin\nse présente !
+MID_LGV_Scout_Esm_m04: <TH>
+MID_LGV_Scout_Esm_m04_001: Euh, quoi ? Moi ? Que je sois... dans\nvotre équipe ?
+MID_LGV_Scout_Esm_m04_002: Désolée, je suis dévouée à mon Chaton, un point\nc'est tout. Personne va m'en séparer.
+MID_LGV_Scout_Esm_m05: <TH>
+MID_LGV_Scout_Esm_m05_001: Me joindre à votre équipe ? Sérieusement ?
+MID_LGV_Scout_Esm_m05_002: Je suis dévouée à mon Chaton... Je veux dire,\nà Dietrich. Désolée, mais rien me fera changer\nd'avis.
+MID_LGV_Scout_Esm_m05_003: Ah, mais j'ai pas le droit de refuser, en fait ?\nJe suis flattée, je dois l'avouer.
+MID_LGV_Scout_Esm_m05_004: Je vois. Eh bien, je sais pas si c'est une bonne idée,\nmais cette équipe mérite sa chance.
+MID_LGV_Scout_Esm_m05_005: Mon village natal est un village de pêcheurs appelé\nFina. Il est plutôt chouette, même s'il n'y a pas\ngrand-chose à y faire.
+MID_LGV_Scout_Esm_m05_006: Tout près, il y a le {LowercaseNextLetter}Cap Damasen. Une colonie\nde monstres marins agressifs y réside.
+MID_LGV_Scout_Esm_m05_007: Aucun villageois ose s'approcher de cet endroit,\nalors ça leur rendrait service si quelqu'un\npouvait exterminer les monstres.
+MID_LGV_Scout_Esm_m05_008: Votre équipe a pas l'air très forte, mais\nje la rejoindrai si vous y arrivez.\nComment je pourrais refuser ?
+MID_LGV_Scout_Esm_m06: <TH>
+MID_LGV_Scout_Esm_m06_001: Les monstres marins sont exterminés ?\nJe m'attendais pas à grand-chose, mais...\nj'avoue que je suis impressionnée.
+MID_LGV_Scout_Esm_m06_002: On dirait qu'il y en a de plus en plus qui\nont décidé de s'y installer.
+MID_LGV_Scout_Esm_m06_003: Je m'inquiétais pour ma mère à Fina, mais je suppose\nque j'ai plus de soucis à me faire !
+MID_LGV_Scout_Esm_m06_004: Bon, j'ai compris. Votre équipe est forte et vous\navez tous fait ce qu'il fallait pour me le montrer.
+MID_LGV_Scout_Esm_m06_005: Mon cœur appartient qu'à mon Chaton, mais je serai\nravie qu'on combatte ensemble. C'est mérité !
+MID_LGV_Scout_Sim_m01: <TH>
+MID_LGV_Scout_Sim_m01_001: Bon, j'peux être utile ? Si y a un combat\nqui se profile, autant dire que j'en suis.
+MID_LGV_Scout_Sim_m01_002: Ce qui m'plaît tant sur le champ de bataille,\nc'est qu'il tient qu'à toi de gagner ou de perdre.
+MID_LGV_Scout_Sim_m01_003: Bon, alors ? Tant que c'est pas trop un sale boulot,\nje ferai tout ce qu'on me demande.
+MID_LGV_Scout_Sim_m02: <TH>
+MID_LGV_Scout_Sim_m02_001: OK, c'est parti. À partir de maintenant, je vais\ntoujours être là pour cette équipe.
+MID_LGV_Scout_Sim_m02_002: On va briser des crânes !
+MID_LGV_Scout_Sim_m03: <TH>
+MID_LGV_Scout_Sim_m03_001: Oh... Bon, je vais rester disponible, au cas où.\nSi jamais y a une pénurie parmi vos membres,\nje suis là.
+MID_LGV_Scout_Sim_m04: <TH>
+MID_LGV_Scout_Sim_m04_001: Bon, c'est vrai que c'est pas parce que je bosse\npour Talimun qu'on est mariés pour autant...
+MID_LGV_Scout_Sim_m04_002: Mais là ? Désolé, mais je crois que c'est plus\npalpitant de rester avec le patron. La prochaine\nfois, peut-être.
+MID_LGV_Scout_Sim_m04_003: Mais en ce moment ? Je crois que c'est plus\npalpitant de rester avec le patron. La prochaine\nfois, peut-être, Majesté.
+MID_LGV_Scout_Negotiation_SP_Sim_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Sim_m01_001: Alors moi, j'étais là à me demander quelle requête\nj'allais devoir me farcir... et en fait, c'est pour que\nje rejoigne une équipe.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_002: Bon, Talimun m'a engagé, mais ça veut pas\ndire que je suis marié au Consortium Vandahl.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_003: Et puis je suis un peu trop peinard au boulot\nen ce moment. Alors aller voir ailleurs pourrait\nm'apporter une bouffée d'adrénaline.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_004: Mais ce serait pas marrant si j'acceptais comme\nça, d'emblée. Alors on va faire un petit jeu...
+MID_LGV_Scout_Negotiation_SP_Sim_m01_005: Je vais lancer une pièce et il faudra deviner\nsi c'est pile ou face.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_006: Ça sera pas gratuit, bien sûr. Une tentative\ncoûtera... 500 écus. OK ?
+MID_LGV_Scout_Negotiation_SP_Sim_m01_007: <ICA>Lui dire que vous acceptez.
+MID_LGV_Scout_Negotiation_SP_Sim_m01_008: <ICB>Lui dire que ça ne vous intéresse pas.
+MID_LGV_Scout_Negotiation_SP_Sim_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Sim_m02_001: Super ! Allez, c'est parti !
+MID_LGV_Scout_Negotiation_SP_Sim_m02_002: OK. Et... on y va ! Alors, pile ou face ?
+MID_LGV_Scout_Negotiation_SP_Sim_m02_003: <ICA>Pile !
+MID_LGV_Scout_Negotiation_SP_Sim_m02_004: <ICB>Face !
+MID_LGV_Scout_Negotiation_SP_Sim_m02_005: <ACA>Aah... Dommage. Désolé, mais c'est face.\nLes 500 écus, c'est pour moi !
+MID_LGV_Scout_Negotiation_SP_Sim_m02_006: <ACA>On peut rejouer autant de fois qu'il faudra. Et pas\nla peine d'être timide. J'ai rien contre les sous...
+MID_LGV_Scout_Negotiation_SP_Sim_m02_007: <ACB>Oh oui ! C'est face ! C'est gagné.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_008: <ACB>Je sais pas si on doit cette victoire à la chance\nou à une très bonne vue ! En tout cas, me\nvoilà dans l'équipe !
+MID_LGV_Scout_Negotiation_SP_Sim_m02_009: <ACB>Tant que c'est pas trop un sale boulot, je vais\néliminer qui que ce soit... ou quoi que ce soit.\nSuffit de demander.
+MID_LGV_Scout_Negotiation_SP_Sim_m02_010: <ACB>Ah, et autant être clair, avec moi, plus c'est difficile,\nmieux c'est... Ça me fait ma dose d'adrénaline !
+MID_LGV_Scout_Negotiation_SP_Sim_m02_011: <ACB>Bon, autant que je me présente de nouveau :\nje m'appelle Simon. Simon Clairmont.\nJ'ai hâte qu'on se serre les coudes !
+MID_LGV_Scout_Negotiation_SP_Sim_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Sim_m03_001: Quoi ? On se dégonfle ? Je serai là si jamais.
+MID_LGV_Scout_Negotiation_SP_NoMoney_Sim_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoMoney_Sim_m01_001: Ah, mais ça suffit pas, ça. J'attendrai ici,\nle temps que les fonds nécessaires soient réunis.
+MID_LGV_Scout_Lou_m01: <TH>
+MID_LGV_Scout_Lou_m01_001: Hé ! Je viens d'entendre des infos intéressantes.\nJe les divulguerai si je rejoins votre équipe ! Allez,\nje travaillerai même gratuitement !
+MID_LGV_Scout_Lou_m01_002: Hé, j'ai des infos qui pourraient être intéressantes.\nJe les divulguerai si je rejoins votre équipe ! Je\nsuis même prête à travailler gratuitement !
+MID_LGV_Scout_Lou_m01_003: Talimun m'a demandé de filer un coup de main\nà tous ceux qui pourraient avoir besoin d'aide\ndu Consortium Vandahl !
+MID_LGV_Scout_Lou_m01_004: Talimun m'a demandé de filer un coup de main\nà tous ceux qui pourraient avoir besoin d'aide\ndu Consortium Vandahl !
+MID_LGV_Scout_Lou_m02: <TH>
+MID_LGV_Scout_Lou_m02_001: Alors, c'est réglé ! Avec mes capacités, je peux\nme charger de tous les ennemis les plus forts.
+MID_LGV_Scout_Lou_m02_002: Super ! Ce sera un honneur. Je suis très\nvive d'esprit, on peut compter sur moi !
+MID_LGV_Scout_Lou_m02_003: Je suis la fille du général Senghor, chef de la 11e\ndivision de l'armée impériale de Dagda !
+MID_LGV_Scout_Lou_m02_004: Je suis la fille du général Senghor, chef de la 11e\ndivision de l'armée impériale de Dagda !
+MID_LGV_Scout_Lou_m03: <TH>
+MID_LGV_Scout_Lou_m03_001: Hé, un instant ! J'ai dit que j'étais prête\nà travailler gratuitement, non ? Comment\non peut refuser une offre pareille ?!
+MID_LGV_Scout_Lou_m03_002: M-Mais je demanderais pas un écu...\nOn peut pas rêver mieux, comme affaire.
+MID_LGV_Scout_Lou_m04: <TH>
+MID_LGV_Scout_Lou_m04_001: Hein ? Me recruter ?
+MID_LGV_Scout_Lou_m04_002: Quoi ?! Vraiment ? Me recruter ?
+MID_LGV_Scout_Lou_m04_003: J'aimerais bien, mais j'ai encore des obligations\nenvers le Consortium Vandahl... Désolée !
+MID_LGV_Scout_Lou_m04_004: Quel honneur, mais j'ai encore des obligations\nenvers le Consortium Vandahl... Je suis désolée !
+MID_LGV_Scout_Lou_m05: <TH>
+MID_LGV_Scout_Lou_m05_001: Je vois que nos marchandises ont du succès...\nOh, c'est pour me recruter ?
+MID_LGV_Scout_Lou_m05_002: Nos marchandises sont toutes intéressantes !\nOh, c'est... pour me recruter ?
+MID_LGV_Scout_Lou_m05_003: Désolée, mais je travaille pour Talimun\nau Consortium Vandahl en ce moment...
+MID_LGV_Scout_Lou_m05_004: Je suis désolée, mais en ce moment, je travaille\npour Talimun au Consortium Vandahl.
+MID_LGV_Scout_Lou_m05_005: Et je peux pas dire ça trop fort, mais mon père\nm'a aussi demandé de m'occuper de certaines\nchoses par ici.
+MID_LGV_Scout_Lou_m05_006: Et je peux pas dire ça trop fort, mais mon père\nm'a aussi demandé de m'occuper de certaines\nchoses par ici.
+MID_LGV_Scout_Lou_m05_007: Entre mon travail et les requêtes de mon père,\nça fait déjà beaucoup...
+MID_LGV_Scout_Lou_m05_008: Entre mon travail et les requêtes de mon père,\nça fait déjà beaucoup...
+MID_LGV_Scout_Lou_m05_009: Mais je crois être en face de quelqu'un qui sait\ntenir sa langue. En plus, j'aurais besoin d'aide.
+MID_LGV_Scout_Lou_m05_010: Mais je crois être en face de quelqu'un qui sait\ntenir sa langue. En plus, j'aurais besoin d'aide.
+MID_LGV_Scout_Lou_m05_011: Mon père est un général de l'armée de Dagda,\net il a une dent contre Talimun.
+MID_LGV_Scout_Lou_m05_012: Mon père est un général de l'armée de Dagda,\net il a une dent contre Talimun.
+MID_LGV_Scout_Lou_m05_013: Alors je lui donne des infos sur le consortium,\nmais c'est surtout notre filiale la plus récente\nqui l'intéresse.
+MID_LGV_Scout_Lou_m05_014: Alors je lui donne des infos sur le consortium,\nmais c'est surtout notre filiale la plus récente\nqui l'intéresse.
+MID_LGV_Scout_Lou_m05_015: Je sais que des biens sont envoyés à cette\nnouvelle filiale par celle du {LowercaseNextLetter}Port de Callianeira.
+MID_LGV_Scout_Lou_m05_016: Je sais que des biens sont envoyés à cette\nnouvelle filiale par celle du {LowercaseNextLetter}Port de Callianeira.
+MID_LGV_Scout_Lou_m05_017: J'ai besoin que quelqu'un aille au port et\nme rapporte tout ce qu'on y raconte sur\nla nouvelle filiale.
+MID_LGV_Scout_Lou_m05_018: J'ai besoin que quelqu'un aille au port et\nme rapporte tout ce qu'on y raconte sur\nla nouvelle filiale.
+MID_LGV_Scout_Lou_m05_019: Je ferai confiance à la personne qui fera\nça pour moi. Quand ce sera bouclé,\non reparlera recrutement.
+MID_LGV_Scout_Lou_m05_020: Je ferai confiance à la personne qui fera\nça pour moi. Quand ce sera bouclé,\non reparlera recrutement.
+MID_LGV_Scout_Lou_m06: <TH>
+MID_LGV_Scout_Lou_m06_001: Bravo ! Mon père sera content d'avoir ces infos.
+MID_LGV_Scout_Lou_m06_002: Bravo ! Mon père sera content d'avoir ces infos.
+MID_LGV_Scout_Lou_m06_003: Ça serait vraiment utile de continuer à m'aider\navec ça... Hé, j'ai une proposition...
+MID_LGV_Scout_Lou_m06_004: Ce serait vraiment bien de continuer à m'aider\navec ça... Hé, j'ai une idée...
+MID_LGV_Scout_Lou_m06_005: Je ferai en sorte que le Consortium Vandahl\ntraite chaque membre de l'équipe comme\nun client VIP.
+MID_LGV_Scout_Lou_m06_006: Je ferai en sorte que le Consortium Vandahl\ntraite chaque membre de l'équipe comme\nun client VIP.
+MID_LGV_Scout_Lou_m06_007: Comme ça, je pourrai justifier d'apporter de l'aide\nà une autre équipe tout en restant liée au consortium.
+MID_LGV_Scout_Lou_m06_008: Comme ça, je pourrai justifier de vous aider\ntout en restant liée au consortium.
+MID_LGV_Scout_Lou_m06_009: En échange, on travaillera ensemble quand j'en aurai\nbesoin. Alors ? Marché conclu ?
+MID_LGV_Scout_Lou_m06_010: En échange, on travaillera ensemble quand j'en aurai\nbesoin. Alors ? Marché conclu ?
+MID_LGV_Scout_Lou_m06_011: Même si j'ai l'air gentille et douce, je suis la fille\nd'un soldat, entraînée au combat ! On peut compter\nsur moi !
+MID_LGV_Scout_Lou_m06_012: Même si j'ai l'air gentille et douce, je suis la fille\nd'un soldat, entraînée au combat ! On peut compter\nsur moi !
+MID_LGV_Scout_Fia_m01: <TH>
+MID_LGV_Scout_Fia_m01_001: Oh... Pardon si je me montre importune,\nmais j'aurais une question...
+MID_LGV_Scout_Fia_m01_002: Pourrais-je faire partie de votre équipe ?\nJ'ai commis une erreur en nettoyant\nl'entrepôt du consortium.
+MID_LGV_Scout_Fia_m01_003: J'ai jeté une urne inestimable en pensant que c'était\nun déchet. J'ai été si négligente... Je dois apprendre\nà devenir meilleure.
+MID_LGV_Scout_Fia_m02: <TH>
+MID_LGV_Scout_Fia_m02_001: Vraiment ? M-Merci beaucoup...
+MID_LGV_Scout_Fia_m02_002: Mes capacités de soin sont inégalées. Je peux\nsoigner n'importe quelle blessure ou maladie.
+MID_LGV_Scout_Fia_m03: <TH>
+MID_LGV_Scout_Fia_m03_001: Bien sûr... Je m'excuse. Si jamais il manque\nune guérisseuse dans votre équipe, je suis là...
+MID_LGV_Scout_Fia_m04: <TH>
+MID_LGV_Scout_Fia_m04_001: Oh, salutations ! Nous n'avions pas\nrendez-vous, n'est-ce pas ?
+MID_LGV_Scout_Fia_m04_002: Je n'envisagerais même pas d'abandonner Talimun.\nJe vais me retirer...
+MID_LGV_Scout_Fia_m05: <TH>
+MID_LGV_Scout_Fia_m05_001: Oui, c'est à quel sujet ? Cette marque d'intérêt\nme touche, mais il serait préférable de demander\nà quelqu'un d'autre...
+MID_LGV_Scout_Fia_m05_002: Je veux rester aux côtés de Talimun. Hélas,\nje n'ai pas la force nécessaire pour le faire...
+MID_LGV_Scout_Fia_m05_003: À vrai dire, je n'ai aucun souvenir de mon passé.\nSachant cela, je dois travailler encore plus dur\nque les autres.
+MID_LGV_Scout_Fia_m05_004: Je sais ! Et si votre équipe m'entraînait en secret ?\nDans ce cas-là, j'accepterais l'invitation.
+MID_LGV_Scout_Fia_m05_005: Je dirai à Talimun que c'est lié au travail. Y aurait-il\nune compensation à la clé, au cas où il demanderait ?
+MID_LGV_Scout_Fia_m06: <TH>
+MID_LGV_Scout_Fia_m06_001: Vraiment ?! M-Merci beaucoup...
+MID_LGV_Scout_Fia_m06_002: Mes capacités de soin sont inégalées. Tout membre\nde votre équipe qui se ferait blesser sera en\nsécurité entre mes mains.
+MID_LGV_Scout_Fia_m07: <TH>
+MID_LGV_Scout_Fia_m07_001: Oui, bien sûr... Je suis désolée. Si jamais la situation\nvenait à changer, je serai là.
+MID_LGV_Scout_Fia_m08: <TH>
+MID_LGV_Scout_Fia_m08_001: Je m'excuse, mais cela ne suffira pas...\nC'est cruel de me donner ainsi de faux espoirs...
+MID_LGV_Scout_Lor_m01: <TH>
+MID_LGV_Scout_Lor_m01_001: Hé, mais c'est que vous êtes balèzes, comme\néquipe ! Est-ce que je pourrais en faire partie ?
+MID_LGV_Scout_Lor_m01_002: On dirait que t'as mon âge, mais t'es assez\nbalèze, non ?
+MID_LGV_Scout_Lor_m01_003: J'ai été entraînée par des soldats du temple !\nJe peux faire plein de choses ! Il faut juste\nm'accorder une chance !
+MID_LGV_Scout_Lor_m01_004: J'ai été entraînée par des soldats du temple !\nLaisse-moi me joindre à vous !
+MID_LGV_Scout_Lor_m02: <TH>
+MID_LGV_Scout_Lor_m02_001: Ha, merci ! Je peux devenir encore plus forte\nmaintenant !
+MID_LGV_Scout_Lor_m03: <TH>
+MID_LGV_Scout_Lor_m03_001: Hein ? Allez, c'est pas sérieux !
+MID_LGV_Scout_Lor_m04: <TH>
+MID_LGV_Scout_Lor_m04_001: Je vais pas aller avec n'importe qui juste\nparce qu'on me le demande.
+MID_LGV_Scout_Lor_m04_002: J'ai vu pas mal de trucs horribles. Je sais\nque je suis jeune, mais je suis pas une idiote.
+MID_LGV_Scout_Lor_m04_003: J'ai vécu des trucs difficiles et j'ai été blessée.\nJe sais qu'on est jeunes, mais je suis pas une idiote.
+MID_LGV_Scout_Lor_m05: <TH>
+MID_LGV_Scout_Lor_m05_001: Hé... Il paraît que vous êtes balèzes.\nEn tout cas, c'est ce qui se dit partout.
+MID_LGV_Scout_Lor_m05_002: Tu sais que les gens parlent de toi, non ?\nIl paraît que t'es super balèze !
+MID_LGV_Scout_Lor_m05_003: Et comme ça, on voudrait m'inviter ?\nHa ! Faut croire que je peux être un atout !
+MID_LGV_Scout_Lor_m05_004: Alors, t'es vraiment venu m'inviter ?\nHa ! Faut croire que je peux être un atout !
+MID_LGV_Scout_Lor_m05_005: Un type appelé Ozin m'a appris à manier\nl'épée. Mais je peux devenir encore plus forte !
+MID_LGV_Scout_Lor_m05_006: Je travaille pour Orchel maintenant, et je pense\npouvoir aider d'autres gens en plus de la vicaresse.
+MID_LGV_Scout_Lor_m05_007: Mais bon, je fais pas confiance à n'importe qui !\nSi on m'offrait ça, là, ça m'aiderait à me décider !
+MID_LGV_Scout_Lor_m06: <TH>
+MID_LGV_Scout_Lor_m06_001: Oh ! Super ! J'ai hâte de faire partie de l'équipe !
+MID_LGV_Scout_Lor_m06_002: Avec mes compétences à la lame que j'ai apprises\nd'Ozin, je vais anéantir tous nos ennemis !
+MID_LGV_Scout_Lor_m07: <TH>
+MID_LGV_Scout_Lor_m07_001: Quoi ? Si c'était pour dire non, pourquoi\navoir proposé ?
+MID_LGV_Scout_Lor_m08: <TH>
+MID_LGV_Scout_Lor_m08_001: Hé, c'est pas ce que j'ai demandé ! C'est pas\nparce que je suis une gamine qu'il faut me\nprendre pour une idiote !
+MID_LGV_Scout_Lor_m08_002: Hé, c'est pas ce que je t'ai demandé ! T'as essayé\nde m'arnaquer ou quoi ? Vaut mieux pas pour toi !
+MID_LGV_Scout_Set_m01: <TH>
+MID_LGV_Scout_Set_m01_001: Quoi ? Que je lutte au sein de votre groupe ?
+MID_LGV_Scout_Set_m01_002: Se pourrait-il... qu'on sache qui je suis ?\nAh, je n'ai rien dit. Ce n'était qu'une pensée\nfurtive.
+MID_LGV_Scout_Set_m01_003: Je ne suis qu'un simple voyageur passant dans\nla région. Et pourtant, on me demande de\nrejoindre une équipe ?
+MID_LGV_Scout_Set_m02: <TH>
+MID_LGV_Scout_Set_m02_001: Eh bien, je suis toujours prêt à venir en aide\nà mes cadets quand ils me le demandent.
+MID_LGV_Scout_Set_m02_002: J'accepte avec plaisir. Travaillons ensemble\nà partir de maintenant.
+MID_LGV_Scout_Set_m03: <TH>
+MID_LGV_Scout_Set_m03_001: Je vois. Dans ce cas, je n'ai qu'à\npoursuivre mon voyage.
+MID_LGV_Scout_Set_m04: <TH>
+MID_LGV_Scout_Set_m04_001: Hmm, me recruter ? Je ne m'y attendais pas,\net loin de moi l'idée de m'y opposer.
+MID_LGV_Scout_Set_m04_002: Malheureusement, je n'en ai présentement pas\nle temps. Il vaudrait mieux trouver quelqu'un\nde plus adapté et de disponible.
+MID_LGV_Scout_Set_m05: <TH>
+MID_LGV_Scout_Set_m05_001: Que je me joigne à votre équipe ? Je voudrais bien,\nmais ce n'est pas si facile.
+MID_LGV_Scout_Set_m05_002: Je soutiens Orchel, et j'ai également des affaires\nà régler sur ces terres.
+MID_LGV_Scout_Set_m05_003: Hmm... Mais je sens que ce n'était pas la réponse\nattendue. Je dois avoir affaire à quelqu'un qui\nme tient en haute estime.
+MID_LGV_Scout_Set_m05_004: Eh bien, j'ai une faveur à demander. C'est assez\nimportant, j'ai par conséquent besoin qu'on m'écoute.
+MID_LGV_Scout_Set_m05_005: Ceci doit rester entre nous. Je n'en ai même pas parlé\nà Orchel et aux autres.
+MID_LGV_Scout_Set_m05_006: J'ai de l'expérience en tant que forgeron. Il y a peu,\nj'ai forgé des armes pour des villageois sans défense.
+MID_LGV_Scout_Set_m05_007: Leurs armes étaient simples, mais elles répondaient\nà leurs besoins. Malgré cela, des bandits ont fini\npar ravager le village.
+MID_LGV_Scout_Set_m05_008: À présent, le chef de ces bandits brandit l'une de mes\narmes et l'utilise pour faire le mal. J'en suis outré.
+MID_LGV_Scout_Set_m05_009: J'aimerais que vous punissiez ces bandits\net que vous enterriez mes armes avec eux.
+MID_LGV_Scout_Set_m05_010: Je sais où ils se cachent. Je songerai à rejoindre\nune équipe lorsqu'on m'aura aidé à régler\nce problème.
+MID_LGV_Scout_Set_m06: <TH>
+MID_LGV_Scout_Set_m06_001: Ah, les bandits sont vaincus ? Merci. Je suis certain\nque cela a apporté la paix aux âmes des villageois.
+MID_LGV_Scout_Set_m06_002: C'était de braves gens. Je n'ai que regrets\nà leur égard.
+MID_LGV_Scout_Set_m06_003: Si seulement je leur avais donné de meilleures\narmes, auraient-ils pu survivre ?
+MID_LGV_Scout_Set_m06_004: Ou les bandits auraient-ils simplement obtenu\nde meilleures armes, provoquant ainsi encore\ndavantage de violence ?
+MID_LGV_Scout_Set_m06_005: Ah, je m'excuse. Je ne voulais pas troubler quiconque\navec de telles pensées. Mon esprit vagabonde\nquand je suis avec quelqu'un qui me met à l'aise.
+MID_LGV_Scout_Set_m06_006: Je ne veux pas négliger Orchel, mais je viendrai\négalement en aide à votre équipe. Vous pouvez\ntous compter sur moi.
+MID_LGV_Scout_Nin_m01: <TH>
+MID_LGV_Scout_Nin_m01_001: Oh... C'est pour que je me joigne à votre équipe,\nn'est-ce pas ?
+MID_LGV_Scout_Nin_m01_002: Je sens que les esprits approuvent...
+MID_LGV_Scout_Nin_m01_003: Très bien. Je lutterai parmi vous tant que cela\nne nuira pas à mes responsabilités.
+MID_LGV_Scout_Nin_m02: <TH>
+MID_LGV_Scout_Nin_m02_001: Très bien. Je prêterai ma force.
+MID_LGV_Scout_Nin_m02_002: Les esprits ont l'air... satisfaits. Oui, c'est bon signe.
+MID_LGV_Scout_Nin_m03: <TH>
+MID_LGV_Scout_Nin_m03_001: Quel changement d'attitude. Cela ne me dérange pas.
+MID_LGV_Scout_Nin_m04: <TH>
+MID_LGV_Scout_Nin_m04_001: La plupart des gens m'évitent. Mais là, on me\ndemande de rejoindre une équipe. C'est très étrange.
+MID_LGV_Scout_Nin_m04_002: Je ne crois pas que ce soit très avisé.\nCeux qui m'approchent de trop près ne\ntrouvent que le malheur avec moi. Adieu.
+MID_LGV_Scout_Nin_m05: <TH>
+MID_LGV_Scout_Nin_m05_001: Que je me joigne à votre équipe ? Comme c'est\nétrange. La plupart des gens me trouvent effrayante.
+MID_LGV_Scout_Nin_m05_002: Je suis au service du temple de Credna en tant\nque vulkane, actuellement chargée de protéger\nla vicaresse Orchel.
+MID_LGV_Scout_Nin_m05_003: Mais à présent... Intéressant. Les esprits semblent\napprouver...
+MID_LGV_Scout_Nin_m05_004: Me voilà intriguée. Je n'abandonnerai pas Orchel\npour autant, mais je peux offrir un soutien partiel.
+MID_LGV_Scout_Nin_m05_005: En ce qui concerne un contrat... je n'ai pas\nà être payée, mais si c'est l'ordre établi,\nautant procéder ainsi ?
+MID_LGV_Scout_Nin_m06: <TH>
+MID_LGV_Scout_Nin_m06_001: Alors, marché conclu. À partir d'aujourd'hui,\nje lutterai parmi vous.
+MID_LGV_Scout_Nin_m06_002: Oh, cela vous plaît, à tous ? Oui, les esprits\nsont heureux. Cela doit être bon signe.
+MID_LGV_Scout_Nin_m07: <TH>
+MID_LGV_Scout_Nin_m07_001: Quel changement d'attitude. Cela ne me dérange pas.
+MID_LGV_Scout_Nin_m08: <TH>
+MID_LGV_Scout_Nin_m08_001: Ce n'est pas ce que j'ai demandé. Je crois\nque je ne me suis pas bien fait comprendre.
+MID_LGV_Scout_Lil_m01: <TH>
+MID_LGV_Scout_Lil_m01_001: Ouais ? Qu'est-ce qu'il y a ?
+MID_LGV_Scout_Lil_m01_002: Il faut pas hésiter à me demander. La reine Theodora\na dit que je peux faire ce que je veux tant que ça\ninterfère pas avec mes obligations militaires.
+MID_LGV_Scout_Lil_m01_003: Mes services sont pas donnés, mais ça vaut le prix.
+MID_LGV_Scout_Lil_m02: <TH>
+MID_LGV_Scout_Lil_m02_001: OK. On dirait qu'on va bosser ensemble\nà partir de maintenant.
+MID_LGV_Scout_Lil_m02_002: Si je suis bien payée, je ferai du bon travail.
+MID_LGV_Scout_Lil_m03: <TH>
+MID_LGV_Scout_Lil_m03_001: Eh ben les négociations ont tourné court...\nBon sang... et moi qui espérais pouvoir\ngagner plus d'argent.
+MID_LGV_Scout_Lil_m04: <TH>
+MID_LGV_Scout_Lil_m04_001: J'ai pas souvent des offres comme ça,\net je dois dire qu'elle me plaît.
+MID_LGV_Scout_Lil_m04_002: Mais je suis au service de la reine Theodora.\nAlors on va faire comme si j'avais rien entendu.\nDésolée !
+MID_LGV_Scout_Lil_m05: <TH>
+MID_LGV_Scout_Lil_m05_001: Oh, que je débarque dans votre équipe ?\nParce que je me débrouille bien avec un arc ?\nEh ben merci.
+MID_LGV_Scout_Lil_m05_002: Je suis aux ordres de la reine Theodora\nen ce moment.
+MID_LGV_Scout_Lil_m05_003: Mais... je refuse jamais de l'argent. Alors je veux bien\nfaire des heures sup' pour aider une autre équipe.
+MID_LGV_Scout_Lil_m05_004: Je peux avoir une avance de combien ?\nFaut savoir que je travaille pas pour des broutilles.
+MID_LGV_Scout_Lil_m06: <TH>
+MID_LGV_Scout_Lil_m06_001: Oh, vraiment ? Tout ça ? Super ! Comme quoi,\nça fait jamais de mal de demander.
+MID_LGV_Scout_Lil_m06_002: Je travaille proportionnellement à ma rétribution.\nEt pour tout ça, je vais travailler dur !
+MID_LGV_Scout_Lil_m07: <TH>
+MID_LGV_Scout_Lil_m07_001: Hein ? On peut même pas marchander ? Eh ben...\nJ'espérais pouvoir gagner plus d'argent.
+MID_LGV_Scout_Lil_m08: <TH>
+MID_LGV_Scout_Lil_m08_001: Hé, ça suffit pas ! Si je suis trop chère,\nfaut le dire tout de suite.
+MID_LGV_Scout_Lys_m01: <TH>
+MID_LGV_Scout_Lys_m01_001: Pardon ! J'ai une question, ça ne devrait pas\nprendre trop de temps.
+MID_LGV_Scout_Lys_m01_002: Sa Majesté m'a envoyé observer les stratégies\nen dehors de Saramis pour élargir mes horizons.
+MID_LGV_Scout_Lys_m01_003: Pourrions-nous être alliés ? Me battre parmi vous\nsera une excellente opportunité d'apprentissage.
+MID_LGV_Scout_Lys_m02: <TH>
+MID_LGV_Scout_Lys_m02_001: Alors, c'est oui ? Merci !
+MID_LGV_Scout_Lys_m02_002: Entraidons-nous en tant qu'alliés !
+MID_LGV_Scout_Lys_m03: <TH>
+MID_LGV_Scout_Lys_m03_001: Alors, c'est non ? Eh bien, les gens peuvent changer\nd'avis. J'espère que ce sera le cas ici.
+MID_LGV_Scout_Lys_m04: <TH>
+MID_LGV_Scout_Lys_m04_001: Que nous joignons nos forces ? Hah ! Quel honneur.
+MID_LGV_Scout_Lys_m04_002: Mais je suis un fier guerrier de Saramis. Je suis\nréticent à l'idée de brandir cette lance pour toute\nautre personne que ma reine.
+MID_LGV_Scout_Lys_m05: <TH>
+MID_LGV_Scout_Lys_m05_001: Que je combatte parmi vous ? Habituellement,\nje n'y réfléchirais même pas. Cependant...
+MID_LGV_Scout_Lys_m05_002: Cela fait un moment que je me dis que je dois élargir\nmes horizons pour le bien de Saramis, ma patrie.
+MID_LGV_Scout_Lys_m05_003: Je serai toujours le vassal de la reine Theodora,\nmais avec sa permission, je pourrais travailler\nparmi vous.
+MID_LGV_Scout_Lys_m05_004: Cependant, je voudrais avoir une preuve de bonne\nfoi. Par exemple, pourrais-je avoir ceci ?
+MID_LGV_Scout_Lys_m06: <TH>
+MID_LGV_Scout_Lys_m06_001: Oh ! Merci d'avoir accepté si facilement.
+MID_LGV_Scout_Lys_m06_002: À partir de maintenant, ma lance est au service\nde votre équipe. Entraidons-nous.
+MID_LGV_Scout_Lys_m07: <TH>
+MID_LGV_Scout_Lys_m07_001: Est-ce trop demander ? Quel dommage.\nSi la situation venait à changer, je serai là.
+MID_LGV_Scout_Lys_m08: <TH>
+MID_LGV_Scout_Lys_m08_001: Je ne vois pas tout ce que j'ai demandé.\nC'est dommage... Je voulais y croire.
+MID_LGV_Scout_Sci_m01: <TH>
+MID_LGV_Scout_Sci_m01_001: Me compter comme allié ? Hmm... D'habitude,\nje décline les propositions faites par des hommes.
+MID_LGV_Scout_Sci_m01_002: Oh ! Vous souhaitez m'avoir à vos côtés,\nbelle dame ?
+MID_LGV_Scout_Sci_m01_003: Oh ! Vous souhaitez m'avoir à vos côtés,\nma belle reine ?
+MID_LGV_Scout_Sci_m01_004: Mais tout comme le vent, je suis en perpétuel\nchangement. Je pourrais même y trouver\nquelque divertissement.
+MID_LGV_Scout_Sci_m01_005: Je n'envisagerais jamais de refuser la requête\nd'une femme aussi charmante.
+MID_LGV_Scout_Sci_m01_006: Je n'envisagerais jamais de refuser la requête\nd'une femme aussi charmante.
+MID_LGV_Scout_Sci_m01_007: Si ma présence au sein de votre équipe\nest désirée au combat, alors j'accepte.
+MID_LGV_Scout_Sci_m01_008: Après tout, à travers la cruauté des combats,\nqui sait ? Un amour passionné pourrait voir le jour.
+MID_LGV_Scout_Sci_m01_009: Après tout, à travers la cruauté des combats,\nqui sait ? Un amour passionné pourrait voir le jour.
+MID_LGV_Scout_Sci_m02: <TH>
+MID_LGV_Scout_Sci_m02_001: Très bien. Maintenant que je suis là,\nchacun pourra dormir sur ses deux oreilles.
+MID_LGV_Scout_Sci_m02_002: Quand le combat fait rage, appelez-moi. Je jure\nsur ma déesse que j'anéantirai nos ennemis\ntelle une brise fougueuse.
+MID_LGV_Scout_Sci_m02_003: Quand le combat fait rage, appelez-moi. Je jure\nsur ma déesse que j'anéantirai nos ennemis\ntelle une brise fougueuse.
+MID_LGV_Scout_Sci_m02_004: Je ne suis pas un simple barde. J'anéantirai\nnos ennemis telle une brise fougueuse.
+MID_LGV_Scout_Sci_m02_005: Bien sûr, n'hésitez pas à faire appel à moi en dehors\ndes combats également...
+MID_LGV_Scout_Sci_m02_006: Bien évidemment, n'hésitez pas à faire appel à moi\nen dehors des combats également...
+MID_LGV_Scout_Sci_m03: <TH>
+MID_LGV_Scout_Sci_m03_001: Je vois... J'ai affaire à une girouette.\nÉtait-ce volontaire de me faire perdre\ntout ce temps ?
+MID_LGV_Scout_Sci_m03_002: Aha ! Vous m'entraînez vers vous, puis vous\nme repoussez. J'aime bien être provoqué.
+MID_LGV_Scout_Sci_m03_003: Aha ! Vous m'entraînez vers vous, puis vous\nme repoussez. J'aime bien être provoqué.
+MID_LGV_Scout_Sci_m04: <TH>
+MID_LGV_Scout_Sci_m04_001: Oh ? Une proposition pour moi ? La Brise\nFougueuse serait ainsi indispensable pour\ndécrocher la victoire...
+MID_LGV_Scout_Sci_m04_002: Oh, comme c'est flatteur de recevoir une proposition\nde la part d'une dame telle que vous ! Vous espérez\nentendre le chant de l'amour ?
+MID_LGV_Scout_Sci_m04_003: Hélas, le vent est capricieux et il ne souffle pas\ndans cette direction. Ce n'est pas la peine\nde rester.
+MID_LGV_Scout_Sci_m04_004: Mais le vent est capricieux et il ne souffle pas\ndans cette direction en ce moment. Je vous\nprésente mes excuses.
+MID_LGV_Scout_Sci_m05: <TH>
+MID_LGV_Scout_Sci_m05_001: Oh ? Je me demandais de quoi il pouvait\nen retourner.
+MID_LGV_Scout_Sci_m05_010: Je me demandais pourquoi une beauté telle\nque vous daignait m'adresser la parole.\nAinsi, c'est moi qui suscite votre intérêt.
+MID_LGV_Scout_Sci_m05_018: Je me demandais pourquoi une beauté telle\nque vous daignait m'adresser la parole.\nAinsi, c'est moi qui suscite votre intérêt.
+MID_LGV_Scout_Sci_m05_002: J'aimerais partir en voyage avec votre équipe,\nmais je suis actuellement le vent soufflant\nsur les ailes de demoiselle Leda.
+MID_LGV_Scout_Sci_m05_012: Malheureusement pour vous, je reste fidèle\nà cette rose exquise qu'est demoiselle Leda.
+MID_LGV_Scout_Sci_m05_019: Malheureusement pour vous, je reste fidèle\nà cette rose exquise qu'est demoiselle Leda.
+MID_LGV_Scout_Sci_m05_003: Alors même si j'apprécie cette proposition,\nje me dois de la refuser.
+MID_LGV_Scout_Sci_m05_011: Même si je suis subjugué par votre initiative,\nje dois malheureusement décliner votre offre.
+MID_LGV_Scout_Sci_m05_020: Même si je suis subjugué par votre initiative,\nje dois malheureusement décliner votre offre.
+MID_LGV_Scout_Sci_m05_004: Hm. Vous persistez ? Je m'en voudrais de repousser\ndes avances aussi acharnées, même si elles viennent\nd'un homme...
+MID_LGV_Scout_Sci_m05_013: Hm. Vous persistez ? Je m'en voudrais de repousser\nles avances d'une poursuivante si acharnée.
+MID_LGV_Scout_Sci_m05_021: Hm. Vous persistez ? Je m'en voudrais de repousser\nles avances d'une poursuivante si acharnée.
+MID_LGV_Scout_Sci_m05_005: En reconnaissance de votre ferveur, je vais\nvous offrir l'occasion de mériter mon allégeance.
+MID_LGV_Scout_Sci_m05_014: En reconnaissance de votre ferveur, je vais\nvous offrir l'occasion de mériter mon allégeance.
+MID_LGV_Scout_Sci_m05_022: En reconnaissance de votre ferveur, je vais\nvous offrir l'occasion de mériter mon allégeance.
+MID_LGV_Scout_Sci_m05_006: Un poète a façonné mon cœur. Appelons-le\nle poète légendaire.
+MID_LGV_Scout_Sci_m05_015: Un poète a façonné mon cœur. Appelons-le\nle poète légendaire.
+MID_LGV_Scout_Sci_m05_023: Un poète a façonné mon cœur. Appelons-le\nle poète légendaire.
+MID_LGV_Scout_Sci_m05_007: Récemment, j'ai entendu une rumeur parlant\nd'un monument de pierre dans lequel est gravé\nl'un de ses poèmes.
+MID_LGV_Scout_Sci_m05_016: Récemment, j'ai entendu une rumeur parlant\nd'un monument de pierre dans lequel est gravé\nl'un de ses poèmes.
+MID_LGV_Scout_Sci_m05_024: Récemment, j'ai entendu une rumeur parlant\nd'un monument de pierre dans lequel est gravé\nl'un de ses poèmes.
+MID_LGV_Scout_Sci_m05_008: Si cela est vrai, je voudrais le voir. Il faudrait\nle trouver et m'en faire une transcription.
+MID_LGV_Scout_Sci_m05_009: Si vous me rendez ce service, je réfléchirai à nouveau\nà votre proposition d'alliance. Allez, au travail !
+MID_LGV_Scout_Sci_m05_017: Réussissez, et je songerai alors à me joindre à vous.
+MID_LGV_Scout_Sci_m05_025: Réussissez, et je songerai alors à me joindre à vous.
+MID_LGV_Scout_Sci_m06: <TH>
+MID_LGV_Scout_Sci_m06_001: Oooh... Quelle gamme d'émotions ! Plus je le lis,\nplus il fait vibrer ma corde sensible.
+MID_LGV_Scout_Sci_m06_002: C'est bien l'œuvre de mon poète légendaire.\nBien joué. Me voilà débordant de gratitude.
+MID_LGV_Scout_Sci_m06_007: Vous l'avez donc trouvée. C'est bien l'œuvre\nde mon poète légendaire.
+MID_LGV_Scout_Sci_m06_011: Vous l'avez donc trouvée. C'est bien l'œuvre\nde mon poète légendaire.
+MID_LGV_Scout_Sci_m06_003: Je ne pensais pas que quiconque pourrait accomplir\ncette mission impossible. Merci de l'avoir fait.
+MID_LGV_Scout_Sci_m06_008: Je pensais que vous abandonneriez cette mission\nimpossible. Je vous suis reconnaissant d'avoir\npersévéré.
+MID_LGV_Scout_Sci_m06_012: Je pensais que vous abandonneriez cette mission\nimpossible. Je vous suis reconnaissant d'avoir\npersévéré.
+MID_LGV_Scout_Sci_m06_004: Je continuerai à veiller sur demoiselle Leda,\ncomme le souhaite ma déesse.
+MID_LGV_Scout_Sci_m06_005: Mais je m'efforcerai également de protéger\nvotre équipe, et ce de mon propre chef.
+MID_LGV_Scout_Sci_m06_009: Mais si vous m'y autorisez, j'aimerais également\nvous protéger, dorénavant.
+MID_LGV_Scout_Sci_m06_013: Mais si vous m'y autorisez, j'aimerais également\nvous protéger, dorénavant.
+MID_LGV_Scout_Sci_m06_006: En cas de besoin, il suffit de m'appeler,\net j'accourrai, rapide comme le vent.
+MID_LGV_Scout_Sci_m06_010: N'oubliez jamais le nom de Sirocco. Appelez-moi\net j'accourrai, rapide comme le vent.
+MID_LGV_Scout_Sci_m06_014: N'oubliez jamais le nom de Sirocco. Appelez-moi\net j'accourrai, rapide comme le vent.
+MID_LGV_Scout_Moo_m01: <TH>
+MID_LGV_Scout_Moo_m01_001: Qu'est-ce qui se passe ? C'est pour qu'on s'allie ?
+MID_LGV_Scout_Moo_m01_002: Qu'est-ce qui se passe ? C'est pour qu'on s'allie ?
+MID_LGV_Scout_Moo_m01_003: Hé hé. Ça me fait plaisir qu'on veuille me recruter.\nParce qu'autrement, tout le monde me traite\ncomme si j'avais encore des couches.
+MID_LGV_Scout_Moo_m01_004: Ça me fait plaisir qu'on veuille me recruter.\nParce qu'autrement, tout le monde me traite\ncomme si j'avais encore des couches.
+MID_LGV_Scout_Moo_m02: <TH>
+MID_LGV_Scout_Moo_m02_001: OK, on va combattre ensemble !\nJe s'rai à la hauteur !
+MID_LGV_Scout_Moo_m02_002: Très bien, on va combattre ensemble !\nJe s'rai à la hauteur !
+MID_LGV_Scout_Moo_m03: <TH>
+MID_LGV_Scout_Moo_m03_001: Hein ? Je me suis monté la tête pour rien.\nC'est gênant.
+MID_LGV_Scout_Moo_m03_002: Hein ? On dirait que je me suis monté\nla tête pour rien. C'est gênant.
+MID_LGV_Scout_Moo_m04: <TH>
+MID_LGV_Scout_Moo_m04_001: Ta ta ta... Pas un mot, je vais essayer de deviner.\nC'est pour qu'on s'allie ?
+MID_LGV_Scout_Moo_m04_002: Ah, pas un mot, je vais essayer de deviner.\nC'est pour qu'on s'allie ?
+MID_LGV_Scout_Moo_m04_003: Hmm. Je veux pas être brusque, mais c'est beaucoup\ndemander. On se connaît presque pas.
+MID_LGV_Scout_Moo_m04_004: Pardon, mais je crois pas que ce soit\nune bonne idée. On se connaît presque pas.
+MID_LGV_Scout_Moo_m05: <TH>
+MID_LGV_Scout_Moo_m05_001: Que nous, on s'allie ? C'est parce que je sais\ntant de choses sur les herbes médicinales ?
+MID_LGV_Scout_Moo_m05_002: Que nous, on s'allie ? C'est parce que je sais\ntant de choses sur les herbes médicinales ?
+MID_LGV_Scout_Moo_m05_003: Hé hé. Presque tout le monde me traite comme\nsi j'avais encore des couches, alors c'est sympa\nd'entendre ça.
+MID_LGV_Scout_Moo_m05_004: Hé hé. Presque tout le monde me traite comme\nsi j'avais encore des couches, alors c'est sympa\nd'entendre ça.
+MID_LGV_Scout_Moo_m05_005: Je bosse avec Leda, mais c'est pas forcément\nexclusif.
+MID_LGV_Scout_Moo_m05_006: Je bosse avec Leda, mais c'est pas forcément\nexclusif.
+MID_LGV_Scout_Moo_m05_007: Sauf que je vais pas venir juste comme ça,\njuste parce qu'on me l'a demandé. Si votre équipe\ntrouve quelque chose d'utile pour moi, j'y réfléchirai.
+MID_LGV_Scout_Moo_m05_008: Sauf que je vais pas venir juste comme ça,\njuste parce qu'on me l'a demandé. Si votre équipe\ntrouve quelque chose d'utile pour moi, j'y réfléchirai.
+MID_LGV_Scout_Moo_m06: <TH>
+MID_LGV_Scout_Moo_m06_001: Ouah ! Je voulais ça depuis toujours.\nC'est vraiment pour moi ? Merci !
+MID_LGV_Scout_Moo_m06_002: Ouah ! Je voulais ça depuis toujours.\nC'est vraiment pour moi ? Merci !
+MID_LGV_Scout_Moo_m06_003: Ça montre que je peux avoir confiance. OK,\nc'est décidé. J'ai hâte qu'on travaille ensemble !
+MID_LGV_Scout_Moo_m06_004: Ça montre que je peux avoir confiance. OK,\nc'est décidé. J'ai hâte qu'on travaille ensemble !
+MID_LGV_Scout_Moo_m07: <TH>
+MID_LGV_Scout_Moo_m07_001: Quoi ? Je vais pas avoir ce que j'ai demandé ?\nOK. Bah pour recevoir mon aide, c'est râpé.
+MID_LGV_Scout_Moo_m07_002: Quoi ? Je vais pas avoir ce que j'ai demandé ?\nAlors, désolée, mais pour recevoir mon aide,\nc'est râpé.
+MID_LGV_Scout_Moo_m08: <TH>
+MID_LGV_Scout_Moo_m08_001: Hein ? Je vois pas ce que j'ai demandé. Bon, ce sera\npour une autre fois peut-être.
+MID_LGV_Scout_Moo_m08_002: Hein ? Je vois pas ce que j'ai demandé. D'accord,\npas de problème... À la prochaine.
+MID_LGV_Scout_Mic_m01: <TH>
+MID_LGV_Scout_Mic_m01_001: Hé, il y a une tâche à accomplir ?
+MID_LGV_Scout_Mic_m01_002: Je me suis fait un nom en tant que mercenaire\net je n'ai pas peur des travaux difficiles.
+MID_LGV_Scout_Mic_m01_003: Ça m'a permis de gagner de l'argent, et je\nvoudrais en gagner encore plus. Alors ?
+MID_LGV_Scout_Mic_m02: <TH>
+MID_LGV_Scout_Mic_m02_001: Parfait. On a donc un contrat. Je vais travailler\ndur en échange de ma paie...
+MID_LGV_Scout_Mic_m02_002: Tant que l'équipe est honorable, je resterai\nà ses côtés. Pas d'inquiétude à avoir !
+MID_LGV_Scout_Mic_m03: <TH>
+MID_LGV_Scout_Mic_m03_001: Il y a eu un revirement de situation ?\nJe serai là si jamais elle change à nouveau.
+MID_LGV_Scout_Mic_m04: <TH>
+MID_LGV_Scout_Mic_m04_001: Des gens de toute la ville viennent me voir\npour me demander mon aide.
+MID_LGV_Scout_Mic_m04_002: Malheureusement, je dois une faveur à quelqu'un,\nalors il va falloir chercher ailleurs.
+MID_LGV_Scout_Mic_m05: <TH>
+MID_LGV_Scout_Mic_m05_001: Je me demande de quoi nous allons parler. Je crois\npouvoir deviner... c'est pour unir nos forces ?
+MID_LGV_Scout_Mic_m05_002: J'étais mercenaire, alors je suis habituée à ce que\nles gens viennent me voir.
+MID_LGV_Scout_Mic_m05_003: Mais Dietrich m'a aidée quand j'en avais besoin.\nJe ne peux pas le laisser tomber comme ça.
+MID_LGV_Scout_Mic_m05_004: Cela dit, je veux économiser de l'argent... Alors\nvoilà ce que nous allons faire. Je me joindrai\nà votre équipe... si l'offre est alléchante.
+MID_LGV_Scout_Mic_m06: <TH>
+MID_LGV_Scout_Mic_m06_001: Parfait. On a donc un contrat. Je vais travailler\ndur en échange de ma paie...
+MID_LGV_Scout_Mic_m06_002: Tant que l'équipe est honorable, je resterai\nà ses côtés. Pas d'inquiétude à avoir !
+MID_LGV_Scout_Mic_m07: <TH>
+MID_LGV_Scout_Mic_m07_001: Il y a eu un revirement de situation ?\nJe serai là si jamais elle change à nouveau.
+MID_LGV_Scout_Mic_m08: <TH>
+MID_LGV_Scout_Mic_m08_001: Vraiment ? Ça ne suffit pas. Il n'y a pas d'amitié\nen affaires. C'est une dure leçon, mais il faut\nl'apprendre un jour ou l'autre.
+MID_LGV_Scout_Oly_m01: <TH>
+MID_LGV_Scout_Oly_m01_001: Hein, oui ? Je suis fascinante, n'est-ce pas ?
+MID_LGV_Scout_Oly_m01_002: Que se passe-t-il ? Êtes-vous simplement envoûtée\npar ma présence ?
+MID_LGV_Scout_Oly_m01_003: J'ai affaire à une personne qui, en plus d'avoir\nun sens aigu de l'esthétisme, n'est elle-même pas\nen reste de talents. Du moins, c'est ce qu'on raconte.
+MID_LGV_Scout_Oly_m01_004: Reine Theodora, vous avez un sens aigu de\nl'esthétisme, et j'ai entendu dire que vous ne\nmanquiez pas de talent.
+MID_LGV_Scout_Oly_m01_005: J'accepte d'honorer les combats de votre équipe\npar ma prestance.
+MID_LGV_Scout_Oly_m01_006: M'autoriserez-vous à me joindre à vous dans\nla chorégraphie de vos combats, Votre Majesté ?
+MID_LGV_Scout_Oly_m02: <TH>
+MID_LGV_Scout_Oly_m02_001: Dans ce cas, allons-y ! J'ai hâte de partager la vedette\navec quelqu'un qui apprécie la véritable beauté.
+MID_LGV_Scout_Oly_m02_002: Très bien. Je m'épanouirai dans toute ma splendeur\npour vous.
+MID_LGV_Scout_Oly_m02_003: Vous serez tous témoins de l'élégance\nde la Rose Bleue de Caelus !
+MID_LGV_Scout_Oly_m02_004: Le monde entier restera bouche bée face à l'élégance\nde Votre Majesté et de la Rose Bleue de Caelus.
+MID_LGV_Scout_Oly_m03: <TH>
+MID_LGV_Scout_Oly_m03_001: Je vois. Eh bien, c'est sans importance. Je serai\ntoujours aussi belle en tant qu'adversaire !
+MID_LGV_Scout_Oly_m03_002: Vous souhaitez vous épanouir par vous-même ?\nJe comprends bien ce sentiment.
+MID_LGV_Scout_Oly_m04: <TH>
+MID_LGV_Scout_Oly_m04_001: Ah, oui, face à ma beauté, il est tout à fait\nnaturel de vouloir faire équipe.
+MID_LGV_Scout_Oly_m04_002: Mais, je m'excuse, je ne pense pas que nous\nsoyons compatibles.
+MID_LGV_Scout_Oly_m04_003: Mais je crains que nous ne soyons pas compatibles,\nje dois donc refuser humblement.
+MID_LGV_Scout_Oly_m05: <TH>
+MID_LGV_Scout_Oly_m05_001: Qu'y a-t-il ? Je suis fascinante, n'est-ce pas ?
+MID_LGV_Scout_Oly_m05_002: Que se passe-t-il ? Êtes-vous simplement envoûtée\npar ma présence ?
+MID_LGV_Scout_Oly_m05_003: Ce n'est pas une grande surprise. J'ai été\nreconnue par Kalla, la Mécène Chasseresse,\nen tant que Rose Bleue de Caelus.
+MID_LGV_Scout_Oly_m05_004: Parfois, je perds patience face à toute cette attention,\nles propositions de telle ou telle personne, et ce\nchaque jour !
+MID_LGV_Scout_Oly_m05_005: Plutôt que de répondre de manière individuelle,\nce qui serait épuisant, je dis la même chose\nà tout le monde.
+MID_LGV_Scout_Oly_m05_006: « Je serai au service de quiconque m'apportera\ntous les objets que je désire. »
+MID_LGV_Scout_Oly_m05_007: Cette offre est-elle intéressante ? Dans ce cas,\nil faut m'écouter attentivement.
+MID_LGV_Scout_Oly_m05_008: Cette offre vous intéresse-t-elle ? Dans ce cas,\nécoutez-moi attentivement.
+MID_LGV_Scout_Oly_m05_009: Même si le café est la boisson la plus populaire\nen Dagda, je préfère le thé.
+MID_LGV_Scout_Oly_m05_010: Afin de gagner mon cœur, il faudra d'abord\nm'apporter du thé de la plus haute qualité.
+MID_LGV_Scout_Oly_m05_011: Ce que je désire, c'est cette boisson rare du nom\nde {LowercaseNextLetter}Gouttes flamboyantes... J'attendrai !
+MID_LGV_Scout_Oly_m06: <TH>
+MID_LGV_Scout_Oly_m06_001: Voilà mon thé ? Déjà ? Hmm, oui, c'est exactement\ncelui que je voulais.
+MID_LGV_Scout_Oly_m06_002: Bien joué. Mais bien d'autres personnes m'en\nont déjà apporté.
+MID_LGV_Scout_Oly_m06_003: Les objets seront de plus en plus difficiles\nà obtenir à l'avenir. Il faut avoir du courage\net écouter attentivement !
+MID_LGV_Scout_Oly_m06_004: Les objets seront de plus en plus difficiles\nà obtenir à l'avenir. Préparez-vous et écoutez\nattentivement !
+MID_LGV_Scout_Oly_m07: <TH>
+MID_LGV_Scout_Oly_m07_001: Les fleurs sont le summum de la beauté et\nde l'élégance. J'en ai admiré tant dans ma vie.
+MID_LGV_Scout_Oly_m07_002: Mais les plus splendides sont souvent celles\nqui poussent dans les climats les plus rudes.\nElles possèdent une solennité divine.
+MID_LGV_Scout_Oly_m07_003: Qu'on m'apporte la {LowercaseNextLetter}Rosa aurea, une rose dorée\nqui survit et fleurit dans le sable chaud du désert.
+MID_LGV_Scout_Oly_m07_005: Qu'on m'apporte la {LowercaseNextLetter}Rosa aurea, une rose dorée\nqui survit et fleurit malgré les vents secs et violents.
+MID_LGV_Scout_Oly_m07_004: J'attendrai ici. Je veux une vraie preuve d'affection !
+MID_LGV_Scout_Oly_m08: <TH>
+MID_LGV_Scout_Oly_m08_001: Oh, oui ! C'est exactement la fleur que je voulais.
+MID_LGV_Scout_Oly_m08_002: Ses belles couleurs, sa forme majestueuse... et\nje ne parle même pas de sa taille !
+MID_LGV_Scout_Oly_m08_003: Cela n'a pas dû être de tout repos de\ntrouver cette petite merveille. Merci.
+MID_LGV_Scout_Oly_m08_004: Mais je ne suis pas satisfaite. Non ! J'ai une nouvelle\nrequête. Ce sera la dernière.
+MID_LGV_Scout_Oly_m09: <TH>
+MID_LGV_Scout_Oly_m09_001: Tout le monde est attiré par la beauté. Mais\nla véritable beauté se cache souvent dans\ndes endroits que l'on ne peut voir.
+MID_LGV_Scout_Oly_m09_002: Les joyaux parfaits sommeillant dans les profondeurs\nde la terre en sont un excellent exemple.
+MID_LGV_Scout_Oly_m09_003: Qu'on m'apporte un {LowercaseNextLetter}Cœur céruléen, une gemme\nd'un bleu éclatant comme le ciel.
+MID_LGV_Scout_Oly_m09_004: Pour en trouver, il faudra effectuer un véritable\npériple... mais je le mérite, n'est-ce pas ?
+MID_LGV_Scout_Oly_m010: <TH>
+MID_LGV_Scout_Oly_m010_001: Bien que de nombreuses personnes aient exprimé\nleur intérêt envers moi, personne n'a répondu\nà mes requêtes.
+MID_LGV_Scout_Oly_m010_002: Enfin, personne jusqu'à maintenant.\nLa détermination et la profondeur dont\nvous avez tous fait preuve me touchent !
+MID_LGV_Scout_Oly_m010_003: Je sens que je serai choyée et soutenue parmi vous !
+MID_LGV_Scout_Oly_m010_004: Leilidahna, connue sous le nom de Leda, sera\ntoujours ma rivale et ma précieuse alliée.
+MID_LGV_Scout_Oly_m010_005: Mais cela ne me dérangerait pas de mettre\nma beauté au service de votre équipe et de\nveiller sur elle de l'extérieur.
+MID_LGV_Scout_Oly_m010_006: Olympia Iris se joindra à vous... et vous\naurez tous les meilleures places pour admirer\nmes gracieuses techniques de combat !
+MID_LGV_Scout_Naz_m01: <TH>
+MID_LGV_Scout_Naz_m01_001: On veut me recruter ?
+MID_LGV_Scout_Naz_m01_002: Hein ? Me recruter ? Je m'associerai jamais\nau toutou de Vritra.
+MID_LGV_Scout_Naz_m01_003: Quel bon choix ! Je suis en meilleure condition\nphysique que pas mal de gens, et puis je suis\nplus doué qu'eux, aussi.
+MID_LGV_Scout_Naz_m01_004: {SetColor=Gray}Un instant. C'est lui qui m'a proposé. Je ferais\nmieux d'accepter pour le moment, histoire\nde découvrir ce qui se passe.{SetColor=Default}
+MID_LGV_Scout_Naz_m01_005: Si on a besoin de moi à ce point, je veux bien\nm'associer !
+MID_LGV_Scout_Naz_m01_006: D-D'accord. Si vous avez besoin de moi à\nce point, je me battrai avec vous, j'imagine.
+MID_LGV_Scout_Naz_m02: <TH>
+MID_LGV_Scout_Naz_m02_001: Oui ! J'ai été recruté et je vais me déchaîner !
+MID_LGV_Scout_Naz_m02_002: Allez ! Maintenant qu'on est prêts, je vais\nme déchaîner !
+MID_LGV_Scout_Naz_m02_003: Peu importe où je suis, je vais toujours prouver\nque je suis le plus fort !
+MID_LGV_Scout_Naz_m03: <TH>
+MID_LGV_Scout_Naz_m03_001: Pourquoi m'avoir parlé si c'était pour\nme planter là ?
+MID_LGV_Scout_Naz_m04: <TH>
+MID_LGV_Scout_Naz_m04_001: Que je me joigne à votre équipe ?\nOn raconte que je suis fort, ou quoi ?
+MID_LGV_Scout_Naz_m04_002: En fait, j'essaie de pas trop me faire remarquer.\nDésolé ! Vaut mieux demander à quelqu'un d'autre.
+MID_LGV_Scout_Naz_m05: <TH>
+MID_LGV_Scout_Naz_m05_001: Me recruter, moi ? Je rappelle juste\nque je suis le garde d'Anatolia.
+MID_LGV_Scout_Naz_m05_002: Me recruter, moi ? Je suis le garde d'Anatolia.\nJ'ai aucune envie d'être un sbire de Vritra.
+MID_LGV_Scout_Naz_m05_003: Après, si je suis dans votre équipe, je pourrais\ndevenir encore plus fort...
+MID_LGV_Scout_Naz_m05_004: Et là, y aura pas plus balèze que moi !\nSi je le suis pas, j'ai aucune raison d'exister.
+MID_LGV_Scout_Naz_m05_005: De nouvelles expériences, de nouvelles façons de\nm'entraîner... Ça me ferait peut-être pas de mal.
+MID_LGV_Scout_Naz_m05_006: Bon, OK. J'aiderai votre équipe en échange d'une\nrécompense. Je dirai aux autres que j'ai du boulot.
+MID_LGV_Scout_Naz_m06: <TH>
+MID_LGV_Scout_Naz_m06_001: Alors, c'est décidé ! Ensemble, je suis sûr qu'on va\nêtre les plus forts !
+MID_LGV_Scout_Naz_m06_002: Et après, on verra qui est le plus fort de nous deux...\nEnfin bref, j'ai hâte qu'on travaille ensemble !
+MID_LGV_Scout_Naz_m07: <TH>
+MID_LGV_Scout_Naz_m07_001: Alors finalement, c'est non ? Non mais si c'est ça,\nc'est même pas la peine de venir me parler !
+MID_LGV_Scout_Naz_m08: <TH>
+MID_LGV_Scout_Naz_m08_001: Quoi ? Je vois pas ce que j'ai demandé ! Il faut pas\nessayer de me berner comme ça.
+MID_LGV_Scout_Dai_m01: <TH>
+MID_LGV_Scout_Dai_m01_001: C'est décidé. Je vais me battre avec toi à partir\nde maintenant.
+MID_LGV_Scout_Dai_m01_002: C'est décidé. J'vais me battre parmi vous\nà partir de maintenant.
+MID_LGV_Scout_Dai_m01_003: Tous les villageois pensent que je suis\nun gros nul. Absolument tous.
+MID_LGV_Scout_Dai_m01_004: Je vais prendre la tangente pendant un moment,\net là, ils verront qu'ils ont vraiment besoin de moi !
+MID_LGV_Scout_Dai_m02: <TH>
+MID_LGV_Scout_Dai_m02_001: Je connais pas trop tes raisons, mais je vais\nme battre avec toi. Ça va être un massacre !
+MID_LGV_Scout_Dai_m02_002: Je sais pas pourquoi on va faire équipe,\nmais je vais me battre ! Et je vais faire\nun carnage !
+MID_LGV_Scout_Dai_m02_003: Comme ça, ils vont tous me supplier de revenir !
+MID_LGV_Scout_Dai_m03: <TH>
+MID_LGV_Scout_Dai_m03_001: Tu sais pas c'que tu rates ! Viens pas pleurer\npour me reprendre après. C'est toi qui m'as rejeté !
+MID_LGV_Scout_Dai_m03_002: Votre équipe sait pas ce qu'elle rate ! Faudra pas\nvenir pleurer pour me reprendre après. C'est vous\nqui m'avez rejeté !
+MID_LGV_Scout_Dai_m04: <TH>
+MID_LGV_Scout_Dai_m04_001: T'as l'œil dis donc, si tu viens me parler !
+MID_LGV_Scout_Dai_m04_002: Faut avoir du flair pour venir me parler !
+MID_LGV_Scout_Dai_m04_003: Mais moi, faut que je protège ma femme, Anatolia.\nAlors, au revoir !
+MID_LGV_Scout_Dai_m05: <TH>
+MID_LGV_Scout_Dai_m05_001: On a quelque chose à me dire ? Quelle coïncidence !\nMoi aussi je voulais parler d'un truc !
+MID_LGV_Scout_Dai_m05_002: J'ai beau dire à Anatolia que c'est ma femme,\nelle me croit pas.
+MID_LGV_Scout_Dai_m05_003: Alors je vais devenir plus viril et fort en secret.\nEt là, elle me remarquera ! C'est obligé !
+MID_LGV_Scout_Dai_m05_004: T'es assez costaud, toi. Je suis sûr que je deviendrai\nbeaucoup plus balèze si on se bat ensemble !
+MID_LGV_Scout_Dai_m05_005: Là, je vois bien que j'ai affaire à quelqu'un\nd'assez balèze ! Alors si on se bat ensemble,\nje deviendrai plus fort, j'en suis sûr !
+MID_LGV_Scout_Dai_m05_006: Par contre, va quand même falloir\nme faire une offre intéressante, hein...
+MID_LGV_Scout_Dai_m06: <TH>
+MID_LGV_Scout_Dai_m06_001: Je suis sûr que plein de filles vont tomber\nraides dingues de moi. Même Anatolia !
+MID_LGV_Scout_Dai_m06_002: Je sais pas pourquoi tu te bats, mais tu peux compter\nsur moi pour faire un super boulot.
+MID_LGV_Scout_Dai_m06_003: Je sais pas pourquoi on va se battre,\nmais je vais faire un super boulot.
+MID_LGV_Scout_Dai_m07: <TH>
+MID_LGV_Scout_Dai_m07_001: Bon, alors j'essaie de comprendre... On vient me\nsolliciter, et au final je suis pas si intéressant que\nça ? Bah, je vaux bien mieux que ça !
+MID_LGV_Scout_Dai_m08: <TH>
+MID_LGV_Scout_Dai_m08_001: Si c'est pas possible de me donner ce que j'demande,\nsuffit de le dire. Je laisse passer pour cette fois,\nmais la prochaine, faudra faire mieux !
+MID_LGV_Scout_Hal_m01: <TH>
+MID_LGV_Scout_Hal_m01_001: Que je me joigne à votre équipe ? Vraiment ?
+MID_LGV_Scout_Hal_m01_002: Que je me joigne à votre équipe ? Vraiment ?
+MID_LGV_Scout_Hal_m01_003: Je ne suis pas vraiment une guerrière, plutôt\nune artiste de rue.
+MID_LGV_Scout_Hal_m01_004: M-Mais, si ce n'est pas un problème, j'espère\nqu'on pourra travailler ensemble !
+MID_LGV_Scout_Hal_m01_005: M-Mais, si ce n'est pas un problème, j'espère\nqu'on pourra travailler ensemble !
+MID_LGV_Scout_Hal_m02: <TH>
+MID_LGV_Scout_Hal_m02_001: J'ai été acceptée ! C'est génial ! Merci !
+MID_LGV_Scout_Hal_m02_002: J'ai été acceptée ! C'est génial ! Merci !
+MID_LGV_Scout_Hal_m02_003: Eh, mais qu'est-ce qui me prend ?\nC'est moi qu'on a sollicitée, et pas l'inverse !
+MID_LGV_Scout_Hal_m03: <TH>
+MID_LGV_Scout_Hal_m03_001: Quoi ? C'était juste pour me taquiner ? Ooh...
+MID_LGV_Scout_Hal_m04: <TH>
+MID_LGV_Scout_Hal_m04_001: Anatolia m'a aidée, et je lui en suis vraiment\nreconnaissante.
+MID_LGV_Scout_Hal_m04_002: Anatolia m'a aidée, et je lui en suis vraiment\nreconnaissante.
+MID_LGV_Scout_Hal_m04_003: C'est pour ça que je ne peux pas faire partie\nde votre équipe. Mais vous pouvez venir\nvoir mes spectacles !
+MID_LGV_Scout_Hal_m04_004: C'est pour ça que je ne peux pas faire partie\nde votre équipe. Mais vous pouvez venir\nvoir mes spectacles !
+MID_LGV_Scout_Hal_m05: <TH>
+MID_LGV_Scout_Hal_m05_001: Que je me joigne à votre équipe ?! Moi ?\nIl n'y a pas erreur sur la personne ?
+MID_LGV_Scout_Hal_m05_002: Que je me joigne à votre équipe ?! Moi ?\nIl n'y a pas erreur sur la personne ?
+MID_LGV_Scout_Hal_m05_003: Je ne suis pas très douée au combat, moi.\nJ'ai plutôt tendance à me reposer sur Anatolia...
+MID_LGV_Scout_Hal_m05_004: Je ne suis pas très douée au combat, moi.\nJ'ai plutôt tendance à me reposer sur Anatolia...
+MID_LGV_Scout_Hal_m05_005: Ça ne suffit pas ? Si j'avais été forte, j'aurais\npeut-être pu les aider, eux...
+MID_LGV_Scout_Hal_m05_006: Si j'aide votre équipe, peut-être que je deviendrai\nassez forte pour protéger les gens auxquels je tiens ?
+MID_LGV_Scout_Hal_m05_007: Si j'aide votre équipe, peut-être que je deviendrai\nassez forte pour protéger les gens auxquels je tiens ?
+MID_LGV_Scout_Hal_m05_008: O-On peut parler récompense, quand même ?\nJe ne sais pas quel est l'usage en vigueur, mais...\nCette quantité, peut-être ?
+MID_LGV_Scout_Hal_m06: <TH>
+MID_LGV_Scout_Hal_m06_001: J-J'ai été acceptée ! Je suis si contente ! Merci !
+MID_LGV_Scout_Hal_m06_002: Pourquoi est-ce qu'on dirait que c'est moi\nqui demande de l'aide finalement ?
+MID_LGV_Scout_Hal_m06_003: Enfin, j'ai hâte qu'on travaille ensemble.
+MID_LGV_Scout_Hal_m06_004: Enfin, j'ai hâte qu'on travaille ensemble.
+MID_LGV_Scout_Hal_m07: <TH>
+MID_LGV_Scout_Hal_m07_001: Alors, on se dégonfle ? C'était juste pour\nme taquiner ou quoi ?!
+MID_LGV_Scout_Hal_m08: <TH>
+MID_LGV_Scout_Hal_m08_001: Ça suffit pas. Je demande trop ?
+MID_LGV_Scout_Hal_m08_002: Ça suffit pas. Je demande trop ?
+MID_LGV_Scout_Guj_m01: <TH>
+MID_LGV_Scout_Guj_m01_001: Je savais qu'il allait se passer un truc intéressant\naujourd'hui. Un truc épique, même !
+MID_LGV_Scout_Guj_m01_002: Oh, Reine Theodora ! Vous voulez que je sois\ndans votre brigade, non ?
+MID_LGV_Scout_Guj_m01_003: Alors, on veut recruter Guzran l'Increvable...
+MID_LGV_Scout_Guj_m01_004: Vous avez sûrement entendu que je suis tellement\nbalèze qu'une fois, j'ai liquidé mille ennemis.\nEt d'un seul coup, en plus !
+MID_LGV_Scout_Guj_m01_005: Faut dire que j'en vaux dix, des mercenaires.\nAlors, c'est parti ?
+MID_LGV_Scout_Guj_m01_006: Je serai une recrue du tonnerre. Alors,\nj'me suis bien vendu ?
+MID_LGV_Scout_Guj_m02: <TH>
+MID_LGV_Scout_Guj_m02_001: Vous aurez tous la chance de voir un vrai pro\nà l'œuvre !
+MID_LGV_Scout_Guj_m02_002: C'est ce que j'imaginais, Majesté. Vous aimez avoir\ndes camarades costauds à vos côtés.
+MID_LGV_Scout_Guj_m02_003: Ça va être épique ! On va rentrer dans la légende,\nni plus ni moins !
+MID_LGV_Scout_Guj_m02_004: Vous allez pas regretter d'avoir choisi\nGuzran l'Increvable !
+MID_LGV_Scout_Guj_m03: <TH>
+MID_LGV_Scout_Guj_m03_001: Euh, vraiment ? Faudra pas venir pleurer\naprès ! Y a pas plus fort que moi !
+MID_LGV_Scout_Guj_m03_002: C'est dommage. Je faisais pas que fanfaronner,\nen tout cas. Y a pas plus fort que moi, c'est tout !
+MID_LGV_Scout_Guj_m04: <TH>
+MID_LGV_Scout_Guj_m04_001: Alors comme ça, on veut voir Guzran en action,\nhein ? Mais c'est trop tôt, va falloir attendre.
+MID_LGV_Scout_Guj_m04_002: Hein ? Vous voulez voir Guzran en action ? Ah, je le\nsavais, vous avez l'œil pour les bonnes recrues.
+MID_LGV_Scout_Guj_m04_003: J'aime m'amuser, faire des trucs intéressants,\nj'aime les gens qui vivent la vie à fond !
+MID_LGV_Scout_Guj_m04_004: Mais... désolé de vous le dire, je pense que vous\nseriez complètement larguée. Le jour où vous\npourrez suivre mon rythme, je s'rai là.
+MID_LGV_Scout_Guj_m05: <TH>
+MID_LGV_Scout_Guj_m05_001: Ça a l'air d'être le jour de chance de votre\néquipe. Surtout qu'elle est dirigée par quelqu'un\nqui lâche pas l'affaire facilement.
+MID_LGV_Scout_Guj_m05_002: Si vous venez me voir, c'est que vous avez\ndu flair pour débusquer les bonnes recrues,\nReine de Saramis.
+MID_LGV_Scout_Guj_m05_003: Je dis les choses comme elles sont. J'crois que\nça pourrait être intéressant qu'on bosse ensemble.
+MID_LGV_Scout_Guj_m05_004: Je suis un vétéran par ici. Tous les mercenaires\naux alentours sont passés entre mes mains.
+MID_LGV_Scout_Guj_m05_005: Je suis une légende chez les mercenaires !\nFaut dire que je les ai tous entraînés.
+MID_LGV_Scout_Guj_m05_006: Je dis les choses comme elles sont. Et là,\nje dis que ça serait intéressant de bosser\navec vous !
+MID_LGV_Scout_Guj_m05_007: Alors, si quelqu'un a besoin d'un allié, Guzran\nest là ! Et cette fois, exceptionnellement, je fais\nun prix d'ami !
+MID_LGV_Scout_Guj_m05_008: Je m'ennuie pas mal dernièrement. J'aimerais être\ndans votre brigade. Et j'ai une super offre à proposer,\nrien que pour vous !
+MID_LGV_Scout_Guj_m06: <TH>
+MID_LGV_Scout_Guj_m06_001: Je savais que ça s'rait oui ! J'aime faire\ndes affaires.
+MID_LGV_Scout_Guj_m06_002: Je m'y attendais, Majesté ! Faut avoir du cran pour\nprendre cette décision ! Et maintenant, mes pouvoirs\nincroyables sont à votre service.
+MID_LGV_Scout_Guj_m06_003: OK, ça va être épique ! C'est comme ça tous les jours\nquand on traîne avec Guzran l'Increvable !
+MID_LGV_Scout_Guj_m06_004: Vous allez pas regretter d'avoir recruté\nGuzran l'Increvable !
+MID_LGV_Scout_Guj_m07: <TH>
+MID_LGV_Scout_Guj_m07_001: Vraiment ? Une opportunité comme ça, ça arrive\nune fois tous les mille ans !
+MID_LGV_Scout_Guj_m07_002: Aha, j'ai été rejeté ! Intéressant. Enfin, si jamais\nvous changez d'avis, je bouge pas d'ici.
+MID_LGV_Scout_Guj_m08: <TH>
+MID_LGV_Scout_Guj_m08_001: Ha ! J'vois pas ce que j'ai demandé ! Pas\nde problème. Je resterai par ici, si jamais.
+MID_LGV_Scout_Guj_m08_002: Désolé, mais vous avez pas ce que je vous ai\ndemandé. Vous inquiétez pas. Je serai par ici\nquand vous aurez ce qu'il faut.
+MID_LGV_Scout_Yan_m01: <TH>
+MID_LGV_Scout_Yan_m01_001: Pourrais-je proposer mon aide lors des combats ?
+MID_LGV_Scout_Yan_m01_002: Seriez-vous intéressée par l'idée de m'ajouter\nau rang le plus modeste de votre entourage,\nReine Theodora ?
+MID_LGV_Scout_Yan_m01_003: Mes honoraires ne devraient pas poser de problème.\nJe ne cherche pas à obtenir des rémunérations\nexcessives. Je lutte en suivant le destin.
+MID_LGV_Scout_Yan_m01_004: Ne vous inquiétez pas, je ne souhaite pas accéder\nà un rang supérieur. Je ne connais que trop bien\nles rouages du pouvoir.
+MID_LGV_Scout_Yan_m01_005: Cependant, j'ai une exigence personnelle. Je souhaite\navoir la liberté... de boire à ma guise. Ha ha !
+MID_LGV_Scout_Yan_m01_006: Cependant, j'ai une exigence personnelle. Je souhaite\navoir la liberté... de boire à ma guise. Ha ha !
+MID_LGV_Scout_Yan_m02: <TH>
+MID_LGV_Scout_Yan_m02_001: C'est compris ! Le pouvoir que je peux offrir...
+MID_LGV_Scout_Yan_m02_002: C'est compris ! Mon pouvoir est à vous.
+MID_LGV_Scout_Yan_m02_003: C'est le pouvoir d'un homme ayant parcouru\nles quatre coins du monde et qui est à présent\nlà pour servir !
+MID_LGV_Scout_Yan_m02_004: C'est le pouvoir d'un homme ayant parcouru\nles quatre coins du monde et qui est là pour\nvous servir, Votre Majesté !
+MID_LGV_Scout_Yan_m03: <TH>
+MID_LGV_Scout_Yan_m03_001: Hmm, je vois. Quand le destin aura décidé que c'est\nle bon moment, je serai là.
+MID_LGV_Scout_Yan_m03_002: Dans ce cas, revenez me voir si vous changez d'avis.\nD'ici là, je prierai pour que votre volonté trouve\nson accomplissement.
+MID_LGV_Scout_Yan_m04: <TH>
+MID_LGV_Scout_Yan_m04_001: Je me trouve actuellement ici, mais j'ai visité\nde nombreux territoires, mené par le vent.
+MID_LGV_Scout_Yan_m04_002: Je ne doute point que l'offre serait généreuse,\nmais je souhaite prendre une pause pour le moment.\nLe destin nous réunira peut-être un jour.
+MID_LGV_Scout_Yan_m04_003: Votre offre serait sûrement généreuse, mais je ne suis\npas encore prêt à être lié à quelqu'un. Le destin nous\nréunira peut-être un jour.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_001: Hmm. Est-ce pour m'inviter dans votre équipe ?
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_002: Hmm. Votre Majesté, souhaitez-vous m'inviter\nà rejoindre votre suite ?
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_003: Je pense que cette rencontre est le fait du destin.\nLes cieux ont inexplicablement lié nos chemins.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_004: Je pense que cette rencontre est le fait du destin.\nLes cieux ont inexplicablement lié nos chemins.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_005: Mais la volonté des cieux peut attendre. J'ai\nun sujet plus important à aborder...
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_006: Mais la volonté des cieux peut attendre. J'ai\nun sujet plus important à aborder...
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_007: Il s'agit de ma passion pour l'alcool ! La boisson,\nles spiritueux et tout le reste ! Et celle-ci\ndéterminera mon implication !
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_008: Il s'agit de ma passion pour l'alcool ! La boisson,\nles spiritueux et tout le reste ! Et celle-ci\ndéterminera mon implication !
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_009: Il va falloir passer une épreuve. Je vais poser\ntrois questions à propos de mon intérêt pour\nde telles boissons.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_010: Vous devez passer une épreuve. Je vais vous poser\ntrois questions à propos de mon intérêt pour\nde telles boissons.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_011: Nous pourrons collaborer... si je suis d'accord\navec les réponses.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_012: Je me joindrai à vous... si je suis d'accord\navec vos réponses.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_013: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Scouting_Yan_m01_014: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Yan_m01_001: Oh... On n'essaie même pas ? Très bien.
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Yan_m01_002: Oh... Vous n'essaierez même pas ? Bien,\ncomme vous voudrez.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_001: Alors, voici ma première question ! Qu'est-ce qui\ns'accorde le mieux avec du vin issu de raisins ?
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_002: Alors, voici ma première question ! Qu'est-ce qui\ns'accorde le mieux avec du vin issu de raisins ?
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_003: <ICA>Le poisson séché.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_004: <ICB>Le fromage.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_005: <ICC>Les dattes.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_006: <ACA>C'est incorrect ! Un vin accompagné de poisson\nséché formerait un horrible mélange de saveurs !
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_007: <ACA>C'est incorrect ! Un vin accompagné de poisson\nséché formerait un horrible mélange de saveurs !
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_008: <ACA>Face à de telles lacunes, mon intérêt est en berne.\nNous pourrons réessayer une autre fois.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_009: <ACA>Face à vos lacunes, mon intérêt est en berne.\nNous pourrons réessayer une autre fois,\nVotre Majesté.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_010: <ACB>Oui ! Le vin s'accorde aux riches saveurs du fromage\navec ses propriétés aigres et astringentes. C'est\nun très bon choix !
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_011: <ACB>Oui ! Le vin s'accorde aux riches saveurs du fromage\navec ses propriétés aigres et astringentes. C'est\nun très bon choix !
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_012: <ACB>Bien évidemment, ce serait encore plus correct\nd'accompagner un vin d'un fromage fabriqué\ndans la même région.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_013: <ACB>Bien évidemment, ce serait encore plus correct\nd'accompagner un vin d'un fromage fabriqué\ndans la même région.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_014: <ACC>C'est incorrect. L'extrême douceur des dattes risque\nde faire ressortir le côté astringent d'un vin.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_015: <ACC>C'est incorrect. L'extrême douceur des dattes risque\nde faire ressortir le côté astringent d'un vin.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_016: <ACC>Nous ne pouvons pas nous mettre d'accord dans\nce domaine. Il faudra réessayer une prochaine fois.
+MID_LGV_Scout_Negotiation_SP_Question01_Yan_m01_017: <ACC>Nous ne pouvons pas nous mettre d'accord dans ce\ndomaine. Vous devrez réessayer une prochaine fois.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_001: Pour le moment, tout va bien. Voici ma deuxième\nquestion ! L'endroit où l'on consomme ce type\nde boissons peut faire la différence.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_002: Pour le moment, tout va bien. Voici ma deuxième\nquestion ! L'endroit où l'on consomme ce type\nde boissons peut faire la différence.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_003: C'est très subjectif. Quel est mon endroit\nde prédilection pour m'envoyer un petit verre ?
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_004: C'est très subjectif. Quel est mon endroit\nde prédilection pour m'envoyer un petit verre ?
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_005: <ICA>Sous la pleine lune.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_006: <ICB>Sur le sable brûlant.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_007: <ICC>Dans un navire ballotté par la tempête.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_008: <ACA>C'est exactement ça ! Je trouve cela exquis\nde m'offrir un verre sous la lumière froide de la lune.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_009: <ACA>Vous me connaissez parfaitement ! Je trouve cela\nexquis de m'offrir un verre sous la lumière froide\nde la lune.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_010: <ACA>Cela me touche au plus profond de mon âme, c'est\npeut-être dû au sang de mes ancêtres. J'espère que\nc'est compréhensible.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_011: <ACA>Cela me touche au plus profond de mon âme, c'est\npeut-être dû au sang de mes ancêtres. J'espère que\nc'est compréhensible.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_012: <ACB>C'est incorrect ! Je mourrais de soif dans un endroit\naussi chaud. Je voudrais tout, sauf de l'alcool !
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_013: <ACB>C'est incorrect ! Je mourrais de soif dans un endroit\naussi chaud. Je voudrais tout, sauf de l'alcool !
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_014: <ACB>Cette réponse m'attriste. J'aime profiter\nd'un petit verre dans des endroits plus raffinés.\nIl faudra réessayer.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_015: <ACB>Votre réponse m'attriste. J'aime profiter\nd'un petit verre dans des endroits plus raffinés.\nVous devrez réessayer.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_016: <ACC>C'est incorrect ! Si je buvais sur des vagues\ndéchaînées, l'alcool serait régurgité de manière\nassez... explosive ! Ce serait un beau gâchis.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_017: <ACC>C'est incorrect ! Si je buvais sur des vagues\ndéchaînées, l'alcool serait régurgité de manière\nassez... explosive ! Ce serait un beau gâchis.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_018: <ACC>Cette réponse dénote un tel manque de\nbon sens qu'elle me rend méfiant. Je ne peux\nque suggérer de réessayer une prochaine fois.
+MID_LGV_Scout_Negotiation_SP_Question02_Yan_m01_019: <ACC>C'est une honte que vous soyez à ce point tombée\nà côté. Vous devrez réessayer une prochaine fois.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_001: Ce n'est pas mal du tout pour l'instant...\nEt voici la dernière question.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_002: Ce n'est pas mal du tout pour l'instant,\nVotre Majesté... Et voici la dernière question.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_003: L'alcool, qu'il soit mousseux, pétillant ou autre,\npeut être fabriqué à partir de différents ingrédients.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_004: L'alcool, qu'il soit mousseux, pétillant ou autre,\npeut être fabriqué à partir de différents ingrédients.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_005: Il va falloir me dire de quoi est composée\nma boisson préférée !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_006: Pouvez-vous deviner de quoi est composée\nma boisson préférée ?
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_007: <ICA>De fruits.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_008: <ICB>De pommes de terre.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_009: <ICC>De miel.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_010: <ACA>Ah... Tant de boissons peuvent être fabriquées\nen fermentant des fruits.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_011: <ACA>Puisqu'il y a une grande variété de fruits, une grande\nvariété de boissons fermentées peuvent être\nfabriquées. Je ne pourrais pas choisir ma préférée.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_012: <ACA>Mais je les aime de manière égale,\nc'est donc... correct !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_013: <ACB>Ah... Tant de boissons peuvent être fabriquées\nà base de pommes de terre. Elles manquent\nde douceur, mais donnent un alcool de qualité.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_014: <ACB>Leur essence peut être distillée pour créer\nun spiritueux sans pareil. Vivifiant, tonique et frais !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_015: <ACB>Et cela me plaît tout autant que les autres types\nd'alcool, c'est donc... correct !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_016: <ACC>Ah... La substance des abeilles ouvrières. Enfin, un\nfermenteur industriel peut en fabriquer encore plus.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_017: <ACC>Je parle de l'hydromel, bien entendu. Les sucres\ndu miel sont transmutés par une étrange alchimie\nen boisson pétillante et pleine de saveur.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_018: <ACC>Et cela me plaît tout autant que n'importe quelle\nautre boisson effervescente, c'est donc... correct !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_019: Toutes les réponses étaient correctes. Il est clair\nque nous allons nous comprendre !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_020: Votre Majesté ! Vous avez répondu correctement\nà toutes les questions. Il est clair que vous allez\nme comprendre !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_021: Ainsi, le pouvoir que je peux offrir...
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_022: Ainsi, Reine Theodora, mon pouvoir est à vous.
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_023: C'est le pouvoir d'un homme ayant parcouru\nles quatre coins du monde et qui est là pour servir !
+MID_LGV_Scout_Negotiation_SP_Question03_Yan_m01_024: C'est le pouvoir d'un homme ayant parcouru\nles quatre coins du monde et qui est là pour\nservir Votre Majesté !
+MID_LGV_Scout_Iio_m01: <TH>
+MID_LGV_Scout_Iio_m01_001: Hé, et si votre équipe me recrutait ? Je serais\nravi de me battre avec vous tous.
+MID_LGV_Scout_Iio_m01_002: Votre Majesté, je suis désolé d'être aussi direct.\nPourriez-vous s'il vous plaît me recruter ?
+MID_LGV_Scout_Iio_m01_003: Bertrand, laissez-moi me battre pour vous,\nje vous en prie.
+MID_LGV_Scout_Iio_m01_004: Je suis nouveau dans ce métier et j'aimerais\nrendre service, tout en apprenant à devenir\nun meilleur guerrier.
+MID_LGV_Scout_Iio_m01_005: Je suis nouveau dans ce métier, mais j'aimerais\nvous servir, même si j'apprends encore à devenir\nun meilleur guerrier.
+MID_LGV_Scout_Iio_m01_006: Vous pensez peut-être que je ne suis pas digne\nde confiance car je viens d'Arago, mais c'est\nexactement pour cela que je veux vous aider.
+MID_LGV_Scout_Iio_m02: <TH>
+MID_LGV_Scout_Iio_m02_001: Vraiment ?! Merci ! Je ferai tout ce qu'il faudra.
+MID_LGV_Scout_Iio_m02_002: Vraiment ?! Merci ! Je vous en prie, je ferai tout\nce que vous voudrez.
+MID_LGV_Scout_Iio_m03: <TH>
+MID_LGV_Scout_Iio_m03_001: Très bien. Je serai là si la situation change.
+MID_LGV_Scout_Iio_m03_002: Je vois. Quel dommage. N'hésitez pas à revenir\nme demander si vous changez d'avis.
+MID_LGV_Scout_Iio_m04: <TH>
+MID_LGV_Scout_Iio_m04_001: Je veux prêter allégeance, mais surtout,\nj'espère trouver la personne idéale à servir.
+MID_LGV_Scout_Iio_m04_002: J'apprécie votre intérêt, mais je vous suggère\nde ne pas perdre votre temps à me recruter.
+MID_LGV_Scout_Iio_m04_003: J'apprécie votre intérêt, mais je vous suggère\nde ne pas perdre votre temps à me recruter.
+MID_LGV_Scout_Iio_m04_004: Nous ne nous connaissons pas assez...\npour savoir si je fais face à cette personne.
+MID_LGV_Scout_Iio_m04_005: Je dois avouer que j'ai refusé de prêter allégeance\nau roi de ma terre natale. Il se pourrait... que je\nrefuse également votre proposition.
+MID_LGV_Scout_Iio_m04_006: Je dois avouer que j'ai refusé de prêter allégeance\nau roi de ma terre natale. Il se pourrait... que je\nrefuse également votre proposition.
+MID_LGV_Scout_Iio_m05: <TH>
+MID_LGV_Scout_Iio_m05_001: J'étais autrefois un chevalier d'Arago, mais ma terre\nnatale a changé. J'ai fini par la détester, et je l'ai\ndonc abandonnée.
+MID_LGV_Scout_Iio_m05_002: J'étais autrefois un chevalier d'Arago, mais ma terre\nnatale a changé. J'ai fini par la détester, et je l'ai\ndonc abandonnée.
+MID_LGV_Scout_Iio_m05_003: Général Bertrand ? Je vous ai vu une fois\nquand je vivais à Arago.
+MID_LGV_Scout_Iio_m05_004: Maintenant, j'essaie de gagner ma vie en tant\nque mercenaire tout en cherchant une personne\nà servir.
+MID_LGV_Scout_Iio_m05_005: Maintenant, j'essaie de gagner ma vie en tant\nque mercenaire tout en cherchant une personne\nà servir.
+MID_LGV_Scout_Iio_m05_006: Je fus jadis chevalier d'Arago, jusqu'à ce que\ntout bascule. J'ai fini par détester habiter là-bas,\net je suis donc parti.
+MID_LGV_Scout_Iio_m05_007: Je ne dis pas que je voudrais être un vassal, mais\nplutôt un employé dévoué.
+MID_LGV_Scout_Iio_m05_008: Je ne sais pas si vous suivez des idéaux pour\ngouverner, Votre Majesté, mais j'ai entendu dire\nque vous étiez une bonne souveraine.
+MID_LGV_Scout_Iio_m05_009: Pour le moment, je gagne ma vie en tant que\nmercenaire tout en cherchant une personne à servir.
+MID_LGV_Scout_Iio_m05_010: Alors, c'est parfait. Tant que je suis payé\ncorrectement, je serai ravi de me rendre utile.
+MID_LGV_Scout_Iio_m05_011: Je serai ravi de me joindre à vous en tant que\nmercenaire si je suis payé correctement pour\nmes services.
+MID_LGV_Scout_Iio_m05_012: Je suis sûr que vous avez... votre avis sur ce pays.\nSi vous pouvez me payer, je serai ravi de vous servir.
+MID_LGV_Scout_Iio_m05_013: Mon fidèle destrier a faim. Pourrais-je recevoir\nune avance sur salaire pour sa pitance ?
+MID_LGV_Scout_Iio_m05_014: Mon fidèle destrier a faim. Votre Majesté,\nsa nourriture pourrait-elle constituer\nune avance sur mon salaire ?
+MID_LGV_Scout_Iio_m06: <TH>
+MID_LGV_Scout_Iio_m06_001: Merci ! Rocinan l'appréciera également.
+MID_LGV_Scout_Iio_m06_002: Merci ! Je vous remercie également au nom\nde Rocinan.
+MID_LGV_Scout_Iio_m06_003: Même si tout cela m'est nouveau, je jure que\nje me révélerai utile.
+MID_LGV_Scout_Iio_m06_004: Même si tout cela m'est nouveau, j'espère que je\npourrai vous être utile dans tout ce que vous voudrez.
+MID_LGV_Scout_Iio_m07: <TH>
+MID_LGV_Scout_Iio_m07_001: Très bien. Je serai là si la situation change.
+MID_LGV_Scout_Iio_m07_002: Je vois. Quel dommage. N'hésitez pas à revenir\nme demander si vous changez d'avis.
+MID_LGV_Scout_Iio_m08: <TH>
+MID_LGV_Scout_Iio_m08_001: Cela ne suffit pas. J'attendrai ici de recevoir\nce que je demande.
+MID_LGV_Scout_Iio_m08_002: On dirait que vous n'avez pas la somme demandée.\nVous me trouverez ici lorsque vous l'aurez réunie.
+MID_LGV_Scout_Pep_m01: <TH>
+MID_LGV_Scout_Pep_m01_001: Ainsi, on souhaite se retrouver sur le champ\nde bataille avec le roi de Brigid ?
+MID_LGV_Scout_Pep_m01_002: Cette requête est acceptable venant de la part\nde quelqu'un m'ayant vaincu lors d'une compétition.\nDonc... pourquoi pas !
+MID_LGV_Scout_Pep_m01_003: Nous partagerons désormais ma force et ferons\ncause commune. Voilà qui ne peut que constituer\nun grand honneur !
+MID_LGV_Scout_Pep_m02: <TH>
+MID_LGV_Scout_Pep_m02_001: Et c'est ainsi que nos chemins se rejoignent. Que les\nesprits veillent sur notre heureuse union !
+MID_LGV_Scout_Pep_m02_002: Et c'est ainsi que nos chemins se rejoignent. Les\nesprits veillent clairement sur vous !
+MID_LGV_Scout_Pep_m03: <TH>
+MID_LGV_Scout_Pep_m03_001: Ma présence rayonnante présenterait-elle\nquelque risque ? Il ne faut pas en avoir peur !
+MID_LGV_Scout_Noc_m01: <TH>
+MID_LGV_Scout_Noc_m01_001: On cherche des gens qui savent cogner, c'est ça ?\nPour ce genre de choses, je me trompe jamais.
+MID_LGV_Scout_Noc_m01_002: Enfin bref, me voilà. Je bosse ici en\ntant que gladiatrice.
+MID_LGV_Scout_Noc_m01_003: Alors autant dire que je sais me battre,\net que j'en suis fière. On fait équipe ?
+MID_LGV_Scout_Noc_m02: <TH>
+MID_LGV_Scout_Noc_m02_001: Je le savais ! Mon intuition me trompe jamais\ndans ces cas-là. C'est parti !
+MID_LGV_Scout_Noc_m02_002: En tout cas, je joins toujours la parole\naux actes, et je vais montrer ce que je vaux.
+MID_LGV_Scout_Noc_m03: <TH>
+MID_LGV_Scout_Noc_m03_001: Hein ? Mais j'ai une bonne intuition, normalement...\nBon ! Il faudra juste crier si besoin.
+MID_LGV_Scout_Noc_m04: <TH>
+MID_LGV_Scout_Noc_m04_001: Le dernier mec avec lequel j'ai travaillé était\nvraiment bizarre. J'ai fini par le cogner.
+MID_LGV_Scout_Noc_m04_002: C'est pour ça que j'y pense à deux fois maintenant\navant de m'associer à quelqu'un. Merci de me l'avoir\nproposé, mais faut encore que j'y réfléchisse.
+MID_LGV_Scout_Sop_m01: <TH>
+MID_LGV_Scout_Sop_m01_001: Il faut une soigneuse ? C'est mon domaine\nd'expertise.
+MID_LGV_Scout_Sop_m01_002: Vous cherchez une soigneuse ? C'est mon domaine\nd'expertise.
+MID_LGV_Scout_Sop_m01_003: En plus, j'ai travaillé au temple.\nJe saurai me rendre utile, j'en suis sûre...\nEnfin, j'en suis presque sûre !
+MID_LGV_Scout_Sop_m01_004: En plus, j'ai travaillé au temple.\nJe saurai me rendre utile, j'en suis sûre...\nEnfin, j'en suis presque sûre !
+MID_LGV_Scout_Sop_m02: <TH>
+MID_LGV_Scout_Sop_m02_001: Merci ! Je pourrai enfin me payer... euh, non rien !
+MID_LGV_Scout_Sop_m02_002: Merci ! Je pourrai enfin me payer... euh, non rien !
+MID_LGV_Scout_Sop_m02_003: Je suis heureuse de pouvoir aider le groupe !\nJe commence quand ?
+MID_LGV_Scout_Sop_m02_004: Je suis heureuse de pouvoir vous aider ! Je vous\npromets que je ferai de mon mieux !
+MID_LGV_Scout_Sop_m03: <TH>
+MID_LGV_Scout_Sop_m03_001: Ah... Bon, ce sera pour une autre fois.
+MID_LGV_Scout_Sop_m03_002: Ah... Bon, ce sera pour une autre fois. Je serai ravie\nde vous aider.
+MID_LGV_Scout_Sop_m04: <TH>
+MID_LGV_Scout_Sop_m04_001: Ah, mon aide est sollicitée ?\nC'est très bien !
+MID_LGV_Scout_Sop_m04_002: Vous avez besoin de mon aide ?\nC'est très bien !
+MID_LGV_Scout_Sop_m04_003: En fait, on se connaît pas encore\nassez bien. Je vais devoir refuser.
+MID_LGV_Scout_Sop_m04_004: En fait, je suis pas sûre d'être à la hauteur de vos\nattentes. Si je peux être franche, vous m'intimidez,\nVotre Majesté.
+MID_LGV_Scout_Cat_m01: <TH>
+MID_LGV_Scout_Cat_m01_001: Un instant... Je souhaiterais deviner\nla motivation de notre tête-à-tête.
+MID_LGV_Scout_Cat_m01_002: Un instant... Je souhaiterais deviner\nla motivation de notre tête-à-tête.
+MID_LGV_Scout_Cat_m01_005: Un instant... Je souhaiterais savoir si votre nom\nest déjà connu.
+MID_LGV_Scout_Cat_m01_003: Hmm...
+MID_LGV_Scout_Cat_m01_004: Eh bien, c'est limpide. C'est pour que je me joigne\nà votre groupe, non ?
+MID_LGV_Scout_Cat_m01_006: Il semble que le nom de « Leda » ait déjà acquis\nune certaine renommée par ici. Ainsi, vous souhaitez\nque je devienne votre alliée ?
+MID_LGV_Scout_Cat_m02: <TH>
+MID_LGV_Scout_Cat_m02_001: Je le savais. Rien d'étonnant, je compte\nparmi les meilleurs chevaliers.
+MID_LGV_Scout_Cat_m02_004: Je m'en doutais. Pardonnez-moi si je me suis\nmontrée impolie. Vous êtes parfaitement digne\nque je mette ma lance à votre service.
+MID_LGV_Scout_Cat_m02_002: Nous combattrons ensemble, en tant qu'alliés,\nà compter d'aujourd'hui.
+MID_LGV_Scout_Cat_m02_003: Nous combattrons ensemble, en tant qu'alliées,\nà compter d'aujourd'hui.
+MID_LGV_Scout_Cat_m03: <TH>
+MID_LGV_Scout_Cat_m03_001: Comment ? J'ai certainement mal entendu.\nNous en discuterons de nouveau plus tard.
+MID_LGV_Scout_Cat_m04: <TH>
+MID_LGV_Scout_Cat_m04_001: J'ai affaire à quelqu'un qui sait\nreconnaître l'excellence !
+MID_LGV_Scout_Cat_m04_002: J'ai affaire à quelqu'un qui sait\nreconnaître l'excellence !
+MID_LGV_Scout_Cat_m04_003: Il est évident que vous savez reconnaître l'excellence.
+MID_LGV_Scout_Cat_m04_007: Tenez-vous donc tant à me compter parmi\nvos alliés ? Ma foi, cela prouve la finesse\nde votre jugement.
+MID_LGV_Scout_Cat_m04_004: En ma qualité de chevaleresse d'exception, je sais\nquand quelqu'un est fait pour moi. Et là, ce n'est\npas le cas. Du moins, pas encore.
+MID_LGV_Scout_Cat_m04_005: En ma qualité de chevaleresse d'exception, je sais\nquand quelqu'un est fait pour moi. Et là, ce n'est\npas le cas. Du moins, pas encore.
+MID_LGV_Scout_Cat_m04_006: En ma qualité de chevaleresse d'exception, je sais\nquand quelqu'un est fait pour moi. Et là, sauf votre\nrespect, ce n'est pas le cas. Du moins, pas encore.
+MID_LGV_Scout_Cat_m04_008: Toutefois, en ma qualité de chevaleresse d'exception,\nje ne saurais donner mon consentement tant que\nvotre nom ne sera pas plus illustre.
+MID_LGV_Scout_Ned_m01: <TH>
+MID_LGV_Scout_Ned_m01_001: Oui ? Est-ce pour me recruter ?
+MID_LGV_Scout_Ned_m01_002: Vous souhaitez me recruter ? Après mes actions\ndurant la rébellion, je n'aurais jamais pensé que...
+MID_LGV_Scout_Ned_m01_003: Je pense que nous pourrions établir une relation\nde confiance.
+MID_LGV_Scout_Ned_m01_004: Je vous présente mes excuses, Reine Theodora.\nJe n'ai aucun droit de vous remettre en question.
+MID_LGV_Scout_Ned_m01_005: De plus, cette force que je perçois est\nimpressionnante. Je serais heureuse\nque nous fassions équipe.
+MID_LGV_Scout_Ned_m01_006: Vous êtes un véritable atout sur le champ de bataille.\nJe serais heureuse de me joindre à vous.
+MID_LGV_Scout_Ned_m02: <TH>
+MID_LGV_Scout_Ned_m02_001: Le contrat est pour ainsi dire signé,\nnous travaillons désormais ensemble.
+MID_LGV_Scout_Ned_m02_002: Le contrat est pour ainsi dire signé,\nje travaille désormais pour vous.
+MID_LGV_Scout_Ned_m03: <TH>
+MID_LGV_Scout_Ned_m03_001: Je vois. Eh bien, c'est un choix.
+MID_LGV_Scout_Ned_m03_002: Je comprends, Votre Majesté. Je serai heureuse\nde vous offrir mes services dans le futur.
+MID_LGV_Scout_Ned_m04: <TH>
+MID_LGV_Scout_Ned_m04_001: Me recruter ? Je suppose que je pourrais me\nrendre utile.
+MID_LGV_Scout_Ned_m04_002: C'est un honneur d'avoir affaire à vous... même si\nje viens d'une maison qui a soutenu le prince Dyan.
+MID_LGV_Scout_Ned_m04_003: Toutefois, je choisis avec soin les personnes avec qui\nje travaille, et je ne suis pas encore sûre de pouvoir\navoir confiance.
+MID_LGV_Scout_Ned_m04_004: Il y a sûrement des personnes bien plus aptes\nà travailler pour vous. Je vais donc vous conseiller\nd'aller voir quelqu'un d'autre.
+MID_LGV_Scout_Ned_m05: <TH>
+MID_LGV_Scout_Ned_m05_001: J'étais jadis une chevaleresse réputée de Saramis,\nmais certains événements m'ont poussée à devenir\nmercenaire.
+MID_LGV_Scout_Ned_m05_002: C'est un honneur d'avoir affaire à vous... mais il faut\nque vous sachiez que je viens d'une maison ayant\nsoutenu le prince Dyan.
+MID_LGV_Scout_Ned_m05_003: J'ai à cœur de ne travailler que pour des gens\nmoralement irréprochables, de même que\nje refuse d'accomplir quelque fourberie.
+MID_LGV_Scout_Ned_m05_004: J'étais une chevaleresse qui a abandonné Saramis.\nUne telle mercenaire ferait honte à votre nom.
+MID_LGV_Scout_Ned_m05_005: Mais je pense que dans notre cas, je peux avoir\nconfiance, et rien ici ne me fait penser que\nj'aurai à suivre des ordres irrationnels.
+MID_LGV_Scout_Ned_m05_006: Quoi ? Vous souhaitez m'embaucher quand même ?\nVous êtes trop généreuse, Votre Majesté.
+MID_LGV_Scout_Ned_m05_007: Votre équipe a peut-être des objectifs importants\net assez de chance pour parvenir à les atteindre.
+MID_LGV_Scout_Ned_m05_008: Comment pourrais-je vous dire non, Reine\nTheodora...
+MID_LGV_Scout_Ned_m05_009: J'aimerais donc que nous signions un contrat.\nPeut-on se mettre d'accord sur ceci en échange\nde mes services ?
+MID_LGV_Scout_Ned_m05_010: J'aimerais tout de même signer un contrat.\nQue pensez-vous de me donner ceci en\néchange de mes services ?
+MID_LGV_Scout_Ned_m06: <TH>
+MID_LGV_Scout_Ned_m06_001: Nous avons donc un contrat et dorénavant,\nje suivrai les ordres.
+MID_LGV_Scout_Ned_m06_002: Nous avons donc un contrat.\nDorénavant, j'obéirai à tous vos ordres.
+MID_LGV_Scout_Ned_m06_003: Je me suis entraînée à combattre d'une manière un\npeu différente des autres. Je peux gérer n'importe\nquelle situation.
+MID_LGV_Scout_Ned_m06_004: Je me suis entraînée à combattre d'une manière un\npeu différente des autres. Je peux gérer n'importe\nquelle situation.
+MID_LGV_Scout_Ned_m07: <TH>
+MID_LGV_Scout_Ned_m07_001: Je vois. Je suis un peu déçue. Eh bien, c'est un choix.
+MID_LGV_Scout_Ned_m07_002: Avez-vous changé d'avis ? Je comprends, Votre\nMajesté. Je serai heureuse de vous offrir\nmes services dans le futur.
+MID_LGV_Scout_Ned_m08: <TH>
+MID_LGV_Scout_Ned_m08_001: Ce n'est pas ce que j'ai demandé. Je n'offrirai pas\nmes services pour moins que ça.
+MID_LGV_Scout_Ned_m08_002: Ce n'est pas ce que je voulais, Votre Majesté.\nJ'attendrai ici que vous m'apportiez tout\nce que je vous ai demandé.
+MID_LGV_Scout_Zac_m01: <TH>
+MID_LGV_Scout_Zac_m01_001: Toujours dans les Jeux Héroïques ?
+MID_LGV_Scout_Zac_m01_002: Argh ! Ça m'fait mal rien qu'à le demander, mais...
+MID_LGV_Scout_Zac_m01_003: Votre équipe aurait pas besoin d'un autre membre ?\nPour le moment je fais bande à part.
+MID_LGV_Scout_Zac_m01_004: J'peux rejoindre votre équipe ? Ma Brigade de Gaïa\na, ben... disparu.
+MID_LGV_Scout_Zac_m01_005: J'ai nulle part où aller et côté occupations,\nc'est que tchi. Ce qui m'faut, c'est qu'on\nm'accueille à bras ouverts.
+MID_LGV_Scout_Zac_m02: <TH>
+MID_LGV_Scout_Zac_m02_001: Ah, voilà quelqu'un qui m'comprend !\nBen c'est génial, j'peux refaire ce que\nj'fais le mieux.
+MID_LGV_Scout_Zac_m02_002: Hein ? Non, c'est pas ce que j'ai dit.\nJ'ai dit que j'allais faire de mon mieux... Hé hé.
+MID_LGV_Scout_Zac_m03: <TH>
+MID_LGV_Scout_Zac_m03_001: Comment ça, non ?! Alors que j'ai demandé\ngentiment et tout ! C'est compliqué d'être sympa ?
+MID_LGV_Scout_Zac_m03_002: Comment ça, non ?! C'est marrant de me\nfaire miroiter comme ça ? Et c'est si compliqué\nd'être sympa avec moi ?
+MID_LGV_Scout_Zac_m04: <TH>
+MID_LGV_Scout_Zac_m04_001: Quoi ? Je peux rejoindre votre équipe ?
+MID_LGV_Scout_Zac_m04_002: J'ai été battu durant les jeux. Pas besoin de me\ntaper la causette comme si on était potes.
+MID_LGV_Scout_Zac_m04_003: Vous m'avez tous démoli. Pas besoin de me\ntaper la causette comme si on était potes.
+MID_LGV_Scout_Negotiation_SP_Zac_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m01_001: Votre équipe aurait pas besoin d'un autre membre ?\nPour le moment je fais bande à part.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_002: Argh ! J'fais face à la dernière personne à qui\nj'voulais demander quoi qu'ce soit, mais parfois,\non peut pas tellement faire la fine bouche.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_003: Je me suis fait jeter des Jeux Héroïques.\nJ'ai échoué ! Et je dois dire que je suis\nun peu paumé...
+MID_LGV_Scout_Negotiation_SP_Zac_m01_004: J'peux rejoindre votre équipe ? Ma Brigade de Gaïa\nexiste plus.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_005: Quoi ? J'allais justement être sollicité ? Eh ben\nfaut cracher le morceau ! Je m'excuse... Nom\nd'un chien, je suis pas doué.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_006: Mais mon aide sera pas gratuite !
+MID_LGV_Scout_Negotiation_SP_Zac_m01_007: Bon, je sais que je traite avec quelqu'un\nde droit dans ses bottes...
+MID_LGV_Scout_Negotiation_SP_Zac_m01_008: Alors je veux être payé 10 000 écus.\nC'est honnête, non ?
+MID_LGV_Scout_Negotiation_SP_Zac_m01_009: <ICA>Débourser 10 000 écus.
+MID_LGV_Scout_Negotiation_SP_Zac_m01_010: <ICB>Refuser de payer.
+MID_LGV_Scout_Negotiation_SP_Zac_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m02_001: Quoi ? Sérieusement ? 10 000 écus, pour de vrai ?!
+MID_LGV_Scout_Negotiation_SP_Zac_m02_002: C'est pas une blague ? Parce qu'il est\npas question une seconde que je les rende,\nmême pas en rêve !
+MID_LGV_Scout_Negotiation_SP_Zac_m02_003: <ICA>Débourser 10 000 écus.
+MID_LGV_Scout_Negotiation_SP_Zac_m02_004: <ICB>Négocier.
+MID_LGV_Scout_Negotiation_SP_Zac_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m03_001: C'est réglé ! Quelle générosité !
+MID_LGV_Scout_Negotiation_SP_Zac_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m04_001: Quoi ? C'est pourtant pas bien compliqué ! C'est\nune alliance avec moi, le seul et l'unique Zarcone !
+MID_LGV_Scout_Negotiation_SP_Zac_m04_002: Bref. J'attends pas une réponse maintenant...
+MID_LGV_Scout_Negotiation_SP_Zac_m04_003: Et 1 000 ? Je descendrai pas plus bas !
+MID_LGV_Scout_Negotiation_SP_Zac_m04_004: <ICA>Débourser 1 000 écus.
+MID_LGV_Scout_Negotiation_SP_Zac_m04_005: <ICB>Refuser de payer.
+MID_LGV_Scout_Negotiation_SP_Zac_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m05_001: On annule tout ? C'est pour me faire flancher ?\nJe descendrai pas plus bas !
+MID_LGV_Scout_Negotiation_SP_Zac_m05_002: Bon, OK. Mais juste cette fois.
+MID_LGV_Scout_Negotiation_SP_Zac_m05_003: 1 000 écus ? C'est ma dernière offre !
+MID_LGV_Scout_Negotiation_SP_Zac_m05_004: <ICA>Débourser 1 000 écus.
+MID_LGV_Scout_Negotiation_SP_Zac_m05_005: <ICB>Refuser de payer.
+MID_LGV_Scout_Negotiation_SP_Zac_m06: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m06_001: Là, ça me va ! Hé hé ! Je savais qu'j'avais\naffaire à quelqu'un de bien.
+MID_LGV_Scout_Negotiation_SP_Zac_m07: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m07_001: C'est vraiment minable de profiter d'un homme\ndans le pétrin.
+MID_LGV_Scout_Negotiation_SP_Zac_m07_002: Me pousser vers le bas quand j'essaie de remonter\nà la surface... Je suis pas près de l'oublier !
+MID_LGV_Scout_Negotiation_SP_Zac_m07_003: Et 100 écus ? À prendre ou à laisser,\nespèce de raclure !
+MID_LGV_Scout_Negotiation_SP_Zac_m07_004: <ICA>Débourser 100 écus.
+MID_LGV_Scout_Negotiation_SP_Zac_m07_005: <ICB>Refuser de payer.
+MID_LGV_Scout_Negotiation_SP_Zac_m08: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m08_001: Je savais pas qu'on pouvait si bien combiner\nintégrité et radinerie. Mais bon, pour cette\nfois, je relève pas.
+MID_LGV_Scout_Negotiation_SP_Zac_m09: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m09_001: Non mais j'ai jamais vu une telle pince !\nC'est quoi, le plan, au juste ?!
+MID_LGV_Scout_Negotiation_SP_Zac_m09_002: Je suis honnête et c'est comme ça qu'on me\nremercie ? Où va le monde ?!
+MID_LGV_Scout_Negotiation_SP_Zac_m09_003: C'est bon, j'abandonne... 10 écus. Allez,\nj'suis à genoux, là.
+MID_LGV_Scout_Negotiation_SP_Zac_m09_004: <ICA>Débourser 10 écus.
+MID_LGV_Scout_Negotiation_SP_Zac_m09_005: <ICB>Refuser de payer.
+MID_LGV_Scout_Negotiation_SP_Zac_m10: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m10_001: Eh bah ça, c'est ce que j'appelle une négociation !\nJ'aurais jamais cru trouver quelqu'un de plus\nradin que moi.
+MID_LGV_Scout_Negotiation_SP_Zac_m11: <TH>
+MID_LGV_Scout_Negotiation_SP_Zac_m11_001: Ah ouais ? Ben notre accord tombe à l'eau. À plus !
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01_001: On a un marché ! Je rejoins votre équipe !\nOn va devenir les meilleurs potes du monde !
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01_002: Maintenant que je suis dans l'coup,\nj'peux refaire ce que j'fais le mieux.
+MID_LGV_Scout_Negotiation_SP_OK_Zac_m01_003: Hein ? Non, c'est pas ce que j'ai dit.\nJ'ai dit que j'allais faire de mon mieux... Hé hé.
+MID_LGV_Scout_Negotiation_SP_NoMoney_Zac_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoMoney_Zac_m01_001: Nan mais ça suffit pas ! J'hallucine, là !\nTant qu'le montant sera pas réuni,\nc'est pas la peine de revenir !
+MID_LGV_Scout_Maj_m01: <TH>
+MID_LGV_Scout_Maj_m01_001: {SetColor=Gray}Quand les Jeux Héroïques ont commencé,\nj'trépignais à l'idée d'y aller et de tout rafler.{SetColor=Default}
+MID_LGV_Scout_Maj_m01_002: {SetColor=Gray}Puis cet épéiste à la noix a débarqué d'on\nne sait où et m'a piqué ma place !{SetColor=Default}
+MID_LGV_Scout_Maj_m01_003: {SetColor=Gray}Là je trouve plus la femme avec qui j'étais...\nJ'arrive plus à gagner un rond... Tout le monde\nme traite comme un pestiféré...{SetColor=Default}
+MID_LGV_Scout_Maj_m01_004: Dietrich, c'est toi ! T'as tout foutu en l'air !
+MID_LGV_Scout_Maj_m01_005: Oh, voilà que nos chemins se croisent de nouveau !\nJe me rappelle quand t'étais à deux doigts\nde devenir mon sous-fifre.
+MID_LGV_Scout_Maj_m02: <TH>
+MID_LGV_Scout_Maj_m02_001: Hein ? Que je rejoigne votre équipe ? Sérieusement ?
+MID_LGV_Scout_Maj_m02_002: Je pleure pas ! D'accord... Je veux bien aider !
+MID_LGV_Scout_Maj_m02_003: J'ai le choix ? D'accord. Mais va pas\ncroire que je t'ai pardonné.
+MID_LGV_Scout_Maj_m02_004: T'as donc enfin remarqué ce que j'valais.\nEh ben il était temps !
+MID_LGV_Scout_Maj_m03: <TH>
+MID_LGV_Scout_Maj_m03_001: Hors de ma vue, alors. Le grand Majide est\nencore plus de mauvais poil !
+MID_LGV_Scout_Maj_m04: <TH>
+MID_LGV_Scout_Maj_m04_001: Eh, faut pas rêver ! Le grand Majide\nest le larbin de personne !
+MID_LGV_Scout_Maj_m04_002: Je suis pas d'humeur, là. Majide n'a plus confiance.\nAllez, du balai.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_001: {SetColor=Gray}Quand les Jeux Héroïques ont commencé,\nj'trépignais à l'idée d'y aller et de tout rafler.{SetColor=Default}
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_002: {SetColor=Gray}Puis cet épéiste à la noix a débarqué de\nce trou perdu qu'on appelle Fondant ou je\nsais pas quoi, et il m'a piqué ma place !{SetColor=Default}
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_003: Dietrich, c'est toi ! T'as tout foutu en l'air !
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_004: Oh, voilà que nos chemins se croisent de nouveau !\nJe me rappelle quand t'étais à deux doigts\nde devenir mon sous-fifre.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_005: {SetColor=Gray}Là je trouve plus la femme avec qui j'étais...\nJ'arrive plus à gagner un rond... Tout le monde\nme traite comme un pestiféré...{SetColor=Default}
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_006: Alors on veut que le grand Majide rejoigne son\néquipe ? C'est pas un peu bizarre de me\ndemander un truc pareil ?
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_007: Tu veux quoi ? Que le grand Majide te rejoigne ?\nTu te fous de moi ?
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_008: Mais on a besoin de moi, hein ? C'est bon, j'ai\ncompris. Suffit de l'admettre.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_009: <ICA>Admettre que vous avez besoin de lui.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_010: <ICB>Répondre que vous n'avez pas besoin de lui.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_011: <ACA>J'y crois pas. Hors de ma vue. Faut pas\nse moquer de Majide.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_012: <ACA>Ça m'intéresse pas de toute façon ! Je pense de plus\nen plus à aller m'enterrer dans un coin paumé.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_013: <ACA>En même temps... l'idée de finir quelque part où\npersonne saura qui je suis me tente pas des masses.
+MID_LGV_Scout_Negotiation_SP_1st_Maj_m01_014: <ACB>Faut pas faire l'imbécile avec moi.\nAllez hop, du balai !
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_001: Ridicule... Y en a pas un pour piger à quel point\nle grand Majide est grandiose...
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_002: Tout le monde me regarde comme si j'étais\nun déchet...
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_003: Je veux même plus être à la tête de ce dépotoir\nqu'on ose qualifier de ville. La mer pourrait\nl'emporter que ça me f'rait ni chaud ni froid.
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_004: C'est pour quoi ? C'est de nouveau pour que\nje rejoigne votre équipe ? On a besoin de moi\nà ce point ?
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_005: <ICA>Admettre que vous avez besoin de lui.
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_006: <ICB>Répondre que vous n'avez pas besoin de lui.
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_007: <ACA>Tu parles ! Comment je pourrais avoir confiance ?\nY en a qui veulent juste se pavaner devant\nla galerie.
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_008: <ACA>Eh oui, je suis plus né d'la dernière pluie. Comme\nd'hab', le but dans l'histoire, c'est de se payer ma\ntrogne. Et ça, bah il en est pas question !
+MID_LGV_Scout_Negotiation_SP_2nd_Maj_m01_009: <ACB>Ouais, je vois. Allez, hors de ma vue.\nLe grand Majide est vraiment sur les nerfs !
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_001: Encore ? Le grand Majide a l'air désespéré ou quoi ?
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_002: Je traînerai plus jamais avec qui que ce soit.\nC'est même pas la peine d'y penser ! Mais, euh...
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_003: J'devrais p'têt' changer d'avis. Ça fait un bail\nqu'on m'a dit avoir besoin de moi... et qu'on\nle pensait.
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_004: P'têt' bien... qu'on se fait du souci pour\nle vieux Majide ?
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_005: On aurait donc vraiment et réellement\nbesoin de moi, et moi seul ?
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_006: <ICA>Répondre que vous avez vraiment besoin de lui.
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_007: <ICB>Répondre que vous n'avez pas besoin de lui.
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_008: <ACA>A-Ah ouais ? Sans déconner ? Majide l'a entendu.\nLe grand Majide l'a vraiment entendu.
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_009: <ACA>Bah, faut croire que j'ai pas le choix. Donc\nd'accord. Mais va quand même pas t'imaginer\nqu'on est en bons termes.
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_010: <ACA>T'as donc enfin pigé que j'suis grandiose.\nIl était temps !
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_011: <ACA>Je... Je pleure pas ! D'accord... Je veux bien aider !
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_012: <ACA>Mais je s'rai à la tête de cette ville un jour ! Tout en\nayant la force de 10 hommes ! Faut pas l'oublier !
+MID_LGV_Scout_Negotiation_SP_3rd_Maj_m01_013: <ACB>Et moi qui pensais qu'on pourrait avoir juste\nun peu besoin de moi. Je f'rais mieux d'aller\nm'cacher...
+MID_LGV_Scout_Ven_m01: <TH>
+MID_LGV_Scout_Ven_m01_001: Hé ! Je cherche de nouveaux membres pour\nmon équipe !
+MID_LGV_Scout_Ven_m01_002: Je cherche de nouveaux membres pour mon équipe !
+MID_LGV_Scout_Ven_m01_003: Je cherche des recrues pour mon équipe et je me\nsuis dit que tant qu'à faire, autant recruter\nla personne qui m'a battu !
+MID_LGV_Scout_Ven_m01_004: Le talent se fait rare de nos jours, encore plus\nquand je recrute. Si ça, c'est pas un compliment...
+MID_LGV_Scout_Ven_m01_005: Le talent se fait rare de nos jours, encore plus\nquand je recrute. Prenez ça comme un compliment !
+MID_LGV_Scout_Ven_m01_006: Mon offre est limitée ! Et si c'est non,\nfaudra pas venir pleurer après !
+MID_LGV_Scout_Ven_m01_007: Cette proposition nous permettrait d'atteindre\nles sommets ensemble ! Alors ? Il suffit de dire oui !
+MID_LGV_Scout_Ven_m01_008: Vous prendriez part à ma fulgurante\nascension. Alors, avouez que c'est alléchant !
+MID_LGV_Scout_Ven_m01_009: Je peux pas tomber plus bas ! Cette alliance est\ndonc une opportunité d'atteindre les sommets.
+MID_LGV_Scout_Ven_m02: <TH>
+MID_LGV_Scout_Ven_m02_001: Je vais conquérir un paquet de territoires, c'est sûr.\nNos noms vont entrer dans l'histoire !
+MID_LGV_Scout_Ven_m02_002: Ooh ! Avec votre aide, je vais mettre la main\nsur un paquet de territoires !
+MID_LGV_Scout_Ven_m02_003: Je vais conquérir un paquet de territoires, c'est sûr.\nNos noms vont entrer dans l'histoire !
+MID_LGV_Scout_Ven_m02_004: À partir de maintenant, je serai en charge !\nEt j'aime mieux dire qu'il va falloir cravacher !\nHa ha !
+MID_LGV_Scout_Ven_m02_005: Je respecte votre pouvoir, et forcément,\nj'en attendrai plus de vous que des autres ! Ha ha !
+MID_LGV_Scout_Ven_m02_006: Je suis doué pour exploiter les gens ! Pour ça,\non peut me faire confiance ! Ha ha !
+MID_LGV_Scout_Ven_m03: <TH>
+MID_LGV_Scout_Ven_m03_001: C'est une habitude d'éviter ses supérieurs ?\nJ'attendrai qu'on revienne à la raison.
+MID_LGV_Scout_Ven_m03_002: Argh ! Je suppose que vous avez fait votre choix.\nC'est vous qui avez le dernier mot...
+MID_LGV_Scout_Ven_m03_003: C'est pas parce qu'on m'a battu qu'il faut prendre\nla grosse tête. Mais dans ma grande bonté,\nje veux bien attendre.
+MID_LGV_Scout_Ven_m04: <TH>
+MID_LGV_Scout_Ven_m04_001: On s'est déjà battus dans la superbe arène.\nJ'ai montré que je valais mon pesant d'écus !
+MID_LGV_Scout_Ven_m04_002: On dirait qu'on a compris tout ce qu'il y avait\nà gagner en suivant mes ordres.
+MID_LGV_Scout_Ven_m04_003: Vous avez compris ce que vous gagneriez\nà servir sous mes ordres, Votre Majesté !
+MID_LGV_Scout_Ven_m04_004: Désolé, mais j'ai besoin de recrues\nen meilleure forme. Il faudra revenir\naprès un entraînement plus intensif !
+MID_LGV_Scout_Ven_m04_005: Je suis désolé, mais vous correspondez pas\nencore exactement à ce que j'attends. Entraînez-vous\nd'abord, et après on pourra en reparler.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_001: Besoin de quelque chose ? Ça tombe bien !\nJ'avais un truc à dire.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_002: Il vous faut quelque chose ? Vous tombez à pic.\nJe voulais justement vous parler.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_003: J'ai une proposition géniale : travaillons en équipe !\nEnfin, dans la mienne !
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_004: Je vais pas tourner autour du pot : rejoignez\nmon équipe !
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_005: Je cherche des recrues pour mon équipe et je me\nsuis dit que tant qu'à faire, autant recruter\nla personne qui m'a battu !
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_006: Le talent se fait rare de nos jours, encore plus\nquand je recrute. Si ça, c'est pas un compliment...
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_007: Je crois bien n'avoir jamais fait une telle offre\nà qui que ce soit. Mais pour vous, Votre\nMajesté, on peut faire une exception.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_008: Cette proposition nous permettrait d'atteindre\nles sommets ensemble ! Alors ? Il suffit de dire oui !
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_009: Votre force vous a menée à moi ! Vous pourrez\nassister à ma fulgurante ascension.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_010: J'ai déjà tout préparé ! Allez, mon armée attend !
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_011: Tout est prêt ! Alors, allez-vous vous joindre à moi ?
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_012: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Start_Ven_m01_013: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_001: Ha ha ! C'était la seule réponse correcte.\nEt qui ne rêverait pas d'être sous mes ordres ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_002: Ha ha ! Le choix était évident !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_003: C'est pas tous les jours que je propose à quelqu'un\nde rejoindre mon équipe.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_004: C'est pas tous les jours que je propose à quelqu'un\nde rejoindre mon équipe.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_005: C'est agréable, hein ? Et c'est pas tout, j'ai également\nune histoire à partager ! Une histoire assez\npersonnelle !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_006: C'est agréable, non ? Et c'est pas tout, je vais\nvous raconter une histoire ! Une histoire\npersonnelle !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_007: Elle remonte à mes débuts, alors que j'étais\nsergent avec 10 soldats sous mes ordres.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_008: Elle remonte à mes débuts, alors que j'étais\nsergent avec 10 soldats sous mes ordres.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_009: Une nuit, j'ai fait un rêve, et pas n'importe lequel !\nJ'ai rêvé d'un grand général, en charge d'une légion\nde milliers de soldats.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_010: Une nuit, j'ai fait un rêve, et pas n'importe lequel !\nJ'ai rêvé d'un grand général, en charge d'une légion\nde milliers de soldats.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_011: Eh oui, c'était moi ! On entendait que ma voix\nsur le champ de bataille, guidant mes gars vers\nl'armée ennemie.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_012: Eh oui, c'était moi ! On entendait que ma voix\nsur le champ de bataille, guidant mes gars vers\nl'armée ennemie.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_013: Après, mes gars ont anéanti les armées une\npar une ! J'étais le guide suprême !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_014: Après, mes gars ont anéanti les armées une\npar une ! J'étais le guide suprême !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_015: C'était une révélation divine, ça va de soi. Je me\nsuis réveillé d'un coup, comme si j'avais été frappé\npar la foudre.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_016: C'était une révélation divine, ça va de soi. Je me\nsuis réveillé d'un coup, comme si j'avais été frappé\npar la foudre.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_017: J'en ai tout de suite pigé la signification. Ce général,\nça devait être moi, et j'allais tout faire pour y arriver.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_018: J'en ai tout de suite pigé la signification. Ce général,\nça devait être moi, et j'allais tout faire pour y arriver.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_019: J'ai bossé sans relâche mes stratégies. J'ai appris\npar cœur tous les bouquins de l'Ingénieux August.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_020: J'ai bossé sans relâche mes stratégies. J'ai appris\npar cœur tous les bouquins de l'Ingénieux August.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_021: J'ai appris tout ce que je pouvais. Je me suis cultivé\net entraîné pour devenir ce général !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_022: J'ai appris tout ce que je pouvais. Je me suis cultivé\net entraîné pour devenir ce général !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_023: Et puis... je me suis fait virer, on m'a chassé\ncomme un malpropre.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_024: Et puis... je me suis fait virer, on m'a chassé\ncomme un malpropre.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_025: ...
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_026: Hem, de quoi on parlait ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_027: Hem, de quoi on parlait ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_028: Ah, oui ! Du fait de rejoindre mon équipe !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_029: Ah, oui ! Du fait de rejoindre mon équipe !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_030: Mon nom entrera dans l'histoire ! Je m'assurerai\nque nos noms y entrent tous les deux !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_031: Avec votre aide, je deviendrai ce général et mon nom\nentrera dans l'histoire !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_032: À partir de maintenant, c'est moi qui commande !\nEt j'aime mieux dire qu'il va falloir cravacher !\nHa ha !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeA_Ven_m01_033: Je respecte votre pouvoir, et forcément,\nj'en attendrai plus de vous que des autres ! Ha ha !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_001: Quoi ? Je crois que j'ai pas été bien entendu...\nAllez, faisons équipe !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_002: Oh, désolé, je crois que vous m'avez mal entendu.\nAlors, vous allez vous joindre à moi ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m01_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_001: Il faut parler plus fort, j'entends pas ! Il suffit de dire\nqu'on va faire équipe ou quelque chose du genre !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_002: Désolé, j'ai pas bien compris. Vous avez dit que\nvous souhaitiez être mon alliée ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m02_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_001: Il faut parler plus fort pour que j'entende !\nAllez, on va faire équipe, non ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_002: Je suis sincèrement désolé, mon ouïe est pas au top\nces jours-ci. Vous voulez... intégrer mon armée,\nc'est ça ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m03_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_001: J'étais sûr d'avoir entendu un refus. Mais c'est pas\npossible. Ha ha ! Bien sûr qu'on va faire équipe !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_002: Vous avez décliné mon offre ? Ah, désolé, mais pour\nmoi, « refuser » et « rejoindre », c'est du pareil au\nmême. Donc vous voulez me rejoindre, c'est ça ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m04_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_001: Je vois. Comme j'en impose, parfois, on a tendance\nà dire le contraire de ce qu'on pense. Il faut se\ndétendre, puis me répondre calmement.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_002: Oh, je comprends. Vous êtes inquiète quant à votre\nresponsabilité envers Saramis. Vous en faites pas.\nJe vous aiderai avec ça.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m05_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_001: Je vois. C'est l'argent qui pose problème ?\nL'honneur de m'assister est une compensation\nen soi.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_002: Votre Majesté, C'est l'argent qui pose problème ?\nL'honneur de m'assister est une compensation\nen soi.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m06_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_001: Hmm. Donc le simple honneur ne suffit pas. Ça c'est\nde la négociation ! Et si j'offrais aussi ce superbe\ncache-œil ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_002: Quel culot ! Un tel honneur est plus précieux\nque quelques écus ! Et si je vous offrais aussi\nce superbe cache-œil ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m07_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_001: Comment ça, on veut pas de mon cache-œil ?\nMais c'est qu'on en veut toujours plus ! Alors\nvoilà : j'offre également cet anneau nasal de luxe !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_002: Vous avez pas besoin d'un cache-œil ? C'est vrai\nque vous avez vos deux yeux. Et si je vous offrais\ncet anneau nasal de luxe ?
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m08_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_001: Pas besoin d'un anneau nasal non plus ?\nÇa dénote quand même une haute opinion de\nsoi. Et j'ai encore plus envie de faire équipe !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_002: Hein ? Vous voulez... ma tête ? Oh, grand merci,\nc'est une blague ! J'adore l'humour ! Je vous\napprécie encore plus, du coup !
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_003: <ICA>Accepter l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m09_004: <ICB>Refuser l'alliance.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10: <TH>
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_001: Je vois... Eh ben, selon l'Ingénieux August,\nsavoir à quel moment lâcher l'affaire est\nune vertu stratégique.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_002: Je vois... Eh ben, selon l'Ingénieux August,\nsavoir à quel moment lâcher l'affaire est\nune vertu stratégique.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_003: Donc, je me retire pour aujourd'hui. Mais ça veut pas\ndire que j'abandonne pour autant.
+MID_LGV_Scout_Negotiation_SP_Reaction_TypeB_Ven_m10_004: Donc, je me retire pour aujourd'hui. Mais ça veut pas\ndire que j'abandonne pour autant. Rappelez-vous en,\nVotre Majesté !
+MID_LGV_Scout_Ini_m01: <TH>
+MID_LGV_Scout_Ini_m01_001: Hmm. Je me demandais si je pouvais\nme joindre à votre équipe.
+MID_LGV_Scout_Ini_m01_002: Hmm. Me laisseriez-vous vous rejoindre ?
+MID_LGV_Scout_Ini_m01_003: Hmm. Nous nous sommes déjà croisés. Nous avons\ncombattu lors des Jeux Héroïques.
+MID_LGV_Scout_Ini_m01_004: J'essaie de m'en sortir grâce à mes talents d'archère.\nJe pourrais les affûter si on travaillait ensemble...
+MID_LGV_Scout_Ini_m01_005: J'essaie de m'en sortir grâce à mes talents d'archère.\nEn travaillant avec vous, je pourrais les affûter...
+MID_LGV_Scout_Ini_m01_006: Quand vous m'avez vaincue, j'étais dans un piètre\nétat. Je dois affûter mes compétences en tant\nqu'archère. Puis-je rejoindre votre équipe ?
+MID_LGV_Scout_Ini_m02: <TH>
+MID_LGV_Scout_Ini_m02_001: Merci... Je suis heureuse d'avoir pris\nmon courage à deux mains pour parler.
+MID_LGV_Scout_Ini_m02_002: Merci... Je suis heureuse d'avoir pris\nmon courage à deux mains et d'avoir\nosé vous parler.
+MID_LGV_Scout_Ini_m02_003: Oh, formidable... J'avais réellement peur de\nme faire rejeter, vu mon comportement durant\nnotre rencontre...
+MID_LGV_Scout_Ini_m02_004: Je promets que je ferai de mon mieux afin qu'aucun\nde nous n'ait de regrets. J'ai hâte d'œuvrer\nau sein de l'équipe.
+MID_LGV_Scout_Ini_m02_005: Je promets que je ferai de mon mieux afin que vous\nne regrettiez pas cette décision. J'ai de la chance\nde pouvoir vous servir.
+MID_LGV_Scout_Ini_m02_006: Je promets que je ferai de mon mieux afin qu'aucun\nde nous n'ait de regrets. J'ai hâte de pouvoir montrer\nce que je vaux.
+MID_LGV_Scout_Ini_m03: <TH>
+MID_LGV_Scout_Ini_m03_001: Ce refus est justifié... Cependant... je serai\nlà si jamais la réponse change.
+MID_LGV_Scout_Ini_m03_002: Ce refus est justifié... Mais, si jamais\nvous changez d'avis... faites-le-moi savoir.
+MID_LGV_Scout_Ini_m03_003: Je comprends... Je n'ai plus les mêmes capacités\nqu'autrefois. Cependant... je serai là si jamais\nla réponse change.
+MID_LGV_Scout_Ini_m04: <TH>
+MID_LGV_Scout_Ini_m04_001: Quoi ? Que je rejoigne votre équipe ? Sérieusement ?
+MID_LGV_Scout_Ini_m04_002: Quoi ? Vous souhaitez que je rejoigne votre\néquipe ? Pardon de vous demander ça, mais...\nest-ce que c'est une plaisanterie ?
+MID_LGV_Scout_Ini_m04_003: Je me demande si nous nous connaissons déjà...\nJe m'excuse, ce n'est pas le bon moment pour moi...
+MID_LGV_Scout_Ini_m04_004: Je suis désolée, nous ne nous connaissons que peu.\nDe plus, ce n'est pas le bon moment pour moi...
+MID_LGV_Scout_Ini_m04_005: Je suis sincèrement désolée, mais... ce n'est pas\nle bon moment pour moi...
+MID_LGV_Scout_Ini_m05: <TH>
+MID_LGV_Scout_Ini_m05_001: Me recruter ? Il est vrai que je cherche du travail...
+MID_LGV_Scout_Ini_m05_002: Vous désirez m'employer ? Il est vrai que\nje cherche du travail...
+MID_LGV_Scout_Ini_m05_003: Je me demande si nous nous connaissons déjà...\nOh... Je crois que nous nous sommes fait face\nlors des Jeux Héroïques...
+MID_LGV_Scout_Ini_m05_004: J'avais de l'argent... Mais j'ai tout donné à l'Ordre\nde Mithras...
+MID_LGV_Scout_Ini_m05_005: J'avais de l'argent... Mais j'ai tout donné à l'Ordre\nde Mithras...
+MID_LGV_Scout_Ini_m05_006: J'ai peu de souvenirs... de ce que j'ai vécu\nquand j'étais en possession de l'Arc d'Ugo...
+MID_LGV_Scout_Ini_m05_007: Ils m'ont donné l'Arc d'Ugo en échange...\nC'est pour ça qu'on a fini par m'appeler\nInyoni l'Archère Ensorcelée.
+MID_LGV_Scout_Ini_m05_008: Ils m'ont donné l'Arc d'Ugo en échange...\nC'est pour ça qu'on a fini par m'appeler\nInyoni l'Archère Ensorcelée.
+MID_LGV_Scout_Ini_m05_009: Je m'excuse pour... tous les problèmes que j'ai causés.
+MID_LGV_Scout_Ini_m05_010: J'ai coupé les ponts avec l'Ordre de Mithras,\net je n'ai plus d'arc... Ni d'argent...
+MID_LGV_Scout_Ini_m05_011: J'ai coupé les ponts avec l'Ordre de Mithras.\nJe n'ai plus d'arc... et je suis ruinée...
+MID_LGV_Scout_Ini_m05_012: J'ai coupé les ponts avec l'Ordre de Mithras et donc...\nj'ai besoin de retrouver du travail.
+MID_LGV_Scout_Ini_m05_013: Je reste une bonne archère... Il n'y a plus qu'à me\ndonner de quoi acheter un nouvel arc et je rejoindrai\nvotre équipe.
+MID_LGV_Scout_Ini_m05_014: Je reste une bonne archère... Si vous pouvez\nme donner de quoi acheter un nouvel arc,\nje suis prête à me joindre à vous...
+MID_LGV_Scout_Ini_m06: <TH>
+MID_LGV_Scout_Ini_m06_001: C'est pour moi ? Merci... Je suis heureuse\nde faire partie de votre équipe...
+MID_LGV_Scout_Ini_m06_002: C'est pour moi ? Merci... J'ai de la chance\nde faire partie de votre équipe.
+MID_LGV_Scout_Ini_m06_003: Je ferai de mon mieux... Je ne veux pas\nque cette décision engendre des regrets...\nJ'ai hâte de me mettre au travail...
+MID_LGV_Scout_Ini_m06_004: Je ferai de mon mieux... Je ne veux pas que vous\nregrettiez de m'avoir intégrée. J'ai hâte de me mettre\nau travail...
+MID_LGV_Scout_Ini_m07: <TH>
+MID_LGV_Scout_Ini_m07_001: Je comprends que ma proposition soit rejetée...\nCependant... je serai là si jamais la réponse change.
+MID_LGV_Scout_Ini_m07_002: Je comprends que vous refusiez... Mais, si jamais\nvous changez d'avis... faites-le-moi savoir.
+MID_LGV_Scout_Ini_m08: <TH>
+MID_LGV_Scout_Ini_m08_001: Ce n'est pas ce dont j'ai besoin... Je ne peux\npas combattre sans l'équipement adéquat...\nJ'attendrai ici de recevoir ce qu'il faut.
+MID_LGV_Scout_Ini_m08_002: Désolée, ce n'est pas ce dont j'ai besoin... Je ne\npeux pas combattre sans l'équipement adéquat...\nJ'attendrai ici que vous soyez prête.
+MID_LGV_Scout_Jas_m01: <TH>
+MID_LGV_Scout_Jas_m01_001: J'ai entendu les rumeurs. Il paraît que je fais\nface à quelqu'un de super fort. Est-ce que c'est vrai ?
+MID_LGV_Scout_Jas_m01_002: Tiens, c'est qu'on s'est fait un nom, ces derniers\ntemps ! Pas étonnant que mon équipe ait été\nvaincue lors des jeux.
+MID_LGV_Scout_Jas_m01_003: J'ai pas mal entendu parler de vous, Reine\nTheodora. Vous êtes une femme incroyable,\nréputée pour son excellence au combat.
+MID_LGV_Scout_Jas_m01_004: Est-ce qu'on pourrait s'associer ? Ça consoliderait\nma réputation.
+MID_LGV_Scout_Jas_m01_005: Vous pourriez me faire l'honneur de me laisser\ndémontrer ma force à vos côtés ?
+MID_LGV_Scout_Jas_m02: <TH>
+MID_LGV_Scout_Jas_m02_001: Alors c'est réglé. On est comme\nune famille, maintenant.
+MID_LGV_Scout_Jas_m02_002: Alors c'est réglé. On est comme\nune famille, maintenant.
+MID_LGV_Scout_Jas_m02_003: On va manger, boire, rire... et même mourir\nsur le champ de bataille ensemble !
+MID_LGV_Scout_Jas_m02_004: On va manger, boire, rire... et même mourir\nsur le champ de bataille ensemble !
+MID_LGV_Scout_Jas_m03: <TH>
+MID_LGV_Scout_Jas_m03_001: C'est pas un peu brutal ? Je vois aucun inconvénient\nà m'intégrer dans votre équipe.
+MID_LGV_Scout_Jas_m03_002: Je vois... Je reste disponible si vous souhaitez\nen discuter.
+MID_LGV_Scout_Jas_m04: <TH>
+MID_LGV_Scout_Jas_m04_001: Autrefois, je faisais partie d'une bande\nde mercenaires... Je les considérais\ncomme ma propre famille.
+MID_LGV_Scout_Jas_m04_002: Autrefois, je faisais partie d'une bande\nde mercenaires... Je les considérais\ncomme ma propre famille.
+MID_LGV_Scout_Jas_m04_003: On est pas encore assez proches. Désolée, mais\non en reparlera une autre fois.
+MID_LGV_Scout_Jas_m04_004: Je serais ravie qu'on se considère comme des sœurs,\nVotre Majesté, mais ce serait pas approprié.\nJe peux pas faire équipe avec vous.
+MID_LGV_Scout_Jas_m05: <TH>
+MID_LGV_Scout_Jas_m05_001: On cherche des mercenaires fiables ?\nQuelle coïncidence, moi aussi !
+MID_LGV_Scout_Jas_m05_002: Votre Majesté, vous avez besoin de mercenaires\nfiables ? Quelle coïncidence, moi aussi !
+MID_LGV_Scout_Jas_m05_003: Mon rêve est de former ma propre bande de\nmercenaires, donc je fais du relationnel.
+MID_LGV_Scout_Jas_m05_004: Mon rêve est de former ma propre bande de\nmercenaires, donc je fais du relationnel.
+MID_LGV_Scout_Jas_m05_005: Mais c'est difficile d'embaucher des personnes\ncomme ça, quand on est ni riche ni célèbre.
+MID_LGV_Scout_Jas_m05_006: Mais vous savez comme il est difficile d'embaucher\ndes personnes comme ça, quand on est ni riche\nni célèbre.
+MID_LGV_Scout_Jas_m05_007: Si je rejoignais une équipe, je serais payée tout en\nme faisant connaître.
+MID_LGV_Scout_Jas_m05_008: Si je pouvais montrer mes talents à vos côtés, Votre\nMajesté, je pourrais faire d'une pierre deux coups.
+MID_LGV_Scout_Jas_m05_009: Enfin bref, ce serait possible de me recruter ?\nJe suis une bosseuse !
+MID_LGV_Scout_Jas_m05_010: Si vous me recrutez, je bosserai vraiment dur\nà vos côtés, Votre Majesté.
+MID_LGV_Scout_Jas_m06: <TH>
+MID_LGV_Scout_Jas_m06_001: Super ! On est comme une famille à partir\nde maintenant.
+MID_LGV_Scout_Jas_m06_002: Super ! On est comme une famille à partir\nde maintenant.
+MID_LGV_Scout_Jas_m06_003: On va boire, rire, célébrer les victoires, et même\npleurer en cas de défaite... ensemble !
+MID_LGV_Scout_Jas_m06_004: Que ce soit célébrer une victoire ou pleurer\nsur une défaite... On le fera ensemble !
+MID_LGV_Scout_Jas_m07: <TH>
+MID_LGV_Scout_Jas_m07_001: Oh, c'était brutal. Je pensais qu'on pourrait\nformer une famille.
+MID_LGV_Scout_Jas_m07_002: Je vois... C'est dommage. Je serai là si jamais vous\nchangez d'avis.
+MID_LGV_Scout_Jas_m08: <TH>
+MID_LGV_Scout_Jas_m08_001: Ha ha ! Ma demande peut pas être satisfaite ? C'est\npas grave. Ce sera pour une prochaine fois !
+MID_LGV_Scout_Jas_m08_002: Je suis désolée de dire ça, mais si vous avez\npas ce qu'il faut, il faudra revenir quand vous\nl'aurez.
+MID_LGV_Scout_Ale_m01: <TH>
+MID_LGV_Scout_Ale_m01_001: J'ai une faveur à demander, et elle est de taille...\nPouvons-nous combattre ensemble ?
+MID_LGV_Scout_Ale_m01_002: Ma défaite aux Jeux Héroïques m'a aidée à\ncomprendre à quel point je manquais d'expérience.
+MID_LGV_Scout_Ale_m01_003: C'est pour cela que je souhaite améliorer mes\ncompétences en servant une personne forte...\net qui gagne tout le temps !
+MID_LGV_Scout_Ale_m02: <TH>
+MID_LGV_Scout_Ale_m02_001: Oh, merci beaucoup ! Je ferai de mon mieux !
+MID_LGV_Scout_Ale_m02_002: Ah, et mon partenaire, Bucephalus, sera\négalement de la partie. Il faudra bien\ns'occuper de mon pégase !
+MID_LGV_Scout_Ale_m02_003: Ah, et Bucephalus m'accompagnera. Il caracole\ndepuis que je lui en ai parlé !
+MID_LGV_Scout_Ale_m03: <TH>
+MID_LGV_Scout_Ale_m03_001: Je comprends. C'est plutôt logique. Je m'excuse pour\nla perte de temps. Continuons de nous battre pour\nla bonne cause !
+MID_LGV_Scout_Ale_m04: <TH>
+MID_LGV_Scout_Ale_m04_001: Merci pour la proposition. Mais j'ai bien peur de\nne pas encore avoir les compétences requises.
+MID_LGV_Scout_Ale_m04_002: Il existe des personnes bien plus talentueuses que\nmoi, il serait avisé d'aller leur demander.
+MID_LGV_Scout_Kir_m01: <TH>
+MID_LGV_Scout_Kir_m01_001: Allez ! Faut que j'intègre une équipe ! Les gardes\nsont à mes trousses. S'ils m'attrapent, je suis foutu.
+MID_LGV_Scout_Kir_m01_002: Allez ! Laisse-moi rejoindre ton équipe ! Les gardes\nsont à mes trousses. S'ils m'attrapent, je suis foutu.
+MID_LGV_Scout_Kir_m01_003: Je fais ce qu'on me dit, et je suis pas du genre\nà broncher. J'ai juste besoin qu'on me sorte du\npétrin, là !
+MID_LGV_Scout_Kir_m01_004: C'est de ta faute si j'en suis arrivé là !\nJe rigole pas, t'as une dette envers moi.\nSors-moi de ce pétrin !
+MID_LGV_Scout_Kir_m02: <TH>
+MID_LGV_Scout_Kir_m02_001: Je l'oublierai pas, surtout que ça va\nme permettre de faire de vieux os !
+MID_LGV_Scout_Kir_m02_002: Je préfère, ouais, espèce de croupion de\nmonstre marin ! Je te préviens, je crèverai\npas sans m'être battu !
+MID_LGV_Scout_Kir_m02_003: Kiroc le Rokh sera toujours présent ! J'espère que\nce sera réciproque. Et sinon, j'ai besoin d'un endroit\noù crécher !
+MID_LGV_Scout_Kir_m02_004: Et ça c'est ni aujourd'hui, ni jamais. À part ça,\nj'obéirai à tes ordres tant que je peux compter sur toi.\nJ'ai besoin d'un endroit où crécher !
+MID_LGV_Scout_Kir_m03: <TH>
+MID_LGV_Scout_Kir_m03_001: Et pourquoi pas, hein ? C'est trop demandé\nqu'on m'explique ?!
+MID_LGV_Scout_Kir_m03_002: Et pourquoi pas, sale vermine marine ? Tu devrais\ndéjà être six pieds sous terre !
+MID_LGV_Scout_Kir_m04: <TH>
+MID_LGV_Scout_Kir_m04_001: J'ai tout perdu, alors me recruter, c'est un peu\ncomme me lancer une bouée de secours.\nMerci, camarade !
+MID_LGV_Scout_Kir_m04_002: Talimun ? Tu m'as fait couler, moi et\nmon bateau ! T'es encore pire qu'un pirate,\nsale ordure marine !
+MID_LGV_Scout_Kir_m04_003: Mais... Ce serait pas juste pour me livrer aux\ntemples et empocher la prime sur ma tête ?\nMais y a juste pas moyen, alors !
+MID_LGV_Scout_Kir_m04_004: Je préfère danser avec n'importe quel fantôme marin\nsur mille lieues que de voir ta tronche ! Dégage !
+MID_LGV_Scout_Kir_m05: <TH>
+MID_LGV_Scout_Kir_m05_001: On se connaît ? Je suis le capitaine\ndes Pirates du Cygne Noir de la mer\nde Danann... Kiroc le Rokh !
+MID_LGV_Scout_Kir_m05_002: Je parie que tu te souviens de moi, sale parasite !\nKiroc le Rokh, le capitaine des Pirates du\nCygne Noir ? Tu me remets ?
+MID_LGV_Scout_Kir_m05_003: Enfin... J'étais leur capitaine. On m'a tout piqué...\nEt maintenant je suis plus personne.
+MID_LGV_Scout_Kir_m05_004: Enfin... J'étais leur capitaine. Tu m'as tout piqué.\nEt maintenant je suis plus personne.
+MID_LGV_Scout_Kir_m05_005: Et encore, ça c'est rien. J'ai failli mourir, et depuis,\nje vois des fantômes terrifiants, même en pleine\njournée...
+MID_LGV_Scout_Kir_m05_006: J-Juste au cas où... Je parle pas avec un fantôme\nlà, si ? Ils se pointent toujours quand je m'y\nattends pas...
+MID_LGV_Scout_Kir_m05_007: Tu m'as ruiné ! Si t'as un minimum de cœur,\ninvite-moi dans ton équipe !
+MID_LGV_Scout_Kir_m05_008: Et si je peux obtenir un truc pour me débarrasser\nde ces fantômes, c'est encore mieux ! Qu'on me\nfile tout, et je rejoindrai votre équipe !
+MID_LGV_Scout_Kir_m05_009: D'ailleurs, si t'as de quoi te débarrasser des\nfantômes, je suis preneur ! Donne-moi tout\nce que t'as, et je te rejoindrai directement !
+MID_LGV_Scout_Kir_m06: <TH>
+MID_LGV_Scout_Kir_m06_001: Je m'en souviendrai ! Ces histoires de talismans,\nc'est peut-être juste dans ma tête, mais ça me\nrassure. Merci !
+MID_LGV_Scout_Kir_m06_002: Donc tu en as ! Ces histoires de talismans,\nc'est peut-être juste dans ma tête, mais ça\nme rassure.
+MID_LGV_Scout_Kir_m06_003: Le serment d'un pirate, c'est sacré. Je serai loyal,\nj'espère que ce sera réciproque et que j'aurai\nun endroit où crécher !
+MID_LGV_Scout_Kir_m06_004: Maintenant qu'on fait partie de la même équipe,\nj'obéirai à tes ordres. Je compte sur toi ! J'espère que\nj'aurai un endroit où crécher.
+MID_LGV_Scout_Kir_m07: <TH>
+MID_LGV_Scout_Kir_m07_001: Par les abysses ! J'ai l'air d'un crétin. Si je finis\nbouffé par les vers, je reviendrai en tant que\nfantôme et on aura une petite conversation !
+MID_LGV_Scout_Kir_m08: <TH>
+MID_LGV_Scout_Kir_m08_001: C'est pas possible ! C'est une question de vie\nou de mort ! Faut pas jouer avec moi comme ça !
+MID_LGV_Scout_Nuz_m01: <TH>
+MID_LGV_Scout_Nuz_m01_001: Que nous soyons alliés ? Cela serait parfait.
+MID_LGV_Scout_Nuz_m01_002: La vie du descendant de Yu Phas est sacrée pour\nles Har Hali.
+MID_LGV_Scout_Nuz_m01_003: Reine de Saramis, je ne vous remercierai jamais\nassez d'avoir accepté mon peuple.
+MID_LGV_Scout_Nuz_m01_004: Comme je ne suis plus le chef des Har Hali,\nje cherche un endroit où combattre en tant que\nguerrier.
+MID_LGV_Scout_Nuz_m01_005: Nous pourrons partager ma force. Pouvons-nous\ncombattre ensemble ?
+MID_LGV_Scout_Nuz_m01_006: Je serais un atout sur le terrain, et cela me\npermettrait de m'améliorer en combattant.
+MID_LGV_Scout_Nuz_m01_007: En tant que guerrier har hali, je promets que\nmes victoires seront celle de toute l'équipe.
+MID_LGV_Scout_Nuz_m02: <TH>
+MID_LGV_Scout_Nuz_m02_001: Il suffira de m'appeler lorsqu'il sera l'heure\nd'aller sur le champ de bataille. Un simple\nsignal fera l'affaire.
+MID_LGV_Scout_Nuz_m02_002: Merci. Il suffira de m'appeler lorsqu'il sera l'heure\nd'aller sur le champ de bataille. Un simple signal\nfera l'affaire.
+MID_LGV_Scout_Nuz_m02_003: Je me dépêcherai de rejoindre l'équipe, peu importe\noù elle se trouve, afin de m'occuper des ennemis.
+MID_LGV_Scout_Nuz_m03: <TH>
+MID_LGV_Scout_Nuz_m03_001: Hmm... On aurait changé d'avis... Loin de moi\nl'idée de remettre en question cette décision.
+MID_LGV_Scout_Nuz_m03_002: Je vois... J'ai peut-être été trop direct. Si jamais\nla réponse venait à changer, je ne serais que\ntrop heureux de forger une alliance.
+MID_LGV_Scout_Nuz_m04: <TH>
+MID_LGV_Scout_Nuz_m04_001: On a besoin de ma puissance ? Alors j'ai un conseil...
+MID_LGV_Scout_Nuz_m04_002: Il ne faut jamais recruter un homme sans connaître\nson passé. À moins de vouloir se faire éliminer\ndurant son sommeil.
+MID_LGV_Scout_Nuz_m05: <TH>
+MID_LGV_Scout_Nuz_m05_001: Que je rejoigne votre équipe ? Ce n'est pas\nune mauvaise idée.
+MID_LGV_Scout_Nuz_m05_002: J'étais le chef des Har Hali, mais ce n'est désormais\nplus le cas.
+MID_LGV_Scout_Nuz_m05_003: Si jouer les simples guerriers peut me permettre\nd'en apprendre plus sur le monde extérieur,\nmon peuple pourra en profiter.
+MID_LGV_Scout_Nuz_m05_004: Donc je ne suis pas contre. Mais mes efforts\nméritent tout de même une compensation.
+MID_LGV_Scout_Nuz_m06: <TH>
+MID_LGV_Scout_Nuz_m06_001: Il suffira de m'appeler lorsqu'il sera l'heure\nd'aller sur le champ de bataille. Un simple\nsignal fera l'affaire.
+MID_LGV_Scout_Nuz_m06_002: Je me dépêcherai de rejoindre l'équipe, peu importe\noù elle se trouve, afin de m'occuper des ennemis.
+MID_LGV_Scout_Nuz_m07: <TH>
+MID_LGV_Scout_Nuz_m07_001: Hmm... On aurait changé d'avis... Loin de moi\nl'idée de remettre en question cette décision.
+MID_LGV_Scout_Nuz_m08: <TH>
+MID_LGV_Scout_Nuz_m08_001: Il suffit de le dire si mes demandes ne peuvent pas\nêtre satisfaites. Mais me mentir ne sera pas\nsans conséquences.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_001: Merci beaucoup d'avoir aidé Cai !
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_002: Je vous suis très reconnaissante\nd'avoir aidé Cai, récemment.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_003: Ça faisait longtemps qu'il n'avait pas eu l'air\nsi heureux. Je suis contente qu'il le soit.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_004: Ça faisait longtemps qu'il n'avait pas eu l'air\nsi heureux. Je suis contente qu'il le soit.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_005: Hein ? Que je vous aide au combat ?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_006: Hein ? Que je vous aide au combat ?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_007: Je sais que je peux vous faire confiance, et je serais\nravie de vous aider...
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_008: Je sais que je peux vous faire confiance, et je serais\nravie de vous aider...
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_009: Mais, en échange... Bon, pas « en échange »,\npuisque ça fait grossier, mais puis-je vous\ndemander un service ?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_010: Mais, euh... d'abord, puis-je vous demander\nun service ?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_011: Je n'aime pas demander ce genre de chose, mais\nj'ai vraiment besoin d'argent. Est-ce que vous\npouvez me prêter 3 000 écus ?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_012: Je n'aime pas demander ce genre de chose, mais\nj'ai vraiment besoin d'argent. Est-ce que vous\npouvez me prêter 3 000 écus ?
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_013: <ICA>Demander pourquoi.
+MID_LGV_Scout_Negotiation_SP_Start_Tia_m01_014: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_001: J'essaie d'acquérir un exemplaire du manuscrit\nd'une célèbre pièce de théâtre, « Les neiges\nde l'Aegina ».
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_002: J'essaie d'acquérir un exemplaire du manuscrit\nd'une célèbre pièce de théâtre, « Les neiges\nde l'Aegina ».
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_003: Dante l'a écrite à ses débuts, et sa première\nreprésentation a eu lieu un an après sa sortie.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_004: Dante l'a écrite à ses débuts, et sa première\nreprésentation a eu lieu un an après sa sortie.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_005: La pièce a eu du succès, et le manuscrit a été copié\ndes centaines de fois. Je suis récemment tombée\nsur un exemplaire spécial.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_006: La pièce a eu du succès, et le manuscrit a été copié\ndes centaines de fois. Je suis récemment tombée\nsur un exemplaire spécial.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_007: Une reproduction de la main même de Beatrice,\nla célèbre copiste !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_008: Une reproduction de la main même de Beatrice,\nla célèbre copiste !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_009: Apparemment, elle a travaillé avec un exemplaire\nrédigé par Dante en personne !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_010: Apparemment, elle a travaillé avec un exemplaire\nrédigé par Dante en personne !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_011: Non contente de recopier les vers de Dante,\nBeatrice a aussi imité son écriture à la perfection !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_012: Non contente de recopier les vers de Dante,\nBeatrice a aussi imité son écriture à la perfection !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_013: Il paraît que sa copie est pratiquement indiscernable\ndu manuscrit original !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_014: Il paraît que sa copie est pratiquement indiscernable\ndu manuscrit original !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_015: Normalement, le prix de ces exemplaires est\nterriblement élevé...
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_016: Normalement, le prix de ces exemplaires est\nterriblement élevé...
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_017: Mais j'en ai trouvé un qui était vendu\n3 000 écus ! C'était une affaire en or !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_018: Mais j'en ai trouvé un qui était vendu\n3 000 écus ! C'était une affaire en or !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_019: Hé hé... Désolée. Je m'emporte rien qu'en\ny repensant.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_020: Hé hé... Désolée. Je m'emporte rien qu'en\ny repensant.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_021: Donc... Voilà pourquoi j'ai besoin d'argent.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_022: Donc... Voilà pourquoi j'ai besoin d'argent.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_023: <ICA>Lui donner 3 000 écus.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m01_024: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_001: Oh ? Merci ! Merci infiniment !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_002: Oh ? Merci ! Merci infiniment !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_003: Je travaillerai dur pour vous repayer cette faveur.\nJe le promets ! J'ai hâte de travailler avec vous !
+MID_LGV_Scout_Negotiation_SP_Reason_Tia_m02_004: Je travaillerai dur pour vous repayer cette faveur.\nJe le promets ! J'ai hâte de travailler avec vous !
+MID_LGV_Scout_Negotiation_SP_No_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Tia_m01_001: Vous avez raison. Je n'aurais pas dû parler d'argent\nde but en blanc. Ce n'est rien, oubliez ça...
+MID_LGV_Scout_Negotiation_SP_No_Tia_m01_002: Vous avez raison. Je n'aurais pas dû parler d'argent\nde but en blanc. Ce n'est rien, oubliez ça...
+MID_LGV_Scout_Negotiation_SP_No_Tia_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Tia_m02_001: Je vois... Désolée d'avoir été pénible.\nJe trouverai un moyen de me débrouiller.
+MID_LGV_Scout_Negotiation_SP_No_Tia_m02_002: Je vois... Désolée de vous avoir embêtée.\nJe trouverai un moyen de me débrouiller.
+MID_LGV_Scout_Negotiation_SP_NoMoney_Tia_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoMoney_Tia_m01_001: Hmm... Ce n'est pas assez. J'ai été pénible,\nje suis désolée. Je demanderai à quelqu'un d'autre.
+MID_LGV_Scout_Negotiation_SP_NoMoney_Tia_m01_002: Hmm... Cela ne suffit pas. Je m'excuse de vous avoir\ndérangée. Je demanderai à quelqu'un d'autre.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_001: Ah. À tout hasard, désirerait-on me recruter ?
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_002: Hmm. Si mes capacités sont correctement\névaluées, je ne m'y opposerai pas.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_003: Je suis actuellement disponible, et je dois\néponger ma dette.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_004: De plus, je fais face à quelqu'un de fascinant.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_005: Je ne demande qu'une seule chose : je souhaite\nrecevoir quelque chose d'une valeur équivalente.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_006: Eh bien, quoi ? Je ne souhaite pas être traité\ncomme un objet.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_007: La valeur qu'on m'accorde est très importante.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_008: Je n'ai cependant aucune exigence. Tant que c'est\néquitable.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_009: <ICA>Lui donner quelque chose.
+MID_LGV_Scout_Negotiation_SP_Start_Fab_m01_010: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Fab_m01_001: <DLG>Choisir quoi donner à Fabio.
+MID_LGV_Scout_Negotiation_SP_NoGive_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoGive_Fab_m01_001: Ah, c'est comme ça ? Eh bien, quelle perte de temps !
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_001: Ah ! Cet objet d'une immense valeur témoigne qu'on\nme tient plus en estime que ne l'aurais cru.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_002: Néanmoins, je ne vais pas non plus tomber\nen pâmoison à sa vue, loin s'en faut.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_003: Ce n'est pas parce que cet objet est très cher\nque j'en suis heureux. C'est extrêmement mal\nme connaître que de s'imaginer cela.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m01_004: Pour tout dire, je ne nous vois pas du tout\ncoopérer, tous les deux. Faisons plutôt comme\nsi cette conversation n'avait jamais eu lieu.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_001: Bonté divine. Cet objet est exquis. Est-il pour moi ?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_002: Je vois. Je comprends complètement\net je ressens la même chose.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_003: Je ne peux pas le garder. Je vois bien qu'il a\nune valeur sentimentale.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_004: Cela marque le début de notre alliance.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m02_005: Il ne faudra pas oublier qu'avoir un compagnon\nsi puissant est une chance inestimable.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_001: Hmm. Qu'est-ce que cela ?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_002: Je suis donc tenu en si piètre estime...
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_003: Me proposer cela est ridicule. Il faudra faire plus\nd'efforts la prochaine fois.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m03_004: En réalité, c'est de ma faute. Après tout, il faut être\nidiot pour s'attendre à quelque chose de la part\nde quelqu'un d'idiot.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Fab_m05_001: De toute évidence, on n'a rien à m'offrir, et nous\nn'avons plus rien à nous dire. J'attendrai ici.
+MID_LGV_Scout_Negotiation_SP_Bon_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m01_001: Je suppose que mon assistance est requise ?
+MID_LGV_Scout_Negotiation_SP_Bon_m01_002: J'y réfléchirai, à condition de recevoir\ndes preuves du sérieux de cette requête.
+MID_LGV_Scout_Negotiation_SP_Bon_m01_003: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Bon_m01_004: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Bon_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m02_001: En général, on me connaît sous le nom\nde « Génie de Saramis ».
+MID_LGV_Scout_Negotiation_SP_Bon_m02_002: J'estime que ceux qui recherchent mon conseil\ndoivent être à même d'exploiter pleinement\nmon potentiel.
+MID_LGV_Scout_Negotiation_SP_Bon_m02_003: Suis-je face à quelqu'un qui saura répondre\nà cette simple exigence ?
+MID_LGV_Scout_Negotiation_SP_Bon_m02_004: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Bon_m02_005: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Bon_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m03_001: J'ai longtemps servi la reine Theodora, j'étais le bras\ndroit de Sa Majesté.
+MID_LGV_Scout_Negotiation_SP_Bon_m03_002: J'ai servi Saramis en toute loyauté depuis le dernier\nroi. Quitter mon poste aurait un impact considérable.
+MID_LGV_Scout_Negotiation_SP_Bon_m03_003: Et pourtant, nous voilà. Je vais poser la question\nà nouveau... Mes services sont-ils toujours requis,\net ce en dépit de ce que je viens d'expliquer ?
+MID_LGV_Scout_Negotiation_SP_Bon_m03_004: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Bon_m03_005: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Bon_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Bon_m04_001: Très bien ! Dans ce cas, nous sommes\ndésormais alliés.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_002: Saramis fait face à de grandes difficultés\nen ce moment. Et pourtant...
+MID_LGV_Scout_Negotiation_SP_Bon_m04_003: Je vois cela comme une raison de plus de rester\nici, dans la capitale et de jouer les espions\npour notre reine.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_004: De fait, j'en ai parlé récemment avec Sa Majesté.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_005: Cependant, même si je ne l'avais pas fait,\nje pourrais difficilement refuser trois fois\nd'affilée pareille requête.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_006: Cette ferveur et cette détermination pour employer\nmes services sont grandement appréciées.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_007: Bien que je ne puisse m'empêcher de m'inquiéter\npour Sa Majesté, elle devrait être en sécurité\navec Tobias.
+MID_LGV_Scout_Negotiation_SP_Bon_m04_008: Ma sagesse sera au service de votre équipe à l'avenir.\nJ'ai hâte que nous travaillions ensemble.
+MID_LGV_Scout_Negotiation_SP_No_Bon_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Bon_m01_001: Ho ho ho ! Ce manque de détermination n'est pas\ndu tout ce que je recherche. Il faudra revenir\nme voir avec plus de fermeté.
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_001: Qu'est-ce qui s'passe ? Je peux rendre service ?
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_002: J'veux bien tendre une oreille, mais faut dire\nque j'ai super soif...
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_003: J'ai l'gosier à sec, c'est pas une vie, ça !
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_004: Alors déjà, qu'on me file à boire, et après\nje veux bien écouter, pas de souci !
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_005: <ICA>Lui donner quelque chose.
+MID_LGV_Scout_Negotiation_SP_Start_Tob_m01_006: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ItemChoice_Tob_m01_001: <DLG>Choisir un cadeau pour Tobias.
+MID_LGV_Scout_Negotiation_SP_NoGive_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_NoGive_Tob_m01_001: Alors comme ça, on ignore un pauvre type\ndésespéré ?! Faut vraiment pas avoir de cœur\npour ça !
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01_001: Glou, glou... Haaa ! Je suis sauvé !
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01_002: Pfiou ! Eh ben c'était vraiment bon. J'ai tout\ndescendu d'une traite !
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m01_003: C'est exactement ce qui me fallait !\nBon, maintenant je suis tout ouïe.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02_001: Mm, c'est bon ! J'en avais besoin.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02_002: C'est pas ce que je bois d'habitude, mais je dis pas\nnon quand j'ai soif.
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m02_003: Merci ! Alors, je peux faire quelque chose\nen échange ?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03_001: C'est pas vraiment ce que je voulais, mais j'vais pas\nfaire la fine bouche. Allez, cul sec...
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03_002: Ugh... C'est quoi ce truc ? C'est immonde !\nJ'ai encore plus soif qu'avant !
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m03_003: Et je me sens pas très bien, en plus. Euh,\non reprendra une autre fois, OK ?
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_GiveReaction_Tob_m05_001: Y a rien pour moi, vraiment ? Eh ben\nla prochaine fois que j'aurai un souci,\nje saurai à qui pas demander !
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_001: Aah, je comprends. C'est pour que je sois\ndans votre équipe, c'est ça ?
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_002: C'est normal, qui voudrait pas du Cœur Intrépide\nde Saramis dans son équipe, après tout !
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_003: Bon, après ce service rendu,\nce s'rait normal que j'y mette du mien.
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_004: Y a rien de tel que le présent pour retourner\nune faveur ! Allez, c'est d'accord !
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_005: J'avoue que je me posais des questions sur\nvotre équipe. Et ça me donnera des histoires\nfantastiques à raconter à la cheffe !
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_006: Quoi ? Si je m'inquiète pour elle ? Gahaha !\nPour quoi faire ?
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_007: Y a Bona avec elle, et le connaissant, il va\npas la quitter d'une semelle.
+MID_LGV_Scout_Negotiation_SP_OK_Tob_m01_008: Bon ! On devrait bien se marrer.\nJ'espère que je pourrai faire des ravages !
+MID_LGV_Scout_Negotiation_SP_Buc_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Buc_m01_001: Qu'y a-t-il ? Mon aide est requise ?
+MID_LGV_Scout_Negotiation_SP_Buc_m01_002: Comment ? Vous avez besoin de ma force ?
+MID_LGV_Scout_Negotiation_SP_Buc_m01_003: Je suis reconnaissant de l'aide apportée à ma dame.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_004: Je vous suis redevable pour l'aide que vous avez\napportée à ma dame.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_005: Toutefois... je m'en veux d'avoir été si peu utile lors\nd'un moment aussi crucial.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_006: Néanmoins... je m'en veux d'avoir été si peu utile lors\nd'un moment aussi crucial.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_007: J'ai fini par me demander pourquoi j'étais resté\ntout ce temps aux côtés de ma dame.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_008: J'ai fini par me demander dans quel but j'étais resté\ntout ce temps aux côtés de ma dame.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_009: Elle a vu à quel point cet échec me torturait.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_010: Elle a vu à quel point cet échec me torturait.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_011: Elle m'a alors dit que si un changement\nd'environnement pouvait me permettre d'aller\nmieux, elle n'hésiterait pas à me renvoyer.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_012: Elle m'a alors dit que si un changement\nd'environnement pouvait me permettre d'aller\nmieux, elle n'hésiterait pas à me renvoyer.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_013: Je sais, bien évidemment, que c'est sa manière de me\nmontrer qu'elle tient à moi.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_014: Je sais, bien évidemment, que c'est sa manière de me\nmontrer qu'elle tient à moi.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_015: Et elle a sûrement raison en disant qu'un peu de\ndistance nous ferait du bien à tous les deux.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_016: Et elle a sûrement raison en disant qu'un peu de\ndistance nous ferait du bien à tous les deux.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_017: Donc, je n'ai aucune raison de refuser si\nmes forces sont requises ailleurs.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_018: Par conséquent, je n'ai aucune raison de refuser\nsi vous avez besoin de mes forces.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_019: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Buc_m01_020: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Buc_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Buc_m02_001: Merci ! Je profiterai du temps que nous\npasserons ensemble pour réfléchir au concept\nde la loyauté.
+MID_LGV_Scout_Negotiation_SP_Buc_m02_002: Je vous suis reconnaissant ! Je profiterai du temps\nque nous passerons ensemble pour réfléchir\nau concept de la loyauté.
+MID_LGV_Scout_Negotiation_SP_Buc_m02_003: Il ne faut pas hésiter à utiliser l'Ours-Démon\nde Baphos !
+MID_LGV_Scout_Negotiation_SP_Buc_m02_004: N'hésitez pas à utiliser l'Ours-Démon de Baphos\nautant qu'il vous siéra !
+MID_LGV_Scout_Negotiation_SP_Buc_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Buc_m03_001: Oh... Je vois. Cependant, il ne faut pas hésiter à me\ncontacter si jamais la réponse change.
+MID_LGV_Scout_Negotiation_SP_Buc_m03_002: Oh... Je comprends. Cependant, il ne faut pas hésiter\nà me contacter si vous veniez à changer d'avis.
+MID_LGV_Scout_Negotiation_SP_Gat_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Gat_m01_001: Je sentais bien qu'on me regardait. Y a-t-il\nquelque chose dont nous devons parler ?
+MID_LGV_Scout_Negotiation_SP_Gat_m01_002: Je sentais bien qu'on me regardait.\nVous vouliez me dire quelque chose ?
+MID_LGV_Scout_Negotiation_SP_Gat_m01_003: Au passage, cette fluidité mise en œuvre face\nau roi de Brigid m'a vraiment impressionné.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_004: Je dois avouer que votre performance m'a\nimpressionné lors de votre combat contre le roi\nde Brigid.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_005: De telles techniques de combat sont tout\nà fait admirables, j'ai fortement apprécié\ncet affrontement.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_006: De telles techniques de combat sont tout à\nfait admirables, j'ai fortement apprécié\nvotre affrontement, Votre Majesté.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_007: Il faut dire que je n'en attendais pas moins\nde quelqu'un que je respecte tant.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_008: Il faut dire que je n'en attendais pas moins\nd'une guerrière que je respecte tant.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_009: Oh, il ne faut pas faire attention à moi. Je pensais\nà voix haute.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_010: Pardonnez-moi. Ne faites pas attention à moi,\nje vous prie. Je pensais à voix haute.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_011: Ce combat a suscité mon intérêt. J'aimerais\nobserver ces techniques de plus près.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_012: Ce combat a suscité mon intérêt. J'aimerais pouvoir\nvous observer de plus près, Votre Majesté.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_013: Si le besoin venait à se présenter, je serais ravi\nd'offrir mon assistance.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_014: Si vous aviez besoin de moi, je serais vraiment\nravi de vous rendre service.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_015: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Gat_m01_016: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Gat_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Gat_m02_001: Notre partenariat sera fructueux. J'ai hâte\nque nous combattions ensemble.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_002: Notre partenariat sera fructueux. J'ai hâte que\nnous combattions ensemble, Votre Majesté.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_003: Je dois cependant avouer que je suis plutôt occupé.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_004: Je dois cependant avouer que j'ai énormément\nde responsabilités personnelles.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_005: Il est possible qu'on m'appelle à tout moment\nafin de régler un problème urgent.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_006: Il est possible qu'on m'appelle à tout moment\nafin de régler un problème urgent.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_007: Mais pas besoin de s'en inquiéter pour l'instant. Je ne\npense pas que notre progression en sera entravée.
+MID_LGV_Scout_Negotiation_SP_Gat_m02_008: Si jamais cela arrive, j'espère que vous pourrez me\nle pardonner.
+MID_LGV_Scout_Negotiation_SP_Gat_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Gat_m03_001: Une potentielle collaboration ne suscite\ndonc aucun intérêt ? Eh bien tant pis,\nmême si c'est un peu décevant.
+MID_LGV_Scout_Negotiation_SP_Gat_m03_002: Ha, donc Votre Majesté a changé d'avis. Quel\ndommage !
+MID_LGV_Scout_Negotiation_SP_Urs_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m01_001: Je vois... Donc ce serait pour me recruter\nen tant qu'alliée, n'est-ce pas ?
+MID_LGV_Scout_Negotiation_SP_Urs_m01_002: Eh bien, puisque les jeux sont terminés et le\nconsortium est en plein essor, nous pouvons\npeut-être nous arranger.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_003: D'ailleurs, je dois avouer que faire équipe\nest une offre tout à fait alléchante.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_004: Cependant, avant de signer quoi que ce soit, il y a\nquelques points qui ne sont pas négociables.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_005: Tout d'abord, il faut savoir que mes responsabilités\nau sein du Consortium Vandahl auront toujours\nla priorité.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_006: S'il y a une urgence au consortium, je devrai\npotentiellement me retirer du combat.\nEst-ce que c'est acceptable ?
+MID_LGV_Scout_Negotiation_SP_Urs_m01_007: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Urs_m01_008: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Urs_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m02_001: Et si je me retire, ni moi, ni le Consortium Vandahl\nne pouvons être désignés comme responsables en cas\nde problèmes durant mon absence.
+MID_LGV_Scout_Negotiation_SP_Urs_m02_002: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Urs_m02_003: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Urs_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m03_001: Enfin, pour faire preuve de ma bonne foi,\nle consortium n'aura pas besoin de recevoir\nde traitement de faveur.
+MID_LGV_Scout_Negotiation_SP_Urs_m03_002: Cependant, je dévoilerai à Talimun ce que nous\nfaisons ensemble. Est-ce que c'est acceptable ?
+MID_LGV_Scout_Negotiation_SP_Urs_m03_003: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Urs_m03_004: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Urs_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Urs_m04_001: Parfait. J'étais juste en train de dire à Talimun que\nnous devrions garder un œil sur cette personne.
+MID_LGV_Scout_Negotiation_SP_Urs_m04_002: Quelle heureuse coïncidence ! Et cela ne pouvait pas\nmieux tomber...
+MID_LGV_Scout_Negotiation_SP_Urs_m04_003: Oh ! Pardon. Je pensais simplement à voix haute.
+MID_LGV_Scout_Negotiation_SP_Urs_m04_004: Enfin, tout cela me convient. Je vous ferai parvenir\nles documents un peu plus tard.
+MID_LGV_Scout_Negotiation_SP_Urs_m04_005: J'estime que notre contrat est actuellement actif,\net que nous formons désormais une alliance. J'ai hâte\nque nous travaillions ensemble !
+MID_LGV_Scout_Negotiation_SP_No_Urs_m05: <TH>
+MID_LGV_Scout_Negotiation_SP_No_Urs_m05_001: Dommage... Cette conversation n'a donc\njamais eu lieu.
+MID_LGV_Scout_Negotiation_SP_Die_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Die_m01_001: C'est pour que nous fassions équipe ?
+MID_LGV_Scout_Negotiation_SP_Die_m01_002: C'est peut-être une bonne idée, en fait.
+MID_LGV_Scout_Negotiation_SP_Die_m01_003: Jusqu'à peu, je n'avais jamais imaginé me\ntrouver ailleurs qu'aux côtés d'Orchel.
+MID_LGV_Scout_Negotiation_SP_Die_m01_004: Mais, récemment, j'ai compris que\nmes compétences étaient bien moins\ndéveloppées que je l'avais cru.
+MID_LGV_Scout_Negotiation_SP_Die_m01_005: Aucun de ceux qui m'entourent n'est un simple\nhumain. Si je n'arrive pas à m'adapter,\nje vais me retrouver à la traîne.
+MID_LGV_Scout_Negotiation_SP_Die_m01_006: C'est vraiment ma hantise. Donc je dois absolument\nm'améliorer et devenir beaucoup plus fort.
+MID_LGV_Scout_Negotiation_SP_Die_m01_007: D'après ce que j'ai vu dans l'arène et au cours\nd'événements récents, je sais que j'ai face à moi\nquelqu'un d'une force incroyable.
+MID_LGV_Scout_Negotiation_SP_Die_m01_008: Depuis vos combats dans l'arène et certains\névénements récents, je connais l'étendue\nde votre puissance.
+MID_LGV_Scout_Negotiation_SP_Die_m01_009: Si nous combattions ensemble, je pourrais\nm'améliorer de bien des manières.
+MID_LGV_Scout_Negotiation_SP_Die_m01_010: Si nous combattions ensemble, je pourrais\nm'améliorer de bien des manières.
+MID_LGV_Scout_Negotiation_SP_Die_m01_011: Il faut cependant savoir que je serai toujours fidèle\nà Orchel, quoi qu'il arrive.
+MID_LGV_Scout_Negotiation_SP_Die_m01_012: Il faut cependant savoir que je serai toujours fidèle\nà Orchel, quoi qu'il arrive.
+MID_LGV_Scout_Negotiation_SP_Die_m01_013: Tant que cela ne pose pas de problème, nous\npouvons faire équipe.
+MID_LGV_Scout_Negotiation_SP_Die_m01_014: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Die_m01_015: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_Die_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Die_m02_001: Nous travaillerons en étroite collaboration et\nje ferai tout pour m'améliorer.
+MID_LGV_Scout_Negotiation_SP_Die_m02_002: Nous travaillerons en étroite collaboration et je ferai\ntout pour m'améliorer.
+MID_LGV_Scout_Negotiation_SP_Die_m02_003: Je veux croire que cela m'aidera à mieux protéger\nOrchel par la suite.
+MID_LGV_Scout_Negotiation_SP_Die_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Die_m03_001: Quoi ? Un refus ? Aucun problème.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_001: Que nous combattions ensemble ?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_002: Que nous combattions ensemble ?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_003: Tout le monde a pu s'échapper du village,\net j'en suis très reconnaissante.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_004: Tout le monde a pu s'échapper du village,\net j'en suis très reconnaissante.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_005: J'ai pu agir en ma qualité de garde d'Anatolia.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_006: J'ai pu agir en ma qualité de garde d'Anatolia.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_007: En guise de remerciement, je vais accepter cette\noffre. Mais à une seule condition.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_008: En guise de remerciement, je vais accepter cette\noffre. Mais à une seule condition.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_009: Pour me recruter, il va falloir répondre\nà quelques questions.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_010: Pour me recruter, il va falloir répondre\nà quelques questions.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_011: Je souhaite en apprendre plus sur le monde.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_012: Je souhaite en apprendre plus sur le monde.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_013: La personne que je rejoindrai doit bien le connaître.\nCela pose-t-il problème ?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_014: La personne que je rejoindrai doit bien le connaître.\nCela pose-t-il problème ?
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_015: <ICA>Accepter.
+MID_LGV_Scout_Negotiation_SP_Scouting_Sar_m01_016: <ICB>Refuser.
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Sar_m01_001: Eh bien, c'est dommage. J'espère que nous nous\nrecroiserons.
+MID_LGV_Scout_Negotiation_SP_ScoutingNo_Sar_m01_002: Eh bien, c'est dommage. J'espère que nous nous\nrecroiserons.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_001: Alors, c'est parti ! Première question !
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_002: Alors, c'est parti ! Première question !
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_003: Il paraît qu'Alecto est une ville superbe qui échange\navec de nombreux ports à l'international.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_004: Il paraît qu'Alecto est une ville superbe qui échange\navec de nombreux ports à l'international.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_005: J'adorerais y aller. Où est cette ville, au juste ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_006: J'adorerais y aller. Où est cette ville, au juste ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_007: <ICA>Dans l'Empire de Dagda.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_008: <ICB>Au Royaume d'Arago.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m01_009: <ICC>Au Royaume de Saramis.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_001: Correct ! Je savais que cette question ne poserait\npas de problème.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_002: Correct ! Je savais que cette question ne poserait\npas de problème.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_003: Je pense qu'elle était même trop simple. C'est parti\npour une deuxième !
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_004: Je pense qu'elle était même trop simple. C'est parti\npour une deuxième !
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_005: Au sein de Dagda, une ville est connue pour sa\nconfection d'armes d'excellente facture.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_006: Au sein de Dagda, une ville est connue pour sa\nconfection d'armes d'excellente facture.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_007: Les armes ont même été nommées d'après cette ville.\nComment s'appelle cette dernière ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_008: Les armes ont même été nommées d'après cette ville.\nComment s'appelle cette dernière ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_009: <ICA>Da Mina.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_010: <ICB>Port de Callianeira.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m02_011: <ICC>Pandora.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_001: C'est exact ! Celle-ci était peut-être aussi trop\nsimple ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_002: C'est exact ! Celle-ci était peut-être aussi trop\nsimple ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_003: Allez, dernière question !
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_004: Allez, dernière question !
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_005: Au sujet du goulet de Bran, situé à l'est...\nQu'est-ce qui se trouve sur ce récif ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_006: Au sujet du goulet de Bran, situé à l'est...\nQu'est-ce qui se trouve sur ce récif ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_007: Il s'agit de quelque chose d'énorme et\non raconte qu'un trésor y est caché. Alors ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_008: Il s'agit de quelque chose d'énorme et\non raconte qu'un trésor y est caché. Alors ?
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_009: <ICA>Une montagne de verre.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_010: <ICB>Un navire échoué.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m03_011: <ICC>Une tour caressant les nuages.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04: <TH>
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_001: C'est un sans-faute ! Je pense avoir trouvé\nla personne qui me permettra d'enrichir\nmes propres connaissances.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_002: C'est un sans-faute ! Je pense avoir trouvé\nla personne qui me permettra d'enrichir\nmes propres connaissances.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_003: Puisque j'ai obtenu une réponse à toutes mes\nquestions, je vais tenir ma parole et nous allons\ncombattre ensemble.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_004: Puisque j'ai obtenu une réponse à toutes mes\nquestions, je vais tenir ma parole et nous allons\ncombattre ensemble.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_005: Je dois admettre que quitter Anatolia m'inquiète,\nmais je pense que cette expérience m'aidera à mieux\nla protéger.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_006: Je dois admettre que quitter Anatolia m'inquiète,\nmais je pense que cette expérience m'aidera à mieux\nla protéger.
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_007: J'ai hâte que nous travaillions ensemble !\nJ'espère que je ne serai pas déçue !
+MID_LGV_Scout_Negotiation_SP_Correct_Sar_m04_008: J'ai hâte que nous travaillions ensemble !\nJ'espère que je ne serai pas déçue !
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01: <TH>
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_001: Oh, juste ciel. Je suppose que j'ai affaire à\nquelqu'un qui ne connaît pas très bien le monde.
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_002: Oh, c'est faux. Quel dommage !
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_003: Égoïstement, j'espérais avoir trouvé\nquelqu'un qui m'aiderait...
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_004: Égoïstement, j'espérais avoir trouvé\nquelqu'un qui m'aiderait...
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_005: Ce n'est qu'un au revoir. Mais il ne faut pas hésiter\nà revenir après avoir étudié.
+MID_LGV_Scout_Negotiation_SP_Incorrect_Sar_m01_006: Ce n'est qu'un au revoir. Il ne faut pas hésiter\nà m'inviter si l'occasion se présente de nouveau.

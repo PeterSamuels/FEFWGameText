@@ -1,0 +1,93 @@
+﻿MID_LGV_1LED_c04_B01_m01: <TH>
+MID_LGV_1LED_c04_B01_m01_001: Leda, c'est ça ? J'ai entendu parler de vous. Votre\nparticipation aux Jeux Héroïques a été acceptée.
+MID_LGV_1LED_c04_B01_m01_002: Le discours d'ouverture va bientôt commencer.\nJe vous en prie, entrez dans l'arène.
+MID_LGA_1LED_c04_B01_m01: <BLN>Je fais partie de l'organisation.
+MID_LGV_1LED_c04_Sci_m01: <TH>
+MID_LGV_1LED_c04_Sci_m01_001: Lechner agira juste avant la nouvelle lune.\nNous devrions nous mettre en route le {SetColor=Gold}{DateTime=Day} {LowercaseNextLetter}{DateTime=Month}{SetColor=Default}.
+MID_LGA_1LED_c04_Sci_m01: <BLN>Êtes-vous prête ?
+MID_LGV_1LED_c04_Sci_m05: <TH>
+MID_LGV_1LED_c04_Sci_m05_001: La nouvelle lune est demain, ce qui signifie\nque Lechner va passer à l'action. Nous devrions\nen faire autant.
+MID_LGA_1LED_c04_Sci_m05: <BLN>Êtes-vous prête ?
+MID_LGV_1LED_c04_Buc_m01: <TH>
+MID_LGV_1LED_c04_Buc_m01_001: Quand je vivais à Dagsion, j'ai atteint le rang\nde major.
+MID_LGV_1LED_c04_Buc_m01_002: Mais après la nomination du seigneur Guillermo\nau poste de gouverneur de Cydonia, j'y ai renoncé\npour l'accompagner.
+MID_LGA_1LED_c04_Buc_m01: <BLN>C'était il y a bien longtemps...
+MID_LGV_1LED_c04_Sci_m02: <TH>
+MID_LGV_1LED_c04_Sci_m02_001: Il y a longtemps que je n'étais venu ici, mais la brise\nqui souffle dans les rues de Dagsion est toujours\naussi délicieuse.
+MID_LGV_1LED_c04_Sci_m02_002: Il ne me reste plus qu'à trouver la belle qui me\ntiendra compagnie ce soir. Je pars tout de suite\nen ville à sa recherche !
+MID_LGA_1LED_c04_Sci_m02: <BLN>Avec qui vais-je passer la soirée ?
+MID_LGV_1LED_c04_Moo_m01: <TH>
+MID_LGV_1LED_c04_Moo_m01_001: Et juste comme ça, on se retrouve à Dagsion ?\nJ'avais jamais vu une ville aussi éblouissante.
+MID_LGV_1LED_c04_Moo_m01_002: Les dieux sont vraiment extraordinaires s'ils sont\ncapables de faire des choses pareilles !
+MID_LGA_1LED_c04_Moo_m01: <BLN>J'arrive pas à y croire.
+MID_LGV_1LED_c04_Oly_m01: <TH>
+MID_LGV_1LED_c04_Oly_m01_001: J'adore cette ville ! Déjà, il n'y a pas d'insectes\nrépugnants...
+MID_LGV_1LED_c04_Oly_m01_002: Je ne me souviens même pas depuis quand\nje n'étais pas venue à Dagsion.
+MID_LGA_1LED_c04_Oly_m01: <BLN>Cela fait combien de temps ?
+MID_LGV_1LED_c04_Buc_m02: <TH>
+MID_LGV_1LED_c04_Buc_m02_001: En quittant Dagsion, j'ai fait un vœu.
+MID_LGV_1LED_c04_Buc_m02_002: J'ai juré de protéger le seigneur Guillermo\nau péril de ma vie.
+MID_LGV_1LED_c04_Buc_m02_003: Et malgré ce serment, il a été tué et moi, j'ai survécu.
+MID_LGV_1LED_c04_Buc_m02_004: Mais à présent, ma Dame, mon devoir\nle plus sacré est de vous protéger.
+MID_LGV_1LED_c04_Buc_m02_005: Et je le ferai au péril de ma vie... même si\nelle ne vaut plus grand-chose.
+MID_LGA_1LED_c04_Buc_m02: <BLN>Je ferai mon devoir.
+MID_LGV_1LED_c04_Sci_m03: <TH>
+MID_LGV_1LED_c04_Sci_m03_001: Demoiselle Leda, est-ce la première fois que\nvous venez à Dagsion ?
+MID_LGV_1LED_c04_Sci_m03_002: Je serais enchanté de vous faire visiter,\nsi tel est votre désir.
+MID_LGV_1LED_c04_Sci_m03_003: <NCA>Lui dire que vous y réfléchirez.
+MID_LGV_1LED_c04_Sci_m03_004: <NCB>Lui dire de laisser tomber.
+MID_LGV_1LED_c04_Sci_m03_005: <ACA>Fort bien ! Je peux vous accompagner au théâtre,\nà la taverne, au port...
+MID_LGV_1LED_c04_Sci_m03_006: <ACA>Ou dans un de ces jardins secrets où les amoureux\nse murmurent des mots doux...
+MID_LGV_1LED_c04_Sci_m03_007: <ACA>Pourquoi me regardez-vous ainsi ?
+MID_LGV_1LED_c04_Sci_m03_008: <ACB>Vous n'avez donc pas besoin d'un guide ? Je vois\nque votre muraille est toujours aussi solide...
+MID_LGV_1LED_c04_Sci_m03_009: <ACB>Vous savez, même un homme tel que moi finit\npar être affecté par tous ces rejets.
+MID_LGV_1LED_c04_Sci_m03_010: Enfin, si le désir vous prend de vous rendre\nà la {SetColor=Gold}taverne{SetColor=Default}, empruntez ces escaliers vers\nla {SetColor=Gold}ville basse{SetColor=Default}.
+MID_LGV_1LED_c04_Sci_m03_011: L'atmosphère est... très différente d'ici, mais vous\ndevez être habituée à ce genre d'endroits.
+MID_LGA_1LED_c04_Sci_m03: <BLN>Si je vous faisais visiter ?
+MID_LGV_1LED_c04_Moo_m02: <TH>
+MID_LGV_1LED_c04_Moo_m02_001: Cette cérémonie d'ouverture était incroyable !\nDes dizaines de milliers de personnes, toutes\nau même endroit ?
+MID_LGV_1LED_c04_Moo_m02_002: Je veux dire... ouaaah ! Partout où je regardais,\ndes gens, des gens et encore des gens !
+MID_LGV_1LED_c04_Moo_m02_003: Je sais que c'est une grande ville, mais quand même.\nOù est-ce qu'ils les mettent tous ?
+MID_LGA_1LED_c04_Moo_m02: <BLN>Ouaaah !
+MID_LGV_1LED_c04_Oly_m02: <TH>
+MID_LGV_1LED_c04_Oly_m02_001: Comme on pouvait s'y attendre dans une telle\nmétropole, tout respire la sophistication !
+MID_LGV_1LED_c04_Oly_m02_002: Oui, il faut absolument que je fasse un saut\nau marché afin d'être au fait des dernières\ntendances de la capitale.
+MID_LGV_1LED_c04_Oly_m02_003: Si je fais des découvertes intéressantes,\nj'en informerai Kalla sur-le-champ.
+MID_LGA_1LED_c04_Oly_m02: <BLN>Je devrais aller au marché.
+MID_LGV_1LED_c04_Buc_m03: <TH>
+MID_LGV_1LED_c04_Buc_m03_001: Je préférerais régler nos comptes avec Lechner\navant le début des Jeux Héroïques.
+MID_LGV_1LED_c04_Buc_m03_002: Moi aussi, je trouve les actes de cet homme\nméprisables.
+MID_LGV_1LED_c04_Buc_m03_003: Sans lui, le seigneur Guillermo serait peut-être encore\nen vie à l'heure qu'il est.
+MID_LGA_1LED_c04_Buc_m03: <BLN>Quel homme méprisable.
+MID_LGV_1LED_c04_Sci_m04: <TH>
+MID_LGV_1LED_c04_Sci_m04_001: Nous avons du temps avant notre combat. Puis-je\nsuggérer de le mettre à profit ?
+MID_LGV_1LED_c04_Sci_m04_002: Par chance, pour nous en tout cas, nombreuses\nsont les personnes en ville qui ont besoin d'aide.
+MID_LGV_1LED_c04_Sci_m04_003: Je pense que nous avons tout à gagner à leur venir\nen aide.
+MID_LGV_1LED_c04_Moo_m03: <TH>
+MID_LGV_1LED_c04_Moo_m03_001: Leda, je me demandais... Est-ce qu'il y aurait moyen\nd'entrer dans l'arène ?
+MID_LGV_1LED_c04_Moo_m03_002: On pourrait peut-être parler à des gladiateurs\nqui participent aux Jeux Héroïques !
+MID_LGV_1LED_c04_Moo_m03_003: D'un autre côté... il y a un avis de recherche\ncontre nous.
+MID_LGV_1LED_c04_Moo_m03_004: C'est peut-être pas une super idée d'entrer\ntête baissée dans un endroit rempli de soldats\net de personnel des temples.
+MID_LGA_1LED_c04_Moo_m03: <BLN>J'ai une idée.
+MID_LGV_1LED_c04_Oly_m03: <TH>
+MID_LGV_1LED_c04_Oly_m03_001: Je n'ai guère plus envie que toi de laisser ce Lechner\ns'en tirer après ce qu'il a fait.
+MID_LGV_1LED_c04_Oly_m03_002: Jouer avec la confiance de la petite Leilidahna et\nlui laisser une blessure aussi profonde. Pff !
+MID_LGV_1LED_c04_Oly_m03_003: C'est encore plus détestable quand je me rappelle\nà quel point tu étais pure et innocente au temple.
+MID_LGA_1LED_c04_Oly_m03: <BLN>C'est détestable !
+MID_LGV_1LED_c04_Car_m03: <TH>
+MID_LGV_1LED_c04_Car_m03_001: Leilidahna, te portes-tu bien ? Je suis soulagée\nd'apprendre que tu n'as pas rencontré de problèmes\njusqu'à présent.
+MID_LGV_1LED_c04_Car_m03_002: Je sais que je n'ai pas besoin de te rappeler que\nles Jeux Héroïques rassemblent les plus grands\nguerriers.
+MID_LGV_1LED_c04_Car_m03_003: Il te faudra perfectionner tes techniques pour\natteindre ton objectif.
+MID_LGV_1LED_c04_Car_m03_004: Toi et tes alliés ne devrez pas ménager vos efforts\nsi vous voulez voir la route s'ouvrir devant vous.
+MID_LGA_1LED_c04_Car_m03: <BLN>Ne ménagez pas vos efforts.
+MID_LGV_1LED_c04_B02_m01: <TH>
+MID_LGV_1LED_c04_B02_m01_001: Le Souverain Divin s'apprête à inaugurer\nles Jeux Héroïques.
+MID_LGV_1LED_c04_B02_m01_002: Si vous vous rendez dans l'arène, descendez\nles escaliers et suivez ce chemin.
+MID_LGA_1LED_c04_B02_m01: <BLN>Ça commence bientôt.
+MID_LGV_1LED_c04_B03_B04_m01: <TH>
+MID_LGV_1LED_c04_B03_B04_m01_001: Il paraît que le Souverain Divin accordera n'importe\nquelle requête au vainqueur des jeux ?
+MID_LGV_1LED_c04_B03_B04_m01_002: Mince, j'aurais dû m'inscrire.
+MID_LGV_1LED_c04_B03_B04_m01_003: C'est sûr. Sauf que vu ton niveau, tu te serais fait\nsortir dans les qualifications.
+MID_LGV_1LED_c04_B03_B04_m01_004: Les Jeux Héroïques voient s'affronter les meilleurs\ncombattants de tout Dagda, au cas où t'aurais oublié.
+MID_LGA_1LED_c04_B03_m01: <BLN>J'ai raté ma chance.
+MID_LGA_1LED_c04_B04_m01: <BLN>C'est ça...

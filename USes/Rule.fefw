@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: Condiciones victoria
+MID_Rule_Title_Lose: Condiciones derrota
+MID_WINRULE_Annihilate: Derrota a todos los enemigos.
+MID_WINRULE_Destroy: Derrota a este enemigo:\n- {Variable=0}
+MID_WINRULE_Destroy2: Derrota a estos enemigos:\n- {Variable=0}\n- {Variable=1}
+MID_LOSERULE_Annihilate: Todas tus unidades caen.
+MID_LOSERULE_Destroy: Cae en batalla {Variable=0}.
+MID_LOSERULE_Destroy2: Cae en batalla {Variable=0}\no bien {Variable=1}.
+MID_LOSERULE_Destroy3: Cae una de estas unidades:\n- {CapitalizeNextLetter}{Variable=0}\n- {CapitalizeNextLetter}{Variable=1}\n- {CapitalizeNextLetter}{Variable=2}
+MID_WINRULE_SC11_01_1: Obtén la joya roja.
+MID_WINRULE_SC12_08_1: Acciona todos los mecanismos.
+MID_WINRULE_SC13_00_1: Logra que Theodora alcance el objetivo.
+MID_WINRULE_SC13_10: Obtén el epimenio.
+MID_WINRULE_SC13_11_1: Al cabo de {Variable=0} turnos, tus unidades\ntienen más orbes que el enemigo.
+MID_WINRULE_SC13_11_2: Obtén un orbe o haz que el enemigo pierda uno.
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: Al cabo de {Variable=0} turnos, el número de llamas azules\nes mayor que el de llamas rojas.
+MID_WINRULE_SC14_05_2: Logra que Leda alcance el objetivo.
+MID_WINRULE_SC30_08: Logra que {LordName} alcance el objetivo.
+MID_WINRULE_SC00_16: Destruye el pilar del inframundo.
+MID_WINRULE_SCXX_01: Resiste durante {Variable=0} turnos.
+MID_WINRULE_SCXX_02: Activa todos los mecanismos.
+MID_WINRULE_SCXX_04: Derrota a más de la mitad de los gigantes.
+MID_WINRULE_SCXX_05: Recupera todo el cargamento de Vandahl\no derrota a todos los enemigos.
+MID_WINRULE_SCXX_07_1: Logra que los supervivientes de Kunlun alcancen\nel objetivo o derrota a la hidra pentacéfala.
+MID_WINRULE_SCXX_07_2: Logra que Anatolia alcance el objetivo\no derrota a la hidra pentacéfala.
+MID_WINRULE_KL_02_1: Elimina una barrera enemiga y derrota\na todas las unidades rivales.
+MID_WINRULE_KL_02_2: Elimina todas las barreras y unidades enemigas.
+MID_LOSERULE_SC11_03: El carruaje es destruido o Cai cae.
+MID_LOSERULE_SC12_08_1: Pasan {Variable=0} turnos o Dietrich cae.
+MID_LOSERULE_SC13_09: Pasan {Variable=0} turnos o Theodora cae.
+MID_LOSERULE_SC13_11_1: Al cabo de {Variable=0} turnos, el enemigo\ntiene más orbes que tú.
+MID_LOSERULE_SC13_11_2: Un enemigo obtiene un orbe\no una de tus unidades lo pierde.
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: Al cabo de {Variable=0} turnos, el número de llamas rojas\nes mayor que el de llamas azules.
+MID_LOSERULE_SCXX_00: Un enemigo alcanza el objetivo,\no bien {LordName} o Cai caen.
+MID_LOSERULE_SCXX_01: Un enemigo alcanza el objetivo,\no bien {LordName} o Dietrich caen.
+MID_LOSERULE_SCXX_04: El enemigo derrota a más de la mitad de los gigantes.
+MID_LOSERULE_SCXX_05_2: Un bandido con cargamento alcanza el objetivo,\no bien {LordName} o Talimun caen.
+MID_LOSERULE_SCXX_07: Tres kunlunitas son eliminados,\no bien {LordName} o Anatolia caen.
+MID_LOSERULE_DefenseBattle: Todos los civiles son eliminados\no bien {LordName} cae.

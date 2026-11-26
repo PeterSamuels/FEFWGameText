@@ -1,0 +1,40 @@
+﻿MID_Dungeon_Start: Inicio
+MID_Dungeon_Complete: Completado
+MID_Dungeon_FieldKill: Golpea para omitir batallas
+MID_Dungeon_Banquet: Descansar
+MID_Dungeon_BanquetMenu_Help: Selecciona los ingredientes.
+MID_Dangeon_BanquetMenu_Confirm: ¿Quieres usar estos ingredientes para el descanso?
+MID_Dungeon_BanquetMenu_Cancel_Confirm: ¿Quieres seguir explorando sin descansar?
+MID_Dungeon_Banquet_FindEnemy: Hay enemigos persiguiéndote. No puedes descansar.
+MID_Dungeon_Banquet_NotMaterial: Necesitas al menos un ingrediente.
+MID_Dungeon_Banquet_Complete: Ahora mismo no necesitas descansar.
+MID_CmdBtl_Name: Batalla rápida
+MID_CmdBtl_BattleStart: ¡Combatir!
+MID_CmdBtl_EventBattleStart: Batalla especial
+MID_CmdBtl_NextRound: Siguiente turno
+MID_CmdMenu_Link: Cadenas
+MID_CmdMenu_Link_Attack: Ataque en cadena
+MID_CmdMenu_Link_Attack_Help: Elige un aliado para que ataque\na un enemigo después de ti.
+MID_CmdMenu_Link_Heal: Curación en cadena
+MID_CmdMenu_Link_Heal_Help: Elige un aliado para recuperar PV\nal atacar al enemigo.
+MID_CmdMenu_Link_Guard: Cadena mixta
+MID_CmdMenu_Link_Guard_Help: Elige un aliado para bloquear\nla ofensiva enemiga y atacar\nen conjunto.
+MID_CmdMenu_Link_Cause_NotLp: No tienes suficientes PC.
+MID_CmdMenu_Link_Cause_NotAttack: Ningún aliado puede atacar.
+MID_CmdMenu_Link_Cause_NotSupport: Ningún aliado tiene magia de sanación.
+MID_CmdMenu_Link_Cause_NotReliance: Ningún aliado tiene suficiente nivel de apoyo.
+MID_CmdMenu_Link_Cause_FullHP: No te hace falta sanar.
+MID_CmdMenu_ConcentrationCost: Costo PC
+MID_CmdBtl_NextUnit: SIGUE:
+MID_CmdBtl_PreAttackFailed_Message: No dispones de armas ni magia que te permitan\nasestar el primer golpe.
+MID_CmdBtl_AutoAttackFailed_Message: No dispones de armas ni magia que se puedan usar\ndurante las batallas automáticas.
+MID_CmdBtl_SkipFailed_Message: No se ha decidido el combate. Se va a desactivar\nla omisión de la batalla.
+MID_CmdBtl_Escape_Attention: Vas a regresar a la entrada de la zona explorable.
+MID_CmdBtl_Retry_Confirm: Si te cuesta vencer, puedes reiniciar la batalla rápida para ajustar\nel inventario y las habilidades de tu milicia. ¿Quieres hacerlo?
+MID_CmdBtl_RestartBattle_Confirm: ¿Quieres reiniciar la batalla rápida?
+MID_CmdBtl_RestartBattle_Annotation: Si seleccionas «No», volverás al punto de partida\nde la zona explorable con 1 PV.
+MID_CmdBtl_RestartBattle_GmapCasual_Annotation: Si seleccionas «No», volverás a Dagsion\ndejando a todas tus unidades con 1 PV.
+MID_CmdBtl_RestartBattle_GmapClassic_Annotation: Si seleccionas «No», todas las unidades de la milicia serán derrotadas\ny las perderás, incluyendo las que no participen en la batalla rápida.\n(Los PV de {AvatarName} se reducirán a 1 y regresarás a Dagsion.)
+MID_CmdBtl_RestartBattle_Last_Confirm: Esta acción es irreversible. ¿Seguro que quieres continuar?
+MID_Dungeon_Enemy_Destroy: No queda rastro de ningún enemigo.
+MID_Dungeon_Challenger_Confirm: ¿Quieres iniciar la batalla contra el miembro de los Temerarios?

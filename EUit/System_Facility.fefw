@@ -1,0 +1,421 @@
+﻿MID_Shop_Weapon: Armeria
+MID_Shop_Tool: Emporio
+MID_Shop_Blacksmith: Fucina
+MID_Shop_Market: Mercato
+MID_Shop_Drink: Bevande
+MID_Shop_Legion: Trasporto militare
+MID_Shop_Trader: Mercante itinerante
+MID_Shop_Talimun: Società Vandahl
+MID_Shop_Anna: Negozio di Anna
+MID_Shop_Bill: Licenze
+MID_Shop_Bazaar: Mercato
+MID_DiningMenu_Recipe_Meat01: Capra arrosto
+MID_DiningMenu_Recipe_Meat01_Help: Carne di capra grigliata alla\nperfezione. Insaporita con erbe\naromatiche, è succosa e sapida.
+MID_DiningMenu_Recipe_Meat02: Prosciutto in crosta di sale
+MID_DiningMenu_Recipe_Meat02_Help: Carne di cinghiale delle sabbie\nsalata e affumicata a lungo. Ha un\nprofumo e un sapore irresistibili.
+MID_DiningMenu_Recipe_Meat03: Stufato di fagioli e cinghiale
+MID_DiningMenu_Recipe_Meat03_Help: Stufato di fagioli amari e teneri\npezzi di carne di cinghiale delle\nsabbie. Una vera armonia di sapori.
+MID_DiningMenu_Recipe_Meat04: Insetti a stecco in salsa agrodolce
+MID_DiningMenu_Recipe_Meat04_Help: Insetti a stecco fritti dalla croccante\nconsistenza. Una specialità del\nSaramis.
+MID_DiningMenu_Recipe_Fish01: Capesante all'aglio
+MID_DiningMenu_Recipe_Fish01_Help: Capesante ben condite e grigliate\nsulla carbonella. Dove il mare\nincontra la terra.
+MID_DiningMenu_Recipe_Fish02: Zuppa in salsa di pesce
+MID_DiningMenu_Recipe_Fish02_Help: Pescato in brodo con un'aggiunta di\nsalsa di pesce. Semplicemente\nirresistibile.
+MID_DiningMenu_Recipe_Fish03: Grigliata di pesce
+MID_DiningMenu_Recipe_Fish03_Help: Un classico. Pesce fresco grigliato\nsulla carbonella. Persino le interiora\nsono deliziose, per quanto amare.
+MID_DiningMenu_Recipe_Fish04: Aragosta al formaggio
+MID_DiningMenu_Recipe_Fish04_Help: Grosso crostaceo ricoperto di\nformaggio e grigliato per esaltarne\ni sapori. Una gioia per occhi e palato.
+MID_DiningMenu_Recipe_Vegee01: Pere al miele
+MID_DiningMenu_Recipe_Vegee01_Help: Pere dolci e croccanti cotte con\nil miele. Un'esperienza culinaria\ndi alto livello.
+MID_DiningMenu_Recipe_Vegee02: Madazin
+MID_DiningMenu_Recipe_Vegee02_Help: Bomboloni fritti a base di impasto\ndi bakul ripieno di verdure. Ottimi\nper uno spuntino o un pasto.
+MID_DiningMenu_Recipe_Vegee03: Crema di bacche di caffè
+MID_DiningMenu_Recipe_Vegee03_Help: Una crema spalmabile a base\ndi bacche di caffè bollite, che si\naccompagna bene a molti cibi.
+MID_DiningMenu_Recipe_Vegee04: Zuppa di zucca
+MID_DiningMenu_Recipe_Vegee04_Help: Sostanziosa zuppa di verdure\nservita dentro una zucca vuota.\nHa un sapore dolce e piccante.
+MID_ThermaeMenu_Spring01: Bagno caldo
+MID_ThermaeMenu_Spring01_Help: Un bagno bollente che stimola\nla circolazione. Conferisce Effetto\nForz, Effetto Trpl o altro.
+MID_ThermaeMenu_Spring02: Bagno rinfrescante
+MID_ThermaeMenu_Spring02_Help: Un bagno dalla temperatura mite.\nConferisce Effetto Vel, Effetto Scv\no altro.
+MID_ThermaeMenu_Spring03: Bagno medicinale
+MID_ThermaeMenu_Spring03_Help: Un bagno tra le erbe medicinali.\nConferisce Effetto furia, Effetto\nCost o altro.
+MID_ThermaeMenu_Spring04: Bagno floreale
+MID_ThermaeMenu_Spring04_Help: Un bagno tra i fiori. Conferisce\nEffetto cura, Effetto Mag o altro.
+MID_ThermaeMenu_SpringA01: Bagno di rubini
+MID_ThermaeMenu_SpringA01_Help: Un bagno tra la polvere di rubino.\nConferisce Effetto Forz, Effetto\nmosse o altro.
+MID_ThermaeMenu_SpringA02: Bagno nell'oro
+MID_ThermaeMenu_SpringA02_Help: Un bagno cosparso di polvere d'oro.\nConferisce Effetto Scv, Effetto\nripresa o altro.
+MID_ThermaeMenu_SpringA03: Bagno nella giada
+MID_ThermaeMenu_SpringA03_Help: Un bagno rinvigorente in una vasca\ndi giada. Conferisce Effetto furia,\nEffetto Clp o altro.
+MID_ThermaeMenu_SpringA04: Bagno minerale
+MID_ThermaeMenu_SpringA04_Help: Un bagno nelle acque prese dalle\nprofondità del suolo. Conferisce\nEffetto Trpl, Effetto audace o altro.
+MID_ThermaeMenu_SpringB01: Bagno brezza
+MID_ThermaeMenu_SpringB01_Help: Un bagno nella frutta rinfrescante.\nConferisce Effetto Vel, Effetto Scv\no altro.
+MID_ThermaeMenu_SpringB02: Bagno dell'albero della vita
+MID_ThermaeMenu_SpringB02_Help: Un bagno rigenerante in mezzo\nal legno pregiato. Conferisce Effetto\nripresa, Effetto doppio o altro.
+MID_ThermaeMenu_SpringB03: Bagno vulcanico
+MID_ThermaeMenu_SpringB03_Help: Un bagno tra le pietre vulcaniche.\nStimola lo spirito combattivo. Conferisce\nEffetto Trpl, Effetto audace o altro.
+MID_ThermaeMenu_SpringB04: Bagno lunare
+MID_ThermaeMenu_SpringB04_Help: Bagno sacro in una notte di luna\npiena. Conferisce Effetto Forz,\nEffetto Des o altro.
+MID_ThermaeMenu_Special01: Fonte: bagno del gigante
+MID_ThermaeMenu_Special01_Help: Un bagno nelle acque della fonte\ndel Picco Atla. Conferisce Effetto\nForz +, Effetto Trpl + o altro.
+MID_ThermaeMenu_Special02: Fonte: bagno dell'unicorno
+MID_ThermaeMenu_Special02_Help: Dalla fonte sull'Orgus, frequentata\nda animali magici. Conferisce\nEffetto Vel +, Effetto Scv + o altro.
+MID_ThermaeMenu_Special03: Fonte: bagno del tiranno
+MID_ThermaeMenu_Special03_Help: Dalla fonte nascosta nel Mar di Lir.\nConferisce Effetto PS +, Effetto\nDif + o altro.
+MID_ThermaeMenu_Special04: Fonte: bagno dell'arpia
+MID_ThermaeMenu_Special04_Help: Da una fonte sul Monte Ouranos.\nConferisce Effetto cura +,\nEffetto Mag + o altro.
+MID_VolunteerMenu_Pray: Pulizia del tempio
+MID_VolunteerMenu_Pray_Help: Servizio al Tempio di Aurora. Riceverai il suo\nfavore ripulendo il tempio e la tua mente.
+MID_VolunteerMenu_Guard: Guardia al tempio
+MID_VolunteerMenu_Guard_Help: Servizio al Tempio di Mars. Riceverai il suo\nfavore svolgendo il turno di guardia.
+MID_VolunteerMenu_Caring: Cura dei gatti
+MID_VolunteerMenu_Caring_Help: Servizio al Tempio di Smyrnos. Riceverai il suo\nfavore svolgendo un compito inusuale: occuparsi\ndei gatti.
+MID_VolunteerMenu_Library: Catalogo biblioteca
+MID_VolunteerMenu_Library_Help: Servizio al Tempio di Jurah. Riceverai il suo\nfavore riorganizzando la vasta raccolta di libri.
+MID_VolunteerMenu_Song: Canto degli inni
+MID_VolunteerMenu_Song_Help: Servizio al Tempio di Kalla. Riceverai il suo\nfavore unendoti al coro.
+MID_VolunteerMenu_Statue: Manutenzione statue
+MID_VolunteerMenu_Statue_Help: Servizio al Tempio di Credna. Riceverai il suo\nfavore scolpendo e restaurando statue.
+MID_TrainingMenu_Training01: Fanteria
+MID_TrainingMenu_Training01_Help: Insegna le competenze necessarie\nai soldati di fanteria, come Spada,\nArco e Fanteria.
+MID_TrainingMenu_Training02: Ravvicinato
+MID_TrainingMenu_Training02_Help: Insegna le competenze per chi\ncombatte nella lotta ravvicinata,\ncome Spada, Ascia e Pugni.
+MID_TrainingMenu_Training03: Corazzati
+MID_TrainingMenu_Training03_Help: Insegna le competenze per le unità\ncorazzate, come Comando, Lancia,\nAscia e Armatura pesante.
+MID_TrainingMenu_Training04: Maghi
+MID_TrainingMenu_Training04_Help: Insegna le competenze per chi usa\nmagie di attacco e curative: Magia\nbianca, Magia nera e Comando.
+MID_TrainingMenu_Training05: Cavalleria
+MID_TrainingMenu_Training05_Help: Insegna le competenze per le unità\ndi cavalleria, come Lancia, Volo,\nCavalleria e Comando.
+MID_TrainingMenu_TrainingP3_01: Fanteria avanzato
+MID_TrainingMenu_TrainingP3_01_Help: Insegna competenze avanzate per\ni soldati di fanteria, come Spada,\nArco e Fanteria.
+MID_TrainingMenu_TrainingP3_02: Ravvicinato avanzato
+MID_TrainingMenu_TrainingP3_02_Help: Insegna le competenze avanzate per\nchi combatte nella lotta ravvicinata,\ncome Spada, Ascia e Pugni.
+MID_TrainingMenu_TrainingP3_03: Corazzati avanzato
+MID_TrainingMenu_TrainingP3_03_Help: Insegna le competenze avanzate per\nle unità corazzate, come Comando,\nLancia, Ascia, e Armatura pesante.
+MID_TrainingMenu_TrainingP3_04: Maghi avanzato
+MID_TrainingMenu_TrainingP3_04_Help: Insegna le competenze avanzate\nper chi usa la magia, come Magia\nbianca, Magia nera e Comando.
+MID_TrainingMenu_TrainingP3_05: Cavalleria avanzato
+MID_TrainingMenu_TrainingP3_05_Help: Insegna le competenze avanzate\nper le unità di cavalleria, come\nLancia, Volo e Cavalleria.
+MID_WatchMenu_WD11_05: 
+MID_WatchMenu_WD11_05_Help: 
+MID_WatchMenu_WD13_04: Qualificazioni: {Unknown080E=03}Reietti di Alcor
+MID_WatchMenu_WD13_04_Help: Oggi i {Unknown080E=03}Reietti di Alcor si scontrano\ncon altri gruppi. Assisti all'incontro\nnell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD11_06: Qualificazioni: {Unknown080E=03}Cavalieri temporaleschi
+MID_WatchMenu_WD11_06_Help: Oggi i {Unknown080E=03}Cavalieri temporaleschi si\nscontrano con altri gruppi. Assisti\nall'incontro nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD14_06: Qualificazioni: {Unknown080E=03}Piogge della Palma
+MID_WatchMenu_WD14_06_Help: Oggi le {Unknown080E=03}Piogge della Palma si\nscontrano con altri gruppi. Assisti\nall'incontro nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD12_09: 
+MID_WatchMenu_WD12_09_Help: 
+MID_WatchMenu_WD12_10: Qualificazioni: Gioielli gemelli d'Arago
+MID_WatchMenu_WD12_10_Help: Oggi l'{LowercaseNextLetter}Esercito aragoniano si\nscontra con altri gruppi. Assisti\nall'incontro nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD11_09: Qualificazioni: {Unknown080E=03}Confraternita della Bragança
+MID_WatchMenu_WD11_09_Help: Oggi la {Unknown080E=03}Confraternita della Bragança\nsi scontra con altri gruppi. Assisti\nall'incontro nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD15_11: Fuori torneo: Demone canuto vs Mietitore
+MID_WatchMenu_WD15_11_Help: Oggi si tiene l'incontro fuori torneo\ntra il Demone canuto e il Mietitore.\nGuardalo nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD11_10: Incontro principale: {Unknown080E=03}Cai vs {Unknown080E=03}Leda
+MID_WatchMenu_WD11_10_Help: Oggi si tiene l'incontro tra i Venti\ndi Ribeira e le {Unknown080E=03}Rose tempestose.\nGuardalo nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD13_11: Incontro principale: {Unknown080E=03}Theodora vs {Unknown080E=03}Talimun
+MID_WatchMenu_WD13_11_Help: Oggi si tiene l'incontro tra il Faro\ndi Megaira e i {Unknown080E=03}Vandali della luna.\nGuardalo nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD15_13: Incontro principale: {Unknown080E=03}Bertrand vs {Unknown080E=03}Orchel
+MID_WatchMenu_WD15_13_Help: Oggi si tiene l'incontro tra le\n{Unknown080E=03}Criniere infuocate e le Linarie\nmattutine. Guardalo nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD12_15: Incontro principale: {Unknown080E=03}Dietrich vs {Unknown080E=03}Anatolia
+MID_WatchMenu_WD12_15_Help: Oggi si tiene l'incontro tra il Casato\ndi Lamine e il Gruppo nuziale del\nCorvo bianco. Guardalo nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD13_12: Semifinale: {Unknown080E=03}Cai vs {Unknown080E=03}Theodora
+MID_WatchMenu_WD13_12_Help: Oggi si tiene l'incontro tra i Venti\ndi Ribeira e il {Unknown080E=03}Faro di Megaira.\nGuardalo nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_WD12_16: Semifinale: {Unknown080E=03}Dietrich vs {Unknown080E=03}Bertrand
+MID_WatchMenu_WD12_16_Help: Oggi si tiene l'incontro tra il Casato\ndi Lamine e le {Unknown080E=03}Criniere infuocate.\nGuardalo nell'{LowercaseNextLetter}Arena.
+MID_WatchMenu_BD15_08: 
+MID_WatchMenu_BD15_08_Help: 
+MID_WatchMenu_WD15_09: Incontro speciale: Demone canuto vs {Unknown080E=03}Yanjin
+MID_WatchMenu_WD15_09_Help: Oggi si tiene l'incontro speciale\ntra il Demone canuto e {Unknown080E=03}Yanjin.\nGuardalo al Palazzo cristallino.
+MID_Lesson_Title_Explanation1: Fondamenti del combattimento
+MID_Lesson_Detail_Explanation1: Cai, ho combattuto a lungo sia per difendere\nAurora sia per mantenere la pace a Dagsion.\nVorrei discutere con te il migliore approccio alla\nbattaglia.
+MID_Lesson_Title_Explanation2: Consigli sul terreno
+MID_Lesson_Detail_Explanation2: Ho ancora molto da insegnarti, ma il tempo stringe\ne, ora che sono prigioniero, posso solo spiegarti\nnozioni teoriche. Presta molta attenzione.
+MID_Lesson_Title_Explanation3: Come tenersi in forma
+MID_Lesson_Detail_Explanation3: Assomigli molto a tuo padre e temo che tu ne\ncondivida la spericolatezza. Vorrei darti qualche\nconsiglio, nella speranza di non doverti mai vedere\ngravemente ferito.
+MID_Lesson_Title_Practice1: Conoscere il nemico
+MID_Lesson_Detail_Practice1: Il mondo è vario, così come i nemici. Ci sono tante\nclassi e modi di combattere e dovrai imparare le\ntecniche adatte contro ciascuno di essi. Ho chiesto\nad alcuni amici di aiutarmi con la lezione.
+MID_Lesson_Title_Practice2: I nemici di grossa stazza
+MID_Lesson_Detail_Practice2: Potrebbe capitarti di affrontare nemici di grossa\nstazza, come giganti o elefanti. Ti allenerò sul\ncampo di battaglia, così non cadrai nel panico\nquando ti si presenteranno occasioni simili.
+MID_Lesson_Title_Subjugation1: Una richiesta segreta dal papà
+MID_Lesson_Detail_Subjugation1: Ho una richiesta per te, fa parte del tuo allenamento.\nUna volta soddisfatta, farò in modo che tu possa\ndare un esame di certificazione per una nuova classe.
+MID_Lesson_Title_Subjugation2: Una richiesta speciale dalla mamma
+MID_Lesson_Detail_Subjugation2: Se soddisferai la mia richiesta, il Tempio ti darà\nl'opportunità di sostenere l'esame di certificazione\nper una nuova classe.
+MID_Lesson_Title_Subjugation3: Una richiesta dal Demone canuto
+MID_Lesson_Detail_Subjugation3: Combatti in maniera molto pratica. Immagino tu\nabbia imparato a farlo dal tuo mentore. Ti consiglio\ndi fare esperienza nel mondo reale. Buona fortuna!
+MID_Access_Common: Esamina
+MID_Access_ExitPos: Esci
+MID_Access_AreaChange: Procedi
+MID_Access_DngBanquet: Riposa
+MID_Access_Question: ???
+MID_Access_Spire: Altare della causalità
+MID_Access_Goto_KAI_steeple: Obelisco della volpe
+MID_Access_Goto_DIT_steeple: Obelisco del leone
+MID_Access_Goto_SEO_steeple: Obelisco del lupo
+MID_Access_Goto_LED_steeple: Obelisco dell'aquila
+MID_Access_Goto_BEL_steeple: 
+MID_Access_Goto_TAL_steeple: 
+MID_Access_Goto_ORH_steeple: 
+MID_Access_Goto_ANH_steeple: 
+MID_Access_Goto_2_steeple: Obelisco del conflitto
+MID_Access_Goto_3_steeple: Portale del destino
+MID_Access_GodlyPortal: Portale degli dèi
+MID_Access_ExPortal: Teletrasporto
+MID_Access_QuestBoard: Bacheca
+MID_Access_Bird: Trespolo
+MID_Access_Goto_Temple_Aurora: {Unknown080E=03}Tempio di Aurora
+MID_Access_Goto_Temple_Jura: {Unknown080E=03}Tempio di Jurah
+MID_Access_Goto_Temple_Mars: {Unknown080E=03}Tempio di Mars
+MID_Access_Goto_Temple_Smyrnos: {Unknown080E=03}Tempio di Smyrnos
+MID_Access_Goto_Temple_Claire: {Unknown080E=03}Tempio di Credna
+MID_Access_Goto_Temple_Soleil: {Unknown080E=03}Tempio di Solel
+MID_Access_Goto_AutomatonCorridor: 
+MID_Access_Goto_Temple_Carla: {Unknown080E=03}Tempio di Kalla
+MID_Access_Goto_Temple_YuPhas: {Unknown080E=03}Tempio di Yu Phas
+MID_Access_Goto_Sewar: Fogne
+MID_Access_Goto_Shop_Bar: Taverna
+MID_Access_Goto_Guest_Salamis: Quartieri saramisiani
+MID_Access_Goto_ArenaUnderground: Sotterranei dell'arena
+MID_Access_Goto_Temple_YuPhasGarden: Giardino
+MID_Access_Goto_Garden_Aurora: Giardino interno di Aurora
+MID_Access_Goto_Boudoir: Stanze di Aurora
+MID_Access_Goto_BackRoad: Vicoli
+MID_Access_Goto_UrbanArea: Strade del centro
+MID_Access_Goto_UpperLayer: Città alta
+MID_Access_Goto_MiddleLayer: Centro
+MID_Access_Goto_UnderLayer: Città bassa
+MID_Access_Goto_Gmap: Esci da Dagsion
+MID_Access_Goto_Throne: Sala di Sergio
+MID_Access_Goto_Dng_022_A2: Sala della fanciulla
+MID_Access_Goto_Dng_022_A3: Sala della profezia
+MID_Access_Goto_Dng_022_A4: Sala del fedele
+MID_Access_Goto_Dng_022_A5: Sala della distorsione
+MID_Access_Goto_Dng_022_A6: Sala di Sirio
+MID_Access_Out_Outland: Esci dal villaggio
+MID_Access_Out_Town: Esci dalla città
+MID_Access_Out_Village: Esci dal villaggio
+MID_Access_Out_Temple: Esci dal tempio
+MID_Access_Out_Sewar: Esci dalle fogne
+MID_Access_Out_Shop_Bar: Esci dalla taverna
+MID_Access_Out_Guest: Esci dall'edificio
+MID_Access_Goto_TopLayer: Sommità di Dagsion
+MID_Access_Goto_Prison_Lindo: Cella di isolamento
+MID_Map_Area_Arena: Piazza dell'arena
+MID_Map_Area_Shop: Mercato
+MID_Map_Area_Hotel: Strade del centro
+MID_Map_Area_Temple_Lower: Via dei templi inferiore
+MID_Map_Area_Temple_Upper: Via dei templi superiore
+MID_Map_Area_Port: Porto
+MID_Map_Area_Stable: Stalle
+MID_Map_Area_Slums: Città bassa
+MID_Map_Area_Affluent: Città alta
+MID_Map_Area__Commercial: Zona dell'intrattenimento
+MID_Map_Area_Guest_Salamis: Quartieri saramisiani
+MID_Map_Area_Temple_Dagda: Tempio di Dagda
+MID_Map_Area_Arena_Underground: Sotterranei dell'arena
+MID_Map_Area_Sewar: Fogne
+MID_Map_Area_Bar: Taverna
+MID_Map_Area_Room_Aurora: Stanze di Aurora
+MID_Map_Area_Garden_Aurora: Giardino interno di Aurora
+MID_Map_Area_Temple_Jura: Tempio secondario di Jurah
+MID_Map_Area_Temple_Mars: Tempio secondario di Mars
+MID_Map_Area_Temple_Smyrnos: Tempio secondario di Smyrnos
+MID_Map_Area_Temple_YuPhas: Tempio secondario di Yu Phas
+MID_Map_Area_Temple_Carla: Tempio secondario di Kalla
+MID_Map_Area_Temple_Claire: Tempio secondario di Credna
+MID_Map_Area_Temple_Aurora: Tempio secondario di Aurora
+MID_Map_Facility_Shop_Bill: Licenze
+MID_Map_Facility_Shop_Bill_Help: Qui puoi comprare le licenze necessarie\nper sostenere gli esami di certificazione.
+MID_Map_Facility_Shop_Market: Mercato del centro
+MID_Map_Facility_Shop_Market_Help: Qui vendono una grande varietà di doni,\ncomprese delle specialità locali mangerecce\ne non.
+MID_Map_Facility_Shop_Bar: Negozio di doni della taverna
+MID_Map_Facility_Shop_Bar_Help: Vende doni a prezzi ragionevoli ai frequentatori\ndel locale, in una zona della taverna.
+MID_Map_Facility_Shop_Weapon: Armeria
+MID_Map_Facility_Shop_Weapon_Help: Un negozio specializzato in armi provenienti\nda tutto il continente.
+MID_Map_Facility_Shop_Tool: Emporio
+MID_Map_Facility_Shop_Tool_Help: Un negozio specializzato in strumenti utili per\nqualsivoglia avventura, anche le più pericolose.
+MID_Map_Facility_Shop_Anna: Negozio di Anna
+MID_Map_Facility_Shop_Anna_Help: Il negozio segreto di Anna offre oggetti rari,\ndifficili da trovare altrove.
+MID_Map_Facility_Subquest_Hotel: Bacheca (strade del centro)
+MID_Map_Facility_Subquest_Temple: Bacheca (Via dei templi)
+MID_Map_Facility_Subquest_Affluent: Bacheca (città alta)
+MID_Map_Facility_Subquest_Port: Bacheca (porto)
+MID_Map_Facility_Subquest_Help: Una bacheca dove negozianti e organizzazioni\nappendono messaggi. Se soddisfi le richieste,\nla tua fama crescerà e otterrai ricompense.
+MID_Map_Facility_LegionShop: Capo trasporti
+MID_Map_Facility_LegionShop_Help: Si occupa di inviare battaglioni in Saramis\nper rafforzare le difese del paese. In cambio,\nti dà degli strumenti utili.
+MID_Map_Facility_Blacksmith: Fucina
+MID_Map_Facility_Blacksmith_Help: Qui puoi far riparare le armi danneggiate\no renderle più forti.
+MID_Map_Facility_Theater: Teatro
+MID_Map_Facility_Theater_Help: Qui si tengono spettacoli di successo. Puoi\ninvitare alleati per rafforzare il vostro legame\no persino recitare, se hai fama a sufficienza.
+MID_Map_Facility_Hotel: Locanda del centro
+MID_Map_Facility_Hotel_Help: Un luogo dove i viandanti possono rilassarsi.\nRiposa, rinforza i legami con un pasto, o\nimpiega automaticamente il tempo libero.
+MID_Map_Facility_Hotel_2_Help: I soldati possono riposarsi nella base operativa.\nNon puoi affittare stanze o condividere pasti, ma\npuoi visualizzare le conversazioni di sostegno.
+MID_Map_Facility_Hotel_Slums: Locanda città bassa
+MID_Map_Facility_Hotel_Slums_Help: Un luogo adatto ai visitatori meno abbienti.\nNon vende pasti, ma è possibile dormire\no trascorrere automaticamente il tempo libero.
+MID_Map_Facility_Thermae: Terme
+MID_Map_Facility_Thermae_Help: Uno dei bagni pubblici più raffinati della Dagda.\nSe fai il bagno con qualcuno, puoi rafforzare il\nvostro legame e recuperare salute fisica e mentale.
+MID_Map_Facility_Temple_Aurora: Tempio secondario di Aurora
+MID_Map_Facility_Temple_Claire: Tempio secondario di Credna
+MID_Map_Facility_Temple_Carla: Tempio secondario di Kalla
+MID_Map_Facility_Temple_Smyrnos: Tempio secondario di Smyrnos
+MID_Map_Facility_Temple_Mars: Tempio secondario di Mars
+MID_Map_Facility_Temple_Jura: Tempio secondario di Jurah
+MID_Map_Facility_Temple_Help: Un luogo dove puoi avere udienza con gli dèi e\nprestare {LowercaseNextLetter}Servizio per ricevere benedizioni e\nrinforzare il legame con chi ti aiuta.
+MID_Map_Facility_Temple_2_Help: Qui, i soldati devoti possono decidere quali\nbenedizioni ricevere. Per prestare servizio,\nbasta parlare all'{LowercaseNextLetter}Ufficiale di comando.
+MID_Map_Facility_ClassExaminer: Esame di certificazione
+MID_Map_Facility_ClassExaminer_Help: Qui puoi sostenere gli esami di certificazione\nper ogni tipo di classe, a patto che tu abbia\nla licenza appropriata.
+MID_Map_Facility_StableBlock: Stalle
+MID_Map_Facility_StableBlock_Help: Qui puoi ospitare gli animali che hai catturato.\nOccupandoti di loro, accrescerai l'amicizia. Puoi\npersino dargli un nome.
+MID_Map_Facility_Perch_Hotel: Trespolo (strade del centro)
+MID_Map_Facility_Perch_Temple: Trespolo (Via dei templi)
+MID_Map_Facility_Perch_Affluent: Trespolo (città alta)
+MID_Map_Facility_Perch_Port: Trespolo (porto)
+MID_Map_Facility_Perch_Underground: Trespolo (sotterranei)
+MID_Map_Facility_Perch_Help: Non si sa chi abbia costruito questo trespolo.\nCi si posa spesso uno strano uccellino bianco,\nche pare piuttosto amichevole.
+MID_Map_Facility_Perch_2_Help: Qualcuno lo ha portato al campo. L'uccellino non\nappare mentre sei in marcia, ma puoi comunque\ncontrollare le Previsioni battaglia e la Gloria.
+MID_Map_Facility_Firm: Società Vandahl
+MID_Map_Facility_Firm_Help: Qui puoi barattare materiali in cambio di un po'\ndi tutto: oggetti quotidiani, rarità e chi più ne\nha più ne metta.
+MID_Map_Facility_TempleWarp: Portale degli dèi
+MID_Map_Facility_TempleWarp_Help: Il portale presente in un tempio secondario.\nCollega al tempio principale. Per usare uno\ndi questi portali, serve il permesso della divinità.
+MID_Map_Facility_Arena: Arena
+MID_Map_Facility_Arena_Help: L'arena più famosa dell'Impero di Dagda. Qui\nhanno luogo costanti battaglie tra i gladiatori.\nC'è anche un campo marzio.
+MID_Map_Facility_Divination: Bancarella divinazione
+MID_Map_Facility_Divination_Help: Molto popolare a Dagsion tra chi ama farsi\npredire il futuro. Sta a te se credere o meno\nal responso.
+MID_Map_Facility_DitArranger: Reclutatore
+MID_Map_Facility_DitArranger_Help: Un personaggio misterioso che ha strani\ncontatti con guerrieri fortissimi in giro\nper la Dagda. Ti dà le loro lettere di sfida.
+MID_Map_Facility_SeoProcurement: Invio scorte
+MID_Map_Facility_SeoProcurement_Help: Da qui puoi inviare scorte in Saramis. Quando\n{Unknown080E=03}Theodora consegna qualcosa di persona, ottiene\nfama e fondi.
+MID_Map_Facility_LedShowman: Oste
+MID_Map_Facility_LedShowman_Help: Riconosce il talento di {Unknown080E=03}Leda e organizza le sue\nesibizioni. Se Leda si esibisce, ottiene nuove\nmelodie incantate e si aprono nuovi percorsi.
+MID_Map_Facility_LedDrinkSeller: Bevande
+MID_Map_Facility_LedDrinkSeller_Help: Qui trovi le ricette per varie bevande in grado\ndi potenziare i parametri. Man mano che la fama\ndi {Unknown080E=03}Leda cresce, ne saranno disponibili di nuove.
+MID_Map_Facility_Revivalist: Oste
+MID_Map_Facility_Revivalist_Help: Riconosce il talento di {Unknown080E=03}Leda e la ingaggia\nper diffondere speranza e coraggio tra la\npopolazione.
+MID_Map_Facility_SortiePlan: Ufficiale di comando
+MID_Map_Facility_SortiePlan_Help: Si occupa di gestire l'addestramento delle truppe\ne il loro schieramento. Inoltre, gestisce il servizio\npresso i templi.
+MID_Map_Facility_Temple_Main: Accoglienza tempio
+MID_Map_Facility_Temple_Main_Help: Qui è possibile prestare {LowercaseNextLetter}Servizio. Le unità che\nsvolgono questa attività assieme, accresceranno\nil loro Liv sost e riceveranno maggiore favore.
+MID_Map_Facility_Shop_Bazaar: Mercato
+MID_Map_Facility_Shop_Bazaar_Help: Su queste bancarelle i mercanti vendono\nprodotti provenienti da varie regioni.\nTrattano principalmente doni.
+MID_AreaTelop_UpperLayer: Città alta
+MID_AreaTelop_MiddleLayer: Centro
+MID_AreaTelop_UnderLayer: Città bassa
+MID_AreaTelop_Guest_Salamis: Quartieri saramisiani
+MID_AreaTelop_Guest_Arago: Quartieri aragoniani
+MID_AreaTelop_Arena_Underground: Sotterranei dell'arena
+MID_AreaTelop_Sewar: Fogne
+MID_AreaTelop_Shop_Bar: Taverna
+MID_AreaTelop_Temple_Jura: Tempio secondario di Jurah
+MID_AreaTelop_Temple_Mars: Tempio secondario di Mars
+MID_AreaTelop_Temple_Smyrnos: Tempio second. di Smyrnos
+MID_AreaTelop_Temple_YuPhas: Tempio second. di Yu Phas
+MID_AreaTelop_Temple_Carla: Tempio secondario di Kalla
+MID_AreaTelop_Temple_Claire: Tempio secondario di Credna
+MID_AreaTelop_Temple_Aurora: Tempio secondario di Aurora
+MID_AreaTelop_Obelisk: Sala degli obelischi
+MID_AreaTelop_TopLayer: Sommità di Dagsion
+MID_AreaTelop_Cydonia: Governatorato cydoniano
+MID_AreaTelop_Prison: Cella di isolamento
+MID_AreaTelop_Garden: Giardino interno
+MID_FT_CharacterHelp_Kai: Un ragazzino vivace, affezionato alla famiglia.
+MID_FT_CharacterHelp_Kai1: Un ragazzo affezionato alla famiglia.
+MID_FT_CharacterHelp_Dit: Uno spadaccino straniero, assetato di sangue.
+MID_FT_CharacterHelp_Seo: L'impavida regina di Saramis.
+MID_FT_CharacterHelp_Led: Una ballerina, nonché musicista di melodie incantate.
+MID_FT_CharacterHelp_Bel: Un fiero guerriero che combatte per la libertà.
+MID_FT_CharacterHelp_Tal: Il più ricco mercante della Dagda, molto ambizioso.
+MID_FT_CharacterHelp_Orh: Una fanciulla dal corpo misterioso.
+MID_FT_CharacterHelp_Anh: Un mediator che si batte per il suo popolo.
+MID_FT_CharacterHelp_Tia: Una ragazzina che vanta conoscenze in molti campi.
+MID_FT_CharacterHelp_Tia1: Una ragazza che vanta conoscenze in molti campi.
+MID_FT_CharacterHelp_Pet: Un ragazzino abile con l'arco.
+MID_FT_CharacterHelp_Pet1: Un ragazzo abile con l'arco.
+MID_FT_CharacterHelp_Hur: Una ragazza che lavora per il Tempio.
+MID_FT_CharacterHelp_Fab: Un missionario proveniente da un altro continente.
+MID_FT_CharacterHelp_Esm: Una ragazza particolarmente forte, proveniente\nda un villaggio di pescatori.
+MID_FT_CharacterHelp_Mic: Un tempo era una mercenaria famosa.
+MID_FT_CharacterHelp_Bon: Un generale saramisiano piuttosto arguto.
+MID_FT_CharacterHelp_Tob: Un generale saramisiano piuttosto sfacciato.
+MID_FT_CharacterHelp_Lil: Un'arciera saramisiana.
+MID_FT_CharacterHelp_Lys: Un cavaliere saramisiano.
+MID_FT_CharacterHelp_Buc: Un protettore veterano.
+MID_FT_CharacterHelp_Sci: Un bardo donnaiolo.
+MID_FT_CharacterHelp_Moo: Una ragazzina schietta, affezionata alla famiglia.
+MID_FT_CharacterHelp_Moo1: Una ragazza schietta, affezionata alla famiglia.
+MID_FT_CharacterHelp_Oly: Una sacerdotessa canterina, detentrice del titolo\ndi Rosa blu del Caelus.
+MID_FT_CharacterHelp_Gat: Un guerriero che si è addestrato in oriente.
+MID_FT_CharacterHelp_Jes: Un clown pronto a combattere.
+MID_FT_CharacterHelp_Max: Un ragazzo educato, che un tempo era un clown.
+MID_FT_CharacterHelp_Gol: Un omaccione soprannominato il Macellaio.
+MID_FT_CharacterHelp_Dan: Un'autrice e sceneggiatrice di successo.
+MID_FT_CharacterHelp_Urs: La direttrice contabile della Società Commerciale\nVandahl.
+MID_FT_CharacterHelp_Sim: Un mercenario che ne ha vissute tante.
+MID_FT_CharacterHelp_Lou: Una giovane dipendente della Società Commerciale\nVandahl.
+MID_FT_CharacterHelp_Fia: Una donna protetta dalla Società Commerciale\nVandahl.
+MID_FT_CharacterHelp_Die: Il fedele servitore di Orchel.
+MID_FT_CharacterHelp_Lor: Una ragazza vivace che accompagna Orchel.
+MID_FT_CharacterHelp_Lor1: Una ragazza vivace che adora Orchel.
+MID_FT_CharacterHelp_Set: Un viandante che sta viaggiando per tutta la Dagda.
+MID_FT_CharacterHelp_Nin: Una ragazza misteriosa che lavora come Vulkan.
+MID_FT_CharacterHelp_Sar: Una ragazza dal carattere calmo.
+MID_FT_CharacterHelp_Naz: Un giovane e irascibile spadaccino.
+MID_FT_CharacterHelp_Dai: Un ragazzo spavaldo che si intende di macchinari.
+MID_FT_CharacterHelp_Hal: Un'artista di strada dal grande talento.
+MID_FT_CharacterHelp_Kou: Una maga dai grandi poteri.
+MID_FT_CharacterHelp_Tro: Un'anziana saggia ed esperta.
+MID_FT_CharacterHelp_Guj: Un mercenario spaccone che non rende conto\na nessuno.
+MID_FT_CharacterHelp_Ned: Una mercenaria saramisiana.
+MID_FT_CharacterHelp_Noc: Una gladiatrice competitiva.
+MID_FT_CharacterHelp_Sop: Una sacerdotessa golosa.
+MID_FT_CharacterHelp_Yan: Un monaco errante, che spesso alza il gomito.
+MID_FT_CharacterHelp_Cat: Una mercenaria che si vanta delle sue abilità.
+MID_FT_CharacterHelp_Maj: Un bullo dalla forza eccezionale.
+MID_FT_CharacterHelp_Kir: Lo spietato ex capitano di una banda di pirati.
+MID_FT_CharacterHelp_Iio: Un giovane mercenario con il suo inseparabile\ndestriero.
+MID_FT_CharacterHelp_Nuz: Un guerriero dei clan della foresta.
+MID_FT_CharacterHelp_Pep: Un giovane che proviene da un altro paese.
+MID_FT_CharacterHelp_Zac: Un ex bandito che ha parecchi assi nella manica.
+MID_FT_CharacterHelp_Ven: Un veterano arrogante.
+MID_FT_CharacterHelp_Jas: Una donna a capo di un gruppo di mercenari.
+MID_FT_CharacterHelp_Ale: Una cavaliera gentile, che combatte a cavallo del suo\nadorato pegaso.
+MID_FT_CharacterHelp_Ini: Un'arciera eccezionale proveniente dalla campagna.
+MID_FT_CharacterHelp_Nat: Un generale aragoniano molto valente.
+MID_FT_CharacterHelp_Hri: Un generale aragoniano brillante, quanto scaltro.
+MID_FT_CharacterHelp_Cen: Un cavaliere del Tempio, al servizio di Aurora.
+MID_FT_CharacterHelp_Cle: Un appariscente mago dell'Agartha.
+MID_FT_CharacterHelp_Mys: Un dimesso mago dell'Agartha.
+MID_FT_CharacterHelp_Ann: Un'assistente sacerdotessa del Tempio di Solel.
+MID_FT_CharacterHelp_Asw: L'erede di un grande re d'Arago.
+MID_FT_CharacterHelp_Gra: Uno spadaccino che discende da una famiglia di eroi.
+MID_FT_CharacterHelp_Kra: Un generale della Mosa.
+MID_FT_CharacterHelp_Cas: Il padre di Cai.
+MID_FT_CharacterHelp_Lon: Un saggio maestro di arti marziali.
+MID_FT_CharacterHelp_Tah: La fedele servitrice di Aswan.
+MID_FT_CharacterHelp_Jun: La Largitrice di fertilità.
+MID_FT_CharacterHelp_Mar: Il Foriero di guerre.
+MID_FT_CharacterHelp_Smi: L'Araldo degli incanti.
+MID_FT_CharacterHelp_Cla: Il Bagliore della fucina.
+MID_FT_CharacterHelp_Car: La Patrona delle arti e della caccia.
+MID_FT_CharacterHelp_Aur: La Stella dei naviganti.
+MID_FT_CharacterHelp_Gab: Il gestore dei sotterranei dell'arena.
+MID_FT_CharacterHelp_Che: 
+MID_FT_CharacterHelp_Cir: 
+MID_FT_CharacterHelp_Nom: 
+MID_FT_CharacterHelp_Ile: 
+MID_FT_CharacterHelp_Mta: 
+MID_FT_CharacterHelp_Sol: 
+MID_FT_CharacterHelp_Shi: 
+MID_FT_CharacterHelp_Hyo: 
+MID_FT_CharacterHelp_Gan: 
+MID_FT_CharacterHelp_Gil: 
+MID_FT_CharacterHelp_Sua: 
+MID_FT_CharacterHelp_Har: 
+MID_FT_CharacterHelp_Ger: 
+MID_FT_CharacterHelp_Kar: 
+MID_FT_CharacterHelp_Bou: 
+MID_FT_CharacterHelp_Lin: 
+MID_FT_CharacterHelp_Miw: 
+MID_FT_CharacterHelp_Ver: 
+MID_FT_CharacterHelp_Kyo: 

@@ -1,0 +1,200 @@
+﻿MTID_Wall: 벽
+MTID_MagicBarrier: 마법 방벽
+MTID_ControlDevice: 제어 장치
+MTID_ControlDevice_SC12_03: 능력 강화 장치
+MTID_ControlDevice_SC18_03: 
+MTID_ControlDevice_SC18_10: 
+MTID_ControlDevice_SC16_18: 
+MTID_MPSupplyDevice: 마력 공급 장치
+MTID_Launcher: 발사 장치
+MTID_Lantern: 등불
+MTID_CollapsiblePillar: 허술한 기둥
+MTID_MoonlitFlower: 
+MTID_LightZOC: 
+MTID_ZOC1_SCXX_00: 향로의 재
+MTID_TBox: 보물 상자
+MTID_EmptyTBox: 빈 보물 상자
+MTID_Door: 큰 문
+MTID_Bonfire: 화톳불
+MTID_Floor: 바닥
+MTID_Deck: 갑판
+MTID_Bridge: 다리
+MTID_EvasionTile: 회피 마법진
+MTID_RecoveryTile: 회복 마법진
+MTID_RecoveryTileStop: 회복 마법진(멈춤)
+MTID_FastRecoveryTile: 
+MTID_DefenseTile: 물방 마법진
+MTID_DefenseTileStop: 물방 마법진(멈춤)
+MTID_MagicDefenseTile: 항마 마법진
+MTID_MagicDefenseTileStop: 항마 마법진(멈춤)
+MTID_GuardianTile: 방어 마법진
+MTID_GuardianTileStop: 방어 마법진(멈춤)
+MTID_TeleportTile: 전이 마법진
+MTID_TeleportTileS1: 전이 마법진(출구)
+MTID_TeleportTileStop: 전이 마법진(멈춤)
+MTID_SummoningTile: 소환 마법진
+MTID_OilField: 역청
+MTID_Ballista: 활 포대
+MTID_MagicCannon: 마도 포대
+MTID_Catapult: 투석기
+MTID_Stairs: 계단
+MTID_Building: 건물
+MTID_Rock: 바위
+MTID_Debris: 잔해
+MTID_Mountain: 바위산
+MTID_Cliff: 벼랑
+MTID_LowWall: 낮은 벽
+MTID_CityWall: 성벽
+MTID_Hull: 선체
+MTID_DarkMass: 명계의 살덩이
+MTID_River: 강
+MTID_Waterfall: 폭포
+MTID_Pond: 연못
+MTID_Sea: 바다
+MTID_Bushes: 수풀
+MTID_Forest: 숲
+MTID_Woods: 삼림
+MTID_DenseForest: 깊은 숲
+MTID_Grove: 덤불
+MTID_DenseGrove: 무성한 덤불
+MTID_TrapTile: 바닥 함정
+MTID_Desert: 사막
+MTID_Sand: 모래땅
+MTID_Quicksand: 
+MTID_ToxicSwamp: 독 늪
+MTID_ShallowWater: 여울
+MTID_RoughTerrain: 황무지
+MTID_Destructible: 기낭
+MTID_SharedCarriage: 승합 마차
+MTID_Asphalt: 역청 덩어리
+MTID_BarrierDevice: 
+MTID_DefendableObject: 
+MTID_ProofOfDestruction: 승리의 증표
+MTID_Boulder: 
+MTID_DarkFlame: 명염
+MTID_Fire: 화재
+MTID_Puddle: 물웅덩이
+MTID_Miasma: 독기
+MTID_StomachAcid: 강산
+MTID_FrozenFloor: 얼어붙은 강산
+MTID_HadesGate: 명계의 문
+MTID_HadesGround: 맥동하는 살덩이
+MTID_Barrier: 보호 구역
+MTID_ThrownThunder: 
+MTID_WanderingWall: 떠돌이 벽
+MTID_Fence: 울타리
+MTID_GhostCarriage: 유령 마차
+MTID_BaptismalAltarSwitch: 영혼의 발판
+MTID_BellTower: 종탑
+MTID_Explosive: 폭발물
+MTID_ControlDevice_SC12_12: 마법 덫 발생 장치
+MTID_FunControlDevice: 송풍기 제어 장치
+MTID_FunControl: 안개 제거 송풍기
+MTID_Bonfire_SC13_11: 화톳불
+MTID_Lantern_SC13_13: 향로
+MTID_Lantern_SCXX_00: 향로
+MTID_Bonfire_SC15_06: 
+MTID_Bonfire_SC16_13: 
+MTID_Bonfire_SCXX_04: 증표의 등불
+MTID_Orichalcum: 오리할콘 더미
+MTID_AerialTerrain_Ban: 방벽
+MTID_Ground_Ban: 방벽(멈춤)
+MTID_ObstacleLow: 낮은 장애물
+MTID_Pier: 부두
+MTID_Ground: 지면
+MTID_Sky: 공중
+MTID_Object: 장애물
+MTID_CastleFloor: 성 바닥
+MTID_Mast: 돛대
+MTID_NoEntry: 전장 밖
+MTID_DarknessGround: 명왕의 왕좌
+MTID_Abyss: 나락
+MTID_Miasma_1: 나태의 독기
+MTID_Miasma_2: 탐욕의 독기
+MTID_Miasma_3: 기만의 독기
+MTID_Miasma_4: 질투의 독기
+MTID_Miasma_5: 분노의 독기
+MTID_Miasma_6: 오만의 독기
+MTID_Miasma_7: 색욕의 독기
+MTID_Miasma_8: 폭식의 독기
+MTID_Miasma_9: 공포의 독기
+MTID_Miasma_Final: 낙일의 독기
+MTID_FlammaRiver: 
+MTID_Structure1_SC11_05: 용감한 기사
+MTID_Structure2_SC11_05: 힘차게 우는 군마
+MTID_Structure_SC11_06: 신위 대제의 위광
+MTID_Structure1_SC14_06: 특이한 구조물
+MTID_Structure2_SC14_06: 무시무시한 거인
+MTID_Structure3_SC14_06: 군신의 위용
+MTID_Structure4_SC14_06: 신위 대제의 위용
+MTID_Structure5_SC14_06: 태양신의 위용
+MTID_Structure_SC11_11: 거목
+MTID_Structure_SCXX_02: 재계의 제단
+MTID_Barrel_SC15_03: 
+MTID_BrittleRock_SC18_02: 
+MTID_TrapTile_SC18_14: 
+MTID_ProofOfDestruction_Blue: 
+MTID_ProofOfDestruction_Red: 
+MTID_DeepHole_SC16_11: 
+MTID_H_ControlDevice_SC12_12: 작동 시 마법 덫이 설치된다
+MTID_H_Unknown: ???
+MTID_H_BaptismalAltarSwitch: 제단의 결계를 해제하는 장치
+MTID_H_Asphalt: 불로 공격 시 발화한다
+MTID_H_BellTower: 파괴 시 큰 소리가 발생한다
+MTID_H_Bonfire_SC13_11: 우세한 진영 색의 불이 켜진다
+MTID_H_Bonfire_SC14_03: 불의 색을 바꿀 수 있다
+MTID_H_Bonfire_SC16_13: 점화 시 주변에 빛을 발산한다
+MTID_H_Bonfire_SCXX_04: 거인을 처치할 때마다 점화된다
+MTID_H_ControlDevice_SC12_03: 특정 전사의 능력을 강화하는 장치
+MTID_H_ControlDevice_SC13_13_1: 전이 마법진의 제어 장치
+MTID_H_ControlDevice_SC13_13_2: 큰 문의 개폐를 제어하는 장치
+MTID_H_MagicBarrier: 방벽 너머로 공격 및 전이 불가
+MTID_H_Bonfire_SC15_06: 점화 시 시야가 넓어진다
+MTID_H_ControlDevice_SC16_18: 플라마 방출 제어 장치
+MTID_H_ControlDevice_SC18_03: 아나톨리아를 강화하는 장치
+MTID_H_ControlDevice_SC18_10: 적의 강화 상태를 바꾸는 장치
+MTID_H_Explosive: 파괴 시 주변 적에게 대미지를 준다
+MTID_H_FlammaRiver: 독기를 생성하고 적을 강화한다
+MTID_H_FunControlDevice_SC13_09: 송풍기를 작동시키는 장치
+MTID_H_FunDevice_SC13_09: 작동 시 잠시 동안 안개를 제거
+MTID_H_HadesGate: 발로르를 보호하는 배리어의 발생원
+MTID_H_HadesGate_Broken: 발로르를 보호하는 배리어의 발생원
+MTID_H_Lantern_SC13_13: 파괴 시 주변 유닛의 명중 저하
+MTID_H_Lantern_SC15_05: 마법 방벽을 생성하는 장치
+MTID_H_Lantern_SCXX_00: 파괴 시 주변 적의 HP 및 이동력 감소
+MTID_H_Miasma_Final: 매 턴 HP 감소
+MTID_H_MoonlitFlower: 보름달이 뜬 밤에 피는 아름다운 꽃
+MTID_H_PilesOfOrichalcum: 다수 파괴 시 거인이 대미지를 받는다
+MTID_H_ProofOfDestruction_Blue: 시합 종료 시 수가 많으면 승리
+MTID_H_ProofOfDestruction_Red: 시합 종료 시 수가 많으면 패배
+MTID_H_Quicksand: 대기 시 유사의 끝으로 이동
+MTID_H_TrapTile_SC18_14: 작동 시 적에게 대미지를 준다
+MTID_H_Structure1_SC11_05: 정규군을 표현한 무대 미술
+MTID_H_Structure2_SC11_05: 반란군을 표현한 무대 미술
+MTID_H_Structure_SC11_06: 다그다 대제를 본뜬 무대 미술
+MTID_H_Structure1_SC14_06: 전설을 재현한 무대 미술
+MTID_H_Structure2_SC14_06: 강력한 거인을 표현한 무대 미술
+MTID_H_Structure3_SC14_06: 막강한 군신을 표현한 무대 미술
+MTID_H_Structure4_SC14_06: 대제의 위엄을 표현한 무대 미술
+MTID_H_Structure5_SC14_06: 용감한 태양신을 표현한 무대 미술
+MTID_H_Structure_SC11_11: 신비로운 분위기의 거목
+MTID_H_Structure_SCXX_02: 여신 유 파스와 관련된 제단
+MTID_H_ControlDevice: 마법 방벽을 제어하는 장치
+MTID_H_TBox: 열려면 열쇠가 필요하다
+MTID_H_MPSupplyDevice: 타이타니스에 마력을 공급하는 장치
+MTID_H_Launcher: 투석기를 작동시키는 장치
+MTID_H_FastRecoveryTile: 한 번만 사용 가능
+MTID_H_ControlDevice_SC12_08: 코끼리병의 배리어를 제어하는 장치
+MTID_H_ControlDevice_SC13_12: 마법 방벽을 제어하는 장치
+MTID_H_ControlDevice_SC14_06: 공기를 건조하게 만드는 장치
+MTID_H_ControlDevice_SC14_13: 방벽을 제어하고 강화하는 장치
+MTID_H_MagicBarrier_SC14_13: 방벽 너머로 대굉토 사용 및 전이 불가
+MTID_H_ControlDevice_SC15_07: 거인을 강화하고 있는 장치
+MTID_H_ControlDevice_SC15_15: 바닥 함정을 제어하는 장치
+MTID_H_ControlDevice_SC18_14: 바닥 함정을 제어하는 장치
+MTID_H_Ban: 대기 불가
+MTID_H_TrapTile: 페이즈가 개시될 때 대미지를 준다
+MTID_H_Destructible: 파괴 시 인접한 기낭도 파괴
+MTID_H_MagicBarrier_Attackable: 방벽 너머로 전이 불가
+MTID_H_NoTeleport: 전이 불가
+MTID_H_ToxicSwamp: 페이즈가 개시될 때 독을 부여

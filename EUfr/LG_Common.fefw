@@ -1,0 +1,128 @@
+﻿MID_LGV_XXX_Ism_Closed_m01: <TH>
+MID_LGV_XXX_Ism_Closed_m01_001: Je ne crois pas avoir besoin d'aller par là.
+MID_LGV_XXX_Kai_Closed_m01: <TH>
+MID_LGV_XXX_Kai_Closed_m01_001: J'ai pas besoin d'aller par là pour le moment.
+MID_LGV_XXX_Dit_Closed_m01: <TH>
+MID_LGV_XXX_Dit_Closed_m01_001: Ma voie est ailleurs.
+MID_LGV_XXX_Seo_Closed_m01: <TH>
+MID_LGV_XXX_Seo_Closed_m01_001: Je ne vois aucune raison d'aller là-bas.
+MID_LGV_XXX_Led_Closed_m01: <TH>
+MID_LGV_XXX_Led_Closed_m01_001: C'est pas la bonne direction, on dirait.
+MID_LGV_XXX_Bel_Closed_m01: 
+MID_LGV_XXX_Bel_Closed_m01_001: 
+MID_LGV_XXX_Tal_Closed_m01: 
+MID_LGV_XXX_Tal_Closed_m01_001: 
+MID_LGV_XXX_Orh_Closed_m01: 
+MID_LGV_XXX_Orh_Closed_m01_001: 
+MID_LGV_XXX_Anh_Closed_m01: 
+MID_LGV_XXX_Anh_Closed_m01_001: 
+MID_LGV_XXX_Gatekeeper_Closed_m01: <TH>
+MID_LGV_XXX_Gatekeeper_Closed_m01_001: On ne passe pas.
+MID_LGA_XXX_Gatekeeper_Closed_m01: <BLN>L'accès est interdit.
+MID_LGV_XXX_EXDungeon_Closed_m01: <TH>
+MID_LGV_XXX_EXDungeon_Closed_m01_001: <DLG>La porte reste silencieuse et ne réagit pas.
+MID_LGV_1XXX_TGXX_106_m01: <TH>
+MID_LGV_1XXX_TGXX_106_m01_001: Eh ! Pas si vite ! L'accès est interdit.
+MID_LGV_1XXX_TGXX_106_m01_002: Désolé, mais des clients ont fait du grabuge au bar\net on n'a pas fini de réparer les dégâts.
+MID_LGV_XXX_Gatekeeper_m02: <TH>
+MID_LGV_XXX_Gatekeeper_m02_001: Vous tenez à la vie ? Alors, décampez avant\nque je m'occupe de vous.
+MID_LGA_XXX_Gatekeeper_m02: <BLN>Fichez le camp.
+MID_LGV_XXX_Gatekeeper_m03: <TH>
+MID_LGV_XXX_Gatekeeper_m03_001: Vous êtes bouché ou complètement débile ? Je vous\nai dit de déguerpir !
+MID_LGV_XXX_Gatekeeper_m03_002: Si je vous attrape encore une fois dans le coin,\nje vous ferai passer l'envie de revenir !
+MID_LGV_XXX_Hur_Arena_m02: <TH>
+MID_LGV_XXX_Hur_Arena_m02_001: C'est aujourd'hui qu'a lieu le combat.\nBonne chance !
+MID_LGA_XXX_Hur_Arena_m02: <BLN>Le combat a lieu aujourd'hui.
+MID_LGV_XXX_Arena_m01: <TH>
+MID_LGV_XXX_Arena_m01_001: Votre combat aura lieu le {SetColor=Gold}{DateTime=Day} {LowercaseNextLetter}{DateTime=Month}{SetColor=Default}.\nRevenez à ce moment-là.
+MID_LGA_XXX_Arena_m01: <BLN>Votre prochain combat...
+MID_LGV_XXX_Arena_m02: <TH>
+MID_LGV_XXX_Arena_m02_001: Vous combattez aujourd'hui. Vous êtes prêts ?
+MID_LGA_XXX_Arena_m02: <BLN>Vous combattez aujourd'hui.
+MID_LGV_XXX_Arena_Final_m01: <TH>
+MID_LGV_XXX_Arena_Final_m01_001: La finale aura lieu le {SetColor=Gold}{DateTime=Day} {LowercaseNextLetter}{DateTime=Month}{SetColor=Default}.\nRevenez à ce moment-là.
+MID_LGA_XXX_Arena_Final_m01: <BLN>La finale...
+MID_LGV_XXX_Arena_Final_m02: <TH>
+MID_LGV_XXX_Arena_Final_m02_001: Enfin la finale... Vous êtes prêts ?
+MID_LGA_XXX_Arena_Final_m02: <BLN>Enfin la finale...
+MID_LGV_XXX_Arena_Watching_m01: <TH>
+MID_LGV_XXX_Arena_Watching_m01_001: Le combat d'aujourd'hui est terminé.\nN'hésitez pas à revenir un autre jour.
+MID_LGV_XXX_Elevator_m01: <TH>
+MID_LGV_XXX_Elevator_m01_001: Voulez-vous utiliser l'ascenseur hydraulique ?
+MID_LGV_XXX_Elevator_m01_002: <ICA>Oui
+MID_LGV_XXX_Elevator_m01_003: <ICB>Non
+MID_LGA_XXX_Elevator_U_m01: <BLN>Cet ascenseur descend aux docks.
+MID_LGA_XXX_Elevator_D_m01: <BLN>Cet ascenseur monte à l'arène.
+MID_LGV_XXX_Elevator_Closed_m01: <TH>
+MID_LGV_XXX_Elevator_Closed_m001_001: L'ascenseur est en révision. Vous ne pouvez pas\nl'utiliser pour le moment.
+MID_LGA_XXX_Elevator_Closed_m01: <BLN>Pas d'ascenseur pour l'instant.
+MID_LGV_XXX_Departure_m01: 
+MID_LGV_XXX_Departure_m01_001: 
+MID_LGV_XXX_Departure_m01_002: 
+MID_LGV_XXX_Departure_m01_003: 
+MID_LGV_XXX_Gatekeeper_m01: <TH>
+MID_LGA_XXX_Gatekeeper_m01: C'est fermé pour le moment.
+MID_LGV_XXX_BirdFollow_m01: <TH>
+MID_LGV_XXX_BirdFollow_m01_001: Je vois que tu as suivi mon conseil. Tu as pris\nla forme d'un oiseau pour veiller sur eux.
+MID_LGV_XXX_BirdFollow_m01_002: Et en plus... Tu as noué des liens avec eux ?!
+MID_LGV_XXX_BirdFollow_m01_003: Ils ne devraient même pas soupçonner qui tu es\nvraiment, mais enfin... On a vu plus étrange.
+MID_LGV_XXX_BirdFollow_m01_004: Contentons-nous d'accepter ce drôle de miracle.
+MID_LGA_XXX_BirdFollow_m01: <BLN>Comment est-ce que...
+MID_LGV_XXX_JuFasTemple_Closed_m01: 
+MID_LGV_XXX_JuFasTemple_Closed_m01_001: 
+MID_LGV_1KAI_A60Lock_m01: <TH>
+MID_LGV_1KAI_A60Lock_m01_001: C'est verrouillé. Je crois qu'on peut l'ouvrir\nde l'autre côté.
+MID_LGV_1KAI_A60Lock_m01_002: Mais comment on y va ?
+MID_LGV_1KAI_A60Open_m01: <TH>
+MID_LGV_1KAI_A60Open_m01_001: Bon, c'est ouvert. Maintenant, on peut passer par là\nquand on veut.
+MID_LGV_1KAI_A100Warp_m01: <TH>
+MID_LGV_1KAI_A100Warp_m01_001: Tu veux voir Aurora ?
+MID_LGV_1KAI_A100Warp_m01_002: <ICA>Oui
+MID_LGV_1KAI_A100Warp_m01_003: <ICB>Non
+MID_LGV_1BEL_Gab_Jailer_m01: 
+MID_LGV_1BEL_Gab_Jailer_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01: 
+MID_LGV_1BEL_Gab_Jailer_Scenario_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Go_m01_001: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01: 
+MID_LGV_1BEL_Gab_Jailer_Outing_Return_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_001: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_002: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_003: 
+MID_LGV_1BEL_Jailer_Outing_First_m01_004: 
+MID_LGV_1ANH_EXAcquisition_m01: 
+MID_LGV_1ANH_EXAcquisition_m01_001: 
+MID_LGV_3ISM_Obelisk_m01: <TH>
+MID_LGV_3ISM_Obelisk_m01_001: Tu veux retourner dans la chambre aux obélisques ?
+MID_LGV_3ISM_Obelisk_m01_002: <ICA>Oui
+MID_LGV_3ISM_Obelisk_m01_003: <ICB>Non
+MID_LGV_3ISM_Obelisk_m01_004: <ACA>Très bien. Viens avec moi.
+MID_LGV_3ISM_Obelisk_m01_005: <ACB>Si jamais tu as envie d'y retourner,\nil suffit de demander.
+MID_LGV_3ISM_CrownKey_FirstGet_m01: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m01_001: Qu'est-ce que c'est que cette clé ? Je vois bien\nqu'elle est très vieille, mais à part ça...
+MID_LGV_3ISM_CrownKey_FirstGet_m01_002: Je vais essayer d'en savoir plus. Fais en sorte\nde ne pas la perdre.
+MID_LGV_3ISM_CrownKey_FirstGet_m02: <TH>
+MID_LGV_3ISM_CrownKey_FirstGet_m02_001: Ce que tu tiens là est la clé d'une salle à l'intérieur\ndu temple de la diadémée.
+MID_LGV_3ISM_CrownKey_FirstGet_m02_002: Si nous nous y rendons, je suis sûre que\nla récompense sera à la hauteur !
+MID_LGV_3ISM_PromptObelisk_m01: <TH>
+MID_LGV_3ISM_PromptObelisk_m01_001: Si tu penses que tes forces sont insuffisantes, tu peux\ntoujours retourner dans la chambre aux obélisques.
+MID_LGV_3ISM_PromptObelisk_m01_002: Altérer la causalité pour nouer des liens avec d'autres\ngénéraux ardents est un bon moyen de renforcer\nton armée.
+MID_LGA_3ISM_PromptObelisk_m01: <BLN>Tes forces sont suffisantes ?
+MID_LGV_3ISM_RouteComplete_m01: <TH>
+MID_LGV_3ISM_RouteComplete_m01_001: Tu as suffisamment exploité les lois de la causalité\npour attirer auprès de toi de nombreux guerriers.
+MID_LGV_3ISM_RouteComplete_m01_002: C'est trop tôt pour crier victoire, sachant\nce qu'on doit affronter... mais c'est impressionnant.
+MID_LGA_3ISM_RouteComplete_m01: <BLN>Tous ces guerriers...
+LGV_XXX_Notice_Unlock_Guide: <TH>
+LGV_XXX_Notice_Unlock_Guide_001: <DLG>Le guide d'aventures a été ajouté à votre journal.\nJetez-y un œil si vous ne savez pas quoi faire.
+LGV_XXX_Notice_Unlock_Honor: <TH>
+LGV_XXX_Notice_Unlock_Honor_001: <DLG>La section Bénéfices de renommée a été ajoutée à votre journal.\nConsultez-la pour savoir ce que vous gagnez à augmenter votre\nrenommée.
+LGV_XXX_Notice_Unlock_Quest: <TH>
+LGV_XXX_Notice_Unlock_Quest_001: <DLG>La liste des quêtes a été ajoutée à votre journal.\nVous y retrouverez toutes les quêtes que vous avez acceptées.
+LGV_XXX_Notice_Unlock_Calendar: <TH>
+LGV_XXX_Notice_Unlock_Calendar_001: <DLG>Le calendrier a été ajouté à votre journal.\nServez-vous-en pour exploiter au mieux votre temps libre.
+LGV_XXX_Notice_Unlock_BattleHint: <TH>
+LGV_XXX_Notice_Unlock_BattleHint_001: <DLG>La Prescience a été ajoutée à votre journal.\nVous y trouverez des informations sur votre prochain\ncombat de la quête principale.

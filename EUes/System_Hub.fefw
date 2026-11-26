@@ -1,0 +1,462 @@
+﻿MID_GiftMenu_Help: Elige un objeto para regalar.
+MID_GiftMenu_Confirm: ¿Quieres cancelar la entrega del regalo?
+MID_ScoutInfo_Introduction: Información
+MID_ScoutInfo_Status: Combate
+MID_ScoutInfo_Profile: Perfil
+MID_ScoutMenu_Give_Help: Elige algo para regalar.
+MID_HubMenu_RouteSelect: Vía de causalidad
+MID_RouteSelectMenu_Help: Elige qué versión del personaje quieres reclutar.
+MID_RouteSelectMenu_Confirm: ¿Quieres reclutar a {Variable=1}, de la {LowercaseNextLetter}{Variable=0}?
+MID_RouteSelectMenu_AutoGrow_Confirm: Puedes reclutar a {Variable=1}, de la {LowercaseNextLetter}{Variable=0}.\nSubirá de nivel para poder afrontar con garantías la campaña final.
+MID_RouteSelectMenu_AutoGrow_Yes: Subir de nivel y reclutar
+MID_RouteSelectMenu_AutoGrow_Yes_NotGrow: Reclutar sin subir de nivel
+MID_RouteSelectMenu_AutoGrow_No: Cancelar
+MID_HeroJoyn_AutoGrow_Confirm: Con vistas a la campaña final, puedes subir de nivel\ny reclutar a {Variable=0}. ¿Quieres hacerlo?
+MID_Joyn_AutoGrow_Confirm: Con vistas a la campaña final, puedes subir de nivel\ny reclutar a {Variable=0}. ¿Quieres hacerlo?
+MID_LessonMenu_Help: Elige a qué tipo de lección quieres asistir.
+MID_LessonMenu_Explanation: Seminario
+MID_LessonMenu_Practice: Combate
+MID_LessonMenu_Subjugation: Conquista
+MID_LessonMenu_PracticeConfirm: El combate tendrá lugar en el mapa de batalla.\n¿Quieres comenzar la lección?
+MID_ProcurementMenu_Help: Ver peticiones en activo y hacer entregas.
+MID_QuestBoard_Help: Muestra las misiones secundarias activas.
+MID_QuestMenu_MaineQuest: Misión principal
+MID_QuestMenu_SubQuest: Misión secundaria
+MID_QuestMenu_SideStoryQuest: Desvío
+MID_QuestMenu_RouteQuest_Kindness: Altruismo
+MID_QuestMenu_RouteQuest_Challenge: Carta de desafío
+MID_QuestMenu_RouteQuest_Procurement: Enviar suministros
+MID_QuestMenu_RouteQuest_Show: Actuación
+MID_QuestMenu_RouteQuest: Misión especial
+MID_QuestMenu_Condition: Requisitos
+MID_QuestMenu_Destination: Lugar:
+MID_QuestMenu_TimeLimit: Plazo:
+MID_QuestMenu_Reward: Recomp.
+MID_QuestMenu_Acceptable: Disponible
+MID_QuestMenu_Reportable: Cumplida
+MID_QuestMenu_Progressing: En curso
+MID_QuestMenu_Failed: Caducada
+MID_QuestMenu_Accept_Yes: Aceptar misión
+MID_QuestMenu_Accept_No: Rechazar misión
+MID_QuestMenu_Report_Yes: Informar
+MID_QuestMenu_Report_No: No informar
+MID_QuestMenu_Delivery_Yes: Entregar
+MID_QuestMenu_Delivery_No: No entregar
+MID_QuestMenu_Confirm: ¿Quieres aceptar la misión\n«{Variable=0}»?
+MID_QuestMenu_Report_Confirm: ¿Quieres informar de que la misión\nse ha cumplido?
+MID_QuestMenu_AcceptReport_Confirm: Ya has cumplido la misión. ¿Quieres informar al respecto?
+MID_QuestMenu_ExclusiveQuest_Confirm: Si entregas esto para la misión actual, no podrás completar la que\nse titula «{Variable=0}», de esta misma senda.\n¿Quieres entregarlo de todos modos?
+MID_DeliveryMenu_Title: Entregar
+MID_DeliveryMenu_ItemSelect_Help: Selecciona lo que quieras entregar.
+MID_DeliveryMenu_AnimalSelect_Help: Selecciona los animales que quieras entregar.
+MID_DeliveryMenu_Confirm: ¿Quieres entregar esto?
+MID_DeliveryMenu_Select_Confirm: Selecciona la cantidad que quieras entregar.
+MID_DeliveryMenu_Cancel_Confirm: ¿Quieres cancelar la entrega?
+MID_ScoutDeliveryMenu_Confirm: ¿Quieres entregar esto?
+MID_ScoutDeliveryMenu_Cancel_Confirm: ¿Quieres cancelar el reclutamiento?
+MID_HubMenu_FastTravel: Mapa local
+MID_FastTravelMenu_Area: Zonas
+MID_FastTravelMenu_Facility: Instalaciones
+MID_FastTravelMenu_CanScout: Reclutable
+MID_FastTravelMenu_CannotScout: No reclutable
+MID_FastTravelMenu_CanJoin: Reclutable
+MID_FastTravelMenu_ScoutCondition: Condiciones
+MID_FastTravelMenu_Action: Actividades
+MID_FastTravelMenu_Confirm: ¿Quieres viajar rápidamente?
+MID_FastTravelMenu_NotMove_Message: La función no está disponible ahora mismo.
+MID_FastTravelMenu_NameOrder: Orden alfabético
+MID_Facility_Special: ESPECIAL
+MID_Facility_HalfPrice: −50 %
+MID_Facility_Menu_Lv: {Variable=0} nivel {Variable=1}
+MID_Facility_MenuBoard: Opciones semanales
+MID_Shop_Buy: Comprar
+MID_Shop_Buy_Help: Compra mercancía.
+MID_Shop_Sell: Vender
+MID_Shop_Sell_Help: Vende objetos o materiales.
+MID_Shop_Trade: Intercambiar
+MID_Shop_Trade_Help: Intercambia materiales por objetos o bebidas.
+MID_ShopMenu_Buy_UnitSelect_Help: Elige a qué unidad quieres entregarle objetos.
+MID_ShopMenu_Sell_UnitSelect_Help: Selecciona la unidad que tenga el artículo que desees vender.
+MID_ShopMenu_Help: Elige un artículo.
+MID_Shop_Transport_Help: Carro compartido con armas,\nequipo y objetos.
+MID_Shop_Material_Help: Carro compartido con materiales\ny regalos.
+MID_Shop_Price: Precio
+MID_Shop_Stock: Disp.
+MID_Shop_NotSell: No vend.
+MID_Shop_Sell_TotalNum: Artículos vendidos
+MID_Shop_Sell_TotalPrice: Valor total de venta
+MID_Shop_Buy_TotalNum: Total de artículos
+MID_Shop_Buy_TotalPrice: Precio total
+MID_Shop_Consumption: Coste
+MID_Shop_Aquisition: Recibes
+MID_Shop_Item_Other: Otros
+MID_Shop_Buy_Confirm: ¿Quieres comprar esto?
+MID_Shop_Sell_Confirm: ¿Quieres vender esto?
+MID_Shop_Exchange_Confirm: ¿Quieres intercambiar esto?
+MID_Shop_FullItem_Transport_Message: Tienes el carro lleno. Tira o vende lo que no necesites.
+MID_Shop_FullItem_Unit_Message: No puedes llevar más objetos. Tira o vende los que no necesites.
+MID_Shop_FullItem_Material_Message: No puedes llevar más materiales. Tira o vende los que no necesites.
+MID_BlacksmithShop_Refine: Refinar
+MID_BlacksmithShop_Refine_Help: Usa materiales para mejorar tus armas.
+MID_BlacksmithShop_Repair: Reparar
+MID_BlacksmithShop_Repair_Help: Emplea materiales para reparar las armas\ndesgastadas por el uso.
+MID_RefineMenu_UnitSelect_Help: Selecciona la unidad que tenga el arma que desees mejorar.
+MID_RefineMenu_Help: Elige un arma.
+MID_RefineMenu_Select_Help: Selecciona el grado de mejora.
+MID_RefineMenu_CanRefine: Refinable
+MID_RefineMenu_Before: Actual
+MID_RefineMenu_After: Tras refinar
+MID_RefineMenu_Confirm: ¿Quieres refinar esto?
+MID_RefineMenu_Result: Se ha refinado el arma.
+MID_RepairMenu_UnitSelect_Help: Selecciona la unidad que tenga el arma que desees reparar.
+MID_RepairMenu_Help: Elige un arma.
+MID_RepairMenu_Confirm: ¿Quieres reparar esto?
+MID_RepairMenu_Result: Se ha reparado el arma.
+MID_LegionShop_Sell: Trasladar batallones
+MID_LegionShop_Sell_Help: Traslada batallones a Saramis para obtener puntos de tropa.
+MID_LegionSellMenu_Help: Selecciona un batallón.
+MID_LegionSellMenu_Confirm: ¿Quieres trasladar este batallón a Saramis?
+MID_LegionSellMenu_Dispatch_Confirm: Este batallón se encuentra desplegado aquí: {Variable=0}.\n¿Quieres cancelar el despliegue y trasladarlo a Saramis?
+MID_LegionSellMenu_Owner_Confirm: Este batallón está asignado a {Variable=0}.\n¿Quieres cancelar la asignación y trasladarlo a Saramis?
+MID_LegionSellMenu_Result: A cambio de {Variable=0} puntos de tropa,\nhas recibido lo siguiente:
+MID_HubMenu_Stable: Establo
+MID_StableMenu_Naming: Nombre
+MID_StableMenu_Naming_Help: Elige o cambia el nombre de los animales.
+MID_StableMenu_Breeding: Alimentar
+MID_StableMenu_Breeding_Help: Da de comer a tus animales para estrechar vuestro vínculo.
+MID_StableMenu_Release: Liberar
+MID_StableMenu_Release_Help: Libera a un animal para dejarlo al margen de los combates.\nQuizá recibas un regalo de despedida.
+MID_StableMenu_FullRelease_Message: El establo está lleno. Elige un animal para liberarlo.
+MID_NamingMenu_AnimalSelect_Help: Elige un animal.
+MID_ReleaseMenu_AnimalSelect_Help: Elige un animal.
+MID_ReleaselMenu_Confirm: ¿Quieres liberar a este animal?
+MID_ReleaseMenu_OwnerConfirm: Este animal está asignado a {Variable=0}.\n¿Quieres desasignarlo y liberarlo?
+MID_ReleaseMenu_Result: Has liberado a {Variable=0}.
+MID_ReleaseMenu_GetItem_Result: {CapitalizeNextLetter}{Variable=0} te ha dejado un obsequio de despedida.
+MID_BreedingMenu_FoodSelect_Help: Elige algún alimento.
+MID_BreedingMenu_FavoriteTaste: Sabor
+MID_BreedingMenu_FavoriteFoodType: Le gusta
+MID_BreedingMenu_FavoriteFood: Favorito
+MID_BreedingMenu_RideFull: Lleno
+MID_HubMenu_Hotel: Posada
+MID_HotelMenu_Stay: Dormir
+MID_HotelMenu_Stay_Help: Descansa un turno para recuperar PV, magia y {LowercaseNextLetter}Motivación.
+MID_HotelMenu_Dining: Comida
+MID_HotelMenu_Dining_Help: Elige tres personajes para que coman juntos\ny aumenten así sus {LowercaseNextLetter}Puntos de apoyo.
+MID_HotelMenu_Reliance: Apoyo
+MID_HotelMenu_Reliance_Help: Consulta las conversaciones de apoyo disponibles.
+MID_HotelMenu_Individual: Actividades auto.
+MID_HotelMenu_Individual_Help: Envía a aliados a obtener materiales, dinero\no Exp durante cierto número de turnos.
+MID_HotelMenu_Individual_Part3_Help: Envía a aliados a obtener materiales, dinero o Exp\ndurante cierto número de turnos (se usarán todos\nlos turnos hasta que se cumpla el plazo).
+MID_HotelMenu_Stay_Confirm: ¿Quieres dormir en la posada?
+MID_HotelMenu_Stay_Part3_Annotation: Terminará el turno de la milicia de {Variable=0}\ny volverá al mapa.
+MID_HotelMenu_Stay_Part3Ism_Annotation: Terminará el turno de {AvatarName} y volverá al mapa del mundo.\nLa opción «Formar filas» seguirá disponible.
+MID_DiningMenu_RecipeSelect_Help: Elige un plato.
+MID_DiningMenu_Confirm: ¿Quieres compartir esta comida?
+MID_IndividualMenu_Help: Asigna actividades a tus aliados.
+MID_IndividualMenu_Action: Acción
+MID_IndividualMenu_ActualCombat: Combate
+MID_IndividualMenu_Confirm: Elige el número de turnos para las actividades automáticas.
+MID_IndividualMenu_Reminder_Confirm: Tienes un recordatorio en la agenda para el {Variable=1} de {LowercaseNextLetter}{Variable=0}.\n¿Seguro que quieres realizar actividades que sobrepasan ese plazo?\n(Turnos restantes hasta la fecha: {Variable=2}.)
+MID_IndividualMenu_Reminder_Yes: Realizar actividades
+MID_IndividualMenu_Reminder_Yes_Fixed: Realizar actividades {Variable=0} {SingularPlural0=turno|turnos}.
+MID_IndividualMenu_Reminder_No: Cancelar
+MID_HubMenu_Thermae: Termas
+MID_ThermaeMenu_Thermae: Baño
+MID_ThermaeMenu_Thermae_Help: Dos aliados se bañan juntos. Así aumentan sus puntos de apoyo, y\nambos recuperan PV, magia y motivación. Quizá ganen habilidades\nespeciales, válidas hasta el final de la batalla principal del capítulo.
+MID_ThermaeMenu_Thermae_Part3_Help: Dos aliados se bañan juntos. Así aumentan sus puntos de apoyo, y ambos\nrecuperan PV, magia y motivación. Quizá ganen habilidades especiales,\nválidas hasta el final de la última batalla principal de la sección.
+MID_ThermaeMenu_ThermaeSelect_Help: Elige un tipo de baño.
+MID_ThermaeMenu_Confirm: ¿Quieres darte un baño de este tipo?
+MID_HubMenu_Theater: Teatro
+MID_TheaterMenu_Act: Actuar
+MID_TheaterMenu_Act_Help: Selecciona aliados para que interpreten los papeles de una\nobra de teatro, lo que aumenta sus puntos de apoyo y concede\notras recompensas en función del resultado de su actuación.
+MID_TheaterMenu_Watch: Ver una obra
+MID_TheaterMenu_Watch_Help: Cuando dos personajes ven una obra juntos,\naumentan sus puntos de apoyo.
+MID_TheaterMenu_HelpDetail: Detalles de la obra
+MID_TheaterMenu_DramaGenre_Comedy: Comedia
+MID_TheaterMenu_DramaGenre_Tragedy: Tragedia
+MID_TheaterMenu_DramaGenre_Opera: Ópera
+MID_TheaterMenu_DramaGenre_Special: Especial
+MID_TheaterActMenu_Confirm: ¿Quieres interpretar la obra con este reparto?
+MID_TheaterActMenu_GetFunItem_Result: Recibes un regalo del público.
+MID_TheaterAct_Recovery: ¡Exitazo!
+MID_TheaterAct_Recovery_Message: ¡La gran interpretación de {Variable=0} deja de piedra al público!
+MID_TheaterWatchMenu_Confirm: ¿Quieres que estos personajes asistan a la actuación?
+MID_TheaterWatch_Perfect_Message: La pareja opina lo mismo de la obra, ¡y su vínculo se estrecha!
+MID_TheaterWatch_Good_Message: Parece que la pareja lo ha disfrutado.
+MID_TheaterWatch_Bad_Message: Parece que solo le ha gustado a uno de los dos personajes...
+MID_PerchMenu_Perch: Alimentar
+MID_PerchMenu_Perch_Help: Mejora tu vínculo con el Cuervo Blanco\n(aumentan los puntos de apoyo con {AvatarName}\nen su forma de Cuervo Blanco).
+MID_PerchMenu_Perch_Part3: Interactuar
+MID_PerchMenu_Perch_Part3_Help: Transfórmate en el Cuervo Blanco\ne interactúa con alguno de tus aliados.
+MID_PerchMenu_Obelisk: Sala de los obeliscos
+MID_PerchMenu_Obelisk_Help: Interrumpe la historia actual. Desde la sala de los obeliscos,\npuedes avanzar en otras sendas o disfrutar de la música\ny de las cinemáticas que hayas desbloqueado.
+MID_PerchMenu_BattleHint: Previsión
+MID_PerchMenu_BattleHint_Help: Consulta información y consejos sobre la batalla principal\nde este capítulo.
+MID_PerchMenu_BattleHint_Part3_Help: Consulta información y consejos sobre la batalla principal\nde esta sección.
+MID_PerchMenu_ResetChapter_Help: Reinicia el capítulo. Se perderá el progreso actual en él.
+MID_PerchMenu_ResetChapter_Part3_Help: Reinicia la sección. Se perderá el progreso actual en ella.
+MID_PerchMenu_FoodSelect_Help: Elige algún alimento.
+MID_PerchMenu_Confirm: ¿Quieres darle este alimento?
+MID_PerchMenu_Part3_Confirm: ¿Quieres interactuar con {Variable=0}?
+MID_Perch_QuetionCorrect_Message: Parece que está feliz.
+MID_Perch_QuetionWrong_Message: No parece muy feliz.
+MID_GazeMenu_FreeTime: Tiempo extra
+MID_GazeMenu_Gaze: Observar
+MID_GazeMenu_Farewell: Fin
+MID_BattleHintMenu_MainBattle: Batalla principal
+MID_BattleHintMenu_Lv: Nivel idóneo
+MID_BattleHintMenu_JobRank: Tipo de clase idóneo
+MID_BattleHintMenu_WeaponRank: Armas idóneas
+MID_BattleHintMenu_Job: Clases sugeridas
+MID_BattleHintMenu_Item: Objetos sugeridos
+MID_BattleHintMenu_Advice: Consejo
+MID_BattleHintMenu_SortiePlayer: Propias
+MID_BattleHintMenu_SortieGuest: Invitadas
+MID_DivinationMenu_DivinationVisiter: Adivinación
+MID_DivinationMenu_DivinationVisiter_Help: Deja que Anatolia te lea el futuro.
+MID_DivinationMenu_DivinationVisiter_Confirm: ¿Quieres que te lean el futuro?
+MID_DivinationMenu_Divination: 
+MID_DivinationMenu_Divination_Help: 
+MID_DivinationMenu_Divination_Confirm: 
+MID_HubMenu_Temple: Servicio divino
+MID_TempleMenu_MiracleEquip: Bendiciones
+MID_TempleMenu_MiracleEquip_Help: Elige las bendiciones que te ayudarán en la batalla.
+MID_TempleMenu_Volunteer: Servir
+MID_TempleMenu_Trial: Prueba
+MID_TempleMenu_Trial_Help: Vence a soldados influidos por la {LowercaseNextLetter}{Variable=0}\npara obtener equipamiento potente.
+MID_TempleMenu_Trial_RecommendedLv: Niv. ideal
+MID_TempleMenu_Trial_Clear: Superada
+MID_TempleMenu_HelpDetail: Templo
+MID_TempleMenu_HelpDetail_Miracle: Efectos de las bendiciones
+MID_TempleMenu_HelpDetail_LuckyWeek: Días sagrados
+MID_TempleMenu_HelpDetail_WholeLuckyWeek: Todos
+MID_TempleMenu_Reinforce: Potenciar técnicas
+MID_TempleMenu_Reinforce_Help: Potencia las técnicas de combate para mejorar los atributos\no reducir el desgaste de arma asociado, entre otras cosas.
+MID_TempleMenu_Educate: Transmitir secreto
+MID_TempleMenu_Educate_Help: Dietrich enseña a sus aliados a usar las técnicas\nsecretas que ha aprendido de los Temerarios.
+MID_TempleMenu_Audience: Audiencia
+MID_MiracleEquipMenu_Help: Puedes elegir {Variable=0} {SingularPlural0=bendición|bendiciones}.
+MID_MiracleEquipMenu_EquippedNum: Elegidas
+MID_MiracleEquipMenu_Info_Help: Consulta los efectos de la bendición.
+MID_MiracleEquipMenu_NotTemple_Message: Puedes seleccionar las bendiciones activas en los templos\no en cualquier base donde haya uno.
+MID_MiracleEquipMenu_Invalid_Message: No se puede cambiar todavía.
+MID_VolunteerMenu_Confirm: ¿Quieres servir en el templo con estos participantes?
+MID_TrialMenu_Help: Elige unidades para la {LowercaseNextLetter}Batalla rápida.
+MID_TrialMenu_Confirm: ¿Quieres comenzar la prueba?
+MID_ReinforceMenu_UnitSelect_Help: Selecciona la unidad que tenga la técnica que desees potenciar.
+MID_ReinforceMenu_Help: Selecciona una técnica de combate.
+MID_ReinforceMenu_Confirm: ¿Quieres potenciar esta técnica?
+MID_EducateMenu_UnitSelect_Help: Selecciona la unidad a la que desees enseñar una técnica secreta.
+MID_EducateMenu_Help: Selecciona una técnica de combate secreta.
+MID_EducateMenu_Confirm: ¿Quieres enseñar esta técnica secreta?
+MID_HubMenu_ClassExaminer: Examen de aptitud
+MID_TempleMenu_ClassChange: Cambiar de clase
+MID_TempleMenu_ClassChange_Help: Cambia la clase de la unidad a otra para la que haya superado\nel examen de aptitud.
+MID_TempleMenu_ClassTrial: Examen de aptitud
+MID_TempleMenu_ClassTrial_Help: Aprueba un examen de aptitud para obtener acceso\na una nueva clase de unidad.
+MID_TempleMenu_ClassRecycle: Reutilizar licencia
+MID_TempleMenu_ClassRecycle_Help: Renuncia a una clase desbloqueada. Si lo haces,\nrecuperarás el objeto de examen correspondiente.
+MID_ClassTrialMenu_UnitSelect_Help: Elige la unidad que vaya a presentarse al examen.
+MID_ClassTrialMenu_ClassSelect_Help: Elige un tipo de clase.
+MID_ClassTrialMenu_JobRank: Tipo de clase
+MID_ClassTrialMenu_JobRank_None: Básica
+MID_ClassTrialMenu_JobRank_Novice: Inicial
+MID_ClassTrialMenu_JobRank_Middle: Intermedia
+MID_ClassTrialMenu_JobRank_Higher: Avanzada
+MID_ClassTrialMenu_JobRank_Super: Suprema
+MID_ClassTrialMenu_JobRank_Legend: Divina
+MID_ClassTrialMenu_JobSelect_Help: Elige una clase.
+MID_ClassTrialMenu_JobRankSelect: Clase {LowercaseNextLetter}{Variable=0}
+MID_ClassTrialMenu_PassRate: Probabilidad
+MID_ClassTrialMenu_RequiredMastery: Comp. requeridas
+MID_ClassTrialMenu_ElectiveMastery: Comp. adicionales
+MID_ClassTrialMenu_ConditionPart3: Salvación (III)
+MID_ClassTrialMenu_TrialInfo: Detalles del examen
+MID_ClassTrialMenu_Job_Bonus: Más información
+MID_ClassTrialMenu_MasterSkill: Habilidades maestras
+MID_ClassTrialMenu_UsableMastery: Competencias
+MID_ClassTrialMenu_SkillEXP_Bonus: Exp comp adicional
+MID_ClassTrialMenu_Confirm: ¿Quieres presentarte a este examen de aptitud?
+MID_ClassTrialMenu_PassRateFull_Message: Solo es posible presentarse a la prueba de aptitud de una clase divina\ncuando la probabilidad de éxito es del 100 %.
+MID_ClassTrialMenu_ChangeConfirm: ¿Quieres cambiar ya a la clase nueva?
+MID_Sys_Result_ClassTrial_Passed: ¡Has aprobado!
+MID_Sys_Result_ClassTrial_Failed: Has suspendido...
+MID_ClassChangeMenu_UnitSelect_Help: Selecciona una unidad.
+MID_ClassChangeMenu_JobSelect_Help: Selecciona a qué clase quieres cambiar.
+MID_ClassChangeMenu_Confirm: ¿Quieres cambiar a esta clase?
+MID_ClassChangeMenu_CostumeInvalid_Message: {CapitalizeNextLetter}{Variable=0} no dispone de vestuario alternativo\npara esta clase.
+MID_ClassRecycleMenu_JobSelect_Help: Selecciona una clase.
+MID_ClassRecycleMenu_Confirm: ¿Quieres renunciar a esta clase?\nSi lo haces, recuperarás el objeto de examen correspondiente.
+MID_ClassRecycleMenu_JobChange_Confirm: Tendrás que cambiar de clase. ¿Quieres elegir otra?
+MID_ClassRecycleMenu_Change_Confirm: ¿Quieres cambiar a esta clase y renunciar a la anterior?\nSi lo haces, recuperarás el objeto de examen correspondiente.
+MID_HubMenu_Arena: Coliseo
+MID_ArenaMenu_Training: Entrenar
+MID_ArenaMenu_Training_Help: Entrena para pulir tus competencias.
+MID_ArenaMenu_Watching: Ver encuentro
+MID_ArenaMenu_Watching_Help: Asiste a un enfrentamiento entre otros grupos.\nTodos los aliados obtendrán experiencia en competencias.
+MID_ArenaMenu_Watching_Accepting: Abierto al público
+MID_TrainingMenu_Help: Elige en qué tipo de entrenamiento quieres participar.
+MID_TrainingMenu_TrainingMastery: Entrena
+MID_TrainingMenu_Confirm: ¿Quieres comenzar el entrenamiento?
+MID_WatchingMenu_Confirm: ¿Quieres asistir a este encuentro?
+MID_HubMenu_Training: Plaza de armas
+MID_SortiePlanMenu_BottomUp: Puesta al día
+MID_SortiePlanMenu_BottomUp_Help: Entrena a los aliados de menor nivel para que se pongan\na la altura de las unidades más potentes.
+MID_SortiePlanMenu_BottomUp_Confirm: ¿Quieres comenzar una puesta al día?
+MID_SortiePlanMenu_Training: Práctica grupal
+MID_SortiePlanMenu_Training_Heip: Entrena a la vez a todo el grupo para mejorar\nsus competencias.
+MID_SortiePlanMenu_Training_Confirm: ¿Quieres comenzar una práctica grupal?
+MID_SortiePlanMenu_Volunteer: Servicio grupal
+MID_SortiePlanMenu_Volunteer_Help: Todas las unidades cooperan en servicio de una divinidad\npara elevar los tributos.
+MID_SortiePlanMenu_Volunteer_Confirm: ¿Quieres comenzar un servicio grupal?
+MID_CharaMaking_Page_Body: Cuerpo
+MID_CharaMaking_Page_Skin: Tono de piel
+MID_CharaMaking_Page_Head: Peinado
+MID_CharaMaking_Page_Hair: Color de pelo
+MID_CharaMaking_Page_Clothes: Vestuario
+MID_CharaMaking_Page_Name: Nombre
+MID_CharaMaking_Page_Confirm: Confirmar
+MID_CharaMaking_BodyType: Cuerpo
+MID_CharaMaking_SkinColor: Tono de piel
+MID_CharaMaking_HeadType: Peinado
+MID_CharaMaking_HairColor: Color de pelo
+MID_CharaMaking_Clothes: Vestuario
+MID_CharaMaking_Check: Confirmar
+MID_CharaMaking_Type_A: Tipo A
+MID_CharaMaking_Type_B: Tipo B
+MID_CharaMaking_Type_C: Tipo C
+MID_CharaMaking_Type_D: Tipo D
+MID_CharaMaking_Type_E: Tipo E
+MID_CharaMaking_Swkbd_Header: Ponle nombre (los caracteres no válidos se muestran así: ■).
+MID_CharaMaking_Confirm_Yes: Confirmar
+MID_CharaMaking_Confirm_RemakeAppearance: Rehacer
+MID_CharaMaking_Confirm_Rename: Renombrar
+MID_HeroMenu_Start_Part1: Tocar este obelisco
+MID_HeroMenu_Start_Part2: Pasar a la parte II: Guerra
+MID_HeroMenu_Start_Part3: Pasar a la campaña final
+MID_HeroMenu_Start_Part1_Confirm: ¿Quieres tocar este obelisco y seguir la senda de {Variable=0}?
+MID_HeroMenu_Start_Part2_Confirm: ¿Quieres acceder a la parte II: Guerra con {Variable=0}?
+MID_HeroMenu_Start_Part3_Confirm: ¿Quieres acceder a la campaña final\ncontra el dios demoniaco {Unknown080E=03}Balor?
+MID_HeroMenu_Continue_Part1: Reanudar la {LowercaseNextLetter}{Variable=0}
+MID_HeroMenu_Continue_Part2: Reanudar la parte II: Guerra
+MID_HeroMenu_Continue_Part3: Reanudar la parte III: Salvación
+MID_HeroMenu_Continue_Confirm: ¿Quieres continuar desde el {LowercaseNextLetter}{Variable=0}?
+MID_HeroMenu_Continue_Part3_Confirm: ¿Quieres continuar la parte III: Salvación?
+MID_HeroMenu_Skip_Part2: Omitir la parte II: Guerra
+MID_HeroMenu_Skip_Confirm: En lugar de jugar toda la parte II: Guerra, tienes la opción\nde ver un resumen. Los aliados mejorarán automáticamente.\n¿Quieres saltarte la parte II: Guerra?
+MID_HeroMenu_Skip_Comment: Podrás jugar esta parte de manera normal aun después\nde que se haya marcado como completada.
+MID_HeroMenu_Skip_Attention: Se perderá el progreso actual de {Variable=0}\nen la parte II: Guerra.
+MID_HeroMenu_Restart: Reiniciar un capítulo
+MID_HeroMenu_Restart_Attention: Ya existen datos de juego de la {LowercaseNextLetter}{Variable=0}.\nSi se reinicia un capítulo, se sobrescribirán.
+MID_HeroMenu_Restart_Part2_Attention: Ya existen datos de juego de {Variable=0} en la parte II: Guerra.\nSi se reinicia un capítulo, se sobrescribirán.
+MID_HeroMenu_RestartChapter_Confirm: ¿Seguro que quieres volver a jugar a partir de este capítulo?
+MID_HeroMenu_RestartChapter_Attention: Al completar de nuevo la {LowercaseNextLetter}Parte I, se sobrescribirán\nlos datos iniciales de tus unidades para la {LowercaseNextLetter}Parte II.
+MID_HeroMenu_Restart_Part3: Reiniciar una sección
+MID_HeroMenu_Restart_Part3_Attention: Al reiniciar una sección, el progreso de la historia y los atributos\nde los personajes volverán al mismo estado que tenían en ese punto.
+MID_HeroMenu_RestartChapter_Part3_Confirm: ¿Seguro que quieres volver a jugar a partir de esta sección?
+MID_HeroMenu_RestartChapter_Continue_Confirm: Estos datos son previos al reinicio del prólogo.\n{CapitalizeNextLetter}{AvatarName} pasará a tener la clase {LowercaseNextLetter}Guardián.\n¿Quieres volver a jugar desde esta sección?
+MID_HeroMenu_ClearData_KeyHelp: Datos finales
+MID_HeroMenu_Mastery: Competencias especiales
+MID_ResumeMenu_Help: Selecciona un capítulo para jugarlo de nuevo.
+MID_ResumeMenu_Part3_Help: Selecciona una sección para jugarla de nuevo.
+MID_ResumeMenu_UpdateDate: Última actualización
+MID_ChapterStatus_Title: Detalles de unidad
+MID_ChapterStatus_Title_Help: Consulta los detalles actualizados de cada unidad.
+MID_ClearStatus_Title: Ver datos finales
+MID_ClearStatus_Help: Consulta los datos de conclusión de la parte II.
+MID_ClearStatus_Acquired_Skill: Nueva habilidad aprendida.
+MID_ClearStatus_Acquired_Arts: Nueva técnica aprendida.
+MID_ObeliskMenu_Memory: Recuerdos
+MID_ObeliskMenu_Memory_Help: Aquí puedes escuchar música y recordar los momentos\nvividos, como cinemáticas o conversaciones de apoyo.
+MID_ObeliskMenu_Memory_Sound: Galería de música
+MID_ObeliskMenu_Memory_Movie: Galería de vídeos
+MID_ObeliskMenu_Memory_Event: Galería de eventos
+MID_ObeliskMenu_Memory_Reliance: Conversaciones apoyo
+MID_ObeliskMenu_Destiny: Registro de logros
+MID_ObeliskMenu_Destiny_Help: Consulta los logros alcanzados y recibe esquirlas de causalidad\ncomo recompensa.
+MID_ObeliskMenu_Causation: Ayudas de salvación
+MID_ObeliskMenu_Causation_Help: Usa las esquirlas de causalidad conseguidas, por ejemplo,\nen el registro de logros para desbloquear diversas ventajas.
+MID_ObeliskMenu_CausationSkill: 
+MID_ObeliskMenu_CausationSkill_Help: 
+MID_ObeliskMenu_UnitMarge: Fusión causal
+MID_ObeliskMenu_UnitMarge_Help: Fusiona el poder de una unidad aliada tras la conclusión\nde la parte II: Guerra con el de la misma unidad\nen la parte III: Salvación.
+MID_ObeliskMenu_Depository: Arcón de la memoria
+MID_ObeliskMenu_Depository_Help: Gasta esquirlas de causalidad para generar\nobjetos y materiales.
+MID_ObeliskMenu_DownDifficulty: Cambiar la dificultad
+MID_ObeliskMenu_DownDifficulty_Help: Modifica la dificultad del juego. El cambio es irreversible.\nCambiar la dificultad no influye en la historia.
+MID_AchieveMenu_Help: Consulta tus logros y obtén recompensas.
+MID_AchieveMenu_Battle: Combate
+MID_AchieveMenu_Hub: Bases
+MID_AchieveMenu_Gmap: Mapa del mundo
+MID_AchieveMenu_Friend: Unidades aliadas
+MID_AchieveMenu_Item: Objetos
+MID_AchieveMenu_Report: Otros
+MID_AchieveMenu_State: Estado
+MID_AchieveMenu_Receive_Result: Obtienes la recompensa por este logro:\n«{Variable=0}»
+MID_AchieveMenu_ReceiveAll_Confirm: ¿Quieres aceptar todas las recompensas?
+MID_AchieveMenu_ReceiveAll_Result: Se han aceptado todas las recompensas.
+MID_CausationMenu_Help: Selecciona la ayuda que quieras desbloquear.
+MID_CausationMenu_Opened: Recibida
+MID_CausationMenu_NotCondition: No disp.
+MID_CausationMenu_Condition_Message: Desbloquéala alterando la causalidad de {Variable=0} o más personajes.
+MID_CausationMenu_Confirm: ¿Quieres recibir esto:\n«{Variable=0}»?
+MID_CausationMenu_Confirm2: ¿Quieres recibir esto:\n«{Variable=0} {Variable=1}»?
+MID_UnitMergeMenu_UnitSelect_Help: Selecciona una unidad para actualizar sus atributos.
+MID_UnitMergeMenu_RouteSelect_Help: Selecciona una senda para que la unidad herede sus atributos.
+MID_UnitMergeMenu_Confirm: ¿Quieres fusionar la causalidad?
+MID_UnitMergeMenu_Acquired: Ha aprendido {LowercaseNextLetter}{Variable=0}:
+MID_UnitMergeMenu_Acquired_Other: Y {Variable=0} más.
+MID_UnitMergeMenu_JobExpUp: Exp de clase
+MID_DepositoryMenu_Item_Help: Selecciona qué objeto quieres generar.
+MID_DepositoryMenu_Ride_Help: Selecciona qué animal quieres generar.
+MID_DepositoryMenu_Legion_Help: Selecciona qué batallón quieres generar.
+MID_DepositoryMenu_TotalNum: Total
+MID_DepositoryMenu_TotalPrice: Esquirlas necesarias
+MID_DepositoryMenu_Confirm: ¿Quieres generar esto?
+MID_DepositoryMenu_Need_KAI_Message: Para generar un animal, {Unknown080E=03}Cai debe formar parte de tu grupo\ny su causalidad debe estar ya fijada.
+MID_DepositoryMenu_Need_SEO_Message: Para generar batallones, {Unknown080E=03}Theodora debe formar parte de tu grupo\ny su causalidad debe estar ya fijada.
+MID_DepositoryMenu_Overlap_Animal_Message: No puedes recibir el animal porque ya usas uno idéntico.
+MID_DepositoryMenu_FullItem_Animal_Message: No puedes tener más animales.
+MID_DepositoryMenu_FullItem_Legion_Message: No puedes tener más batallones.
+MID_DownDifficulty_Confirm: ¿Quieres cambiar la dificultad del juego\nde {LowercaseNextLetter}{Variable=0} a {LowercaseNextLetter}{Variable=1}?
+MID_DownDifficulty_Annotation: Solo puedes disminuir el nivel de dificultad.\nPara aumentarlo, debes reiniciar el prólogo.
+MID_DownDifficulty_Result: Nivel de dificultad establecido: {Variable=0}.
+MID_DownDifficulty_Lowest_Message: No se puede elegir un nivel de dificultad inferior al {LowercaseNextLetter}{Variable=0}.
+MID_MemoryMovieMenu_Help: Elige un vídeo.
+MID_MemoryEventMenu_Help: Elige un evento.
+MID_MemoryEventMenu_Conditions: Ajustes de reproducción
+MID_MemorySoundMenu_Help: Elige una pista de música.
+MID_MemorySoundMenu_BattleOn: Versión de combate
+MID_MemorySoundMenu_BattleOff: Versión del mapa
+MID_MemorySoundMenu_Arrange: Cambiar arreglos
+MID_MemorySoundMenu_NowPlaying: ♪ Reproduciendo
+MID_MemorySoundMenu_Note: ♪
+MID_CrownJobInfo_Message: Duerme aquí: {LowercaseNextLetter}{Variable=0}...
+MID_Crown_OpenDoor_Confirm: ¿Quieres usar una {Unknown080E=03}Llave del Halo para abrir\nla {LowercaseNextLetter}{Variable=0}? (Llaves en tu posesión: {Variable=1})
+MID_Crown_NotOpenDoor_Message: Para abrir esta puerta hace falta una {Unknown080E=03}Llave del Halo. Es posible\nencontrarlas en zonas explorables de todo el continente.
+MID_Crown_NotOpenTemple_Message: Todavía no puedes entrar.
+MID_HubMenu_MainQuest: Misión principal
+MID_HubMenu_MainQuest_Help: Pon fin al tiempo libre y continúa\ncon la {LowercaseNextLetter}Misión principal.
+MID_HubMenu_SubQuest: Misión secundaria
+MID_HubMenu_SubQuest_Help: Acepta misiones secundarias\ne informa sobre ellas.
+MID_HubMenu_SideStory: Desvío
+MID_HubMenu_SideStory_Help: Inicia el {LowercaseNextLetter}Desvío.\nNo finalizará el tiempo libre.
+MID_HubMenu_Gift: Regalos
+MID_HubMenu_Gift_Help: Hazle un regalo a alguien\npara aumentar los puntos\nde apoyo con ese personaje.
+MID_HubMenu_Scout: Reclutar
+MID_HubMenu_Scout_Help: Recluta a alguien. Se unirá a ti\nsi cumples ciertas condiciones\no requisitos.
+MID_HubMenu_ScoutInfo: Información
+MID_HubMenu_ScoutInfo_Help: Consulta información sobre las\nhabilidades, preferencias y condiciones\nde reclutamiento de un personaje. 
+MID_HubMenu_SortiePlan: Acción del ejército
+MID_HubMenu_SortiePlan_Help: Elige una acción para\npotenciar tu ejército.
+MID_HubMenu_Lesson: Formación
+MID_HubMenu_Lesson_Help: Recibe la formación de un mentor\npara adquirir conocimientos, objetos y\nrecompensas útiles para el combate.
+MID_HubMenu_Procurement: Enviar suministros
+MID_HubMenu_Procurement_Help: Entrega provisiones al pueblo\nde Saramis para incrementar\ntu prestigio.
+MID_HubMenu_Divination: Puesto de adivinación
+MID_HubMenu_Aurora: Aposentos de Aurora
+MID_HubMenu_Outing: 
+MID_HubMenu_Outing_Return: 
+MID_EXMenu_EX-091: 
+MID_EXMenu_EX-088: 

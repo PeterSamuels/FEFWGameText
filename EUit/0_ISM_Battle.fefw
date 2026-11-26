@@ -1,0 +1,175 @@
+﻿MID_SC00_00_m01: <TH>
+MID_SC00_00_m01_001: Questo è uno spazio virtuale creato artificialmente.
+MID_SC00_00_m01_002: Serve a simulare le prestazioni del tuo nuovo corpo\nuna volta completato.
+MID_SC00_00_m01_003: In realtà, adesso stai dormendo. Il tuo corpo non\nè ancora terminato.
+MID_SC00_00_m01_004: Ma se ti alleniamo già da adesso, sarai pront{AvatarGender=o|a}\na combattere non appena ti sveglierai nella tua\nnuova forma.
+MID_SC00_00_m01_005: Posso avviare la sequenza quando vuoi tu.
+MID_SC00_00_m01_006: <ICA>Sono pront{AvatarGender=o|a}.
+MID_SC00_00_m01_007: <ICB>Non ho bisogno di allenarmi.
+MID_SC00_00_m01_008: <ACA>Va bene. Iniziamo.
+MID_SC00_00_m01_009: <ACB>Sei sicur{AvatarGender=o|a}? Nessuno ti obbliga, certo...
+MID_SC00_00_m01_010: <ACB>Ma il corpo di un mediator è creato su misura\ned è molto diverso da quello di un normale\nessere umano.
+MID_SC00_00_m01_011: <ACB>Penso che sarebbe opportuno dedicare almeno un po'\ndi tempo a familiarizzare con il nuovo corpo.
+MID_SC00_00_m01_012: <ICA>Hai ragione.
+MID_SC00_00_m01_013: <ICB>Non ce n'è bisogno.
+MID_SC00_00_m01_016: <ACA>Va bene. Iniziamo.
+MID_SC00_00_m01_015: <ACA>
+MID_SC00_00_m01_014: <ACB>Sai cosa è meglio per te, mettiamola così. Salteremo\nla sequenza di allenamento.
+MID_SC00_00_m03: <TH>
+MID_SC00_00_m03_001: Ciò che ti ho detto vale per ogni battaglia che dovrai\naffrontare. Ricordatelo.
+MID_SC00_00_m03_002: Passiamo ora alla prossima sequenza.
+MID_SC00_00_e01: <TH>
+MID_SC00_00_e01_001: Quest{AvatarGender=o|a} sei tu.
+MID_SC00_00_e02: <TH>
+MID_SC00_00_e02_001: E qui c'è il nemico da sconfiggere.
+MID_SC00_00_e02_002: Per prima cosa, {SetColor=Gold}spostati{SetColor=Default} vicino all'avversario.
+MID_SC00_00_e03: <TH>
+MID_SC00_00_e03_001: <DLG>Sposta il cursore su {AvatarName} e premi {ButtonA}.
+MID_SC00_00_e04: <TH>
+MID_SC00_00_e04_001: <DLG>Ora sposta il cursore sullo spazio dove vuoi andare e premi {ButtonA}.
+MID_SC00_00_e05: <TH>
+MID_SC00_00_e05_001: Ma cosa fai? {SetColor=Gold}Spostati {SetColor=Default}verso il nemico.
+MID_SC00_00_e06: <TH>
+MID_SC00_00_e06_001: Così. Ora {SetColor=Gold}spostati {SetColor=Default}ancora più vicino all'avversario\ne {SetColor=Gold}attaccalo{SetColor=Default}.
+MID_SC00_00_e07: <TH>
+MID_SC00_00_e07_001: Brav{AvatarGender=o|a}. Attenzione, però. {SetColor=Gold}L'avversario sta per\nentrare in azione{SetColor=Default}.
+MID_SC00_00_e08: <TH>
+MID_SC00_00_e08_001: Molto bene!
+MID_SC00_00_e09: <TH>
+MID_SC00_00_e09_001: <DLG>Sono apparsi dei rinforzi nemici.
+MID_SC00_00_e10: <TH>
+MID_SC00_00_e10_001: In battaglia, {SetColor=Gold}potrebbero apparire altri nemici{SetColor=Default}. Tienilo\nsempre presente quando lotti.
+MID_SC00_00_e11: <TH>
+MID_SC00_00_e11_001: Hai subìto una ferita? {SetColor=Gold}Curati{SetColor=Default} con questo.
+MID_SC00_00_e12: <TH>
+MID_SC00_00_e12_001: Per ora, non ho altro da insegnarti. Sconfiggi\nil nemico mettendo in pratica quanto appreso finora.
+MID_SC00_00_e17: <TH>
+MID_SC00_00_e17_001: Ho qualcos'altro da insegnarti.
+MID_SC00_00_e13: <TH>
+MID_SC00_00_e13_001: <DLG>Vuoi provare i comandi stile mouse sul campo\ndi battaglia? (Più avanti, potrai vedere una\nspiegazione dei comandi.)
+MID_SC00_00_e14: <TH>
+MID_SC00_00_e14_001: <DLG>Potrai rivedere i dettagli per i comandi stile mouse\nnella sezione Tutorial.
+MID_SC00_00_e15: <TH>
+MID_SC00_00_e15_001: <DLG>Sul campo di battaglia, puoi spostare il cursore\ncon il movimento del Joy-Con 2 (R).
+MID_SC00_00_e15_002: <DLG>Clic sinistro {MouseR} ({ButtonR}): Conferma\nClic destro {MouseZR} ({ButtonZR}): Annulla
+MID_SC00_00_e15_003: <DLG>Prova a spostare un'unità. Posiziona il cursore\nsu {AvatarName} e poi selezional{AvatarGender=o|a}.
+MID_SC00_00_e16: <TH>
+MID_SC00_00_e16_001: <DLG>Ora prova i movimenti. Usa i comandi stile mouse per spostare\nil cursore sullo spazio dove vuoi andare, poi selezionalo.
+MID_SC00_00_e18: <TH>
+MID_SC00_00_e18_001: Sei una vera spugna di informazioni. Molto bene, ora\nprova a sconfiggere il nemico usando questo metodo.
+MID_SC00_01_m02: <TH>
+MID_SC00_01_m02_001: In battaglia è importante essere consapevoli\ndell'ambiente circostante e dei suoi effetti.
+MID_SC00_01_m02_002: Passiamo ora alla prossima sequenza.
+MID_SC00_01_e01: <TH>
+MID_SC00_01_e01_001: Per sconfiggere i nemici con facilità, {SetColor=Gold}sfrutta\nil terreno a tuo vantaggio{SetColor=Default}.
+MID_SC00_01_e02: <TH>
+MID_SC00_01_e02_001: Se ti posizioni su uno di quegli spazi, {SetColor=Gold}sarà più\ndifficile colpirti{SetColor=Default}. Perché non provi?
+MID_SC00_01_e03: <TH>
+MID_SC00_01_e03_001: Ottima posizione. Adesso {SetColor=Gold}attacca {SetColor=Default}il nemico.
+MID_SC00_02_m02: <TH>
+MID_SC00_02_m02_001: Affina le competenze ed esplora nuove classi per\nampliare le tue scelte tattiche.
+MID_SC00_02_m02_002: Ricorda sempre che nessun metodo è infallibile\ncontro tutti gli avversari.
+MID_SC00_02_m02_003: Sarà anche uno spazio virtuale, ma sembra che tu\nriesca ad avere una percezione realistica del nuovo\ncorpo.
+MID_SC00_02_m02_004: Concludiamo con un'ultima sequenza.
+MID_SC00_02_e01: <TH>
+MID_SC00_02_e01_001: Vedi il nemico {SetColor=Gold}dietro la barriera{SetColor=Default}?
+MID_SC00_02_e02: <TH>
+MID_SC00_02_e02_001: Questa volta hai un'arma diversa, ovvero\nun {SetColor=Gold}arco{SetColor=Default}.
+MID_SC00_02_e02_002: Gli {SetColor=Gold}archi {SetColor=Default}sono utili per {SetColor=Gold}attaccare i nemici distanti{SetColor=Default}.\nProva a {SetColor=Gold}scagliare una freccia al di là della barriera{SetColor=Default}.
+MID_SC00_02_e03: <TH>
+MID_SC00_02_e03_001: Adesso {SetColor=Gold}sconfiggi il nemico {SetColor=Default}usando l'{SetColor=Gold}arco{SetColor=Default}.
+MID_SC00_02_e04: <TH>
+MID_SC00_02_e04_001: Non hai avuto problemi, a quanto vedo.
+MID_SC00_02_e05: <TH>
+MID_SC00_02_e05_001: Questo è un nemico{SetColor=Menu} {SetColor=Gold}volante{SetColor=Menu}. Le unità di questo\ntipo sono {SetColor=Gold}più vulnerabili agli archi{SetColor=Menu}.{SetColor=Default}
+MID_SC00_02_e05_002: Usa l'{SetColor=Gold}arco {SetColor=Default}per {SetColor=Gold}sconfiggere {SetColor=Default}il nemico volante.
+MID_SC00_03_m02: <TH>
+MID_SC00_03_m02_001: Per oggi ti sei allenat{AvatarGender=o|a} abbastanza.
+MID_SC00_03_m02_002: Però ci vorrà ancora del tempo prima che\nil tuo corpo sia pronto nel mondo reale.
+MID_SC00_03_m02_003: Riposati finché puoi. Una volta svegli{AvatarGender=o|a}, avrai\nmolto lavoro da fare.
+MID_SC00_03_e01: <TH>
+MID_SC00_03_e01_001: Attenzione. Questo avversario è molto più forte\ndei precedenti.
+MID_SC00_03_e01_002: Se agisci d'impulso, potresti subire un contrattacco.\nEcco perché ti conviene usare le {SetColor=Gold}mosse speciali{SetColor=Default}.
+MID_SC00_03_e02: <TH>
+MID_SC00_03_e02_001: {SetColor=Gold}Sconfiggi {SetColor=Default}il nemico con le {SetColor=Gold}mosse speciali{SetColor=Default}.
+MID_SC00_04_m01: <TH>
+MID_SC00_04_m01_001: Fiuuu... Vedo che il tuo nuovo corpo funziona bene.
+MID_SC00_04_m02_001: Sarei morta se non fossi arrivat{AvatarGender=o|a} tu. Grazie.
+MID_SC00_04_m02_002: Sei proprio {AvatarGender=il salvatore|la salvatrice} di cui avevamo bisogno.
+MID_SC00_04_m01_002: Ma ci sono ancora dei nemici da eliminare.\nAvrò bisogno del tuo aiuto.
+MID_SC00_04_m03: <TH>
+MID_SC00_04_m03_001: Bene, li abbiamo tolti di mezzo.
+MID_SC00_04_m03_002: Tuttavia... sono preoccupata per Zenon.
+MID_SC00_04_e02: <TH>
+MID_SC00_04_e02_001: Incredibile... Forse con il tuo potere potrai davvero\nsalvarci tutti.
+MID_SC00_04_e05: <TH>
+MID_SC00_04_e05_001: Mi sembra quasi di insegnare a nuotare a un pesce,\nma dato che ti sei appena risvegliat{AvatarGender=o|a}, avrai bisogno\ndi un ripasso.
+MID_SC00_04_e05_002: Io combatto usando la {SetColor=Gold}magia{SetColor=Default}. Gli attacchi magici\n{SetColor=Gold}possono colpire{SetColor=Default} anche i {SetColor=Gold}nemici lontani{SetColor=Default}.
+MID_SC00_04_e06: <TH>
+MID_SC00_04_e06_001: Una tattica particolarmente efficace consiste nel\ncombinare un {SetColor=Gold}attacco a distanza{SetColor=Default} con un {SetColor=Gold}colpo\ndi grazia ravvicinato{SetColor=Default}, se si è in due sul campo.
+MID_SC00_04_e07: <TH>
+MID_SC00_04_e07_001: Le armi come le lance sono poco efficaci contro i\n{SetColor=Gold}nemici corazzati{SetColor=Default}. È meglio lasciarli ai combattenti\nche usano gli {SetColor=Gold}attacchi magici{SetColor=Default}, come me.
+MID_SC00_04_e08: <TH>
+MID_SC00_04_e08_001: Le armi come le lance sono meno efficaci contro\ni {SetColor=Gold}nemici corazzati{SetColor=Default}. Gli {SetColor=Gold}attacchi magici{SetColor=Default} funzionano\nmeglio. A questo nemico ci penso io.
+MID_SC00_04_e09: <TH>
+MID_SC00_04_e09_001: È pericoloso gettarsi a capofitto nella mischia.\nTi consiglio di controllare {SetColor=Gold}l'area di attacco dei\nnemici più vicini{SetColor=Default}, come minimo.
+MID_SC00_04_e10: <TH>
+MID_SC00_04_e10_001: Ngh... Sono troppi.
+MID_SC00_04_e10_002: Dovrai tirare fuori tutta la tua forza, {AvatarGender=salvatore|salvatrice}.
+MID_SC00_04_e11: <TH>
+MID_SC00_04_e11_001: <DLG>Prova a usare la mossa ardente Bagliore puro di {AvatarName}{SetColor=Menu}.{SetColor=Default}
+MID_SC00_04_e12: <TH>
+MID_SC00_04_e12_001: Sapevo che con te dalla nostra parte, non avevamo\nnulla da temere. Insieme, libereremo questa terra!
+MID_SC00_05_m01: <TH>
+MID_SC00_05_m01_001: Le sentite? Sono le voci dei morti.
+MID_SC00_05_m01_002: La foresta dei cadaveri vi chiama. Desidera che vi\nuniate a lei.
+MID_SC00_05_m01_003: Avanti, mia legione di morti... Guerrieri di Balor...
+MID_SC00_05_m08: <TH>
+MID_SC00_05_m01_004: Uhhh...
+MID_SC00_05_m09: <TH>
+MID_SC00_05_m01_005: Rrrgh...
+MID_SC00_05_m10: <TH>
+MID_SC00_05_m01_006: Ohhh...
+MID_SC00_05_m11: <TH>
+MID_SC00_05_m01_007: Hrrrgh...
+MID_SC00_05_m12: <TH>
+MID_SC00_05_m01_008: È terribile... Anche loro sono sotto l'influenza\ndel nemico?
+MID_SC00_05_m01_009: Dannazione! Lind è un conto, ma non so quante\nsperanze abbiamo contro di loro.
+MID_SC00_05_m01_010: Me li ricordo dal Torneo dei gladiatori di cinque\nanni fa. Erano combattenti forti e valorosi.
+MID_SC00_05_m01_011: Facciamo attenzione! Non sono come gli altri\ncadaveri.
+MID_SC00_05_m02: <TH>
+MID_SC00_05_m02_001: Come è potuto accadere...? Io volevo solo...\nuna vita felice...
+MID_SC00_05_m03: <TH>
+MID_SC00_05_m03_001: Tu... ti abbandoni al piacere?
+MID_SC00_05_m04: <TH>
+MID_SC00_05_m04_001: Il lamento dei miei antenati... Il dolore di Yu Phas...\nPer loro... distruggerò tutto!
+MID_SC00_05_m05: <TH>
+MID_SC00_05_m05_001: Non potrò riposare... finché non avrò aperto il torace\ndi quell'uomo... e non gli avrò strappato il cuore...
+MID_SC00_05_m06: <TH>
+MID_SC00_05_m06_001: Quindi... non me lo sono immaginato. Ho percepito\nqualcosa di strano in te...
+MID_SC00_05_m06_002: Qualcosa di familiare che non riesco a definire...\nMa va bene così. Non avrà più importanza quando\nsarai mort{AvatarGender=o|a}.
+MID_SC00_05_m07: <TH>
+MID_SC00_05_m07_001: I vivi sono una massa di miserabili. Lascia che ti\nliberi dalle tue sofferenze...
+MID_SC00_05_e01: <TH>
+MID_SC00_05_e01_001: Argh... Fa sul serio.
+MID_SC00_05_e01_002: Hai un unguento? In caso contrario, so usare\nla {SetColor=Gold}guarigione magica{SetColor=Default}.
+MID_SC00_05_e02: <TH>
+MID_SC00_05_e02_001: Quel ragazzo è Cai Occhio infernale. In battaglia\nsfrutta la sua {SetColor=Gold}grande mobilità{SetColor=Default} a cavallo.
+MID_SC00_05_e02_002: E, come se non bastasse, è molto potente, come\nhai appena visto. Non sottovalutarlo.
+MID_SC00_05_e03: <TH>
+MID_SC00_05_e03_001: Se crede di poterci cogliere alla sprovvista\na cavallo, si sbaglia di grosso. Concentriamo\ngli attacchi su di lui!
+MID_SC00_05_e04: <TH>
+MID_SC00_05_e04_001: Ugh... Lind non si lascia raggiungere tanto\nfacilmente.
+MID_SC00_05_e05: <TH>
+MID_SC00_05_e05_001: Queste {SetColor=Gold}caselle {SetColor=Default}sono {SetColor=Gold}magiche{SetColor=Default}. Suggerisco di usarle\nper {SetColor=Gold}recuperare energia{SetColor=Default} prima di avanzare.
+MID_SC00_05_e06: <TH>
+MID_SC00_05_e06_001: Ha accorciato ancora di più le distanze\ndopo essersi mosso?!
+MID_SC00_05_e06_002: Quello è Dietrich, l'Ombra affascinante. Il suo\nmantello gli permette di {SetColor=Gold}teletrasportarsi{SetColor=Default}.
+MID_SC00_05_e06_003: Questo potere lo rende particolarmente pericoloso.\nMantieni le distanze e colpiscilo dopo che ha fatto\nla sua mossa.
+MID_SC00_05_e07: <TH>
+MID_SC00_05_e07_001: Ecco Leda, detta la Sirena delle sei corde... Le sue\nmelodie {SetColor=Gold}ipnotizzano chi le ascolta{SetColor=Default}.
+MID_SC00_05_e08: <TH>
+MID_SC00_05_e08_001: Attenzione! Quella è Theodora, la Distruttrice\ndi eserciti. I suoi {SetColor=Gold}attacchi {SetColor=Default}sono {SetColor=Gold}potentissimi{SetColor=Default}!
+MID_SC00_05_e08_002: Ed è anche molto dotata in difesa. Conviene\nrispondere con degli attacchi magici.
+MID_SC00_05_e09: <TH>
+MID_SC00_05_e09_001: Ci troviamo ad affrontare dei nemici potentissimi.\nÈ fondamentale fornirci {SetColor=Gold}sostegno a vicenda{SetColor=Default} in questa\nlotta.

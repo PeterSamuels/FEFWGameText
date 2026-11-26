@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: 승리 조건
+MID_Rule_Title_Lose: 패배 조건
+MID_WINRULE_Annihilate: 모든 적 격파
+MID_WINRULE_Destroy: {Variable=0} 격파
+MID_WINRULE_Destroy2: {Variable=0} 및 {Variable=1} 격파
+MID_LOSERULE_Annihilate: 모든 아군 패배
+MID_LOSERULE_Destroy: {Variable=0} 패배
+MID_LOSERULE_Destroy2: {Variable=0} 또는 {Variable=1} 패배
+MID_LOSERULE_Destroy3: {Variable=0}, {Variable=1},\n{Variable=2} 중 한 명이라도 패배
+MID_WINRULE_SC11_01_1: 붉은 보석 탈취
+MID_WINRULE_SC12_08_1: 모든 제어 장치 조작
+MID_WINRULE_SC13_00_1: 세오도라가 목표 지점에 도달
+MID_WINRULE_SC13_10: 에피메니움 탈취
+MID_WINRULE_SC13_11_1: {Variable=0}턴 종료 시점에\n아군이 소지한 보주가 적보다 많을 경우
+MID_WINRULE_SC13_11_2: 아군이 보주를 획득, 또는 적이 보주를 유실
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: {Variable=0}턴 종료 시점에\n푸른 등불이 붉은 등불보다 많을 경우
+MID_WINRULE_SC14_05_2: 레다가 목표 지점에 도달
+MID_WINRULE_SC30_08: {LordName}{ConsonantVowel=이|가} 목표 지점에 도달
+MID_WINRULE_SC00_16: 명계의 기둥 파괴
+MID_WINRULE_SCXX_01: {Variable=0}턴 경과
+MID_WINRULE_SCXX_02: 제단의 장치를 모두 작동
+MID_WINRULE_SCXX_04: 아군이 과반수의 거인을 격파
+MID_WINRULE_SCXX_05: 상회의 짐을 모두 회수, 또는 모든 적 격파
+MID_WINRULE_SCXX_07_1: 행동이 가능한 곤륜 부족이 모두 목표 지점에 도달\n또는 퀸 히드라 격파
+MID_WINRULE_SCXX_07_2: 아나톨리아가 목표 지점에 도달\n또는 퀸 히드라 격파
+MID_WINRULE_KL_02_1: 적의 배리어를 브레이크(1칸 파괴)하고 격파
+MID_WINRULE_KL_02_2: 적의 배리어를 올 브레이크(모두 파괴)하고 격파
+MID_LOSERULE_SC11_03: 승합 마차 파괴, 또는 카이 패배
+MID_LOSERULE_SC12_08_1: {Variable=0}턴 경과, 또는 디트리히 패배
+MID_LOSERULE_SC13_09: {Variable=0}턴 경과, 또는 세오도라 패배
+MID_LOSERULE_SC13_11_1: {Variable=0}턴 종료 시점에\n아군이 소지한 보주가 적보다 적을 경우
+MID_LOSERULE_SC13_11_2: 적이 보주를 획득, 또는 아군이 보주를 유실
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: {Variable=0}턴 종료 시점에\n붉은 등불이 푸른 등불보다 많을 경우
+MID_LOSERULE_SCXX_00: 적이 목표 지점에 도달\n또는 {LordName}{ConsonantVowel=이나|나} 카이 패배
+MID_LOSERULE_SCXX_01: 적이 목표 지점에 도달\n또는 {LordName}{ConsonantVowel=이나|나} 디트리히 패배
+MID_LOSERULE_SCXX_04: 적이 과반수의 거인을 격파
+MID_LOSERULE_SCXX_05_2: 상회의 짐을 소지한 도적이 목표 지점에 도달\n또는 {LordName}{ConsonantVowel=이나|나} 타리문 패배
+MID_LOSERULE_SCXX_07: 3명의 곤륜 부족 격파\n또는 {LordName}{ConsonantVowel=이나|나} 아나톨리아 패배
+MID_LOSERULE_DefenseBattle: 모든 시민 격파\n또는 {LordName} 패배

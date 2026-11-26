@@ -1,0 +1,200 @@
+﻿MLID_DagdaWarriors: Trap Springers
+MLID_H_DagdaWarriors: A rowdy band of gladiators.
+MLID_DagdaSpearCorps: Advance Corps
+MLID_H_DagdaSpearCorps: Sword specialists.
+MLID_DagdaArchers: Quelling Archers
+MLID_H_DagdaArchers: Talented bow users.
+MLID_DagdaMonkArmy: White-Magic Mages
+MLID_H_DagdaMonkArmy: Mages proficient with white magic.
+MLID_FlameMagicCorps: Pyro Mages
+MLID_H_FlameMagicCorps: Mages gifted in black magic.
+MLID_DagdaGuardians: Flank Guards
+MLID_H_DagdaGuardians: Knights donning heavy armor.
+MLID_DagdaGuards: Rampart Regiment
+MLID_H_DagdaGuards: Knights donning heavy armor.
+MLID_DagdaSnakeArmy: Serpent Warriors
+MLID_H_DagdaSnakeArmy: Knights donning heavy armor.
+MLID_DagdaAssaultCorps: Torrent Troop
+MLID_H_DagdaAssaultCorps: Soldiers.
+MLID_DagdaDeathGuards: Quad Defenders
+MLID_H_DagdaDeathGuards: Heavily armored soldiers.
+MLID_DagdaScatter: Scatter Defenders
+MLID_H_DagdaScatter: Heavily armored soldiers.
+MLID_DagdaHeavyTroops: Iron Bulwarks
+MLID_H_DagdaHeavyTroops: Heavily armored soldiers.
+MLID_DagdaSaintCorps: Healer Collective
+MLID_H_DagdaSaintCorps: Priests who can heal their allies.
+MLID_AntiStrategyCorps: Warden Troop
+MLID_H_AntiStrategyCorps: Swordfighters.
+MLID_AssaultDisorders: Barrage Soldiers
+MLID_H_AssaultDisorders: Skilled swordfighters.
+MLID_FireSquad: Flame Strategists
+MLID_H_FireSquad: Swordfighters with a keen eye for\ntheir foes' weak points.
+MLID_PoisonSquad: Poison Tacticians
+MLID_H_PoisonSquad: Rogues with a talent for\nassassination.
+MLID_LargeWings: Pavise Flankers
+MLID_H_LargeWings: Heavily armored soldiers with\nsturdy equipment.
+MLID_CraneWings: V-Form Defenders
+MLID_H_CraneWings: Heavily armored soldiers with\nsturdy equipment.
+MLID_BigSnakes: Python Warriors
+MLID_H_BigSnakes: Heavily armored soldiers with\nsturdy equipment.
+MLID_IceMagicCorps: Ice Mages
+MLID_H_IceMagicCorps: Mages who specialize in black\nmagic.
+MLID_SympatheticCorps: Resonance Healers
+MLID_H_SympatheticCorps: Mages who specialize in white\nmagic.
+MLID_AntiAircraftSquad: Fliers' Affliction
+MLID_H_AntiAircraftSquad: Exceptionally skilled archers.
+MLID_AntiCavalrySquad: Cavalry Crushers
+MLID_H_AntiCavalrySquad: Dismounted cavalry.
+MLID_GreatFireSquad: Hellfire Chargers
+MLID_H_GreatFireSquad: Elite swordfighters.
+MLID_GreatPoisonSquad: Poison Storm Co.
+MLID_H_GreatPoisonSquad: Supreme archers.
+MLID_SquareCorps: Enclosing Shielders
+MLID_H_SquareCorps: Heavily armored defenders of\ntheir allies.
+MLID_ThunderMagicCorps: Lightning Callers
+MLID_H_ThunderMagicCorps: Extremely knowledgeable mages.
+MLID_AntiMagicSquad: Holy-Magic Wardens
+MLID_H_AntiMagicSquad: Priests fluent in the deepest secrets\nof white magic.
+MLID_BrawlerCorps: Battering Fists
+MLID_H_BrawlerCorps: Brawlers who can knock out foes\nwith a flurry of blows.
+MLID_CommonE01: Novice Hunters
+MLID_H_CommonE01: Inexperienced hunters.
+MLID_CommonE02: Rookie Soldiers
+MLID_H_CommonE02: Fighters with little experience.
+MLID_CommonE03: Priest Trainees
+MLID_H_CommonE03: Priests in training.
+MLID_CommonE04: Holy Apprentices
+MLID_H_CommonE04: Clergy still devoted to training.
+MLID_CommonE05: Mage Pupils
+MLID_H_CommonE05: Aspiring mages.
+MLID_CommonE06: Lesser Mages
+MLID_H_CommonE06: Hapless spellcasters.
+MLID_CommonE07: Rookie Vanguard
+MLID_H_CommonE07: Inexperienced guards.
+MLID_CommonE08: Bronze-Shield Guard
+MLID_H_CommonE08: Heavily armored soldiers who\nhave scarcely seen battle.
+MLID_CommonD01: Hunter-Drifters
+MLID_H_CommonD01: Wandering archers.
+MLID_CommonD02: Model Soldiers
+MLID_H_CommonD02: Soldiers who have been trained\nand vetted.
+MLID_CommonD03: Pure Priests
+MLID_H_CommonD03: Temple priests.
+MLID_CommonD04: Fighting Clergy
+MLID_H_CommonD04: Clergy who have completed\ntheir training.
+MLID_CommonD05: Blackfire Mages
+MLID_H_CommonD05: Mages who have mastered\nblack magic.
+MLID_CommonD06: Mage Cantors
+MLID_H_CommonD06: Casters who excel at magic.
+MLID_CommonD07: Armored Sentinels
+MLID_H_CommonD07: Dependable guards.
+MLID_CommonD08: Iron-Shield Fighters
+MLID_H_CommonD08: Experienced soldiers wearing\nheavy armor.
+MLID_CommonC01: Adept Archers
+MLID_H_CommonC01: Highly adept archers.
+MLID_CommonC02: Advanced Warriors
+MLID_H_CommonC02: Well-trained soldiers.
+MLID_CommonC03: Elevated Priests
+MLID_H_CommonC03: Amply experienced priests.
+MLID_CommonC04: Holy Disciples
+MLID_H_CommonC04: Clergy approved by the temples.
+MLID_CommonC05: Mage Instructors
+MLID_H_CommonC05: Mages qualified to instruct others.
+MLID_CommonC06: Elevated Mages
+MLID_H_CommonC06: Spellcasters with abilities that\nmake foes' blood run cold.
+MLID_CommonC07: Veteran Sentinels
+MLID_H_CommonC07: Guards walking the fine line\nbetween life and death.
+MLID_CommonC08: Steel-Shield Guard
+MLID_H_CommonC08: Heavily armored soldiers who\ncombine to form an iron wall.
+MLID_CommonB01: Elite Hunters
+MLID_H_CommonB01: Elite archers, all of them rangers.
+MLID_CommonB02: Special Cavalry
+MLID_H_CommonB02: Experienced spear-using knights.
+MLID_CommonB03: Radiant Messengers
+MLID_H_CommonB03: Renowned clergy.
+MLID_CommonB04: Holy Clerics
+MLID_H_CommonB04: Priests who have all achieved the\nrank of lead priest.
+MLID_CommonB05: Shadow Mages
+MLID_H_CommonB05: Students of black magic who know\nthe subject's darkest depths.
+MLID_CommonB06: Uplifted Hexers
+MLID_H_CommonB06: Mages of profound ability.
+MLID_CommonB07: Noble Bodyguards
+MLID_H_CommonB07: Heavily armored soldiers, eager to\nprotect their allies.
+MLID_CommonB08: Silver-Shield Guard
+MLID_H_CommonB08: Heavily armored soldiers who\ncombine to form an iron wall.
+MLID_CommonA01: Qilin Squad
+MLID_H_CommonA01: Mercenary archers so elite \nthat they are allowed to raise \nDagda's banner.
+MLID_CommonA02: Fenghuang Squad
+MLID_H_CommonA02: Spear wielders so unparalleled \nthat they are allowed to raise \nDagda's banner.
+MLID_CommonA03: Shen Yang Squad
+MLID_H_CommonA03: Priests so attuned that they are\nallowed to raise Dagda's banner.
+MLID_CommonA04: Bai Ze Squad
+MLID_H_CommonA04: Clergy so elevated that they are\nallowed to raise Dagda's banner.
+MLID_CommonA05: Yin Squad
+MLID_H_CommonA05: Black-magic users so skilled\nthat they are allowed to raise\nDagda's banner.
+MLID_CommonA06: Hundun Squad
+MLID_H_CommonA06: Spellcasters so advanced that they\nare allowed to raise Dagda's banner.
+MLID_CommonA07: Linggui Squad
+MLID_H_CommonA07: Specially chosen, heavily armored\nsoldiers allowed to raise \nDagda's banner.
+MLID_CommonA08: Divine-Shield Guard
+MLID_H_CommonA08: Heavily armored soldiers boasting\nsupreme defense.
+MLID_RareE01: Salt Lake Protectors
+MLID_H_RareE01: Heavily armored soldiers garrisoned\nat Garamantes Lake.
+MLID_RareE02: Regia Breeze Co.
+MLID_H_RareE02: Young hunters from a village\ncalled Regia.
+MLID_RareD01: Lyoshan Bandits
+MLID_H_RareD01: Bandits based in Lyoshan Fort,\nall of them gladiators.
+MLID_RareD02: Vandahl Security
+MLID_H_RareD02: Heavily armored defenders of the\nVandahl Trading Company's caravans.
+MLID_RareD03: Jurah's Librarians
+MLID_H_RareD03: Librarians in Jurah's temple—\nmages, all of them.
+MLID_RareD04: Twalinn Sun Squad
+MLID_H_RareD04: Young mercenaries from a village\ncalled Twalinn, all diviners.
+MLID_RareD05: Aurora's Stargazers
+MLID_H_RareD05: Star watchers serving Aurora's\ntemple, all diviners.
+MLID_RareC01: Aragonian Mages
+MLID_H_RareC01: Black-magic users researching\nspells in service of Arago.
+MLID_RareC02: Fina Fishing Guild
+MLID_H_RareC02: Priests who rescue potential\nvictims from the sea beasts.
+MLID_RareC03: Twin Jewel Fans
+MLID_H_RareC03: Priests serving Arago and, in\nparticular, the Twin Jewels.
+MLID_RareC04: Pandora Port Guard
+MLID_H_RareC04: Heavily armored soldiers usually\ngarrisoned at the Port of Pandora.
+MLID_RareC05: Yaaman Alliance
+MLID_H_RareC05: Youths from Yaaman village—\nrogues to the last.
+MLID_RareC06: Alecto Morningstars
+MLID_H_RareC06: Brawlers from Alecto, the \nocean metropolis.
+MLID_RareC07: Mons Iron Squad
+MLID_H_RareC07: Heavily armored soldiers—the\npride of Mons, the fortress city.
+MLID_RareB01: Troupe of Aesobos
+MLID_H_RareB01: Circus performers—priests—who\ngive audiences laughter and solace.
+MLID_RareB02: Lions of Megaira
+MLID_H_RareB02: Heavily armored soldiers who share\nan admiration for Queen Theodora.
+MLID_RareB03: Orchard Guards
+MLID_H_RareB03: Guards of the Messalina Orchards,\ngarbed in heavy armor.
+MLID_RareB04: Kalla's Divas
+MLID_H_RareB04: An opera company composed of\nmages who sing and dance for Kalla.
+MLID_RareB05: Aegina Monks
+MLID_H_RareB05: Warrior monks and priests who\nwere trained at Mount Aegina.
+MLID_RareB06: Secret-Art Wielders
+MLID_H_RareB06: Inheritors of secret arts in the\nhidden village who use white magic.
+MLID_RareB07: Breza's Bau Squad
+MLID_H_RareB07: Mercenary rangers who revere the\nhero Breza.
+MLID_RareB08: Mahón Twilighters
+MLID_H_RareB08: Virtuous thieves based around\nMahón Castle.
+MLID_RareA01: Black-Swan Bolts
+MLID_H_RareA01: Pirates turned mercenaries, all of\nthem mages.
+MLID_RareA02: Smyrnos's Mages
+MLID_H_RareA02: Priests who are able to wield\nexperimental magic.
+MLID_RareA03: Children of Tristan
+MLID_H_RareA03: Priests who are also self-proclaimed\ndescendants of the Tristan royals.
+MLID_RareA04: Antiquity Seekers
+MLID_H_RareA04: Clergy searching for the legendary\nancient kingdom of Solomon.
+MLID_RareA05: Asherah Warriors
+MLID_H_RareA05: Heavily armored warriors of a clan\nthat lives on Mount Orgus.
+MLID_RareA06: Headsmen
+MLID_H_RareA06: Heavily armored soldiers who perform\nrites at an ancient execution site.
+MLID_RareA07: Brigid Spirit Squad
+MLID_H_RareA07: Mages from the Brigid archipelago.
+MLID_RareA08: Fists of Black Smoke
+MLID_H_RareA08: Former blacksmiths, now warriors.

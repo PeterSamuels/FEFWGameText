@@ -1,0 +1,203 @@
+﻿MJID_Commoner: 평민
+MJID_H_Commoner: 다그다에 사는 민간인.\n다양한 출신과 지위를 갖고 있다
+MJID_Aristocrat: 귀족
+MJID_H_Aristocrat: 왕이나 영주 등, 명문가의 혈통을\n이어받아 민중을 이끄는 자들
+MJID_God: 신
+MJID_H_God: 다그다를 다스리는 신들 중 하나.\n상식을 초월한 힘을 갖고 있다
+MJID_Warrior: 투사
+MJID_H_Warrior: 검, 도끼, 건틀릿 등의 무기를\n능숙하게 사용하는 자.\n공격력이 뛰어나다
+MJID_Soldier: 병사
+MJID_H_Soldier: 창을 잘 다루는 자.\n방패와 갑옷으로 무장하여\n수비력이 뛰어나다
+MJID_Hunter: 사냥병
+MJID_H_Hunter: 검과 활을 사용하여 전장에서\n사냥감을 노리는 경갑 전사.\n기술과 속도가 뛰어나다
+MJID_CurseMage: 주술사
+MJID_H_CurseMage: 마도를 사용해서 아군을 치료하거나\n적과 싸우는 자. 마력이 뛰어나다
+MJID_Flyingostrichsoldier: 비약 타조병
+MJID_H_Flyingostrichsoldier: 비약 타조를 탄 기병.\n장애물을 뛰어넘을 수 있다
+MJID_SwordFighter: 검사
+MJID_H_SwordFighter: 검을 다루는 데 특화되어 있는 전사.\n날렵한 검술로 적을 공격한다
+MJID_Rogue: 로그
+MJID_H_Rogue: 자물쇠 열기가 가능한 도적.\n숲속에서 빠르게 움직일 수 있으며\n탐색에도 능하다
+MJID_ArmorKnight: 중갑 보병
+MJID_H_ArmorKnight: 전신에 갑옷을 두른 보병.\n두꺼운 갑옷으로 아군을 보호한다
+MJID_Brigand: 브리건드
+MJID_H_Brigand: 도끼를 능숙하게 다루는 난폭자.\n강력한 일격으로 적을 쓰러뜨린다
+MJID_Archer: 아처
+MJID_H_Archer: 활을 잘 다루는 병사.\n원거리 공격에 능하며\n날아다니는 적에게 강하다
+MJID_Cestus: 세스타스
+MJID_H_Cestus: 건틀릿을 다루는 데 뛰어난 권투사.\n재빠른 공격으로 적을 농락한다
+MJID_Shaman: 샤먼
+MJID_H_Shaman: 흑마법을 전문으로 하는 주술사.\n다양한 공격 마법을 다룰 수 있으며\n중갑을 두른 적에게 강하다
+MJID_Healer: 프리스트
+MJID_H_Healer: 백마법을 전문으로 하는 기도사.\n마법으로 아군을 치료하거나\n적을 공격할 수 있다
+MJID_Flyingostrichknight: 기갑 타조병
+MJID_H_Flyingostrichknight: 비약 타조를 능숙하게 다루는 기병.\n장애물을 뛰어넘을 수 있다
+MJID_LightKnight: 경기병
+MJID_H_LightKnight: 말을 타고 싸우는 기병.\n높은 기동력으로 전장을 누빈다
+MJID_PegasusKnight: 천익병
+MJID_H_PegasusKnight: 날개 달린 말을 타고 싸우는 기병.\n기동력이 뛰어나고 마법에 강하다
+MJID_Tank: 전차병
+MJID_H_Tank: 전투 마차를 타고 싸우는 특수 기병.\n전차 돌격과 활쏘기가 가능하다.\n적의 공격을 피하지 못한다
+MJID_Sydow: 사도
+MJID_H_Sydow: 검의 정신을 중시하는 단련된 검호.\n날렵한 검술로 적을 공격하며\n때때로 필살의 일격을 가한다
+MJID_Ranger: 레인저
+MJID_H_Ranger: 자물쇠 열기가 특기인 자.\n숲속에서 빠르게 움직일 수 있으며\n탐색에도 능하다
+MJID_Guardian: 가디언
+MJID_H_Guardian: 창을 다루는 데 능숙하고\n백마법도 사용할 수 있는 병사.\n공수의 균형이 잘 잡혀 있다
+MJID_HeavyArmor: 헤비 아머
+MJID_H_HeavyArmor: 견고한 갑옷으로 무장한 중갑 보병.\n두꺼운 갑옷으로 적의 공격을 막아\n아군을 보호한다
+MJID_BattleWarrior: 워리어
+MJID_H_BattleWarrior: 도끼 기술을 갈고닦은 도끼 투사.\n단련된 완력을 이용해 가하는\n강력한 일격으로 적을 쓰러뜨린다
+MJID_Blacksmith: 대장장이
+MJID_H_Blacksmith: 도끼를 잘 다루고 흑마법도\n사용할 수 있는 특수 도끼 전사.\n전투 중 임기응변이 뛰어나다
+MJID_Sniper: 스나이퍼
+MJID_H_Sniper: 활을 다루는 데 뛰어난 저격수.\n원거리 공격에 능하며\n날아다니는 적에게 강하다
+MJID_Vates: 바테스
+MJID_H_Vates: 고도의 흑마법을 다루는 마도사.\n공격 마법을 능숙하게 구사하며\n중갑을 두른 적에게 강하다
+MJID_Bishop: 비숍
+MJID_H_Bishop: 고위 백마법을 다루는 성직자.\n마법으로 치료나 보조를 한다
+MJID_Bardinger: 바딩거
+MJID_H_Bardinger: 말을 능숙하게 타는 정예 기사.\n높은 기동력으로 전장을 누빈다
+MJID_Cataphract: 카타프락토스
+MJID_H_Cataphract: 갑옷으로 무장한 중갑 기사.\n중갑과 기병의 특징을 겸비했다
+MJID_ForestKnight: 포레스트 나이트
+MJID_H_ForestKnight: 말 위에서 활을 쏘는 숲의 기사.\n기동력이 높고 숲속 전투에 능하다
+MJID_Torpador: 트루바두르
+MJID_H_Torpador: 백마법과 흑마법을 쓰는 마법 기병.\n무기 대신 주술의 노래를 익힌다
+MJID_Charadrios: 칼라드리우스
+MJID_H_Charadrios: 흑마법을 다루는 마법 비약 타조병.\n장애물을 뛰어넘을 수 있다
+MJID_Dragoon: 드래군
+MJID_H_Dragoon: 비룡을 타고 하늘을 누비는 용기병.\n기동력과 전투력이 높다
+MJID_ElephantKnight: 코끼리병
+MJID_H_ElephantKnight: 코끼리를 타고 싸우는 특수 기병.\n돌격과 코끼리 코 공격이 가능하다.\n적의 공격을 피하지 못한다
+MJID_SwordMaster: 소드 마스터
+MJID_H_SwordMaster: 검술의 정점에 다다른 검성.\n보이지 않을 정도로 빠르고 예리한\n검술로 필살의 일격을 가한다
+MJID_ShadowSeeker: 섀도 시커
+MJID_H_ShadowSeeker: 그림자의 세계에서 살아가는 암살자.\n자물쇠 열기와 탐색이 특기이며\n숲속에서 빠르게 움직일 수 있다
+MJID_Trickster: 트릭스터
+MJID_H_Trickster: 검과 흑마법으로 싸우는 마검사.\n자물쇠 열기와 탐색이 특기이며\n숲속에서 빠르게 움직일 수 있다
+MJID_HolyLancer: 홀리 랜서
+MJID_H_HolyLancer: 창술의 정점에 다다른 성창병.\n백마법도 다뤄서 전투는 물론 아군\n지원 등 다양한 상황에서 활약한다
+MJID_BattleMaster: 배틀 마스터
+MJID_H_BattleMaster: 도끼술의 정점에 다다른 투장.\n뛰어난 체력과 완력을 바탕으로\n최전선에서 활약한다
+MJID_Fortress: 포트리스
+MJID_H_Fortress: 압도적인 방어력을 자랑하는 수호병.\n기동성과 민첩성을 포기한 대신\n견고한 수비로 적의 공격을 막는다
+MJID_MasterArch: 마스터 아처
+MJID_H_MasterArch: 궁술의 정점에 다다른 달인.\n멀리 있는 적을 정확히 꿰뚫는다.\n날아다니는 적에게 강하다
+MJID_BattleMonk: 배틀 몽크
+MJID_H_BattleMonk: 두터운 신앙심을 가슴에 품고\n강력한 주먹을 휘두르는 승병.\n백마법도 다룰 수 있다
+MJID_Druid: 드루이드
+MJID_H_Druid: 흑마법의 정점에 다다른 마술사.\n강력한 공격 마법을 다양하게 써서\n적에게 막대한 피해를 입힌다
+MJID_Wiseman: 와이즈맨
+MJID_H_Wiseman: 백마법의 정점에 다다른 현자.\n마법으로 아군을 치료하거나\n후방에서 전투를 보조한다
+MJID_Enlightened: 깨달은이
+MJID_H_Enlightened: 백마법과 흑마법을 모두 익힌 술사.\n더 멀리서 적을 공격할 수 있으며\n더 많은 아군을 구할 수 있다
+MJID_Orihaldia: 오리할디어
+MJID_H_Orihaldia: 기마전의 정점에 다다른 신금 기사.\n말과 하나가 되어\n전장을 종횡무진 누빈다
+MJID_HighEpitaph: 하이 에피타프
+MJID_H_HighEpitaph: 검과 흑마법을 다루는 마검 기사.\n말을 몰며 적을 한칼에 쓰러뜨린다
+MJID_GreatKnight: 그레이트 나이트
+MJID_H_GreatKnight: 전신에 갑옷을 두른 중갑 기사.\n중갑과 기병의 특징을 겸비했다
+MJID_BowKnight: 보우 나이트
+MJID_H_BowKnight: 활을 다루는 데 뛰어난 궁기사.\n기동력이 높고 숲속 전투에 능하다
+MJID_Sale: 세에레
+MJID_H_Sale: 백마법을 다룰 수 있는 마법 기사.\n높은 기동력으로 동료를 지원한다
+MJID_Valkyrie: 발큐리움
+MJID_H_Valkyrie: 백마법과 흑마법에 능한 마법 기사.\n무기 대신 주술의 노래를 익힌다
+MJID_FalconKnight: 성천익병
+MJID_H_FalconKnight: 날개 달린 말을 타는 정예 비행 기사.\n기동력이 높고 마법에 강하다
+MJID_DarkPegasus: 바이브 카하
+MJID_H_DarkPegasus: 흑마법을 다루는 비행 마법 기사.\n기동력이 높고 마법에 강하다
+MJID_DragonMaster: 드래곤 마스터
+MJID_H_DragonMaster: 비룡을 타고 싸우는 숙련된 용기사.\n기동력과 전투력이 높다
+MJID_Dancer: 무용수
+MJID_H_Dancer: 전장에서 화려하게 춤추는 무용가.\n아름다운 춤으로 동료를 응원해\n다시 행동하게 만들 수 있다
+MJID_Braid: 더 블레이드
+MJID_H_Braid: 검에 살고 검에 죽는 신위 검사.\n그가 베지 못하는 것은 없다
+MJID_Calamity: 더 캘러미티
+MJID_H_Calamity: 신의 뜻에 따라 재앙을 내리는 자.\n어둠을 쫓고 세상에 복음을 전한다
+MJID_Trident: 더 트라이던트
+MJID_H_Trident: 신의 부정한 적들을 꿰뚫는 창술가.\n신성한 마법으로 사람들을 보호한다
+MJID_Eternal: 디 이터널
+MJID_H_Eternal: 무한한 힘을 가진 전투의 대가.\n도끼로 신이 나아갈 길을 개척한다
+MJID_Godhand: 더 갓 핸드
+MJID_H_Godhand: 모든 것을 부수는 신권의 소유자.\n그 주먹은 때때로 약자를 구하는\n치유의 손길이 되기도 한다
+MJID_Messiah: 디 아바타르
+MJID_H_Messiah: 신을 모방하여 마법을 다스리는 자.\n흑백의 이치를 깨친 지고의 마도사
+MJID_Apsaras: 디 압사라
+MJID_H_Apsaras: 신성한 춤을 신에게 바치는 무용가.\n그 아름다움은 신의 마음도 달랜다
+MJID_Cavalier: 더 캐벌리어
+MJID_H_Cavalier: 신의 속도로 전장을 누비는 기사.\n그 모습은 마치 달리는 번개와 같다
+MJID_woodlouse: 쥐며느리
+MJID_H_woodlouse: 마디가 많은 외피를 가진 대형 벌레.\n동굴과 같은 습한 곳을 선호한다.\n가끔 「벌레 진주」를 떨어뜨린다
+MJID_sandbael: 샌드 바알
+MJID_H_sandbael: 갑옷 같은 껍질을 가진 대형 벌레.\n꼬리에는 날카로운 독침이 있다.\n고기는 새우 맛과 비슷해서 맛있다
+MJID_stripewolf: 줄무늬 늑대
+MJID_H_stripewolf: 다그다 전역에 서식하는 늑대.\n등에 줄무늬가 있다.\n빠른 움직임으로 사냥감을 덮친다
+MJID_sandvegle: 플라이 뷔브르
+MJID_H_sandvegle: 여러 세대를 거쳐 비행 능력을 얻은\n도마뱀. 바우와 종은 다르나 생긴 게\n비슷해서 「가짜 바우」라고도 불린다
+MJID_seamonster: 해수
+MJID_H_seamonster: 바다에 사는 기괴한 모습의 짐승.\n육식성으로, 인간을 노리고\n배를 공격하기도 한다
+MJID_atlasbear: 아틀라스 베어
+MJID_H_atlasbear: 강하고 흉포한 곰.\n아트라 산 부근에 많이 서식한다.\n고대 전설의 거인에 자주 비유된다
+MJID_atlasbearS: 아틀라스 베어 아종
+MJID_H_atlasbearS: 민첩하고 흉포한 곰.\n몸집은 작지만 발톱과 송곳니에\n독이 있으며, 동굴에 주로 서식한다
+MJID_sandworm: 모래 벌레
+MJID_H_sandworm: 사막에 서식하는 거대한 벌레.\n긴 몸을 모래 속에 숨기고\n다가온 사냥감을 덮친다
+MJID_colossus: 거인
+MJID_H_colossus: 올려봐야 할 만큼 큰 인간형 몬스터.\n지능은 낮지만 도구를 쓸 수 있다
+MJID_titanusS: 소형 타이타니스
+MJID_H_titanusS: 고대 기술로 만들어진 인간형 병기.\n정찰, 호위, 전투에 사용된다
+MJID_titanusB: 대형 타이타니스
+MJID_H_titanusB: 고대 기술로 만들어진 인간형 병기.\n엄청난 중장갑과 고출력을 자랑한다
+MJID_golem: 골렘
+MJID_H_golem: 신의 힘으로 만들어진 신전 수호자.\n내부에는 결계를 전개해서 아군의\n방어력을 높일 수 있는 장치가 있다
+MJID_Ketos: 케투스
+MJID_H_Ketos: 「해왕」으로도 불리는 바다의 지배자.\n무서운 속도로 물속을 헤엄치며\n공중으로 뛰어올라 적을 깔아뭉갠다
+MJID_digamma: 디감마
+MJID_H_digamma: 거대한 뱀 같은 모습의 마수.\n땅속에서 머리만 내밀고\n무리를 지어 사냥감을 덮친다
+MJID_queenhydra: 퀸 히드라
+MJID_H_queenhydra: 여러 개의 머리를 가진 대형 마수.\n마수 디감마의 본체에 해당한다
+MJID_giantrukh: 루프
+MJID_H_giantrukh: 거대하게 자라는 들새.\n하늘을 날며, 땅을 기어다니는 짐승,\n벌레, 그리고 인간을 포식한다
+MJID_magicharpia: 마조 하르피아
+MJID_H_magicharpia: 하늘을 뒤덮는 큰 날개를 가진 새.\n기분 나쁜 모습과 울음소리 때문에\n명부의 신의 사자라는 소문도 있다
+MJID_shadowofbalor: 그림자
+MJID_H_shadowofbalor: 정체불명의 기이한 그림자.\n꺼림칙한 마의 파동을 발산한다
+MJID_pillar: 명계의 기둥
+MJID_H_pillar: 마신 발로르가 자신의 육체로\n재창조한 명계의 핵
+MJID_armoredsoldier: 장갑병
+MJID_H_armoredsoldier: 대장장이의 신 크레르가 만든\n자동으로 움직이는 인형 병사
+MJID_skeleton: 스켈레톤
+MJID_H_skeleton: 움직이는 해골 몬스터.\n죽은 인간의 슬픈 말로
+MJID_mummy: 머미
+MJID_H_mummy: 되살아난 시체 몬스터.\n사후, 부정한 기운에 감염된 시신
+MJID_dragonzombie: 드래곤 좀비
+MJID_H_dragonzombie: 부정한 기운에 감염되어 영면에\n들지 못하는 거대 마수의 사체.\n몸에서 썩은 내가 나며 독을 지녔다
+MJID_EvilBeast: 마수
+MJID_H_EvilBeast: 수수께끼의 기괴한 짐승.\n거대한 몸과 무서운 힘을 갖고 있다
+MJID_NabataeanDragon_Dagda: 하늘을 검게 덮는 존재
+MJID_H_NabataeanDragon_Dagda: 다그다의 또 다른 이름.\n엄청난 힘을 가진 날아다니는 거룡
+MJID_H_NabataeanDragon_Dagda_Orh: 
+MJID_NabataeanDragon_Balor: 심연보다 어두운 존재
+MJID_H_NabataeanDragon_Balor: 마신 발로르의 또 다른 이름.\n명계의 지배자인 무시무시한 마룡
+MJID_NabataeanDragon_Mars: 선두에 서는 존재
+MJID_H_NabataeanDragon_Mars: 마스의 또 다른 이름.\n불꽃처럼 사납고 용맹한 용
+MJID_NabataeanDragon_Lyra: 손짓하는 존재
+MJID_H_NabataeanDragon_Lyra: 라일라의 또 다른 이름.\n기괴한 모습의 꺼림칙한 용
+MJID_H_NabataeanDragon_Lyra_Orh: 
+MJID_NabataeanDragon_LyraCradle: 살의 고치
+MJID_H_NabataeanDragon_LyraCradle: 정체불명의 거대한 살덩어리.\n누에고치처럼 생겼다
+MJID_NabataeanDragon_Isheth: 
+MJID_H_NabataeanDragon_Isheth: 
+MJID_H_NabataeanDragon_Isheth_Orh: 
+MJID_NabataeanDragon_Seteth: 
+MJID_H_NabataeanDragon_Seteth: 
+MJID_NabataeanDragon_Nomvethe: 
+MJID_H_NabataeanDragon_Nomvethe: 
+MJID_Kusarikku: 쿠사리쿠
+MJID_H_Kusarikku: 좌우로 뻗은 뿔을 가진 소.\n가축으로도 기르나 야생 쿠사리쿠는\n사나워서 사람을 공격하기도 한다
+MJID_Pig: 모래 돼지
+MJID_H_Pig: 엄니가 있는 야생 돼지.\n식욕이 왕성해 뭐든 먹기에 혹독한\n다그다의 환경에서도 살아남는다
+MJID_Yak: 야크
+MJID_H_Yak: 가축으로 흔히 길러지는 초식 동물.\n짜낸 젖은 음료나 치즈로 가공되며\n고기는 질기지만 식용으로 애용된다

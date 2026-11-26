@@ -1,0 +1,206 @@
+﻿MID_GuideTemplate000_m01: Obtenez de l'expérience, des minerais et des objets dans\nles zones à explorer comme {Unknown060E=01}{Variable=1},\ndans les environs {Unknown060E=00}{Variable=0}.
+MID_GuideTemplate001_m01: Personne ne connaît mieux cette terre que les gens\ndu coin. Achetez donc des cartes aux villageois ! Je\ncrois en avoir vu à la vente {Unknown060E=00}{Variable=0}...
+MID_GuideTemplate002_m01: Connaissez-vous {Unknown060E=01}{Variable=1} ? C'est quelqu'un\nqui a vraiment du talent {Unknown060E=00}({Variable=0}) ! Mais ne comptez\npas l'approcher sous le niveau {Variable=2} de renommée.
+MID_GuideTemplate004_m01: Le {LowercaseNextLetter}Forgeron a besoin de minerai ? Quelqu'un aurait trouvé\n{Unknown060E=00}{LowercaseNextLetter}{Variable=0} et {Unknown060E=01}{LowercaseNextLetter}{Variable=1}\n{Unknown060E=02}{Variable=2} et {Unknown060E=03}{Variable=3}.
+MID_GuideTemplate005_m01: Vous cherchez {Unknown060E=01}{LowercaseNextLetter}{Variable=1} ? Le Consortium Vandahl\nen propose à l'échange, contre {Unknown060E=02}{LowercaseNextLetter}{Variable=2} entre autres,\nqu'on peut trouver {Unknown060E=03}{Variable=3}.
+MID_GuideTemplate006_m01: {Variable=3}\nLe Consortium Vandahl ou d'autres commerces vous\nvendront {Unknown060E=01}{LowercaseNextLetter}{Variable=1} ou {Unknown060E=02}{LowercaseNextLetter}{Variable=2}.
+MID_GuideTemplate007_m01: Avez-vous déjà fait des récoltes surprise ? En utilisant\nde l'{LowercaseNextLetter}Engrais {Unknown060E=00}{Variable=0}, vous pourriez\nobtenir de rares {Unknown060E=01}{LowercaseNextLetter}{Variable=1}s.
+MID_GuideTemplate008_m01: {Variable=3}\n{CapitalizeNextLetter}{Unknown060E=01}{LowercaseNextLetter}{Variable=1} ou {Unknown060E=02}{LowercaseNextLetter}{Variable=2} serait le mieux. On doit en trouver\ndans des commerces locaux.
+MID_GuideTemplate009_m01: Il paraît qu'on trouve un minerai rare appelé\n« {Unknown060E=01}{LowercaseNextLetter}{Variable=1} » {Unknown060E=00}{Variable=0}.\nQue pourrait-on {LowercaseNextLetter}Améliorer avec ce minerai ?
+MID_GuideTemplate010_m01: {Variable=3}\nVous trouverez {Unknown060E=01}{Variable=1}\n{Unknown060E=02}super {LowercaseNextLetter}{Variable=2} pour vous aider !
+MID_GuideTemplate011_m01: Si vous envoyez une escouade {Unknown060E=00}{Variable=0}\npendant que vous fouillez {Unknown060E=01}{Variable=1},\nvous pourriez {LowercaseNextLetter}Fouiller plusieurs zones à la fois !
+MID_GuideTemplate013_m01: En recrutant des {LowercaseNextLetter}Escouades, vous pourrez accéder\naux {LowercaseNextLetter}Tactiques et {LowercaseNextLetter}Déployer des unités. Vous pouvez\nen recruter {Unknown060E=00}{Variable=0} par exemple.
+MID_GuideTemplate014_m01: Vous pouvez {LowercaseNextLetter}Améliorer des armes chez le {LowercaseNextLetter}Forgeron afin\nd'augmenter leur Atq et leur Prc, et ça en vaut la peine !\nJe vais peut-être m'offrir {Unknown060E=01}{LowercaseNextLetter}{Variable=1}, tiens !
+MID_GuideTemplate015_m01: Avez-vous déjà prononcé des {LowercaseNextLetter}Discours enflammés pour\nrecruter des troupes ? Cela peut attirer des {LowercaseNextLetter}Escouades\nplus fortes. Tentez votre chance {Unknown060E=00}{Variable=0} !
+MID_GuideTemplate016_m01: Vous pouvez ordonner aux troupes de rapporter des matériaux\navec Déployer et fouiller. Pratique, non ? Essayez\n{Unknown060E=01}{Variable=1}, près de {Unknown060E=00}{Variable=0}.
+MID_GuideTemplate017_m01: Il paraît que vous donnez des représentations locales !\nAuriez-vous accepté la requête {Unknown060E=00}{Variable=0} ?\nSi ce n'est pas le cas, allez donc faire un tour à la taverne !
+MID_GuideTemplate018_m01: Le niveau {Variable=0} de renommée octroie cet avantage :\n{LowercaseNextLetter}{Variable=1}\nAlors n'attendez pas et augmentez votre renommée !
+MID_GuideTemplate020_m01: {Variable=3}\nRecruter l'{LowercaseNextLetter}Escouade {Unknown060E=02}{Variable=2} vous permettra\nd'utiliser la {LowercaseNextLetter}Tactique « {Unknown060E=01}{Variable=1} » associée.
+MID_GuideTemplate021_m01: Il vous faut un nouveau défi ? Allez faire un tour\n{Unknown060E=00}{Variable=0} ! Escarmouches et zones à\nexplorer peuplées de puissants ennemis vous y attendent !
+MID_GuideTemplate018_t: Une astuce sur le niveau de renommée !
+MID_GuideIntro001_m01: Avez-vous besoin d'aide contre les cavaliers ?
+MID_GuideIntro002_m01: Attaquez les unités volantes avec un arc !
+MID_GuideIntro003_m01: Vous ne savez pas comment vaincre les ennemis cuirassés ?
+MID_GuideIntro004_m01: Je sais comment anéantir les morts-vivants !
+MID_GuideIntro005_m01: La force ne suffit pas, il faut aussi pouvoir se soigner.
+MID_GuideIntro006_m01: Encercler un ennemi est une tactique infaillible !
+MID_GuideIntro007_m01: La magie n'est pas la seule attaque à distance de votre arsenal.
+MID_Guide001_t: Les bonnes actions augmentent la renommée !
+MID_Guide001_m01: Les bonnes actions constituent la meilleure manière d'accroître\nsa renommée à Dagsion. Les personnes qui ont besoin d'aide\nsont indiquées sur votre carte, approchez-les pour en savoir plus !
+MID_Guide002_t: Déclarez vos bonnes actions !
+MID_Guide002_m01: Votre objectif n'est pas atteint tant que vous n'avez pas\nretrouvé la personne que vous aidiez ! Certaines bonnes actions\nimpliquent de vous battre, préparez-vous donc à toute éventualité.
+MID_Guide003_t: Explorez diverses zones pour vous renforcer !
+MID_Guide004_t: Préparez-vous à combattre !
+MID_Guide004_m01: Une bataille importante approche, n'est-ce pas ? Vous devriez\nfaire le plein d'armes et d'objets. Je vous conseille d'avoir\ntoujours {Unknown060E=00}{LowercaseNextLetter}{Variable=0} sous la main.
+MID_Guide005_t: Ne reculez pas face aux {LowercaseNextLetter}Escarmouches !
+MID_Guide005_m01: N'évitez pas les {LowercaseNextLetter}Escarmouches sur la carte du monde.\nElles permettent d'acquérir de l'expérience et des\nniveaux. Alors préparez-vous et montez au front !
+MID_Guide006_t: Soutenez les commerces locaux !
+MID_Guide006_m01: Il y a des commerces dans de nombreux villages,\ncomme {Unknown060E=00}{Variable=0}, près de Dagsion !\nJ'ai entendu dire qu'on y trouve {Unknown060E=01}{LowercaseNextLetter}{Variable=1}.
+MID_Guide007_t: Vous croisez souvent des {LowercaseNextLetter}Marchands ?
+MID_Guide007_m01: Vous croiserez peut-être des {LowercaseNextLetter}Marchands sur la carte du\nmonde. Parlez-leur pour voir leur marchandise. Certains\nd'entre eux peuvent même vous échanger des articles rares !
+MID_Guide008_t: Avez-vous parlé avec l'oiseau bizarre ?
+MID_Guide008_m01: Incroyable mais vrai, si vous vous entendez bien avec\nl'oiseau sur ce perchoir, {AvatarGender=le Messager du Corbeau Blanc|la Messagère du Corbeau Blanc}\nvolera à votre secours lorsque vous serez dans le pétrin.
+MID_Guide009_t: Offrez des {LowercaseNextLetter}Cadeaux pour vous faire des amis !
+MID_Guide009_m01: Si vous souhaitez profiter d'un {LowercaseNextLetter}Repas avec quelqu'un, offrez-lui\nd'abord un cadeau, que vous pouvez acheter un peu partout.\nUne fois que vous êtes plus proches, invitez-le pour un {LowercaseNextLetter}Repas.
+MID_Guide010_t: Profitez d'un {LowercaseNextLetter}Repas à prix réduit !
+MID_Guide010_m01: Partager un {LowercaseNextLetter}Repas à l'{LowercaseNextLetter}Auberge est la meilleure manière\nd'apprendre à connaître des gens. Et, parfois, les {LowercaseNextLetter}Repas sont\nà moitié prix ! Il serait dommage de ne pas en profiter !
+MID_Guide011_t: Une carte vous facilite l'aventure !
+MID_Guide012_t: Explorez des zones mystérieuses !
+MID_Guide014_t: Attention à l'échéance des quêtes secondaires !
+MID_Guide014_m01: Les récompenses des quêtes secondaires sont alléchantes,\nmais vous n'obtiendrez rien une fois passée la date limite.\nConsultez régulièrement la {LowercaseNextLetter}Liste des quêtes afin de ne rien rater.
+MID_Guide015_t: Le Consortium Vandahl s'occupe de tout !
+MID_Guide015_m01: Avez-vous visité le Consortium Vandahl ? Ils acceptent les échanges\ncontre des biens et des matériaux, et non des écus. Collectez\ndes matériaux en allant en {LowercaseNextLetter}Fouiller sur la carte du monde.
+MID_Guide016_t: Je sais où trouver des marchandises !
+MID_Guide016_m01: Vous devez vous équiper pour un combat important ?\nLe Consortium Vandahl vous propose sa sélection d'armes\nen bronze, plus puissantes que les armes en bois.
+MID_Guide017_t: Profitez du {LowercaseNextLetter}Mentorat de Kastor !
+MID_Guide017_m01: À partir de {Variable=0} de niveau de renommée, Kastor vous\ndispensera des séances de {LowercaseNextLetter}Mentorat. Sa première\nleçon : profiter au mieux du terrain !
+MID_Guide018_t: Ne négligez pas votre équipement.
+MID_Guide018_m01: Ne laissez pas votre équipement dans vos Objets,\nutilisez-le ! {CapitalizeNextLetter}{Unknown060E=01}{LowercaseNextLetter}{Variable=1} serait utile\npour vos alliés dont {Unknown060E=00}{Variable=0} n'est pas assez élevée.
+MID_Guide019_t: On n'a jamais trop d'argent !
+MID_Guide019_m01: J'adore l'argent et il est important d'en avoir beaucoup !\nAlors si vous avez des armes, matériaux ou objets que\nvous n'utilisez pas, n'hésitez pas à les vendre !
+MID_Guide020_m01: Avez-vous visité la taverne de la ville basse ? Il est\npossible d'y acheter toutes sortes de {LowercaseNextLetter}Cadeaux.\nMême les enfants y sont les bienvenus !
+MID_Guide022_t: Profitez d'une remise sur l'{LowercaseNextLetter}Entraînement !
+MID_Guide022_m01: Je suppose que vous vous entraînez régulièrement afin de\ngagner en expérience, mais savez-vous que vous pouvez\nvous renforcer à prix réduit les samedis et les dimanches ?
+MID_Guide023_t: Préparez-vous pour un {LowercaseNextLetter}Examen d'aptitude !
+MID_Guide023_m01: Savez-vous qu'il existe des examens d'aptitude ? Vous\ndevriez être en mesure de passer celui de niveau novice.\nSi tous vos alliés sont déjà des novices, alors tout va bien !
+MID_Guide024_t: Noctula est douée avec des gantelets.
+MID_Guide025_t: Appréciez-vous les animaux ?
+MID_Guide025_m01: Gardez tous les animaux que vous attrapez dans\nles {LowercaseNextLetter}Écuries. Augmentez votre niveau de lien avec\neux pour apprendre des techniques spécifiques.
+MID_Guide026_t: On cherche des {LowercaseNextLetter}Ornius.
+MID_Guide026_m01: J'ai entendu dire que quelqu'un cherchait des {LowercaseNextLetter}Ornius.\nPourriez-vous aider cette personne ? Vous la trouverez\naux alentours des {LowercaseNextLetter}Écuries.
+MID_Guide027_t: Avez-vous déjà vu une {LowercaseNextLetter}Momie d'argent ?
+MID_Guide027_m01: Participants aux Jeux Héroïques ! Une {LowercaseNextLetter}Momie d'argent a\nrécemment été aperçue. Les momies d'argent rapportent beaucoup\nd'expérience, mais elles sont coriaces. Faites attention à vous !
+MID_Guide028_t: Avez-vous ce qu'il faut contre la cavalerie ?
+MID_Guide029_t: Profitez du {LowercaseNextLetter}Mentorat d'Aurora !
+MID_Guide029_m01: À partir du niveau {Variable=0} de renommée, Aurora\nacceptera de vous entraîner. Elle commencera\npar vous enseigner comment ne pas vous blesser !
+MID_Guide030_t: Recevez une faveur divine grâce aux {LowercaseNextLetter}Services.
+MID_Guide030_m01: Savez-vous que vous pouvez recevoir des bénédictions\npour les batailles ? Elles en valent toutes le coup !\nPour en obtenir, rendez des {LowercaseNextLetter}Services dans un temple.
+MID_Guide032_t: Vous pouvez {LowercaseNextLetter}Recruter dans d'autres équipes !
+MID_Guide032_m01: Savez-vous que vous pouvez {LowercaseNextLetter}Recruter dans d'autres équipes ?\nOffrez-leur des {LowercaseNextLetter}Cadeaux, puis invitez-les à un {LowercaseNextLetter}Repas afin\nde vous rapprocher ! Un jour, ça pourrait être moi, ha ha !
+MID_Guide033_t: Obtenez une audience avec une divinité !
+MID_Guide033_m01: À partir du niveau {Variable=0} de renommée, vous pourrez\nrencontrer des divinités. Elles sont très occupées, mais\nleurs histoires vous vaudront encore plus de renommée !
+MID_Guide034_t: Exploitez-vous des champs ?
+MID_Guide034_m01: L'agriculture permet de produire de nombreux ingrédients\nque vous pourriez vendre, donner pour faire une bonne\naction, ou utiliser dans un {LowercaseNextLetter}Banquet pour vos alliés !
+MID_Guide035_m01: Les bonnes actions sont la meilleure façon d'accroître\nvotre renommée. Par exemple, je viens de rencontrer\nun marchand ayant des problèmes avec ses légumes...
+MID_Guide036_m01: Un combat important approche ? Il paraît que le Consortium\nVandahl dispose d'armes en fer. Elles font plus de dégâts\nque celles en bronze... tant qu'on les équipe !
+MID_Guide037_t: Avez-vous rendu visite au {LowercaseNextLetter}Forgeron ?
+MID_Guide037_m01: Le {LowercaseNextLetter}Forgeron peut améliorer ou réparer vos armes\nen échange d'écus et de minerais, et cela vaut le coup !\nVous trouverez des minerais dans les zones à explorer !
+MID_Guide038_t: Est-ce que quelqu'un a vu une {LowercaseNextLetter}Momie d'or ?
+MID_Guide038_m01: Participants aux Jeux Héroïques ! Une {LowercaseNextLetter}Momie d'or a récemment\nété aperçue. Les momies d'or rapportent beaucoup d'écus,\nmais elles sont coriaces. Faites attention à vous !
+MID_Guide039_t: Améliorez vos armes avec des minerais !
+MID_Guide040_t: Entraînez-vous pour équiper une arme !
+MID_Guide040_m01: Vous ne pouvez pas équiper d'arme puissante si votre niveau\nde talent n'est pas assez élevé. Suivez un {LowercaseNextLetter}Entraînement pour\nle faire augmenter et être à la hauteur au combat !
+MID_Guide041_t: Profitez du {LowercaseNextLetter}Mentorat de Bertrand !
+MID_Guide041_m01: À partir du niveau {Variable=0} de renommée, Bertrand vous\nproposera son {LowercaseNextLetter}Mentorat. Sa première leçon : comment\nvous occuper de différents types d'ennemis.
+MID_Guide042_t: Les {LowercaseNextLetter}Banquets restaurent vos PV !
+MID_Guide042_m01: Vous êtes loin de Dagsion et vos PV sont bas ?\nPréparez un {LowercaseNextLetter}Banquet avec vos ingrédients pour\nrestaurer vos PV et vous rapprocher de vos amis.
+MID_Guide043_t: Parlez avec le {LowercaseNextLetter}Marchand.
+MID_Guide044_t: Le poste de contrôle est fermé ?
+MID_Guide044_m01: J'ai entendu dire que des types louches empêchaient les gens\nde passer le poste de contrôle. Je n'ai pas plus d'informations,\nmais le voyageur près du panneau en sait sûrement plus.
+MID_Guide045_t: Profitez du {LowercaseNextLetter}Mentorat de Centurio !
+MID_Guide045_m01: À partir du niveau {Variable=0} de renommée, Centurio acceptera de\nvous entraîner. J'ignore ce qu'il a à vous dire sur les géants,\nà part qu'il y a sûrement une grosse récompense si on les bat.
+MID_Guide046_t: Yang Jie est un excellent soigneur.
+MID_Guide047_t: Connaissez-vous l'écu anti-magie ?
+MID_Guide047_m01: La Déf protège des A. phys tandis que la Rés protège des\nA. mag. Améliorer sa Rés est compliqué. Vous pouvez\npeut-être vous procurer un écu anti-magie par échange ?
+MID_Guide049_t: Nydine est une experte des haches.
+MID_Guide050_t: Vos cavaliers ont-ils leur monture ?
+MID_Guide050_m01: Avez-vous attribué les animaux en captivité à vos cavaliers\nornius et à votre cavalerie légère ? Renforcez leurs niveaux\nde lien afin d'apprendre de nouvelles techniques !
+MID_Guide052_t: Essayez d'attraper un animal rare !
+MID_Guide052_m01: Les animaux rares peuvent être trouvés à certains\nendroits. Attirez-les avec leur appât préféré afin de\npouvoir les capturer !
+MID_Guide053_t: Ne négligez surtout pas les {LowercaseNextLetter}Soutiens !
+MID_Guide053_m01: Faites-vous attention aux {LowercaseNextLetter}Soutiens entre vos alliés ? Vous pourriez\napprendre des choses sur eux ! Vous pouvez augmenter\nleur niveau de soutien avec des {LowercaseNextLetter}Cadeaux et des {LowercaseNextLetter}Repas.
+MID_Guide054_m01: À partir du niveau {Variable=0} de renommée, vous gagnez plus\nd'expérience de talent en vous entraînant. Et avec la remise\nles samedis et dimanches, vous deviendrez une machine !
+MID_Guide055_m01: Vous êtes assez coriace, à présent. Vous devriez peut-être passer\nl'{LowercaseNextLetter}Examen d'aptitude de niveau avancé. Si la majorité de votre\néquipe a un niveau avancé, les choses seront plus simples.
+MID_Guide056_t: Avez-vous des armes à distance ?
+MID_Guide057_m01: À partir du niveau {Variable=0} de renommée, Kastor aura\nune requête pour vous. J'ignore ce qu'elle impliquera,\nmais la récompense s'annonce épique.
+MID_Guide058_m01: Les {LowercaseNextLetter}Champs produisent beaucoup d'ingrédients. À partir\ndu niveau {Variable=0} de renommée, vous pouvez les exploiter\ndavantage et récolter encore plus d'ingrédients !
+MID_Guide059_t: Mangez, puis allez au théâtre !
+MID_Guide059_m01: Partager un {LowercaseNextLetter}Repas avec des amis, puis aller voir une pièce\nde théâtre ensuite, c'est formidable. Et à partir du niveau {Variable=0}\nde renommée, vous pouvez inviter des gens au {LowercaseNextLetter}Théâtre !
+MID_Guide060_t: Les chasseurs veulent un arc de chasseur !
+MID_Guide060_m01: Certaines bêtes comme les {LowercaseNextLetter}Ours de l'Atla et les loups\nrayés sont coriaces. La solution ? Un arc de chasseur !\nJe crois qu'on peut en acheter {Unknown060E=00}{Variable=0}.
+MID_Guide061_t: Jasmine porte une armure lourde.
+MID_Guide063_t: Cultivez des ingrédients rares !
+MID_Guide064_m01: Connaissez-vous l'équipement qui renforce la magie de soin ?\nIl paraît que le bâton de soin que vous pouvez obtenir au\nConsortium Vandahl améliore les sorts curatifs.
+MID_Guide065_t: Le conducteur a besoin d'aide.
+MID_Guide065_m01: Les diligences sont plutôt utiles, mais les enfants ne peuvent\npas y monter sans un adulte. Il paraît que le conducteur a des\nsoucis... Si vous l'aidez, il vous laissera peut-être monter !
+MID_Guide067_t: Avez-vous une arme utile contre les armures ?
+MID_Guide069_m01: À partir du niveau {Variable=0} de renommée, vous recevrez\nune requête d'Aurora. Quoi qu'elle vous demande\nde faire, je suis sûre que ça en vaut la peine.
+MID_Guide070_t: Les auditions sont ouvertes au {LowercaseNextLetter}Théâtre !
+MID_Guide070_m01: À partir du niveau {Variable=0} de renommée, vous pouvez\n{LowercaseNextLetter}Jouer une pièce au théâtre. C'est payé, et si vous jouez\navec l'un de vos alliés, vous deviendrez plus proches !
+MID_Guide071_t: Avez-vous profité des {LowercaseNextLetter}Thermes ?
+MID_Guide071_m01: Avez-vous vu les {LowercaseNextLetter}Thermes, derrière le {LowercaseNextLetter}Théâtre ? On\npeut y entrer à partir du niveau {Variable=0} de renommée.\nPrenez un {LowercaseNextLetter}Bain avec vos alliés pour devenir plus proches !
+MID_Guide073_t: Avez-vous entendu parler des Annexes ?
+MID_Guide073_m01: J'ai entendu dire que des participants aux Jeux Héroïques\navaient besoin d'un peu d'aide. Si ça vous intéresse, allez\nleur parler ! Ils sauront bien vous récompenser plus tard...
+MID_Guide074_m01: Il paraît que les armes de Da Mina sont extrêmement\nprécises. Ça peut être intéressant ! Et si vous\ncherchiez cet endroit sur la carte du monde ?
+MID_Guide075_t: Vous devez soigner un allié à distance ?
+MID_Guide075_m01: Parfois, il vous faut soigner des alliés à distance.\nAvec la magie blanche Remède, c'est possible ! C'est\nun sort que Sofia ou Yang Jie peuvent apprendre.
+MID_Guide076_m01: Psst... un dur combat se profile. Si votre équipement, vos\naptitudes, vos classes et vos capacités ne sont pas au niveau,\ntâchez de {LowercaseNextLetter}Recruter quelqu'un ayant de la magie de soin.
+MID_Guide077_m01: À partir du niveau {Variable=0} de renommée, vous recevrez\nune requête de Bertrand. Peu importe ce qu'il vous\ndemandera, ça ne peut qu'en valoir la peine.
+MID_Guide081_t: Avez-vous entendu parler de ces amulettes ?
+MID_Guide081_m01: Le Consortium Vandahl a reçu des amulettes. Il paraît\nqu'on peut résister à certaines armes en en portant une,\nmais ils n'acceptent que des matériaux rares en échange.
+MID_Guide083_m01: Vous avez fait des progrès. Il serait temps de passer\nl'{LowercaseNextLetter}Examen d'aptitude de niveau élite ! Mais vos permis\nsont précieux, alors choisissez judicieusement.
+MID_Guide086_t: Un petit conseil à propos des armes divines...
+MID_Guide086_m01: Avez-vous obtenu une arme de la part d'une\ndivinité ? Montrez-la au {LowercaseNextLetter}Forgeron. Il paraît que\nmême les armes divines peuvent être améliorées !
+MID_Guide088_t: Nouveaux produits au Consortium Vandahl !
+MID_Guide088_m01: Il paraît qu'il y a un tome magique intéressant au\nConsortium Vandahl, un grimoire quelque chose.\nSi ça vous intéresse, allez donc y faire un tour.
+MID_Guide089_m01: Au niveau {Variable=0} de renommée, les {LowercaseNextLetter}Thermes organisent\ndes bains spéciaux. Vous y apprendrez différentes techniques.\nPrenez un {LowercaseNextLetter}Bain avec vos alliés pour devenir plus proches !
+MID_Guide090_t: Sondez les ennemis cachés !
+MID_Guide090_m01: Battez les ennemis trouvés grâce au {LowercaseNextLetter}Chant de Damnation\npour gagner de l'expérience, des échogemmes magiques et\nde la renommée. Pensez à l'utiliser lors des longs voyages !
+MID_Guide091_t: Avez-vous déjà renforcé des capacités ?
+MID_Guide091_m01: Je n'arrive pas à croire que Smyrnos vous laisse renforcer\nvos capacités ! Vous n'avez plus qu'à collecter des\néchogemmes magiques avec le {LowercaseNextLetter}Chant de Damnation.
+MID_Guide093_t: Avez-vous reçu une {LowercaseNextLetter}Lettre de défi ?
+MID_Guide093_m01: J'ai entendu dire que vous aviez reçu une {LowercaseNextLetter}Lettre de défi !\nAvez-vous hâte d'affronter votre adversaire ? Si vous\ngagnez, vous apprendrez peut-être une capacité secrète.
+MID_Guide097_t: Kiroc est un excellent archer.
+MID_Guide098_t: Qu'utiliser contre les unités volantes ?
+MID_Guide100_t: Avez-vous déjà enseigné des secrets ?
+MID_Guide100_m01: Smyrnos vous a autorisé à {LowercaseNextLetter}Enseigner un secret à vos\nalliés ? C'est l'idéal pour les renforcer ! Vous pouvez\nobtenir des échogemmes magiques grâce au {LowercaseNextLetter}Chant de Damnation.
+MID_Guide102_t: Comment se porte Damnation ?
+MID_Guide102_m01: Saviez-vous que les armes perdent en durabilité quand vous\nutilisez des capacités ? Si Damnation s'use, vous devrez\nla réparer avec des minerais de la {LowercaseNextLetter}Grotte des ténèbres.
+MID_Guide106_t: Que faire contre la Terreur des Mers ?
+MID_Guide106_m01: Cetus, la Terreur des Mers, est une sorte de dragon.\nCela signifie que la capacité Saignée de Damnation\ndevrait être efficace. Pensez à la réparer avant le combat.
+MID_Guide109_t: Besoin d'un aurige ? Benditz est là !
+MID_Guide111_t: Explorez les zones du désert !
+MID_Guide111_m01: Il paraît que vous voyagez dans le désert ! Il y a\nplusieurs zones à explorer cachées dans les dunes.\nEt si vous y faisiez un tour tant que vous y êtes ?
+MID_Guide114_t: Catania est une soldate ailée hors pair.
+MID_Guide120_t: Les {LowercaseNextLetter}Escouades brillent par les {LowercaseNextLetter}Tactiques !
+MID_Guide120_m01: En déployant des {LowercaseNextLetter}Escouades, vous pourrez utiliser\ndes {LowercaseNextLetter}Tactiques dans le but d'attaquer, soigner, gagner\ndu temps ou autre, et renforcer votre talent Autorité !
+MID_Guide121_t: Avez-vous envoyé de l'aide ?
+MID_Guide121_m01: Vous expédiez les provisions avec brio ! Cela prend du temps\nde {LowercaseNextLetter}Déployer des troupes pour {LowercaseNextLetter}Fouiller des lieux, mais vous\npouvez en profiter pour vous concentrer sur d'autres choses.
+MID_Guide122_t: Multipliez les fouilles !
+MID_Guide123_t: Sofia est une soigneuse hors pair.
+MID_Guide124_t: Des {LowercaseNextLetter}Escouades pulvérisent les unités volantes !
+MID_Guide126_t: Quelques {LowercaseNextLetter}Escouades ralentissent le rythme.
+MID_Guide127_t: Connaissez-vous des {LowercaseNextLetter}Escouades de soin ?
+MID_Guide128_t: Comment avance le recrutement de soldats ?
+MID_Guide129_t: Avez-vous amélioré vos armes ?
+MID_Guide130_m01: Il y a une épée appelée la lame purificatrice qui est idéale\ncontre les morts-vivants des Limbes. Le Consortium\nVandahl en a, si vous avez quelque chose en échange.
+MID_Guide135_t: Des {LowercaseNextLetter}Escouades aident contre les cavaliers !
+MID_Guide136_t: Zarcone manie parfaitement la hache.
+MID_Guide138_t: Avez-vous vu la responsable du transport ?
+MID_Guide138_m01: La responsable du transport vous permet d'envoyer\ndes {LowercaseNextLetter}Escouades en Saramis. Quand vous en aurez\nenvoyé assez, vous obtiendrez un manuel de stratégie.
+MID_Guide139_t: Alexandra est une grande soldate ailée.
+MID_Guide146_t: Les armes uniques peuvent être améliorées !
+MID_Guide146_m01: Est-ce la lance de Mahadu ?! Elle peut également\nêtre améliorée avec les bons matériaux. Demandez\ndonc au {LowercaseNextLetter}Forgeron si ça attise votre curiosité.
+MID_Guide148_t: Les recrues adorent les {LowercaseNextLetter}Discours enflammés !
+MID_Guide149_t: Au sujet des ballots d'armes...
+MID_Guide149_m01: J'ai entendu dire que le Consortium Vandahl avait de\nnouveaux ballots de Da Mina. Si seulement je savais\noù {LowercaseNextLetter}Fouiller pour trouver ce qu'ils veulent en échange...
+MID_Guide150_t: Déployez vos forces et obtenez des matériaux !
+MID_Guide152_t: Déployez vos forces et obtenez des minerais !
+MID_Guide160_t: Donnez des représentations locales !
+MID_Guide161_t: Connaissez-vous des endroits intéressants ?
+MID_Guide161_m01: Les représentations locales sont une bonne manière d'en\nsavoir plus sur les endroits secrets qui ne sont pas sur la carte.\nLes matériaux qui s'y trouvent seront utiles dans la taverne !
+MID_Guide162_t: Catania manie très bien les lances.
+MID_Guide163_t: Aidez-vous les gens du coin ?
+MID_Guide165_t: Comment avancent les requêtes des tavernes ?
+MID_Guide165_m01: Le tavernier a besoin de vous ? Vous devez accroître\nvotre niveau de renommée et rassembler des matériaux,\nmais ça pourrait inspirer une nouvelle chanson !
+MID_Guide166_t: Avez-vous bu une boisson froide ?
+MID_Guide166_m01: Si la taverne ne dispose pas encore de boissons\nspéciales, augmentez votre niveau de renommée\net rassemblez des matériaux !
+MID_Guide167_t: Ça vous dit de chercher une feuille rare ?
+MID_Guide167_m01: Avez-vous trouvé des feuilles intéressantes ? Certains\nles trouvent très précieuses. Il paraît que vous pouvez\nen trouver en fouillant des endroits spéciaux.
+MID_Guide169_m01: Il paraît que vous donnez des représentations locales ?\nVous devriez en profiter pour faire un tour dans\nles commerces du coin. Ça vaut le détour !
+MID_Guide174_t: Avez-vous vu Syracusio ?
+MID_Guide174_m01: Syracusio... enfin, disons plutôt Sirocco, semblait\nvouloir vous dire quelque chose. Ça ne me regarde\npas, mais je voulais juste vous prévenir !
+MID_Guide178_t: Des rumeurs sur les trésors de Drake !
+MID_Guide178_m01: Même les trésors de Drake sont améliorables ! Ah,\nvous en avez ?! Alors je vous conseille d'aller voir\nla liste des matériaux nécessaires chez le {LowercaseNextLetter}Forgeron.
+MID_Guide181_t: Avez-vous passé l'épreuve de Kalla ?
+MID_Guide181_m01: Félicitations pour avoir obtenu la permission de tenter\nl'épreuve de Kalla ! Si vous la complétez, vous obtiendrez\nson artéfact divin, c'est un grand honneur et une affaire en or.

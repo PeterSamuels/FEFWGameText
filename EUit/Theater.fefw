@@ -1,0 +1,183 @@
+﻿MID_Stage_Act_01: Atto I
+MID_Stage_Act_02: Atto II
+MID_Stage_Act_03: Atto III
+MID_Stage_Act_04: Atto IV
+MID_Stage_Act_05: Atto V
+MID_Stage_Howdoyouplay: L'artista dovrà...
+MID_Stage_Emotion_Joy_01: ... mostrare allegria.
+MID_Stage_Emotion_Joy_02: ... mostrare gioia.
+MID_Stage_Emotion_Joy_03: ... mostrare gioia estrema.
+MID_Stage_Emotion_Anger_01: ... trattenere a stento la rabbia.
+MID_Stage_Emotion_Anger_02: ... esprimere una certa ira.
+MID_Stage_Emotion_Anger_03: ... mostrarsi fuori di sé.
+MID_Stage_Emotion_Sadness_01: ... abbassare il capo.
+MID_Stage_Emotion_Sadness_02: ... accigliarsi e piangere.
+MID_Stage_Emotion_Sadness_03: ... avere le lacrime agli occhi.
+MID_Stage_Emotion_Worry_01: ... avere l'aria preoccupata.
+MID_Stage_Emotion_Worry_02: ... avere l'aria tormentata.
+MID_Stage_Emotion_Worry_03: ... mostrare grande disagio.
+MID_Stage_Emotion_Laugh_01: ... fare una risatina.
+MID_Stage_Emotion_Laugh_02: ... ridere.
+MID_Stage_Emotion_Laugh_03: ... ridere di gusto.
+MID_Stage_Emotion_Brave_01: ... camminare a testa alta.
+MID_Stage_Emotion_Brave_02: ... mostrare coraggio.
+MID_Stage_Emotion_Brave_03: ... mostrare spavalderia.
+MID_Stage_Emotion_Love_01: ... fare uno sguardo tenero.
+MID_Stage_Emotion_Love_02: ... fare gesti affettuosi.
+MID_Stage_Emotion_Love_03: ... sussurrare parole dolci.
+MID_Stage_Emotion_Hate_01: ... mostrare disprezzo.
+MID_Stage_Emotion_Hate_02: ... arrabbiarsi.
+MID_Stage_Emotion_Hate_03: ... ribollire dalla rabbia.
+MID_Stage_Title_ComedyA: La ladra Mascarina
+MID_Stage_Plot_ComedyA: La famigerata ladra Mascarina ne sa una più del diavolo!\n\nMa quando spedisce una lettera di avvertimento all'alto\nsacerdote del tempio in cui afferma "Ruberò il tuo\nlibro sacro", un saggio orchestra un piano per fermarla.\nLe guardie si nasconderanno nelle armature decorative\ne le tenderanno un agguato.\n\nChi vincerà questo scontro di ingegno? Il saggio o la\nladra intrepida?
+MID_Stage_Cast_ComedyA_01: Ladra
+MID_Stage_Cast_ComedyA_02: Alto sacerdote
+MID_Stage_Cast_ComedyA_03: Saggio
+MID_Stage_Situation_ComedyA_01_t: Mascarina entra in scena!
+MID_Stage_Situation_ComedyA_01: {Variable=0} recita nei panni di una ladra, che\nriesce a sfuggire alle guardie grazie alla sua astuzia.
+MID_Stage_Situation_ComedyA_02_t: Il libro sacro
+MID_Stage_Situation_ComedyA_02: L'alto sacerdote, interpretato da {Variable=0}, legge\nla lettera in cui la ladra dichiara che ruberà il libro sacro.
+MID_Stage_Situation_ComedyA_03_t: Il trionfo del saggio
+MID_Stage_Situation_ComedyA_03: Il saggio, interpretato da {Variable=0}, prepara\nuna trappola e cattura la ladra.
+MID_Stage_Title_ComedyB: Il tesoro di Aureus
+MID_Stage_Plot_ComedyB: Un libertino cade in rovina a causa del suo dissoluto stile\ndi vita. La famiglia lo allontana e lui si trova sommerso\nnei debiti. Tuttavia, quando incrocia un mendicante,\ndecide di dargli un tozzo di pane. In cambio, riceve\nuna mappa logora.\n\nEbbene, quella mappa indica dove è sepolto l'oro\ndel mago Aureus.\n\nUn parente del libertino scopre dell'esistenza di questo\ntesoro e si unisce a lui per andarlo a cercare. Riusciranno\nnell'impresa?
+MID_Stage_Cast_ComedyB_01: Mendicante
+MID_Stage_Cast_ComedyB_02: Parente
+MID_Stage_Cast_ComedyB_03: Libertino
+MID_Stage_Situation_ComedyB_01_t: Una buona azione
+MID_Stage_Situation_ComedyB_01: {Variable=0} veste i panni di un povero mendicante,\nche riceve un tozzo di pane da un libertino di passaggio.
+MID_Stage_Situation_ComedyB_02_t: Dov'è l'oro?
+MID_Stage_Situation_ComedyB_02: Il parente del libertino, interpretato da {Variable=0},\ncerca il tesoro nella foresta, con l'ausilio della mappa.
+MID_Stage_Situation_ComedyB_03_t: Il vero tesoro
+MID_Stage_Situation_ComedyB_03: Il libertino, interpretato da {Variable=0}, non trova\nl'oro, bensì alcuni deliziosi funghi dorati.
+MID_Stage_Title_ComedyC: Le peripezie della megera
+MID_Stage_Plot_ComedyC: Una protagonista fuori dall'ordinario giunge alla capitale\nimperiale: si tratta di una megera in cerca di una persona.\n\nDopo aver creduto a lungo che suo fratello fosse\nscomparso in mare, di recente ha sentito delle voci\nsul suo conto. Pare che sia stato visto in giro.\n\nLa ricerca si dimostra più complicata del previsto, a causa\ndella personalità della megera che finisce per creare molti\nguai.\n\nMa suo fratello è vivo? E riuscirà la megera a trovarlo?\nEcco a voi una commedia degli equivoci ambientata\nnella capitale imperiale!
+MID_Stage_Cast_ComedyC_01: Megera
+MID_Stage_Cast_ComedyC_02: Oste
+MID_Stage_Cast_ComedyC_03: Investigatore
+MID_Stage_Situation_ComedyC_01_t: Rievocazione al porto
+MID_Stage_Situation_ComedyC_01: La megera, ovvero {Variable=0}, giunge al porto\ndella capitale imperiale e ripensa al fratello scomparso.
+MID_Stage_Situation_ComedyC_02_t: Quando si calmano le acque
+MID_Stage_Situation_ComedyC_02: L'oste, interpretato da {Variable=0}, fa arrestare\nla megera dalle guardie del Tempio poiché questa ha\ncreato scompiglio nella sua taverna.
+MID_Stage_Situation_ComedyC_03_t: Ricordi imperituri
+MID_Stage_Situation_ComedyC_03: L'investigatore, interpretato da {Variable=0},\naltri non era che il fratello della megera, che aveva\nperso la memoria! Il ricongiungimento è commovente.
+MID_Stage_Title_TragedyA: L'anello maledetto
+MID_Stage_Plot_TragedyA: Il protagonista è un nobile rampollo. Durante una battuta\ndi caccia nel bosco, si imbatte nella figlia di un eremita e\nse ne innamora a prima vista.\n\nI due si incontrano segretamente più volte.\nL'eremita fa in modo che il nobile riceva un anello\nmaledetto, fingendo che sia un normale anello di\nfidanzamento. Desidera ucciderlo per vendicarsi\ndella sua famiglia che, tempo addietro, lo aveva\ningannato.\n\nLa figlia dell'eremita cerca di riprendersi l'anello,\nma il nobile, credendo che lei abbia cambiato idea,\nsi getta nel lago dal dispiacere...\n\nUn'opera sul triste destino di due innamorati.
+MID_Stage_Cast_TragedyA_01: Nobile rampollo
+MID_Stage_Cast_TragedyA_02: Eremita
+MID_Stage_Cast_TragedyA_03: Figlia dell'eremita
+MID_Stage_Situation_TragedyA_01_t: L'inizio di un amore proibito
+MID_Stage_Situation_TragedyA_01: Il nobile, interpretato da {Variable=0}, incontra\nla figlia dell'eremita nel bosco e i due si innamorano\nall'istante.
+MID_Stage_Situation_TragedyA_02_t: L'anello maledetto
+MID_Stage_Situation_TragedyA_02: L'eremita, interpretato da {Variable=0},\ndà l'anello maledetto al nobile rampollo.
+MID_Stage_Situation_TragedyA_03_t: Oltre la morte
+MID_Stage_Situation_TragedyA_03: La figlia dell'eremita, interpretata da {Variable=0},\nindossa l'anello per seguire il suo amato nel suo tragico\ndestino.
+MID_Stage_Title_TragedyB: Guerra e amicizia
+MID_Stage_Plot_TragedyB: Dopo un lungo periodo di lotte e tensioni, l'Est e l'Ovest\nraggiungono una precaria stabilità. Tuttavia, la guerra\npotrebbe scoppiare di nuovo da un momento all'altro.\n\nDue soldati di fazioni diverse sono posizionati al confine.\nSi tratta di due amici d'infanzia provenienti dallo stesso\nvillaggio. La guerra ha ridisegnato i confini e ora si\ntrovano l'uno contro l'altro.\n\nInizialmente, possono chiacchierare scherzosamente\ndai due lati del confine, ma allo scoppio del conflitto\ndovranno combattere...\n\nUn'ode alla fuggevolezza dell'amicizia in tempo di guerra.
+MID_Stage_Cast_TragedyB_01: Soldato occidentale
+MID_Stage_Cast_TragedyB_02: Soldato orientale
+MID_Stage_Cast_TragedyB_03: Civile
+MID_Stage_Situation_TragedyB_01_t: Un'amicizia solida
+MID_Stage_Situation_TragedyB_01: Il soldato occidentale, ovvero {Variable=0},\nincontra il suo amico di infanzia al confine. Costui\nè un soldato orientale.
+MID_Stage_Situation_TragedyB_02_t: Si passa all'azione
+MID_Stage_Situation_TragedyB_02: Il soldato orientale, interpretato da {Variable=0},\nscopre che è scoppiata la guerra tra Est e Ovest e, suo\nmalgrado, si trova costretto a combattere.
+MID_Stage_Situation_TragedyB_03_t: Dopo la battaglia
+MID_Stage_Situation_TragedyB_03: {Variable=0}, nei panni di una persona del luogo,\npoggia dei fiori sulla linea di confine dopo la battaglia.\nL'ambiente appare desolato.
+MID_Stage_Title_TragedyC: Legami di sangue e faide
+MID_Stage_Plot_TragedyC: Un nobile cade in battaglia. La sua erede, fingendosi una\nserva, si infiltra nella casa del generale che lo ha ucciso,\nallo scopo di vendicarsi.\n\nTuttavia, c'è un colpo di scena. L'erede si innamora del\ngenerale!\n\nGiungono voci circa un'invasione straniera. L'erede\nrivela la propria identità e si affretta a tornare in\npatria... ma il generale, che a sua volta si è innamorato\ndi lei, la prega di disertare e di fuggire assieme!\n\nLa tragica storia d'amore di due amanti in balia\ndel destino.
+MID_Stage_Cast_TragedyC_01: Nobile
+MID_Stage_Cast_TragedyC_02: Erede
+MID_Stage_Cast_TragedyC_03: Generale
+MID_Stage_Situation_TragedyC_01_t: La caduta del casato
+MID_Stage_Situation_TragedyC_01: Il nobile, interpretato da {Variable=0}, combatte\ncontro il generale di un paese nemico e perde la vita.
+MID_Stage_Situation_TragedyC_02_t: Amore proibito
+MID_Stage_Situation_TragedyC_02: L'erede del nobile, ovvero {Variable=0}, si infiltra\nnel territorio nemico, ma finisce per innamorarsi del\ngenerale che aveva ucciso suo padre.
+MID_Stage_Situation_TragedyC_03_t: La tragica fine di un amore
+MID_Stage_Situation_TragedyC_03: Dopo essere fuggito con l'erede del nobile, il generale,\ninterpretato da {Variable=0}, viene condannato\nalla pena capitale.
+MID_Stage_Title_OperaA: Una fede incrollabile
+MID_Stage_Plot_OperaA: C'era una volta un pastore che adorava una divinità,\nprodigandola ogni giorno di preghiere. La divinità\ndecise di mettere alla prova la fede del pastore.\n\nGli fece perdere il raccolto, il bestiame e i risparmi.\nIl pastore si ammalò...\n\nNonostante le difficoltà, continuò a pregare la divinità,\ncon fede incrollabile.\n\nCosa avvenne poi? Una storia dalla triste bellezza\nsul rapporto tra umani e dèi.
+MID_Stage_Cast_OperaA_01: Pastore
+MID_Stage_Cast_OperaA_02: Divinità
+MID_Stage_Cast_OperaA_03: Figlia della divinità
+MID_Stage_Situation_OperaA_01_t: La prova degli dèi
+MID_Stage_Situation_OperaA_01: Il pastore, interpretato da {Variable=0}, viene messo\nalla prova dalla divinità e perde il raccolto e le pecore.
+MID_Stage_Situation_OperaA_02_t: Una prova di fede
+MID_Stage_Situation_OperaA_02: La divinità, ovvero {Variable=0}, decide a quale\ntipo di prova sottoporre il pastore.
+MID_Stage_Situation_OperaA_03_t: Una benedizione
+MID_Stage_Situation_OperaA_03: La figlia della divinità, interpretata da {Variable=0},\ninforma il pastore che ha superato le prove e che vuole\nsposarlo.
+MID_Stage_Title_OperaB: Il fantasma dell'arena
+MID_Stage_Plot_OperaB: I gladiatori sono abituati a guardare la morte in faccia\nogni giorno... finché un gladiatore caduto in battaglia\ntorna nell'arena nei panni di un vero fantasma.\n\nIl protagonista, un giovane gladiatore, incontra questo\nfantasma, da cui riceve una spada nera. Comincia così\nad accumulare una vittoria dopo l'altra, facendosi un\nnome.\n\nTuttavia, man mano che la sua popolarità cresce,\ncresce anche la sua arroganza. Nello scontro finale,\nla spada nera si spezza...\n\nUna storia sanguinosa e bizzarra che tocca i temi\ndella gloria e del fallimento!
+MID_Stage_Cast_OperaB_01: Giovane gladiatore
+MID_Stage_Cast_OperaB_02: Gladiatore rivale
+MID_Stage_Cast_OperaB_03: Fantasma
+MID_Stage_Situation_OperaB_01_t: Il fantasma
+MID_Stage_Situation_OperaB_01: Il giovane gladiatore, interpretato da {Variable=0},\nriceve una spada nera dal fantasma e inizia a vincere\nuno scontro dietro l'altro.
+MID_Stage_Situation_OperaB_02_t: La fine della gloria
+MID_Stage_Situation_OperaB_02: Il gladiatore rivale, ovvero {Variable=0}, sconfigge\nil giovane gladiatore arrogante.
+MID_Stage_Situation_OperaB_03_t: Ciclo delle tenebre
+MID_Stage_Situation_OperaB_03: Il fantasma, interpretato da {Variable=0}, si\nriprende la spada nera e, con aria soddisfatta, cerca\nun altro bersaglio da maledire.
+MID_Stage_Title_OperaC: Arcobaleni sulle Iapetus
+MID_Stage_Plot_OperaC: Le Montagne Iapetus sono una catena montuosa sacra\nche si estende nel nord della Dagda. Vi risiedono\nnumerosi spiriti e si dice che appaiano davanti agli\numani quando c'è l'arcobaleno.\n\nUn taglialegna scala i monti mentre c'è l'arcobaleno.\nGli spiriti lo guidano dal loro sovrano.\n\nIl taglialegna crede di aver fatto un incontro fortunato,\nma scopre che gli spiriti lo considerano un criminale\nper aver distrutto la zona, mettendolo a processo.\n\nUna storia fantastica che parla di umani e spiriti,\ndai colori dell'arcobaleno.
+MID_Stage_Cast_OperaC_01: Spirito dell'albero
+MID_Stage_Cast_OperaC_02: Sovrano degli spiriti
+MID_Stage_Cast_OperaC_03: Taglialegna
+MID_Stage_Situation_OperaC_01_t: Il processo degli spiriti
+MID_Stage_Situation_OperaC_01: Lo spirito dell'albero, interpretato da {Variable=0},\naccusa il taglialegna di aver abbattuto i suoi amici.
+MID_Stage_Situation_OperaC_02_t: Il verdetto
+MID_Stage_Situation_OperaC_02: Il sovrano degli spiriti, interpretato da {Variable=0},\nriconosce le accuse e cerca di punire il taglialegna.
+MID_Stage_Situation_OperaC_03_t: Salvare porta alla salvezza
+MID_Stage_Situation_OperaC_03: Il taglialegna, ovvero {Variable=0}, viene protetto\ndagli spiriti degli animali che ha salvato in passato\ne torna a casa sano e salvo.
+MID_Stage_Title_SpecialA: L'ascesa del Demone canuto
+MID_Stage_Plot_SpecialA: L'ascesa del Demone canuto, uno dei più grandi\ncapolavori letterari dagdani, arriva sul palco!\n\nUn giovane generale, incastrato dal suo migliore amico,\nè sul punto di essere giustiziato quando viene salvato\ndal Foriero di guerre Mars. Il dio lo sottopone a una\nprova nell'arena, dove ottiene il soprannome di Demone\ncanuto.\n\nDovrà affrontare nemici potenti, trappole, intrighi...\nma non manca l'amore e la separazione da una bella\nreligiosa...\n\nTuttora, il Demone canuto continua ad affrontare\nle sue peripezie, fino al giorno in cui potrà finalmente\ndimostrare la sua innocenza e tornare in libertà.
+MID_Stage_Cast_SpecialA_01: Giovane generale
+MID_Stage_Cast_SpecialA_02: Amico del generale
+MID_Stage_Cast_SpecialA_03: Gladiatore
+MID_Stage_Cast_SpecialA_04: Religiosa
+MID_Stage_Cast_SpecialA_05: Demone canuto
+MID_Stage_Situation_SpecialA_01_t: L'avanzata del giovane generale
+MID_Stage_Situation_SpecialA_01: Un giovane generale, interpretato da {Variable=0},\nsi distingue sul campo di battaglia.
+MID_Stage_Situation_SpecialA_02_t: Accuse infondate
+MID_Stage_Situation_SpecialA_02: Il generale viene incastrato dal suo amico, interpretato\nda {Variable=0}, e imprigionato come criminale.
+MID_Stage_Situation_SpecialA_03_t: Il Demone canuto
+MID_Stage_Situation_SpecialA_03: Il generale, ora noto come Demone canuto, affronta\ne sconfigge senza pietà un gladiatore, interpretato da\n{Variable=0}.
+MID_Stage_Situation_SpecialA_04_t: Un pomeriggio affascinante
+MID_Stage_Situation_SpecialA_04: La religiosa, interpretata da {Variable=0},\nincontra in segreto il Demone canuto nella sua cella.
+MID_Stage_Situation_SpecialA_05_t: Una vittoria per il futuro
+MID_Stage_Situation_SpecialA_05: Il Demone canuto, interpretato da {Variable=0},\ntrionfa contro un nemico temibile che gli aveva teso\nuna vile trappola.
+MID_Stage_Title_SpecialB: Le sette fatiche di Arago
+MID_Stage_Plot_SpecialB: L'eroe Arago, un umano figlio dell'imperatore Dagda,\nera famoso in tutta la Dagda non solo per il suo valore,\nma anche per i suoi numerosi intrecci romantici. Ora le\ngesta eroiche di Arago saranno rappresentate sul palco!\n\nDall'uccisione del gigantesco bael delle sabbie al duello\ncon il capo dei lydia, dalla traversata del passo montano\ncon la bella Olivia alla sua battaglia per tenere fede alla\npromessa al re delle Brigid. È tutto raccontato qui!\n\nPreparatevi ad assistere alla storia.
+MID_Stage_Cast_SpecialB_01: Abitante
+MID_Stage_Cast_SpecialB_02: Capo dei lydia
+MID_Stage_Cast_SpecialB_03: Olivia
+MID_Stage_Cast_SpecialB_04: Capo nemico
+MID_Stage_Cast_SpecialB_05: Arago
+MID_Stage_Situation_SpecialB_01_t: L'uccisione del mostro
+MID_Stage_Situation_SpecialB_01: Dopo che Arago ha sconfitto il gigantesco bael delle\nsabbie, l'abitante del villaggio, ovvero {Variable=0},\nlo inonda di elogi.
+MID_Stage_Situation_SpecialB_02_t: Il duello del secolo
+MID_Stage_Situation_SpecialB_02: Il capo dei lydia, interpretato da {Variable=0}, sfida\nArago a duello, ma si trova in svantaggio contro di lui.
+MID_Stage_Situation_SpecialB_03_t: Un incontro romantico
+MID_Stage_Situation_SpecialB_03: Olivia, interpretata da {Variable=0}, cede al fascino\ndel rozzo ma forte Arago.
+MID_Stage_Situation_SpecialB_04_t: Un'alleanza prodigiosa
+MID_Stage_Situation_SpecialB_04: Il capo nemico, interpretato da {Variable=0}, viene\nsconfitto da Arago e dal re delle Brigid, cadendo\nin disgrazia.
+MID_Stage_Situation_SpecialB_05_t: La leggenda infinita
+MID_Stage_Situation_SpecialB_05: Arago, interpretato da {Variable=0}, parte alla\nricerca di un nuovo nemico.
+MID_Stage_Title_SpecialC: L'impareggiabile Cohen
+MID_Stage_Plot_SpecialC: La storia dell'impareggiabile bardo Cohen, un prodigio\nconosciuto da tutti!\n\nCohen viaggiava per la Dagda con la vihuela in mano,\ncomponendo ed eseguendo canzoni di ogni genere e\nlasciandosi alle spalle una leggenda dopo l'altra. Si narra\nche, con la sua musica, abbia scacciato un'infestazione\ndi topi e trasformato un barile d'acqua in ghosh! Pare,\naddirittura, che sia riuscito a spostare una montagna.\n\nQuesto spettacolo illustra la commovente storia della\nsua vita, dalla promettente giovinezza al tragico epilogo.
+MID_Stage_Cast_SpecialC_01: Cohen
+MID_Stage_Cast_SpecialC_02: Abitante
+MID_Stage_Cast_SpecialC_03: Soldato del Tempio
+MID_Stage_Cast_SpecialC_04: Furfante
+MID_Stage_Cast_SpecialC_05: Kalla
+MID_Stage_Situation_SpecialC_01_t: I guai di un giovane musicista
+MID_Stage_Situation_SpecialC_01: Cohen, interpretato da {Variable=0}, è in cerca\ndi ispirazione per rendere i suoi spettacoli ancora più\ncoinvolgenti.
+MID_Stage_Situation_SpecialC_02_t: L'incantevole vihuelista
+MID_Stage_Situation_SpecialC_02: {Variable=0}, nei panni di un'abitante del villaggio,\ncanta le lodi di Cohen e della sua vihuela.
+MID_Stage_Situation_SpecialC_03_t: Quando soffia il vento
+MID_Stage_Situation_SpecialC_03: Un soldato del Tempio, interpretato da\n{Variable=0}, nota che la musica di Cohen\naiuta a sollevare il morale.
+MID_Stage_Situation_SpecialC_04_t: Acqua rigenerante
+MID_Stage_Situation_SpecialC_04: Un furfante, interpretato da {Variable=0}, nota con\npiacere che la musica di Cohen ha trasformato l'acqua\nin ghosh.
+MID_Stage_Situation_SpecialC_05_t: Che la sua melodia sia eterna
+MID_Stage_Situation_SpecialC_05: Kalla ({Variable=0}) piange la perdita di suo figlio\nCohen.
+MID_Stage_Calendar_Help_SpecialA: Rappresentazione straordinaria a\nteatro de "L'ascesa del Demone\ncanuto".
+MID_Stage_Calendar_Help_SpecialB: Rappresentazione straordinaria\na teatro de "Le sette fatiche di\nArago".
+MID_Stage_Calendar_Help_SpecialC: Rappresentazione straordinaria a\nteatro de "L'impareggiabile Cohen".

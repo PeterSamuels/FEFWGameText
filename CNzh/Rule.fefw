@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: 胜利条件
+MID_Rule_Title_Lose: 战败条件
+MID_WINRULE_Annihilate: 击败所有敌人
+MID_WINRULE_Destroy: 击败{Variable=0}
+MID_WINRULE_Destroy2: 击败{Variable=0}与{Variable=1}
+MID_LOSERULE_Annihilate: 我方全员败退
+MID_LOSERULE_Destroy: {Variable=0}败退
+MID_LOSERULE_Destroy2: {Variable=0}或{Variable=1}败退
+MID_LOSERULE_Destroy3: {Variable=0}、{Variable=1}、\n{Variable=2}其中之一败退
+MID_WINRULE_SC11_01_1: 夺取赤红宝石
+MID_WINRULE_SC12_08_1: 启动所有控制装置
+MID_WINRULE_SC13_00_1: 赛奥朵拉到达目标地点
+MID_WINRULE_SC13_10: 夺取埃皮米尼原矿
+MID_WINRULE_SC13_11_1: 经过{Variable=0}回合时\n我方所持宝珠数量多于敌方
+MID_WINRULE_SC13_11_2: 我方获得宝珠，或敌方失去宝珠
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: 经过{Variable=0}回合时\n灯笼之火（蓝）多于灯笼之火（红）
+MID_WINRULE_SC14_05_2: 蕾达到达目标地点
+MID_WINRULE_SC30_08: {LordName}到达目标地点
+MID_WINRULE_SC00_16: 破坏冥界之柱
+MID_WINRULE_SCXX_01: 经过{Variable=0}回合
+MID_WINRULE_SCXX_02: 启动所有祭坛机关
+MID_WINRULE_SCXX_04: 我方击败半数以上巨人
+MID_WINRULE_SCXX_05: 回收所有商会货物，或击败所有敌人
+MID_WINRULE_SCXX_07_1: 所有可行动的昆仑之民到达目标地点，\n或击败五头·修德拉
+MID_WINRULE_SCXX_07_2: 爱娜特莉亚到达目标地点，\n或击败五头·修德拉
+MID_WINRULE_KL_02_1: 将敌人障壁打破（破坏1个）后击败敌人
+MID_WINRULE_KL_02_2: 将敌人障壁完全打破（破坏全部）后击败敌人
+MID_LOSERULE_SC11_03: 共乘马车被破坏，或凯伊败退
+MID_LOSERULE_SC12_08_1: 经过{Variable=0}回合，或迪托利希败退
+MID_LOSERULE_SC13_09: 经过{Variable=0}回合，或赛奥朵拉败退
+MID_LOSERULE_SC13_11_1: 经过{Variable=0}回合时\n我方所持宝珠数量少于敌方
+MID_LOSERULE_SC13_11_2: 敌方获得宝珠，或我方失去宝珠
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: 经过{Variable=0}回合时\n灯笼之火（红）多于灯笼之火（蓝）
+MID_LOSERULE_SCXX_00: 敌方到达目标地点，\n或{LordName}、凯伊其一败退
+MID_LOSERULE_SCXX_01: 敌方到达目标地点，\n或{LordName}、迪托利希其一败退
+MID_LOSERULE_SCXX_04: 敌方击败半数以上巨人
+MID_LOSERULE_SCXX_05_2: 持有商会货物的盗贼到达目标地点，\n或{LordName}、谭利穆恩其一败退
+MID_LOSERULE_SCXX_07: 3名昆仑之民被击败，\n或{LordName}、爱娜特莉亚其一败退
+MID_LOSERULE_DefenseBattle: 所有市民被击败，\n或{LordName}败退

@@ -1,0 +1,884 @@
+﻿MSQID_Goal_CommonDelivery: Deliver the following:
+MSQID_Title_TUT_ToolMaker: Welcome to the Item Shop
+MSQID_Detail_TUT_ToolMaker: Whether they're new to the capital or planning their\nnext big adventure, everyone should visit their local\n{Lowercase}Item Shop{NormalCase} at least once! And right now, we're giving\nevery visitor a special gift! So come one, come all!
+MSQID_Comp_TUT_ToolMaker: Thanks for stopping by! Please take this {LowercaseNextLetter}Vulnerary to\ncommemorate your visit. We carry a wide range of\nitems, and you can never be too prepared! So if your\nstorage is ever feeling light, we've got you covered!
+MSQID_Goal_TUT_ToolMaker: Speak with the {Lowercase}Item Shopkeeper{NormalCase}.
+MSQID_Client_TUT_ToolMaker: Item Shopkeeper
+MSQID_Title_TUT_WeaponShop: Swing by the Armory
+MSQID_Detail_TUT_WeaponShop: At our armory, we guarantee blades that are as sharp\nas they are balanced! But don't just take our word for\nit! Stop by and our expert artisans will let you swing\nblades around until we find the perfect one for you!
+MSQID_Comp_TUT_WeaponShop: Thanks for swinging by! This, here, is one of our\nsignature reliable weapons, a wooden sword! Feels\nsturdy, right? We'll keep increasing our product\nlineup, so make sure to check back again soon.
+MSQID_Goal_TUT_WeaponShop: Speak with the {Lowercase}Armorer.
+MSQID_Client_TUT_WeaponShop: Armorer
+MSQID_Title_TUT_TripHotel: Awaiting You at the Inn
+MSQID_Detail_TUT_TripHotel: Feet tired? Head weary? Perfect! Don't collapse from\nexhaustion—visit our inn where we specialize in\nwarm beds and delicious meals! We're giving all\nfirst-time visitors a free gift, so please come on by!
+MSQID_Comp_TUT_TripHotel: Thank you for taking the time to visit! As promised,\nhere's your commemorative gift! The {LowercaseNextLetter}Inn is open all\nday and night. You won't find a better place to rest\nyour head, so please come by any time!
+MSQID_Goal_TUT_TripHotel: Speak with the {Lowercase}Innkeeper.
+MSQID_Client_TUT_TripHotel: Innkeeper
+MSQID_Title_TUT_Temple: Find Fellowship at the Temples
+MSQID_Detail_TUT_Temple: While in Dagsion, it would be impious not to visit the\ntemples in hightown. Each is home to one of\nDagda's gods, and it does not matter which you\nvisit—you will find a peaceful place to worship.
+MSQID_Comp_TUT_Temple: Thank you for visiting! Please take this gift in\ncommemoration. We offer our honest labor in\nservice of the gods in hopes that they will see\nand grant their miracles to the pious in return.
+MSQID_Goal_TUT_Temple: Speak with {Lowercase}Temple Reception{NormalCase}.
+MSQID_Client_TUT_Temple: Temple Reception
+MSQID_Title_TUT_Blacksmith: Ever Employed a Blacksmith?
+MSQID_Detail_TUT_Blacksmith: I offer services to repair your broken weapons,\nincreasing their time of usefulness, or to refine them,\nmaking them stronger. Drop by the {LowercaseNextLetter}Blacksmith and\nsee how I can improve your weapons.
+MSQID_Comp_TUT_Blacksmith: Thanks for coming by! Here's a {Lowercase}Smithing Stone{NormalCase} as a\nthank-you gift. With this, you can refine a weapon of\nyour choice. Feel free to visit again any time!
+MSQID_Goal_TUT_Blacksmith: Speak with the {Lowercase}Blacksmith.
+MSQID_Client_TUT_Blacksmith: Blacksmith
+MSQID_Title_TUT_Theater_Watch: The Magic of the Theater!
+MSQID_Detail_TUT_Theater_Watch: Drama! Comedy! Action! The {LowercaseNextLetter}Theater offers it all!\nCome see productions of plays both classic and new,\nfrom lands near and far! Visit today with a friend\nand receive a commemorative gift!
+MSQID_Comp_TUT_Theater_Watch: Welcome! So glad you came to the show! We put on\ndifferent shows every day, and I hope that I can\ncount on seeing you here again tomorrow! Be sure\nto bring your friends!
+MSQID_Goal_TUT_Theater_Watch: Speak with {Lowercase}Theater Reception.
+MSQID_Client_TUT_Theater_Watch: Theater Reception
+MSQID_Title_TUT_Thermae: Beauty and Health at the Thermae
+MSQID_Detail_TUT_Thermae: How do the lavish ladies and gents of Dagda always\nlook so rested and at ease? Welcome to the salutary\nwonders of the {LowercaseNextLetter}Thermae! We're giving away gifts to\nfirst-time visitors, so come experience it for yourself!
+MSQID_Comp_TUT_Thermae: Thank you kindly for coming! Here at the {LowercaseNextLetter}Thermae,\nwe have waters of varying effects, so be sure to try\nthem all! We eagerly await your next bath, so please\ncome again!
+MSQID_Goal_TUT_Thermae: Speak with {Lowercase}Thermae Reception.
+MSQID_Client_TUT_Thermae: Thermae Reception
+MSQID_Title_TUT_MarketShop: Gifts of the Marketplace!
+MSQID_Detail_TUT_MarketShop: Trying to get closer to that special someone? Nothing\nbuilds connection more than a heartfelt gift! Located\nnext to the {Lowercase}Item Shop{NormalCase} and {LowercaseNextLetter}Armory, I sell gifts of all\nkinds for all occasions! Come see for yourself!
+MSQID_Comp_TUT_MarketShop: I appreciate you coming by! Have a gift from me.\nGifts are a wonderful way to make people smile! Not\neveryone will like everything, but it's always the\nthought that counts. Come again soon!
+MSQID_Goal_TUT_MarketShop: Speak with the {Lowercase}Market Vendor.
+MSQID_Client_TUT_MarketShop: Market Vendor
+MSQID_Title_Makeup: Catching Sweetie's Eye
+MSQID_Detail_Makeup: I'll get some nice makeup, enhance my style, and\nbefore you know it, Sweetie will fall head over heels!\nWhere do I get some, though? I wonder... Sweetie,\ndo you know?
+MSQID_Comp_Makeup: You actually went and got some for me? Sweetie!\nI'm touched! More importantly, it's a gift from you,\nSweetie. I'll just use a little bit at a time, so it lasts!
+MSQID_Goal_Makeup: Deliver the following:
+MSQID_Client_Makeup: Esmeralda
+MSQID_Title_BattleStrangeness: Monster in the Night
+MSQID_Detail_BattleStrangeness: A monster is appearing at night and attacking shops!\nThey say it disappears into the city streets. Will you\ndefeat it? You'll be rewarded! I'm holed up at home\nat night, so come see me during the day.
+MSQID_Comp_BattleStrangeness: You defeated the monster? Now all the shopkeepers\ncan sell our wares in peace. We owe you big time.\nNow, take your reward!
+MSQID_Goal_BattleStrangeness: Defeat the Phantom.
+MSQID_Client_BattleStrangeness: Shopkeeper
+MSQID_Title_MardleInquiry: Learning More about Mahdel
+MSQID_Detail_MardleInquiry: Something about Father Mahdel bothers me, and I'd\nlike your help gathering intel. Once you have gone\naround the city and gathered enough information,\ncome find me.
+MSQID_Comp_MardleInquiry: Good work. You gathered much more intel than I'd\nexpected. There's something more to what happened\nwith Father Mahdel after all. Those of us at Kalla's\ntemple will continue investigating.
+MSQID_Goal_MardleInquiry: Gather intel on Mahdel.
+MSQID_Client_MardleInquiry: Sirocco
+MSQID_Title_HrihRequest: My Late Sister's Accessory
+MSQID_Detail_HrihRequest: It is a shameful thing. Some good-for-nothing thief\nstole an irreplaceable keepsake of my little sister.\nI cannot leave this city right now. Might I ask you to\ntake it back in my stead?
+MSQID_Comp_HrihRequest: Ooh... You really recovered it for me! I owe you a\ngreat debt. I swear on my name, Creek, that I will\nrepay your kindness someday.
+MSQID_Goal_HrihRequest: Deliver the following:
+MSQID_Client_HrihRequest: Creek
+MSQID_Title_Relief1: Rescue Centurio
+MSQID_Detail_Relief1: While escorting a certain someone from Ribeira to\nDagsion, we were attacked by underworld giants.\nWe are fighting well, but lack the numbers to win.\nPlease hurry our way. We need reinforcements!
+MSQID_Comp_Relief1: Thank you, Promised One. Our charge is safe and\nsound, and we can now make for Dagsion without\ndelay. Take care on your own return to the city.
+MSQID_Goal_Relief1: Defeat the {Lowercase}Underworld Giants.
+MSQID_Client_Relief1: Centurio
+MSQID_Title_ReconstructionArena1: Arena Reconstruction Effort
+MSQID_Detail_ReconstructionArena1: Promised One... If we can rebuild the Dagdan arena,\nwe may be able to sway the hearts of the people\ntoward hope. But we're in need of supplies. Could I\nask you to gather {Lowercase}Building Materials{NormalCase}?
+MSQID_Comp_ReconstructionArena1: You got the {Lowercase}Building Materials{NormalCase}! This couldn't have\nbeen easy, Promised One. Thank you! With these,\nwe'll rebuild the arena and show the people of Dagda\nthat there's still hope to be found in each other.
+MSQID_Goal_ReconstructionArena1: Deliver the following:
+MSQID_Client_ReconstructionArena1: Arena Builder
+MSQID_Reward_Menu_ReconstructionArena1: Gain access to {Lowercase}Training.
+MSQID_Reward_Result_ReconstructionArena1: You can now use {Lowercase}Training.
+MSQID_Title_ReconstructionArena2: Arena Reconstruction Effort Part II
+MSQID_Detail_ReconstructionArena2: Take a look! The arena's reconstruction is coming\nalong quite well! But to improve the training\ngrounds, we'll need more supplies. Promised One.\nCould I ask you to gather more {Lowercase}Building Materials{NormalCase}?
+MSQID_Comp_ReconstructionArena2: Amazing... Thank you, Promised One. This is exactly\nwhat we needed. Once the arena's complete, it'll be a\nbeacon of hope for the people of Dagda. And we owe\nit all to you!
+MSQID_Goal_ReconstructionArena2: Deliver the following:
+MSQID_Client_ReconstructionArena2: Arena Builder
+MSQID_Reward_Menu_ReconstructionArena2: Increase the effects of {Lowercase}Training.
+MSQID_Reward_Result_ReconstructionArena2: Effects of {Lowercase}Training have increased.
+MSQID_Title_ReconstructionDining1: Lost Flavors of the Capital
+MSQID_Detail_ReconstructionDining1: Sorry, the inn's kitchen has been destroyed, so we\naren't serving food at the moment. If we could only\nget our hands on the materials to fix it... If you have\nany, we'd put them to good use here.
+MSQID_Comp_ReconstructionDining1: Thank you for sharing these supplies with us. Now\nwe can finally make food again! Thank you so much!\nPlease come and have a meal anytime!
+MSQID_Goal_ReconstructionDining1: Deliver the following:
+MSQID_Client_ReconstructionDining1: Inn Worker
+MSQID_Reward_Menu_ReconstructionDining1: Gain access to meals.
+MSQID_Reward_Result_ReconstructionDining1: The inn now serves {LowercaseNextLetter}Meals.
+MSQID_Title_ReconstructionDining2: Returned Flavors of the Capital
+MSQID_Detail_ReconstructionDining2: If we had more materials, we could make more\nrepairs to the kitchen and make our food even\ntastier. I know it's selfish to ask in times like this, but\ncould you share a few more supplies with us?
+MSQID_Comp_ReconstructionDining2: You really got us more supplies? Thank you,\nPromised One! With these, we can make further\nrepairs to the kitchen and cook even tastier food!\nOur patrons are going to be so excited!
+MSQID_Goal_ReconstructionDining2: Deliver the following:
+MSQID_Client_ReconstructionDining2: Inn Worker
+MSQID_Reward_Menu_ReconstructionDining2: Increase the effects of meals.
+MSQID_Reward_Result_ReconstructionDining2: Effects of meals have increased.
+MSQID_Title_ReconstructionTemple: Aiding in Prayer
+MSQID_Detail_ReconstructionTemple: While worshippers continue to flock to the temples,\nwe're still short on materials for the prayer rituals.\nCould I possibly ask you to donate some?
+MSQID_Comp_ReconstructionTemple: You're willing to donate these materials? Oh, thank\nyou! May the gods continue to watch over you!
+MSQID_Goal_ReconstructionTemple: Deliver the following:
+MSQID_Client_ReconstructionTemple: Hopeful Priest
+MSQID_Reward_Menu_ReconstructionTemple: Increase the effects of service.
+MSQID_Reward_Result_ReconstructionTemple: Effects of service have increased.
+MSQID_Title_KAI_FirstSubjugation: Furious Vengeance
+MSQID_Detail_KAI_FirstSubjugation: I want those thieves that attacked my dad gone, but\nI'm not strong enough to take them on... You say you\nwant to help? Well, good luck. To be honest, you\ndon't look strong enough to handle them either.
+MSQID_Comp_KAI_FirstSubjugation: What?! You actually beat the thieves that attacked\nmy father? I guess I was wrong about you... Thank\nyou! I'm going to tell everyone what you did for me\nand make sure people know you're the real deal.
+MSQID_Goal_KAI_FirstSubjugation: Defeat the thieves.
+MSQID_Client_KAI_FirstSubjugation: Angry Boy
+MSQID_Title_KAI_FirstDelivery: Lost Hair Clip
+MSQID_Detail_KAI_FirstDelivery: I was playing in Niraga Mine, and accidentally lost\nmy favorite hair clip near the exit. Now there's\nthieves hanging around the mine, so I can't go find\nmy clip. I wish someone could help find it for me...
+MSQID_Comp_KAI_FirstDelivery: I really loved that hair clip and couldn't give up on\nfinding it. Thank you! You're amazing! I hope I can\nfind you again the next time I'm in trouble!
+MSQID_Goal_KAI_FirstDelivery: Deliver the following:
+MSQID_Client_KAI_FirstDelivery: Crying Girl
+MSQID_Title_KAI_SearchSunset: The Fabled Sunset
+MSQID_Detail_KAI_SearchSunset: The sunsets from the Magnus Plateau are beautiful,\nbut aggressive animals have been running rampant\nthere recently. Can't enjoy the sunsets until they're\ngone. I wonder if someone would chase them away...
+MSQID_Comp_KAI_SearchSunset: You drove those animals away! My, you're young, but\nas capable as they come! That place is where my\nwife and I had our first date. Now... I can enjoy those\nsunsets again. Thank you...
+MSQID_Goal_KAI_SearchSunset: Defeat the pack of animals.
+MSQID_Client_KAI_SearchSunset: Old Sunset Watcher
+MSQID_Title_KAI_SearchingGranddaughter: The Missing Granddaughter
+MSQID_Detail_KAI_SearchingGranddaughter: My granddaughter's run off somewhere, but she's\nbeen gone for so long I'm beginning to worry! Please,\nif you find her, could you send her back to me?
+MSQID_Comp_KAI_SearchingGranddaughter: Thanks to you, my granddaughter is home safe.\nI know if I take my eyes off that one for even a\nsecond, she'll be right out the door again. *sigh*\nI suppose she gets her wild side from me, after all...
+MSQID_Goal_KAI_SearchingGranddaughter: Speak with the granddaughter.
+MSQID_Client_KAI_SearchingGranddaughter: Worried Grandmother
+MSQID_Title_KAI_SolitaryFlower: Help My Feelings Take Wing
+MSQID_Detail_KAI_SolitaryFlower: Ah, that wonderful Alexandra! I fell in love with\nher at first sight. Please deliver my love letter.\nThis is the dream of a lifetime!
+MSQID_Comp_KAI_SolitaryFlower: Perfect! Alexandra got my letter! I hope she\nfeels the same... But how could she not?\nI can't wait to hear from her someday!
+MSQID_Goal_KAI_SolitaryFlower: Speak with Alexandra.
+MSQID_Client_KAI_SolitaryFlower: Lovestruck Fellow
+MSQID_Title_KAI_Doppelganger: A Peculiar Message
+MSQID_Detail_KAI_Doppelganger: There's two other women with brooms somewhere in\nDagsion. Could you find them and tell them "the goal\nhas been achieved"? Oh! If it helps, they shouldn't\nbe in hightown or lowtown! Thanks a bunch!
+MSQID_Comp_KAI_Doppelganger: I got so caught up in cleaning that I let me and my\nsisters get separated. I wasn't sure I was ever going\nto find them! But you proved kindness isn't dead!\nHehe! Thanks again!
+MSQID_Goal_KAI_Doppelganger: Speak with the two women with brooms.
+MSQID_Client_KAI_Doppelganger: Woman with Broom
+MSQID_Title_KAI_SearchingNobleman: Missing Master
+MSQID_Detail_KAI_SearchingNobleman: My master is missing! I don't think he's left Dagsion,\nbut I've already looked all over hightown for him!\nHe must be somewhere in the lower levels. Please\nhelp me find him!
+MSQID_Comp_KAI_SearchingNobleman: Thank the gods you found my master. Why did he\nwander off to a strange place like that? If he'd fallen\ninto the water... No, I don't want to think about it.\n*sigh* At least I get to keep my job...
+MSQID_Goal_KAI_SearchingNobleman: Speak with the {Lowercase}Wealthy Old Man.
+MSQID_Client_KAI_SearchingNobleman: Female Servant
+MSQID_Title_KAI_LostCat: Lost Temple Cat
+MSQID_Detail_KAI_LostCat: One of the cats we look after at our temple has\ngone missing. It surely went down Temple Row\nand is now wandering the area near the arena.\nPlease find it!
+MSQID_Comp_KAI_LostCat: I've been worried ever since our temple cat went\nmissing. I'm relieved that you found it! So, it was\nnear the fountain? The poor thing must have\nbeen thirsty!
+MSQID_Goal_KAI_LostCat: Find the lost cat.
+MSQID_Client_KAI_LostCat: Priest Caring for Cats
+MSQID_Title_KAI_DeepestSinner: Eternal Prisoner
+MSQID_Detail_KAI_DeepestSinner: I heard a rumor that some guy's been locked up\nbeneath the arena for, like, hundreds of years! If it's\ntrue, I NEED to know what he looks like! If you ever\nmeet him, let me know, would ya?
+MSQID_Comp_KAI_DeepestSinner: So he told you to tell me no one was there? Heh!\nSee! I knew there wasn't anybody down there. Wait\na minute! Then who actually said that? What are you\nhiding, huh?! Hey!
+MSQID_Goal_KAI_DeepestSinner: Speak with Lind.
+MSQID_Client_KAI_DeepestSinner: Town Gossip
+MSQID_Title_KAI_Courage: That Dark Hero
+MSQID_Detail_KAI_Courage: The one I truly admire is Dietrich! Seeing him fight\nsends chills down my spine, and I was moved to\ncompose a poem for him. Can you give it to him? I\noften see him by Mars's temple.
+MSQID_Comp_KAI_Courage: You delivered my poem! I'm so glad that Dietrich\nwas pleased to receive it. You've emboldened me!\nI will deliver my own gifts from now on. Thank you.
+MSQID_Goal_KAI_Courage: Speak with Dietrich.
+MSQID_Client_KAI_Courage: Passionate Woman
+MSQID_Title_KAI_UsedHarness: The Artisans of Megaira
+MSQID_Detail_KAI_UsedHarness: Ahh, my carriage is ruined! Only the craftsmen in\nMegaira will have the axle I need to get it going\nagain. Hey, boy, could you buy one for me? As a\nthank-you, I'll give you access to using {LowercaseNextLetter}Carriages!
+MSQID_Comp_KAI_UsedHarness: You really went all the way to Megaira?! Huh... I\nunderestimated you! You may be small, but I have a\nfeeling you're more capable than most adults! As\npromised, you'll now have access to carriages.
+MSQID_Goal_KAI_UsedHarness: Deliver the following:
+MSQID_Client_KAI_UsedHarness: Carriage Driver
+MSQID_Reward_Menu_KAI_UsedHarness: Gain access to {Lowercase}Carriages.
+MSQID_Reward_Result_KAI_UsedHarness: You can now use {Lowercase}Carriages.
+MSQID_Title_KAI_MemoriesTreasure: Hidden Memories
+MSQID_Detail_KAI_MemoriesTreasure: When I served as a soldier at the fort to the north, I'd\nwhittle a wooden doll between missions. I ended up\nstashing it in a gap of stone in the walls around the\nfort. Hmm... Could you see if it's still there?
+MSQID_Comp_KAI_MemoriesTreasure: Y-you found my statue?! My, I can hardly believe it!\nYou have no idea what it means to hold it again. See,\nI worshipped Jurah, and looking at this statue made\nmy work bearable... Thank you.
+MSQID_Goal_KAI_MemoriesTreasure: Deliver the following:
+MSQID_Client_KAI_MemoriesTreasure: Old Former Soldier
+MSQID_Title_KAI_LargeBouquet: A Bouquet of Eternal Love
+MSQID_Detail_KAI_LargeBouquet: My wife's birthday is coming up and I'd like to get\nher a bouquet of her favorite flowers. You seem to\nhave the energy for it! Could you do an old man a\nfavor and collect some for me?
+MSQID_Comp_KAI_LargeBouquet: Thank you for gathering these flowers. With these, I\ncan make her final resting place as beautiful as she\nwas. I try to bring flowers every year for her\nbirthday. And... I hope I get to for as long as I live.
+MSQID_Goal_KAI_LargeBouquet: Deliver the following:
+MSQID_Client_KAI_LargeBouquet: Old Husband
+MSQID_Title_KAI_LikePegasus: A Flying Steed
+MSQID_Detail_KAI_LikePegasus: I came all the way to the imperial capital thinking a\n{LowercaseNextLetter}Pegasus would make a pretty cool steed! But just my\nluck—pegasi aren't even sold here! If you can get me\na wild pegasus, I'll reward you, no problem!
+MSQID_Comp_KAI_LikePegasus: Huh?! The pegasus won't let me ride it because I'm a\nguy? Well, I didn't see this coming, but I guess I\nwouldn't want some guy climbing my back either.\nI'll approach it as a friend, then, not a steed.
+MSQID_Goal_KAI_LikePegasus: Deliver the following:
+MSQID_Client_KAI_LikePegasus: Pegasus-Seeking Mercenary
+MSQID_Title_KAI_BigAndSmall: Fish Are Gross
+MSQID_Detail_KAI_BigAndSmall: My mom's too sick to get out of bed, and I wanna\nmake her favorite seafood dish to help her feel\nbetter, but touching fresh fish really grosses me\nout. Can you help me?
+MSQID_Comp_KAI_BigAndSmall: Thank you for the fish! This oughta cheer Mom up!\nNow...how am I supposed to cook this without\ntouching it? Oh, I know! I'll wrap it up in noodle\ndough with some herbs then steam it.
+MSQID_Goal_KAI_BigAndSmall: Deliver the following:
+MSQID_Client_KAI_BigAndSmall: Child Who Wants a Fish
+MSQID_Title_KAI_AdultSituation: Trouble at the Gate
+MSQID_Detail_KAI_AdultSituation: There's some nasty people blocking the road at\nHugo Stronghold. I wish someone would chase\nthem away. I need to get through!
+MSQID_Comp_KAI_AdultSituation: They were thieves?! I swear, people today... Well,\nthank you for your help getting rid of them. Now I\ncan finally get to Castalia!
+MSQID_Goal_KAI_AdultSituation: Defeat the Ainja Scoundrels.
+MSQID_Client_KAI_AdultSituation: Traveler from Castalia
+MSQID_Reward_Menu_KAI_AdultSituation: Hugo Stronghold becomes passable.
+MSQID_Title_KAI_NoEntry: Beasts Blocking the Path Home
+MSQID_Detail_KAI_NoEntry: I came from Idyia on business, but now that I\nwant to head home, there's wild beasts blocking\nthe road. Could you please help me by getting rid\nof those terrible beasts?
+MSQID_Comp_KAI_NoEntry: Thank you for clearing out the wild beasts! Now I\ncan finally get home and back to my shop. By the\nway, the area to the east of Libertas Stronghold is \nsomewhere I think you'd find interesting to visit!
+MSQID_Goal_KAI_NoEntry: Defeat Unmoving Wings.
+MSQID_Client_KAI_NoEntry: Idyian Merchant
+MSQID_Reward_Menu_KAI_NoEntry: Libertas Stronghold becomes passable.
+MSQID_Title_KAI_BattlePest: Helping a Bug Hater
+MSQID_Detail_KAI_BattlePest: An infestation of {LowercaseNextLetter}Sandbaels on the Klytius plains has\nput people in danger! I'd do something, but I'm too\ncreeped out by bugs. Please exterminate the icky\nthings and collect the {Lowercase}Sandbael Tails{NormalCase} for me?
+MSQID_Comp_KAI_BattlePest: You exterminated the {LowercaseNextLetter}Sandbaels! I'm sorry, I know\nyou probably like creepy giant bugs, and I feel guilty\nthat I asked you to kill them. But you saved so many\nlives! Probably mine too! Thank you.
+MSQID_Goal_KAI_BattlePest: Deliver the following:
+MSQID_Client_KAI_BattlePest: Bug-Hating Soldier
+MSQID_Title_KAI_DreamHome: Cleaning an Abandoned House
+MSQID_Detail_KAI_DreamHome: The owner of the {Lowercase}Forsaken Lakehouse{NormalCase} on the \nsouth side of Lake Baal wants to put it up for\nauction. However, it has now become a home\nfor wild beasts. Can someone get rid of them?
+MSQID_Comp_KAI_DreamHome: Actually, I'm the owner of that abandoned house.\nI used to keep beasts, but one day I forgot to lock\nthe cage and, well, here we are. But they're gone\nnow, thanks to you!
+MSQID_Goal_KAI_DreamHome: Defeat the wild beasts in the ruins.
+MSQID_Client_KAI_DreamHome: Abandoned-Real-Estate Enthusiast
+MSQID_Title_KAI_AnnoyingResident: Brawlers of the Plains
+MSQID_Detail_KAI_AnnoyingResident: I need someone to deal with the rampaging thieves\non the Bran plains in Idyia. They might let their\nguard down if they're up against children. But if it\nlooks dangerous, don't be a hero. Run!
+MSQID_Comp_KAI_AnnoyingResident: What?! You beat those guys?! That's amazing. Who\nare you?! Ribeira Winds? Hey, I've heard of you!\nCan I shake your hand?
+MSQID_Goal_KAI_AnnoyingResident: Defeat the {Lowercase}Snobbish Crooks.
+MSQID_Client_KAI_AnnoyingResident: Vigilant Soldier
+MSQID_Title_KAI_DeadPeace: Bringing Peace
+MSQID_Detail_KAI_DeadPeace: The amount of risen dead in the Mulciber\nMarshlands has been increasing recently... They must\nbe harboring some deep grudge against this world.\nIf only someone would lay those souls to rest...
+MSQID_Comp_KAI_DeadPeace: You've done it! Those vengeful souls can sleep\npeacefully for now. With travelers free to pass there\nonce more, all that's left is to offer you my thanks.
+MSQID_Goal_KAI_DeadPeace: Defeat the Underworld Raiders.
+MSQID_Client_KAI_DeadPeace: Praying Priest
+MSQID_Title_KAI_DragonValley: The Mystery of Headsman's Rock
+MSQID_Detail_KAI_DragonValley: Ever heard of Headsman's Rock? Soldiers passing\nthrough say there's an enormous shadow guarding\nthe place! It's way too far away for me to see for\nmyself, but I wonder if the rumor's true.
+MSQID_Comp_KAI_DragonValley: So it was a necrodragon wandering about, was it?\nPerhaps it was the sheer dread of the place that drew\nit there. Now I'm curious what other creatures are\nout there.
+MSQID_Goal_KAI_DragonValley: Defeat the {Lowercase}Necrodragon.
+MSQID_Client_KAI_DragonValley: Temple Soldier
+MSQID_Title_KAI_Practice1: Special Request from Pop
+MSQID_Detail_KAI_Practice1: I'd appreciate it if you'd pick a certain flower for me.\nI'll tell you where it blooms, but watch out for wild\nanimals along the way. If they eat you, that'll be the\nend of your lessons!
+MSQID_Comp_KAI_Practice1: Oh, smell that! These are your mother's favorite\nflowers. It's pretty bleak in this cell, but this smell\nreminds me of better times. No, this wasn't just an\nerrand. It was training! Training!
+MSQID_Goal_KAI_Practice1: Deliver the following:
+MSQID_Client_KAI_Practice1: Castor
+MSQID_Title_KAI_Practice2: A Special Request from Mom
+MSQID_Detail_KAI_Practice2: If you go to the main hall of Fortuna's temple and\ndefeat the {Lowercase}Temple Soldiers{NormalCase} there, you'll be eligible \nto take a {Lowercase}Certification Exam{NormalCase} for a new class. Oh, Cai,\nI'm sure you can do it! Good luck!
+MSQID_Comp_KAI_Practice2: Cai! Congratulations! Now you can take the exam\nfor a new class. That should come in handy in the\nHeroic Games! Just don't push yourself too hard!
+MSQID_Goal_KAI_Practice2: Defeat the {Lowercase}Temple Soldiers.
+MSQID_Client_KAI_Practice2: Aurora
+MSQID_Title_KAI_Practice3: The White-Maned Demon's Request
+MSQID_Detail_KAI_Practice3: You'd be surprised how many rumors reach the\narena. I hear thieves are making a base out of the\nGalen Fort Ruins—they might make good training\nopponents. Go defeat them, and I'll reward you.
+MSQID_Comp_KAI_Practice3: You defeated them. Well done. They won't be\ncausing trouble for the locals anymore. It's just one\nbattle, but anything we can do to help people in\nneed is worthwhile. Here's your reward.
+MSQID_Goal_KAI_Practice3: Defeat the thieves.
+MSQID_Client_KAI_Practice3: Bertrand
+MSQID_Title_KAI_OrniuGroup: Request to Capture Orniuses
+MSQID_Detail_KAI_OrniuGroup: You know those birds, the big ones that can run fast\nand jump over walls? That's an {LowercaseNextLetter}Ornius! I really need\nto get hold of two. Think you can catch me a pair?\nI'll give you a reward if you do!
+MSQID_Comp_KAI_OrniuGroup: My girlfriend's dad doesn't want us getting married,\nso he's locked her up inside their mansion!\nBut I'll never give up on our love! I'm riding these\n{LowercaseNextLetter}Orniuses to rescue her so we can elope!
+MSQID_Goal_KAI_OrniuGroup: Deliver the following:
+MSQID_Client_KAI_OrniuGroup: Lovesick Man
+MSQID_Title_KAI_OrderVegetables1: Vegetables for Saramis Guests
+MSQID_Detail_KAI_OrderVegetables1: A ship carrying produce for the Saramis guesthouse\nhas sunk and I need help. Can you bring me a total\nof 30 ingredients? Specifically {Lowercase}Coffee Berries{NormalCase},\n{LowercaseNextLetter}Zang, and {LowercaseNextLetter}Pongo? Any amount of each is fine.
+MSQID_Comp_KAI_OrderVegetables1: I told the Saramis folks what was going on, and they\nsaid they understand and would wait. After all the\nstories I heard about them, it was quite a surprise!\nI shouldn't trust rumors... Just good kids like you!
+MSQID_Goal_KAI_OrderVegetables1: Deliver the following:
+MSQID_Client_KAI_OrderVegetables1: Vegetable Merchant
+MSQID_Title_KAI_OrderVegetables2: Vegetables for Arago Guests
+MSQID_Detail_KAI_OrderVegetables2: The Arago guesthouse needs vegetables, but my\nstock is damaged! Can you bring me replacement\ningredients? I need {LowercaseNextLetter}Melara, {LowercaseNextLetter}Shaktoh, and {LowercaseNextLetter}Usamos.\nAny amount of each is fine, as long as it's 30 in total.
+MSQID_Comp_KAI_OrderVegetables2: I've heard scary things about that Arago king. I bet\nI'd have been killed if the party was canceled. Haha,\nI was just about ready to write my will! Thank you!
+MSQID_Goal_KAI_OrderVegetables2: Deliver the following:
+MSQID_Client_KAI_OrderVegetables2: High-Quality-Food Merchant
+MSQID_Title_KAI_OrderVegetables3: Vegetables for the Arena Basement
+MSQID_Detail_KAI_OrderVegetables3: The vegetables in the arena basement have been\nchewed on by rats and covered in feces. Can you get\nme a total of 30 ingredients? I need {LowercaseNextLetter}Cocominj, oda\nmonja, and {Lowercase}Jin Ba Jiao{NormalCase}. Any amount of each is fine.
+MSQID_Comp_KAI_OrderVegetables3: You did a great job gathering these! Your parents\nmust really appreciate all your help in the fields.\nThey're locked up? Ha! I almost believed you. I'm off\nto deliver these while they're still fresh. Thanks!
+MSQID_Goal_KAI_OrderVegetables3: Deliver the following:
+MSQID_Client_KAI_OrderVegetables3: Fresh-Vegetable Merchant
+MSQID_Title_DIT_Challenge1: Dread Warrior Challenge: Borges
+MSQID_Detail_DIT_Challenge1: Blood...how I crave it! Sweet blood, pulsing from the\nfoes whose heads I sssplit, is the most delicious. It is\nmy strength! And I will taste yoursss! Let us duel!
+MSQID_Comp_DIT_Challenge1: Blood...is all I need. Even the foul blood that runs\nfrom my defeated body has its sssavor... You\ndessserve to learn my technique. Use it to tassste the\nblood of your foes!
+MSQID_Goal_DIT_Challenge1: Defeat Borges.
+MSQID_Client_DIT_Challenge1: Bloodsucker Borges
+MSQID_Title_DIT_Challenge2: Dread Warrior Challenge: Aguirre
+MSQID_Detail_DIT_Challenge2: Nothing is crueler than starvation. Took my whole\nfamily, it did. So I devised a technique to drop birds\nright out of the sky, so I could eat 'em. They're fast.\nFaster than men. Let's see how fast you are.
+MSQID_Comp_DIT_Challenge2: Birds are arrogant, wouldn't you say? Always looking\ndown on us. But maybe I'm no different. If you want\nto try my technique, do as you please.
+MSQID_Goal_DIT_Challenge2: Defeat Aguirre.
+MSQID_Client_DIT_Challenge2: Hawk-Killer Aguirre
+MSQID_Title_DIT_Challenge3: Dread Warrior Challenge: Sepente
+MSQID_Detail_DIT_Challenge3: I usually eke out a living doing other people's dirty\nwork. But today I'm challenging you just because I\nwant to test my mettle. Sepente strikes twice, but is\nnever struck—that's what they say about me.
+MSQID_Comp_DIT_Challenge3: Some snakes can swim, you see. They glide across\nthe water and strike their prey with precision. I came\nup with this technique by observing that. Use it well.
+MSQID_Goal_DIT_Challenge3: Defeat Sepente.
+MSQID_Client_DIT_Challenge3: Sepente, the Amphisbaena
+MSQID_Title_DIT_Challenge4: Dread Warrior Challenge: Camilo
+MSQID_Detail_DIT_Challenge4: Fighting is life...and the greater the foe, the greater\nthe life! I have honed my sword skill to master the\nart of fighting giants. Face me and I will show you!
+MSQID_Comp_DIT_Challenge4: Ah...you bested me. As strong as a giant, you are.\nStill, the fight truly made me feel alive, so I'll teach\nyou my technique. I hope to face you again!
+MSQID_Goal_DIT_Challenge4: Defeat Camilo.
+MSQID_Client_DIT_Challenge4: Giant-Hunter Camilo
+MSQID_Title_DIT_Challenge5: Dread Warrior Challenge: Il-Lara
+MSQID_Detail_DIT_Challenge5: Sturdy armor, a well-honed spear, and luck. These\nthree things have served me as I stride across the\nworld's battlefields. Yet I tire of fighting the weak...\nIndulge me!
+MSQID_Comp_DIT_Challenge5: My armor and spear were no match for your blade,\nbut luck was with me, because I finally tasted fear\nwhen we fought. Please, use my technique as\nyou will.
+MSQID_Goal_DIT_Challenge5: Defeat Il-Lara.
+MSQID_Client_DIT_Challenge5: Il-Lara, the Piercer
+MSQID_Title_DIT_Challenge6: Dread Warrior Challenge: Cabaye
+MSQID_Detail_DIT_Challenge6: Some say the critical strikes of myrmidons make\nthem the truest of warriors. Bah! This is no longer\nthe era of legends. Cavalry is far superior in our\nmodern age. Allow me to demonstrate!
+MSQID_Comp_DIT_Challenge6: There is no need to declare the truest of warriors...is\nthat what you think? You have a point. My father\nwas a myrmidon in his day, and strong too. But\nsomeone else was stronger, or he'd have lived.
+MSQID_Goal_DIT_Challenge6: Defeat Cabaye.
+MSQID_Client_DIT_Challenge6: Cabaye, the Slashing Blur
+MSQID_Title_DIT_Challenge7: Dread Warrior Challenge: Damien
+MSQID_Detail_DIT_Challenge7: The simplicity of battle is its beauty. In its essence,\nyou need only your shot to hit, and your opponent's\nto miss. Mine will pierce your brow from beyond the\nhorizon. Accept my simple, beautiful challenge.
+MSQID_Comp_DIT_Challenge7: What makes something beautiful? Its fragility. My\nbeauty was shattered by you, yet it remains beautiful.\nI see that you don't understand. It doesn't matter.\nI will teach you my beautiful technique anyway.
+MSQID_Goal_DIT_Challenge7: Defeat Damien.
+MSQID_Client_DIT_Challenge7: Sky-Shot Damien
+MSQID_Title_DIT_Challenge8: Dread Warrior Challenge: Berenguela
+MSQID_Detail_DIT_Challenge8: Fiends. I detest them. Magic too. Those who are\ndriven to battle are in their thrall. My fists are\nrighteous purifiers of the world. Come and let me\npurify you too.
+MSQID_Comp_DIT_Challenge8: That which is holy is sublime. The world must be\nmade pure. I seek to exorcise Dagda of all fiends.\nYet your sword, with its dark magic, is somehow\npure too. I am conflicted. Yet I will teach you.
+MSQID_Goal_DIT_Challenge8: Defeat Berenguela.
+MSQID_Client_DIT_Challenge8: Holy Fist Berenguela
+MSQID_Title_DIT_Challenge9: Dread Warrior Challenge: Oko
+MSQID_Detail_DIT_Challenge9: I yearn to slay a god. They live long, but still—it is\njust a life, and can be cut short. I believe my blade\ntechnique would scatter their souls. Yours too, just\nas easily. Shall we test it?
+MSQID_Comp_DIT_Challenge9: As a child I was left at a {Lowercase}Sandworm Nest{NormalCase} to die.\nYet I found a rusted blade and clung to it. Do you\nknow what happened? I lived. No god saved me; it\nwas the blade. Are swords stronger than gods?
+MSQID_Goal_DIT_Challenge9: Defeat Oko.
+MSQID_Client_DIT_Challenge9: Devastator Oko
+MSQID_Title_SEO_Procurement1: Send Supplies: Caltrop Flowers
+MSQID_Detail_SEO_Procurement1: We do what we can to brace for the Mosa threat in\nYour Majesty's absence. Might I ask you to gather\n{Lowercase}Caltrop Flower{NormalCase}s for the children who will shoulder\nthe future? If memory serves, they grow in Amalthea.
+MSQID_Comp_SEO_Procurement1: Thank you, Your Majesty! The children were moved\nby your kindness. Your considerate gesture will\nbolster the soldiers' morale as well. I shall continue\nto faithfully manage our kingdom's protection.
+MSQID_Goal_SEO_Procurement1: Deliver the following:
+MSQID_Client_SEO_Procurement1: Kumos
+MSQID_Title_SEO_Procurement2: Send Supplies: Black-Sand Steel
+MSQID_Detail_SEO_Procurement2: Your Majesty, our border patrols suffer from a lack of\n{Lowercase}Black-Sand Steel{NormalCase}. I have heard it can be mined in\nAmalthean caves and hoped you might be able to\nsend some our way. Thank you for considering us.
+MSQID_Comp_SEO_Procurement2: We received your gift of {Lowercase}Black-Sand Steel{NormalCase}, Queen\nTheodora. How gracious you are to the common\npeople! Trust in us to repay your generosity by\ndefending the homeland in your absence!
+MSQID_Goal_SEO_Procurement2: Deliver the following:
+MSQID_Client_SEO_Procurement2: Border Patrolman
+MSQID_Title_SEO_Procurement3: Send Supplies: Thry Fruit
+MSQID_Detail_SEO_Procurement3: I'm a provisions officer who packs meals for the\nsoldiers, and I've found including {Lowercase}Thry Fruit{NormalCase} in our\nrations helps with morale. I hear it can be harvested\nin Amalthea, so can you procure some for us?
+MSQID_Comp_SEO_Procurement3: Thank you for granting our request. With Your\nMajesty's help, we can provide delicious, long-lasting\nprovisions. Our early efforts are already bearing\nfruit, no pun intended. Leave the home front to us!
+MSQID_Goal_SEO_Procurement3: Deliver the following:
+MSQID_Client_SEO_Procurement3: Rations Development Officer
+MSQID_Title_SEO_Procurement4: Send Supplies: White Trout
+MSQID_Detail_SEO_Procurement4: Your Majesty, it's an emergency! Could you please\nsend us {Lowercase}White Trout{NormalCase} to use as preserved food? Yes,\nit is a common fish here in Saramis, but sea beasts\nhave lately been capsizing our fishing boats.
+MSQID_Comp_SEO_Procurement4: A thousand thanks, Queen Theodora! Our supply of\nfood should now see us through any emergency that\nmay crop up. We'll work with the soldiers to thin the\nranks of sea beasts and keep Saramis's waters safe!
+MSQID_Goal_SEO_Procurement4: Deliver the following:
+MSQID_Client_SEO_Procurement4: Stockpile Clerk
+MSQID_Title_SEO_Procurement5: Send Supplies: Steelfish
+MSQID_Detail_SEO_Procurement5: It's an honor to have our words conveyed directly to\nYour Majesty. If it isn't much trouble, I'd appreciate\nyou sending {LowercaseNextLetter}Steelfish to the front lines. They're\nnative to the southern Danann Sea, near Megaira.
+MSQID_Comp_SEO_Procurement5: Your thoughtfulness is too much for this old woman.\nThanks to Your Majesty, I got to deliver a taste of\nhome to the soldiers. I'll keep working in the kitchens\nto make hearty meals for our fine warriors.
+MSQID_Goal_SEO_Procurement5: Deliver the following:
+MSQID_Client_SEO_Procurement5: Benetnasch Woman
+MSQID_Title_SEO_Procurement6: Send Supplies: Ladon Loach
+MSQID_Detail_SEO_Procurement6: I want to dry Ladon loaches, sell them, and use the\nfunds to buy high-quality weapons for the soldiers\nwho saved my life. Can you help me make this\nhappen, Your Majesty?
+MSQID_Comp_SEO_Procurement6: Thank you! I bought up some good weapons thanks\nto the quality fish you sent. The soldiers were\nthrilled, and I like to think I did my modest part to\nraise the army's morale.
+MSQID_Goal_SEO_Procurement6: Deliver the following:
+MSQID_Client_SEO_Procurement6: Megaira Merchant
+MSQID_Title_SEO_Procurement7: Send Supplies: Roca
+MSQID_Detail_SEO_Procurement7: It's like a dream to convey my wish directly to you,\nmy queen! Are you aware of vegetables called {LowercaseNextLetter}Roca?\nMy little sister's squad loves them, so I want to treat\nthem before they head out to fight the Mosa.
+MSQID_Comp_SEO_Procurement7: In hindsight, I realize how rude it was to bother Your\nMajesty with my request. But your generosity means\nthat my sister's squad is in high spirits, and stands\nready to scatter the Mosa in their next battle!
+MSQID_Goal_SEO_Procurement7: Deliver the following:
+MSQID_Client_SEO_Procurement7: Concerned Sibling
+MSQID_Title_SEO_Procurement8: Send Supplies: Kothar Gar
+MSQID_Detail_SEO_Procurement8: I operate a cafeteria in the royal capital. I'd like to\nserve some Kothar gar for the benefit of our daily\npatrons. Sorry to trouble you, but is this something\nyou could help with?
+MSQID_Comp_SEO_Procurement8: Guess what, Your Majesty! A merchant who deals in\narmor liked my dish so much that they're willing to\nsell wholesale to soldiers at a discount. Who knew I\nwas contributing to my country? Thank you so much!
+MSQID_Goal_SEO_Procurement8: Deliver the following:
+MSQID_Client_SEO_Procurement8: Megaira Restaurateur
+MSQID_Title_SEO_Procurement9: Send Supplies: Desert Millet
+MSQID_Detail_SEO_Procurement9: Hi, Queen Theodora. My daddy is away keeping me\nand everyone safe from the scary Mosa. He likes to\neat {Lowercase}Desert Millet{NormalCase}. Can you give me lots to feed him\nwith? Thank you.
+MSQID_Comp_SEO_Procurement9: I apologize on behalf of my son. He surprised me\nwith baked millet treats, which I promptly shared\nwith my comrades in arms. All we soldiers owe much\nto Your Majesty's kindness. A thousand thanks!
+MSQID_Goal_SEO_Procurement9: Deliver the following:
+MSQID_Client_SEO_Procurement9: Parent and Child from Saramis
+MSQID_Title_SEO_Procurement10: Send Supplies: Venomstone
+MSQID_Detail_SEO_Procurement10: Queen of Saramis, I have a request as chief of one of\nthe forest peoples. We designed a weapon around\n{LowercaseNextLetter}Venomstone, but we need more in order for it to see\nwider use. Might you help us protect our forests?
+MSQID_Comp_SEO_Procurement10: I thank you for the {LowercaseNextLetter}Venomstone you provided to the\nforest peoples. We instructed your soldiers in crafting\nthe weapon. Some may call it underhanded, but war\nknows no fairness. This will help bring about peace.
+MSQID_Goal_SEO_Procurement10: Deliver the following:
+MSQID_Client_SEO_Procurement10: Forest Chieftain
+MSQID_Title_SEO_Procurement11: Send Supplies: Lir Fish
+MSQID_Detail_SEO_Procurement11: I received a strange request from blacksmiths in the\nroyal capital. They asked you to gather Lir fish, but\nstated that freshness is no object. I know not their\nintentions for the fish, but can you come to our aid?
+MSQID_Comp_SEO_Procurement11: I received a report from the head blacksmith. They\nhave crafted small self-defense knives using the fangs\nof the Lir fish. They seem confident that their sharp\nteeth will deal vicious blows to our enemies.
+MSQID_Goal_SEO_Procurement11: Deliver the following:
+MSQID_Client_SEO_Procurement11: Kumos
+MSQID_Title_SEO_Procurement12: Send Supplies: Sea-Star Stone
+MSQID_Detail_SEO_Procurement12: Queen Theodora, do you know of {Lowercase}Sea-Star Stone{NormalCase}s?\nThe seafarers of Saramis believe they contain the\nsea's power. I want to decorate weapons with them\nto encourage the soldiers. Please send me all you can!
+MSQID_Comp_SEO_Procurement12: You got me the stones! Thanks for that. I used what\nwas left over to craft some charms. That way it\nwasn't just soldiers who benefited, but the common\nfolk too. We owe it all to Your Majesty!
+MSQID_Goal_SEO_Procurement12: Deliver the following:
+MSQID_Client_SEO_Procurement12: Artisan Blacksmith
+MSQID_Title_SEO_Procurement13: Send Supplies: Melara
+MSQID_Detail_SEO_Procurement13: The other day, someone in Megaira ate {LowercaseNextLetter}Melara and\nfainted. The doctor said it was due to {LowercaseNextLetter}Melara's\nunique properties. I wondered if we could somehow\nweaponize this. Could Your Majesty send us some?
+MSQID_Comp_SEO_Procurement13: Your Majesty! I extracted a compound from the\n{LowercaseNextLetter}Melara and made a weapon that can pacify even\nrampaging beasts! There are kinks still to be worked\nout, but we think it shows great promise. Thank you!
+MSQID_Goal_SEO_Procurement13: Deliver the following:
+MSQID_Client_SEO_Procurement13: Weapon Researcher
+MSQID_Title_SEO_Procurement14: Send Supplies: Carna Bonito
+MSQID_Detail_SEO_Procurement14: Your Majesty, the other day our soldiers captured a\nMosa spy. Could you send us some {Lowercase}Carna Bonito{NormalCase} as\na reward for the sharp-eyed soldiers? They'd be\ndelighted to receive such recognition from our queen.
+MSQID_Comp_SEO_Procurement14: The proud soldiers who received the {Lowercase}Carna Bonito{NormalCase}\ncried out with joy at your recognition. Some even\nwept. You have my gratitude and theirs. We will\ncontinue to keep an eye out for Mosa infiltrators.
+MSQID_Goal_SEO_Procurement14: Deliver the following:
+MSQID_Client_SEO_Procurement14: Kumos
+MSQID_Title_LED_ShowProvince1_1: Dance for Yaaman
+MSQID_Detail_LED_ShowProvince1_1: The local hunters can't catch anything! We want to\nrevive an old tradition—putting on a festival to pray\nfor abundance. Would someone send a dancer to\nenliven the proceedings?
+MSQID_Comp_LED_ShowProvince1_1: Thanks for coming to our village! We've begun\ncatching game again, no doubt in part because of\nyour invigorating dance. Well...who knows. In any\ncase, thank you!
+MSQID_Goal_LED_ShowProvince1_1: Perform at the destination.
+MSQID_Client_LED_ShowProvince1_1: Yaaman Villager
+MSQID_Title_LED_ShowProvince1_2: Dance for Regia
+MSQID_Detail_LED_ShowProvince1_2: Thanks to the citizen militia, our village is the\npicture of tranquility! Our mayor—usually a stingy\nman—gave us money to celebrate them. So we'd like\na dancer to come perform for us.
+MSQID_Comp_LED_ShowProvince1_2: Thank you! That was wonderful, an even more\njoyous occasion than expected. Everyone was\npleased, the mayor most of all. Perhaps you'll come\ndance for us again soon?
+MSQID_Goal_LED_ShowProvince1_2: Perform at the destination.
+MSQID_Client_LED_ShowProvince1_2: Regia Townsperson
+MSQID_Title_LED_ShowProvince1_3: Dance for Daimōn
+MSQID_Detail_LED_ShowProvince1_3: I'm an elderly person living in this village, and I\nwant to celebrate the recent birth of my beautiful\ngranddaughter. I can't pay much, but would you\nsend a dancer for me?
+MSQID_Comp_LED_ShowProvince1_3: That was spectacular! My dear grandchild had\nnever seen someone dance like that before, and she\nwas squealing with delight. I may not have much\ntime left, but I gave her a day to remember.
+MSQID_Goal_LED_ShowProvince1_3: Perform at the destination.
+MSQID_Client_LED_ShowProvince1_3: Daimōn Elder
+MSQID_Title_LED_ShowProvince2_1: Dance for Callianeira Port
+MSQID_Detail_LED_ShowProvince2_1: I'm a merchant who sails Dagda's eastern seas, and\nin response to the pirates plaguing us, I decided to\ncreate an armored merchant vessel. Would someone\ndance to a heroic melody for the launching ceremony?
+MSQID_Comp_LED_ShowProvince2_1: The launching ceremony was excellent! Enough to\nmake even the Vandahl Trading Company envious!\nHa! With my new armored ship, I'm going to crush\nthose pirates and make an absolute killing.
+MSQID_Goal_LED_ShowProvince2_1: Perform at the destination.
+MSQID_Client_LED_ShowProvince2_1: Callianeira Merchant
+MSQID_Title_LED_ShowProvince2_2: Dance for Raivo Port
+MSQID_Detail_LED_ShowProvince2_2: Rumor is there's a lovely dancer making a name for\nherself in the imperial capital. That's you, isn't it?\nWould you consider coming here to perform for us?\nIt would be a delight!
+MSQID_Comp_LED_ShowProvince2_2: Gods, the rumors got it dead wrong... You were even\nbetter, and lovelier, than I'd been told! I'd better go\nback to the person who told me about you and set\nher straight. Moral is—don't believe rumors!
+MSQID_Goal_LED_ShowProvince2_2: Perform at the destination.
+MSQID_Client_LED_ShowProvince2_2: Raivo Gossip
+MSQID_Title_LED_ShowProvince3_1: Dance for Zoste
+MSQID_Detail_LED_ShowProvince3_1: My hamlet specializes in producing salt, and I have\nan important client coming to discuss a contract.\nI need someone to perform a beautiful dance to make\nsure the deal goes through. Please and thank you!
+MSQID_Comp_LED_ShowProvince3_1: Wanna know how the deal went? Perfectly! Our salt\nis of the highest quality—we never cut corners—and\nI must say, you are as wonderful as our salt! Thanks!
+MSQID_Goal_LED_ShowProvince3_1: Perform at the destination.
+MSQID_Client_LED_ShowProvince3_1: Zoste Salt Merchant
+MSQID_Title_LED_ShowProvince3_2: Dance for Mons
+MSQID_Detail_LED_ShowProvince3_2: Pardon my urgency, but the captain of the guard is\nretiring, and we'd like to send him off with a fabulous\nbanquet. Please come if you can!
+MSQID_Comp_LED_ShowProvince3_2: Thank you for that lovely dance! The captain was\ndelighted, and it inspired the rest of us to fill his\nshoes. We appreciate the visit!
+MSQID_Goal_LED_ShowProvince3_2: Perform at the destination.
+MSQID_Client_LED_ShowProvince3_2: Mons Soldier
+MSQID_Title_LED_ShowProvince3_3: Dance for Alecto
+MSQID_Detail_LED_ShowProvince3_3: A trader at the port overstocked on food and drink.\nHe doesn't want it to go bad, so the generous fellow\nis throwing a banquet. Can't have a banquet without\na dance, right? Come on, we're waiting!
+MSQID_Comp_LED_ShowProvince3_3: Apologies for starting the banquet without you,\nbut at least you made it before the food and drinks\nran out. You were a sight to see! I'll have to make\nsure I'm sober next time I see you...
+MSQID_Goal_LED_ShowProvince3_3: Perform at the destination.
+MSQID_Client_LED_ShowProvince3_3: Alecto Townsperson
+MSQID_Title_LED_ShowProvince4_1: Dance for Barsk Post Town
+MSQID_Detail_LED_ShowProvince4_1: Here at Barsk Post Town, we strive to give every\ntraveler a good meal and a warm bed. And now,\nwe'd like to add a dancer to our accommodations.\nGive us a dance to draw a crowd!
+MSQID_Comp_LED_ShowProvince4_1: My, you really are something! That drove the crowd\ntotally wild. The tavern was thriving, the inn was\npacked with drunk guests—would you consider\ndropping by regularly? Think on it!
+MSQID_Goal_LED_ShowProvince4_1: Perform at the destination.
+MSQID_Client_LED_ShowProvince4_1: Barsk Inn
+MSQID_Title_LED_ShowProvince5_1: Dance for Orens
+MSQID_Detail_LED_ShowProvince5_1: Used to be a time when our town was bustling—we\nhad travelers here every day. Now our only visitors\nare sand boars laying waste to our fields... Please,\nbring some life to the town with your flashy dancing.
+MSQID_Comp_LED_ShowProvince5_1: Your dancing is staggering! That brought joy to the\nadults and children alike. I wish it brought some\nmore people to town...but, well, that's not so simple.
+MSQID_Goal_LED_ShowProvince5_1: Perform at the destination.
+MSQID_Client_LED_ShowProvince5_1: Orens Townsperson
+MSQID_Title_LED_ShowProvince5_2: Dance for the Port of Pandora
+MSQID_Detail_LED_ShowProvince5_2: Our port town does thriving trade with Fódlan. I hear\nthere's wonderful art there, and I'd like to bring the\nwinds of art to our town as well. Would you dance\nhere to inspire us all?
+MSQID_Comp_LED_ShowProvince5_2: I had it wrong... You brought not just a wind, but a\nSTORM of art! The heat from your fiery performance\nis still radiating through town... Incredible.
+MSQID_Goal_LED_ShowProvince5_2: Perform at the destination.
+MSQID_Client_LED_ShowProvince5_2: Pandora Trader
+MSQID_Title_LED_ShowProvince5_3: Dance for Mahón Castle Town
+MSQID_Detail_LED_ShowProvince5_3: We've got a lot of aloof people here—they all stick to\nthemselves and don't socialize. It feels like there's a\nlack of—how to put it—unity? I want to hold a\nbanquet to bring us all together, and I need a dancer!
+MSQID_Comp_LED_ShowProvince5_3: It was a fortune teller who told me to call in a\ndancer, and she was right on the money! Everyone\nwas a little awkward, sure, but the banquet was still\na great time. Please visit again soon!
+MSQID_Goal_LED_ShowProvince5_3: Perform at the destination.
+MSQID_Client_LED_ShowProvince5_3: Mahón Unifier
+MSQID_Title_LED_ShowProvince5_4: Dance for Twalinn
+MSQID_Detail_LED_ShowProvince5_4: Twalinn is a remote village, but travelers come from\nfar and wide for our local specialties. If you don't\nmind the desert crossing, would you come and dance\nfor all of our visitors?
+MSQID_Comp_LED_ShowProvince5_4: You traveled for a noble cause, and the performance\nwas spectacular. It also means our local specialties\nsold even better than usual! Hohoho. Please come\nback sometime!
+MSQID_Goal_LED_ShowProvince5_4: Perform at the destination.
+MSQID_Client_LED_ShowProvince5_4: Twalinn Elder
+MSQID_Title_LED_ShowProvince5_5: Dance for Breston
+MSQID_Detail_LED_ShowProvince5_5: The mightiest warriors from across the country\ngather in our capital to advance their careers or to\nprove themselves in our arena. They're brave—but\ncombative. Would you calm them with a dance?
+MSQID_Comp_LED_ShowProvince5_5: Great job taking out that rascal who tried to get up\non the stage! Apologies for the security hiccup, but\nI'll say that you really impressed everyone. We'll be\nwatching your career with eagerness.
+MSQID_Goal_LED_ShowProvince5_5: Perform at the destination.
+MSQID_Client_LED_ShowProvince5_5: Brezarant Soldier
+MSQID_Title_LED_ShowProvince5_6: Dance for Whill
+MSQID_Detail_LED_ShowProvince5_6: Any beast that attacks my village, I kill. I have to,\nto protect the people—but I still wanted to find a way\nto honor the lives I've taken. The memorial is scant\nmore than a pile of stones, but would you dance at it?
+MSQID_Comp_LED_ShowProvince5_6: I didn't see it, but my son claims he witnessed a\nsmall plume of smoke rise from the memorial. Did\nyou notice that? In any case, it was a lovely dance,\nand I'm glad I asked you to perform.
+MSQID_Goal_LED_ShowProvince5_6: Perform at the destination.
+MSQID_Client_LED_ShowProvince5_6: Whill Villager
+MSQID_Title_LED_ShowProvince6_1: Dance for Osiris
+MSQID_Detail_LED_ShowProvince6_1: The well my ancestors dug has dried up... A guy\nwho tells fortunes said that water will spring up if\na beautiful dancer from the capital performs here.\nCan I ask you to come?
+MSQID_Comp_LED_ShowProvince6_1: I don't know how it's possible, but after your dance,\nthe ground shook and water sprang up! I'm shocked!\nAnyway, the village owes you, and we'd love to host\nyou here again.
+MSQID_Goal_LED_ShowProvince6_1: Perform at the destination.
+MSQID_Client_LED_ShowProvince6_1: Osiris Villager
+MSQID_Title_LED_ShowProvince6_2: Dance for Niiza Port
+MSQID_Detail_LED_ShowProvince6_2: I'm hosting my trading partner, an important client\nfrom Brigid. We have the best in food and drink,\nbut...the dancers here aren't exactly world-class.\nIs there one in the capital who can help me?
+MSQID_Comp_LED_ShowProvince6_2: What a great turnout! Thanks! I was worried the\ncultural differences might get in the way, but I guess\ngreat art transcends such things. With that, I'm\nconfident we'll have a strong business relationship.
+MSQID_Goal_LED_ShowProvince6_2: Perform at the destination.
+MSQID_Client_LED_ShowProvince6_2: Niiza Trader
+MSQID_Title_LED_ShowProvince7_1: Dance for Aguiño
+MSQID_Detail_LED_ShowProvince7_1: Pilgrims to Aurora's temple stop by our village.\nI so admire their devotion in spite of the dangerous\njourney, and to honor that, I'd like to bless them with\na dance and a prayer. Please send us a dancer.
+MSQID_Comp_LED_ShowProvince7_1: The pilgrims making the journey here have so many\nworries, so much suffering, and so much sorrow... But\nyour dance made them smile for a moment. Truly\nwonderful. I'm glad I asked you for help.
+MSQID_Goal_LED_ShowProvince7_1: Perform at the destination.
+MSQID_Client_LED_ShowProvince7_1: Aguiño Priest
+MSQID_Title_LED_ShowProvince7_2: Dance for Benetnasch
+MSQID_Detail_LED_ShowProvince7_2: Our village doesn't have much, but we do have a\nbeautiful view of the ocean! We'd like to throw a\nfestival to thank the god of the sea. Could you come\nand perform a dance for us?
+MSQID_Comp_LED_ShowProvince7_2: With that great view of the ocean, that hill made a\nwonderful stage for your dancing! The finest dancer\non the finest stage... How blessed we are.
+MSQID_Goal_LED_ShowProvince7_2: Perform at the destination.
+MSQID_Client_LED_ShowProvince7_2: Benetnasch Villager
+MSQID_Title_LED_ShowBar1: Dance at the Tavern
+MSQID_Detail_LED_ShowBar1: The dancer we hired to perform is injured! Are there\nany skilled dancers out there who can fill in for her?\nI would love to find someone to get on stage.
+MSQID_Comp_LED_ShowBar1: What a wonderful performance! I'm planning to close\nup shop today, but at least you've inspired me to\nkeep striving for success. See you again sometime!
+MSQID_Goal_LED_ShowBar1: Speak to the tavern owner.
+MSQID_Client_LED_ShowBar1: Tavern Owner
+MSQID_Title_LED_ShowBar2: Simple Drink Recipes
+MSQID_Detail_LED_ShowBar2: You've inspired me to put more work into my\ntavern—I'd like to sell new drinks for folks from\nlowtown. Would you bring the ingredients? I'll have\na launch party, and you can dance there!
+MSQID_Comp_LED_ShowBar2: The drinks—and your dancing—were a big hit!\nI guess this tavern's still got some life in it yet.\nPlease, stop by another time—I actually have another\nrequest for you.
+MSQID_Goal_LED_ShowBar2: Deliver the following:
+MSQID_Client_LED_ShowBar2: Tavern Owner
+MSQID_Reward_Menu_LED_ShowBar2: Drinks will become available for exchange.
+MSQID_Reward_Result_LED_ShowBar2: Drinks are now available for exchange.
+MSQID_Title_LED_ShowBar3: Captains' Drink Recipes
+MSQID_Detail_LED_ShowBar3: Between the new drinks and your dancing, this\nplace is doing great! Now, I want to make some\nbeverages that appeal to the merchant captains who\ncome through town. Would you find the ingredients?
+MSQID_Comp_LED_ShowBar3: The captains had nothing but praise for the new\ndrinks—and your performance! They're all asking\nwhen they can see you on stage again, so please let\nme know when you're in the area.
+MSQID_Goal_LED_ShowBar3: Deliver the following:
+MSQID_Client_LED_ShowBar3: Tavern Owner
+MSQID_Reward_Menu_LED_ShowBar3: New drinks will become available for exchange.
+MSQID_Reward_Result_LED_ShowBar3: New drinks are now available for exchange.
+MSQID_Title_LED_ShowBar4: Popular Drink Recipes
+MSQID_Detail_LED_ShowBar4: With the expanded menu and you drawing in so\nmany guests, I've got loads of new customers. Now I\nwant to invite some notable middle-class people.\nWould you give me the ingredients, and a dance?
+MSQID_Comp_LED_ShowBar4: We had so many customers, I had to start turning\nthem away! That's how popular you've made this\nplace... Oh, I could almost cry. Please come back!
+MSQID_Goal_LED_ShowBar4: Deliver the following:
+MSQID_Client_LED_ShowBar4: Tavern Owner
+MSQID_Reward_Menu_LED_ShowBar4: New drinks will become available for exchange.
+MSQID_Reward_Result_LED_ShowBar4: New drinks are now available for exchange.
+MSQID_Title_LED_ShowBar5: Elegant Drink Recipes
+MSQID_Detail_LED_ShowBar5: Word about you—and our drinks!—has spread even\nto hightown. Now, the wealthy and the nobles want\nto come and enjoy the tavern. We've got to make\nsomething that satisfies their palates!
+MSQID_Comp_LED_ShowBar5: I never imagined I'd see the rich and poor together\nin my humble tavern... I'm so glad I didn't close my\ntavern. I owe you everything. Thank you!
+MSQID_Goal_LED_ShowBar5: Deliver the following:
+MSQID_Client_LED_ShowBar5: Tavern Owner
+MSQID_Reward_Menu_LED_ShowBar5: New drinks will become available for exchange.
+MSQID_Reward_Result_LED_ShowBar5: New drinks are now available for exchange.
+MSQID_Title_LED_ShowReconstruction1: Dance for Rebuilt Villages
+MSQID_Detail_LED_ShowReconstruction1: I'd like for you to visit some villages and use your\ndancing to inspire them... Make their lives a little\neasier. Please visit them all after they've been rebuilt.
+MSQID_Comp_LED_ShowReconstruction1: Oh, so you went! I know I was asking a lot of you,\nbut no doubt the people were overjoyed. The world's\nstill in darkness, but you add a little light.
+MSQID_Goal_LED_ShowReconstruction1: Perform at the following locations:
+MSQID_Client_LED_ShowReconstruction1: Tavern Owner
+MSQID_Title_LED_ShowReconstruction2: Dance for Rebuilt Cities
+MSQID_Detail_LED_ShowReconstruction2: It's a bit of a trek, but would you head out to cities in\nthe vassal countries to invigorate people with a\ndance? There are four places I want you to visit once\nthey've been rebuilt.
+MSQID_Comp_LED_ShowReconstruction2: You visited the places I requested, I see. I've gotten\nmessages of gratitude from all four cities. I know you\nhave other matters to attend to, and I thank you for\nyour generosity. The Promised One must be proud.
+MSQID_Goal_LED_ShowReconstruction2: Perform at the following locations:
+MSQID_Client_LED_ShowReconstruction2: Tavern Owner
+MSQID_Title_LED_Dancer: Great Dancer's Successor
+MSQID_Detail_LED_Dancer: I possess the necklace you'll need to become my\nsuccessor, but some ruffians attacked me and\ndamaged it. Would you bring me the materials I need\nfor a repair?
+MSQID_Comp_LED_Dancer: You've acquired the materials! I knew you were a\nworthy successor! Now, take the dancer's necklace.\nAhhh, what a relief to have found someone to take\nmy mantle.
+MSQID_Goal_LED_Dancer: Deliver the following:
+MSQID_Client_LED_Dancer: Vallejo, Pride of Midea
+MSQID_Title_NegotiationPeter: Peter's Request
+MSQID_Detail_NegotiationPeter: There's a food I've always wanted to eat... It's called\n{Lowercase}Rare Ginji{NormalCase}. Heard of it? I guess it bears fruit pretty\nrarely, so it's super hard to come by, but it's\nsupposed to taste amazing.
+MSQID_Comp_NegotiationPeter: Whoa! No way! You found a {Lowercase}Rare Ginji{NormalCase}?! A deal's\na deal, so I'll help you from now on. I look forward\nto working with you.
+MSQID_Goal_NegotiationPeter: Deliver the following:
+MSQID_Client_NegotiationPeter: Peter
+MSQID_Title_NegotiationHurtando: Ultand's Request
+MSQID_Detail_NegotiationHurtando: My mother sent a package of gifts to our family, but\nit was stolen by thieves who have stashed it in the\nruins of a fort. Do you think you could find it for me?
+MSQID_Detail_NegotiationHurtando_DIF: My mother sent a package of gifts to our family, but\nit was stolen by thieves who have stashed it in the\nruins of a fort. Do you think you could find it for me?
+MSQID_Comp_NegotiationHurtando: You are my entire family's hero! We owe you a debt.\nOne I intend to pay. I'm Ultand Serowain, and from\nnow on I'll fight alongside you!
+MSQID_Comp_NegotiationHurtando_DIF: You are my entire family's hero! We owe you a debt.\nOne I intend to pay. I'm Ultand Serowain, and from\nnow on I'll fight alongside you!
+MSQID_Goal_NegotiationHurtando: Deliver the following:
+MSQID_Client_NegotiationHurtando: Ultand
+MSQID_Title_NegotiationEsmeralda: Esmeralda's Request
+MSQID_Detail_NegotiationEsmeralda: Right near my hometown, you'll find Cape Damasen,\nwhere there's a colony of aggressive sea beasts.\nNobody from my village will go near the place, so\nyou'd be doing them a favor if you finished 'em off.
+MSQID_Comp_NegotiationEsmeralda: You got rid of those sea beasts? I didn't expect much,\nbut...you're pretty good, aren't you? My heart is\nSweetie's and only Sweetie's, but I'm happy to lend\nyou a hand in battle. You earned it!
+MSQID_Goal_NegotiationEsmeralda: Defeat the frenzied sea beasts.
+MSQID_Client_NegotiationEsmeralda: Esmeralda
+MSQID_Title_NegotiationScirocco: Sirocco's Request
+MSQID_Detail_NegotiationScirocco: There is a legendary poet I admire, who's said to\nhave a monument dedicated to him at a certain\nlocation. I'd like you to find it and transcribe the\npoem inscribed thereupon.
+MSQID_Detail_NegotiationScirocco_DIF: There is a legendary poet I admire, who's said to\nhave a monument dedicated to him at a certain\nlocation. I'd like you to find it and transcribe the\npoem inscribed thereupon.
+MSQID_Comp_NegotiationScirocco: Yes, this is indeed the legendary poet's work!\nYou have my thanks for finding it—and my\nallegiance, should you want it. Call upon me and\nI will be there swift as a gale.
+MSQID_Comp_NegotiationScirocco_DIF: Yes, this is indeed the legendary poet's work!\nYou have my thanks for finding it—and my\nallegiance, should you want it. Call upon me and\nI will be there swift as a gale.
+MSQID_Goal_NegotiationScirocco: Deliver the following:
+MSQID_Client_NegotiationScirocco: Sirocco
+MSQID_Title_NegotiationOlympia1: Olympia's Request: Scarlet Firedrops
+MSQID_Detail_NegotiationOlympia1: I take great pleasure in a soothing cup of tea.\nShould you wish to win my heart, you must bring\nme the finest tea—a rare brew known as scarlet\nfiredrops!
+MSQID_Comp_NegotiationOlympia1: Ah, you brought me the tea I desired! Indeed, this is\ndoubtless the genuine article. But of course that's\nhardly a difficult task to achieve.
+MSQID_Goal_NegotiationOlympia1: Deliver the following:
+MSQID_Client_NegotiationOlympia1: Olympia
+MSQID_Title_NegotiationOlympia2: Olympia's Request: Aurum Rose
+MSQID_Detail_NegotiationOlympia2: At times, a flower that blooms in harsh environments\nblossoms even more beautifully, such that it exudes\nan aura of divinity. Bring me the {Lowercase}Aurum Rose{NormalCase}, which\nsurvives even in the scorching desert sands.
+MSQID_Detail_NegotiationOlympia2_DIF: At times, a flower that blooms in harsh environments\nblossoms even more beautifully, such that it exudes\nan aura of divinity. Bring me the {Lowercase}Aurum Rose{NormalCase}, which\nsurvives even upon windswept plains.
+MSQID_Comp_NegotiationOlympia2: Such a beautiful color—and that magnificent shape!\nIt's rare to see a bloom this large... I thank you for\ngoing to all that trouble. Thank you for bringing me\nsuch a marvelous item.
+MSQID_Goal_NegotiationOlympia2: Deliver the following:
+MSQID_Client_NegotiationOlympia2: Olympia
+MSQID_Title_NegotiationOlympia3: Olympia's Request: Azure Heart
+MSQID_Detail_NegotiationOlympia3: Bring me an "{Lowercase}Azure Heart{NormalCase}"—a crystal as blue as the\nsea and clear as the sky. It is some distance away,\nbut I'm sure you'll agree it's worth it for yours truly.\nPlease and thank you, dear!
+MSQID_Comp_NegotiationOlympia3: Your determination to woo me is impressive, albeit\nhardly surprising! You'll have no trouble now that\nyou have Olympia Iris by your side. Witness my\nsplendid abilities from a front-row seat!
+MSQID_Goal_NegotiationOlympia3: Deliver the following:
+MSQID_Client_NegotiationOlympia3: Olympia
+MSQID_Title_NegotiationMaxim1: Jester's Request: Bale Lacerators
+MSQID_Detail_NegotiationMaxim1: The Bale Lacerators are a brutal bunch situated in\nthe Dada Plains south of the capital. Go and bleed\n'em for me. Then I'll think about joining you.
+MSQID_Comp_NegotiationMaxim1: You beat the Bale Lacerators? Whew, you're better\nthan I thought...or maybe they just weren't all they\nwere cracked up to be.
+MSQID_Goal_NegotiationMaxim1: Defeat the Bale Lacerators.
+MSQID_Client_NegotiationMaxim1: Jester
+MSQID_Title_NegotiationMaxim2: Jester's Request: Corpse-Gaol Dunanzo
+MSQID_Detail_NegotiationMaxim2: You want me around, you've got to have the stench\nof death on you. Go fight Corpse-Gaol Dunanzo and\nmaybe I'll join your little crew.
+MSQID_Comp_NegotiationMaxim2: What? You wiped out Corpse-Gaol Dunanzo?\nThat's...impressive. You're right to be relieved. But\ndon't get ahead of yourself.
+MSQID_Goal_NegotiationMaxim2: Defeat Corpse-Gaol Dunanzo.
+MSQID_Client_NegotiationMaxim2: Jester
+MSQID_Title_NegotiationMaxim3: Jester's Request: Underworld Wanderers
+MSQID_Detail_NegotiationMaxim3: Go and defeat the Underworld Wanderers at\nWhispering Rock. If you want me to join you, \nthen get going. But I wouldn't. Not if you like\ndrawing breath.
+MSQID_Comp_NegotiationMaxim3: Heh HEH! So, you've crossed a sea of blood,\ntraversed mountains of the dead, peeked into the\nunderworld...but now the real hell begins, because\nyou've got me around.
+MSQID_Goal_NegotiationMaxim3: Defeat the Underworld Wanderers.
+MSQID_Client_NegotiationMaxim3: Jester
+MSQID_Title_NegotiationLourdija: Ludia's Request
+MSQID_Detail_NegotiationLourdija: My father's been pretty concerned about Vandahl\nTrading's new branch, which means it's time for\nsome sneaky spying! Could you gather some info\nabout it at Callianeira Port and report to him?
+MSQID_Detail_NegotiationLourdija_DIF: My father's been pretty concerned about Vandahl\nTrading's new branch, which means it's time for\nsome sneaky spying! Could you gather some info\nabout it at Callianeira Port and report to him?
+MSQID_Comp_NegotiationLourdija: Hey, you're pretty good at this! Maybe we could keep\nhelping each other out? I can stay with the company\nand help you out from the inside if you keep assisting\nme when I need it! Sounds like a done deal to me!
+MSQID_Comp_NegotiationLourdija_DIF: Hey, you're pretty good at this! Maybe we could keep\nhelping each other out? I can stay with the company\nand help you out from the inside if you keep assisting\nme when I need it! Sounds like a done deal to me!
+MSQID_Goal_NegotiationLourdija: Gather information from the people at the port.
+MSQID_Client_NegotiationLourdija: Ludia
+MSQID_Title_NegotiationSeteth: Seteth's Request
+MSQID_Detail_NegotiationSeteth: I heard that a thief leader who ravaged a village is\nwielding a sword I once forged for its defense. I'd be\ngrateful if you could defeat those rogues and then\nbury that weapon where you find them.
+MSQID_Comp_NegotiationSeteth: Ah, so you've defeated the thief leader! You have\nmy thanks. The villagers' spirits can rest easier.\nYou've gained my trust and respect—and so from\nnow on, you can rely on me entirely.
+MSQID_Goal_NegotiationSeteth: Defeat the Dusk-Damned Piccolos.
+MSQID_Client_NegotiationSeteth: Seteth
+MSQID_Title_JuraRequest: Jurah's Request
+MSQID_Detail_JuraRequest: I'd like to have any keepsake from Dagda the Great...\neven a part of his body would do. You may find\nsomething near where he fought while alive.
+MSQID_Comp_JuraRequest: This must be his... Thank you so much. I owe you\na great deal for granting my request.
+MSQID_Goal_JuraRequest: Deliver the following:
+MSQID_Client_JuraRequest: Jurah
+MSQID_Title_MarsRequest: Mars's Request
+MSQID_Detail_MarsRequest: Would you get back my stolen Golden Helm?\nIt happened while I was away, but still, I can't stand\nthe indignity of losing it to some bandit.
+MSQID_Comp_MarsRequest: Don't hold it against me—I just wanted to see the\nPromised One in action, so I put on a show. Anyway,\nI look forward to cooperating with you in the future.
+MSQID_Goal_MarsRequest: Deliver the following:
+MSQID_Client_MarsRequest: Mars
+MSQID_Title_SmirnothRequest: Smyrnos's Request
+MSQID_Detail_SmirnothRequest: I'd like you to put out the flames in the Iapetus\nCavern. If you cast the Fimbulvetr Night spell on\nthem, that should do the trick.
+MSQID_Comp_SmirnothRequest: It looks like you managed to put out the flames\nsafely. Thank you. This has been a great help. That\ncave has been a handy spot for gathering materials\nfor my magic experiments.
+MSQID_Goal_SmirnothRequest: Put out the flames at the destination.
+MSQID_Client_SmirnothRequest: Smyrnos
+MSQID_Title_ClairRequest: Credna's Request
+MSQID_Detail_ClairRequest: Please gather {Lowercase}Desert Sunstone{NormalCase} for me. I found some\nin the Dragonbone Tangle long ago, within the\nChronos Desert. I suspect that you can still gather\nmore there—if you're able to make it to that location.
+MSQID_Comp_ClairRequest: This is exactly what I needed! There's plenty of\npower in these minerals. Good job. Now I can\nrepair the Gate of the Gods immediately.
+MSQID_Goal_ClairRequest: Deliver the following:
+MSQID_Client_ClairRequest: Credna
+MSQID_Title_CaraRequest: Kalla's Request
+MSQID_Detail_CaraRequest: To craft evil-repelling amulets, my temple needs a\nspecial wood with a fragrance the risen dead find\nrepulsive. It's difficult to come by, but if you could,\nplease find some sandalwood.
+MSQID_Comp_CaraRequest: You found some fine, fragrant wood. It may be only\na small comfort, but...something like this can perhaps\ngive the people a little hope.
+MSQID_Goal_CaraRequest: Deliver the following:
+MSQID_Client_CaraRequest: Kalla
+MSQID_Title_AuroraRequest: Aurora's Request
+MSQID_Detail_AuroraRequest: I need your help to obtain the ingredients necessary \nto make medicine. There are shortages everywhere,\nand it may be difficult to obtain some of them,\nso I would greatly appreciate your help.
+MSQID_Comp_AuroraRequest: Oh, Promised One! You found everything I needed!\nThis will help so many people. Thank you, truly.
+MSQID_Goal_AuroraRequest: Deliver the following:
+MSQID_Client_AuroraRequest: Aurora
+MSSID_Detail_Kai: I have a plan to rescue my dad from the dungeon, but\nI need your help. I heard there'll be trouble in the\narena soon. I think we can use that as a distraction to\nget in, then we'll blend in with the crowd to get out.
+MSSID_Comp_Kai: I owe you so much for all your help. We're headed to\nRibeira now, but don't hesitate to call if you need me.\nI'll come help you, no matter what!
+MSSID_Goal_Kai: Speak to Cai to begin the paralogue.
+MSSID_Detail_Ditlih: I have become aware of a hidden underground \nfacility. I would like to investigate these ruins, but \nthere is a considerable degree of risk to life and limb.\nYour assistance in this endeavor is appreciated.
+MSSID_Comp_Ditlih: I have completed my objective. I was correct in\nasking for your aid. Thank you. I believe you have\nimpressed Dietrich too. He may come to your aid\none day.
+MSSID_Goal_Ditlih: Begin the paralogue at the destination.
+MSSID_Detail_Seodola: Some contemptible louts have stolen a stone statue\nfrom Dagsion depicting a brave warrior of Saramis.\nWe are taking action to bring the thieves to justice.\nWould you assist us in defeating them?
+MSSID_Comp_Seodola: I appreciate your aid in this matter. It cheers me to\nknow there are honorable, courageous warriors like\nyou. We owe you a great debt, and I hope a day shall\ncome when we may repay it.
+MSSID_Goal_Seodola: Begin the paralogue at the destination.
+MSSID_Detail_Leda: I must meet with the White-Maned Demon at\nany cost, which means I need to sneak into the\ndungeon where he's kept. But it's well guarded.\nWould you create a diversion for me?
+MSSID_Detail_Leda_DIF: I must meet with the White-Maned Demon at\nany cost, which means I need to sneak into the\ndungeon where he's kept. But it's well guarded.\nWould you create a diversion for me?
+MSSID_Comp_Leda: It's not yet time to kill the White-Maned Demon—\nBertrand. I want him to be trembling with fear for\nthat day. But I know you've gone to a lot of trouble\nfor me, so please, let me know if you need anything.
+MSSID_Comp_Leda_DIF: It's not yet time to kill the White-Maned Demon—\nBertrand. I want him to be trembling with fear for\nthat day. But I know you've gone to a lot of trouble\nfor me, so please, let me know if you need anything.
+MSSID_Goal_Leda: Speak to Leda to begin the paralogue.
+MSSID_Detail_Beltran: There's a little match that's getting put on outside the\ngames—a friendly match with the king of Brigid.\nThe White-Maned Demon's joining, and I need\nsomeone to fill out his forces. You in?
+MSSID_Comp_Beltran: You beat Brigid! Congrats. I'm glad you accepted my\nlittle offer. The White-Maned Demon says he'll fight\nalongside you again, should the opportunity arise.
+MSSID_Goal_Beltran: Speak to Gabriel to begin the paralogue.
+MSSID_Detail_Talimun: I had a company carriage transporting some pretty\nvaluable goods, but the men, the carriage, and the\nitems have all gone missing. Time to investigate for\nmyself. How about it? You in the mood to tag along?
+MSSID_Comp_Talimun: All's well that ends well, I suppose. Turns out I was\nright to ask for your help! Just be sure to keep this\nlittle adventure between us, yes? I owe you one now.\nSo if you ever need me, just give me call.
+MSSID_Goal_Talimun: Begin the paralogue at the destination.
+MSSID_Detail_Orhel: It's rumored that Admiral Jarcham has a ring that\nthe goddess Yu Phas kept with her at all times.\nI'd really like to have it. Would you please come to\nthe negotiations with me?
+MSSID_Comp_Orhel: Thank you for your help! I was finally able to\nrecover the ring. Really, I can't thank you enough.\nIf anything happens to all of you, count on me to\ndo what I can to help you in return.
+MSSID_Goal_Orhel: Begin the paralogue at the destination.
+MSSID_Detail_Anhatolyah: I'm trying to evacuate my people from Kunlun, but I\nneed help getting them to safety. Can I count on your\naid? I can't do it alone.
+MSSID_Comp_Anhatolyah: I'd like to express my gratitude on behalf of everyone\nin the village. If you ever have need of my help, don't\nhesitate to call on me. Wherever you are, I will come.
+MSSID_Goal_Anhatolyah: Begin the paralogue at the destination.
+MSSID_Detail_Soleil: Seems someone is using an abandoned worship site\non the outskirts of Dagsion without permission.\nI need to look into it, but I could use some backup.
+MSSID_Comp_Soleil: Not every part of that went according to plan, but\na win is a win. Thanks for all your help! And, uh,\ndon't mention any of this to anyone.
+MSSID_Goal_Soleil: Speak to Anna to begin the paralogue.
+MSQID_Title_BattleValeri: Valeri's Eight Fangs
+MSQID_Detail_BattleValeri: You must have heard, haven't you? There's a pack of\nwolves in the Valeri Gorge, southeast of the capital.\nThe people are scared and have even started calling\nthem the "Eight Fangs." If you're strong, prove it.
+MSQID_Comp_BattleValeri: I can't believe you were able to exterminate those\nbeasts! I just wish I'd asked you sooner. The area\naround the capital has been a bit dangerous lately,\nbut with you here, we'll be fine.
+MSQID_Goal_BattleValeri: Defeat the Eight Fangs.
+MSQID_Client_BattleValeri: Capital Soldier
+MSQID_Title_BattleNapier: Behelda Axes
+MSQID_Detail_BattleNapier: You've heard of the Behelda Axes, haven't you? Well,\nthey've been attacking Vandahl Trading wagons. But\nit has to stop! You seem strong, so please, put an end\nto every last one of them!
+MSQID_Comp_BattleNapier: I know I said "end them" but I just thought you'd\nrough them up a bit and make them stop... Well, I\nguess they had it coming. Well done! Remind me not\nto get on your bad side...
+MSQID_Goal_BattleNapier: Defeat the Behelda Axes.
+MSQID_Client_BattleNapier: Angry Vandahl Merchant
+MSQID_Title_BattleGranada: Granada's Thieves
+MSQID_Detail_BattleGranada: On the road to my hometown, a group of thieves\nhave made camp at the Granada Fort Ruins. With\nthem around, I'll never be able to get this medicine\nto my mom... Please, somebody, do something!
+MSQID_Comp_BattleGranada: You really beat the thieves?! Thank you! This bandit\nproblem really is getting out of hand, isn't it? Either\nway, you've been a big help. Here, take this...\nConsider it a thank-you from me and my mother.
+MSQID_Goal_BattleGranada: Defeat the Zaron Thieves.
+MSQID_Client_BattleGranada: Traveler with Medicine
+MSQID_Title_BattleMidea: Sinister Sacrifices
+MSQID_Detail_BattleMidea: Sithya's Secret Seal, a group of spellcasters holed up\nin Sunset Fortress, think ritual sacrifice increases\ntheir magic powers. Now livestock has started going\nmissing! Someone needs to run them spellcasters off!
+MSQID_Comp_BattleMidea: I heard you ran them off. Well done. I've also heard\ndisturbing things from the farmers. They found a\nhill-sized pile of animal bones. More than they could\ncount! They thank you for your help.
+MSQID_Goal_BattleMidea: Defeat Sithya's Secret Seal.
+MSQID_Client_BattleMidea: Concerned Priest 
+MSQID_Title_StoneOrder: Searching for Smithing Stones
+MSQID_Detail_StoneOrder: You got any {Lowercase}Smithing Stone{NormalCase}s? They can be used to\nrefine or repair weapons! If I don't keep my weapons\nin shape, I'll be useless. Maybe I oughta go to\nNiraga Mine and dig some up?
+MSQID_Comp_StoneOrder: You've got smithing stones to spare? Thanks! The\nHeroic Games have everybody snatching them up.\nI thought I was going to have to become a miner!
+MSQID_Goal_StoneOrder: Deliver the following:
+MSQID_Client_StoneOrder: Mercenary Who Needs Smithing Stones
+MSQID_Title_YamanOrder: Petals of Encouragement
+MSQID_Detail_YamanOrder: The gladiator I'm here to see will be competing\nsoon, and I'd like to throw petals of his favorite\nflower during the match! He likes {LowercaseNextLetter}Yaamanthemums.\nIf you have any, do you mind sharing?
+MSQID_Comp_YamanOrder: Thank you for this! He's bound to notice this, right?\nWho knows, maybe he'll even look my way! Haha!\nI'm so excited, thank you!
+MSQID_Goal_YamanOrder: Deliver the following:
+MSQID_Client_YamanOrder: Cheering Spectator
+MSQID_Title_BattleSunPass: Huge, Hairy Beasts
+MSQID_Detail_BattleSunPass: There's a pair of huge beasts lurkin' around\nMoonwatch Pass, attacking travelers and merchants.\nIf there's anyone around who can do something,\nplease, exterminate them and avenge my friends!
+MSQID_Comp_BattleSunPass: So those big things are called {Lowercase}Atlas Bear{NormalCase}s? Maybe\nthey were just hungry. We merchants are fighting to\nsurvive every day too. No hard feelings, but I'm\nglad they're gone.
+MSQID_Goal_BattleSunPass: Defeat the {Lowercase}Ravenous Beasts.
+MSQID_Client_BattleSunPass: Attacked Merchant
+MSQID_Title_AguinhoShopping: A Taste from Home
+MSQID_Detail_AguinhoShopping: There are many delicious things in the capital, but\nsometimes I really miss the taste of home. Especially\nthe {LowercaseNextLetter}Jyoppa! It's a fruit that can only be bought in my\nhometown, Aguiño. Would love some if you have it.
+MSQID_Comp_AguinhoShopping: This is it! This is {LowercaseNextLetter}Jyoppa! Ahh... This is so nostalgic,\nI think I might cry. I have to hurry home and cook it.\nThank you so much!
+MSQID_Goal_AguinhoShopping: Deliver the following:
+MSQID_Client_AguinhoShopping: Homesick Citizen
+MSQID_Title_BattleTower: Stolen Star Observations
+MSQID_Detail_BattleTower: My astronomical observations, detailing locations of\nevery star in the sky, have been stolen. The thieves\nresponsible fear the stars and say the night sky is an\nabomination. Please, recover my observation records.
+MSQID_Comp_BattleTower: Thank you for retrieving my records. Why are they\nso afraid of the stars, do you suppose? Perhaps they\nfear something terrifying lurks beyond the veil of the\nnight sky.
+MSQID_Goal_BattleTower: Defeat the Star-Spurning Bows.
+MSQID_Client_BattleTower: Astronomer Priest
+MSQID_Title_EnrietteOrder: Energy Nuts
+MSQID_Detail_EnrietteOrder: My master is trying to get a hold of {LowercaseNextLetter}Enrietto nuts.\nThey're supposed to help with energy, so they say.\nIf you could grab some for me, I'd appreciate it.\nMight want to start your search in the Sunlit Garden.
+MSQID_Comp_EnrietteOrder: Perfect. This is exactly what I asked for. Hm? You'd\nlike to know what my master will use these for?\nWell... His son isn't feeling like himself. My master\nhopes these will cheer him up.
+MSQID_Goal_EnrietteOrder: Deliver the following:
+MSQID_Client_EnrietteOrder: Wealthy Man's Servant
+MSQID_Title_SearchingMegrez: Soil Survey
+MSQID_Detail_SearchingMegrez: The Ruins of Megrez are an abandoned town where\nthe crops became diseased and died. I'd like to know\nif the area might be habitable by humans again.\nPlease go to the site and bring back a soil sample?
+MSQID_Comp_SearchingMegrez: Thank you for your help. I'll send the sample off for\ntesting, but I'm almost certain just from the look and\nsmell that the contamination has gone. I was born in\nMegrez. Thanks to you, I can return home soon.
+MSQID_Goal_SearchingMegrez: Deliver the following:
+MSQID_Client_SearchingMegrez: Soil Surveyor
+MSQID_Title_BattleMound: A Screeching, Strange Shadow
+MSQID_Detail_BattleMound: Fallen General's Barrows is an unholy land. Temple\nsoldiers sent to investigate monster sightings never\nreturned. Look into it, and eliminate any trouble you\nfind. You'll be well compensated for the effort.
+MSQID_Comp_BattleMound: Necrodragon? It's stunning that the land could\nbecome so tainted. I'll find a priest to cleanse\nthe area and we can return to resettle. Thank\nyou for the help. Here's your reward.
+MSQID_Goal_BattleMound: Defeat the mysterious monster.
+MSQID_Client_BattleMound: Frightened Priest
+MSQID_Title_BattleGalgo: Attack of the Huge Birds
+MSQID_Detail_BattleGalgo: The children were attacked by huge birds! They were\nas big as an elephant! They attacked us near Lake\nBrontes. Someone get rid of them! Please!
+MSQID_Comp_BattleGalgo: Thank you so much for getting rid of those giant\nbeasts! The children are scared even of small birds.\nThey run for their lives when one lands nearby. But\nnow I can tell them that you saved the day.
+MSQID_Goal_BattleGalgo: Defeat the {Lowercase}Great-Winged Beasts.
+MSQID_Client_BattleGalgo: Villager from Lake Brontes
+MSQID_Title_BattleClove: Skeletons in the Ruins
+MSQID_Detail_BattleClove: In Krove Ditch, the former inhabitants have turned\ninto walking skeletons. Free them. Slay every last\none of them.
+MSQID_Comp_BattleClove: You've put those souls to rest? Thank you. The truth\nis, I've done some digging through my family tree.\nThose old bones you fought... They were my\nancestors. But now they're free thanks to you.
+MSQID_Goal_BattleClove: Defeat the dead in Krove Ditch.
+MSQID_Client_BattleClove: Mysterious Noble
+MSQID_Title_SearchingJewelry: Secret Sparkle
+MSQID_Detail_SearchingJewelry: I always gift a jewel for our wedding anniversary,\nbut I want to give something special. A beautiful\nAegina crystal would be perfect. They can be\nfound in Pyroxene Cave. Can you get one?
+MSQID_Comp_SearchingJewelry: Thank you for delivering the crystal. Such a glow!\nNow to hire a jeweler who can fashion it. Should it\nhang on a necklace? Or perhaps it should adorn\na brooch? Decisions...
+MSQID_Goal_SearchingJewelry: Deliver the following:
+MSQID_Client_SearchingJewelry: Loving Husband
+MSQID_Title_BattleDuel: A Challenge
+MSQID_Detail_BattleDuel: You are sloppy amateurs! Prove your worth! Fight us!\nIf you lose, we take your spot in the Heroic Games!\nWe await you at Sonai Pass. Come face us if you are\nnot a coward!
+MSQID_Comp_BattleDuel: You defeated us? You have some skill after all. I had\nplanned to let you off easy if you surrendered your\nspot in the Heroic Games. But do not think this\nis the last you'll see of us!
+MSQID_Goal_BattleDuel: Defeat the Unerring Blades.
+MSQID_Client_BattleDuel: Unerring Blades
+MSQID_Title_BattleTartarus: Defeat the Rampaging Golems
+MSQID_Detail_BattleTartarus: You ever seen a {LowercaseNextLetter}Golem? They're like giant, moving\nstatues. Word is that there are some rampaging in\nthe Kurdelind Ruins. The ruins could collapse if\nthey keep at it! Could you put a stop to them?
+MSQID_Comp_BattleTartarus: You destroyed the {LowercaseNextLetter}Golems? They're such a pain!\nThey never sleep, so you can't attack them while\nthey're asleep, and they don't eat, so they don't fall\nfor traps. I can't believe you won just by fighting!
+MSQID_Goal_BattleTartarus: Defeat the {Lowercase}Golems of the Ruins.
+MSQID_Client_BattleTartarus: Golem-Hating Soldier
+MSQID_Title_BattleSandHole: Blight-Louse Extermination Request
+MSQID_Detail_BattleSandHole: Bugs' Burrow is full of blight lice. One of them isn't\nscary, but it's a bad time once they start to swarm.\nI'd like to send an extermination team. But I'm all\nout of volunteers. I'd take help from anyone.
+MSQID_Comp_BattleSandHole: Folks used to go there looking to hunt blight lice.\nBut the lice fought back. They got a taste for\nhuman flesh and... Well, we don't have to worry\nabout that now. Here, take this as my thanks!
+MSQID_Goal_BattleSandHole: Defeat the {Lowercase}Swarming Pests{NormalCase}.
+MSQID_Client_BattleSandHole: Pest Extermination Organizer
+MSQID_Title_BattleLakeside: Spellcasters in the Forest
+MSQID_Detail_BattleLakeside: My fellow hunters entered Faun's Forest and haven't\nbeen seen since! I heard there's spellcasters who live\nthere. Word is that they kidnap people! Can you\nplease find them and rescue everyone?
+MSQID_Comp_BattleLakeside: While you were fighting the spellcasters, I searched\nfor those who have gone missing. I couldn't find\nanyone. Not even a body. What do you suppose it\nmeans? I'm so confused.
+MSQID_Goal_BattleLakeside: Defeat the {Lowercase}Veiled Spellcasters{NormalCase}.
+MSQID_Client_BattleLakeside: Concerned Hunter
+MSQID_Title_BattleDamasen: Another Challenge
+MSQID_Detail_BattleDamasen: You! Heroic Games amateur! We let our guard down\nbefore, but this time will be different! We grant you\nthe honor of fighting us once more. We await you at\nCape Damasen!
+MSQID_Comp_BattleDamasen: A good fight. You gave it your all. And yet... I do not\naccept your victory! Sharpen your sword and be\nready! We will meet again!
+MSQID_Goal_BattleDamasen: Defeat the Unerring Blades.
+MSQID_Client_BattleDamasen: Unerring Blades
+MSQID_Title_ReclaimAmulet: Purloined Spellcaster's Tools
+MSQID_Detail_ReclaimAmulet: The skilled Har Hali stole some valuable goods\nI was transporting—a set of spellcaster's relics.\nThe thieves are out at the Secret Altar. Can you\ngo and get my wares back?
+MSQID_Comp_ReclaimAmulet: Thank goodness you got them back! The spellcaster's\nrelics seem like a popular target for thieves. Maybe\nthey give off some kind of magical attraction?
+MSQID_Goal_ReclaimAmulet: Deliver the following:
+MSQID_Client_ReclaimAmulet: Spellcaster-Tool Merchant
+MSQID_Title_PandoraBargain: Something a God Eats
+MSQID_Detail_PandoraBargain: I would like to give a special fish to the temple as an\noffering. I think a {LowercaseNextLetter}Rahlan would suffice. I hear they\ncan be found in the Port of Pandora. Could you\nplease procure one for me?
+MSQID_Comp_PandoraBargain: This fish has such a strange appearance. Its fins sit\nlike wings and there's such an aura of elegance here.\nIt feels less like a fish and more like a divine\nmessenger. A fitting offering! Thank you.
+MSQID_Goal_PandoraBargain: Deliver the following:
+MSQID_Client_PandoraBargain: Devout Follower
+MSQID_Title_StandUp: Gold-Coin Chase
+MSQID_Detail_StandUp: I've been searching for the owner of the Djilu coin,\nbut they went missing around Giant's-Print Fort.\nCould the coin still be there? If it is, could you get\nit for me?
+MSQID_Comp_StandUp: Only the Djilu coin was found... Does that mean the\nowner is no longer with us? In that case, I should\nreturn this coin to their family. Thank you for doing\nyour part. You've still earned your reward.
+MSQID_Goal_StandUp: Deliver the following:
+MSQID_Client_StandUp: Coin Collector
+MSQID_Title_BattleUranus: One Last Challenge
+MSQID_Detail_BattleUranus: You! Competitor of the Heroic Games! You defeated\nus handily in our previous duels, but this time we are\nprepared! Meet us upon Mount Ouranos, where our\nrivalry will be brought to an end! 
+MSQID_Comp_BattleUranus: We lost. Again. Even after all our training in the\nmountains, we lost. You are truly worthy of your\nspot in the Heroic Games. Good luck in your\nbattles, and farewell!
+MSQID_Goal_BattleUranus: Defeat the Unerring Blades.
+MSQID_Client_BattleUranus: Unerring Blades
+MSQID_Title_LegiaShopping: A Sword of Deadly Renown
+MSQID_Detail_LegiaShopping: I seek a renowned blade known as a killing edge.\nIf your adventures take you to Regia, would you be\nwilling to get one of these blades for me? With it,\nI may just prevail in the battle that awaits me.
+MSQID_Comp_LegiaShopping: You've brought me a killing edge! Magnificent.\nBut it seems my opponent has also obtained the\nsame. It will be skill that decides this outcome, then.\nWell, I suppose that's all part of the fun!
+MSQID_Goal_LegiaShopping: Deliver the following:
+MSQID_Client_LegiaShopping: Waiting Gladiator
+MSQID_Title_HeartfulGift: Knowing More about Him
+MSQID_Detail_HeartfulGift: I want to buy the man by the inn a birthday present,\nbut I'm not sure what kinds of things he likes. Could\nyou ask him for me?
+MSQID_Comp_HeartfulGift: Ghosh and delicacies, huh? Hehe! I can work with\nthat. Now all I need to know is his name, where\nhe lives, and his birthday! Hehe...hahaha! AHAHA...
+MSQID_Goal_HeartfulGift: Speak with the man the woman cares about.
+MSQID_Client_HeartfulGift: Troubled Woman
+MSQID_Title_HungryElefant: The Elephant Rider's Bond
+MSQID_Detail_HungryElefant: Can you find some food for my {Lowercase}War Elephant{NormalCase}s?\nI want to feed them a vegetable called {LowercaseNextLetter}Hakuren, but\nit grows in rare locations. I think I once picked some\nin a place with three rocks in a row...
+MSQID_Comp_HungryElefant: Thank you! Would you consider adopting my\n{Lowercase}War Elephant{NormalCase}s for your army? I'm sure you can\nthink of a use for them!
+MSQID_Goal_HungryElefant: Deliver the following:
+MSQID_Client_HungryElefant: Injured Elephant Rider
+MSQID_Title_LittleRevenge: Stolen Viewership
+MSQID_Detail_LittleRevenge: I came to watch the Heroic Games, but those {LowercaseNextLetter}Rogues\nhanging around the square stole my admission fee.\nCould you help me out here? I'll pay you for\nyour trouble.
+MSQID_Comp_LittleRevenge: You actually defeated them! To be honest, I was\nwatching the whole thing. You were fantastic! So\nfantastic that I think I can return home satisfied.\nThank you!
+MSQID_Goal_LittleRevenge: Defeat the {Lowercase}Rogues.
+MSQID_Client_LittleRevenge: Robbed Spectator
+MSQID_Title_RarePearl1: The Fabled Insect Pearl
+MSQID_Detail_RarePearl1: Are you familiar with the common {Lowercase}Blight Louse{NormalCase}?\nThey're creepy insects that produce beautiful stones\nin their guts called {Lowercase}Insect Pearl{NormalCase}s. If you ever find any,\nlet me know. I'd pay a high price for them.
+MSQID_Comp_RarePearl1: Thanks for delivering these rarities! It's been a while\nsince I've seen the real thing. Are you an expert at\ndefeating blight lice or something? I'll be sure to\ncome to you again if I need anything.
+MSQID_Goal_RarePearl1: Deliver the following:
+MSQID_Client_RarePearl1: Trader of Insect Pearls
+MSQID_Title_RarePearl2: More Fabled Insect Pearls
+MSQID_Detail_RarePearl2: My noble client wants more {Lowercase}Insect Pearl{NormalCase}s. Ideally,\nsome larger samples. I hope you can find more. If\nyou do, please bring them to me. I'll buy any you\nfind for quite a high price.
+MSQID_Comp_RarePearl2: Thank you! The client will be most pleased. It's a fad\nwith nobles to crush a pearl to powder to drink in\ntheir wine to keep them beautiful. The minds of\nnobles are beyond any understanding.
+MSQID_Goal_RarePearl2: Deliver the following:
+MSQID_Client_RarePearl2: Trader of Insect Pearls
+MSQID_Title_RarePearl3: Even More Fabled Insect Pearls
+MSQID_Detail_RarePearl3: One of my more important clients is displeased and,\nto make amends, I must deliver a huge quantity of\n{Lowercase}Insect Pearl{NormalCase}s. I trust you can source them for me?
+MSQID_Comp_RarePearl3: You found some! Thank you! The client's trust in our\ncompany will be repaired! The whole company is\nindebted to you. I can never hope to repay you for\nthis favor, but offer you this reward all the same.
+MSQID_Goal_RarePearl3: Deliver the following:
+MSQID_Client_RarePearl3: Trader of Insect Pearls
+MSQID_Title_GarmCommitment1: Garum, Garum, Garum!
+MSQID_Detail_GarmCommitment1: I've run out of ga...garum. Without it, I...I...can't\ntake another step... Hurry! Bring some to me...
+MSQID_Comp_GarmCommitment1: I guess I should be a little embarrassed, huh?\nAw, well! I'm just glad you came with that\ndelicious garum! Ha! I think this is the start of a\nbeautiful friendship.
+MSQID_Goal_GarmCommitment1: Deliver the following:
+MSQID_Client_GarmCommitment1: Wealthy Garum Lover
+MSQID_Title_MessengerRequest: A Letter of Some Gravity
+MSQID_Detail_MessengerRequest: There is a secret letter from a certain country, and\nits previous courier was killed, however, he was\nable to hide it before his death. I charge you with\nthis, traveler... Find it and bring it here to me.
+MSQID_Comp_MessengerRequest: I see... It looks like you delivered what I asked for\nsafely. As expected, you did a perfect job. You've\nearned your reward and, with it, my trust.
+MSQID_Goal_MessengerRequest: Deliver the following:
+MSQID_Client_MessengerRequest: Suspicious Knight
+MSQID_Title_DisturbingElements: For the Empire's Safety
+MSQID_Detail_DisturbingElements: Perhaps you can help. See, I'm pursuing a suspicious\ngroup here in Dagda. If someone ever asks you to\ndeliver anything out of the ordinary, would you bring\nit to me instead?
+MSQID_Comp_DisturbingElements: What?! A secret letter from a shady individual...\nIt looks normal, but it's probably an encrypted\nmessage. That you found someone we've been\nsearching for all this time is remarkable!
+MSQID_Goal_DisturbingElements: Deliver the following:
+MSQID_Client_DisturbingElements: Captain Daniel
+MSQID_Title_Assassination: Assassination (No Questions)
+MSQID_Detail_Assassination: It's a simple request—kill someone named Inno at\nthe place I point you to. Don't want to? Then forget\nI said anything. But we both know you'll do it.
+MSQID_Comp_Assassination: I knew you'd do it. You're a hero! Though...I'm the\nonly one who knows it.
+MSQID_Goal_Assassination: Defeat Inno.
+MSQID_Client_Assassination: Suspicious Knight
+MSQID_Title_RelicRecovery: A Lost Object
+MSQID_Detail_RelicRecovery: A while back something was stolen from... It's not\nimportant. I'm looking for someone to get it back.\nThe Iapetus Cavern, northwest of Arago. There's a\nreward, including extra if you keep quiet.
+MSQID_Comp_RelicRecovery: It looks legit... Well done. The boss will be happy.\nNow, keep your mouth shut or we'll meet again.\nHa! Just kidding. It's a joke. Forget I said anything.
+MSQID_Goal_RelicRecovery: Deliver the following:
+MSQID_Client_RelicRecovery: Suspicious Knight
+MSQID_Title_FulamaSmuggler: Flamma Smugglers
+MSQID_Detail_FulamaSmuggler: Have you heard of flamma? Apparently its number of\nusers is on the rise. We know that the source is a\ngroup hiding at Merak Pass, but I'll need your help\nto take them down and seize their product.
+MSQID_Comp_FulamaSmuggler: Thank you! This will put an end to the damage\nthey've caused. Now, I'll work to expose their\nidentities. You can hold me to it!
+MSQID_Goal_FulamaSmuggler: Deliver the following:
+MSQID_Client_FulamaSmuggler: Captain Daniel
+MSQID_Title_DaMinaDelivery: Its Name Is Da Mina
+MSQID_Detail_DaMinaDelivery: A client has tasked me with procuring a collection of\nDa Mina weapons. But with their rarity, I haven't\nbeen able to collect as many as I hoped. Deliver them\nto me and I'll pay double the market price. 
+MSQID_Comp_DaMinaDelivery: What?! You brought these for me? Haha! It's a \ndream come true! I can't thank you enough for\nyour generosity.
+MSQID_Goal_DaMinaDelivery: Deliver the following:
+MSQID_Client_DaMinaDelivery: Weapons Dealer
+MSQID_Title_ResearchTeam: Fate of the Expedition
+MSQID_Detail_ResearchTeam: I've dispatched an expedition to the ruins in\nHeretics' Cave. But I've lost contact with them\nand am beginning to worry. Could I ask you to\ncheck on their safety?
+MSQID_Comp_ResearchTeam: So you couldn't find them, huh? They must have\ngotten caught up in some sort of accident. Well,\nI suppose we can revisit this ruin exploration later.\nWe'll need to raise more funds before we try again.
+MSQID_Goal_ResearchTeam: Gather information on the cave expedition.
+MSQID_Client_ResearchTeam: Concerned Merchant
+MSQID_Title_SoulCrystal: Primal Crystal
+MSQID_Detail_SoulCrystal: Our organization's research requires a sample of a\n{Lowercase}Soul Crystal{NormalCase} in order for our efforts to move forward.\nIf you happen to find one, would you bring it to me?
+MSQID_Comp_SoulCrystal: You found a REAL soul crystal?! Just who are\nyou that you did that so easily? Our research \nwill make great strides now. Thank you!
+MSQID_Goal_SoulCrystal: Deliver the following:
+MSQID_Client_SoulCrystal: Flamma-Studying Mage
+MSQID_Title_SandorLegacy: Legacy of a Legendary Sculptor
+MSQID_Detail_SandorLegacy: We think the four goddess statues by the legendary\nShandor are in the "temple" to the east, the "pass" to\nthe north, the "grassland" to the west, and the "lake"\nto the south. If you find them, bring them to me.
+MSQID_Comp_SandorLegacy: Oh... So this is the work of a legendary sculptor,\nsought by countless people! The general is sure\nto be pleased. Thank you!
+MSQID_Goal_SandorLegacy: Deliver the following:
+MSQID_Client_SandorLegacy: General Senghor's Subordinate
+MSQID_Title_AcademicFreedom: Stolen Knowledge
+MSQID_Detail_AcademicFreedom: I recently recovered an ancient tablet that could\nlead to unprecedented revelations about Iskandariyan\nhistory! But...unfortunately it was stolen. Please, find\nthe {Lowercase}Ancient Tablet{NormalCase} and bring it to me.
+MSQID_Comp_AcademicFreedom: You found the tablet! Thank you. I'm eternally\ngrateful! But if the Order of Mithras would go this\nfar, then Dagsion might not be safe for me anymore.\nI need to leave, but I hope we meet again!
+MSQID_Goal_AcademicFreedom: Deliver the following:
+MSQID_Client_AcademicFreedom: Kinkara the Iskandariya Researcher
+MSQID_Title_PopeSecret: The Divine Sovereign's Secret
+MSQID_Detail_PopeSecret: The Divine Sovereign occasionally slips out of the \ntemple without anyone noticing. I have no idea\nwhere he goes. Do you think you could find out?\nI'm sure someone has seen him.
+MSQID_Comp_PopeSecret: So you weren't able to find the exact location of his\ntrips? Well, I've decided he does not owe me his\nsecrets, but I am relieved you looked into it for me.\nPlease consider the request complete.
+MSQID_Goal_PopeSecret: Gather information about the Divine Sovereign.
+MSQID_Client_PopeSecret: Solel Temple Priest
+MSQID_Title_VillageDefense: Defeat Aguiño's Thieves
+MSQID_Detail_VillageDefense: Our village is constantly raided by thieves. If this\ncontinues... I'm at my wit's end! This can't go on!\nWe have reward money if you can drive them\naway. Please! Save our village!
+MSQID_Comp_VillageDefense: The thieves are gone, and you've saved us all! That\nshould make them hesitate the next time they think\nabout attacking us.
+MSQID_Goal_VillageDefense: Defeat the thieves.
+MSQID_Client_VillageDefense: Aguiño Villager
+MSQID_Title_BarkeeperTroubles: Missing Customer
+MSQID_Detail_BarkeeperTroubles: We have a regular at the tavern named Gaston who\nsuddenly stopped coming. I'm a little worried...\nWould you go to his home and check on him?
+MSQID_Comp_BarkeeperTroubles: That Gaston. So that's why he's been staying away!\nWhat's important is that he's safe. And it does sound\nlike those cups might well increase sales... We'll see.
+MSQID_Goal_BarkeeperTroubles: Talk to Gaston.
+MSQID_Client_BarkeeperTroubles: Worried Tavern Employee
+MSQID_Title_SmallCastle1: Can't Go Home
+MSQID_Detail_SmallCastle1: My house was bought by some rich person I've never\nmet before! I need proof I'm telling the truth to get it\nback though. I think if I can find the key, that will be\nenough, won't it? Can you help me find it?
+MSQID_Comp_SmallCastle1: That's it! That's the key! With this, I can finally go\nhome. Thank you so much!
+MSQID_Goal_SmallCastle1: Deliver the following:
+MSQID_Client_SmallCastle1: Boy Freed from Painting
+MSQID_Title_SmallCastle2: Can't Stay Home
+MSQID_Detail_SmallCastle2: I'm starting to think maybe I should sell the house\nand start a life somewhere brand new. But I want\nsomeone nice to live there. If you meet anybody you\nthink might be a good fit, please let me know!
+MSQID_Comp_SmallCastle2: There's someone looking to buy a house like mine?\nAnd they seem nice? Hmmm... I'm going to go talk\nto them! Thank you for everything! Take care!
+MSQID_Goal_SmallCastle2: Find a buyer for the house.
+MSQID_Client_SmallCastle2: Boy Freed from Painting
+MSQID_Title_CollectingStones1: Rare Stone Hunting
+MSQID_Detail_CollectingStones1: I'm currently working on a research experiment, but\nI need a rare stone. It's called {LowercaseNextLetter}Ouranotite. If you have\ntime, could you please gather some for me?
+MSQID_Comp_CollectingStones1: You brought the {LowercaseNextLetter}Ouranotite! Quite impressive for a\nyoungster, aren't you? Now I don't have to worry\nabout halting my experiments! Thank you!
+MSQID_Goal_CollectingStones1: Deliver the following:
+MSQID_Client_CollectingStones1: Royu the Stone Researcher
+MSQID_Title_GiscoTreasure: The Hunt for Gisco's Treasure
+MSQID_Detail_GiscoTreasure: Gisco left a riddle revealing the location of his hidden\ntreasure. "A colossus gazes upon Baal's waters.\nOn the stone where she points, something worthy\nof note." If you solve it, could I see the treasure?
+MSQID_Comp_GiscoTreasure: What?! You solved Gisco's riddle? Well, since I was\nthe one who told you about it in the first place, I'LL\nbe keeping the treasure! Mehehe!
+MSQID_Goal_GiscoTreasure: Deliver the following:
+MSQID_Client_GiscoTreasure: Mystery Chaser
+MSQID_Title_UnforgettableTaste: A Taste of Nostalgia
+MSQID_Detail_UnforgettableTaste: I miss the taste of {Lowercase}Sandworm Meat{NormalCase} from back home.\nI want to enjoy that taste again. If you have any,\ncould you share some with me?
+MSQID_Comp_UnforgettableTaste: Oh, hehe, yes! This is the stuff! The smell, the flavor,\neven the color—it's all exactly as I remember! I've\ntasted more delicious things in my life, but when\nI was young this was the finest of treats.
+MSQID_Goal_UnforgettableTaste: Give the man some {LowercaseNextLetter}Sandworm meat.
+MSQID_Client_UnforgettableTaste: Man Craving a Familiar Dish

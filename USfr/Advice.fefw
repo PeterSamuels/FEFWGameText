@@ -1,0 +1,102 @@
+﻿MID_ADVICE_TypeRank_000: Base
+MID_ADVICE_TypeRank_001: Novice
+MID_ADVICE_TypeRank_002: Avancé
+MID_ADVICE_TypeRank_003: Élite
+MID_ADVICE_TypeRank_004: Suprême
+MID_ADVICE_TypeRank_005: Divin
+MID_ADVICE_WeaponRank_000: Bois
+MID_ADVICE_WeaponRank_001: Bronze
+MID_ADVICE_WeaponRank_002: Fer
+MID_ADVICE_WeaponRank_003: Da Mina
+MID_ADVICE_WeaponRank_004: Argent
+MID_ADVICE_JobType_000: Mages noirs
+MID_ADVICE_JobType_001: Mages blancs
+MID_ADVICE_JobType_002: Cavalerie
+MID_ADVICE_JobType_003: Cuirassiers
+MID_ADVICE_JobType_004: Unités volantes
+MID_ADVICE_JobType_005: Cavaliers ornius
+MID_ADVICE_JobType_006: Archers
+MID_ADVICE_JobType_008: Lanciers
+MID_ADVICE_SC11_04: Les rangs ennemis compteront surtout des combattants au\ncorps-à-corps. Ayez recours à des armes à distance telles que\nles arcs ou la magie, et la victoire vous reviendra !
+MID_ADVICE_SC11_05: Les adversaires sont plutôt variés. Toutefois, la stratégie\nhabituelle à base d'arcs et de magie devrait faire l'affaire,\nd'autant plus si vous utilisez des armes en bronze.
+MID_ADVICE_SC11_06: Vous affronterez des {LowercaseNextLetter}Auriges et des combattants cuirassés. Les\n{LowercaseNextLetter}Auriges emploient des arcs, alors montez au contact, et utilisez\nla magie pour passer outre la défense des unités cuirassées.
+MID_ADVICE_SC11_07: La visibilité sera réduite lors de la prochaine bataille. Avancez\nprudemment ou vous serez pris par surprise. Les armes de\nhaute qualité et la magie augmenteront vos chances de succès.
+MID_ADVICE_SC11_09: L'ennemi semble compter sur les archers pour vous attaquer\nà distance. Quelques objets de soin et un usage judicieux de\nla magie devraient permettre de contrecarrer cette stratégie.
+MID_ADVICE_SC11_10: Vous allez affronter un ennemi puissant. Passez des examens\nd'aptitude pour accéder à des classes avancées. Privilégier la\ndéfense et l'attaque magique semble être un choix judicieux.
+MID_ADVICE_SC11_11: La visibilité sera réduite. Emportez des arcs et autres armes à\ndistance pour frapper les cibles aériennes... Et n'existe-t-il pas\nune bénédiction permettant d'améliorer la visibilité ?
+MID_ADVICE_SC11_12: Vous affronterez sans doute des cavaliers ornius et des\ncombattants cuirassés, alors préparez-vous en conséquence.\nLes potions et la magie blanche seront vos meilleures alliées.
+MID_ADVICE_SC11_13: Les ennemis seront nombreux, mais tous ont leur point faible :\nla magie contre les cuirassiers, le corps-à-corps contre les\narchers, etc. Des renforts ne seraient pas de trop, cela dit.
+MID_ADVICE_SC11_14: Vos troupes seront dispersées, il vous faudra un moyen de\nsoigner à distance. Si les unités montées sont entravées\npar le terrain, elles peuvent toujours mettre pied à terre.
+MID_ADVICE_SC12_08: De gigantesques éléphants de guerre barreront votre route,\nmais ils sont vulnérables aux lances. Des armes à distance\net des classes très mobiles seraient également bienvenues.
+MID_ADVICE_SC12_09: Lors de la prochaine bataille, des soldats ailés seront de la\npartie. Faites appel aux cuirassés pour les tenir à distance de\nvos archers, afin que ces derniers tirent au moment propice !
+MID_ADVICE_SC12_10: Vous affronterez des cavaliers, unités particulièrement\nmobiles. Je n'ai pas besoin de vous dire comment les battre,\nalors tâchez de partir au combat avec les armes adéquates.
+MID_ADVICE_SC12_12: Des cavaliers capables de couvrir de grandes distances seront\nun atout pour vous et vos alliés. Emportez également des arcs\nau cas où l'ennemi déploierait des unités volantes.
+MID_ADVICE_SC12_14: La visibilité sera réduite et le terrain, accidenté. Il convient\nde faire progresser un maximum d'unités vers leurs classes\n{LowercaseNextLetter}Avancées grâce aux {Lowercase}examens d'aptitude{NormalCase}.
+MID_ADVICE_SC12_15: Alignez des unités capables de surmonter les obstacles pour\ncréer une brèche dans les rangs adverses, ainsi que des unités\nrésistantes, aptes à essuyer les puissantes attaques ennemies.
+MID_ADVICE_SC12_16: Vous allez affronter des forces composées d'unités volantes\net de fantassins. Tâchez d'avoir de quoi faire face à ces deux\nmenaces tout en prenant garde aux pièges posés sur le sol !
+MID_ADVICE_SC12_17: Vous allez devoir diviser vos forces, ce qui rend le soutien\nà distance d'autant plus crucial. Faites appel aux spécialistes\nen attaque à distance, tels que les archers et les mages.
+MID_ADVICE_SC13_04: Méfiez-vous de la rapidité de ce redoutable adversaire et de\nses puissantes attaques ! Alignez des unités résistantes, ainsi\nque des soigneurs afin de les maintenir sur pied.
+MID_ADVICE_SC13_07: L'ennemi n'est peut-être pas nombreux, mais je recommande\ntout de même une grande prudence... J'ai un mauvais\npressentiment. Préparez-vous à affronter des morts-vivants.
+MID_ADVICE_SC13_09: L'ennemi aura recours au poison, alors ne partez pas au\ncombat sans antidote ! Il serait également avisé de passer\ndes examens d'aptitude pour accéder aux classes avancées.
+MID_ADVICE_SC13_10: Argh, ces horribles créatures sont énormes ! Un arc\nde chasseur s'impose, ainsi qu'un antidote au cas où\nleurs crocs venimeux venaient à vous mordre.
+MID_ADVICE_SC13_11: Visiblement, vous serez en compétition avec votre ennemi.\nL'équipe amassant le plus grand nombre d'objets désignés\nl'emportera, alors gardez un peu de place dans l'inventaire.
+MID_ADVICE_SC13_12: Vous affronterez de nombreux ennemis attaquant à distance,\ntels que des archers et des mages. Il serait bon d'aligner des\nunités capables d'encaisser de telles offensives.
+MID_ADVICE_SC13_13: Nous partons à l'assaut d'une forteresse inexpugnable.\nToutes sortes d'ennemis se dresseront face à vous, et même\nvotre cavalerie sera en danger. Protégez bien vos unités !
+MID_ADVICE_SC14_05: Les armes classiques n'auront guère d'effet face aux soldats\ncuirassés adverses. La magie est bien plus indiquée. Si vos\nforces semblent modestes, recrutez de nouveaux alliés !
+MID_ADVICE_SC14_06: Vous affronterez des soldats avec une défense considérable,\nmais vulnérables à la magie noire. Quelques haches propres\nà fendre leurs cuirasses ne seront pas de trop non plus.
+MID_ADVICE_SC14_09: Vous affronterez les morts-vivants venus des Limbes pour\nla première fois. Disposez-vous des armes appropriées ?\nN'oubliez pas de sortir vos trébuchets !
+MID_ADVICE_SC14_12: Passez des examens d'aptitude pour accéder aux classes\navancées. Dans l'idéal, il faut des unités à la défense élevée,\ndes adeptes de la magie et des combattants à distance.
+MID_ADVICE_SC14_13: Vos forces seront séparées par des murs, mais vous pourrez\nvous en sortir avec des unités capables d'encaisser les coups\nou, à défaut, des soigneurs à distance.
+MID_ADVICE_SC14_14: Argh, encore des morts-vivants. Ne mégotez pas sur les armes\nauxquelles ils sont les plus vulnérables ! Quelques cavaliers\nseraient les bienvenus aussi, afin de couvrir plus de terrain.
+MID_ADVICE_SC14_15: L'ennemi va déployer toute sa puissance, vous submergeant\nsous les flèches et les sorts à distance. Alignez des forces\ncapables d'encaisser les coups et de soigner les blessures.
+MID_ADVICE_SC30_00: Une grande guerre commence... Si certaines unités n'ont pas\nencore accédé à une classe {LowercaseNextLetter}Élite, dépêchez-vous d'y remédier.\nPrivilégiez la variété pour faire face à toutes les situations !
+MID_ADVICE_SC30_01: Il reste des unités n'ayant pas atteint la classe {LowercaseNextLetter}Élite ? Si oui, il\nfaut y remédier. Par ailleurs, vous aurez besoin de soldats à\nmobilité élevée, tels que des cavaliers ou des unités volantes.
+MID_ADVICE_SC30_03: L'avancée sera compliquée par des goulets d'étranglement.\nExploitez-les en y plaçant des unités cuirassées tandis que\nvos archers feront pleuvoir leurs flèches sur l'ennemi !
+MID_ADVICE_SC30_05: Une nuée d'ennemis volants se profile. Accueillez-les avec\ndes volées de flèches ! Si vous prévoyez des moyens de vous\nsoigner, vous pourrez vous permettre quelques blessures.
+MID_ADVICE_SC30_06: Un ennemi redoutable vous attend, ne le sous-estimez pas !\nAlignez vos alliés les plus aguerris et restez hors de sa portée\npour l'accabler de vos flèches et de vos sorts les plus puissants.
+MID_ADVICE_SC30_07: Les armées des Limbes se dresseront devant vous. Prenez des\narmes auxquelles elles sont vulnérables et ne négligez aucun\nenjeu tactique : ni les classes, ni les armes, ni les objets !
+MID_ADVICE_SC00_07: De dangereux miasmes émanent de la porte. Ils draineront\nla vitalité de vos unités. Entraînez-les en conséquence afin\nqu'elles soient en mesure d'absorber le choc.
+MID_ADVICE_SC00_13: Quelqu'un a-t-il déjà accédé à une classe {LowercaseNextLetter}Suprême ? Sinon,\nil est temps d'y remédier. Tenez-vous à l'écart des miasmes\nqui détériorent les armes. À moins qu'une bénédiction... ?
+MID_ADVICE_SC00_11: L'ennemi s'aguerrit. Vos alliés doivent accéder aux classes\nsuprêmes. De plus, les miasmes compromettent la précision\ndes attaques... Mais cela peut être exploité à notre avantage.
+MID_ADVICE_SC00_08: La guerre s'intensifie, il faut un maximum de permis de classe\n{LowercaseNextLetter}Suprême. De plus, la visibilité sera réduite, surtout au milieu\ndes miasmes. Une bénédiction adaptée serait bienvenue.
+MID_ADVICE_SC00_12: Les miasmes compromettront votre précision et votre esquive,\nalors préparez-vous en conséquence. Les classes suprêmes\nsont incontournables et les divines ne seraient pas de trop.
+MID_ADVICE_SC00_09: Les miasmes compromettront votre précision et votre esquive,\nmais les unités aguerries y seront insensibles. N'alignez que\ndes alliés de classe {LowercaseNextLetter}Suprême, voire divine.
+MID_ADVICE_SC00_10: Les miasmes ont des effets positifs ou négatifs, pour vous\ncomme pour vos ennemis. N'alignez que des unités\nde classe {LowercaseNextLetter}Suprême, voire divine.
+MID_ADVICE_SC00_14: L'heure de vérité a enfin sonné. Le combat qui s'annonce\nsera long et éprouvant. Emportez votre meilleur équipement\net choisissez bien vos techniques et les classes à déployer.
+MID_ADVICE_SCXX_00: L'ennemi ne doit sous aucun prétexte atteindre son objectif.\nDes alliés disposant d'une grande mobilité seront cruciaux afin\nd'entraver l'ennemi et d'atteindre des points stratégiques.
+MID_ADVICE_SCXX_01: L'ennemi s'apprête à lancer l'assaut. Bloquez-lui le passage\navec vos unités les plus résistantes, et soutenez ces dernières\navec vos soigneurs. Ensemble, nous les repousserons !
+MID_ADVICE_SCXX_02: La visibilité sera réduite. Alignez des unités à la défense\nélevée pour faire face aux embuscades. Ou mieux, faites appel\nà une bénédiction afin de pouvoir discerner l'ennemi à temps.
+MID_ADVICE_SCXX_03: Vous devrez faire face à la double menace de bêtes agiles\net du poison qu'elles distillent. Des unités cuirassées vous\naideront à contenir leur progression.
+MID_ADVICE_SCXX_04: Vous affronterez plusieurs ennemis massifs. Faites appel\nà des alliés à la défense ou à la mobilité élevée. La magie\net les armes à distance seront aussi bienvenues.
+MID_ADVICE_SCXX_05: La clé de cette bataille consistera à contrer les unités\nvolantes de grande taille. Une mobilité élevée sera aussi\nprécieuse pour pourchasser les ennemis problématiques.
+MID_ADVICE_SCXX_06: L'ennemi sera nombreux et le terrain ne facilitera pas les\nchoses. Faites en sorte de parer à toute éventualité, et\naccessoirement de faire appel à un adepte de la magie noire.
+MID_ADVICE_SCXX_07: De grandes bêtes venimeuses vous bloqueront le passage.\nFrayez-vous un chemin avec des armes adaptées et emportez\ndes antidotes. Une mobilité élevée sera aussi bienvenue.
+MID_ADVICE_SCXX_08: Un ennemi massif vous donnera du fil à retordre. La magie\net les arcs seront précieux dans les situations fluctuantes qui\ns'annoncent. Alignez des unités aux compétences variées !
+MID_ADVICE_SC15_04: 
+MID_ADVICE_SC15_05: 
+MID_ADVICE_SC15_06: 
+MID_ADVICE_SC15_07: 
+MID_ADVICE_SC15_08: 
+MID_ADVICE_SC15_09: 
+MID_ADVICE_SC15_11: 
+MID_ADVICE_SC15_13: 
+MID_ADVICE_SC15_15: 
+MID_ADVICE_SC15_17: 
+MID_ADVICE_SC16_07: 
+MID_ADVICE_SC16_11: 
+MID_ADVICE_SC16_12: 
+MID_ADVICE_SC16_13: 
+MID_ADVICE_SC16_14: 
+MID_ADVICE_SC16_15: 
+MID_ADVICE_SC16_18: 
+MID_ADVICE_SC17_05: 
+MID_ADVICE_SC17_07: 
+MID_ADVICE_SC17_09: 
+MID_ADVICE_SC17_10: 
+MID_ADVICE_SC17_12: 
+MID_ADVICE_SC17_13: 
+MID_ADVICE_SC18_10: 
+MID_ADVICE_SC18_12: 
+MID_ADVICE_SC18_14: 
+MID_ADVICE_SC18_16: 
+MID_ADVICE_SC18_17: 

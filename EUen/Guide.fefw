@@ -1,0 +1,206 @@
+﻿MID_GuideTemplate000_m01: There's good experience, ore, and items to be had in\n{LowercaseNextLetter}Dungeons! Have you tried {Variable=1},\nnear {Variable=0}?
+MID_GuideTemplate001_m01: No one knows this land like the locals. Buying maps\nfrom villagers is a sound investment! I think I saw\none for sale in {Variable=0}...
+MID_GuideTemplate002_m01: Have you heard of {Variable=1}? That {Variable=0}\nskill would be great to have on your side—and if your\nRenown Lv is {Variable=2} or higher, it could happen!
+MID_GuideTemplate004_m01: Got enough ore for the {LowercaseNextLetter}Blacksmith? You can find\nmore {Variable=0} and {Variable=1} at\n{Variable=2} or {Variable=3}.
+MID_GuideTemplate005_m01: Need a good {Variable=1}? Try Vandahl.\nThey'll trade for {Variable=2}, so search\n{Variable=3} until you find some.
+MID_GuideTemplate006_m01: {Variable=3}\nVandahl Trading or other shops will sell you a nice\n{Variable=1} or {Variable=2}.
+MID_GuideTemplate007_m01: Ever harvested something you don't remember\nplanting? Using Fertilize at {Variable=0}\nmight result in rare {Variable=1}.
+MID_GuideTemplate008_m01: {Variable=3}\nI like a good {Variable=1} or {Variable=2}.\nYou can probably find one at a local shop.
+MID_GuideTemplate009_m01: I hear there's a rare ore called {Variable=1} to\nbe had at {Variable=0}. Aren't you curious\nto know what you could {LowercaseNextLetter}Refine with it?
+MID_GuideTemplate010_m01: {Variable=3}\nStop by {Variable=1} for an amazing\n{Variable=2} that should solve your problem!
+MID_GuideTemplate011_m01: Why not send a battalion to {Variable=0}\nwhile you {LowercaseNextLetter}Search {Variable=1} yourself?\nDelegating the work lets you {LowercaseNextLetter}Search more at once!
+MID_GuideTemplate013_m01: Are you using Recruit Soldiers to gather {LowercaseNextLetter}Battalions?\nBattalions open up {LowercaseNextLetter}Gambits and {LowercaseNextLetter}Deployment. You\ncan recruit them at {Variable=0} too.
+MID_GuideTemplate014_m01: Your weapons can be {LowercaseNextLetter}Refined at the {LowercaseNextLetter}Blacksmith.\nIt improves their Atk and Hit, so it's worth your\nwhile. I might get my own {Variable=1} {LowercaseNextLetter}Refined!
+MID_GuideTemplate015_m01: You ever give {Lowercase}Rousing Speeches{NormalCase} while recruiting\ntroops? It can attract stronger {LowercaseNextLetter}Battalions. Why not\ngive a {Lowercase}Rousing Speech{NormalCase} at {Variable=0}?
+MID_GuideTemplate016_m01: Deploy to Search directs your forces to bring back\nmaterials. Convenient, huh? If I were you, I'd try it at\n{Variable=1}, near {Variable=0}.
+MID_GuideTemplate017_m01: Heard you've been off on some local performances!\nSay, did you take on {Variable=0}'s\nrequest? If not, why not swing by the tavern?
+MID_GuideTemplate018_m01: Guess what! Getting your Renown Lv to {Variable=0}\n{LowercaseNextLetter}{Variable=1} \nIf there's nothing better to do, raise your Renown Lv!
+MID_GuideTemplate020_m01: {Variable=3}\nGo recruit the {Variable=2} {LowercaseNextLetter}Battalion so\nyou can use their {Variable=1} {LowercaseNextLetter}Gambit.
+MID_GuideTemplate021_m01: Feeling like there's nothing left to challenge you?\nThen why not head to {Variable=0}?\nPowerful enemies await in {LowercaseNextLetter}Skirmishes or {LowercaseNextLetter}Dungeons!
+MID_GuideTemplate018_t: Here's a hot tip about Renown Lv!
+MID_GuideIntro001_m01: Need any help with mounted enemies?
+MID_GuideIntro002_m01: Having trouble with fliers? Try a bow!
+MID_GuideIntro003_m01: Not sure how to make a dent in armored enemies?
+MID_GuideIntro004_m01: I know a way to send the risen dead packing!
+MID_GuideIntro005_m01: Strength means little if you can't heal.
+MID_GuideIntro006_m01: Surrounding an enemy is a tried and true tactic!
+MID_GuideIntro007_m01: Magic's not the only ranged attack in your arsenal.
+MID_Guide001_t: Kindness gets renown!
+MID_Guide001_m01: Kindness is the quickest way to build renown\nin Dagsion. Folks who need your help are marked\non your map, so go see what's bothering them!
+MID_Guide002_t: Remember to report your {LowercaseNextLetter}Kindness!
+MID_Guide002_m01: The job isn't done till you've checked in with\nwhoever you're helping! Some acts of {LowercaseNextLetter}Kindness\ninvolve fighting, so make sure you're ready for battle.
+MID_Guide003_t: Explore dungeons to get stronger!
+MID_Guide004_t: Are you ready for battle?
+MID_Guide004_m01: You've got an important battle coming up, right?\nBetter stock up on weapons and items. I recommend\nalways keeping a handy {Lowercase}{Variable=0} on you.
+MID_Guide005_t: Don't be afraid of a {LowercaseNextLetter}Skirmish!
+MID_Guide005_m01: Don't shy away from {LowercaseNextLetter}Skirmishes on the world map.\nThey're a good source of experience and levels.\nSo steel yourself and wade right into the fray!
+MID_Guide006_t: Support your local shops!
+MID_Guide006_m01: Lots of smaller towns and villages have shops.\nThere's {Variable=0} near Dagsion, for one!\nI heard it's a great place to find {LowercaseNextLetter}{Variable=1}.
+MID_Guide007_t: Ever run into a {LowercaseNextLetter}Merchant?
+MID_Guide007_m01: You might run into {LowercaseNextLetter}Merchants on the world map.\nStrike up a conversation and they'll show you their\nwares. Some {LowercaseNextLetter}Merchants even {LowercaseNextLetter}Trade for rare products!
+MID_Guide008_t: Tried talking to the strange bird?
+MID_Guide008_m01: Here's a weird one: word is, if you make nice with\nthe bird on that perch, then the Herald of the Pale\nRaven will come to your aid when you're in need.
+MID_Guide009_t: Give {LowercaseNextLetter}Gifts to make friends!
+MID_Guide009_m01: If you'd like to share a {LowercaseNextLetter}Meal with someone, give them\na gift, which you can buy all over the place. Once\nyou know them better, invite them to a {LowercaseNextLetter}Meal.
+MID_Guide010_t: Share a discounted {LowercaseNextLetter}Meal!
+MID_Guide010_m01: Sharing a {LowercaseNextLetter}Meal at the {LowercaseNextLetter}Inn is a great way to get to\nknow people. And sometimes {LowercaseNextLetter}Meals go for half price!\nYou'd be losing money NOT inviting someone out!
+MID_Guide011_t: A map makes adventuring easier!
+MID_Guide012_t: Brave formidable {LowercaseNextLetter}Dungeons!
+MID_Guide014_t: Mind the {LowercaseNextLetter}Subquest deadlines!
+MID_Guide014_m01: The rewards from {LowercaseNextLetter}Subquests are tempting, huh?\nBut you don't get anything if you blow the deadlines.\nCheck the {Lowercase}Quest List{NormalCase} often to stay on top of them.
+MID_Guide015_t: Vandahl Trading has you covered!
+MID_Guide015_m01: Have you ever popped into Vandahl Trading? They\naccept {LowercaseNextLetter}Trade, not gold, for their goods. Collect\nmaterials to trade by {LowercaseNextLetter}Searching on the world map.
+MID_Guide016_t: I know where to find trade goods!
+MID_Guide016_m01: Need equipment for a big match? Vandahl Trading\nwill {LowercaseNextLetter}Trade you bronze weapons. They hit harder than\nwooden weapons, so it's a good investment.
+MID_Guide017_t: Try out Castor's {LowercaseNextLetter}Mentoring!
+MID_Guide017_m01: Once you reach Renown Lv {Variable=0}, Castor will take you\non for {LowercaseNextLetter}Mentoring. His first lesson? Teaching you how\nto take advantage of the terrain!
+MID_Guide018_t: Don't neglect your {LowercaseNextLetter}Equipment.
+MID_Guide018_m01: Don't leave your {LowercaseNextLetter}Equipment in your Items—put it on!\nI recommend {Variable=1} for any of your allies\nwhose {Variable=0} isn't high enough.
+MID_Guide019_t: No such thing as too much money!
+MID_Guide019_m01: I love money! It's kind of an important thing to have\na lot of. So if there are any weapons, materials, or\nitems you have no use for, go on and sell them off!
+MID_Guide020_m01: Have you been to the tavern in lowtown? You can\nactually buy all kinds of {LowercaseNextLetter}Gifts there. They even let\nkids in, so don't let that stop you.
+MID_Guide022_t: Get a discount on {LowercaseNextLetter}Training!
+MID_Guide022_m01: I'm sure you've done {LowercaseNextLetter}Training to boost experience,\nbut did you know it's cheaper on weekends? Don't\npass up the chance to get stronger at a low price!
+MID_Guide023_t: Ready for a {Lowercase}Certification Exam{NormalCase}?
+MID_Guide023_m01: You know you can take {Lowercase}Certification Exams{NormalCase}, right?\nI say you're ready for a beginner {Lowercase}Certification Exam{NormalCase}.\nBut if all your squad are beginner classes, you're set!
+MID_Guide024_t: Noctula is great with gauntlets.
+MID_Guide025_t: Do you get along with animals?
+MID_Guide025_m01: I love animals. They're so cute! You can keep any\nanimals you catch in the {LowercaseNextLetter}Stable. Increase your \nBond Lv with them and you'll learn special abilities!
+MID_Guide026_t: Someone's looking for {LowercaseNextLetter}Orniuses.
+MID_Guide026_m01: I heard someone's in the market for {LowercaseNextLetter}Orniuses.\nThink you can help them out? You can probably find\nthem out by the {LowercaseNextLetter}Stable.
+MID_Guide027_t: Ever seen a {Lowercase}Silver Mummy{NormalCase}?
+MID_Guide027_m01: Attention, Heroic Games participants! We've had\nsome {Lowercase}Silver Mummy{NormalCase} sightings lately. They give a lot\nof experience points, but they're tough, so be careful.
+MID_Guide028_t: Got an answer for enemy cavalry?
+MID_Guide029_t: Try out Aurora's {LowercaseNextLetter}Mentoring.
+MID_Guide029_m01: Once your Renown Lv reaches {Variable=0}, Aurora will agree \nto train you. Her first lesson is on not getting hurt!
+MID_Guide030_t: Service can earn a god's favor.
+MID_Guide030_m01: Did you know you can receive blessings in battle?\nThey're all pretty powerful, so I say go for it! To get\none, just do some {LowercaseNextLetter}Service at a temple.
+MID_Guide032_t: You can {LowercaseNextLetter}Recruit from other clans!
+MID_Guide032_m01: Did you know you can {LowercaseNextLetter}Recruit people from other\nclans? Butter them up with {LowercaseNextLetter}Gifts, then invite them\nto a {LowercaseNextLetter}Meal to get closer. Me? Ha, maybe someday!
+MID_Guide033_t: Get an audience with a god!
+MID_Guide033_m01: Once your Renown Lv reaches {Variable=0}, you can meet a\ngod face-to-face. Hearing their stories will boost your\nfame! Just be aware that gods have busy schedules.
+MID_Guide034_t: Have you been {LowercaseNextLetter}Farming?
+MID_Guide034_m01: You know that {LowercaseNextLetter}Farming yields tons of ingredients,\nright? You could throw a {LowercaseNextLetter}Feast for your allies, sell\nthem, or even gift them as acts of {LowercaseNextLetter}Kindness.
+MID_Guide035_m01: Have you been helping people? Kindness is the best\nway to raise your renown. Say, I just met a merchant\nwho was having vegetable troubles...hint, hint.
+MID_Guide036_m01: Need weapons for a big match? I hear Vandahl\nTrading has iron weapons in stock. They hit harder\nthan bronze weapons—just don't forget to equip 'em!
+MID_Guide037_t: Have you visited the {LowercaseNextLetter}Blacksmith?
+MID_Guide037_m01: The {LowercaseNextLetter}Blacksmith can refine or repair your weapons.\nIt costs ore and money, but the results are worth it.\nIf you need ore, you can find it in {LowercaseNextLetter}Dungeons!
+MID_Guide038_t: Anyone seen a {Lowercase}Golden Mummy{NormalCase}?
+MID_Guide038_m01: Attention, Heroic Games participants! We've had\nreports of {Lowercase}Golden Mummy{NormalCase} sightings. They drop\nplenty of cash, but they're tough, so be careful.
+MID_Guide039_t: Refine a weapon with ore!
+MID_Guide040_t: Can't equip a weapon? Train more!
+MID_Guide040_m01: If your Skill Lv's too low, you can't equip strong\nweapons. My solution? Get some {LowercaseNextLetter}Training in to raise\nyour level for the edge you need in a fight!
+MID_Guide041_t: Go see Bertrand for {LowercaseNextLetter}Mentoring!
+MID_Guide041_m01: At Renown Lv {Variable=0}, Bertrand will offer you {LowercaseNextLetter}Mentoring.\nFirst on his agenda is teaching you how to deal with\ndifferent kinds of enemies.
+MID_Guide042_t: Feasts restore your HP!
+MID_Guide042_m01: Far from Dagsion and low on HP? Throw a bunch of\ningredients into a {LowercaseNextLetter}Feast! Not only does it restore HP,\nit helps bring you closer to your friends.
+MID_Guide043_t: Go talk to the {LowercaseNextLetter}Merchant.
+MID_Guide044_t: Closed checkpoint got you down?
+MID_Guide044_m01: I heard some shady characters are blocking a\ncheckpoint so no one can pass. I don't know the\ndetails, but the traveler near the bulletin board might.
+MID_Guide045_t: Try out Centurio's {LowercaseNextLetter}Mentoring!
+MID_Guide045_m01: Once you're at Renown Lv {Variable=0}, you can train with\nCenturio. I wonder what he has to say about fighting\ngiant foes... I bet the rewards are huge to match.
+MID_Guide046_t: Yang Jie is great at healing.
+MID_Guide047_t: Heard of the {Lowercase}Hexlock Shield{NormalCase}?
+MID_Guide047_m01: Def helps against Phys, while Res wards against Mys.\nRes is tough to train, though... Maybe you can {LowercaseNextLetter}Trade\nfor a {Lowercase}Hexlock Shield{NormalCase} somewhere?
+MID_Guide049_t: Nydine is great with axes.
+MID_Guide050_t: Do your riders have their mounts?
+MID_Guide050_m01: Did you assign captive animals to your ornius riders\nand light cavalry? You'll want to strengthen those\nBond Lvs to learn new abilities!
+MID_Guide052_t: Try to catch a rare animal!
+MID_Guide052_m01: Rare animals can be found at certain spots. If you set\nout their preferred bait, you can lure them in and\ntake them for your own!
+MID_Guide053_t: Are you checking in on {LowercaseNextLetter}Supports?
+MID_Guide053_m01: Are you up to date with your allies' {LowercaseNextLetter}Supports?\nYou might see a new side of them! You can boost\nyour Support Lv with {LowercaseNextLetter}Gifts and {LowercaseNextLetter}Meals.
+MID_Guide054_m01: Once your Renown Lv reaches {Variable=0}, you earn more skill\nexperience from {LowercaseNextLetter}Training. Put that together with the\nweekend discount and you'll become a powerhouse!
+MID_Guide055_m01: You're pretty tough now. Maybe it's time for the\nspecialty class {Lowercase}Certification Exam{NormalCase}? If most of your\ncrew has advanced once, it should be no sweat.
+MID_Guide056_t: You've got ranged weapons, right?
+MID_Guide057_m01: Once your Renown Lv reaches {Variable=0}, you can train with\nCastor. I don't know what his secret request involves,\nbut the payoff is bound to be amazing.
+MID_Guide058_m01: Farming nets tons of ingredients—and once your\nRenown Lv hits {Variable=0}, you can {LowercaseNextLetter}Farm even more\nand harvest even more ingredients!
+MID_Guide059_t: Go out for a {LowercaseNextLetter}Meal and a play!
+MID_Guide059_m01: Sharing a {LowercaseNextLetter}Meal with friends is nice, and seeing a play\nafter is even better. At Renown Lv {Variable=0}, you can invite\nfolks to the {LowercaseNextLetter}Theater! Me? Hey, get to know me first!
+MID_Guide060_t: Hunters want a hunter's bow!
+MID_Guide060_m01: Beasts like {Lowercase}Atlas Bears{NormalCase} and striped wolves are tough\ncustomers, but a hunter's bow should even the odds!\nI think you can buy them at {Variable=0}.
+MID_Guide061_t: Jasmine boasts some heavy armor.
+MID_Guide063_t: Farm for rare ingredients!
+MID_Guide064_m01: Are you aware of {LowercaseNextLetter}Equipment that boosts healing\nmagic? I hear the healing staff you can {LowercaseNextLetter}Trade for at\nVandahl Trading makes restorative spells stronger.
+MID_Guide065_t: The coachman needs a hand.
+MID_Guide065_m01: Carriages are convenient, but they don't let kids ride\nwithout an adult. Still, I hear the coachman's got\ntrouble... Maybe if you help, they'll let you on board?
+MID_Guide067_t: Got a weapon good against armor?
+MID_Guide069_m01: At Renown Lv {Variable=0}, you can train with Aurora.\nWhatever it is she asks of you, I'm confident the\nreward will be worth your while.
+MID_Guide070_t: Auditions are open for the {LowercaseNextLetter}Theater!
+MID_Guide070_m01: At Renown Lv {Variable=0}, you can {LowercaseNextLetter}Act in the theater. You\nget paid for it, so it's worth doing. And if you act\nopposite one of your allies, I bet you'll grow closer!
+MID_Guide071_t: Have you been to the {LowercaseNextLetter}Thermae?
+MID_Guide071_m01: Do you know the {LowercaseNextLetter}Thermae past the {LowercaseNextLetter}Theater? They'll\nlet you in once you have Renown Lv {Variable=0}. If you {LowercaseNextLetter}Bathe\nwith allies, you're guaranteed to grow closer!
+MID_Guide073_t: Do you know about {LowercaseNextLetter}Paralogues?
+MID_Guide073_m01: I heard some entrants in the Heroic Games have\nfavors to ask. If you're interested, why not talk to\nthem? Help them out and it could pay off later.
+MID_Guide074_m01: They say weapons from Da Mina are incredibly\naccurate. Sounds good to me! Why not try searching\nfor the place on the world map?
+MID_Guide075_t: Need to heal a distant ally?
+MID_Guide075_m01: Sometimes you need to heal allies at a distance.\nWell, with the white magic Physic, you can! It's a\ntrick Sofia or Yang Jie can learn.
+MID_Guide076_m01: Psst...a big battle's coming up. Are your gear, skills,\nclasses, and combat arts where they need to be? If\nnot, try to {LowercaseNextLetter}Recruit someone with healing magic.
+MID_Guide077_m01: At Renown Lv {Variable=0}, you can train with Bertrand.\nI don't know what the White-Maned Demon will ask\nof you, but whatever it is, the chance is worth it.
+MID_Guide081_t: Did you hear about these amulets?
+MID_Guide081_m01: Vandahl Trading just got in a shipment of amulets.\nCarrying one supposedly helps you resist certain\nweapons, but they only take rare materials in {LowercaseNextLetter}Trade.
+MID_Guide083_m01: You've come a long way. It might be time you took\nthe advanced class {Lowercase}Certification Exams{NormalCase}! But those\nexam licenses are precious, so choose wisely.
+MID_Guide086_t: A little hint about godly weapons...
+MID_Guide086_m01: Get a weapon from a god? Have the {LowercaseNextLetter}Blacksmith\ngive it a look. I hear even those can be {LowercaseNextLetter}Refined!
+MID_Guide088_t: New products at Vandahl Trading!
+MID_Guide088_m01: I hear Vandahl Trading Co. just got an interesting\nmagic tome called an archive-something. If you're\ninterested, stop by and check it out.
+MID_Guide089_m01: At Renown Lv {Variable=0}, special baths are available at the\n{LowercaseNextLetter}Thermae. You'll learn special abilities by bathing\nthere. So go {LowercaseNextLetter}Bathe with your allies to grow closer!
+MID_Guide090_t: Sound out hidden enemies!
+MID_Guide090_m01: Defeat enemies you find with Answerer's Cry and\nyou get experience, {Lowercase}Magic Echo Shards{NormalCase}, and renown\nto boot. Don't forget to use it on long trips!
+MID_Guide091_t: Strengthened any combat arts yet?
+MID_Guide091_m01: Can't believe Smyrnos is letting you strengthen your\ncombat arts! Now you just need to collect lots of\n{Lowercase}Magic Echo Shard{NormalCase}s with Answerer's Cry.
+MID_Guide093_t: Got a {Lowercase}Challenge Letter, did you?
+MID_Guide093_m01: I heard you received a {Lowercase}Challenge Letter{NormalCase}! Does it\npique your desire to go meet your challenger? If you\nwin, you might learn a secret combat art.
+MID_Guide097_t: Kiroc is great with bows.
+MID_Guide098_t: What works against fliers?
+MID_Guide100_t: Teach any secrets yet?
+MID_Guide100_m01: Smyrnos has given you permission to {Lowercase}Teach Secrets{NormalCase}\nto your allies? It's perfect for making them stronger!\nYou can get {Lowercase}Magic Echo Shards{NormalCase} with Answerer's Cry.
+MID_Guide102_t: How is Answerer holding up?
+MID_Guide102_m01: Did you know that weapons lose durability when you\nuse combat arts? If Answerer is getting worn down,\nyou'll need to repair it with ore from Shadowy Cave.
+MID_Guide106_t: How can you fight the Sea Tyrant?
+MID_Guide106_m01: They say Cetus, the Sea Tyrant, is basically a dragon.\nWhich means Answerer's Bloodletting should work\ngreat! Repair it before heading out and you'll be fine.
+MID_Guide109_t: Need a charioteer? Go for Benditz!
+MID_Guide111_t: Ready to explore desert {LowercaseNextLetter}Dungeons?
+MID_Guide111_m01: I hear you're traveling the desert now! There are\nseveral {LowercaseNextLetter}Dungeons hidden in the dunes. Why not\npoke around while you're there?
+MID_Guide114_t: Catania is a skilled wing soldier.
+MID_Guide120_t: Gambits are where {LowercaseNextLetter}Battalions shine!
+MID_Guide120_m01: Deploying {LowercaseNextLetter}Battalions in battle lets you use {LowercaseNextLetter}Gambits,\nwhich can attack, heal, stall—you name it. Not only\nthat, they also boost your authority skill experience!
+MID_Guide121_t: Have you been sending supplies?
+MID_Guide121_m01: I'm impressed by how you send supplies home!\nIt takes time to {LowercaseNextLetter}Deploy troops to {LowercaseNextLetter}Search spots,\nbut it frees you up to focus on other things.
+MID_Guide122_t: Send supplies your battalions find!
+MID_Guide123_t: Sofia is great at healing.
+MID_Guide124_t: Some {LowercaseNextLetter}Battalions handle fliers easily!
+MID_Guide126_t: A few {LowercaseNextLetter}Battalions slow things down.
+MID_Guide127_t: Know any {LowercaseNextLetter}Battalions who can heal?
+MID_Guide128_t: How's recruiting soldiers going?
+MID_Guide129_t: Have you {LowercaseNextLetter}Refined your weapons?
+MID_Guide130_m01: There's a sword called the cleansing blade that's great\nagainst the risen dead of the underworld. Vandahl\nTrading stocks them, if you have something to trade.
+MID_Guide135_t: Some {LowercaseNextLetter}Battalions help with cavalry!
+MID_Guide136_t: Zarcone is great with axes.
+MID_Guide138_t: Ever used the {Lowercase}Transport Chief{NormalCase}?
+MID_Guide138_m01: You can have your {Lowercase}Transport Chief{NormalCase} send {LowercaseNextLetter}Battalions\nto Saramis. They're honored to help defend their\nland! Send enough and you'll get a Tactics Manual.
+MID_Guide139_t: Alexandra is an ace wing soldier.
+MID_Guide146_t: Unique weapons can be {LowercaseNextLetter}Refined too!
+MID_Guide146_m01: Is that Mahadu's own spear?! Even that could be\nimproved with the right materials. Ask about it at\nthe {LowercaseNextLetter}Blacksmith if you're curious.
+MID_Guide148_t: Give recruits a {Lowercase}Rousing Speech{NormalCase}!
+MID_Guide149_t: A word about weapon crates...
+MID_Guide149_m01: I heard that Vandahl Trading has new weapon crates\nfrom Da Mina. If only I knew where to {LowercaseNextLetter}Search for the\nmaterials they want in trade...
+MID_Guide150_t: Deploy your forces to get materials!
+MID_Guide152_t: Deploy your forces to gather ore!
+MID_Guide160_t: Given any local performances?
+MID_Guide161_t: Learn about any interesting spots?
+MID_Guide161_m01: Doing local performances is a good way to get the\nskinny on secret spots that aren't on the map.\nMaterials from there will come in handy at taverns!
+MID_Guide162_t: Catania is great with spears.
+MID_Guide163_t: Are you helping out the locals?
+MID_Guide165_t: How are the tavern requests going?
+MID_Guide165_m01: So the tavern keeper needs something, eh? I know\nyou need to raise your Renown Lv and gather\nmaterials, but this should inspire a new song!
+MID_Guide166_t: Did you have a refreshing drink?
+MID_Guide166_m01: Say, has the tavern started selling special drinks?\nIf not, raise your Renown Lv and gather materials.\nI myself could go for a pick-me-up some mornings...
+MID_Guide167_t: Feel like {LowercaseNextLetter}Searching for a rare leaf?
+MID_Guide167_m01: Have you turned up any interesting leaves? They're\nvery valuable to the right person. I hear you can find\nthem by {LowercaseNextLetter}Searching special spots.
+MID_Guide169_m01: I heard you're doing local performances! You should\nstop by the shops while you're in the neighborhood.\nYou never know what you might find there!
+MID_Guide174_t: Did you see Syracusio?
+MID_Guide174_m01: Syracusio—er, I guess I should say Sirocco—seemed\nlike he wanted to talk to you about something. Not\nmy business, just letting you know!
+MID_Guide178_t: Rumors of Drake's treasures!
+MID_Guide178_m01: Guess what—you can even {LowercaseNextLetter}Refine Drake's treasures!\nWait, you have some?! Amazing! Maybe you should\ncheck the necessary materials at the {LowercaseNextLetter}Blacksmith.
+MID_Guide181_t: Have you taken Kalla's trial?
+MID_Guide181_m01: Congrats on getting permission to try Kalla's trial!\nIf you complete it, you'll be awarded her Supreme\nArc, which is a great honor and a killer deal.

@@ -1,0 +1,822 @@
+﻿MID_TUT_Hub_Spire_t: Obelisk Chamber
+MID_TUT_Hub_Spire_m01_001: {SetColor=Gold}Interact with any of the obelisks {SetColor=Default}lining this chamber\nto {SetColor=Gold}begin {SetColor=Default}one of the {SetColor=Gold}Flame Lords' paths{SetColor=Default}.
+MID_TUT_Hub_Spire_m01_002: Choose whichever {SetColor=Gold}obelisk {SetColor=Default}you like and explore its\npath. Then {SetColor=Gold}guide the Flame Lords {SetColor=Default}to this place.
+MID_TUT_Hub_Warehouse_t: Drifting Reliquary
+MID_TUT_Hub_Warehouse_m01_001: Each time you clear the {SetColor=Gold}War Arc{SetColor=Default}, the {SetColor=Gold}Drifting\nReliquary {SetColor=Default}will store items, materials, mounts, and\n{SetColor=Menu}{LowercaseNextLetter}Battalions {SetColor=Default}acquired in Part I and the War Arc.
+MID_TUT_Hub_Warehouse_m01_002: You can spend {SetColor=Gold}karma shards{SetColor=Default} to {SetColor=Gold}withdraw{SetColor=Default}\nitems from it to use in the {SetColor=Gold}Salvation Arc{SetColor=Default}.
+MID_TUT_Hub_Causal_t: 
+MID_TUT_Hub_Causal_m01_001: 
+MID_TUT_Hub_Merge_t: Merging Causality
+MID_TUT_Hub_Merge_m01_001: You can spend karma shards to {SetColor=Gold}Merge Causality{SetColor=Default}\nof {SetColor=Gold}allies other than the Flame Lords{SetColor=Default}.
+MID_TUT_Hub_Merge_m01_002: Their {SetColor=Gold}abilities {SetColor=Default}and {SetColor=Gold}combat arts {SetColor=Default}will be carried over\nas is, with the {SetColor=Gold}higher stats {SetColor=Default}taking precedent.
+MID_TUT_Hub_Destination_t: Objective Icon
+MID_TUT_Hub_Destination_m01_001: A {Icon} will {SetColor=Gold}be displayed {SetColor=Default}at the {SetColor=Gold}location\nof your objective to progress the story{SetColor=Default}.
+MID_TUT_Hub_Destination_m01_002: {SetColor=Gold}When you aren't sure {SetColor=Default}what to do, head to {SetColor=Gold}where\nthis icon is shown {SetColor=Default}and take a look around.
+MID_TUT_Hub_Advice_t: Foresight
+MID_TUT_Hub_Advice_m01_001: Important battles over the course of the story\nare called {SetColor=Gold}main battles{SetColor=Default}. You can get {SetColor=Gold}advance\ninformation about these battles{SetColor=Default} at the {LowercaseNextLetter}Perch.
+MID_TUT_Hub_Advice_m01_002: This information will contain advice on your\nideal level, effective weapon types, and more.\nUse this to master the battlefield.
+MID_TUT_Hub_AdventureNotebook_t: Adventure Journal
+MID_TUT_Hub_AdventureNotebook_m01_001: When you aren't sure what to do next, \npress {ButtonX} to open the {SetColor=Gold}Adventure Journal{SetColor=Default}.
+MID_TUT_Hub_AdventureNotebook_m01_002: It has information on {SetColor=Gold}recommended activities{SetColor=Default}\nand {SetColor=Gold}events{SetColor=Default}. This information is regularly\nupdated as the story progresses.
+MID_TUT_Hub_Map_t: Base Map
+MID_TUT_Hub_Map_m01_001: Select {SetColor=Gold}Map {SetColor=Default}while in Dagsion to open the \n{SetColor=Gold}Base Map{SetColor=Default}, which gives the locations of shops,\nfacilities, allies, and important officials.
+MID_TUT_Hub_Map_m01_002: Outside of certain events, you can select\na facility, region, or person to visit and\n{SetColor=Gold}press {ButtonA} {SetColor=Default}to {SetColor=Gold}travel there immediately{SetColor=Default}.
+MID_TUT_Hub_SectionFree_t: Free Time
+MID_TUT_Hub_SectionFree_m01_001: {SetColor=Gold}Until you run out of turns{SetColor=Default}, you are free to {SetColor=Gold}improve\nyour combat effectiveness{SetColor=Default} by exploring the world\nmap or taking part in activities at your base.
+MID_TUT_Hub_SectionFree_m01_002: {SetColor=Gold}Turns{SetColor=Default} will pass when {SetColor=Gold}you move around the world\nmap{SetColor=Default}, or when {SetColor=Gold}you enter bases or dungeons{SetColor=Default}.
+MID_TUT_Hub_SectionFree_m01_003: Using {SetColor=Gold}facilities {SetColor=Default}within a base {SetColor=Gold}does not consume\nturns{SetColor=Default}, except for certain actions such as renting\na room. Instead, they consume motivation or gold.
+MID_TUT_Hub_Scout_t: Recruiting Allies
+MID_TUT_Hub_Scout_m01_001: If you give {SetColor=Gold}{LowercaseNextLetter}Gifts {SetColor=Default}to {SetColor=Gold}recruitable {SetColor=Default}allies, you can\nthen use {SetColor=Gold}Recruit {SetColor=Default}to ask them to join you.
+MID_TUT_Hub_Scout_m01_002: Successfully recruiting a character requires {SetColor=Gold}the\ncurrent Flame Lord{SetColor=Default} to meet the {SetColor=Gold}conditions {SetColor=Default}in their\n{SetColor=Gold}Character Info{SetColor=Default}, such as {SetColor=Gold}Renown Lv{SetColor=Default} and {SetColor=Gold}Support Lv{SetColor=Default}.
+MID_TUT_Hub_Scout_m01_003: Giving {LowercaseNextLetter}Gifts also opens people up to\nsharing {SetColor=Gold}{LowercaseNextLetter}Meals{SetColor=Default} and more. Use this as\nwell as {LowercaseNextLetter}Gifts to {SetColor=Gold}raise your Support Lv{SetColor=Default}.
+MID_TUT_Hub_Subquest_t: Quests
+MID_TUT_Hub_Subquest_m01_001: {SetColor=Gold}Accept quests {SetColor=Default}and {SetColor=Gold}fulfill {SetColor=Default}the requests you're\ngiven to {SetColor=Gold}earn various rewards{SetColor=Default}.
+MID_TUT_Hub_Subquest_m01_002: You can view the details and progress\nof accepted quests from the {SetColor=Gold}Quest List{SetColor=Default}\npage in your Adventure Journal.
+MID_TUT_Hub_Subquest_m01_003: Some quests have {SetColor=Gold}deadlines{SetColor=Default}, so\nbe sure to keep those in mind.
+MID_TUT_Hub_Inn_t: Inns
+MID_TUT_Hub_Inn_m01_001: At {SetColor=Gold}{LowercaseNextLetter}Inns{SetColor=Default}, you can {SetColor=Gold}restore your units' health{SetColor=Default}, {SetColor=Gold}deepen\ntheir relationships{SetColor=Default}, or {SetColor=Gold}spend time efficiently{SetColor=Default}.
+MID_TUT_Hub_Inn_m01_002: Make use of them when your allies are fatigued from\nbattle, when you want to raise their support points,\nor when you want to automatically spend free time.
+MID_TUT_Hub_IndividualAction_t: Auto-Activities
+MID_TUT_Hub_IndividualAction_m01_001: A simple way of {SetColor=Gold}earning rewards{SetColor=Default} is to choose\nyour party members' {SetColor=Gold}actions{SetColor=Default} for a {SetColor=Gold}set number\nof turns{SetColor=Default} then let them {SetColor=Gold}run automatically{SetColor=Default}.
+MID_TUT_Hub_IndividualAction_m01_002: {SetColor=Gold}Search {SetColor=Default}yields {SetColor=Gold}gold and materials{SetColor=Default},\nwhile {SetColor=Gold}Combat {SetColor=Default}and {SetColor=Gold}Training{SetColor=Default} grant\n{SetColor=Gold}different types of Exp{SetColor=Default}.
+MID_TUT_Hub_Meal_t: Meals
+MID_TUT_Hub_Meal_m01_001: Select three characters to share a {SetColor=Gold}meal{SetColor=Default}, {SetColor=Gold}restoring\ntheir HP and magic{SetColor=Default}. Their {SetColor=Gold}{Lowercase}Support Points{NormalCase} {SetColor=Default}also\nincrease depending on their {SetColor=Gold}taste for the food{SetColor=Default}.
+MID_TUT_Hub_Meal_m01_002: They may also regain {SetColor=Gold}{LowercaseNextLetter}Motivation{SetColor=Default}. If they {SetColor=Gold}liked\nthe meal{SetColor=Default}, they will {SetColor=Gold}regain more than normal{SetColor=Default},\nbut if they disliked it, they won't regain any.
+MID_TUT_Hub_Market_t: Marketplaces
+MID_TUT_Hub_Market_m01_001: At a {SetColor=Gold}{LowercaseNextLetter}Marketplace{SetColor=Default}, you can {SetColor=Gold}purchase gifts{SetColor=Default}\nto give to characters around the base.
+MID_TUT_Hub_Market_m01_002: Giving a gift will {SetColor=Gold}increase your {Lowercase}Support Points{NormalCase}{SetColor=Default}\nwith that character. If they are {SetColor=Gold}fond of the gift{SetColor=Default},\nyou'll earn {SetColor=Gold}even more{SetColor=Default} support points.
+MID_TUT_Hub_WeaponShop_t: Armories
+MID_TUT_Hub_WeaponShop_m01_001: At {SetColor=Gold}armories{SetColor=Default}, you can {SetColor=Gold}purchase {SetColor=Default}and\n{SetColor=Gold}sell weapons {SetColor=Default}used in battle.
+MID_TUT_Hub_WeaponShop_m01_002: As the story progresses, armories will\nrestock and expand their selection.
+MID_TUT_Hub_ToolShop_t: Item Shops
+MID_TUT_Hub_ToolShop_m01_001: At {SetColor=Gold}{Lowercase}Item Shops{NormalCase}{SetColor=Default}, you can {SetColor=Gold}buy and sell\n{LowercaseNextLetter}Equipment {SetColor=Default}like vulneraries and shields.
+MID_TUT_Hub_ToolShop_m01_002: As the story progresses, item shops will\nrestock and expand their selection.
+MID_TUT_Hub_Temple_t: Temples
+MID_TUT_Hub_Temple_m01_001: Here, you can perform {SetColor=Gold}{LowercaseNextLetter}Services {SetColor=Default}for\nthe gods to gain {SetColor=Gold}blessings{SetColor=Default}, as well as\nselect {SetColor=Gold}blessings {SetColor=Default}to use in battle.
+MID_TUT_Hub_Temple_m01_002: If your renown is high enough, you can also\nrequest an {SetColor=Gold}audience {SetColor=Default}with a temple's deity.
+MID_TUT_Hub_GodGate_t: Gate of the Gods
+MID_TUT_Hub_GodGate_m01_001: Once you receive permission, you can use a\n{SetColor=Gold}Gate of the Gods {SetColor=Default}to {SetColor=Gold}instantly travel{SetColor=Default} between\na {SetColor=Gold}main temple and its branch temple{SetColor=Default}.
+MID_TUT_Hub_ClassTrial_t: Certification Exams
+MID_TUT_Hub_ClassTrial_m01_001: Pass a {SetColor=Gold}{Lowercase}Certification Exam{NormalCase} {SetColor=Default}for a class to\ngain the right to {SetColor=Gold}change to that class{SetColor=Default}.
+MID_TUT_Hub_ClassTrial_m01_002: In order to take an exam, you need an {SetColor=Gold}exam license\nfor the tier of the class you want to change to{SetColor=Default}. \nThese can be purchased from the license vendor.
+MID_TUT_Hub_ClassTrial_m01_003: If a {SetColor=Gold}unit's level{SetColor=Default} or {SetColor=Gold}Skill Lv{SetColor=Default} is lower than what\nis required for the class, then their chance\nof {SetColor=Gold}passing the exam will decrease{SetColor=Default}.
+MID_TUT_Hub_ClassChange_t: Reclassing Units
+MID_TUT_Hub_ClassChange_m01_001: A unit that has passed a certification exam can\nswitch to that class at any time using {SetColor=Gold}Reclass{SetColor=Default}.
+MID_TUT_Hub_GodFormation_t: Blessings
+MID_TUT_Hub_GodFormation_m01_001: You can {SetColor=Gold}choose{SetColor=Default} which {SetColor=Gold}blessings {SetColor=Default}gained\nthrough {LowercaseNextLetter}Service to {SetColor=Gold}use in battle{SetColor=Default}.
+MID_TUT_Hub_GodFormation_m01_002: Each god's {SetColor=Gold}blessing{SetColor=Default} has different effects,\nwhich require different amounts of\n{SetColor=Gold}Divine Sand {SetColor=Default}to use, so keep that in mind.
+MID_TUT_Hub_Volunteer_t: Temple Service
+MID_TUT_Hub_Volunteer_m01_001: Choose two people to perform {SetColor=Gold}service{SetColor=Default}. This will\n{SetColor=Gold}increase {SetColor=Default}the {SetColor=Gold}tribute {SetColor=Default}to the god the temple is\ndedicated to, and {SetColor=Gold}support points {SetColor=Default}between the two.
+MID_TUT_Hub_Volunteer_m01_002: Once your {LowercaseNextLetter}Tribute reaches a certain level,\nyour {SetColor=Gold}Blessing Lv will increase{SetColor=Default}, allowing you\nto use the god's {SetColor=Gold}blessings in battle{SetColor=Default}.
+MID_TUT_Hub_Volunteer_m01_003: Each god has their own {SetColor=Gold}holy day{SetColor=Default}. On these days,\nyour {SetColor=Gold}{LowercaseNextLetter}Service is guaranteed to earn high marks{SetColor=Default},\nand your {LowercaseNextLetter}{SetColor=Gold}Tribute{SetColor=Default} will increase more than usual.
+MID_TUT_Hub_Gift_t: Giving Gifts
+MID_TUT_Hub_Gift_m01_001: The {SetColor=Gold}Gifts {SetColor=Default}command allows you to choose a gift and\nhand it to the recipient to {SetColor=Gold}raise {Lowercase}Support Points{NormalCase}{SetColor=Default}.
+MID_TUT_Hub_Gift_m01_002: If {SetColor=Gold}they like the gift{SetColor=Default}, you'll raise {SetColor=Gold}even\nmore support points {SetColor=Default}with them.
+MID_TUT_Hub_Training_t: Training
+MID_TUT_Hub_Training_m01_001: Choose two allies to {SetColor=Gold}train{SetColor=Default} together.\nThey will {SetColor=Gold}gain skill experience{SetColor=Default} and\ntheir {SetColor=Gold}support points will increase{SetColor=Default}.
+MID_TUT_Hub_Training_m01_002: The types of {SetColor=Gold}{LowercaseNextLetter}Training{SetColor=Default} available {SetColor=Gold}change\neach week{SetColor=Default}. The {SetColor=Gold}skill Exp{SetColor=Default} you gain varies\ndepending on which {LowercaseNextLetter}Training you choose.
+MID_TUT_Hub_Arena_t: Spectating
+MID_TUT_Hub_Arena_m01_001: If you go to the {SetColor=Gold}arena reception during\nanother clan's {SetColor=Default}match, you can {SetColor=Gold}watch {SetColor=Default}it.
+MID_TUT_Hub_Arena_m01_002: You can find out {SetColor=Gold}match dates {SetColor=Default}from the\n{SetColor=Gold}arena reception{SetColor=Default} or from the {SetColor=Gold}{LowercaseNextLetter}Calendar{SetColor=Default}.
+MID_TUT_Hub_firm_t: Vandahl Trading Company
+MID_TUT_Hub_firm_m01_001: Here, you can {SetColor=Gold}trade materials {SetColor=Default}for\nspecial {SetColor=Gold}weapons and items{SetColor=Default}.
+MID_TUT_Hub_firm_m01_002: They stock some {SetColor=Gold}rare goods {SetColor=Default}you won't find\nin normal shops, so pay them a visit.
+MID_TUT_Hub_Perch_t: Feeding the Pale Raven
+MID_TUT_Hub_Perch_m01_001: When the Pale Raven {AvatarName} is on {SetColor=Gold}its\nperch{SetColor=Default}, you can {SetColor=Gold}feed the Pale Raven {SetColor=Default}to {SetColor=Gold}raise its\nsupport points with a companion of your choice{SetColor=Default}.
+MID_TUT_Hub_Perch_m01_002: When your chosen companion feeds it,\nyou'll see a {SetColor=Gold}brief interaction {SetColor=Default}play out.
+MID_TUT_Hub_Perch_m01_003: As the Pale Raven, try to choose {SetColor=Gold}reactions\nyour companion will favor{SetColor=Default}. If you do, the pair's\n{SetColor=Gold}support points will increase{SetColor=Default} accordingly.
+MID_TUT_Hub_AdventBonds_t: Support Salvation
+MID_TUT_Hub_AdventBonds_m01_001: On battle maps or in clashes, there is a {SetColor=Gold}chance{SetColor=Default}\nthat {SetColor=Gold}{AvatarName} {SetColor=Default}may appear in battle. \nThis is called {SetColor=Gold}support salvation{SetColor=Default}.
+MID_TUT_Hub_AdventBonds_m01_002: There are two types: {SetColor=Gold}White Wings of Protection{SetColor=Default} and\n{SetColor=Gold}Flying Bright Spear{SetColor=Default}. Their {SetColor=Gold}chance of occurring{SetColor=Default} is \nbased on your {SetColor=Gold}Support Lv {SetColor=Default}with {AvatarName}.
+MID_TUT_Hub_AdventBonds_m01_003: White Wings of Protection occurs on {SetColor=Gold}battle maps{SetColor=Default},\nwhen a unit about to {SetColor=Gold}receive a fatal blow {SetColor=Default}is protected\nby {AvatarName} arriving to {SetColor=Gold}block the attack{SetColor=Default}.
+MID_TUT_Hub_AdventBonds_m01_004: Flying Bright Spear occurs {SetColor=Gold}during clashes{SetColor=Default}.\nWhen your side's {SetColor=Gold}total HP is low{SetColor=Default}, {AvatarName}\ncan arrive to {SetColor=Gold}wipe out all your foes{SetColor=Default}.
+MID_TUT_Hub_DestinyKarma_t: Notable Deeds and Boons of Salvation
+MID_TUT_Hub_DestinyKarma_m01_001: {SetColor=Gold}Notable Deeds {SetColor=Default}is a list of the various\n{SetColor=Gold}milestones {SetColor=Default}you've achieved. Each one\n{SetColor=Gold}grants {Lowercase}Karma Shards{NormalCase} {SetColor=Default}as a reward.
+MID_TUT_Hub_DestinyKarma_m01_002: {SetColor=Gold}Boons of Salvation{SetColor=Default} are {SetColor=Gold}helpful effects{SetColor=Default}\npurchased with karma shards that\ncan assist you in the game.
+MID_TUT_Hub_DestinyKarma_m01_003: Fulfill certain conditions in order to increase\nsome effects and unlock new boons.
+MID_TUT_Hub_Thermae_t: Thermae
+MID_TUT_Hub_Thermae_m01_001: Two companions will {SetColor=Gold}bathe{SetColor=Default} together. Depending\non the type of water used, they will {SetColor=Gold}gain {SetColor=Default}special\n{SetColor=Gold}abilities{SetColor=Default} until {SetColor=Gold}the end of that chapter's main battle{SetColor=Default}.
+MID_TUT_Hub_Thermae_m01_002: In addition, the characters will gain\n{Lowercase}Support Points{NormalCase} with each other, and their\n{SetColor=Gold}HP{SetColor=Default}, {SetColor=Gold}magic{SetColor=Default}, and {SetColor=Gold}{Lowercase}Motivation{NormalCase} {SetColor=Default}will be {SetColor=Gold}restored{SetColor=Default}.
+MID_TUT_Hub_TheaterViewing_t: Watching
+MID_TUT_Hub_TheaterViewing_m01_001: Choose two companions to {SetColor=Gold}watch{SetColor=Default}, {SetColor=Gold}increasing their{SetColor=Default}\n{SetColor=Gold}{Lowercase}Support Points{NormalCase} with each other{SetColor=Default}. The increase will be\n{SetColor=Gold}greater{SetColor=Default} if they {SetColor=Gold}liked the play{SetColor=Default} or {SetColor=Gold}their tastes match{SetColor=Default}.
+MID_TUT_Hub_TheaterViewing_m01_002: They may also regain {SetColor=Gold}{LowercaseNextLetter}Motivation{SetColor=Default}. If they {SetColor=Gold}liked\nthe play{SetColor=Default}, they will {SetColor=Gold}regain more than normal{SetColor=Default},\nbut if they disliked it, they won't regain any.
+MID_TUT_Hub_Theater_t: Acting
+MID_TUT_Hub_Theater_m01_001: {SetColor=Gold}Perform {SetColor=Default}in a play with your choice of allies.\nThe cast's {SetColor=Gold}{Lowercase}Support Points{NormalCase} will increase{SetColor=Default},\nand you can {SetColor=Gold}earn rewards {SetColor=Default}such as gold.
+MID_TUT_Hub_Theater_m01_002: Each act will ask for your {SetColor=Gold}performance\ndirection{SetColor=Default}. The more appropriate your\nchoices, the {SetColor=Gold}better the rewards{SetColor=Default}.
+MID_TUT_Hub_Blacksmith_t: Blacksmith
+MID_TUT_Hub_Blacksmith_m01_001: At a {SetColor=Gold}{LowercaseNextLetter}Blacksmith{SetColor=Default}, you can exchange materials \nand gold to {SetColor=Gold}refine {SetColor=Default}and {SetColor=Gold}repair weapons{SetColor=Default}.
+MID_TUT_Hub_Blacksmith_m01_002: {SetColor=Gold}Refining {SetColor=Default}is the process of {SetColor=Gold}strengthening your\nweapons{SetColor=Default}. The stronger you make them, the\nmore materials and gold it takes.
+MID_TUT_Hub_Blacksmith_m01_003: {SetColor=Gold}Repairing restores any weapon durability{SetColor=Default}\nlost through the use of combat arts.
+MID_TUT_Hub_SideStory_t: Paralogues
+MID_TUT_Hub_SideStory_m01_001: {SetColor=Gold}Paralogues {SetColor=Default}are {SetColor=Gold}special quests{SetColor=Default} received\nfrom Flame Lords or notable characters.
+MID_TUT_Hub_SideStory_m01_002: Completing these requests not only earns\n{SetColor=Gold}rewards{SetColor=Default}, but also triggers {SetColor=Gold}changes in the\nstory {SetColor=Default}related to the relevant characters.
+MID_TUT_Hub_SideStory_m01_003: Find the client before the deadline and accept the\nquest. Once you do so, the quest information will\nbe added to your Quest List and calendar.
+MID_TUT_Hub_InformationBoard_t: Bulletin Boards
+MID_TUT_Hub_InformationBoard_m01_001: {SetColor=Gold}Bulletin boards{SetColor=Default} display requests to visit\nshops and facilities. Completing them will\n{SetColor=Gold}raise your renown {SetColor=Default}and {SetColor=Gold}earn you rewards{SetColor=Default}.
+MID_TUT_Hub_InformationBoard_m01_002: New requests will be posted whenever you gain\naccess to a new facility, so be sure to check back.
+MID_TUT_Hub_Fame_t: Renown
+MID_TUT_Hub_Fame_m01_001: {SetColor=Menu}{SetColor=Gold}Renown {SetColor=Menu}can be {SetColor=Gold}increased by progressing the story{SetColor=Menu},\ncompleting quests, and using some {SetColor=Gold}facilities{SetColor=Menu}.{SetColor=Default}
+MID_TUT_Hub_Fame_m01_002: When your renown reaches a certain\nthreshold, your {SetColor=Gold}Renown Lv {SetColor=Default}will increase,\n{SetColor=Gold}unlocking new perks{SetColor=Default}.
+MID_TUT_Hub_PreparationMarch_t: Battle Preparation Phase
+MID_TUT_Hub_PreparationMarch_m01_001: During the {SetColor=Gold}battle preparation phase {SetColor=Default}in the\nWar Arc, there are no turns or {SetColor=Gold}deadlines{SetColor=Default},\nand you are {SetColor=Gold}limited to activities in your base{SetColor=Default}.
+MID_TUT_Hub_PreparationMarch_m01_002: There are no shops, but each chapter you\nreceive {SetColor=Gold}free items{SetColor=Default} and {SetColor=Gold}weapon maintenance{SetColor=Default}.
+MID_TUT_Hub_PreparationMarch_m01_003: When you finish with preparations, speak to \nthe {SetColor=Gold}dispatch officer {SetColor=Default}to begin the main quest.
+MID_TUT_Hub_MarchingOfficer_t: Dispatch Officer
+MID_TUT_Hub_MarchingOfficer_m01_001: {SetColor=Menu}Talk to the {SetColor=Gold}dispatch officer {SetColor=Menu}and select {SetColor=Gold}Main Quest{SetColor=Menu}\nto end battle preparations and progress the story.{SetColor=Default}
+MID_TUT_Hub_MarchingOfficer_m01_002: {SetColor=Menu}Select {SetColor=Gold}Army Action{SetColor=Menu} to {SetColor=Gold}choose {SetColor=Menu}and execute\n{SetColor=Gold}one {SetColor=Menu}of the three {SetColor=Gold}Army Actions per chapter{SetColor=Menu}\nto improve your allies' combat readiness.{SetColor=Default}
+MID_TUT_Hub_SectionFree3_t: Promised One's Preparations
+MID_TUT_Hub_SectionFree3_m01_001: Use the period before underworld gates\nmanifest to recruit new allies, rebuild\nsettlements, and {SetColor=Gold}prepare for battle{SetColor=Default}.
+MID_TUT_Hub_SectionFree3_m01_002: {SetColor=Gold}Warriors linked by karma {SetColor=Default}await you in Dagsion.\nSpeak to them in order to {SetColor=Gold}recruit them to your ranks{SetColor=Default}.
+MID_TUT_Hub_SectionFree3_m01_003: Some facilities, such as the arena, are\nunavailable at first. They can be restored\nby delivering {SetColor=Gold}{Lowercase}Building Materials{NormalCase}{SetColor=Default}.
+MID_TUT_Hub_SectionFree3_m01_004: The {Lowercase}Building Materials{NormalCase} can be {SetColor=Gold}purchased in\nsettlements like villages and towns{SetColor=Default}. These\nlocations can be reached from the world map.
+MID_TUT_Hub_TempleCrown_t: The Temple of the Diadem
+MID_TUT_Hub_TempleCrown_m01_001: {SetColor=Menu}The {SetColor=Gold}{LowercaseNextLetter}Temple of the Diadem {SetColor=Menu}has {SetColor=Gold}five rooms{SetColor=Menu}, \neach containing an {SetColor=Gold}item necessary\nto take the exam for a divine class{SetColor=Menu}.{SetColor=Default}
+MID_TUT_Hub_TempleCrown_m01_002: The doors to these rooms {SetColor=Gold}are locked {SetColor=Default}and can\nonly be opened with a {SetColor=Gold}Key of the Diadem{SetColor=Default}.
+MID_TUT_Hub_TempleCrown_m01_003: There are five Keys of the Diadem. Each is\nhidden away {SetColor=Gold}in a treasure chest{SetColor=Default} somewhere\nin one of the land's {SetColor=Gold}dungeons{SetColor=Default}.
+MID_TUT_Hub_LegendPass_t: Divine License Items
+MID_TUT_Hub_LegendPass_m01_001: {SetColor=Gold}Divine license items{SetColor=Default} are special items required \nto take a {SetColor=Gold}divine certification exam{SetColor=Default}.
+MID_TUT_Hub_LegendPass_m01_002: While each certification item can only be used with\none character, choosing {SetColor=Gold}Return Certification {SetColor=Default}will\n{SetColor=Gold}allow another ally to take the exam{SetColor=Default} instead.
+MID_TUT_Hub_DueDate1_t: Progressing the Main Quest
+MID_TUT_Hub_DueDate1_m01_001: Even if the deadline has not arrived, you can\n{SetColor=Menu}{SetColor=Gold}voluntarily proceed to the main quest {SetColor=Menu}by\nselecting {SetColor=Gold}Main Quest {SetColor=Menu}at its {SetColor=Gold}location{SetColor=Menu}.{SetColor=Default}
+MID_TUT_Hub_DueDate1_m01_002: {SetColor=Menu}If you have {SetColor=Gold}visited its location even once{SetColor=Menu}, you\nmay {SetColor=Gold}select{SetColor=Menu} To Main Quest {SetColor=Gold}wherever you are{SetColor=Menu}.{SetColor=Default}
+MID_TUT_Hub_DueDate1_m01_003: In this case, even if the {SetColor=Gold}deadline {SetColor=Default}passes, you will\nstill {SetColor=Gold}automatically proceed to the main quest{SetColor=Default}.
+MID_TUT_Hub_DueDate2_t: Out of Time
+MID_TUT_Hub_DueDate2_m01_001: {SetColor=Menu}If your {SetColor=Gold}destination is outside Dagsion{SetColor=Menu} and the\n{SetColor=Gold}deadline{SetColor=Menu} arrives {SetColor=Gold}before you reach the indicated\nlocation{SetColor=Menu}, your time for the main quest is up.{SetColor=Default}
+MID_TUT_Hub_DueDate2_m01_002: You will be unable to progress the main quest\nand must {SetColor=Menu}{SetColor=Gold}restart {SetColor=Menu}from {SetColor=Gold}the beginning of the chapter{SetColor=Menu}.{SetColor=Default}
+MID_TUT_Hub_DueDate2_m01_003: However, if you have {SetColor=Gold}visited your destination{SetColor=Default} at least\nonce, it will be noted with an {SetColor=Gold}arrival mark{SetColor=Default} and you\nwill be returned there should the {SetColor=Gold}deadline{SetColor=Default} arrive.
+MID_TUT_Hub_FacilityReset_t: Facility Renewal
+MID_TUT_Hub_FacilityReset_m01_001: {SetColor=Menu}Some {SetColor=Gold}activities at facilities {SetColor=Menu}can\nonly be done {SetColor=Gold}once a week{SetColor=Menu}.{SetColor=Default}
+MID_TUT_Hub_FacilityReset_m01_002: {SetColor=Menu}These facilities {SetColor=Gold}reset on Sunday{SetColor=Menu}, or whenever {SetColor=Gold}a new\nchapter begins{SetColor=Menu}, allowing them to be used again.{SetColor=Default}
+MID_TUT_Hub_HonorPart3_t: Relief Lv
+MID_TUT_Hub_HonorPart3_m01_001: Your {SetColor=Gold}Relief Lv{SetColor=Default} will increase as you\n{SetColor=Gold}gain Relief Points{SetColor=Default}, granting {SetColor=Gold}a variety\nof items {SetColor=Default}that are useful in battle.
+MID_TUT_Hub_HonorPart3_m01_002: You can gain Relief Points through\n{SetColor=Gold}acts of salvation{SetColor=Default}, such as completing\nquests or rebuilding facilities.
+MID_TUT_Bmap_Move_t: Units and Movement
+MID_TUT_Bmap_Move_m01_001: An ally or enemy you select on the map\nis called a {SetColor=Gold}unit{SetColor=Default}. You make progress in the\ngame by controlling your ally units.
+MID_TUT_Bmap_Move_m01_002: To {SetColor=Gold}move {SetColor=Default}a unit, position the {SetColor=Gold}cursor {SetColor=Default}over\nthe unit you want to move and {SetColor=Gold}press {ButtonA}{SetColor=Default}.
+MID_TUT_Bmap_Move_m01_003: This will display their {SetColor=Gold}movement range {SetColor=Default}in {SetColor=Gold}blue{SetColor=Default}.\nMove the cursor to {SetColor=Gold}the spot you want to\nsend them to{SetColor=Default}, and then then press {SetColor=Gold}{ButtonA} {SetColor=Default}again.
+MID_TUT_Bmap_UnitCommand_t_: The Wait Command
+MID_TUT_Bmap_UnitCommand_m01_001: After a unit {SetColor=Gold}advances to their destination{SetColor=Default},\nthe {SetColor=Gold}unit commands {SetColor=Default}will be displayed.\nChoosing {SetColor=Gold}Wait {SetColor=Default}will end their movement.
+MID_TUT_Bmap_UnitCommand_m01_002: If you {SetColor=Gold}change your mind{SetColor=Default} about a unit's\ndestination, {SetColor=Gold}press {ButtonB} {SetColor=Default}while the commands\nare displayed to {SetColor=Gold}cancel {SetColor=Default}their movement.
+MID_TUT_Bmap_Attack_t: The Attack Command
+MID_TUT_Bmap_Attack_m01_001: If you move a unit {SetColor=Gold}so an enemy is within range{SetColor=Default},\nyou can select {SetColor=Gold}Attack {SetColor=Default}from the unit commands.
+MID_TUT_Bmap_Attack_m01_002: After selecting the {SetColor=Gold}Attack{SetColor=Default} command,\nyou can choose the {SetColor=Gold}attack type{SetColor=Default}, such\nas what {SetColor=Gold}weapon {SetColor=Default}you want to use.
+MID_TUT_Bmap_Attack_m01_003: Finally, the {SetColor=Gold}combat forecast {SetColor=Default}will be displayed.\nIf you're satisfied with it, {SetColor=Gold}press {ButtonA} {SetColor=Default}to start combat.
+MID_TUT_Bmap_Attack_m01_004: Up to this point, you can {SetColor=Gold}cancel with {ButtonB}{SetColor=Default}\nand {SetColor=Gold}go back to deciding the unit's movement{SetColor=Default}.
+MID_TUT_Bmap_ExperienceValue_t: Experience Points and Leveling Up
+MID_TUT_Bmap_ExperienceValue_m01_001: Units can earn {SetColor=Gold}experience points (Exp) {SetColor=Default}by engaging\nin {SetColor=Gold}battle {SetColor=Default}with enemies, {SetColor=Gold}defeating {SetColor=Default}them, and more.
+MID_TUT_Bmap_ExperienceValue_m01_002: When a unit gains a certain amount of\n{SetColor=Gold}experience points{SetColor=Default}, they will {SetColor=Gold}level up{SetColor=Default}, and their\n{SetColor=Gold}maximum HP {SetColor=Default}and {SetColor=Gold}basic stats {SetColor=Default}may {SetColor=Gold}increase{SetColor=Default}.
+MID_TUT_Bmap_PhaseChange_t: Phases and Turns
+MID_TUT_Bmap_PhaseChange_m01_001: Your army and the enemy army {SetColor=Gold}act one after\nthe other{SetColor=Default}. {SetColor=Gold}Each side's actions{SetColor=Default} make up a {SetColor=Gold}phase{SetColor=Default}.
+MID_TUT_Bmap_PhaseChange_m01_002: When {SetColor=Gold}all your units have acted {SetColor=Default}or you\nchoose to {SetColor=Gold}end the phase{SetColor=Default}, {SetColor=Gold}your phase will\nend {SetColor=Default}and the {SetColor=Gold}enemy phase {SetColor=Default}will begin.
+MID_TUT_Bmap_PhaseChange_m01_003: A {SetColor=Gold}complete set of phases {SetColor=Default}is called a {SetColor=Gold}turn{SetColor=Default}.\nOnce a turn ends, your phase will begin again.
+MID_TUT_Bmap_Reinforcements_t: Enemy Reinforcements
+MID_TUT_Bmap_Reinforcements_m01_001: {SetColor=Gold}Enemy reinforcements {SetColor=Default}will appear\nmid-battle on some maps.
+MID_TUT_Bmap_Reinforcements_m01_002: They usually arrive from the {SetColor=Gold}edges of the map{SetColor=Default}\nor from {SetColor=Gold}summoning spots{SetColor=Default}, so keep an eye out.
+MID_TUT_Bmap_Recovery_t: Restoring HP
+MID_TUT_Bmap_Recovery_m01_001: If an enemy attack {SetColor=Gold}reduces a unit's HP{SetColor=Default}, \nyou can {SetColor=Gold}restore it{SetColor=Default} by going to {SetColor=Gold}Items{SetColor=Default} and\nusing a {SetColor=Gold}{LowercaseNextLetter}Vulnerary{SetColor=Default}.
+MID_TUT_Bmap_Recovery_m01_002: If a unit's {SetColor=Gold}HP reaches 0{SetColor=Default}, it will {SetColor=Gold}retreat{SetColor=Default} from the\nmap. Try to restore its HP before that happens.
+MID_TUT_Bmap_Topography_t: Terrain Effects
+MID_TUT_Bmap_Topography_m01_001: Standing in a {SetColor=Gold}thicket {SetColor=Default}will increase a unit's\n{SetColor=Gold}Avo{SetColor=Default},{SetColor=Gold} {SetColor=Default}making it {SetColor=Gold}harder for enemy attacks to hit{SetColor=Default}.
+MID_TUT_Bmap_Topography_m01_002: This is an example of a {SetColor=Gold}terrain effect{SetColor=Default}.\nYou can see a spot's {SetColor=Gold}terrain information{SetColor=Default}\non the {SetColor=Gold}bottom left of the screen{SetColor=Default}.
+MID_TUT_Bmap_Range_t: Range
+MID_TUT_Bmap_Range_m01_001: Each attack has a {SetColor=Gold}range{SetColor=Default} it can reach, which\nvaries with the weapon. For example, {SetColor=Gold}bows have\na range of 2{SetColor=Default}, so they can attack {SetColor=Gold}2 spaces away{SetColor=Default}.
+MID_TUT_Bmap_Range_m01_002: If a bow user attacks a foe whose {SetColor=Gold}weapon\nhas a range of 1{SetColor=Default}, such as a sword, then\n{SetColor=Gold}that foe cannot counterattack{SetColor=Default}.
+MID_TUT_Bmap_Range_m01_003: However, if a bow user is attacked by a foe\n{SetColor=Gold}from 1 space away{SetColor=Default}, they cannot counterattack.
+MID_TUT_Bmap_SpecialAttack_t: Effective and Effective+
+MID_TUT_Bmap_SpecialAttack_m01_001: {SetColor=Gold}Bows{SetColor=Default} are {SetColor=Gold}effective+ vs. flying{SetColor=Default}, giving\nthem {SetColor=Gold}three times the normal might (Mt){SetColor=Default}\nwhen attacking {SetColor=Gold}flying enemies{SetColor=Default}.
+MID_TUT_Bmap_SpecialAttack_m01_002: A weapon or spell's {SetColor=Gold}effectiveness{SetColor=Default} is shown\nas an {SetColor=Gold}icon{SetColor=Default}, indicating their advantage against\n{SetColor=Gold}opponents with that icon{SetColor=Default}.
+MID_TUT_Bmap_SpecialAttack_m01_003: Besides effective+, some weapons are merely\n{SetColor=Gold}effective{SetColor=Default}, giving them {SetColor=Gold}twice the normal Mt{SetColor=Default}.
+MID_TUT_Bmap_CombatTechnique_t: Combat Arts
+MID_TUT_Bmap_CombatTechnique_m01_001: {SetColor=Gold}Combat arts {SetColor=Default}are attack techniques\nthat grant {SetColor=Gold}special effects{SetColor=Default}, such as\nincreased might or adjusted range.
+MID_TUT_Bmap_CombatTechnique_m01_002: To use one, select {SetColor=Gold}the combat art you want\nto use{SetColor=Default} and {SetColor=Gold}a weapon capable of using it{SetColor=Default}\nfrom the {SetColor=Gold}Combat Arts{SetColor=Default} menu.
+MID_TUT_Bmap_CombatTechnique_m01_003: Unlike standard attacks, these {SetColor=Gold}consume weapon\ndurability{SetColor=Default}. If a weapon's {SetColor=Gold}durability falls to 0{SetColor=Default},\nits {SetColor=Gold}might and accuracy will be impaired{SetColor=Default}.
+MID_TUT_Bmap_Xhelp_t: Unit Stats
+MID_TUT_Bmap_Xhelp_m01_001: Move the {SetColor=Gold}cursor over a unit {SetColor=Default}and\n{SetColor=Gold}press {ButtonX} {SetColor=Default}to view that unit's {SetColor=Gold}stats{SetColor=Default}.
+MID_TUT_Bmap_Xhelp_m01_002: {SetColor=Gold}Press {ButtonX} {SetColor=Default}to view {SetColor=Gold}more information {SetColor=Default}about each stat.
+MID_TUT_Bmap_Magic_t: Attack Magic
+MID_TUT_Bmap_Magic_m01_001: Most {SetColor=Gold}offensive spells{SetColor=Default} have a {SetColor=Gold}range of 1-2{SetColor=Default},\nand can {SetColor=Gold}target{SetColor=Default} either {SetColor=Gold}adjacent {SetColor=Default}or {SetColor=Gold}distant foes{SetColor=Default}.
+MID_TUT_Bmap_Magic_m01_002: Unlike regular weapons, each spell has a\n{SetColor=Gold}limited number of uses{SetColor=Default}, so use them wisely.
+MID_TUT_Bmap_Magic_m01_003: When up against foes with thick armor and high\nPrt (protection), spells can still deal {SetColor=Gold}great damage{SetColor=Default}\nto them if their {SetColor=Gold}Rsl (resilience) {SetColor=Default}is {SetColor=Gold}low{SetColor=Default}.
+MID_TUT_Bmap_HazardRange_t: Threat Range
+MID_TUT_Bmap_HazardRange_m01_001: When you move the {SetColor=Gold}cursor{SetColor=Default} over an\nenemy unit, the {SetColor=Gold}threat range{SetColor=Default} over which\nthat enemy can attack will be shown.
+MID_TUT_Bmap_HazardRange_m01_002: You can have the enemy's threat\nrange {SetColor=Gold}always visible{SetColor=Default} by {SetColor=Gold}pressing {ButtonA}{SetColor=Default}.\n(Pressing it once more will turn it off.)
+MID_TUT_Bmap_HazardRange_m01_003: {SetColor=Gold}Press {ButtonZL} {SetColor=Default}to make the {SetColor=Gold}threat range of the entire\nenemy force always visible{SetColor=Default}, separate from individual\nthreat ranges. (Press {ButtonZL}{SetColor=Gold} {SetColor=Default}again to turn it off.)
+MID_TUT_Bmap_WeaponType_t: Weapon Type Properties
+MID_TUT_Bmap_WeaponType_m01_001: Each weapon type has different properties.\n{SetColor=Gold}Swords {SetColor=Default}deal {SetColor=Gold}1.2× damage {SetColor=Default}when making a follow-up.\n{SetColor=Gold}Spears {SetColor=Default}are {SetColor=Gold}effective vs. cavalry{SetColor=Default}.
+MID_TUT_Bmap_WeaponType_m01_002: {SetColor=Gold}Axes {SetColor=Default}deal {SetColor=Gold}a minimum of 5 damage {SetColor=Default}to enemies,\nand {SetColor=Gold}bows {SetColor=Default}are {SetColor=Gold}effective+ vs. flying{SetColor=Default}.
+MID_TUT_Bmap_WeaponType_m01_003: {SetColor=Gold}Gauntlets{SetColor=Default} make it easier to {SetColor=Gold}avoid attacks\nfrom non-gauntlet weapons{SetColor=Default}. Use each weapon's\nunique properties to your advantage.
+MID_TUT_Bmap_BlazeArts_t: Blaze Arts
+MID_TUT_Bmap_BlazeArts_m01_001: {SetColor=Gold}Some units {SetColor=Default}can use {SetColor=Gold}special\ntechniques {SetColor=Default}called {SetColor=Gold}Blaze Arts{SetColor=Default}.
+MID_TUT_Bmap_BlazeArts_m01_002: These {SetColor=Gold}consume HP{SetColor=Default} with each use\nbut have {SetColor=Gold}very powerful effects{SetColor=Default}.
+MID_TUT_Bmap_WhiteRaven_t: {CapitalizeNextLetter}{AvatarName}'s Purifying Flash
+MID_TUT_Bmap_WhiteRaven_m01_001: {CapitalizeNextLetter}{AvatarName}'s Blaze Art, {SetColor=Gold}Purifying Flash{SetColor=Default}, \nis a technique that attacks enemies in a {SetColor=Gold}cross\npattern{SetColor=Default}, {SetColor=Gold}targeting up to five foes at once{SetColor=Default}.
+MID_TUT_Bmap_WhiteRaven_m01_002: Select {SetColor=Gold}Purifying Flash{SetColor=Default} from the\n{SetColor=Gold}Blaze Arts {SetColor=Default}unit command, and\nthen {SetColor=Gold}choose a target {SetColor=Default}to activate it.
+MID_TUT_Bmap_OverBlaze_t: Overblaze
+MID_TUT_Bmap_OverBlaze_m01_001: When a unit uses a Blaze Art, it causes\ntheir {SetColor=Gold}Blaze Gauge{SetColor=Default} to increase.
+MID_TUT_Bmap_OverBlaze_m01_002: When it is {SetColor=Gold}half full{SetColor=Default}, the unit enters the\n{SetColor=Gold}Overblaze{SetColor=Default} state where {SetColor=Gold}each of its stats{SetColor=Default}\nand {SetColor=Gold}Blaze Arts {SetColor=Default}are {SetColor=Gold}strengthened{SetColor=Default}.
+MID_TUT_Bmap_OverBlaze_m01_003: When the gauge reaches its maximum,\nthe unit will {SetColor=Gold}Burst{SetColor=Default} and the {SetColor=Gold}Overblaze{SetColor=Default}\nstate will be {SetColor=Gold}ended{SetColor=Default}.
+MID_TUT_Bmap_Hell_t: Blaze Type: Underworld
+MID_TUT_Bmap_Hell_m01_001: A unit with the {SetColor=Gold}Underworld {SetColor=Default}Blaze type\nsuffers {SetColor=Gold}decreased maximum HP {SetColor=Default}after a\nBurst until the completion of the map.
+MID_TUT_Bmap_HeavenlyPillar_t: Blaze Type: Celestial Wells
+MID_TUT_Bmap_HeavenlyPillar_m01_001: A unit with the {SetColor=Gold}Celestial Wells {SetColor=Default}Blaze\ntype raises {SetColor=Gold}the Blaze Gauge {SetColor=Default}even\nwith {SetColor=Gold}normal attacks{SetColor=Default}.
+MID_TUT_Bmap_HeavenlyPillar_m01_002: For these units, using {SetColor=Gold}cursed\nweapons {SetColor=Default}or {SetColor=Gold}cursed equipment {SetColor=Default}will\n{SetColor=Gold}decrease the Blaze Gauge{SetColor=Default}.
+MID_TUT_Bmap_Mechanism_t: Blaze Type: Automaton
+MID_TUT_Bmap_Mechanism_m01_001: A unit with the {SetColor=Gold}Automaton {SetColor=Default}Blaze type\ndoes not fill the Blaze Gauge when using\n{SetColor=Gold}cursed weapons {SetColor=Default}or {SetColor=Gold}cursed equipment{SetColor=Default}.
+MID_TUT_Bmap_Grasp_t: Blaze Ability: Control
+MID_TUT_Bmap_Grasp_m01_001: A unit with the {SetColor=Gold}Control {SetColor=Default}Blaze ability can use\n{SetColor=Gold}Manage Blaze{SetColor=Default} (Underworld Calm), which \nresets their {SetColor=Gold}Blaze Gauge to 0{SetColor=Default}.
+MID_TUT_Bmap_Grasp_m01_002: If you use it before your Blaze Gauge\nreaches its maximum, it {SetColor=Gold}prevents a Burst\nfrom decreasing your maximum HP{SetColor=Default}.
+MID_TUT_Bmap_Runaway_t: Blaze Ability: Rampage
+MID_TUT_Bmap_Runaway_m01_001: A unit with the {SetColor=Gold}Rampage {SetColor=Default}Blaze ability can \nuse {SetColor=Gold}Manage Blaze{SetColor=Default} (Underworld Madness), \n{SetColor=Gold}raising the Blaze Gauge to 50%{SetColor=Default}.
+MID_TUT_Bmap_Runaway_m01_002: After they use it, even if a Burst occurs,\nthe {SetColor=Gold}Overblaze state will not end{SetColor=Default}.
+MID_TUT_Bmap_Resistance_t: Blaze Ability: Unyielding
+MID_TUT_Bmap_Resistance_m01_001: A unit with the {SetColor=Gold}Unyielding {SetColor=Default}Blaze ability will\n{SetColor=Gold}not have their max HP decrease after a Burst{SetColor=Default}.
+MID_TUT_Bmap_MechanicalSkills_t: Blaze Ability: Guardian Angel
+MID_TUT_Bmap_MechanicalSkills_m01_001: A unit with the {SetColor=Gold}Guardian Angel {SetColor=Default}Blaze ability\ncan use {SetColor=Gold}Manage Blaze{SetColor=Default} (Elizabeth) to {SetColor=Gold}enter\nthe Overblaze state {SetColor=Default}immediately.
+MID_TUT_Bmap_MechanicalSkills_m01_002: After entering Overblaze, their {SetColor=Gold}Blaze Gauge{SetColor=Default}\nwill {SetColor=Gold}decrease each turn{SetColor=Default}. On {SetColor=Gold}reaching zero{SetColor=Default},\nthe Overblaze state will {SetColor=Gold}end{SetColor=Default}.
+MID_TUT_Bmap_HeavenlyPillarSkills_t: Blaze Ability: Grasp Truths
+MID_TUT_Bmap_HeavenlyPillarSkills_m01_001: A unit with the {SetColor=Gold}Grasp Truths {SetColor=Default}Blaze ability is\nable to {SetColor=Gold}use more powerful Blaze Arts{SetColor=Default}\nas their {SetColor=Gold}Blaze Gauge fills up{SetColor=Default}.
+MID_TUT_Bmap_CursedTreasure_t: Cursed Treasures
+MID_TUT_Bmap_CursedTreasure_m01_001: Weapons and equipment with {SetColor=Gold}Curse{SetColor=Default} are called\n{SetColor=Gold}cursed treasure{SetColor=Default}. Attacking with these or using them\nin battle {SetColor=Gold}fills the Blaze Gauge{SetColor=Default} based on their Curse.
+MID_TUT_Bmap_ReturnQualification_t: Return Certification
+MID_TUT_Bmap_ReturnQualification_m01_001: You can {SetColor=Gold}return the certification items{SetColor=Default} for {SetColor=Gold}special\nclasses {SetColor=Default}that can only be held by one unit at a time.
+MID_TUT_Bmap_ReturnQualification_m01_002: Return a certification for a class and {SetColor=Gold}its\nspecial item{SetColor=Default} will be {SetColor=Gold}returned{SetColor=Default}, allowing\n{SetColor=Gold}another unit to undertake its exam{SetColor=Default}.
+MID_TUT_Bmap_RecoveryMagic_t: Recovery Magic
+MID_TUT_Bmap_RecoveryMagic_m01_001: {SetColor=Gold}Recovery magic {SetColor=Default}such as {SetColor=Gold}Heal{SetColor=Default} allows\nyou to restore your allies' HP.
+MID_TUT_Bmap_RecoveryMagic_m01_002: If an {SetColor=Gold}ally who needs healing{SetColor=Default} is within {SetColor=Gold}range{SetColor=Default}\nof such magic, you can use it from {SetColor=Gold}Assist{SetColor=Default}.
+MID_TUT_Bmap_RecoveryMagic_m01_003: Each type of magic has a {SetColor=Gold}limited\nnumber of uses{SetColor=Default}, so use it wisely.
+MID_TUT_Bmap_SupportingEffect_t: Support Buffs
+MID_TUT_Bmap_SupportingEffect_m01_001: If a unit initiates combat while adjacent to an\nally they have a high {SetColor=Gold}Support Lv {SetColor=Default}with, they will\nreceive a {SetColor=Gold}Support Buff{SetColor=Default}, {SetColor=Gold}increasing their stats{SetColor=Default}.
+MID_TUT_Bmap_SupportingEffect_m01_002: Units' {SetColor=Gold}Support Lv {SetColor=Default}is raised by {SetColor=Gold}fighting alongside\neach other {SetColor=Default}or {SetColor=Gold}using recovery magic{SetColor=Default} on each other.
+MID_TUT_Bmap_TurnBackTime_t: Fortuna's Blessing
+MID_TUT_Bmap_TurnBackTime_m01_001: {SetColor=Gold}Fortuna's blessing{SetColor=Default} allows you to rewind time to\na desired point in order to {SetColor=Gold}retry the battle map{SetColor=Default}.
+MID_TUT_Bmap_TurnBackTime_m01_002: To use it, press either {ButtonPlus} or {ButtonA} to open the menu,\nthen select {SetColor=Gold}Fortuna's Blessing {SetColor=Default}under {SetColor=Gold}Invoke Blessing{SetColor=Default}.
+MID_TUT_Bmap_TurnBackTime_m01_003: By selecting {SetColor=Gold}the point you wish to return to{SetColor=Default} from\na {SetColor=Gold}list of your past actions{SetColor=Default}, you can retry from there.
+MID_TUT_Bmap_TurnBackTime_m01_004: Using blessings consumes {SetColor=Gold}Divine Sand{SetColor=Default}.\nDivine Sand {SetColor=Gold}recovers as you progress the story{SetColor=Default}.\n(The amount consumed varies per difficulty level.)
+MID_TUT_Bmap_Guest_t: Guest Combatants
+MID_TUT_Bmap_Guest_m01_001: Units that {SetColor=Gold}join you for the duration of a map{SetColor=Default}\nare called {SetColor=Gold}guests{SetColor=Default}. They are shown in {SetColor=Gold}light blue{SetColor=Default}\nand can be controlled directly.
+MID_TUT_Bmap_Guest_m01_002: The {SetColor=Gold}experience points {SetColor=Default}they earn in combat are \n{SetColor=Gold}distributed among your units {SetColor=Default}at the map's end.
+MID_TUT_Bmap_Guest_m01_003: Any items a guest {SetColor=Gold}collects on the map{SetColor=Default},\nother than their starting inventory, will be\nsent to {SetColor=Gold}storage{SetColor=Default} when the map is cleared.
+MID_TUT_Bmap_Conversation_t: Talk
+MID_TUT_Bmap_Conversation_m01_001: {SetColor=Gold}Moving a unit next to one with a speech\nbubble displayed{SetColor=Default} will cause {SetColor=Gold}Talk{SetColor=Default} to\nappear under the unit commands.
+MID_TUT_Bmap_Conversation_m01_002: Choose {SetColor=Gold}Talk {SetColor=Default}and they will {SetColor=Gold}talk to the other unit{SetColor=Default}.\nThis will {SetColor=Gold}not consume your action{SetColor=Default}, so give it a try.
+MID_TUT_Bmap_SortiePreparation_t: Battle Preparation
+MID_TUT_Bmap_SortiePreparation_m01_001: You can change weapons and skills, check the\nenemy's position, and adjust your own positioning\nin the {SetColor=Gold}battle preparation menu{SetColor=Default}.
+MID_TUT_Bmap_SortiePreparation_m01_002: When you are finished with\npreparations, select {SetColor=Gold}Fight!{SetColor=Default}
+MID_TUT_Bmap_UnitSelection_t: Unit Selection
+MID_TUT_Bmap_UnitSelection_m01_001: In {SetColor=Gold}unit selection{SetColor=Default}, you can {SetColor=Gold}change\nwhich units are deployed{SetColor=Default}. {SetColor=Gold}Swap a unit's\ndeployment status {SetColor=Default}by pressing {SetColor=Gold}{ButtonA}{SetColor=Default}.
+MID_TUT_Bmap_UnitSelection_m01_002: Any units with a {SetColor=Gold}lock icon cannot be\nchanged{SetColor=Default}, as their deployment is fixed.
+MID_TUT_Bmap_UnitSelection_m01_003: The {SetColor=Gold}number of deployment slots {SetColor=Default}is set for each\nmap. You can deploy units freely up to that limit.
+MID_TUT_Bmap_GettingDressed_t: Inventory
+MID_TUT_Bmap_GettingDressed_m01_001: The {SetColor=Gold}Inventory {SetColor=Default}menu allows you to {SetColor=Gold}adjust{SetColor=Default}\na unit's {SetColor=Gold}weapons{SetColor=Default}, {SetColor=Gold}{LowercaseNextLetter}Equipment{SetColor=Default}, and {SetColor=Gold}items{SetColor=Default}.
+MID_TUT_Bmap_GettingDressed_m01_002: You can also {SetColor=Gold}swap {SetColor=Default}usable {SetColor=Gold}skills{SetColor=Default} and {SetColor=Gold}combat arts{SetColor=Default}.\nTry to match your inventory to the situation.
+MID_TUT_Bmap_Realignment_t: Swap Spaces
+MID_TUT_Bmap_Realignment_m01_001: From {SetColor=Gold}Swap Spaces{SetColor=Default}, you can {SetColor=Gold}change {SetColor=Default}the\n{SetColor=Gold}placement of allied units before battle{SetColor=Default}.
+MID_TUT_Bmap_Realignment_m01_002: If you {SetColor=Gold}select two allies using {ButtonA}{SetColor=Default}, their\npositions will {SetColor=Gold}swap{SetColor=Default}. Repeat that process \nuntil your units are placed to your liking.
+MID_TUT_Bmap_Realignment_m01_003: However, any units that are on {SetColor=Gold}green-colored panels{SetColor=Default}\n{SetColor=Gold}cannot be swapped{SetColor=Default}, as their placement is fixed.
+MID_TUT_Bmap_Carriage_t: Defending the Carriage
+MID_TUT_Bmap_Carriage_m01_001: If an enemy attack reduces the {SetColor=Gold}{LowercaseNextLetter}Carriage's\narmor to 0{SetColor=Default}, you will {SetColor=Gold}lose {SetColor=Default}the battle.
+MID_TUT_Bmap_Carriage_m01_002: Try to prevent enemies from advancing,\nand defeat them if they get too close\n{SetColor=Gold}so that the carriage is safe{SetColor=Default}.
+MID_TUT_Bmap_Carriage_m01_003: You can {SetColor=Gold}move the cursor over the carriage {SetColor=Default}to\nsee its remaining armor HP in the bottom left.
+MID_TUT_Bmap_TerrainDestruction_t: Destroying Terrain
+MID_TUT_Bmap_TerrainDestruction_m01_001: Terrain with {SetColor=Gold}armor {SetColor=Default}in its terrain information\ncan be {SetColor=Gold}destroyed by attacking it{SetColor=Default}.
+MID_TUT_Bmap_TerrainDestruction_m01_002: While {SetColor=Gold}destroying it{SetColor=Default} allows you to {SetColor=Gold}pass through{SetColor=Default}\nthe space, leaving it in place lets you {SetColor=Gold}use it as\na barrier{SetColor=Default}. Act according to the circumstances.
+MID_TUT_Bmap_HPStock_t: HP Reserve
+MID_TUT_Bmap_HPStock_m01_001: Some enemies have {SetColor=Gold}red jewels{SetColor=Default}.\nThese are called {SetColor=Gold}HP reserves{SetColor=Default}.
+MID_TUT_Bmap_HPStock_m01_002: Enemies with {SetColor=Gold}HP reserves {SetColor=Default}will {SetColor=Gold}heal back to full when\nthey reach 0 HP{SetColor=Default}, {SetColor=Gold}once for each reserve they have{SetColor=Default}.
+MID_TUT_Bmap_HPStock_m01_003: These enemies can be {SetColor=Gold}defeated {SetColor=Default}by reducing their\n{SetColor=Gold}HP to 0 {SetColor=Default}after {SetColor=Gold}depleting all of their HP reserves{SetColor=Default}.
+MID_TUT_Bmap_Withdrawal_t: Escape
+MID_TUT_Bmap_Withdrawal_m01_001: For some battle maps, the victory\ncondition is to {SetColor=Gold}escape {SetColor=Default}from the map.
+MID_TUT_Bmap_Withdrawal_m01_002: Moving the {SetColor=Gold}designated units {SetColor=Default}to the {SetColor=Gold}designated\nspaces{SetColor=Default} on the map allows you to choose Escape.
+MID_TUT_Bmap_GiantEnemy_t: Large Units and Barriers
+MID_TUT_Bmap_GiantEnemy_m01_001: Large units have {SetColor=Gold}barriers{SetColor=Default}. When you attack them,\nyou might destroy the {SetColor=Gold}targeted section of the barrier{SetColor=Default}.
+MID_TUT_Bmap_GiantEnemy_m01_002: Breaking a barrier makes the enemy\ntemporarily unable to counterattack.\nThe broken parts are easier to damage.
+MID_TUT_Bmap_GiantEnemy_m01_003: Breaking all the barriers stuns the enemy for\na turn, in addition to granting you items.
+MID_TUT_Bmap_Onslaught_t: Staggering Blows
+MID_TUT_Bmap_Onslaught_m01_001: Some enemies can perform {SetColor=Gold}a powerful\narea attack {SetColor=Default}called a {SetColor=Gold}staggering blow{SetColor=Default}.
+MID_TUT_Bmap_Onslaught_m01_002: When an enemy readies a staggering blow,\nthe {SetColor=Gold}affected area is outlined in purple{SetColor=Default}\nand will be {SetColor=Gold}hit on the following turn{SetColor=Default}.
+MID_TUT_Bmap_Onslaught_m01_003: The attack will strike all allies within its area\nof effect and destroy certain obstacles as well.
+MID_TUT_Bmap_Pillar_t: Brittle Pillars
+MID_TUT_Bmap_Pillar_m01_001: When next to a {SetColor=Gold}brittle pillar{SetColor=Default}, use the {SetColor=Gold}Brittle Pillar{SetColor=Default}\ncommand to push it over and create an {SetColor=Gold}obstacle{SetColor=Default}.
+MID_TUT_Bmap_Pillar_m01_002: Non-flying units {SetColor=Gold}cannot enter these spaces{SetColor=Default}, so\nthey can be useful to halt your enemy's advance.
+MID_TUT_Bmap_TreasureChest_t: Chests
+MID_TUT_Bmap_TreasureChest_m01_001: When a {SetColor=Gold}unit with a chest key moves\nnext to a treasure chest{SetColor=Default}, they can\nopen it with the {SetColor=Gold}Chest {SetColor=Default}command.
+MID_TUT_Bmap_TreasureChest_m01_002: Some enemies may carry {SetColor=Gold}chest keys{SetColor=Default},\nwhich can be {SetColor=Gold}seized {SetColor=Default}by {SetColor=Gold}defeating them{SetColor=Default}.
+MID_TUT_Bmap_FogMap_t: Low-Visibility Maps
+MID_TUT_Bmap_FogMap_m01_001: Battle maps where the enemies' position\nis uncertain due to fog or sandstorms\nare called {SetColor=Gold}low-visibility maps{SetColor=Default}.
+MID_TUT_Bmap_FogMap_m01_002: Visible spaces are updated each time an ally\nunit {SetColor=Gold}finishes a turn{SetColor=Default}. If an {SetColor=Gold}enemy is discovered{SetColor=Default}\nin the process, that enemy will become {SetColor=Gold}confused{SetColor=Default}.
+MID_TUT_Bmap_FogMap_m01_003: However, if an allied unit {SetColor=Gold}runs into a lurking\nenemy{SetColor=Default} while moving, {SetColor=Gold}that unit's turn will end{SetColor=Default}.
+MID_TUT_Bmap_BowBattery_t: Artillery
+MID_TUT_Bmap_BowBattery_m01_001: You can {SetColor=Gold}position a unit{SetColor=Default} on any {SetColor=Gold}artillery{SetColor=Default}\nplaced on the map, such as {SetColor=Gold}ballistae{SetColor=Default},{SetColor=Gold}\nfire orbs{SetColor=Default}, or {SetColor=Gold}onagers{SetColor=Default}, and {SetColor=Gold}use{SetColor=Default} them.
+MID_TUT_Bmap_BowBattery_m01_002: {SetColor=Gold}Ballistae{SetColor=Default} can only be used by {SetColor=Gold}bow-wielding classes{SetColor=Default}.\n{SetColor=Gold}Fire orbs{SetColor=Default} can only be used by {SetColor=Gold}magic-using classes{SetColor=Default}.\n{SetColor=Gold}Onagers{SetColor=Default} can be used by {SetColor=Gold}any class{SetColor=Default}.
+MID_TUT_Bmap_BowBattery_m01_003: Each {SetColor=Gold}has a limited number of shots{SetColor=Default}, but they have\nlong range and can {SetColor=Gold}attack distant units{SetColor=Default}.
+MID_TUT_Bmap_BowBattery_m01_004: But be careful, for {SetColor=Gold}enemies can use them too{SetColor=Default}.
+MID_TUT_Bmap_Explosives_t: Explosives
+MID_TUT_Bmap_Explosives_m01_001: If you attack an {SetColor=Gold}explosive{SetColor=Default}, it will deal\n{SetColor=Gold}damage {SetColor=Default}to {SetColor=Gold}foes within its radius{SetColor=Default}\nand inflict {SetColor=Gold}Immobilize for one turn{SetColor=Default}.
+MID_TUT_Bmap_Explosives_m01_002: But be careful, for {SetColor=Gold}your units will suffer\nthese effects{SetColor=Default} as well if {SetColor=Gold}enemies use them{SetColor=Default}.
+MID_TUT_Bmap_ControllerKaiEdited_t: Isolated Cai
+MID_TUT_Bmap_ControllerKaiEdited_m01_001: To reach the isolated Cai, you\nmust {SetColor=Gold}lower {SetColor=Default}the {SetColor=Gold}magical barriers{SetColor=Default}.
+MID_TUT_Bmap_ControllerKaiEdited_m01_002: You can lower the barriers by moving {SetColor=Gold}next to\neach lever{SetColor=Default} and operating them via {SetColor=Gold}Activate{SetColor=Default}.
+MID_TUT_Bmap_ControllerKaiEdited_m01_003: You can also remove the \nbarriers by {SetColor=Gold}defeating Castor{SetColor=Default}.
+MID_TUT_Bmap_BattleOfCastor_t: Magic Spot Limitations
+MID_TUT_Bmap_BattleOfCastor_m01_001: The {SetColor=Gold}magic spots{SetColor=Default} on this map, such as\nheal spots, will {SetColor=Gold}stop functioning{SetColor=Default} after\ntheir {SetColor=Gold}effect has been activated once{SetColor=Default}.
+MID_TUT_Bmap_BattleOfCastor_m01_002: Consider the right moment to activate healing\nor defense buffs, and use them judiciously.
+MID_TUT_Bmap_SpecialEffectsFlooring_t: Special Terrain
+MID_TUT_Bmap_SpecialEffectsFlooring_m01_001: Some maps contain {SetColor=Gold}terrain with special effects{SetColor=Default}, such\nas heal spots that restore HP at the start of a phase.
+MID_TUT_Bmap_SpecialEffectsFlooring_m01_002: Not all special terrain is beneficial. {SetColor=Gold}Some\nterrain will damage units{SetColor=Default} instead. Be sure\nto check any terrain effects before moving.
+MID_TUT_Bmap_Rain_t: Rainy Weather
+MID_TUT_Bmap_Rain_m01_001: {SetColor=Gold}Artillery {SetColor=Default}on a map {SetColor=Gold}cannot be used{SetColor=Default} while it {SetColor=Gold}rains{SetColor=Default}.
+MID_TUT_Bmap_Rain_m01_002: Moreover, {SetColor=Gold}lightning attacks deal increased damage{SetColor=Default}\nand {SetColor=Gold}flame attacks deal decreased damage{SetColor=Default}.
+MID_TUT_Bmap_TreasureHunt_t: Collecting Magic Orbs
+MID_TUT_Bmap_TreasureHunt_m01_001: When a unit {SetColor=Gold}ends its turn{SetColor=Default} on a space with\na {SetColor=Gold}magic orb{SetColor=Default}, they will {SetColor=Gold}collect the orb{SetColor=Default}.
+MID_TUT_Bmap_TreasureHunt_m01_002: Each unit can hold {SetColor=Gold}only one{SetColor=Default} magic orb.\nIf they collect a second one, it will be\n{SetColor=Gold}discarded somewhere in the distance{SetColor=Default}.
+MID_TUT_Bmap_TreasureHunt_m01_003: Moreover, orbs {SetColor=Gold}cannot be thrown away {SetColor=Default}or {SetColor=Gold}traded{SetColor=Default}.\nThey can be dropped at a unit's feet, but only\nif that unit's inventory is currently full.
+MID_TUT_Bmap_TreasureHunt_m01_004: Orbs start in positions that are advantageous\nto the enemy. For that reason, the {SetColor=Gold}final turn ends\nwith your phase{SetColor=Default}, omitting {SetColor=Gold}the enemy phase{SetColor=Default}.
+MID_TUT_Bmap_Revival_t: Automatic Return
+MID_TUT_Bmap_Revival_m01_001: On this map, a unit is not defeated\nwhen they fall to 0 HP. Instead, they\nwill {SetColor=Gold}return{SetColor=Default} at {SetColor=Gold}full HP{SetColor=Default}.
+MID_TUT_Bmap_Revival_m01_002: Your units and the enemy units each have\na {SetColor=Gold}return area{SetColor=Default} to which they are redeployed.
+MID_TUT_Bmap_Revival_m01_003: Be aware that units that have just\nreturned {SetColor=Gold}cannot act during that turn{SetColor=Default}.
+MID_TUT_Bmap_ShiftingDevice_t: Warp Spots
+MID_TUT_Bmap_ShiftingDevice_m01_001: When you move a unit onto a {SetColor=Gold}warp spot{SetColor=Default}\nand select the {SetColor=Gold}Warp {SetColor=Default}command, they can\n{SetColor=Gold}teleport{SetColor=Default} to the corresponding warp spot.
+MID_TUT_Bmap_ShiftingDevice_m01_002: A {SetColor=Gold}unit that warps with movement left{SetColor=Default} can\n{SetColor=Gold}move {SetColor=Default}that distance from the warp spot.
+MID_TUT_Bmap_ShiftingDevice_m01_003: You {SetColor=Gold}cannot use a warp spot{SetColor=Default} if {SetColor=Gold}another\nunit is at the warp spot exit{SetColor=Default}.
+MID_TUT_Bmap_HolyWater_t: Pure Water
+MID_TUT_Bmap_HolyWater_m01_001: The {SetColor=Gold}{Lowercase}Pure Water{NormalCase}{SetColor=Default} item grants {SetColor=Gold}Res+10{SetColor=Default}\nto a unit that uses it.
+MID_TUT_Bmap_HolyWater_m01_002: The boost to Res {SetColor=Gold}decreases each turn{SetColor=Default}\nuntil it {SetColor=Gold}disappears {SetColor=Default}after {SetColor=Gold}five turns{SetColor=Default}.
+MID_TUT_Bmap_HumidityRegulator_t: Countering Pure Water
+MID_TUT_Bmap_HumidityRegulator_m01_001: When you use the {SetColor=Gold}Activate {SetColor=Default}command\nnext to a {SetColor=Gold}lever{SetColor=Default}, you can {SetColor=Gold}nullify the\neffect of {Lowercase}Pure Water{NormalCase} {SetColor=Default}on all units.
+MID_TUT_Bmap_HumidityRegulator_m01_002: There are five levers in total, and\neach can only be used once.
+MID_TUT_Bmap_Weakness_t: Abnormal Digammas
+MID_TUT_Bmap_Weakness_m01_001: Some digammas are {SetColor=Gold}abnormal specimens {SetColor=Default}with visible\ndifferences. When you {SetColor=Gold}deal damage{SetColor=Default} to them, {SetColor=Gold}the\nsame damage is dealt{SetColor=Default} to {SetColor=Gold}surrounding digammas{SetColor=Default}.
+MID_TUT_Bmap_Weakness_m01_002: {SetColor=Gold}Observe{SetColor=Default} closely to {SetColor=Gold}detect{SetColor=Default} the abnormal foe\nand use this knowledge to fight effectively.
+MID_TUT_Bmap_BellTower_t: Rampaging War Elephants
+MID_TUT_Bmap_BellTower_m01_001: The sound of the bell tower's collapse has caused\nthe enemy {SetColor=Gold}war elephants {SetColor=Default}to rampage, turning\nthese foes into a {SetColor=Gold}third army{SetColor=Default} for {SetColor=Gold}three turns{SetColor=Default}.
+MID_TUT_Bmap_BellTower_m01_002: During that time, they will {SetColor=Gold}prioritize attacking\nthe enemy army{SetColor=Default}, but if no foes are within range,\nthey will {SetColor=Gold}come after your allies{SetColor=Default}, so be careful.
+MID_TUT_Bmap_SeaGod_t: Body Press
+MID_TUT_Bmap_SeaGod_m01_001: Cetus's staggering blow, {SetColor=Gold}Body Press{SetColor=Default}, deals {SetColor=Gold}heavy\ndamage {SetColor=Default}to {SetColor=Gold}units within its attack range{SetColor=Default}.
+MID_TUT_Bmap_SeaGod_m01_002: Worse, units within the {SetColor=Gold}central nine spaces{SetColor=Default}\nof the area will be {SetColor=Gold}defeated instantly{SetColor=Default},\nregardless of their remaining HP.
+MID_TUT_Bmap_SeaGod_m01_003: When Cetus prepares the attack, affected spaces\nwill be {SetColor=Gold}shown in purple{SetColor=Default}, and the attack will {SetColor=Gold}trigger\non the next enemy phase{SetColor=Default}. Mind your positioning!
+MID_TUT_Bmap_MagicTrap_t: Magic Traps
+MID_TUT_Bmap_MagicTrap_m01_001: Use the {SetColor=Gold}Activate {SetColor=Default}command next to a {SetColor=Gold}magic trap\ntrigger {SetColor=Default}to {SetColor=Gold}set a magic trap for one turn{SetColor=Default}.
+MID_TUT_Bmap_MagicTrap_m01_002: If {SetColor=Gold}Cetus ends its turn within range of an active trap{SetColor=Default},\nthe trap will trigger, and Cetus will be {SetColor=Gold}paralyzed{SetColor=Default} until\nthe {SetColor=Gold}next player phase{SetColor=Default} or {SetColor=Gold}after its next combat{SetColor=Default}.
+MID_TUT_Bmap_MagicTrap_m01_003: The effect will also trigger if you {SetColor=Gold}directly \nactivate{SetColor=Default} a magic trap at Cetus's location.
+MID_TUT_Bmap_MagicTrap_m01_004: There are eight magic traps in total,\nand each can only be used once.
+MID_TUT_Bmap_RemovalDevice_t: Quell Sandstorm
+MID_TUT_Bmap_RemovalDevice_m01_001: Use the {SetColor=Gold}Quell Sandstorm{SetColor=Default} command to {SetColor=Gold}clear{SetColor=Default}\nthe {SetColor=Gold}sandstorm within an area{SetColor=Default} for {SetColor=Gold}one turn{SetColor=Default}.
+MID_TUT_Bmap_RemovalDevice_m01_002: Once used, Quell Sandstorm {SetColor=Gold}cannot be\nused again {SetColor=Default}by anyone {SetColor=Gold}on that turn and\nthe next{SetColor=Default}, so keep that in mind.
+MID_TUT_Bmap_Lantern_t: Braziers
+MID_TUT_Bmap_Lantern_m01_001: Use the {SetColor=Gold}Brazier {SetColor=Default}command when adjacent to a\n{SetColor=Gold}red-flamed brazier{SetColor=Default} to {SetColor=Gold}light a blue flame{SetColor=Default}.
+MID_TUT_Bmap_Lantern2_t: Brazier Strategy
+MID_TUT_Bmap_Lantern2_m01_001: Any braziers located between two {SetColor=Gold}flames of\nthe same color{SetColor=Default} will change to that color.
+MID_TUT_Bmap_Lantern2_m01_002: This applies when they are flanking not just\n{SetColor=Gold}vertically {SetColor=Default}and {SetColor=Gold}horizontally{SetColor=Default}, but also {SetColor=Gold}diagonally{SetColor=Default}.
+MID_TUT_Bmap_EnclosingWall_t: Theodora's Barrier
+MID_TUT_Bmap_EnclosingWall_m01_001: The {SetColor=Gold}barrier protecting Theodora{SetColor=Default} can be {SetColor=Gold}removed {SetColor=Default}by\n{SetColor=Gold}defeating all enemies outside{SetColor=Default} the barrier.
+MID_TUT_Bmap_EnclosingWall_m01_002: This map is split into two areas;\n{SetColor=Gold}defeat all enemies {SetColor=Default}in each area.
+MID_TUT_Bmap_ControllerL_t: Countering Earthen Hurl
+MID_TUT_Bmap_ControllerL_m01_001: Use the {SetColor=Gold}Activate {SetColor=Default}command when adjacent\nto a {SetColor=Gold}control device {SetColor=Default}to enhance the barrier\nagainst {SetColor=Gold}Earthen Hurl for one turn{SetColor=Default}.
+MID_TUT_Bmap_ControllerL_m01_002: There are a total of four control devices,\nand each can only be used once.
+MID_TUT_Bmap_StomachAcid_t: Acid
+MID_TUT_Bmap_StomachAcid_m01_001: Units who end their turn in {SetColor=Gold}strong acid{SetColor=Default} will take\n{SetColor=Gold}damage{SetColor=Default} at the {SetColor=Gold}start of their next phase{SetColor=Default}.
+MID_TUT_Bmap_StomachAcid_m01_002: This affects both enemy and ally units.\nOnly flying classes are exempt.
+MID_TUT_Bmap_StomachAcid_m01_003: You can use the {SetColor=Gold}Song of Icewater {SetColor=Default}to freeze the acid,\n{SetColor=Gold}preventing damage {SetColor=Default}until the {SetColor=Gold}next player phase{SetColor=Default}.
+MID_TUT_Bmap_StomachAcid2_t: Acid Fluctuations
+MID_TUT_Bmap_StomachAcid2_m01_001: The range of the {SetColor=Gold}strong acid spaces {SetColor=Default}will\n{SetColor=Gold}expand and contract every turn{SetColor=Default}.
+MID_TUT_Bmap_StomachAcid2_m01_002: {SetColor=Gold}Small acid pools expand{SetColor=Default}, and {SetColor=Gold}large acid pools\ncontract{SetColor=Default}. Pay attention to these fluctuations.
+MID_TUT_Bmap_Kai_t: Cai's Underworld Burst
+MID_TUT_Bmap_Kai_m01_001: Cai's Blaze Art {SetColor=Gold}Underworld Burst{SetColor=Default} attacks the\narea around the targeted position, which can\n{SetColor=Gold}deal damage to multiple enemies at once{SetColor=Default}.
+MID_TUT_Bmap_Seodola_t: Theodora's Earthen Throw
+MID_TUT_Bmap_Seodola_m01_001: Theodora's Blaze Art {SetColor=Gold}Earthen Throw{SetColor=Default} is\nan {SetColor=Gold}ultra-long-range attack{SetColor=Default} that targets\na distant unit in a straight line.
+MID_TUT_Bmap_Leda_t: Leda's Spellsongs
+MID_TUT_Bmap_Leda_m01_001: Leda's {SetColor=Gold}Spellsong {SetColor=Default}Blaze Arts are composed of\nseveral {SetColor=Gold}songs {SetColor=Default}she can play to grant {SetColor=Gold}various\nsupport effects to allies within range{SetColor=Default}.
+MID_TUT_Bmap_Ditlih_t: Dietrich's Moving Shadow
+MID_TUT_Bmap_Ditlih_m01_001: Dietrich's Blaze Art {SetColor=Gold}Moving Shadow{SetColor=Default}\nallows him to teleport {SetColor=Gold}even farther after\nmoving {SetColor=Default}to {SetColor=Gold}attack faraway enemies{SetColor=Default}.
+MID_TUT_Bmap_FirstGate_t: Sloth Miasma
+MID_TUT_Bmap_FirstGate_m01_001: Units in {SetColor=Gold}Sloth Miasma{SetColor=Default} cannot make\n{SetColor=Gold}follow-up attacks{SetColor=Default} during combat.
+MID_TUT_Bmap_FirstGate_m01_002: This effect applies to both allies and enemies. Move\ncarefully and use it to your advantage as you fight.
+MID_TUT_Bmap_SecondGate_t: Greed Miasma
+MID_TUT_Bmap_SecondGate_m01_001: If a unit ends their turn in {SetColor=Gold}Greed Miasma{SetColor=Default},\ntheir {SetColor=Gold}Def is reduced to 0{SetColor=Default} and their {SetColor=Gold}HP is\nhalved at the start of the next player phase{SetColor=Default}.
+MID_TUT_Bmap_SecondGate_m01_002: This miasma doesn't affect enemies,\nso be careful as you fight.
+MID_TUT_Bmap_SecondGate2_t: Extra Bullion
+MID_TUT_Bmap_SecondGate2_m01_001: On this map, when you defeat {SetColor=Gold}an enemy holding\na bullion{SetColor=Default}, you will gain an {SetColor=Gold}extra bullion{SetColor=Default} if\nyou are standing in {SetColor=Gold}Greed Miasma{SetColor=Default}.
+MID_TUT_Bmap_ThirdGate_t: Deception Miasma
+MID_TUT_Bmap_ThirdGate_m01_001: If a unit ends their turn in {SetColor=Gold}Deception Miasma{SetColor=Default}, their\nvision is reduced {SetColor=Gold}to the spaces adjacent {SetColor=Default}to them.
+MID_TUT_Bmap_ThirdGate_m01_002: This miasma doesn't affect enemies,\nso be careful as you fight.
+MID_TUT_Bmap_FourthGate_t: Envy Miasma
+MID_TUT_Bmap_FourthGate_m01_001: Defeating an enemy on this map causes\n{SetColor=Gold}Envy Miasma to appear{SetColor=Default} in the vicinity.
+MID_TUT_Bmap_FourthGate_m01_002: When a unit in {SetColor=Gold}Envy Miasma{SetColor=Default} enters combat against\n{SetColor=Gold}a foe of higher level{SetColor=Default}, their {SetColor=Gold}accuracy (Hit) is doubled{SetColor=Default}\nbut they are {SetColor=Gold}unable to avoid attacks{SetColor=Default}.
+MID_TUT_Bmap_FourthGate_m01_003: This effect applies to both allies and enemies,\nso be mindful of unit levels as you fight.
+MID_TUT_Bmap_FifthGate_t: Wrath Miasma
+MID_TUT_Bmap_FifthGate_m01_001: Units in {SetColor=Gold}Wrath Miasma{SetColor=Default} have their\n{SetColor=Gold}critical-hit chance (Crit) doubled {SetColor=Default}and their\n{SetColor=Gold}physical defense (Def) halved{SetColor=Default} during combat.
+MID_TUT_Bmap_FifthGate_m01_002: This effect applies to both allies and enemies,\nso try to use it to your advantage as you fight.
+MID_TUT_Bmap_SixthGate_t: Pride Miasma
+MID_TUT_Bmap_SixthGate_m01_001: Units in {SetColor=Gold}Pride Miasma{SetColor=Default} have their {SetColor=Gold}accuracy\n(Hit) halved{SetColor=Default} during combat if their {SetColor=Gold}opponent's\nlevel is lower than their own{SetColor=Default}.
+MID_TUT_Bmap_SixthGate_m01_002: This effect applies to both allies and enemies,\nso be mindful of unit levels as you fight.
+MID_TUT_Bmap_SeventhGate_t: Lust Miasma
+MID_TUT_Bmap_SeventhGate_m01_001: Units in {SetColor=Gold}Lust Miasma{SetColor=Default} have their {SetColor=Gold}accuracy (Hit) and\navoidance (Avo) halved {SetColor=Default}during combat if their\n{SetColor=Gold}opponent's charisma (Cha) is higher than their own{SetColor=Default}.
+MID_TUT_Bmap_SeventhGate_m01_002: This effect applies to both allies and enemies,\nso be mindful of unit Cha as you fight.
+MID_TUT_Bmap_EighthGate_t: Gluttony Miasma
+MID_TUT_Bmap_EighthGate_m01_001: Units in {SetColor=Gold}Gluttony Miasma lose weapon durability{SetColor=Default}\nand {SetColor=Gold}magic{SetColor=Default} at the start of their phase.
+MID_TUT_Bmap_EighthGate_m01_002: This effect applies to both allies and enemies,\nso be mindful of positioning as you fight.
+MID_TUT_Bmap_NinthGate_t: Fear Miasma
+MID_TUT_Bmap_NinthGate_m01_001: If an ally ends their turn in {SetColor=Gold}Fear Miasma{SetColor=Default},\nthey will become {SetColor=Gold}confused{SetColor=Default} at the{SetColor=Gold} start of\nthe next enemy phase{SetColor=Default}.
+MID_TUT_Bmap_NinthGate_m01_002: This miasma doesn't affect enemies,\nso be careful as you fight.
+MID_TUT_Bmap_NinthGate_m01_003: Wherever an {SetColor=Gold}enemy with Fear Miasma\nends their turn{SetColor=Default}, the {SetColor=Gold}miasma will spread{SetColor=Default}\nto the {SetColor=Gold}surrounding spaces{SetColor=Default}.
+MID_TUT_Bmap_NinthGate_m01_004: Newly created miasma {SetColor=Gold}persists for\nthree turns{SetColor=Default} until the {SetColor=Gold}enemy's phase{SetColor=Default}.
+MID_TUT_Bmap_LastBattle_t: Balor's Barrier
+MID_TUT_Bmap_LastBattle_m01_001: You will be {SetColor=Gold}unable to inflict damage{SetColor=Default} on Balor unless\nyou {SetColor=Gold}weaken or destroy his barrier{SetColor=Default}. Destroying the\nbarrier with direct attacks is nearly impossible.
+MID_TUT_Bmap_LastBattle_m01_002: {SetColor=Gold}Destroying underworld gates{SetColor=Default} on this map weakens\nthe barrier. {SetColor=Gold}Destroying the first gate allows you to\ninflict 50% damage{SetColor=Default}, and the {SetColor=Gold}second, 100% damage{SetColor=Default}.
+MID_TUT_Bmap_LastBattle_m01_003: If you have {SetColor=Gold}destroyed all underworld gates on the\nworld map{SetColor=Default}, the gates here have {SetColor=Gold}decreased durability{SetColor=Default}\nand {SetColor=Gold}reinforcements from them are weakened{SetColor=Default}.
+MID_TUT_Bmap_LanternAshes_t: Using Censers
+MID_TUT_Bmap_LanternAshes_m01_001: {SetColor=Gold}Destroying a censer inflicts damage{SetColor=Default} only to\n{SetColor=Gold}nearby enemy units{SetColor=Default}. Their {SetColor=Gold}movement (Mov){SetColor=Default}\nwill also be {SetColor=Gold}reduced for one turn{SetColor=Default}.
+MID_TUT_Bmap_LanternAshes_m01_002: This will also scatter {SetColor=Gold}ash that further\nimpedes movement{SetColor=Default}. Where the ash lands\n{SetColor=Gold}varies depending on the censer{SetColor=Default}.
+MID_TUT_Bmap_LanternAshes_m01_003: There are a total of eight censers,\nand each can only be used once.
+MID_TUT_Bmap_Giant_t: Giant-Defeating Contest
+MID_TUT_Bmap_Giant_m01_001: To win this match, you must {SetColor=Gold}defeat\nfour giants {SetColor=Default}before the enemy does.
+MID_TUT_Bmap_Giant_m01_002: When each giant is defeated, another\n{SetColor=Gold}giant will appear{SetColor=Default}. Up to{SetColor=Gold} seven giants{SetColor=Default}\nwill appear on the map.
+MID_TUT_Bmap_Giant_m01_003: {SetColor=Gold}Units that drop to 0 HP{SetColor=Default} are not defeated\nbut instead {SetColor=Gold}return with restored HP{SetColor=Default}.
+MID_TUT_Bmap_GiantFood_t: Giant Bait
+MID_TUT_Bmap_GiantFood_m01_001: If {SetColor=Gold}given bait{SetColor=Default}, a {SetColor=Gold}giant becomes invincible\nfor one turn{SetColor=Default} and {SetColor=Gold}will not target {SetColor=Default}the army\nof the unit who gave them the bait.
+MID_TUT_Bmap_GiantFood_m01_002: You can give a giant bait by using the {SetColor=Gold}Bait{SetColor=Default}\ncommand when within {SetColor=Gold}three spaces of a giant{SetColor=Default}.
+MID_TUT_Bmap_GiantFood_m01_003: Your {SetColor=Gold}allies have a limited amount of bait{SetColor=Default},{SetColor=Gold}{SetColor=Default}\nso keep that in mind as you fight.
+MID_TUT_Bmap_ChamberCargo_t: Recovering the Cargo
+MID_TUT_Bmap_ChamberCargo_m01_001: If a {SetColor=Gold}thief who stole cargo {SetColor=Default}reaches the {SetColor=Gold}target\ndestination{SetColor=Default}, they will escape and you will {SetColor=Gold}lose{SetColor=Default}.
+MID_TUT_Bmap_ChamberCargo_m01_002: A thief will {SetColor=Gold}drop the cargo{SetColor=Default} if {SetColor=Gold}defeated{SetColor=Default}, so\ndefeat them before they escape to recover it.
+MID_TUT_Bmap_Trebuchet_t: The Special Onager
+MID_TUT_Bmap_Trebuchet_m01_001: If you {SetColor=Gold}activate both launch mechanisms{SetColor=Default}\nin the {SetColor=Gold}same phase{SetColor=Default}, you can {SetColor=Gold}launch\nthe onager to attack a large area{SetColor=Default}.
+MID_TUT_Bmap_Trebuchet_m01_002: Use the {SetColor=Gold}Activate {SetColor=Default}command while next\nto a {SetColor=Gold}launch mechanism{SetColor=Default} to operate it.
+MID_TUT_Bmap_People_t: Evacuation
+MID_TUT_Bmap_People_m01_001: The {SetColor=Gold}Kunlun citizens{SetColor=Default} will {SetColor=Gold}follow Anatolia{SetColor=Default}.\nBring them to the target destination.
+MID_TUT_Bmap_People_m01_002: You will {SetColor=Gold}lose {SetColor=Default}if {SetColor=Gold}three or more citizens are defeated{SetColor=Default}.\nGuard them from enemies so they are not attacked.
+MID_TUT_Bmap_Confusion_t: Toxic Thunderwave
+MID_TUT_Bmap_Confusion_m01_001: A {SetColor=Gold}Kunlun citizen{SetColor=Default} hit by the pentkehydra's\n{SetColor=Gold}Toxic Thunderwave{SetColor=Default} will become {SetColor=Gold}panicked{SetColor=Default}\nand {SetColor=Gold}stop following Anatolia{SetColor=Default}.
+MID_TUT_Bmap_Confusion_m01_002: When an allied unit is next to a panicked citizen,\nuse the {SetColor=Gold}Calm{SetColor=Default} command to {SetColor=Gold}remove the condition{SetColor=Default}.
+MID_TUT_Bmap_Orichalcum_t: Orichalcum Piles
+MID_TUT_Bmap_Orichalcum_m01_001: You can inflict a {SetColor=Gold}great deal of damage to the giant{SetColor=Default}\neach time you {SetColor=Gold}destroy five{SetColor=Default} {SetColor=Gold}orichalcum piles{SetColor=Default}.
+MID_TUT_Bmap_Orichalcum_m01_002: There are 10 orichalcum piles, so you can inflict\nthis damage to the giant a maximum of two times.
+MID_TUT_Bmap_FogRemoval_t: Fog-Clearing Devices
+MID_TUT_Bmap_FogRemoval_m01_001: Use the {SetColor=Gold}Activate {SetColor=Default}command while next to\na {SetColor=Gold}fan's control device {SetColor=Default}to {SetColor=Gold}clear the fog from\nthe entire map{SetColor=Default} for the duration of the phase.
+MID_TUT_Bmap_FogRemoval_m01_002: There are a total of three control devices,\nand each can only be used once.
+MID_TUT_Bmap_TargetLine_t: Target Lines
+MID_TUT_Bmap_TargetLine_m01_001: When you {SetColor=Gold}move the cursor{SetColor=Default} onto an {SetColor=Gold}ally unit{SetColor=Default}, or {SetColor=Gold}while\nthey are selected{SetColor=Default}, you will see {SetColor=Gold}a line extending from\nany foe{SetColor=Default} they are within the {SetColor=Gold}threat range{SetColor=Default} of.
+MID_TUT_Bmap_TargetLine_m01_002: If there are multiple lines, that unit is within\nmultiple foes' threat ranges, so be careful.
+MID_TUT_Bmap_TargetLine_m01_003: If the enemies' threat range is {SetColor=Gold}always\ndisplayed{SetColor=Default}, you can {SetColor=Gold}view the lines{SetColor=Default} just by\n{SetColor=Gold}moving the cursor into the range{SetColor=Default}.
+MID_TUT_Bmap_TargetLine2_t: Target Line Colors
+MID_TUT_Bmap_TargetLine2_m01_001: The {SetColor=Gold}color of the lines extending from enemies{SetColor=Default} are\n{SetColor=Gold}different depending on what attacks they'll use{SetColor=Default}.
+MID_TUT_Bmap_TargetLine2_m01_002: {SetColor=Gold}Normal attacks {SetColor=Default}are {SetColor=Gold}red{SetColor=Default}, {SetColor=Gold}high Crit{SetColor=Default} attacks\nare {SetColor=Gold}yellow{SetColor=Default}, {SetColor=Gold}Eff/Eff+{SetColor=Default} attacks are {SetColor=Gold}purple{SetColor=Default},\nand {SetColor=Gold}Blaze Arts{SetColor=Default} are {SetColor=Gold}dark purple{SetColor=Default}.
+MID_TUT_Bmap_Flame_t: Burning Terrain
+MID_TUT_Bmap_Flame_m01_001: When a unit {SetColor=Gold}ends their turn{SetColor=Default} on burning terrain,\nthey will take {SetColor=Gold}damage{SetColor=Default} at the {SetColor=Gold}start of their phase{SetColor=Default}.
+MID_TUT_Bmap_Flame_m01_002: You can {SetColor=Gold}extinguish{SetColor=Default} {SetColor=Gold}burning{SetColor=Default} terrain by using a\n{SetColor=Gold}{LowercaseNextLetter}Gambit{SetColor=Default} or {SetColor=Gold}Blaze Arts while in Overblaze{SetColor=Default}.
+MID_TUT_Bmap_BondsParticipation_t: Limited Allies
+MID_TUT_Bmap_BondsParticipation_m01_001: If you have cleared a Flame Lord's {LowercaseNextLetter}Paralogue\nbut not their Part I path, they may join the\nSalvation Arc in a {SetColor=Gold}limited capacity{SetColor=Default}.
+MID_TUT_Bmap_BondsParticipation_m01_002: Flame Lords joining this way {SetColor=Gold}aid in battle{SetColor=Default}, but they\n{SetColor=Gold}generally do not participate{SetColor=Default} in the {SetColor=Gold}story{SetColor=Default} and you can\nview only some of their support conversations.
+MID_TUT_Gmap_Gmap_t: The World Map
+MID_TUT_Gmap_Gmap_m01_001: On the world map, there are {SetColor=Gold}various places {SetColor=Default}you\ncan travel to, including settlements, dungeons,\nand roads. These are called {SetColor=Gold}locations{SetColor=Default}.
+MID_TUT_Gmap_Gmap_m01_002: When you place the {SetColor=Gold}cursor{SetColor=Default} on your {SetColor=Gold}unit{SetColor=Default} and {SetColor=Gold}press {ButtonA}{SetColor=Default},\nyour {SetColor=Gold}travel range{SetColor=Default} is {SetColor=Gold}shown in blue{SetColor=Default}. Select the\n{SetColor=Gold}location you want to go to{SetColor=Default}, then {SetColor=Gold}press {ButtonA}{SetColor=Default} to move.
+MID_TUT_Gmap_Gmap_m01_003: After moving, {SetColor=Gold}select an activity{SetColor=Default} that can be\ncarried out at that location. Once this activity\nis over, you will proceed to the next turn.
+MID_TUT_Gmap_TroopAppearance_t: Roaming Encounters
+MID_TUT_Gmap_TroopAppearance_m01_001: {SetColor=Gold}Enemies can appear{SetColor=Default} at world map\nlocations. If you come into contact\nwith them, it will trigger a {SetColor=Gold}{LowercaseNextLetter}Skirmish{SetColor=Default}.
+MID_TUT_Gmap_TroopAppearance_m01_002: You may also {SetColor=Gold}find traveling merchants{SetColor=Default}. You can\n{SetColor=Gold}shop{SetColor=Default} from them by moving to their location.
+MID_TUT_Gmap_AfterBattle_t: Recovery During Free Time
+MID_TUT_Gmap_AfterBattle_m01_001: If you enter combat {SetColor=Gold}during free time{SetColor=Default}, {SetColor=Gold}HP and\nmagic will not be restored{SetColor=Default} after battle. It's best\nto use an {LowercaseNextLetter}Inn at a base to recover afterward.
+MID_TUT_Gmap_Explore_t: Search Locations
+MID_TUT_Gmap_Explore_m01_001: Use the {SetColor=Gold}Search {SetColor=Default}action at {SetColor=Gold}search\nlocations {SetColor=Default}to {SetColor=Gold}collect materials{SetColor=Default}.
+MID_TUT_Gmap_Explore_m01_002: The materials you gain are random and\ndepend on that location's {SetColor=Gold}appearance rate{SetColor=Default}.
+MID_TUT_Gmap_Feast_t: Feast Locations
+MID_TUT_Gmap_Feast_m01_001: Use the {SetColor=Gold}Feast{SetColor=Default} action at {SetColor=Gold}feast locations{SetColor=Default}\nto {SetColor=Gold}recover HP and magic {SetColor=Default}for {SetColor=Gold}all allies{SetColor=Default},\nas well as {SetColor=Gold}raise {Lowercase}Support Points{NormalCase}{SetColor=Default}.
+MID_TUT_Gmap_Feast_m01_002: The amount recovered {SetColor=Gold}varies{SetColor=Default} depending on\nthe {SetColor=Gold}type and amount of ingredients {SetColor=Default}you use.
+MID_TUT_Gmap_EncounterBattle_t: Skirmishes
+MID_TUT_Gmap_EncounterBattle_m01_001: When you {SetColor=Gold}come across an enemy{SetColor=Default} on the {SetColor=Gold}world map{SetColor=Default},\na {SetColor=Gold}{LowercaseNextLetter}Skirmish{SetColor=Default} will begin. Fighting in these will earn\nExp, support points, items, and Skill Exp.
+MID_TUT_Gmap_EncounterBattle_m01_002: On rare occasions, a third army will\njoin the fray. Defeat them before they\nflee to gain extra Exp and items.
+MID_TUT_Gmap_Merchant_t: Trading on the World Map
+MID_TUT_Gmap_Merchant_m01_001: At {SetColor=Gold}locations with merchants{SetColor=Default},\nyou can {SetColor=Gold}peruse their wares{SetColor=Default}.
+MID_TUT_Gmap_Merchant_m01_002: If {SetColor=Gold}the location has a Vandahl merchant{SetColor=Default}, you can\n{SetColor=Gold}exchange materials{SetColor=Default} for weapons or items.
+MID_TUT_Gmap_Merchant_m01_003: Each will stock different products, which you\ncan view by pressing {SetColor=Gold}{ButtonZL} at the location.{SetColor=Default}
+MID_TUT_Gmap_Seki_t: Checkpoints
+MID_TUT_Gmap_Seki_m01_001: {SetColor=Gold}You must meet a certain Renown Lv{SetColor=Default}\nin order to {SetColor=Gold}pass{SetColor=Default} a {SetColor=Gold}checkpoint{SetColor=Default}.
+MID_TUT_Gmap_Seki_m01_002: You can raise your renown by progressing the\nstory, completing quests, or using some facilities.
+MID_TUT_Gmap_DungeonSpot_t: Dungeons
+MID_TUT_Gmap_DungeonSpot_m01_001: You can enter the {SetColor=Gold}dungeons{SetColor=Default}\nyou find and {SetColor=Gold}explore{SetColor=Default} inside.
+MID_TUT_Gmap_DungeonSpot_m01_002: Enemies roam inside, which offer {SetColor=Gold}Exp {SetColor=Default}for\ndefeating them. You can also find {SetColor=Gold}materials{SetColor=Default}\nby breaking crates and ore deposits.
+MID_TUT_Gmap_DungeonSpot_m01_003: Defeated enemies will not return until the\nnext chapter. Materials can be collected\nagain by reentering the dungeon.
+MID_TUT_Gmap_DungeonSpot_m01_004: If a dungeon has {SetColor=Gold}a second exit{SetColor=Default} and you {SetColor=Gold}leave\nthrough it{SetColor=Default}, {SetColor=Gold}a new path will appear {SetColor=Default}on the world\nmap, allowing you to pass through that location.
+MID_TUT_Gmap_TempleSpot_t: Main Temples
+MID_TUT_Gmap_TempleSpot_m01_001: You can enter {SetColor=Gold}main temples{SetColor=Default}\nto {SetColor=Gold}walk around{SetColor=Default} inside them.
+MID_TUT_Gmap_TempleSpot_m01_002: They offer the same features\nas the temples in Dagsion.
+MID_TUT_Gmap_SimpleBase_t: Settlements
+MID_TUT_Gmap_SimpleBase_m01_001: At {SetColor=Gold}settlements{SetColor=Default}, you can visit {SetColor=Gold}shops{SetColor=Default}.\nThe type of shops and the products\nthey stock vary based on your location.
+MID_TUT_Gmap_SimpleBase_m01_002: Talking to the residents at a settlement may\nreveal {SetColor=Gold}information useful on your adventure{SetColor=Default}.
+MID_TUT_Gmap_Station_t: Posthouses
+MID_TUT_Gmap_Station_m01_001: At {SetColor=Gold}posthouses{SetColor=Default}, you can hire a {SetColor=Gold}{LowercaseNextLetter}Carriage{SetColor=Default}\nto {SetColor=Gold}travel quickly{SetColor=Default} to another posthouse.
+MID_TUT_Gmap_Station_m01_002: You can select any destination from\n{SetColor=Gold}unlocked posthouses{SetColor=Default} along the same route.
+MID_TUT_Gmap_Base_t: Bases
+MID_TUT_Gmap_Base_m01_001: You can enter and {SetColor=Gold}walk around{SetColor=Default} inside {SetColor=Gold}bases{SetColor=Default}.
+MID_TUT_Gmap_Base_m01_002: You can see the shops there and their\nstock by pressing {ButtonZL} at the location.
+MID_TUT_Gmap_UnderworldGateStatus_t: Underworld Gates
+MID_TUT_Gmap_UnderworldGateStatus_m01_001: Once {SetColor=Gold}the free time period ends{SetColor=Default},\n{SetColor=Gold}underworld gates will manifest{SetColor=Default}. You can\nthen {SetColor=Gold}attempt a mission to destroy a gate{SetColor=Default}.
+MID_TUT_Gmap_UnderworldGateStatus_m01_002: {SetColor=Gold}Gates that are close to manifesting{SetColor=Default}\nhave {SetColor=Gold}a different appearance{SetColor=Default} and will be\ndescribed as such in the location details.
+MID_TUT_Gmap_TroopFormation_t: Forming Squads
+MID_TUT_Gmap_TroopFormation_m01_001: In the Salvation Arc, you can {SetColor=Gold}use your choice of\nallies {SetColor=Default}to form a {SetColor=Gold}squad{SetColor=Default} and act on the world map.
+MID_TUT_Gmap_TroopFormation_m01_002: Use {AvatarName}'s {SetColor=Gold}Form Squad{SetColor=Default}\ncommand to create squads.
+MID_TUT_Gmap_TroopFormation_m01_003: However, {SetColor=Gold}{AvatarName} does not belong\nto any single squad{SetColor=Default} and acts from {SetColor=Gold}Dagsion{SetColor=Default},\nwhere they oversee the entire army.
+MID_TUT_Gmap_TroopFormation_m01_004: If {SetColor=Gold}all allies{SetColor=Default} other than {AvatarName} are\n{SetColor=Gold}routed{SetColor=Default}, you will be unable to form squads.\nThis results in a {SetColor=Gold}game over{SetColor=Default}, so be careful.
+MID_TUT_Gmap_StandbyUnit_t: Exp for Reserve Members
+MID_TUT_Gmap_StandbyUnit_m01_001: {SetColor=Gold}Allies not included in a squad{SetColor=Default} will train in Dagsion\nand {SetColor=Gold}gain experience{SetColor=Default} at the {SetColor=Gold}end of each turn{SetColor=Default}.
+MID_TUT_Gmap_IshmalComing_t: {CapitalizeNextLetter}{AvatarName}'s Presence
+MID_TUT_Gmap_IshmalComing_m01_001: When a squad takes actions like entering\nbattle or exploring a dungeon, {SetColor=Gold}{AvatarName}{SetColor=Default}\nwill teleport there to {SetColor=Gold}participate{SetColor=Default}.
+MID_TUT_Gmap_Miasma_t: Miasma
+MID_TUT_Gmap_Miasma_m01_001: When {SetColor=Gold}miasma{SetColor=Default} breaks out at a location,\n{SetColor=Gold}that location's features will become\nunusable{SetColor=Default} until you {SetColor=Gold}dispel{SetColor=Default} it.
+MID_TUT_Gmap_Miasma_m01_002: You must {SetColor=Gold}dispel all the miasma{SetColor=Default} in the\nsame region as {SetColor=Gold}an underworld gate{SetColor=Default}\nbefore you can assault that gate.
+MID_TUT_Gmap_Miasma_m01_003: When you use the {SetColor=Gold}Dispel Miasma {SetColor=Default}command, you\nwill be rewarded when the dispelling is complete.
+MID_TUT_Gmap_MultipleTroops_t: Controlling Multiple Squads
+MID_TUT_Gmap_MultipleTroops_m01_001: When you {SetColor=Gold}form multiple squads{SetColor=Default}, you can\ncontrol them to {SetColor=Gold}each act independently{SetColor=Default}.
+MID_TUT_Gmap_MultipleTroops_m01_002: To progress to the next turn, either act with all of\nyour squads or select the End Turn command.
+MID_TUT_Gmap_UnderworldGate_t: Underworld Gate Battles
+MID_TUT_Gmap_UnderworldGate_m01_001: When you move to a manifested {SetColor=Gold}underworld\ngate{SetColor=Default}, you can attempt a {SetColor=Gold}battle with the\nBrimstone Lord{SetColor=Default} who guards the gate.
+MID_TUT_Gmap_UnderworldGate_m01_002: You can deploy units to this battle from\nboth {SetColor=Gold}squads at the underworld gate{SetColor=Default} and\n{SetColor=Gold}squads at adjacent locations{SetColor=Default}.
+MID_TUT_Gmap_GateDestruction_t: Destroying Underworld Gates
+MID_TUT_Gmap_GateDestruction_m01_001: After you win a battle at an underworld gate,\nuse the {SetColor=Gold}Destroy Gate{SetColor=Default} command to {SetColor=Gold}destroy the\ngate{SetColor=Default},{SetColor=Gold} get the rewards{SetColor=Default}, and {SetColor=Gold}progress the story{SetColor=Default}.
+MID_TUT_Gmap_GateDestruction_m01_002: You can {SetColor=Gold}continue acting on your turns without\ndestroying the gate{SetColor=Default}, but when the {SetColor=Gold}deadline{SetColor=Default}\narrives, the story will progress automatically.
+MID_TUT_Gmap_Defense_t: Assault of the Underworld Armies
+MID_TUT_Gmap_Defense_m01_001: The {SetColor=Gold}armies of the underworld {SetColor=Default}that stream from\nthe {SetColor=Gold}miasma{SetColor=Default} will {SetColor=Gold}march on Dagsion{SetColor=Default} to destroy it.
+MID_TUT_Gmap_Defense_m01_002: If the {SetColor=Gold}armies of the underworld reach Dagsion{SetColor=Default},\na special battle to defend the city will begin.
+MID_TUT_Gmap_Defense_m01_003: These battles will be against {SetColor=Gold}extremely powerful\nfoes{SetColor=Default}. It will be easier to repel the armies of the\nunderworld before they reach the city.
+MID_TUT_Gmap_Defense_m01_004: If you {SetColor=Gold}fail to defend the city{SetColor=Default}, Dagsion's {SetColor=Gold}endurance\nwill decrease{SetColor=Default}. If it {SetColor=Gold}drops to 0{SetColor=Default}, the {SetColor=Gold}game is over{SetColor=Default}.
+MID_TUT_Gmap_DefenseBattle_t: Defending Dagsion
+MID_TUT_Gmap_DefenseBattle_m01_001: When {SetColor=Gold}defending Dagsion{SetColor=Default}, you will face\nextremely powerful foes. But even if\nyou {SetColor=Gold}lose{SetColor=Default}, the {SetColor=Gold}story will continue{SetColor=Default}.
+MID_TUT_Gmap_DefenseBattle_m01_002: Any {SetColor=Gold}defeated allies{SetColor=Default} will {SetColor=Gold}recover{SetColor=Default} after the defense\nends, regardless of whether you win or lose.
+MID_TUT_Gmap_DefenseBattle_m01_003: However, losing will result in {SetColor=Gold}Dagsion's endurance\ndecreasing by 1{SetColor=Default}. If it {SetColor=Gold}drops to 0{SetColor=Default}, the {SetColor=Gold}game will end{SetColor=Default}.
+MID_TUT_Gmap_MultipleGate_t: Multiple Underworld Gates
+MID_TUT_Gmap_MultipleGate_m01_001: When {SetColor=Gold}multiple underworld gates\nmanifest{SetColor=Default}, you must {SetColor=Gold}assault them all{SetColor=Default}.
+MID_TUT_Gmap_MultipleGate_m01_002: Be aware that if you fail to assault all the gates\nby the deadline, it will result in a {SetColor=Gold}game over{SetColor=Default}.
+MID_TUT_Gmap_BigGate_t: Major Underworld Gates
+MID_TUT_Gmap_BigGate_m01_001: A battle at a {SetColor=Gold}major underworld gate{SetColor=Default} will\ninvolve {SetColor=Gold}more enemies {SetColor=Default}than normal.
+MID_TUT_Gmap_BigGate_m01_002: However, you {SetColor=Gold}can deploy more units {SetColor=Default}in these\nbattles. If you bring other squads to the gate or\nnear it, you can fight with a {SetColor=Gold}combined squad{SetColor=Default}.
+MID_TUT_Gmap_Reconstruction_t: Rebuilding Destroyed Locations
+MID_TUT_Gmap_Reconstruction_m01_001: If a {SetColor=Gold}location is destroyed{SetColor=Default}, you can {SetColor=Gold}no longer\nuse{SetColor=Default} whatever facilities were available there.
+MID_TUT_Gmap_Reconstruction_m01_002: But you can gather the required {SetColor=Gold}materials{SetColor=Default} to\nbegin the work of {SetColor=Gold}rebuilding {SetColor=Default}the location.
+MID_TUT_Gmap_Reconstruction_m01_003: It takes {SetColor=Gold}several turns to rebuild{SetColor=Default} a location.\nOnce it's completed, you will {SetColor=Gold}receive\na reward{SetColor=Default} and its facilities will reopen.
+MID_TUT_Gmap_LastGate_t: Demon God Balor
+MID_TUT_Gmap_LastGate_m01_001: You can attempt the final battle against the\n{SetColor=Gold}demon god Balor{SetColor=Default} at any time, but victory\nwill be difficult if you attack right away.
+MID_TUT_Gmap_LastGate_m01_002: If you {SetColor=Gold}destroy underworld gates{SetColor=Default}, {SetColor=Gold}Balor will\nweaken{SetColor=Default} accordingly. Destroying the gates\nfirst will help to ensure your victory.
+MID_TUT_Gmap_ReconstructionShorten_t: Deploying to Rebuild
+MID_TUT_Gmap_ReconstructionShorten_m01_001: If you {LowercaseNextLetter}Deploy to a {SetColor=Gold}destroyed location{SetColor=Default}\nthat's {SetColor=Gold}being rebuilt{SetColor=Default}, you can {SetColor=Gold}reduce\nthe turns it will take{SetColor=Default} to rebuild.
+MID_TUT_Gmap_Fort_t: Fortresses
+MID_TUT_Gmap_Fort_m01_001: In the Salvation Arc, checkpoints\nare turned into {SetColor=Gold}fortresses{SetColor=Default}.
+MID_TUT_Gmap_Fort_m01_002: When you use {SetColor=Gold}Deploy to Defend{SetColor=Default} at fortresses,\nthe battalion will {SetColor=Gold}defeat{SetColor=Default} {SetColor=Gold}a certain number of{SetColor=Default}\n{SetColor=Gold}enemy squads{SetColor=Default} that try to pass that location.
+MID_TUT_Gmap_DefenseBattle2_t: Defending Citizens
+MID_TUT_Gmap_DefenseBattle2_m01_001: When you're defending Dagsion, each time a {SetColor=Gold}citizen\nis defeated{SetColor=Default} the {SetColor=Gold}enemies' stats{SetColor=Default} will {SetColor=Gold}increase greatly{SetColor=Default}.
+MID_TUT_Gmap_DefenseBattle2_m01_002: Additionally, if {SetColor=Gold}all citizens are defeated{SetColor=Default},\nyou will {SetColor=Gold}lose{SetColor=Default}. Bear that in mind as you fight.
+MID_TUT_ShortBattle_ShortBattle_t: Clashes
+MID_TUT_ShortBattle_ShortBattle_m01_001: Enemy encounters in dungeons are\n{SetColor=Gold}clashes{SetColor=Default}, where both your units and\nthe enemy units take turns attacking.
+MID_TUT_ShortBattle_ShortBattle_m01_002: You can {SetColor=Gold}select an attack each round{SetColor=Default}.\nThe battle advances to the {SetColor=Gold}next round {SetColor=Default}once\nboth allies and enemies complete their actions.
+MID_TUT_ShortBattle_ShortBattle_m01_003: The {SetColor=Gold}total of all your units' HP{SetColor=Default} serves as\n{SetColor=Gold}your forces' HP{SetColor=Default}. You {SetColor=Gold}win{SetColor=Default} by reducing\nyour {SetColor=Gold}enemies' HP to 0{SetColor=Default}.
+MID_TUT_ShortBattle_Cooperation_t: Links
+MID_TUT_ShortBattle_Cooperation_m01_001: In clashes, allies can cooperate to attack\nfoes together. This is called a {SetColor=Gold}{LowercaseNextLetter}Link{SetColor=Default}.
+MID_TUT_ShortBattle_Cooperation_m01_002: You can use a variety of {SetColor=Gold}{LowercaseNextLetter}Links{SetColor=Default}, depending on\nyour allies' {SetColor=Gold}weapons{SetColor=Default}, {SetColor=Gold}magic,{SetColor=Default} and {SetColor=Gold}Support Lvs{SetColor=Default}.
+MID_TUT_ShortBattle_Cooperation_m01_003: For example, in an {Lowercase}{SetColor=Gold}Attack Link{SetColor=Default}{NormalCase},\nyou can attack alongside a selected ally\nto {SetColor=Gold}deal great damage to the enemy{SetColor=Default}.
+MID_TUT_ShortBattle_Cooperation_m01_004: This will also {SetColor=Gold}increase {Lowercase}Support Points{NormalCase}{SetColor=Default}\nfor the {SetColor=Gold}allies involved in the {Lowercase}Link{NormalCase}{SetColor=Default}. For that\nreason alone, it's worth using them.
+MID_TUT_ShortBattle_Cooperation_m01_005: Using {LowercaseNextLetter}Links requires {SetColor=Gold}LP (Link Points){SetColor=Default}.\nLP is {SetColor=Gold}filled {SetColor=Default}at the {SetColor=Gold}start of each dungeon{SetColor=Default}.
+MID_TUT_ShortBattle_MVP_t: Clash MVPs
+MID_TUT_ShortBattle_MVP_m01_001: The {SetColor=Gold}unit who clinches victory{SetColor=Default} by striking\nthe final blow on the enemies will \nbe recognized as the {SetColor=Gold}MVP {SetColor=Default}after battle.
+MID_TUT_ShortBattle_MVP_m01_002: They will {SetColor=Gold}gain more Exp{SetColor=Default}, so consider who you\nwant to be the MVP as you select your actions.
+MID_TUT_ShortBattle_Dungeon_t: Clashing in Dungeons
+MID_TUT_ShortBattle_Dungeon_m01_001: {SetColor=Gold}Enemies roam {SetColor=Default}inside dungeons. When you\n{SetColor=Gold}make contact{SetColor=Default} with them, a {SetColor=Gold}clash{SetColor=Default} will occur.
+MID_TUT_ShortBattle_Dungeon_m01_002: If you {SetColor=Gold}press {ButtonY}{SetColor=Default}, you can swing your {SetColor=Gold}weapon{SetColor=Default}.\nIf it {SetColor=Gold}hits{SetColor=Default}, you can make a {SetColor=Gold}preemptive attack{SetColor=Default}.
+MID_TUT_ShortBattle_Auto_t: Auto-Battle in Clashes
+MID_TUT_ShortBattle_Auto_m01_001: If you {SetColor=Gold}press {ButtonX}{SetColor=Default} during a clash, you will enter\n{SetColor=Gold}Auto-Battle{SetColor=Default}, and your units will {SetColor=Gold}act{SetColor=Default}\n{SetColor=Gold}automatically based on the circumstances{SetColor=Default}.
+MID_TUT_ShortBattle_Auto_m01_002: You can {SetColor=Gold}press {LR}{SetColor=Default} during Auto-Battle\nto {SetColor=Gold}change which unit{SetColor=Default} will act.
+MID_TUT_ShortBattle_Auto_m01_003: When you {SetColor=Gold}want to end{SetColor=Default} Auto-Battle, {SetColor=Gold}press {ButtonX}{SetColor=Default} again.
+MID_TUT_ShortBattle_EventBattle_t: Event Clashes
+MID_TUT_ShortBattle_EventBattle_m01_001: During the story, special clashes known\nas {SetColor=Gold}event clashes {SetColor=Default}may occur.
+MID_TUT_ShortBattle_EventBattle_m01_002: These will begin with Auto-Battle disabled,\neven if it was enabled for regular clashes.\nYou can press {ButtonX} to enable Auto-Battle again.
+MID_TUT_ShortBattle_DestroyedItems_t: Breakable Objects in Dungeons
+MID_TUT_ShortBattle_DestroyedItems_m01_001: In dungeons, you will find {SetColor=Gold}breakable objects{SetColor=Default}\nsuch as crates. You can {SetColor=Gold}break {SetColor=Default}them by\n{SetColor=Gold}pressing {ButtonY} {SetColor=Default}to swing your {SetColor=Gold}weapon{SetColor=Default}.
+MID_TUT_ShortBattle_DestroyedItems_m01_002: Breaking them may {SetColor=Gold}earn you items{SetColor=Default}\nor {SetColor=Gold}recover your LP{SetColor=Default}.
+MID_TUT_ShortBattle_DngTreasureChest_t: Dungeon Chests
+MID_TUT_ShortBattle_DngTreasureChest_m01_001: You can {SetColor=Gold}gain items{SetColor=Default} from {SetColor=Gold}chests{SetColor=Default} in dungeons\nby approaching them and {SetColor=Gold}pressing {ButtonA}{SetColor=Default}.
+MID_TUT_ShortBattle_DngTreasureChest_m01_002: The number at the top right of the screen shows\nhow many unopened chests are in a dungeon.
+MID_TUT_ShortBattle_RestingPlace_t: Resting in Dungeons
+MID_TUT_ShortBattle_RestingPlace_m01_001: There are places in dungeons where\nyou can {SetColor=Gold}rest{SetColor=Default} to {SetColor=Gold}recover HP and magic{SetColor=Default}.
+MID_TUT_ShortBattle_RestingPlace_m01_002: A {SetColor=Gold}minimum of one ingredient{SetColor=Default} is required to\nrest. The {SetColor=Gold}amount recovered depends{SetColor=Default} on\nthe {SetColor=Gold}number and type of ingredients{SetColor=Default} used.
+MID_TUT_ShortBattle_RestingPlace_m01_003: You can rest {SetColor=Gold}only once{SetColor=Default} per dungeon exploration.\nYou cannot do so {SetColor=Gold}while pursued by enemies{SetColor=Default}.
+MID_TUT_ShortBattle_FieldKill_t: Striking to Skip Clashes
+MID_TUT_ShortBattle_FieldKill_m01_001: If your units' average level is much higher than that\nof your foes, {SetColor=Gold}Strike to Skip{SetColor=Default} will display, and pressing\n{SetColor=Gold}{ButtonY} to strike with your weapon{SetColor=Default} will result in a {SetColor=Gold}victory{SetColor=Default}.
+MID_TUT_Root_SalvationKAI_t: Hell's-Eye Cai
+MID_TUT_Root_SalvationKAI_m01_001: With {SetColor=Gold}Cai as an ally{SetColor=Default}, you can use\nthe {SetColor=Gold}{Lowercase}Stable {SetColor=Default}to {SetColor=Gold}assign mounts{SetColor=Default}.
+MID_TUT_Root_SalvationKAI_m01_002: If {SetColor=Gold}Cai is in a squad, {SetColor=Default}they can {SetColor=Gold}{Lowercase}Farm {SetColor=Default}and\n{SetColor=Gold}{Lowercase}Lure {SetColor=Default}on the world map and can use\n{SetColor=Gold}Third Eye {SetColor=Default}while exploring dungeons.
+MID_TUT_Root_SalvationKAI_m01_003: Moreover, all squads can {SetColor=Gold}harvest{SetColor=Default} and {SetColor=Gold}capture{SetColor=Default}.
+MID_TUT_Root_SalvationDIT_t: Dietrich, the Ravishing Shadow
+MID_TUT_Root_SalvationDIT_m01_001: With{SetColor=Gold} Dietrich as an ally{SetColor=Default}, you can\n{SetColor=Gold}{Lowercase}Boost Combat Arts{NormalCase}{SetColor=Default}. When Dietrich is\n{SetColor=Gold}in Dagsion{SetColor=Default}, you can also{SetColor=Gold} {Lowercase}Teach Secrets{NormalCase}{SetColor=Default}.
+MID_TUT_Root_SalvationDIT_m01_002: {SetColor=Gold}A squad containing Dietrich{SetColor=Default}\ncan use {SetColor=Gold}Answerer's Cry{SetColor=Default}.
+MID_TUT_Root_SalvationSEO_t: Theodora, Breaker of Armies
+MID_TUT_Root_SalvationSEO_m01_001: With {SetColor=Gold}Theodora as an ally{SetColor=Default}, you can {SetColor=Gold}assign {Lowercase}Battalions {SetColor=Default}\nand make use of the {SetColor=Gold}{Lowercase}Transport Chief{NormalCase}{SetColor=Default}.
+MID_TUT_Root_SalvationSEO_m01_002: {SetColor=Gold}A squad containing Theodora{SetColor=Default} can use\nthe {SetColor=Gold}{Lowercase}Recruit Soldiers{NormalCase}{SetColor=Default}, {SetColor=Gold}{Lowercase}Rousing Speech{NormalCase}{SetColor=Default},\nand {SetColor=Gold}{LowercaseNextLetter}Deploy{SetColor=Default} commands.
+MID_TUT_Root_SalvationSEO_m01_003: The quality of battalions recruitable via\nRecruit Soldiers and the number of battalions\nyou can {LowercaseNextLetter}Deploy will be maxed out.
+MID_TUT_Root_SalvationLED_t: Leda, Siren of the Six-String
+MID_TUT_Root_SalvationLED_m01_001: With {SetColor=Gold}Leda as an ally{SetColor=Default}, all units gain access\nto the {SetColor=Gold}drink vendor {SetColor=Default}at the tavern.
+MID_TUT_Root_SalvationLED_m01_002: Additionally, when Leda is in {SetColor=Gold}Dagsion{SetColor=Default}, you can\naccept {SetColor=Gold}performance{SetColor=Default} requests from the {Lowercase}Tavern Owner{NormalCase}.
+MID_TUT_Root_SalvationANH_t: Anatolia's Dragon Strike
+MID_TUT_Root_SalvationANH_m01_001: Anatolia's {SetColor=Gold}Dragon Strike {SetColor=Default}Blaze Arts are {SetColor=Gold}area attacks{SetColor=Default}\nthat {SetColor=Gold}damage all foes in range{SetColor=Default} and {SetColor=Gold}destroy obstacles{SetColor=Default}.\nThe affected area increases with each tier.
+MID_TUT_Root_SalvationBEL_t: Bertrand's Awakening
+MID_TUT_Root_SalvationBEL_m01_001: Bertrand's {SetColor=Gold}Awakening {SetColor=Default}Blaze Arts will {SetColor=Gold}raise\nhis stats {SetColor=Default}until the start of the next player phase.
+MID_TUT_Root_SalvationBEL_m01_002: Moreover, he can {SetColor=Gold}go on to attack{SetColor=Default}\non the same turn that he uses it.
+MID_TUT_Root_SalvationTAL_t: Talimun's Curses
+MID_TUT_Root_SalvationTAL_m01_001: Talimun's {SetColor=Gold}Curse {SetColor=Default}Blaze Arts can inflict\n{SetColor=Gold}status ailments {SetColor=Default}on {SetColor=Gold}multiple distant enemies{SetColor=Default}.
+MID_TUT_Root_SalvationTAL_m01_002: These status ailments last until an enemy\nfinishes a combat, or a turn passes.
+MID_TUT_Root_SalvationORH_t: Orchel's Guardian Angel
+MID_TUT_Root_SalvationORH_m01_001: Orchel's {SetColor=Gold}Guardian Angel{SetColor=Default} Blaze Arts{SetColor=Gold} {SetColor=Default}allow her to\n{SetColor=Gold}choose {SetColor=Default}between the {SetColor=Gold}wide-range{SetColor=Default} {SetColor=Gold}Strahl {SetColor=Default}and {SetColor=Gold}ultra-\nlong-range Lanze{SetColor=Default}, depending on the situation.
+MID_TUT_Root_HelpePeople_t: Kindness Quests (Cai)
+MID_TUT_Root_HelpePeople_m01_001: Accept {SetColor=Gold}Kindness quests{SetColor=Default} by speaking to people who\nneed help. Solving their problems {SetColor=Gold}increases your\nrenown{SetColor=Default}, and you can receive rewards.
+MID_TUT_Root_HelpePeople_m01_002: People who need help are {SetColor=Gold}indicated by an icon{SetColor=Default}.\nThey are also shown on the Base Map.
+MID_TUT_Root_HelpePeople_m01_003: The higher your Renown Lv, the more\nyou can do. Keep completing Kindness\nquests to raise your renown.
+MID_TUT_Root_HelpePeople_m01_004: You can check a Kindness quest's details and status\non the Quest List page of the Adventure Journal.
+MID_TUT_Root_Practice_t: Mentoring (Cai)
+MID_TUT_Root_Practice_m01_001: As your {SetColor=Gold}Renown Lv increases{SetColor=Default}, you can receive\n{SetColor=Gold}mentoring {SetColor=Default}that offers multiple benefits.
+MID_TUT_Root_Practice_m01_002: Mentors are {SetColor=Gold}indicated by an icon{SetColor=Default}.{SetColor=Gold}{SetColor=Default}\nThey are also shown on the Base Map.
+MID_TUT_Root_Practice_m01_003: Your Renown Lv determines what lessons mentors\nwill offer. Increase your renown and give it a try.
+MID_TUT_Root_Field_t: Farming (Cai)
+MID_TUT_Root_Field_m01_001: You can use the {SetColor=Gold}Farm{SetColor=Default} command on {SetColor=Gold}empty\nplots {SetColor=Default}to create a {SetColor=Gold}field {SetColor=Default}for growing plants.
+MID_TUT_Root_Field_m01_002: You'll {SetColor=Gold}need one plant{SetColor=Default} in order to create\na field. Once you {LowercaseNextLetter}Farm, you can {SetColor=Gold}harvest{SetColor=Default}\nyour crop {SetColor=Gold}after several turns{SetColor=Default}.
+MID_TUT_Root_Field_m01_003: You can harvest crops {SetColor=Gold}simply by passing over{SetColor=Default}\nthe spot. After the harvest, the same plants\nwill continue to grow.
+MID_TUT_Root_Field_m01_004: However, the field will revert to an {SetColor=Gold}empty plot{SetColor=Default}\nafter you have {SetColor=Gold}harvested it a few times{SetColor=Default}.
+MID_TUT_Root_Capture_t: Luring (Cai)
+MID_TUT_Root_Capture_m01_001: Use the {SetColor=Gold}Lure{SetColor=Default} command at an {SetColor=Gold}animal spot {SetColor=Default}to\nplace {SetColor=Gold}bait {SetColor=Default}and {SetColor=Gold}lure a mount{SetColor=Default} to that location.
+MID_TUT_Root_Capture_m01_002: {SetColor=Gold}Several turns after{SetColor=Default} you use Lure, an animal will\nappear for you to use the {SetColor=Gold}Capture{SetColor=Default} command on.
+MID_TUT_Root_Capture_m01_003: If {SetColor=Gold}successful{SetColor=Default}, you will {SetColor=Gold}acquire a mount{SetColor=Default}.\nOn a {SetColor=Gold}failure{SetColor=Default}, it will flee and you may end\nup in a {SetColor=Gold}battle against other creatures{SetColor=Default}.
+MID_TUT_Root_Capture_m01_004: It's {SetColor=Gold}easier to catch a mount {SetColor=Default}by using {SetColor=Gold}bait they prefer{SetColor=Default}.
+MID_TUT_Root_Fertilizer_t: Crop Rotations (Cai)
+MID_TUT_Root_Fertilizer_m01_001: Sometimes you will find a plant on a farm that\nis {SetColor=Gold}different from what you've planted{SetColor=Default} there.
+MID_TUT_Root_Fertilizer_m01_002: Moreover, using the {SetColor=Gold}New Farm{SetColor=Default} command on\na location where there's already a field lets\nyou {SetColor=Gold}grow different plants in that field{SetColor=Default}.
+MID_TUT_Root_Stable_t: Tending Animals (Cai)
+MID_TUT_Root_Stable_m01_001: At the {Lowercase}Stable, you can {SetColor=Gold}{LowercaseNextLetter}Tend {SetColor=Default}to your mounts by\n{SetColor=Gold}feeding them{SetColor=Default}, making them {SetColor=Gold}friendlier{SetColor=Default} toward you.
+MID_TUT_Root_Stable_m01_002: Continuing to care for them will {SetColor=Gold}increase your\nBond Lv{SetColor=Default} and unlock new {SetColor=Gold}cavalry abilities{SetColor=Default}.
+MID_TUT_Root_Stable_m01_003: Cavalry abilities benefit one's allies and {SetColor=Gold}take\neffect when they're mounted{SetColor=Default} on that animal.
+MID_TUT_Root_Stable_m01_004: It is {SetColor=Gold}easier to increase a mount's Bond Lv{SetColor=Default} by\noffering them their {SetColor=Gold}favorite foods{SetColor=Default}. You may\nwish to check what these are before feeding.
+MID_TUT_Root_Stable2_t: Stables (Cai)
+MID_TUT_Root_Stable2_m01_001: At the {LowercaseNextLetter}Stable, you can {SetColor=Gold}name a mount{SetColor=Default}\nor {SetColor=Gold}care {SetColor=Default}for it to {SetColor=Gold}deepen your bond{SetColor=Default}.
+MID_TUT_Root_Stable2_m01_002: You can also {SetColor=Gold}release{SetColor=Default} mounts. Doing so gives\nyou an {SetColor=Gold}item {SetColor=Default}depending on the mount's Bond Lv.
+MID_TUT_Root_Perspective_t: Third Eye (Cai)
+MID_TUT_Root_Perspective_m01_001: {SetColor=Gold}When Cai is in a dungeon{SetColor=Default}, {SetColor=Gold}hold {ButtonZL} {SetColor=Default}to {SetColor=Gold}see\nenemies{SetColor=Default} as red silhouettes through walls.
+MID_TUT_Root_Perspective_m01_002: However, {SetColor=Gold}you cannot move while seeing\nthem {SetColor=Default}this way. Stay alert of your immediate\nsurroundings, or you might come under attack.
+MID_TUT_Root_Reinforcement_t: Boost Combat Arts (Dietrich)
+MID_TUT_Root_Reinforcement_m01_001: Speak to the temple reception at\n{SetColor=Gold}Smyrnos's temple{SetColor=Default} to {SetColor=Gold}{Lowercase}Boost Combat Arts{NormalCase}{SetColor=Default}.
+MID_TUT_Root_Reinforcement_m01_002: When you {Lowercase}Boost Combat Arts{NormalCase}, you might\n{SetColor=Gold}increase its might (Mt) or accuracy (Hit){SetColor=Default},\n{SetColor=Gold}lower its durability cost{SetColor=Default}, and so on.
+MID_TUT_Root_Reinforcement_m01_003: You need {SetColor=Gold}{Lowercase}Magic Echo Shards{NormalCase}{SetColor=Default} to strengthen\ncombat arts. You can gain these by {SetColor=Gold}defeating\nenemies discovered through Answerer's Cry{SetColor=Default}.
+MID_TUT_Root_Blade_t: Answerer's Cry (Dietrich)
+MID_TUT_Root_Blade_m01_001: Use the {SetColor=Gold}Answerer's Cry{SetColor=Default} command on the\nworld map to {SetColor=Gold}discover enemies in hiding{SetColor=Default},\nallowing you to challenge them to a {SetColor=Gold}{LowercaseNextLetter}Skirmish{SetColor=Default}.
+MID_TUT_Root_Blade_m01_002: The range of detection for these hidden\nenemies {SetColor=Gold}gets smaller each time you use{SetColor=Default}\nAnswerer's Cry until it is no longer usable.
+MID_TUT_Root_Blade_m01_003: Its range {SetColor=Gold}gradually recovers each turn{SetColor=Default}.\nIt also {SetColor=Gold}recovers{SetColor=Default} when you {SetColor=Gold}enter or\nleave bases and dungeons{SetColor=Default}.
+MID_TUT_Root_SeaKing_t: Hunting for Cetus
+MID_TUT_Root_SeaKing_m01_001: You can {SetColor=Gold}sense Cetus{SetColor=Default} by using {SetColor=Gold}Answerer's Cry{SetColor=Default}.\nTry {SetColor=Gold}moving to the spot where you last sensed it{SetColor=Default}.
+MID_TUT_Root_SeaKing_m01_002: You can't use Answerer's Cry again until you\n{SetColor=Gold}confirm the identity of the presence you sensed{SetColor=Default}.
+MID_TUT_Root_Arrangement_t: The Headhunter (Dietrich)
+MID_TUT_Root_Arrangement_m01_001: When you accept challenge-letter{SetColor=Gold} requests{SetColor=Default}\nfrom the {SetColor=Gold}headhunter{SetColor=Default}, you can fight powerful\nenemies called {SetColor=Gold}dread warriors{SetColor=Default}.
+MID_TUT_Root_Arrangement_m01_002: Dread warriors each use their own {SetColor=Gold}secret combat art{SetColor=Default}.\nIf victorious, Dietrich can {SetColor=Gold}learn those secret arts{SetColor=Default}.
+MID_TUT_Root_Arrangement_m01_003: They will be {SetColor=Gold}hiding somewhere inside the\nspecified dungeon{SetColor=Default}. Search the site to find them.
+MID_TUT_Root_Arrangement_m01_004: As your {SetColor=Gold}Renown Lv increases{SetColor=Default}, you'll receive\n{SetColor=Gold}new {Lowercase}Challenge Letters{NormalCase}{SetColor=Default}. Make sure to stop\nby the headhunter from time to time.
+MID_TUT_Root_Arrangement_m01_005: You can check a {Lowercase}Challenge Letter{NormalCase} quest's\ndetails and status on the Quest List\npage of the Adventure Journal.
+MID_TUT_Root_Initiation_t: Teach Secrets (Dietrich)
+MID_TUT_Root_Initiation_m01_001: You can use {SetColor=Gold}{Lowercase}Magic Echo Shards{NormalCase}{SetColor=Default} to {SetColor=Gold}{Lowercase}Teach Secrets{NormalCase}{SetColor=Default},\nallowing other allies to learn the {SetColor=Gold}combat arts{SetColor=Default}\nthat Dietrich has {SetColor=Gold}learned from dread warriors{SetColor=Default}.
+MID_TUT_Root_Initiation_m01_002: As long as you have {Lowercase}Magic Echo Shards{NormalCase}, you can\nteach secret arts as often as you like. Enhancements\nfrom {SetColor=Gold}boosting combat arts won't be transferred{SetColor=Default}.
+MID_TUT_Root_Legionnaire_t: Battalions (Theodora)
+MID_TUT_Root_Legionnaire_m01_001: {SetColor=Gold}Assigning {SetColor=Default}a {SetColor=Gold}{LowercaseNextLetter}Battalion{SetColor=Default} will {SetColor=Gold}increase a unit's\nstats {SetColor=Default}and allow them to use a {SetColor=Gold}{LowercaseNextLetter}Gambit{SetColor=Default}.
+MID_TUT_Root_Legionnaire_m01_002: Some {LowercaseNextLetter}Gambits have additional effects upon use.\nYou can see their details when assigning them. Note\nthat you cannot assign battalions to cavalry units.
+MID_TUT_Root_RecruitingSoldiers_t: Recruit Soldiers (Theodora)
+MID_TUT_Root_RecruitingSoldiers_m01_001: You can use the {SetColor=Gold}Recruit Soldiers{SetColor=Default} command\nat {SetColor=Gold}settlements {SetColor=Default}to assemble and acquire a\n{SetColor=Gold}{LowercaseNextLetter}Battalion{SetColor=Default} {SetColor=Gold}after several turns{SetColor=Default}.
+MID_TUT_Root_RecruitingSoldiers_m01_002: A {SetColor=Gold}high Renown Lv{SetColor=Default} will allow you to\nrecruit even {SetColor=Gold}higher-quality {LowercaseNextLetter}Battalions{SetColor=Default}.
+MID_TUT_Root_BigRecruitingSoldiers_t: Recruiting Drive (Theodora)
+MID_TUT_Root_BigRecruitingSoldiers_m01_001: {SetColor=Gold}Recruiting drives{SetColor=Default} are a special type of recruitment\nthat {SetColor=Gold}add the effect of a rousing speech{SetColor=Default}, making it\n{SetColor=Gold}easier to recruit high-quality {LowercaseNextLetter}Battalions{SetColor=Default}.
+MID_TUT_Root_BigRecruitingSoldiers_m01_002: Some settlements will allow you to hold\na recruiting drive. If you get the chance,\nyou should definitely seize it.
+MID_TUT_Root_Allowance_t: Send Supplies (Theodora)
+MID_TUT_Root_Allowance_m01_001: With {SetColor=Gold}Send Supplies{SetColor=Default}, you can {SetColor=Gold}deliver\nsupplies {SetColor=Default}requested from Saramis to {SetColor=Gold}raise\nyour renown{SetColor=Default} and earn {SetColor=Gold}rewards{SetColor=Default}.
+MID_TUT_Root_Allowance_m01_002: Speak to {SetColor=Gold}Bonaventure{SetColor=Default} to see what\nyour subjects are requesting.
+MID_TUT_Root_Allowance_m01_003: You can check the details and status\nof these requests on the Quest List\npage of the Adventure Journal.
+MID_TUT_Root_Deployment_t: Deploy to Search (Theodora)
+MID_TUT_Root_Deployment_m01_001: You can {SetColor=Gold}{LowercaseNextLetter}Deploy{SetColor=Default} a {LowercaseNextLetter}Battalion to {SetColor=Gold}gather materials{SetColor=Default}\nat a {SetColor=Gold}search location {SetColor=Default}or a {SetColor=Gold}dungeon location{SetColor=Default}.
+MID_TUT_Root_Deployment_m01_002: Deploying {SetColor=Gold}takes several turns to complete{SetColor=Default}.\nDeployed {LowercaseNextLetter}Battalions cannot be assigned to\nunits or {SetColor=Gold}used for anything else{SetColor=Default} in the meantime.
+MID_TUT_Root_Deployment_m01_003: You can collect more materials by {LowercaseNextLetter}Deploying\nhigh-quality {LowercaseNextLetter}Battalions or {LowercaseNextLetter}Battalions\nwith an affinity for that location.
+MID_TUT_Root_Deployment_m01_004: As your {SetColor=Gold}Renown Lv increases{SetColor=Default}, you {SetColor=Gold}can {LowercaseNextLetter}Deploy more\nbattalions at once{SetColor=Default}. You can view a {LowercaseNextLetter}Battalion's status\non the {SetColor=Gold}Deployment Info{SetColor=Default} page under Information.
+MID_TUT_Root_MercenaryUnion_t: Transport Chief (Theodora)
+MID_TUT_Root_MercenaryUnion_m01_001: You can transfer excess {LowercaseNextLetter}Battalions through\nyour {SetColor=Gold}{Lowercase}Transport Chief{NormalCase}{SetColor=Default}, who will {SetColor=Gold}award\ntroop points {SetColor=Default}for transferring them.
+MID_TUT_Root_MercenaryUnion_m01_002: {SetColor=Gold}Whenever you reach 100 troop points{SetColor=Default}, they will\nbe {SetColor=Gold}exchanged for a Tactics Manual{SetColor=Default}. Give it\na try if you have too many {LowercaseNextLetter}Battalions.
+MID_TUT_Root_Speech_t: Rousing Speech (Theodora)
+MID_TUT_Root_Speech_m01_001: You can give a {SetColor=Gold}{Lowercase}Rousing Speech{NormalCase}{SetColor=Default} at locations where\nyou are currently {SetColor=Gold}recruiting soldiers{SetColor=Default} to make it\n{SetColor=Gold}easier to recruit a high-quality battalion{SetColor=Default}.
+MID_TUT_Root_LocalEntertainment_t: Local Performances (Leda)
+MID_TUT_Root_LocalEntertainment_m01_001: {SetColor=Gold}Taverns {SetColor=Default}across Dagda make requests\nfor {SetColor=Gold}dance performances{SetColor=Default}.
+MID_TUT_Root_LocalEntertainment_m01_002: You can complete these requests by visiting\nand {SetColor=Gold}performing {SetColor=Default}at the {SetColor=Gold}requested spot{SetColor=Default}, and\nyou can receive {SetColor=Gold}renown or rewards{SetColor=Default}.
+MID_TUT_Root_LocalEntertainment_m01_003: You can accept requests from the\n{SetColor=Gold}{Lowercase}Tavern Owner{NormalCase}{SetColor=Default}. Additionally, you can\nreview quest details in the Quest List.
+MID_TUT_Root_LocalEntertainment_m01_004: You may also learn some {SetColor=Gold}secret information{SetColor=Default}\nby completing these requests...
+MID_TUT_Root_LocalEntertainment2_t: Secret Spots (Leda)
+MID_TUT_Root_LocalEntertainment2_m01_001: When you {SetColor=Gold}complete a local performance{SetColor=Default}, a resident\nof that area may tell you about a {SetColor=Gold}secret spot{SetColor=Default}.
+MID_TUT_Root_LocalEntertainment2_m01_002: {SetColor=Gold}Search secret spots{SetColor=Default} to acquire {SetColor=Gold}special materials{SetColor=Default}\nthat you can't obtain elsewhere.
+MID_TUT_Root_DrinkPerson_t: The Drink Vendor (Leda)
+MID_TUT_Root_DrinkPerson_m01_001: The {SetColor=Gold}drink vendor {SetColor=Default}will make you {SetColor=Gold}beverages that can\nincrease your stats{SetColor=Default} in exchange for {SetColor=Gold}materials{SetColor=Default}.
+MID_TUT_Root_DrinkPerson_m01_002: You can use the beverages during battle, and the\n{SetColor=Gold}effects will last until the battle ends{SetColor=Default}.
+MID_TUT_Root_BarShow_t: Tavern Performances (Leda)
+MID_TUT_Root_BarShow_m01_001: Leda can learn {SetColor=Gold}new Blaze Arts{SetColor=Default} by\naccepting requests from the {SetColor=Gold}{Lowercase}Tavern Owner{NormalCase}{SetColor=Default}\nand holding {SetColor=Gold}tavern performances{SetColor=Default}.
+MID_TUT_Root_BarShow_m01_002: You can hold a tavern performance by gathering the\n{SetColor=Gold}necessary materials{SetColor=Default}, increasing your {SetColor=Gold}Renown Lv{SetColor=Default},\nand then {SetColor=Gold}speaking to the tavern owner{SetColor=Default}.
+MID_TUT_Root_BarShow_m01_003: You can check a tavern performance quest's\ndetails and status on the Quest List page\nof the Adventure Journal.
+MID_TUT_Root_FortuneTelling_t: 
+MID_TUT_Root_FortuneTelling_m01_001: 
+MID_TUT_Root_FortuneTelling_m01_002: 
+MID_TUT_Root_FortuneTelling_m01_003: 
+MID_TUT_Root_AnimalDeployment_t: Mounts
+MID_TUT_Root_AnimalDeployment_m01_001: {SetColor=Gold}Assigning {SetColor=Default}a captured {SetColor=Gold}mount{SetColor=Default} from Assign in the\nInventory menu will {SetColor=Gold}increase a unit's stats{SetColor=Default}.
+MID_TUT_Root_AnimalDeployment_m01_002: {SetColor=Gold}Fighting while a mount is assigned{SetColor=Default} will\nraise the unit and mount's {SetColor=Gold}Bond Lv{SetColor=Default},\nwhich may {SetColor=Gold}teach an ability{SetColor=Default}.
+MID_TUT_AutoSave_t: Autosave
+MID_TUT_AutoSave_m01_001: Your progress is {SetColor=Gold}saved automatically{SetColor=Default}. When you see\nthe {SetColor=Gold}save icon{SetColor=Default} at the bottom right of the screen,\ndo not {SetColor=Gold}turn off the console's power{SetColor=Default} while it displays.
+MID_TUT_AutoSave_m01_002: 
+MID_TUT_Mouse1_t: Mouse Controls
+MID_TUT_Mouse1_m01_001: {SetColor=Gold}All unit actions and commands{SetColor=Default} can be\naccomplished using {SetColor=Gold}mouse controls{SetColor=Default}.
+MID_TUT_Mouse1_m01_002: You can {SetColor=Gold}change {SetColor=Default}to {SetColor=Gold}mouse controls {SetColor=Default}by {SetColor=Gold}standing{SetColor=Default}\nthe {SetColor=Gold}Joy-Con 2 (R) {SetColor=Default}controller {SetColor=Menu}up on a flat surface.{SetColor=Default}
+MID_TUT_Mouse2_t: Mouse Control Details
+MID_TUT_Mouse2_m01_001: How the mouse controls work depends\non the situation. You can check specific\nusage from {SetColor=Gold}Mouse Controls {SetColor=Default}in {SetColor=Gold}System{SetColor=Default}.
+MID_TUT_Mouse2_m01_002: {SetColor=Gold}Press {ButtonPlus} {SetColor=Default}on the explanation screen to {SetColor=Gold}reset the \nangle calibration for mouse controls{SetColor=Default}. If you find\nthe cursor difficult to control, try {SetColor=Gold}recalibrating{SetColor=Default}.
+MID_TUT_Mouse2_m01_003: Some {SetColor=Gold}button functions {SetColor=Default}will {SetColor=Gold}change {SetColor=Default}when you're using\nmouse controls. Check the {SetColor=Gold}button help {SetColor=Default}display.
+MID_TUT_Mouse2_m01_004: You can check the current {SetColor=Gold}{Lowercase}Mouse Controls{NormalCase}{SetColor=Default}\nby {SetColor=Gold}pressing {ButtonPlus} while using mouse controls{SetColor=Default}.
+MID_TUT_Bmap_ArmoredSoldier_t: 
+MID_TUT_Bmap_ArmoredSoldier_m01_001: 
+MID_TUT_Bmap_ArmoredSoldier2_t: 
+MID_TUT_Bmap_ArmoredSoldier2_m01_001: 
+MID_TUT_Bmap_ArmoredSoldier2_m01_002: 
+MID_TUT_Bmap_Extinction_t: 
+MID_TUT_Bmap_Extinction_m01_001: 
+MID_TUT_Bmap_Extinction_m01_002: 
+MID_TUT_Bmap_MoonlitFlower_t: 
+MID_TUT_Bmap_MoonlitFlower_m01_001: 
+MID_TUT_Bmap_MoonlitFlower_m01_002: 
+MID_TUT_Bmap_MoonlitFlower_m01_003: 
+MID_TUT_Bmap_PrisonAndLantern_t: 
+MID_TUT_Bmap_PrisonAndLantern_m01_001: 
+MID_TUT_Bmap_PrisonAndLantern_m01_002: 
+MID_TUT_Bmap_PrisonAndLantern_m01_003: 
+MID_TUT_Bmap_PrisonAndLantern_m01_004: 
+MID_TUT_Bmap_BonFire_t: 
+MID_TUT_Bmap_BonFire_m01_001: 
+MID_TUT_Bmap_BonFire_m01_002: 
+MID_TUT_Bmap_BonFire_m01_003: 
+MID_TUT_Bmap_BonFire_m01_004: 
+MID_TUT_Bmap_DestructionRocks_t: 
+MID_TUT_Bmap_DestructionRocks_m01_001: 
+MID_TUT_Bmap_DestructionRocks_m01_002: 
+MID_TUT_Bmap_ElephantSoldier_t: 
+MID_TUT_Bmap_ElephantSoldier_m01_001: 
+MID_TUT_Bmap_ElephantSoldier_m01_002: 
+MID_TUT_Bmap_ElephantSoldier_m01_003: 
+MID_TUT_Bmap_ElephantSoldier_m01_004: 
+MID_TUT_Bmap_ReturnElephantSoldier_t: 
+MID_TUT_Bmap_ReturnElephantSoldier_m01_001: 
+MID_TUT_Bmap_ReturnElephantSoldier_m01_002: 
+MID_TUT_Bmap_SandyRecovery_t: 
+MID_TUT_Bmap_SandyRecovery_m01_001: 
+MID_TUT_Bmap_SandyRecovery_m01_002: 
+MID_TUT_Bmap_SandyRecovery_m01_003: 
+MID_TUT_Bmap_SandyRecovery_m01_004: 
+MID_TUT_Bmap_PirateSubjugation_t: 
+MID_TUT_Bmap_PirateSubjugation_m01_001: 
+MID_TUT_Bmap_PirateSubjugation_m01_002: 
+MID_TUT_Bmap_PirateSubjugation_m01_003: 
+MID_TUT_Bmap_PirateSubjugation2_t: 
+MID_TUT_Bmap_PirateSubjugation2_m01_001: 
+MID_TUT_Bmap_PirateSubjugation2_m01_002: 
+MID_TUT_Bmap_MiasmaTerrain_t: 
+MID_TUT_Bmap_MiasmaTerrain_m01_001: 
+MID_TUT_Bmap_MiasmaTerrain_m01_002: 
+MID_TUT_Bmap_MiasmaTerrain_m01_003: 
+MID_TUT_Bmap_MiasmaTerrain_m01_004: 
+MID_TUT_Bmap_CandleStick_t: 
+MID_TUT_Bmap_CandleStick_m01_001: 
+MID_TUT_Bmap_CandleStick_m01_002: 
+MID_TUT_Bmap_CandleStick_m01_003: 
+MID_TUT_Bmap_CandleStick2_t: 
+MID_TUT_Bmap_CandleStick2_m01_001: 
+MID_TUT_Bmap_CandleStick2_m01_002: 
+MID_TUT_Bmap_TreasureCup_t: 
+MID_TUT_Bmap_TreasureCup_m01_001: 
+MID_TUT_Bmap_TreasureCup_m01_002: 
+MID_TUT_Bmap_TreasureCup_m01_003: 
+MID_TUT_Bmap_TreasureCup_m01_004: 
+MID_TUT_Bmap_MovingRecovery_t: 
+MID_TUT_Bmap_MovingRecovery_m01_001: 
+MID_TUT_Bmap_MovingRecovery_m01_002: 
+MID_TUT_Bmap_Cargo_t: 
+MID_TUT_Bmap_Cargo_m01_001: 
+MID_TUT_Bmap_Cargo_m01_002: 
+MID_TUT_Bmap_Cargo_m01_003: 
+MID_TUT_Bmap_Cargo_m01_004: 
+MID_TUT_Bmap_VerticalWolf_t: 
+MID_TUT_Bmap_VerticalWolf_m01_001: 
+MID_TUT_Bmap_VerticalWolf_m01_002: 
+MID_TUT_Bmap_VerticalWolf_m01_003: 
+MID_TUT_Bmap_ElephantCannon_t: 
+MID_TUT_Bmap_ElephantCannon_m01_001: 
+MID_TUT_Bmap_ElephantCannon_m01_002: 
+MID_TUT_Bmap_ElephantCannon_m01_003: 
+MID_TUT_Bmap_ElephantCannon_m01_004: 
+MID_TUT_Bmap_ElephantCannon_m01_005: 
+MID_TUT_Bmap_Groove_t: 
+MID_TUT_Bmap_Groove_m01_001: 
+MID_TUT_Bmap_Resentment_t: 
+MID_TUT_Bmap_Resentment_m01_001: 
+MID_TUT_Bmap_Bitumen_t: 
+MID_TUT_Bmap_Bitumen_m01_001: 
+MID_TUT_Bmap_Bitumen_m01_002: 

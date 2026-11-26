@@ -1,0 +1,93 @@
+﻿MID_LGV_1LED_c04_B01_m01: <TH>
+MID_LGV_1LED_c04_B01_m01_001: Leda, giusto? Ho sentito parlare di te. Ti hanno\naccettata come partecipante al Torneo dei gladiatori.
+MID_LGV_1LED_c04_B01_m01_002: La cerimonia di apertura inizierà presto. Vai pure\nall'arena con il tuo gruppo.
+MID_LGA_1LED_c04_B01_m01: <BLN>Sono un'organizzatrice del torneo.
+MID_LGV_1LED_c04_Sci_m01: <TH>
+MID_LGV_1LED_c04_Sci_m01_001: Lechner agirà poco prima della nuova luna.\nDovremmo muoverci il {SetColor=Gold}{DateTime=Day} {LowercaseNextLetter}{DateTime=Month}{SetColor=Default}.
+MID_LGA_1LED_c04_Sci_m01: <BLN>Sei pronta?
+MID_LGV_1LED_c04_Sci_m05: <TH>
+MID_LGV_1LED_c04_Sci_m05_001: Stanotte c'è la luna nuova, il che significa che\nLechner passerà all'azione. Noi dovremmo fare lo\nstesso.
+MID_LGA_1LED_c04_Sci_m05: <BLN>È tutto pronto?
+MID_LGV_1LED_c04_Buc_m01: <TH>
+MID_LGV_1LED_c04_Buc_m01_001: Quando vivevo a Dagsion avevo raggiunto il grado\ndi primipilo.
+MID_LGV_1LED_c04_Buc_m01_002: Ma una volta che lord Guillermo fu nominato\ngovernatore della Cydonia, abbandonai il mio\nruolo e lo seguii.
+MID_LGA_1LED_c04_Buc_m01: <BLN>È passato così tanto tempo...
+MID_LGV_1LED_c04_Sci_m02: <TH>
+MID_LGV_1LED_c04_Sci_m02_001: È passato del tempo dall'ultima mia visita, ma la\nbrezza che soffia per le strade di Dagsion è piacevole\ncome sempre.
+MID_LGV_1LED_c04_Sci_m02_002: Ora devo trovare una donzella con cui passare\nla notte. Andrò in centro a cercarne una!
+MID_LGA_1LED_c04_Sci_m02: <BLN>Con chi passerò la mia serata?
+MID_LGV_1LED_c04_Moo_m01: <TH>
+MID_LGV_1LED_c04_Moo_m01_001: Non ho mai visto una città tanto stupefacente.\nSiamo davvero arrivati a Dagsion in un battito\ndi ciglia?
+MID_LGV_1LED_c04_Moo_m01_002: Gli dèi devono essere davvero grandi se possono\nfare delle cose del genere!
+MID_LGA_1LED_c04_Moo_m01: <BLN>Non posso crederci.
+MID_LGV_1LED_c04_Oly_m01: <TH>
+MID_LGV_1LED_c04_Oly_m01_001: Come adoro questa città! Soprattutto per la\nmancanza di insetti fastidiosi...
+MID_LGV_1LED_c04_Oly_m01_002: Sai, non ricordo quanto tempo fa è stata la mia\nultima visita a Dagsion.
+MID_LGA_1LED_c04_Oly_m01: <BLN>Quanto tempo è passato?
+MID_LGV_1LED_c04_Buc_m02: <TH>
+MID_LGV_1LED_c04_Buc_m02_001: Ho fatto un giuramento quando me ne sono andato\nda Dagsion.
+MID_LGV_1LED_c04_Buc_m02_002: Che avrei protetto lord Guillermo a costo della vita.
+MID_LGV_1LED_c04_Buc_m02_003: Nonostante quel giuramento, io sono sopravvissuto\nmentre lui è stato ucciso.
+MID_LGV_1LED_c04_Buc_m02_004: Ora, milady, il mio unico dovere è proteggervi.
+MID_LGV_1LED_c04_Buc_m02_005: Lo farò a costo della mia vita... quale che sia il valore\ndi questa mia sbiadita esistenza.
+MID_LGA_1LED_c04_Buc_m02: <BLN>Manterrò il mio giuramento.
+MID_LGV_1LED_c04_Sci_m03: <TH>
+MID_LGV_1LED_c04_Sci_m03_001: Signorina Leda, è la prima volta che vieni a Dagsion?
+MID_LGV_1LED_c04_Sci_m03_002: Sarebbe mio piacere farti da guida, se lo desideri.
+MID_LGV_1LED_c04_Sci_m03_003: <NCA>Ci penserò.
+MID_LGV_1LED_c04_Sci_m03_004: <NCB>Dacci un taglio.
+MID_LGV_1LED_c04_Sci_m03_005: <ACA>Bene! Posso accompagnarti a teatro, alla taverna,\nal porto...
+MID_LGV_1LED_c04_Sci_m03_006: <ACA>... o al giardino segreto dove gli innamorati\nsi scambiano effusioni.
+MID_LGV_1LED_c04_Sci_m03_007: <ACA>Perché mi guardi a quel modo?
+MID_LGV_1LED_c04_Sci_m03_008: <ACB>Non ti serve una guida? Noto che sei sempre\nsulla difensiva.
+MID_LGV_1LED_c04_Sci_m03_009: <ACB>Sai, il rifiuto incessante ha un impatto anche\nsu un uomo come me.
+MID_LGV_1LED_c04_Sci_m03_010: Ad ogni modo, se vuoi andare alla {SetColor=Gold}taverna{SetColor=Default}, ti basterà\nseguire quelle scale fino alla {SetColor=Gold}città bassa{SetColor=Default}.
+MID_LGV_1LED_c04_Sci_m03_011: È un ambiente molto diverso da questo... ma\nprobabilmente sei abituata a posti del genere.
+MID_LGA_1LED_c04_Sci_m03: <BLN>Vuoi che ti faccia da guida?
+MID_LGV_1LED_c04_Moo_m02: <TH>
+MID_LGV_1LED_c04_Moo_m02_001: La cerimonia d'apertura è stata incredibile! Decine\ndi migliaia di persone in un luogo solo?
+MID_LGV_1LED_c04_Moo_m02_002: Strabiliante! C'era una marea di gente ovunque\nguardassi!
+MID_LGV_1LED_c04_Moo_m02_003: So che questa città è grande, ma dai... Come fanno\na starci tutti?
+MID_LGA_1LED_c04_Moo_m02: <BLN>Davvero strabiliante!
+MID_LGV_1LED_c04_Oly_m02: <TH>
+MID_LGV_1LED_c04_Oly_m02_001: Come è logico aspettarsi da una metropoli come\nquesta, ci sono tantissime persone sofisticate!
+MID_LGV_1LED_c04_Oly_m02_002: Ho un'idea. Più tardi passerò al mercato per cercare\ndi capire cos'è che va più in voga nella capitale.
+MID_LGV_1LED_c04_Oly_m02_003: Riferirò immediatamente a Kalla ogni scoperta\ninteressante.
+MID_LGA_1LED_c04_Oly_m02: <BLN>Devo andare al mercato.
+MID_LGV_1LED_c04_Buc_m03: <TH>
+MID_LGV_1LED_c04_Buc_m03_001: Preferirei risolvere la questione con Lechner prima\ndell'inizio del Torneo dei gladiatori.
+MID_LGV_1LED_c04_Buc_m03_002: Come voi, anch'io considero deplorevoli le azioni\ndi quell'uomo.
+MID_LGV_1LED_c04_Buc_m03_003: Se non fosse stato per lui, lord Guillermo non avrebbe\nperso la vita quel giorno.
+MID_LGA_1LED_c04_Buc_m03: <BLN>Che uomo spregevole.
+MID_LGV_1LED_c04_Sci_m04: <TH>
+MID_LGV_1LED_c04_Sci_m04_001: Abbiamo ancora un po' di tempo prima del giorno\ndell'incontro e consiglio di non sprecarlo.
+MID_LGV_1LED_c04_Sci_m04_002: Molte persone hanno bisogno di aiuto in questa città,\nfortunatamente per noi e anche per loro.
+MID_LGV_1LED_c04_Sci_m04_003: Potremmo guadagnare qualcosa se esaudissimo\nle loro richieste.
+MID_LGV_1LED_c04_Moo_m03: <TH>
+MID_LGV_1LED_c04_Moo_m03_001: Leda, stavo pensando a una cosa... Perché non\nproviamo a entrare nell'arena?
+MID_LGV_1LED_c04_Moo_m03_002: Potremmo parlare coi gladiatori che hanno a che fare\ncon il torneo!
+MID_LGV_1LED_c04_Moo_m03_003: A ripensarci... siamo dei criminali ricercati.
+MID_LGV_1LED_c04_Moo_m03_004: Forse non è un'idea saggia presentarsi in un luogo\npieno di funzionari e soldati del Tempio.
+MID_LGA_1LED_c04_Moo_m03: <BLN>Pensavo a una cosa.
+MID_LGV_1LED_c04_Oly_m03: <TH>
+MID_LGV_1LED_c04_Oly_m03_001: Non ho intenzione neanch'io di farla passare liscia\na questo Lechner per quello che ha fatto.
+MID_LGV_1LED_c04_Oly_m03_002: Giocare con il cuore della giovane Leilidahna\ne lasciarla con una ferita così profonda! Umpf.
+MID_LGV_1LED_c04_Oly_m03_003: Ed è ancora più ripugnante se ripenso a quanto eri\npura e innocente al tempio.
+MID_LGA_1LED_c04_Oly_m03: <BLN>Assolutamente ripugnante!
+MID_LGV_1LED_c04_Car_m03: <TH>
+MID_LGV_1LED_c04_Car_m03_001: Leilidahna, ti senti bene? Mi fa piacere sapere\nche non stai avendo problemi.
+MID_LGV_1LED_c04_Car_m03_002: Sono sicura di non doverti ricordare che al Torneo\ndei gladiatori partecipano i guerrieri più forti.
+MID_LGV_1LED_c04_Car_m03_003: Dovrai migliorare le tue capacità se speri\ndi realizzare il tuo obiettivo.
+MID_LGV_1LED_c04_Car_m03_004: La via si aprirà di fronte a te solo se tu e i tuoi alleati\ndarete il massimo.
+MID_LGA_1LED_c04_Car_m03: <BLN>Dovrai dare il massimo.
+MID_LGV_1LED_c04_B02_m01: <TH>
+MID_LGV_1LED_c04_B02_m01_001: Il sovrano divino sta per annunciare l'inizio\ndel Torneo dei gladiatori.
+MID_LGV_1LED_c04_B02_m01_002: Se vuoi raggiungere l'arena, scendi le scale al fondo\ndella via.
+MID_LGA_1LED_c04_B02_m01: <BLN>Comincerà tra poco.
+MID_LGV_1LED_c04_B03_B04_m01: <TH>
+MID_LGV_1LED_c04_B03_B04_m01_001: È vero che il sovrano divino esaudirà qualsiasi\ndesiderio di chi vincerà?
+MID_LGV_1LED_c04_B03_B04_m01_002: Diamine. Forse avrei dovuto partecipare.
+MID_LGV_1LED_c04_B03_B04_m01_003: Certo. Se non fosse che non sai impugnare\nun'arma e che non avresti nemmeno superato\nle qualificazioni.
+MID_LGV_1LED_c04_B03_B04_m01_004: Ricorda, al Torneo dei gladiatori partecipano\ni combattenti migliori di tutta la Dagda.
+MID_LGA_1LED_c04_B03_m01: <BLN>Ho perso un'occasione.
+MID_LGA_1LED_c04_B04_m01: <BLN>Come no.

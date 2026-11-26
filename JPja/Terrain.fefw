@@ -1,0 +1,200 @@
+﻿MTID_Wall: 壁
+MTID_MagicBarrier: 魔法防壁
+MTID_ControlDevice: 制御装置
+MTID_ControlDevice_SC12_03: 能力強化装置
+MTID_ControlDevice_SC18_03: 
+MTID_ControlDevice_SC18_10: 
+MTID_ControlDevice_SC16_18: 
+MTID_MPSupplyDevice: 魔力供給装置
+MTID_Launcher: 発射装置
+MTID_Lantern: 灯籠
+MTID_CollapsiblePillar: 脆い柱
+MTID_MoonlitFlower: 
+MTID_LightZOC: 
+MTID_ZOC1_SCXX_00: 香炉の灰
+MTID_TBox: 宝箱
+MTID_EmptyTBox: 宝箱（空）
+MTID_Door: 大扉
+MTID_Bonfire: 篝火
+MTID_Floor: 床
+MTID_Deck: 甲板
+MTID_Bridge: 橋
+MTID_EvasionTile: 回避陣
+MTID_RecoveryTile: 回復陣
+MTID_RecoveryTileStop: 回復陣（停止）
+MTID_FastRecoveryTile: 
+MTID_DefenseTile: 耐物陣
+MTID_DefenseTileStop: 耐物陣（停止）
+MTID_MagicDefenseTile: 耐魔陣
+MTID_MagicDefenseTileStop: 耐魔陣（停止）
+MTID_GuardianTile: 防衛陣
+MTID_GuardianTileStop: 防衛陣（停止）
+MTID_TeleportTile: 転移陣
+MTID_TeleportTileS1: 転移陣（出口）
+MTID_TeleportTileStop: 転移陣（停止）
+MTID_SummoningTile: 召喚陣
+MTID_OilField: 歴青
+MTID_Ballista: 弓砲台
+MTID_MagicCannon: 魔道砲台
+MTID_Catapult: 投石機
+MTID_Stairs: 階段
+MTID_Building: 建物
+MTID_Rock: 岩
+MTID_Debris: 瓦礫
+MTID_Mountain: 岩山
+MTID_Cliff: 崖
+MTID_LowWall: 低い壁
+MTID_CityWall: 城壁
+MTID_Hull: 船体
+MTID_DarkMass: 冥界の肉塊
+MTID_River: 川
+MTID_Waterfall: 滝
+MTID_Pond: 池
+MTID_Sea: 海
+MTID_Bushes: 茂み
+MTID_Forest: 林
+MTID_Woods: 森
+MTID_DenseForest: 深い森
+MTID_Grove: 薮
+MTID_DenseGrove: 深い薮
+MTID_TrapTile: 床罠
+MTID_Desert: 砂漠
+MTID_Sand: 砂地
+MTID_Quicksand: 
+MTID_ToxicSwamp: 毒沼
+MTID_ShallowWater: 浅瀬
+MTID_RoughTerrain: 荒地
+MTID_Destructible: 気嚢
+MTID_SharedCarriage: 乗合馬車
+MTID_Asphalt: 歴青塊
+MTID_BarrierDevice: 
+MTID_DefendableObject: 
+MTID_ProofOfDestruction: 勝利の証
+MTID_Boulder: 
+MTID_DarkFlame: 冥炎
+MTID_Fire: 炎上
+MTID_Puddle: 水溜まり
+MTID_Miasma: 瘴気
+MTID_StomachAcid: 強酸
+MTID_FrozenFloor: 凍結
+MTID_HadesGate: 冥界の門
+MTID_HadesGround: 脈打つ肉塊
+MTID_Barrier: 防護
+MTID_ThrownThunder: 
+MTID_WanderingWall: 彷徨える壁
+MTID_Fence: 柵
+MTID_GhostCarriage: 幽霊馬車
+MTID_BaptismalAltarSwitch: 魂の踏み板
+MTID_BellTower: 鐘楼
+MTID_Explosive: 爆発物
+MTID_ControlDevice_SC12_12: 魔法罠発生装置
+MTID_FunControlDevice: 送風扇制御装置
+MTID_FunControl: 除霧送風扇
+MTID_Bonfire_SC13_11: 篝火
+MTID_Lantern_SC13_13: 香炉
+MTID_Lantern_SCXX_00: 香炉
+MTID_Bonfire_SC15_06: 
+MTID_Bonfire_SC16_13: 
+MTID_Bonfire_SCXX_04: 証の灯火
+MTID_Orichalcum: オリハルコンの山
+MTID_AerialTerrain_Ban: 防壁
+MTID_Ground_Ban: 防壁（停止）
+MTID_ObstacleLow: 低い障害物
+MTID_Pier: 桟橋
+MTID_Ground: 地面
+MTID_Sky: 空中
+MTID_Object: 障害物
+MTID_CastleFloor: 城床
+MTID_Mast: 帆柱
+MTID_NoEntry: エリア外
+MTID_DarknessGround: 冥王の座
+MTID_Abyss: 奈落
+MTID_Miasma_1: 怠惰の瘴気
+MTID_Miasma_2: 強欲の瘴気
+MTID_Miasma_3: 欺瞞の瘴気
+MTID_Miasma_4: 嫉妬の瘴気
+MTID_Miasma_5: 憤怒の瘴気
+MTID_Miasma_6: 傲慢の瘴気
+MTID_Miasma_7: 色欲の瘴気
+MTID_Miasma_8: 暴食の瘴気
+MTID_Miasma_9: 恐怖の瘴気
+MTID_Miasma_Final: 落日の瘴気
+MTID_FlammaRiver: 
+MTID_Structure1_SC11_05: 勇ましい騎士
+MTID_Structure2_SC11_05: いななく軍馬
+MTID_Structure_SC11_06: 神威大帝の威光
+MTID_Structure1_SC14_06: 不思議な構造物
+MTID_Structure2_SC14_06: 恐ろしい巨人
+MTID_Structure3_SC14_06: 軍神の雄姿
+MTID_Structure4_SC14_06: 神威大帝の雄姿
+MTID_Structure5_SC14_06: 太陽神の雄姿
+MTID_Structure_SC11_11: 大樹
+MTID_Structure_SCXX_02: 禊の祭壇
+MTID_Barrel_SC15_03: 
+MTID_BrittleRock_SC18_02: 
+MTID_TrapTile_SC18_14: 
+MTID_ProofOfDestruction_Blue: 
+MTID_ProofOfDestruction_Red: 
+MTID_DeepHole_SC16_11: 
+MTID_H_ControlDevice_SC12_12: 起動すると魔法の罠を張る
+MTID_H_Unknown: ？？？
+MTID_H_BaptismalAltarSwitch: 祭壇の結界を解除する仕掛け
+MTID_H_Asphalt: 炎で攻撃すると、歴青が炎上
+MTID_H_BellTower: 破壊すると、大きな音が発生
+MTID_H_Bonfire_SC13_11: 優勢な方の軍の色の炎が灯る
+MTID_H_Bonfire_SC14_03: 炎を灯すことができる
+MTID_H_Bonfire_SC16_13: 火を灯すと、周囲に光を放つ
+MTID_H_Bonfire_SCXX_04: 巨人を倒す毎に火が灯る
+MTID_H_ControlDevice_SC12_03: 特定の戦士を能力強化する装置
+MTID_H_ControlDevice_SC13_13_1: 転移陣の制御装置
+MTID_H_ControlDevice_SC13_13_2: 大扉の開閉を制御する装置
+MTID_H_MagicBarrier: 防壁越しの攻撃、転移不可
+MTID_H_Bonfire_SC15_06: 火を灯すと、視界が拡大
+MTID_H_ControlDevice_SC16_18: フラーマ放出の制御装置
+MTID_H_ControlDevice_SC18_03: アナトリアを強化する装置
+MTID_H_ControlDevice_SC18_10: 敵の強化状態の切替装置
+MTID_H_Explosive: 破壊すると周囲の敵にダメージ
+MTID_H_FlammaRiver: 瘴気発生、敵を強化
+MTID_H_FunControlDevice_SC13_09: 送風扇を作動させる仕掛け
+MTID_H_FunDevice_SC13_09: 作動すると、一時的に霧を払う
+MTID_H_HadesGate: バロールを守る障壁の発生源
+MTID_H_HadesGate_Broken: バロールを守る障壁の発生源
+MTID_H_Lantern_SC13_13: 破壊すると、周囲の命中低下
+MTID_H_Lantern_SC15_05: 魔法防壁を発生する仕掛け
+MTID_H_Lantern_SCXX_00: 破壊時、敵にダメージと移動減
+MTID_H_Miasma_Final: 毎ターンHPにダメージ
+MTID_H_MoonlitFlower: 満月の夜に咲く美しい花
+MTID_H_PilesOfOrichalcum: 多く破壊すると巨人にダメージ
+MTID_H_ProofOfDestruction_Blue: 期限時、数が多ければ勝利
+MTID_H_ProofOfDestruction_Red: 期限時、数が多ければ敗北
+MTID_H_Quicksand: 待機すると、流れの先へ移動
+MTID_H_TrapTile_SC18_14: 罠起動時、敵へダメージ
+MTID_H_Structure1_SC11_05: 正規軍を表した舞台美術
+MTID_H_Structure2_SC11_05: 反乱軍を表した舞台美術
+MTID_H_Structure_SC11_06: ダグザ大帝を模した舞台美術
+MTID_H_Structure1_SC14_06: 伝承から再現された舞台美術
+MTID_H_Structure2_SC14_06: 力強い巨人を表す舞台美術
+MTID_H_Structure3_SC14_06: 屈強な軍神を表す舞台美術
+MTID_H_Structure4_SC14_06: 大帝の威厳を表す舞台美術
+MTID_H_Structure5_SC14_06: 雄々しき太陽神を表す舞台美術
+MTID_H_Structure_SC11_11: 神秘的なたたずまいの巨木
+MTID_H_Structure_SCXX_02: 女神ユ・ファスゆかりの祭壇
+MTID_H_ControlDevice: 魔法防壁を制御する装置
+MTID_H_TBox: 開けるには鍵が必要
+MTID_H_MPSupplyDevice: タイタニスに魔力を与える装置
+MTID_H_Launcher: 投石機を動かす装置
+MTID_H_FastRecoveryTile: 一回だけ使用できる
+MTID_H_ControlDevice_SC12_08: 戦象兵の障壁を制御する装置
+MTID_H_ControlDevice_SC13_12: 魔法防壁を制御する装置
+MTID_H_ControlDevice_SC14_06: 空気の乾燥を制御する装置
+MTID_H_ControlDevice_SC14_13: 防壁を制御し、強化する装置
+MTID_H_MagicBarrier_SC14_13: 防壁越しの大轟土、転移不可
+MTID_H_ControlDevice_SC15_07: 巨人の強化を制御する装置
+MTID_H_ControlDevice_SC15_15: 床罠を制御する装置
+MTID_H_ControlDevice_SC18_14: 床罠を制御する装置
+MTID_H_Ban: 待機不可
+MTID_H_TrapTile: フェイズ開始時にダメージ
+MTID_H_Destructible: 破壊すると隣接する気嚢も破壊
+MTID_H_MagicBarrier_Attackable: 防壁越しの転移不可
+MTID_H_NoTeleport: 転移不可
+MTID_H_ToxicSwamp: フェイズ開始時に毒を付与

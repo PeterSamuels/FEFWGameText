@@ -1,0 +1,120 @@
+﻿MID_Tips_BasicKnowledge_t: The Basics
+MID_Tips_Hub_t: Bases
+MID_Tips_Battle_t: Battle
+MID_Tips_Dungeon_t: Dungeons
+MID_Tips_WorldMap_t: The World Map
+MID_Tips_Route_KAI_t: Flame Lord Cai
+MID_Tips_Route_SEO_t: Flame Lord Theodora
+MID_Tips_Route_DIT_t: Flame Lord Dietrich
+MID_Tips_Route_LED_t: Flame Lord Leda
+MID_Tips_WeaponTypeTraits1_m01: Swords deal high follow-up damage, spears are effective vs. cavalry, and axes deal at least 5 damage.
+MID_Tips_WeaponTypeTraits2_m01: Bows are effective+ vs. flying, while gauntlets grant increased Avo against other weapon types.
+MID_Tips_Rogue_m01: Some classes, such as rogue, can see a little farther in fog and sandstorms.
+MID_Tips_Motivation_m01: Getting a {LowercaseNextLetter}Perfect result in Training, Theater, Act, or Service will restore {LowercaseNextLetter}Motivation.
+MID_Tips_EncounterBattle_m01: The strength of enemy forces is determined by the region they appear in.
+MID_Tips_EnemyLV_m01: During Part III: Salvation, stronger enemies will appear as the story progresses.
+MID_Tips_OpenSpot_m01: Some paths connecting locations can only be found from certain directions.
+MID_Tips_Dungeon_m01: Leaving a dungeon through an exit other than the one you entered from will open a new path on the world map.
+MID_Tips_SeaSpot_m01: If you have access to a ship, you can sail to locations on the sea.
+MID_Tips_DetailedInformation1_m01: Press {ButtonX} on various screens, such as the Status screen, to view more detailed information.
+MID_Tips_Frontline_Rearline_m01: Damage dealt during {LowercaseNextLetter}Clashes is determined by each round's vanguard units.
+MID_Tips_IncreaseSkillLevel_m01: The magic, combat arts, and abilities learned at each Skill Lv vary for each unit.
+MID_Tips_Root_Capture1_m01: There is a location somewhere in Dagda where rare animals can be captured.
+MID_Tips_Hub_Perch1_m01: You can save the current path's progress and return to the Obelisk Chamber from the Pale Raven's perch.
+MID_Tips_DetailedInformation2_m01: When another unit's ability is affecting yours, you can press {ButtonMinus} to view the details.
+MID_Tips_Skill_m01: Proficient skill icons are yellow, while deficient skills are blue. A unit earns more skill Exp with its proficient skills.
+MID_Tips_EffectiveSpecial_m01: Attacks targeting enemy types, such as "effective+ vs. flying," have double Mt when effective, and triple when effective+.
+MID_Tips_SpecialAttack_m01: If an attack is effective in multiple ways, only the most powerful effectiveness will be applied.
+MID_Tips_ShortBattle_AdjacentSkills_m01: Allies' proximity-related abilities will activate during {LowercaseNextLetter}Clashes.
+MID_Tips_ShortBattle_CooperationCommand_m01: The higher the Support Lv between two units, the lower their LP Cost is for link attacks during {LowercaseNextLetter}Clashes.
+MID_Tips_ShortBattle_Auto_m01: When Skip to Conclusion is selected during {LowercaseNextLetter}Clashes, a random unit will complete the battle.
+MID_Tips_OtherForces_m01: Enemies and merchants on the world map are updated when you travel through or {Lowercase}Rent a Room{NormalCase} at locations.
+MID_Tips_FastMovement_m01: Press {ButtonA} or {ButtonY} to speed up character movement on battle maps and while traveling.
+MID_Tips_Scroll_m01: Hold {ButtonY} to speed up cursor movement on maps or in menus.
+MID_Tips_Mummy_m01: You can get {LowercaseNextLetter}Bullion from golden mummies and extra Exp from silver mummies.
+MID_Tips_AnnaShop_m01: Anna's Shop is only open at night but offers rare items for purchase.
+MID_Tips_ZoomView_m01: Holding {StickR} up on the battle map will switch the camera, giving a detailed view of the unit's surroundings.
+MID_Tips_BattlePrediction_m01: Press {ButtonX} while the combat forecast is displayed to view details of weapons and abilities.
+MID_Tips_OrganizeItems_m01: Press {ButtonZL} when organizing items to move the cursor between the item and storage columns.
+MID_Tips_Move_m01: You can proceed to the world map or the main quest from the Navigate option in the Base Menu.
+MID_Tips_Hub_Causal_m01: The Boons of Salvation allow you to exchange {Lowercase}Karma Shards{NormalCase} for useful effects.
+MID_Tips_Hub_Perch2_m01: Support salvation occurs more often for units who raise Support Lv with {AvatarName} at the Pale Raven's perch.
+MID_Tips_Hub_Shop_m01: The {Lowercase}Item Shop{NormalCase} and {LowercaseNextLetter}Armory will stock more items as the story progresses.
+MID_Tips_Hub_Volunteer_m01: You can only perform temple {LowercaseNextLetter}Service once a week.
+MID_Tips_Hub_Volunteer2_m01: Service at a god's temple on their holy day will always award extra tribute.
+MID_Tips_Hub_Bill_m01: Exam licenses are required for {Lowercase}Certification Exams{NormalCase}. The {Lowercase}License Vendor{NormalCase} sells them, though quantity is limited.
+MID_Tips_Hub_DestinyKarma_m01: You can earn {Lowercase}Karma Shards{NormalCase} by meeting the milestones listed in Notable Deeds.
+MID_Tips_Hub_Thermae_m01: Units keep abilities gained at the {LowercaseNextLetter}Thermae for the duration of the chapter, but they still need to be equipped.
+MID_Tips_Hub_TempleCrown_m01: Keys of the Diadem, hidden in dungeons across Dagda, open doors to new classes in the temple of the Diadem.
+MID_Tips_Hub_LegendPass_m01: Select Return Certification for a {Lowercase}Divine{NormalCase} class or the {Lowercase}Dancer class to allow another unit to take the exam.
+MID_Tips_Bmap_CombatTechnique_m01: Only {Lowercase}Combat Arts{NormalCase} reduce weapon durability. Its Mt and Hit are decreased when the durability reaches 0.
+MID_Tips_Bmap_HazardRange_m01: You can move the cursor onto a foe to see its threat range. Press {ButtonA} to keep it displayed at all times.
+MID_Tips_Bmap_OverBlaze_m01: When a unit's Blaze Gauge is half full, it will enter Overblaze, which strengthens their basic stats and Blaze Arts.
+MID_Tips_Bmap_SupportingEffect_m01: If a unit is adjacent to an ally with a high Support Lv, it receives a {Lowercase}Support Buff{NormalCase} to give it an edge in battle.
+MID_Tips_Bmap_TurnBackTime_m01: Using blessings expends Divine Sand. It is restored at the start of each chapter and before main quest battles.
+MID_Tips_Bmap_Reinforcements_m01: Enemy reinforcements often appear at the edges of the map or on summoning tiles.
+MID_Tips_Bmap_FogMap_m01: If visibility is reduced by fog or sandstorms, foes you discover will be startled and briefly unable to counterattack.
+MID_Tips_Bmap_GiantEnemy_m01: Breaking part of a large foe's barrier prevents its counterattacks for the next combat. Breaking all of it earns an item.
+MID_Tips_Bmap_Battery_m01: Artillery emplacements such as ballistae, fire orbs, or onagers can be used by both allies and foes.
+MID_Tips_Bmap_Rain_m01: When it rains in battle, lightning damage is increased and fire damage is reduced. Artillery is also unusable.
+MID_Tips_Gmap_AfterBattle_m01: Rent a room at an {LowercaseNextLetter}Inn to restore all HP and magic uses.
+MID_Tips_Gmap_Explore_m01: You can search a location to gain an assortment of location-specific items, sometimes discovering new paths.
+MID_Tips_Gmap_Feast_m01: The amount of HP and magic uses recovered during a {LowercaseNextLetter}Feast depends on the materials expended.
+MID_Tips_Gmap_Merchant_m01: If you run into a merchant on the map, you can purchase items from them.
+MID_Tips_Gmap_DungeonSpot_m01: Crates and minerals are replenished each time you {LowercaseNextLetter}Search a {LowercaseNextLetter}Dungeon.
+MID_Tips_Gmap_DungeonEnemy_m01: Enemies defeated in a {LowercaseNextLetter}Dungeon won't reappear until the next chapter.
+MID_Tips_Gmap_SimpleBase_m01: The same product may sell for different prices depending on where it is sold.
+MID_Tips_Gmap_Station_m01: You can pay gold to travel quickly between posthouses you've discovered.
+MID_Tips_Gmap_Base_m01: Move your cursor over a base and press {ButtonZL} to see the shops and products available there.
+MID_Tips_Gmap_StandbyUnit_m01: Allies kept in reserve will gain experience at the end of each turn.
+MID_Tips_Gmap_ReconstructionShorten_m01: During Part III: Salvation, you can deploy battalions to defend forts or assist with rebuilding.
+MID_Tips_ShortBattle_MVP_m01: If a link of two units finishes a {LowercaseNextLetter}Clash, they will both be the MVP.
+MID_Tips_ShortBattle_RestingPlace_m01: Rest points can only be used once per trip into a {LowercaseNextLetter}Dungeon.
+MID_Tips_ShortBattle_FieldKill_m01: Foes significantly weaker than your forces can be instantly defeated with a first strike.
+MID_Tips_Root_Perspective_m01: Hold {ButtonZL} to enter first-person view in {LowercaseNextLetter}Dungeons. Cai is able to see foes through walls.
+MID_Tips_Root_Capture2_m01: Bait will work better if it's the favorite food of the animal inhabiting that location.
+MID_Tips_Root_Stable_m01: Mounts are more effective when assigned to units with a high Bond Lv.
+MID_Tips_Root_Fertilizer_m01: When harvesting plants grown on a farm, you may occasionally find rare plants as well.
+MID_Tips_Root_Field_m01: Plants produced on a farm can be harvested simply by passing through a field location.
+MID_Tips_Root_Reinforcement_m01: Use {Lowercase}Magic Echo Shards{NormalCase} to {Lowercase}Boost Combat Arts{NormalCase} and {Lowercase}Teach Secrets{NormalCase}. Foes found by Answerer's Cry drop them.
+MID_Tips_Root_Blade_m01: The discovery range of Answerer's Cry replenishes as turns pass or as you enter or leave locations.
+MID_Tips_Root_Initiation_m01: The special combat arts learned by defeating dread warriors can be taught to allies at Smyrnos's temple.
+MID_Tips_Root_RecruitingSoldiers_m01: When you {Lowercase}Recruit Soldiers{NormalCase}, your chance of recruiting higher-quality {LowercaseNextLetter}Battalions rises along with your Renown Lv.
+MID_Tips_Root_Deployment_m01: When selecting a {LowercaseNextLetter}Battalion to deploy, selecting an already-deployed {LowercaseNextLetter}Battalion will recall it and deploy it anew.
+MID_Tips_Root_MercenaryUnion_m01: Every 100 troop points you accumulate with the {Lowercase}Transport Chief{NormalCase} can be exchanged for a Tactics Manual.
+MID_Tips_Root_Speech_m01: Giving a {Lowercase}Rousing Speech{NormalCase} when you {Lowercase}Recruit Soldiers{NormalCase} makes it easier to recruit high-quality {LowercaseNextLetter}Battalions.
+MID_Tips_Root_LocalEntertainment_m01: Materials found at locations you learn about through local performances are often needed to craft new beverages.
+MID_Tips_Root_DrinkPerson_m01: When used during battle, the drinks available for trade at the tavern grant buffs that last until the end of the map.
+MID_Tips_Root_BarShow_m01: Leda learns new Blaze Arts by completing local performance requests from taverns.
+MID_Tips_Bmap_Anhatolyah_t: Blaze Type
+MID_Tips_Bmap_Anhatolyah_m01: The Celestial Wells type increases the Blaze Gauge when attacking.
+MID_Tips_Special_Type_Seize_t: Control (Blaze Ability)
+MID_Tips_Special_Type_Seize_m01: Allows you to use Manage Blaze (Underworld Calm) to reset the Blaze Gauge to 0.
+MID_Tips_Special_Type_Resistance_t: Unyielding (Blaze Ability)
+MID_Tips_Special_Type_Resistance_m01: Prevents max HP decrease from Bursting while in Overblaze state.
+MID_Tips_Special_Type_Runaway_t: Rampage (Blaze Ability)
+MID_Tips_Special_Type_Runaway_m01: Allows you to Manage Blaze (Underworld Madness) to enter Overblaze state, which persists even after Bursting.
+MID_Tips_Tutorial_m01: Select Tutorials in the menu for information on playing the game.
+MID_Tips_Preferences_m01: You can turn combat animations for attacks or assists OFF through Settings in the menu.
+MID_Tips_Bmap_AllHazardRange_m01: Pressing {ButtonZL} on the battle map will display the range of enemy attacks.
+MID_Tips_Phase_m01: Even if some allies have not acted yet, you can select End Phase in the menu to move on to the enemy phase.
+MID_Tips_ExperiencePoints_m01: When you gain enough experience, you will level up, increasing your max HP and basic stats.
+MID_Tips_Item_m01: Items such as vulneraries have a set number of uses and will disappear when used up.
+MID_Tips_Auto_m01: Auto-Battle in the battle menu will ask you to select one of four strategies for your allied units to carry out.
+MID_Tips_UniqueSkills_m01: Personal abilities are unique to that unit and cannot be swapped out.
+MID_Tips_TroopList_m01: Select Unit List in the menu to view a list of all of your allies' classes and levels.
+MID_Tips_Knight_m01: You can change the effectiveness against a mounted unit or their Mov by having them dismount.
+MID_Tips_SwitchingWeapons_m01: On the battle map, pressing {ButtonL} or {ButtonR} while a unit is selected will swap their equipped weapon on the spot.
+MID_Tips_ToolBag_m01: Flame Lords and units adjacent to them can use the Storage command to deposit and withdraw items.
+MID_Tips_ItemDrop_m01: Enemies marked with the {Icon} icon will drop items when defeated.
+MID_Tips_Birthday_m01: You will earn a lot of support points by giving someone a gift on their birthday, regardless of their preferences.
+MID_Tips_DungeonRoute_m01: You can press {ButtonZR} to toggle the travel path display on or off.
+MID_Tips_CaptureFertilizer_m01: A squad doesn't need Cai to harvest and capture.
+MID_Tips_Equipment_m01: There are several equipment types: shields, staves, masks, and rings. A unit can have one of each equipped.
+MID_Tips_Damage_m01: Units with cursed treasure equipped sometimes fail to damage units with the Underworld Boon ability.
+MID_Tips_Reliance_m01: Some {LowercaseNextLetter}Support conversations are only available during specific parts of the story.
+MID_Tips_Mouse1_m01: When using mouse controls, you can press {ButtonPlus} to view a control guide.
+MID_Tips_Mouse2_m01: You can change the cursor speed and camera sensitivity for mouse controls in Settings.
+MID_Tips_Mouse3_m01: The faster you move the Joy-Con 2 controller in mouse mode, the farther the cursor on the map will move.
+MID_Tips_UniqueSkills:  ({Variable=0}'s personal ability)
+MID_Tips_UniqueSymbol:  ({Variable=0}'s bloodmark)

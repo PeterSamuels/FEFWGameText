@@ -1,0 +1,1944 @@
+﻿MSID_Active: Brio{Variable=0}
+MSID_H_Active: Grants Mov{Variable=0}.
+MSID_HellLord: Flamekeeper
+MSID_H_HellLord: Unit and all allies are unaffected by\nUnderworld Flames and take half damage\nfrom attacks while in Underworld Flames.
+MSID_MilitaryTalent: Tactician's Wit
+MSID_H_MilitaryTalent: Grants Rng{Variable=0} to combat arts\nusable on allies.
+MSID_EyeContact: Tactician's Insight{Variable=0}
+MSID_H_EyeContact: After combat, if unit attacked first, inflicts\nAvo{Variable=0} on foe through unit's next combat.
+MSID_Shooting: Steady Aim
+MSID_H_Shooting: Grants Rng{Variable=0} when attacking\nwith a bow combat art.
+MSID_ErrorCorrection: Correct for Drift{Variable=0}
+MSID_H_ErrorCorrection: If unit's hit % ≥ {Variable=0}%, grants Hit{Variable=1}\nduring combat.
+MSID_FirstAid: Patch Up
+MSID_H_FirstAid: After an adjacent ally's combat,\nrestores a little HP to that ally.
+MSID_SafePrayer: Pray for Safety{Variable=0}
+MSID_H_SafePrayer: Grants Ddg{Variable=0} to adjacent allies.
+MSID_MurderousIntent: Murderous Intent{Variable=0}
+MSID_H_MurderousIntent: If unit attacks first, grants Crit{Variable=0}\nduring combat.
+MSID_BeastImpulse: Bestial Impulse
+MSID_H_BeastImpulse: After combat, grants Crit{Variable=0} until\na unit makes a critical.
+MSID_DarknessCall: Dark Calling
+MSID_H_DarknessCall: Inflicts Ddg{Variable=0} on adjacent foes.
+MSID_DarkSecret: Dark Secrets{Variable=0}
+MSID_H_DarkSecret: Extends range of Dark Calling to {Variable=0} {SingularPlural0=space|spaces}.
+MSID_Strength: Brawn
+MSID_H_Strength: Reduces Wt of unit's equipment to {Variable=0}%.
+MSID_JavelinThrow: Throwing Arm{Variable=0}
+MSID_H_JavelinThrow: If throwing a spear, grants Hit{Variable=0},\nAtk{Variable=1} during combat.
+MSID_StrongMan: Veteran's Mettle
+MSID_H_StrongMan: Grants Hit{Variable=0} during combat against an\nadjacent foe.
+MSID_IronBlood: Redblade's Will{Variable=0}
+MSID_H_IronBlood: Grants Atk{Variable=0} during combat against an\nadjacent foe.
+MSID_H_IronBlood+: Grants Atk{Variable=0} during combat against an\nadjacent foe. Also grants Atk{Variable=2} when\nattacking an adjacent foe (trigger % = {Variable=1}).
+MSID_Readiness: Royal Resolve{Variable=0}
+MSID_H_Readiness: Unit takes half damage when\nattacked. Trigger % = {Variable=0}.
+MSID_Destroy: Unstoppable Force
+MSID_H_Destroy: Multiplies damage by {Variable=0} when\nattacking obstacles.
+MSID_DirectHit: Direct Hit
+MSID_H_DirectHit: Deals {Variable=1} damage when attacking with\nBlaze Arts. Trigger % = {Variable=0}.
+MSID_Wisdom: Sage Advice
+MSID_H_Wisdom: Grants Dex{Variable=0} to adjacent allies.
+MSID_Explanation: Additional Intel{Variable=0}
+MSID_H_Explanation: Grants Hit{Variable=1} to adjacent allies during\ntheir combats. Trigger % = {Variable=0}.
+MSID_BigAttack: Power Arts
+MSID_H_BigAttack: Grants Atk{Variable=0} when attacking with a\ncombat art.
+MSID_SeriousAttack: All-Out Attack{Variable=0}
+MSID_H_SeriousAttack: Multiplies damage by {Variable=1} when attacking\nwith a combat art. Trigger % = {Variable=0}.
+MSID_Safeguard: Safety First
+MSID_H_Safeguard: If foe cannot counter, grants Hit{Variable=0} to unit\nduring combat.
+MSID_GoodVibes: Upper Hand{Variable=0}
+MSID_H_GoodVibes: If unit's hit % = {Variable=0}, grants Atk{Variable=1}\nwhen attacking.
+MSID_SprintAttack: Racing Attack
+MSID_H_SprintAttack: If unit attacks first, grants Avo{Variable=0}\nduring combat.
+MSID_Acceleration: Accelerate{Variable=0}
+MSID_H_Acceleration: After defeating a foe, grants Spd{Variable=0} until\nthe end of the map. (Max {Variable=1})
+MSID_DarkRaid: Blindside{Variable=0}
+MSID_H_DarkRaid: If unit attacks first, cannot be countered\nduring combat. Trigger % = {Variable=0}.
+MSID_AdLib: Improviso
+MSID_H_AdLib: After using Blaze Arts during Overblaze,\nunit can attack.
+MSID_GuardianKnight: Guardian's Duty
+MSID_H_GuardianKnight: Reduces damage to {Variable=0}% when attacked.
+MSID_Reciprocation: Retaliatory Blow{Variable=0}
+MSID_H_Reciprocation: If foe attacks first, multiplies unit's damage\nby {Variable=1} when attacking. Trigger % = {Variable=0}.
+MSID_GoddessGrace: Goddess's Favor
+MSID_H_GoddessGrace: After combat, restores {Variable=0} HP to unit.
+MSID_EntrustWind: Wind's Caprice{Variable=0}
+MSID_EntrustWind_1: Wind's Caprice (+1)
+MSID_EntrustWind_5: Wind's Caprice (+5)
+MSID_EntrustWind_20: Wind's Caprice (+20)
+MSID_H_EntrustWind: Grants one of Avo{Variable=0}, Avo{Variable=1},\nor Avo{Variable=2} during combat.
+MSID_EntrustWind+_1: Wind's Caprice+ (+1)
+MSID_EntrustWind+_5: Wind's Caprice+ (+5)
+MSID_EntrustWind+_20: Wind's Caprice+ (+20)
+MSID_EntrustWind+_30: Wind's Caprice+ (+30)
+MSID_H_EntrustWind+: Grants one of Avo{Variable=0}, Avo{Variable=1},\nAvo{Variable=2}, or Avo{Variable=3} during\ncombat.
+MSID_SoreLoser: Competitive Zeal
+MSID_H_SoreLoser: When equipped with magic, grants Crit{Variable=0}.
+MSID_EmotionalLizaia: Ardent Nosferatu{Variable=0}
+MSID_H_EmotionalLizaia: When using Nosferatu, grants Atk{Variable=0},\nCrit{Variable=1} during combat.
+MSID_GrowthSigns: Signs of Growth
+MSID_H_GrowthSigns: When unit levels up, grants enhanced\nbasic stat growth.
+MSID_WarriorBlood: Warrior's Blood{Variable=0}
+MSID_H_WarriorBlood: Grants stat increase based on equipped\nweapon type.
+MSID_H_WarriorBlood+: Grants a large stat increase based on\nequipped weapon type.
+MSID_ArmorFuneral: Requiem Style{Variable=0}
+MSID_H_ArmorFuneral: Unit makes a follow-up regardless of AS\nduring combat. Trigger % = {Variable=0}.
+MSID_After: Go No Sen
+MSID_H_After: In enemy's phase, unit attacks first\nduring combat. Trigger % = {Variable=0}.
+MSID_Ahead: Sen No Sen
+MSID_H_Ahead: If unit attacks first, unit's follow-up occurs\nbefore foe's counter during combat.\nTrigger % = {Variable=0}.
+MSID_Flickering: Blink of an Eye
+MSID_H_Flickering: After using Swap, grants Def{Variable=0}\nuntil unit's next phase.
+MSID_InstantBlade: Flickering Edge{Variable=0}
+MSID_H_InstantBlade: When unit avoids an attack, grants Atk{Variable=0}\nduring combat.
+MSID_BloodCommotion: Heavyweight Class
+MSID_H_BloodCommotion: Unit cannot change to cavalry or flying.\nGrants Bld{Variable=0}.
+MSID_Pressure: Pin Down{Variable=0}
+MSID_H_Pressure: Inflicts Mov{Variable=0} on adjacent foes.
+MSID_Backup: Brave Assist
+MSID_H_Backup: Grants Def{Variable=0} to adjacent allies.
+MSID_FangFlash: Flashing Fang{Variable=0}
+MSID_H_FangFlash: Grants Atk{Variable=0}, Hit{Variable=1} when attacking.\nTrigger % = {Variable=2}.
+MSID_StageProduction: Stage Directions
+MSID_H_StageProduction: Grants Ddg{Variable=1} to allies within {Variable=0} {SingularPlural0=space|spaces}\nduring their combats.\nTrigger % = ally's Cha ÷ 2.
+MSID_H_R_StageProduction: Grants Ddg{Variable=0} during combat.\nTrigger % = Cha ÷ 2.
+MSID_H_R_StageProduction+: Grants Ddg/Hit{Variable=0} during combat.\nTrigger % = Cha ÷ 2.
+MSID_H_R_StageProduction++: Grants Ddg/Hit/Crit{Variable=0} during combat.\nTrigger % = Cha ÷ 2.
+MSID_Inspiration: Dramatic Effect{Variable=0}
+MSID_H_Inspiration: When Stage Directions triggers, grants\nHit{Variable=0} to target allies.
+MSID_H_Inspiration+: When Stage Directions triggers, grants\nHit/Crit{Variable=0} to target allies.
+MSID_AdventureKing: Swashbuckler's Luck{Variable=0}
+MSID_H_AdventureKing: Grants Lck{Variable=0}.
+MSID_H_AdventureKing+: Grants Lck{Variable=0} to unit and all allies.
+MSID_SkilledGunner: Cannoning Flair
+MSID_H_SkilledGunner: When using artillery, grants Hit{Variable=0}\nduring combat.
+MSID_VictoryWind: Winds of Victory
+MSID_H_VictoryWind: Grants Hit{Variable=0} when attacking.\nGrants Avo{Variable=1} when attacked.\nTrigger % = Lck.
+MSID_CompanyManager: Management Skills
+MSID_H_CompanyManager: Allows storage access to unit and allies\nwithin {Variable=0} {SingularPlural0=space|spaces}.
+MSID_Opportunity: Seize the Chance{Variable=0}
+MSID_H_Opportunity: Multiplies damage by {Variable=0} when attacking.\nTrigger % = Lck ÷ 2.
+MSID_Hayabusa: Falcon
+MSID_H_Hayabusa: If unit attacks first, grants AS{Variable=0}\nduring combat.
+MSID_Quitting: Perception{Variable=0}
+MSID_H_Quitting: If unit can make a follow-up, grants\nAvo{Variable=0} during combat.
+MSID_Dying: Close Call
+MSID_H_Dying: If unit's HP ≥ {Variable=0} and damage would\nreduce it to 0, leaves unit with 1 HP.\nTrigger % = Lck.
+MSID_BadLuck: Devil's Luck{Variable=0}
+MSID_H_BadLuck: After defeating a foe, grants Lck{Variable=0}\nuntil the end of the map. (Max {Variable=1})
+MSID_BeautifulLight: Graceful Light
+MSID_H_BeautifulLight: When healing an ally with magic, reduces\nmagic cost to 0. Trigger % = Lck.
+MSID_FaithGift: Gift of Faith{Variable=0}
+MSID_H_FaithGift: When healing an ally with magic, restores\n{Variable=0} HP. Trigger % = Lck.
+MSID_MechanicalBody: Solid and Sturdy{Variable=0}
+MSID_H_MechanicalBody: Grants Def{Variable=0}. Unit is armored.\nCannot change to cavalry or flying.
+MSID_H_MechanicalBody+: Grants Def{Variable=0}, Dex{Variable=1}. Unit is armored.\nCannot change to cavalry or flying.
+MSID_NightLight: Predictive Sense
+MSID_H_NightLight: If unit attacks first, grants Hit{Variable=0}\nto magic during combat.
+MSID_AdjustmentSoul: Harmonic Soul{Variable=0}
+MSID_H_AdjustmentSoul: When healing an ally with magic, restores\na little HP to unit.
+MSID_H_AdjustmentSoul+: When healing an ally with magic, restores\nsome HP to unit.
+MSID_GolemResonance: Self-Repair
+MSID_H_GolemResonance: At start of unit's phase during Overblaze,\nrestores a lot of HP to unit.
+MSID_Bodyguard: Caretaker
+MSID_H_Bodyguard: Adjacent allies cannot suffer a follow-up\nduring combat. Trigger % = {Variable=0}.
+MSID_H_R_Bodyguard: Unit cannot suffer a follow-up during\ncombat. Trigger % = {Variable=0}.
+MSID_NoMercy: No Mercy{Variable=0}
+MSID_H_NoMercy: Grants Hit/Crit{Variable=0} when making\na follow-up.
+MSID_GenerousHeart: Steadfast
+MSID_H_GenerousHeart: If unit's HP ≥ 50%, grants Avo{Variable=0}\nduring combat.
+MSID_GreatCondition: Peak Form{Variable=0}
+MSID_H_GreatCondition: If unit's HP = 100%, grants Atk{Variable=0}\nduring combat.
+MSID_H_GreatCondition+: If unit's HP = 100%, grants Atk{Variable=0},\nAvo{Variable=1} during combat.
+MSID_BattleReady: Ready for Battle
+MSID_H_BattleReady: For the first combat in enemy's phase, unit\nattacks first. Trigger % = {Variable=0}.
+MSID_JusticeExecution: Pass Judgment{Variable=0}
+MSID_H_JusticeExecution: When Diadem of Balance triggers,\ngrants Atk{Variable=0}.
+MSID_SpiritVoice: Spirits' Voices
+MSID_H_SpiritVoice: If foe uses magic, grants Hit/Avo{Variable=0} to\nunit during combat.
+MSID_SpiritWhisper: Spirits' Guidance{Variable=0}
+MSID_H_SpiritWhisper: Grants Spirits' Voices to adjacent allies.
+MSID_H_SpiritWhisper+: Grants Spirits' Voices to allies within\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_FlowQigong: Celestial Flow
+MSID_H_FlowQigong: Grants Avo{Variable=0}.
+MSID_WayCyclo: Meridian Rotation
+MSID_H_WayCyclo: Grants Avo{Variable=0}. Allows use of the\nShining Dragon Strike Blaze Art.
+MSID_SevenCyclo: Seven-Star Harmony
+MSID_H_SevenCyclo: Grants Avo{Variable=0}. Allows use of the\nDragon Rotation Blaze Art.
+MSID_FullyCyclo: Seven-Star Dunjia
+MSID_H_FullyCyclo: Grants Avo{Variable=0}. Allows use of the\nSeven-Star Dragon Blaze Art.
+MSID_SmoothContinuity: Continuum{Variable=0}
+MSID_H_SmoothContinuity: When unit avoids an attack, restores\n{Variable=0} HP to unit.
+MSID_RouteExtension: Meridian Expansion
+MSID_H_RouteExtension: After defeating a foe, grants max HP{Variable=0}\nuntil the end of the map. (Max {Variable=1})
+MSID_FirstMove: Quick Draw
+MSID_H_FirstMove: If unit attacks first, grants Atk{Variable=1} during\ncombat. Trigger % = {Variable=0}.
+MSID_Nonstop: Never Stop{Variable=0}
+MSID_H_Nonstop: Grants Atk{Variable=1} when attacking after\nQuick Draw triggers. Trigger % = {Variable=0}.
+MSID_Detainer: Cooler Heads
+MSID_H_Detainer: After using Draw Back, unit can use\nassist magic.
+MSID_HeadsUp: Watchfulness{Variable=0}
+MSID_H_HeadsUp: Grants Spd{Variable=0} to adjacent allies.
+MSID_OneShot: One Chance
+MSID_H_OneShot: If unit and foe cannot make a follow-up,\ngrants Atk{Variable=0} to unit during combat.
+MSID_FullPower: Full Strength{Variable=0}
+MSID_H_FullPower: Multiplies damage by {Variable=0} when\nattacking. Trigger % = Str ÷ 2.
+MSID_Acclimatization: Adaptability
+MSID_H_Acclimatization: After combat, grants Hit{Variable=0} until the end\nof the map. (Max {Variable=1}) 
+MSID_Foothold: Halt Advance{Variable=0}
+MSID_H_Foothold: After combat, if unit attacked first, inflicts\nSpd{Variable=0} on foe through their next combat.
+MSID_Familiarity: Qi Mastery
+MSID_H_Familiarity: Grants Avo{Variable=0} when attacked.\nTrigger % = Dex.
+MSID_AtWill: Hot-Headed
+MSID_H_AtWill: Grants one of Hit{Variable=0}, Avo{Variable=0}, or Crit{Variable=0}\nduring combat.
+MSID_AtWillH: Hot-Headed (Hit)
+MSID_AtWillT: Hot-Headed (Crit)
+MSID_AtWillA: Hot-Headed (Avo)
+MSID_FeelingGreat: Top Form{Variable=0}
+MSID_H_FeelingGreat: Changes the effect of Hot-Headed to\ngrant {Variable=0}.
+MSID_Transgression: Monkly Havoc
+MSID_H_Transgression: After defeating a foe, unit recovers HP\nequal to max HP. Trigger % = Lck ÷ 2.
+MSID_Buddhism: Robust Health{Variable=0}
+MSID_H_Buddhism: Grants Shld{Variable=0} when attacked.\nTrigger % = unit's remaining HP.
+MSID_HorseCooperation: With My Steed
+MSID_H_HorseCooperation: [Cavalry] If unit attacks first, grants\nShld{Variable=0}, Ddg{Variable=1} during combat.
+MSID_RidingCharge: Mounted Push{Variable=0}
+MSID_H_RidingCharge: [Cavalry] If unit attacks first, grants\nHit{Variable=0} during combat.
+MSID_H_RidingCharge+: [Cavalry] If unit attacks first, grants\nHit{Variable=0}, Atk{Variable=1} during combat.
+MSID_HunterAmbush: Hunter's Snare
+MSID_H_HunterAmbush: In enemy's phase, if foe is damaged,\nunit attacks first during combat.\nTrigger % = {Variable=0}.
+MSID_PrimeHunt: King's Majesty{Variable=0}
+MSID_H_PrimeHunt: If foe is damaged, grants Atk{Variable=0}, Crit{Variable=1}\nduring combat.
+MSID_Concentration: Warrior's Clarity
+MSID_H_Concentration: After combat, grants Avo{Variable=0} until unit's\nnext phase.
+MSID_Zone: Attuned{Variable=0}
+MSID_H_Zone: When Warrior's Clarity triggers, grants\nAvo{Variable=1} until unit's next phase.\nTrigger % = {Variable=0}.
+MSID_HealingKnowledge: Healing Knowledge
+MSID_H_HealingKnowledge: When healing an ally with magic,\nrestores {Variable=0} HP.
+MSID_RemoteHealing: Distant Healing{Variable=0}
+MSID_H_RemoteHealing: Grants Rng{Variable=0} to healing magic.
+MSID_Gale: Punishing Squall
+MSID_H_Gale: If AS ≥ foe's AS+{Variable=0}, grants Hit{Variable=1}\nduring combat.
+MSID_WindAlly: Wind My Friend{Variable=0}
+MSID_H_WindAlly: If AS ≥ foe's AS+{Variable=0}, grants Atk{Variable=1}\nduring combat.
+MSID_H_WindAlly+: If AS ≥ foe's AS+{Variable=0}, grants Atk{Variable=1}, and\nif AS ≥ foe's AS+{Variable=2}, grants Avo{Variable=3}\nduring combat.
+MSID_ForceForward: Barge Through
+MSID_H_ForceForward: [Cavalry] Can move through foe's space.\n(Cannot move through large-scale foes.)
+MSID_Galloping: At a Gallop{Variable=0}
+MSID_H_Galloping: [Cavalry] Applies {Variable=0} to movement cost\nfor terrain (cannot be reduced below 1).
+MSID_AxKnife: Hatchet Man
+MSID_H_AxKnife: When equipped with an axe, grants Hit{Variable=0}.
+MSID_Messy: Vulgar Conduct{Variable=0}
+MSID_H_Messy: If foe's HP ≤ 50%, grants Hit{Variable=0}\nduring combat.
+MSID_H_Messy+: If foe's HP ≤ 50%, grants Hit{Variable=0}, Atk{Variable=1}\nduring combat.
+MSID_RampageAx: Hellbent Axe
+MSID_H_RampageAx: When equipped with an axe, grants Str{Variable=0}.
+MSID_Fearless: Fear Nothing{Variable=0}
+MSID_H_Fearless: If unit attacks first, grants Atk{Variable=0} at cost\nof Avo{Variable=1} to unit during combat.
+MSID_ReadyFiring: Wheeled Warrior
+MSID_H_ReadyFiring: [Cavalry] If unit is a charioteer, grants\nHit{Variable=0}.
+MSID_ChariotRider: Chariot Stagger{Variable=0}
+MSID_H_ChariotRider: If unit is a charioteer, grants {Variable=0} uses\nto staggering blows.
+MSID_StrongArcher: Heavy-Bow User
+MSID_H_StrongArcher: When equipped with a bow, grants Str{Variable=0}.
+MSID_Penetration: Pierce{Variable=0}
+MSID_H_Penetration: Grants Atk{Variable=0}, Crit{Variable=1} when attacking\nwith a bow combat art.
+MSID_SkillfulCounter: Expert Counter
+MSID_H_SkillfulCounter: If foe attacks first, grants Hit{Variable=0} to unit\nduring combat.
+MSID_FuriousCounter: Raging Counter{Variable=0}
+MSID_H_FuriousCounter: If foe attacks first, grants Atk{Variable=0} to unit\nduring combat.
+MSID_H_FuriousCounter+: If foe attacks first, grants Atk{Variable=0}, Crit{Variable=1}\nto unit during combat.
+MSID_SilverMaiden: Silver Maiden
+MSID_H_SilverMaiden: Grants Hit/Avo{Variable=0} to unit for each\nadjacent ally.
+MSID_TakeFlight: Soar{Variable=0}
+MSID_H_TakeFlight: If unit is on inaccessible terrain,\ngrants AS{Variable=0}.
+MSID_Violence: Tyranny
+MSID_H_Violence: If foe has a status effect, grants Atk{Variable=0},\nCrit{Variable=1} to unit during combat.
+MSID_Intimidation: Menace{Variable=0}
+MSID_H_Intimidation: Halves foe's Ddg during combat.\nTrigger % = {Variable=0}.
+MSID_SecretTechnique: Har Hali Wisdom
+MSID_H_SecretTechnique: If unit is effective against foe, grants\nAtk{Variable=0} during combat.
+MSID_Mysteries: Precision Strike{Variable=0}
+MSID_H_Mysteries: If unit is effective against foe, grants\nHit{Variable=0} during combat.
+MSID_SalvationLight: Light of Salvation{Variable=0}
+MSID_H_SalvationLight: Neutralizes Underworld Boon on foes within\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_H_R_SalvationLight: Neutralizes Underworld Boon.
+MSID_BlazingSun: Scorching Sun{Variable=0}
+MSID_H_BlazingSun: Reduces damage done by undead foes to 0.\nTrigger % = {Variable=0}.
+MSID_RedMagic: Zhu Ming
+MSID_H_RedMagic: When equipped with magic, grants Hit{Variable=0}.
+MSID_MagicBoost: Amplify Magic{Variable=0}
+MSID_H_MagicBoost: After combat, grants Atk{Variable=0} through unit's\nnext combat. Trigger % = Mag ÷ 2
+MSID_Unju: Yun Shou
+MSID_H_Unju: When equipped with gauntlets,\ngrants Hit{Variable=0}.
+MSID_Alteration: Modified Weapon{Variable=0}
+MSID_H_Alteration: When equipped with Zerberus, attacks are\neffective vs. flying.
+MSID_H_Alteration+: When equipped with Zerberus, attacks are\neffective+ vs. flying.
+MSID_Windstorm: Windstorm
+MSID_H_Windstorm: If unit attacks first, grants Hit/Avo{Variable=0}\nduring combat.
+MSID_CorundumDefense: Sturdy Corundum
+MSID_H_CorundumDefense: For the first combat in enemy's phase,\nunit takes half damage.
+MSID_AgarthaPower: Agarthan Technology
+MSID_H_AgarthaPower: Inflicts Atk{Variable=0} on adjacent foes.
+MSID_BowPrincess: Princess of Arrows
+MSID_H_BowPrincess: When equipped with a bow, grants Hit{Variable=0}.
+MSID_Ambition: Duke's Ambition
+MSID_H_Ambition: Halves foe's Hit during combat.\nTrigger % = {Variable=0}.
+MSID_RecklessRush: Headlong Rush
+MSID_H_RecklessRush: If unit attacks first, grants AS{Variable=0},\nHit{Variable=1} during combat.
+MSID_Calm: Steady Hands
+MSID_H_Calm: If foe attacks first, grants AS{Variable=0},\nAvo{Variable=1} to unit during combat.
+MSID_MysticalProtection: Blinking Star
+MSID_H_MysticalProtection: If foe is undead, grants Shld{Variable=0}\nduring combat.
+MSID_GodEye: Warrior's Eyes
+MSID_H_GodEye: Grants Avo{Variable=1} during combat against a foe\n{Variable=0}+ spaces away.
+MSID_GoddessBarrier: Earthly Barrier
+MSID_H_GoddessBarrier: Grants Shld{Variable=0}, Ddg{Variable=1} to adjacent allies.
+MSID_GodWisdom: Arcane Wisdom
+MSID_H_GodWisdom: When using magic, reduces magic cost to 0.\nTrigger % = {Variable=0}.
+MSID_Supernatural: Divinely Forged
+MSID_H_Supernatural: When using a combat art, reduces weapon\ndurability cost to 0 during combat.\nTrigger % = {Variable=0}.
+MSID_GodHunting: Huntress's Flair
+MSID_H_GodHunting: Grants Atk{Variable=0} when attacking with\na bow combat art.
+MSID_ElephantRun: Elephant Rush
+MSID_H_ElephantRun: [Cavalry] If unit is an elephant rider, grants\n{Variable=0} use to {Lowercase}Staggering Blow{NormalCase}s.
+MSID_SilverSpirit: Spirit of Silver
+MSID_H_SilverSpirit: After combat, grants Def{Variable=0} until the end\nof the map. (Max {Variable=1}) Trigger % = Def.
+MSID_BrotherCoop: Siblings in Step
+MSID_H_BrotherCoop: Grants Hit{Variable=0} to unit when adjacent\nto Chiara.
+MSID_SisterCoop: Siblings in Step
+MSID_H_SisterCoop: Grants Avo{Variable=0} to unit when adjacent\nto Churness.
+MSID_FistStyle: Python Technique
+MSID_H_FistStyle: When using a gauntlet combat art, unit\nmakes a follow-up regardless of AS\nduring combat. Trigger % = {Variable=0}.
+MSID_GetOnOff: Mount/Dismount
+MSID_H_GetOnOff: Allows use of Mount and Dismount\ncommands.
+MSID_Unlock: Locktouch
+MSID_H_Unlock: Allows the opening of chests even\nwithout keys.
+MSID_Exploration: Search
+MSID_H_Exploration: Search results are slightly more likely\nto be perfect.
+MSID_AdvancedExploration: Advanced Search
+MSID_H_AdvancedExploration: Search results are more likely to be perfect.
+MSID_SuperExploration: Master Search
+MSID_H_SuperExploration: Search results are considerably more likely\nto be perfect.
+MSID_GodExploration: Ultimate Search
+MSID_H_GodExploration: Search results are exceedingly more likely\nto be perfect.
+MSID_BowHit: Bow Hit {Variable=0}
+MSID_H_BowHit: When equipped with a bow, grants Hit{Variable=0}.
+MSID_AxeHit: Axe Hit {Variable=0}
+MSID_H_AxeHit: When equipped with an axe, grants Hit{Variable=0}.
+MSID_GauntletAvoid: Brawl Avo {Variable=0}
+MSID_H_GauntletAvoid: When equipped with gauntlets, grants\nAvo{Variable=0}.
+MSID_SwordCritical: Sword Crit {Variable=0}
+MSID_H_SwordCritical: When equipped with a sword, grants\nCrit{Variable=0}.
+MSID_SecondDefense: Strike-Last Def {Variable=0}
+MSID_H_SecondDefense: If foe attacks first, grants Prt{Variable=0} to unit\nduring combat.
+MSID_CombatEquipment: Combat Arts {Variable=0}
+MSID_H_CombatEquipment: Unit can equip {Variable=0} combat arts.
+MSID_FlightAvoid: Flying Avo {Variable=0}
+MSID_H_FlightAvoid: [Flying] Grants Avo{Variable=0}.
+MSID_MagicRecovery: Magic Heal {Variable=0}
+MSID_H_MagicRecovery: When healing an ally with magic, restores\n{Variable=0} HP.
+MSID_MagicHit: Magic Hit {Variable=0}
+MSID_H_MagicHit: When equipped with magic, grants Hit{Variable=0}.
+MSID_BlackMagicQuest: Black-Magic Seeker
+MSID_H_BlackMagicQuest: Multiplies black magic uses by {Variable=0}.
+MSID_WhiteMagicQuest: White-Magic Seeker
+MSID_H_WhiteMagicQuest: Multiplies white magic uses by {Variable=0}.
+MSID_WhiteMagicEx: White-Magic Zenith
+MSID_AllMagicQuest: Seeker of All Magic
+MSID_H_AllMagicQuest: Multiplies black magic and white magic uses\nby {Variable=0}.
+MSID_AllMagicEx: All-Magic Zenith
+MSID_GoldenArmor: Impervious Armor
+MSID_H_GoldenArmor: Neutralizes effective vs. armored.
+MSID_GoldenRun: Golden Ride
+MSID_H_GoldenRun: Neutralizes effective vs. cavalry.
+MSID_MechanicalWing: Armament Wings
+MSID_H_MechanicalWing: Neutralizes effective vs. flying.
+MSID_TankArmor: Chariot Armor
+MSID_H_TankArmor: [Cavalry] Grants Shld{Variable=0}. Unit cannot\navoid attacks.
+MSID_ElephantLeg: War-Elephant Boots
+MSID_H_ElephantLeg: [Cavalry] Unit takes half damage when\nattacked. Unit cannot avoid attacks.
+MSID_TankRoad: Charioteer's Path
+MSID_H_TankRoad: Unit's growth rate increases with level.
+MSID_ElephantRoad: Elephant Rider's Path
+MSID_H_ElephantRoad: Unit's growth rate increases with level.
+MSID_Rush_skill: Charioteer Tactics
+MSID_H_Rush_skill: Allows use of the Mount and Dismount\ncommands. [Cavalry] Allows use of the\nCharge command.
+MSID_HeavyRush_skill: Elephant Tactics
+MSID_H_HeavyRush_skill: Allows use of the Mount and Dismount\ncommands. [Cavalry] Allows use of the\nHeavy Charge command.
+MSID_Dance_skill: Dance
+MSID_H_Dance_skill: Allows use of the Dance combat art.
+MSID_GauntletHit: Brawl Hit{Variable=0}
+MSID_H_GauntletHit: When equipped with gauntlets, grants\nHit{Variable=0}.
+MSID_BattleBasics: Combat Basics
+MSID_H_BattleBasics: Grants Hit/Avo{Variable=0}.
+MSID_HuntingBasics: Hunting Basics
+MSID_H_HuntingBasics: Grants Dex/Spd{Variable=0}.
+MSID_CombatBasics: Attack Basics
+MSID_H_CombatBasics: Grants Str{Variable=0}.
+MSID_DefenseBasics: Defense Basics
+MSID_H_DefenseBasics: Grants Def{Variable=0}.
+MSID_MagicBasics: Magic Basics
+MSID_H_MagicBasics: Grants Mag/Res{Variable=0}.
+MSID_AttackBasics: Offense Basics
+MSID_H_AttackBasics: Grants Str/Mag{Variable=0}.
+MSID_DoWell: Crescendo
+MSID_H_DoWell: After defeating a foe, grants Hit{Variable=0}\nuntil the end of the map. (Max {Variable=1})
+MSID_ShadowHide: In Shadow
+MSID_H_ShadowHide: After defeating a foe, grants Avo{Variable=0}\nthrough unit's next combat.
+MSID_Restructuring: Regroup
+MSID_H_Restructuring: When foe avoids an attack, grants Avo{Variable=0}\nto unit during combat.
+MSID_HitAway: Attack, Get Back
+MSID_H_HitAway: When using a combat art, grants Avo{Variable=0}\nduring combat.
+MSID_ClearSkill: Ravaging Arts
+MSID_H_ClearSkill: If unit makes a critical, deals {Variable=0} damage.
+MSID_BigCounter: Great Counter
+MSID_H_BigCounter: If foe attacks first, grants Atk{Variable=0} to unit\nduring combat.
+MSID_Chaser: Charger
+MSID_H_Chaser: When using Charge, grants Prt{Variable=0}\nuntil unit's next phase.
+MSID_PhysicalStrength: Bolster Health
+MSID_H_PhysicalStrength: Grants max HP{Variable=0}.
+MSID_Faith: Piety
+MSID_H_Faith: Grants Lck{Variable=0}.
+MSID_TechniqueCurse: Bind Dexterity
+MSID_H_TechniqueCurse: Inflicts Dex{Variable=0} on adjacent foes.
+MSID_PegasusFavor: Protecting Wings
+MSID_H_PegasusFavor: Grants Res{Variable=0}.
+MSID_SensingThreats: Sense Threat
+MSID_H_SensingThreats: If foe is effective against unit, grants\nAvo{Variable=0} to unit during combat.
+MSID_HunterEyes: Hunter's Eye
+MSID_H_HunterEyes: When equipped with a bow, grants Atk{Variable=0}\nwhen making a follow-up.
+MSID_ShootingMaster: Marksmanship
+MSID_H_ShootingMaster: When equipped with a bow, grants Hit{Variable=0}.
+MSID_CounterShooting: Countershot
+MSID_H_CounterShooting: When equipped with a bow, unit can\ncounter adjacent foes during combat.\nTrigger % = {Variable=0}.
+MSID_Practitioner: Makeshift
+MSID_H_Practitioner: When using a combat art, reduces weapon\ndurability cost to 0 during combat.\nTrigger % = {Variable=0}.
+MSID_Proficiency: Practiced Art
+MSID_H_Proficiency: Grants Hit{Variable=0} when attacking with\na combat art.
+MSID_Zanshin: Ever Vigilant
+MSID_H_Zanshin: After defeating a foe with a critical attack,\nrestores a little HP to unit.
+MSID_Tightening: Brace
+MSID_H_Tightening: After defeating a foe, grants Prt{Variable=0}\nuntil unit's next phase.
+MSID_FocusingCounter: Focused Counter
+MSID_H_FocusingCounter: If foe attacks first, grants Hit{Variable=0} to unit\nduring combat.
+MSID_LargeShield: Pavise
+MSID_H_LargeShield: Unit takes half damage when attacked with\na physical attack. Trigger % = {Variable=0}.
+MSID_HolyShield: Aegis
+MSID_H_HolyShield: Unit takes half damage when attacked with\na magical attack. Trigger % = {Variable=0}.
+MSID_ElephantBearer: Elephant Vanguard
+MSID_H_ElephantBearer: [Cavalry] If unit is an elephant rider,\ngrants Hit{Variable=0}.
+MSID_SacredBarrier: Barrier
+MSID_H_SacredBarrier: Grants Res{Variable=0} to adjacent allies.
+MSID_SpeedCurse: Bind Speed
+MSID_H_SpeedCurse: Inflicts Spd{Variable=0} on adjacent foes.
+MSID_SiegeBreaker: Besieger
+MSID_H_SiegeBreaker: If foe is on favorable terrain, grants Hit{Variable=0}\nto unit during combat.
+MSID_RunThrough: Overtake
+MSID_H_RunThrough: After defeating a foe, grants Mov{Variable=0}\nthrough the end of the next turn.\n(Max {Variable=1})
+MSID_SpecialDance: Special Dance
+MSID_H_SpecialDance: When using Dance, grants Dex/Spd{Variable=0}\nto target ally for the current phase.
+MSID_DarkMoon: Dark Moon
+MSID_H_DarkMoon: Halves foe's Shld when attacking.\nTrigger % = {Variable=0}.
+MSID_SteadfastStance: Resolute Stance
+MSID_H_SteadfastStance: If unit's HP = 100%, grants Shld{Variable=0}\nduring combat.
+MSID_SoulArmor: Intercept
+MSID_H_SoulArmor: Reduces damage taken by {Variable=0}\nwhen attacked.
+MSID_FerociousShield: Fierce Shield
+MSID_H_FerociousShield: If unit attacks first, unit takes half damage\nduring combat. Trigger % = {Variable=0}.
+MSID_ProtectionArmor: Blessed Armor
+MSID_H_ProtectionArmor: After combat, restores a little HP to unit.
+MSID_MagicControl: Dominate Magic
+MSID_H_MagicControl: If foe uses magic, unit cannot be countered\nduring combat. Trigger % = {Variable=0}.
+MSID_MagicCurse: Bind Resistance
+MSID_H_MagicCurse: Inflicts Res{Variable=0} on adjacent foes.
+MSID_LightningStorm: Lightning Reflexes
+MSID_H_LightningStorm: If unit attacks first, and AS ≥ foe's\nAS+{Variable=0}, unit's follow-up occurs\nbefore foe's counter during combat.
+MSID_Raid: Ambush
+MSID_H_Raid: If unit is on inaccessible terrain, grants\nAtk{Variable=0}.
+MSID_MagicEntomb: Magic Burial
+MSID_H_MagicEntomb: If unit and foe use magic, grants Atk{Variable=0} to\nunit during combat.
+MSID_DivineEye: Divine Eye
+MSID_DivineLife: Divine Will
+MSID_H_DivineLife: Grants Lck{Variable=0}.
+MSID_DivineEquipment: Divine Adornment
+MSID_H_DivineEquipment: Grants Res{Variable=0}.
+MSID_DivineForce: Divine Might
+MSID_H_DivineForce: Grants Str{Variable=0}.
+MSID_DivineDance: Divine Dance
+MSID_H_DivineDance: Grants Cha{Variable=0}.
+MSID_DivineBattle: Divine Insight
+MSID_H_DivineBattle: Grants Spd{Variable=0}.
+MSID_DivineShield: Divine Wall
+MSID_H_DivineShield: Grants Def{Variable=0}.
+MSID_DivineArmor: Divine Armor
+MSID_DivineSkill: Divine Dexterity
+MSID_H_DivineSkill: Grants Dex{Variable=0}.
+MSID_DivineMagic: Divine Law
+MSID_H_DivineMagic: Grants Mag{Variable=0}.
+MSID_DivineSpeed: Divine Speed
+MSID_SwordSkill: Swords {Variable=0}
+MSID_H_SwordSkill1: When equipped with a sword,\ngrants Hit{Variable=0}.
+MSID_H_SwordSkill3: When equipped with a sword,\ngrants Hit/Avo{Variable=0}.
+MSID_SwordMastery: Swordfaire
+MSID_H_SwordMastery: When equipped with a sword,\ngrants Hit/Avo{Variable=0}, Atk{Variable=1}.
+MSID_SpearSkill: Spears {Variable=0}
+MSID_H_SpearSkill1: When equipped with a spear,\ngrants Hit{Variable=0}.
+MSID_H_SpearSkill3: When equipped with a spear,\ngrants Hit/Avo{Variable=0}.
+MSID_SpearMastery: Spearfaire
+MSID_H_SpearMastery: When equipped with a spear,\ngrants Hit/Avo{Variable=0}, Atk{Variable=1}.
+MSID_Axeskill: Axes {Variable=0}
+MSID_H_Axeskill1: When equipped with an axe,\ngrants Hit{Variable=0}.
+MSID_H_Axeskill3: When equipped with an axe,\ngrants Hit/Avo{Variable=0}.
+MSID_AxeMastery: Axefaire
+MSID_H_AxeMastery: When equipped with an axe,\ngrants Hit/Avo{Variable=0}, Atk{Variable=1}.
+MSID_Bowskill: Bows {Variable=0}
+MSID_H_Bowskill1: When equipped with a bow,\ngrants Hit{Variable=0}.
+MSID_H_Bowskill3: When equipped with a bow,\ngrants Hit/Avo{Variable=0}.
+MSID_BowMastery: Bowfaire
+MSID_H_BowMastery: When equipped with a bow,\ngrants Hit/Avo{Variable=0}, Atk{Variable=1}.
+MSID_GauntletSkill: Fists {Variable=0}
+MSID_H_GauntletSkill1: When equipped with gauntlets,\ngrants Hit{Variable=0}.
+MSID_H_GauntletSkill3: When equipped with gauntlets,\ngrants Hit/Avo{Variable=0}.
+MSID_GauntletMastery: Fistfaire
+MSID_H_GauntletMastery: When equipped with gauntlets,\ngrants Hit/Avo{Variable=0}, Atk{Variable=1}.
+MSID_BlackMagicSkill: Black Magic {Variable=0}
+MSID_H_BlackMagicSkill1: When equipped with black magic,\ngrants Hit{Variable=0}.
+MSID_H_BlackMagicSkill3: When equipped with black magic,\ngrants Hit/Avo{Variable=0}.
+MSID_BlackMagicMastery: Black-Magic Mastery
+MSID_H_BlackMagicMastery: When equipped with black magic,\ngrants Hit/Avo{Variable=0}, Atk{Variable=1}.
+MSID_WhiteMagicSkill: White Magic {Variable=0}
+MSID_H_WhiteMagicSkill1: When equipped with white magic,\ngrants Hit{Variable=0}.
+MSID_H_WhiteMagicSkill3: When equipped with white magic,\ngrants Hit/Avo{Variable=0}.
+MSID_WhiteMagicMastery: White-Magic Mastery
+MSID_H_WhiteMagicMastery: When equipped with white magic,\ngrants Hit/Avo{Variable=0}, Atk{Variable=1}.
+MSID_KnightSense: Knightly Senses
+MSID_H_KnightSense: If foe uses a spear, grants Avo{Variable=0}\nto unit during combat.
+MSID_KnightVanguard: Vanguard{Variable=0}
+MSID_H_KnightVanguard: [Cavalry] If unit attacks first, grants\nShld{Variable=0} during combat.
+MSID_CavalryMove: Cavalry Move{Variable=0}
+MSID_H_CavalryMove: [Cavalry] Applies {Variable=0} to movement cost\nfor terrain (cannot be reduced below 1).
+MSID_ReadingWind: Read the Winds
+MSID_H_ReadingWind: If foe uses a bow, grants Avo{Variable=0} to unit\nduring combat.
+MSID_FastFlight: Flitting Flier{Variable=0}
+MSID_H_FastFlight: [Flying] If unit attacks first, grants AS{Variable=0}\nduring combat.
+MSID_FlightMove: Airfighter{Variable=0}
+MSID_H_FlightMove: [Flying] If unit attacks first, grants Hit{Variable=0}\nduring combat.
+MSID_FrontStrategy: Frontline Gambit
+MSID_H_FrontStrategy: After using a gambit, grants Atk{Variable=0}\nuntil unit's next phase.
+MSID_WalkingMove: Infantry Move{Variable=0}
+MSID_H_WalkingMove: [Infantry] Applies {Variable=0} to movement cost\nfor terrain (cannot be reduced below 1).
+MSID_Physique: Build{Variable=0}
+MSID_H_Physique: Grants Bld{Variable=0}.
+MSID_AttackFormation: Attack Formation{Variable=0}
+MSID_H_AttackFormation: Grants Atk{Variable=0} to adjacent allies.
+MSID_DefensiveFormation: Defense Formation{Variable=0}
+MSID_H_DefensiveFormation: Grants Shld{Variable=0} to adjacent allies.
+MSID_Diversion: Distraction{Variable=0}
+MSID_H_Diversion: Inflicts Hit{Variable=0} on adjacent foes.
+MSID_Restraint: Rein{Variable=0}
+MSID_H_Restraint: Inflicts Avo{Variable=0} on adjacent foes.
+MSID_Threat: Threaten{Variable=0}
+MSID_H_Threat: Inflicts Crit{Variable=0} on adjacent foes.
+MSID_AntiSniper: Counter Snipers{Variable=0}
+MSID_H_AntiSniper: Inflicts Hit/Avo{Variable=1} on bow foes within\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_AntiMagic: Counter Mages{Variable=0}
+MSID_H_AntiMagic: Inflicts Hit/Avo{Variable=1} on magic foes within\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_AntiCavalry: Counter Cavalry{Variable=0}
+MSID_H_AntiCavalry: Inflicts Hit/Avo{Variable=1} on cavalry foes within\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_AntiFlyer: Counter Fliers{Variable=0}
+MSID_H_AntiFlyer: Inflicts Hit/Avo{Variable=1} on flying foes within\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_StrategyMaster: Gambit Mastery
+MSID_H_StrategyMaster: Grants {Variable=0} use to gambits.
+MSID_MeleeRange: Close Quarters{Variable=0}
+MSID_H_MeleeRange: [Infantry] Inflicts Mov{Variable=0} on adjacent foes.
+MSID_BarelyAvoid: Evasion{Variable=0}
+MSID_H_BarelyAvoid: [Infantry] Grants Avo{Variable=1} when attacked.\nTrigger % = {Variable=0}.
+MSID_ShootingStability: Steady Shot{Variable=0}
+MSID_H_ShootingStability: [Infantry] When unit is equipped with a\nbow or magic, grants Hit{Variable=0}.
+MSID_FatalAvoid: Avoid Fatality{Variable=0}
+MSID_H_FatalAvoid: [Infantry] Grants Ddg{Variable=0}.
+MSID_PredicamentAvoid: Close-Call Evasion
+MSID_H_PredicamentAvoid: [Infantry] If unit's HP ≤ 50%, grants\nAvo{Variable=0} during combat.
+MSID_SniperAvoid: Sniper Evasion{Variable=0}
+MSID_H_SniperAvoid: [Infantry] Grants Avo{Variable=1} during combat\nagainst a foe {Variable=0}+ spaces away.
+MSID_WalkingRemove: Infantry Canto
+MSID_H_WalkingRemove: [Infantry] After combat, unit can move up\nto {Variable=0} {SingularPlural0=space|spaces}.
+MSID_Evasion: Dodge{Variable=0}
+MSID_H_Evasion: [Infantry] If foe uses a bow or magic, grants\nAvo{Variable=0} to unit during combat.
+MSID_PassThrough: Pass
+MSID_H_PassThrough: [Infantry] Unit can move through\nfoe's space.
+MSID_TakePosition: Positioning{Variable=0}
+MSID_H_TakePosition: [Infantry] If unit is on favorable terrain,\ngrants Avo{Variable=0} during combat.
+MSID_H_TakePosition+: [Infantry] If unit is on favorable terrain,\ngrants Avo{Variable=0}, Shld{Variable=1} during combat.
+MSID_SurpriseAttack: Surprise Attack
+MSID_H_SurpriseAttack: [Infantry] If unit is on favorable terrain,\ngrants Hit{Variable=0} during combat.
+MSID_SuperiorCombat: Combat Advantage
+MSID_H_SuperiorCombat: [Infantry] If unit is on favorable terrain,\ngrants Atk{Variable=0} during combat.
+MSID_ImmediateDefense: Narrow Defense
+MSID_H_ImmediateDefense: Grants Shld{Variable=1} when attacked.\nTrigger % = {Variable=0}.
+MSID_DeadlyDefense: Crit Defense
+MSID_H_DeadlyDefense: Unit takes half damage when attacked\nwith a critical. Trigger % = {Variable=0}.
+MSID_ArmorMove: Armored Move{Variable=0}
+MSID_H_ArmorMove: [Armored] Grants Mov{Variable=0}.
+MSID_ArmorCombat: Armored Combat{Variable=0}
+MSID_H_ArmorCombat: [Armored] Grants Dex{Variable=0}.
+MSID_ContinuousDefense: Pursuit Defense
+MSID_H_ContinuousDefense: Unit takes half damage when attacked by\na follow-up. Trigger % = {Variable=0}.
+MSID_HeavyBreak: Heavy Break{Variable=0}
+MSID_H_HeavyBreak: [Armored] Multiplies damage by {Variable=0} when\nattacking. Trigger % = Def ÷ 2.
+MSID_ArmorStep: Armored Leap{Variable=0}
+MSID_H_ArmorStep: [Armored] Grants Avo{Variable=0}.
+MSID_PreventBow: Bowblock
+MSID_H_PreventBow: [Armored] If foe uses a bow, grants\nShld{Variable=0} to unit during combat.
+MSID_PreventSpear: Spearblock
+MSID_H_PreventSpear: [Armored] If foe uses a spear, grants\nShld{Variable=0} to unit during combat.
+MSID_BowShield: Superior Bowblock
+MSID_H_BowShield: [Armored] If foe uses a bow, grants\nShld{Variable=0} to unit during combat.
+MSID_MultipleCounter: Counterflurry
+MSID_H_MultipleCounter: If foe attacks first, unit makes a\nfollow-up regardless of AS during\ncombat. Trigger % = {Variable=0}.
+MSID_AbsoluteDefense: Absolute Defense{Variable=0}
+MSID_H_AbsoluteDefense: [Armored] Grants Shld{Variable=1} when\nattacked. Trigger % = {Variable=0}.
+MSID_Blocking: Strength Fend
+MSID_H_Blocking: Unit takes half damage when attacked.\nTrigger % = Str ÷ 2.
+MSID_SuperGuard: Defense Fend
+MSID_H_SuperGuard: Unit takes half damage when attacked.\nTrigger % = Def ÷ 2.
+MSID_MagicArmor: Magic Fend
+MSID_H_MagicArmor: Unit takes half damage when attacked.\nTrigger % = Res ÷ 2.
+MSID_TacticalGuard: Dexterity Fend
+MSID_H_TacticalGuard: Unit takes half damage when attacked.\nTrigger % = Dex ÷ 2.
+MSID_LuckyGuard: Luck Fend
+MSID_H_LuckyGuard: Unit takes half damage when attacked.\nTrigger % = Lck ÷ 2.
+MSID_HeelArmor: Healing Armor
+MSID_H_HeelArmor: [Armored] Unit recovers HP equal to half\nthe damage they deal when attacking.\nTrigger % = Mag.
+MSID_MagicResist: Resistant Armor{Variable=0}
+MSID_H_MagicResist: [Armored] Grants Res{Variable=0}.
+MSID_DarkFlame: Underworld Burst
+MSID_H_DarkFlame: Unleashes dark flames.
+MSID_H_B_DarkFlame: Unleashes dark flames. Applies\nUnderworld Flame to spaces in range.
+MSID_DarkWave: Blackfire
+MSID_H_DarkWave: Unleashes dark flames over a wide area.
+MSID_H_B_DarkWave: Unleashes dark flames over a wide area.\nApplies Underworld Flame to spaces\nin range.
+MSID_DarkStar: Underworld Inferno
+MSID_H_DarkStar: Unleashes dark flames that explode on hit.\nApplies Underworld Flame to spaces in\nrange. (Once per map.)
+MSID_H_E_DarkStar: Unleashes dark flames that explode on hit.\nApplies Underworld Flame to spaces\nin range.
+MSID_ShadowBlade: Moving Shadow
+MSID_H_ShadowBlade: Warps up to {Variable=0} spaces. After use, unit\ncan attack.
+MSID_ShadowBind: Stifling Shadow
+MSID_H_ShadowBind: Warps up to {Variable=0} spaces. Then inflicts\nImmobilize on foes within {Variable=1} spaces.
+MSID_ShadowDestruction: Ruinous Shadow
+MSID_H_ShadowDestruction: Warps up to 5 spaces. Then deals damage to\nfoes in attack range.
+MSID_RoaringRock: Earthen Throw
+MSID_H_RoaringRock: Cracks the earth to perform a throwing\nattack.
+MSID_H_B_RoaringRock: Cracks the earth to perform a throwing\nattack. Guaranteed to hit.
+MSID_MightyRock: Earthen Hurl
+MSID_H_MightyRock: Makes a long-distance throwing attack.
+MSID_H_B_MightyRock: Makes a long-distance throwing attack.\nGuaranteed to hit.
+MSID_CometRock: Dazzling Comet
+MSID_H_CometRock: Performs a throwing attack that pierces\nfoes. Guaranteed to hit. (Once per map.)
+MSID_EnthusiasticSong: Song of Passion{Variable=0}
+MSID_H_EnthusiasticSong: Grants Str/Mag{Variable=0} to allies in range\nuntil unit's next phase.
+MSID_H_EnthusiasticSong++: Grants Str/Mag{Variable=0}, Mov{Variable=1} to allies\nin range until unit's next phase.
+MSID_H_EnthusiasticSongHell: Multiplies Str/Mag by {Variable=0} for allies in\nrange until unit's next phase.
+MSID_FrozenSong: Song of Icewater{Variable=0}
+MSID_H_FrozenSong: Grants Def/Res{Variable=0} to allies in range\nuntil unit's next phase.
+MSID_H_FrozenSong++: Restores some HP to allies in range and\ngrants Def/Res{Variable=0} to those allies\nuntil unit's next phase.
+MSID_H_FrozenSongHell: Multiplies Def/Res by {Variable=0} for allies in\nrange until unit's next phase.
+MSID_H_FrozenSongEnemy: Grants Shld{Variable=0} to allies in range\nuntil unit's next phase.
+MSID_PurificationSong: Song of Abjuring
+MSID_H_PurificationSong: Grants "effective vs. undead" to allies in\nrange until unit's next phase.
+MSID_FrenzySong: Song of Madness
+MSID_H_FrenzySong: Inflicts Confusion on foes in range.\n(Once per map.)
+MSID_H_E_FrenzySong: Inflicts Confusion on foes in range.
+MSID_ResentmentSong: Song of Beasts
+MSID_H_ResentmentSong: Summons a Demonic Beast. (Once\nper map.)
+MSID_H_E_ResentmentSong: Summons a Demonic Beast.
+MSID_GoddessDance: Song of Angels
+MSID_H_GoddessDance: Allows allies in range to act again.\n(Once per map.)
+MSID_CollapseCurse: Collapsing Curse
+MSID_H_CollapseCurse: Inflicts Numb on foes for {Variable=0} {SingularPlural0=combat|combats} or\n{Variable=1} {SingularPlural1=turn|turns}. Numb: Halves Hit.
+MSID_SlowingCurse: Slowing Curse
+MSID_H_SlowingCurse: Inflicts Slow on foes for {Variable=0} {SingularPlural0=combat|combats} or\n{Variable=1} {SingularPlural1=turn|turns}. Slow: Halves AS.
+MSID_MisfortuneCurse: Unlucky Curse
+MSID_H_MisfortuneCurse: Inflicts Jinx on foes for {Variable=0} {SingularPlural0=combat|combats} or\n{Variable=1} {SingularPlural1=turn|turns}. Jinx: Halves Lck.
+MSID_AttackCurse: Str/Mag Curse
+MSID_H_AttackCurse: Inflicts Str/Mag Shift on foes for {Variable=0} {SingularPlural0=combat|combats}\nor {Variable=1} {SingularPlural1=turn|turns}. Str/Mag Shift: Swaps Str\nand Mag.
+MSID_DefenseCurse: Def/Res Curse
+MSID_H_DefenseCurse: Inflicts Def/Res Shift on foes for {Variable=0} {SingularPlural0=combat|combats}\nor {Variable=1} {SingularPlural1=turn|turns}. Def/Res Shift: Swaps Def\nand Res.
+MSID_PowerAwakening: Ruler's Awakening
+MSID_H_PowerAwakening: Awakens hidden combat prowess. Grants\nHit{Variable=0} until unit's next phase. After use,\nunit can attack.
+MSID_H_PowerAwakening+: Grants Hit{Variable=0}, Atk{Variable=1} until unit's next\nphase. After use, unit can attack.
+MSID_H_E_PowerAwakening1: Unleashes hidden combat prowess.\nGrants Hit{Variable=0} through unit's next combat.
+MSID_H_E_PowerAwakening2: Unleashes hidden combat prowess.\nGrants Hit{Variable=0}, Atk{Variable=1} through\nunit's next combat.
+MSID_SkillAwakening: Flash Awakening
+MSID_H_SkillAwakening: Awakens hidden combat ability. Grants\nPrt{Variable=0} until unit's next phase. After use,\nunit can attack.
+MSID_H_E_SkillAwakening1: Unleashes hidden combat ability.\nGrants Prt{Variable=0} through unit's\nnext combat.
+MSID_H_E_SkillAwakening2: Unleashes hidden combat ability.\nGrants Prt{Variable=0} through unit's\nnext combat.
+MSID_StormAwakening: Storm Awakening
+MSID_H_StormAwakening: Awakens hidden battle instincts. Grants\nAvo{Variable=0} until unit's next phase. After use,\nunit can attack.
+MSID_H_StormAwakening+: Grants Avo/Ddg{Variable=0} until unit's next phase.\nAfter use, unit can attack.
+MSID_H_E_StormAwakening1: Unleashes hidden battle instincts.\nGrants Avo{Variable=0} through unit's\nnext combat.
+MSID_H_E_StormAwakening2: Unleashes hidden battle instincts.\nGrants Avo/Ddg{Variable=0} through unit's\nnext combat.
+MSID_Elisabeth: Elizabeth
+MSID_H_Elisabeth: Grants Overblaze. After use, unit can attack.\n(Once per map.)
+MSID_Strahl: Strahl
+MSID_H_Strahl: Attacks foes in a wide area with a beam\nof light.
+MSID_Lanze: Lanze
+MSID_H_Lanze: Pierces a foe with a beam of light.\nEffective vs. undead.
+MSID_DragonSurge_1: Dragon Strike I
+MSID_DragonSurge_2: Dragon Strike II
+MSID_DragonSurge_3: Dragon Strike III
+MSID_H_DragonSurge: Unleashes force refined within the body\nas an area attack. Can destroy obstacles.
+MSID_GlitterDragonSurge: Shining Dragon Strike
+MSID_H_GlitterDragonSurge: Unleashes force refined within the body\nas an area attack. Can destroy obstacles.
+MSID_RevolveDragonSurge: Dragon Rotation
+MSID_H_RevolveDragonSurge: Unleashes a spiral of energy. Can destroy\nobstacles.
+MSID_SevenStarsSurge: Seven-Star Dragon
+MSID_H_SevenStarsSurge: Unleashes a devastating wave with the\npower of the arcane secret. Can destroy\nobstacles.
+MSID_WhiteCrowSpear_1: Purifying Flash
+MSID_H_WhiteCrowSpear_1: Pierces foes with a spear of holy light.\nEffective vs. undead.
+MSID_WhiteCrowSpear_2: Purifying Flash+
+MSID_H_WhiteCrowSpear_2: Pierces foes with a spear of holy light.\nEffective vs. undead. Guaranteed to hit.
+MSID_WhiteCrowSpear_3: Nine-Sky Strike
+MSID_H_WhiteCrowSpear_3: Pierces foes with a spear of light.\nEffective+ vs. undead. Guaranteed to hit.
+MSID_WhiteCrowSpear_4: Nine-Sky Strike+
+MSID_WhiteCrowSpear_5: Cleave Heaven
+MSID_ResistAwakening: Reason Awakening
+MSID_H_ResistAwakening: Awakens hidden combat prowess. Grants\nRsl{Variable=0} until unit's next phase. After use,\nunit can attack.
+MSID_HardAttack: Wrath Strike{Variable=0}
+MSID_H_HardAttack: High Hit.
+MSID_Bisection: Sunder{Variable=0}
+MSID_H_Bisection: High Crit.
+MSID_DewCutting: Haze Slice{Variable=0}
+MSID_H_DewCutting: Grants Avo{Variable=0} during combat.
+MSID_Chopped: Chop{Variable=0}
+MSID_H_Chopped: Low Hit. High Mt.
+MSID_SwallowReversal: Grounder{Variable=0}
+MSID_H_SwallowReversal: Effective vs. flying.
+MSID_TigerSlash: Tiger Slash{Variable=0}
+MSID_H_TigerSlash: Effective vs. cavalry.
+MSID_ArmorPasser: Rend Armor{Variable=0}
+MSID_H_ArmorPasser: Effective vs. armored.
+MSID_SecretSword: Finesse Blade{Variable=0}
+MSID_H_SecretSword: Deals at least {Variable=0} damage.
+MSID_ShadowHunt: Shadow Gambit{Variable=0}
+MSID_H_ShadowHunt: If foe is on favorable terrain, ignores those\nterrain effects.
+MSID_HittingPeaks: Subdue{Variable=0}
+MSID_H_HittingPeaks: If foe's HP ≥ 2, leaves foe with 1 HP.\nCannot make a follow-up.
+MSID_Crosswise: Crosswise Cut{Variable=0}
+MSID_H_Crosswise: After combat, grants Dex{Variable=0} until the\nend of the map. (Max {Variable=1})
+MSID_Destrezza: Destreza{Variable=0}
+MSID_H_Destrezza: If foe's HP ≤ 50%, grants Atk{Variable=0},\nCrit{Variable=1} to unit.
+MSID_RippleSlash: Ripple Slash{Variable=0}
+MSID_H_RippleSlash: Guaranteed to hit.
+MSID_H_RippleSlash+: Guaranteed to hit. If unit can make a\nfollow-up, it is also guaranteed to hit.
+MSID_BlazingSlash: Blaze Blow{Variable=0}
+MSID_H_BlazingSlash: Grants Atk{Variable=0} for the attack.\nTrigger % = Str ÷ 2.
+MSID_GaleSlash: Gale Blow{Variable=0}
+MSID_H_GaleSlash: Grants Atk{Variable=0} for the attack.\nTrigger % = Spd ÷ 2.
+MSID_BladeSlash: Flash Blow{Variable=0}
+MSID_H_BladeSlash: Grants Atk{Variable=0} for the attack.\nTrigger % = Dex ÷ 2.
+MSID_DoubleSlash: Twin Blades{Variable=0}
+MSID_H_DoubleSlash: Strikes {Variable=0} times at {Variable=1}% damage.
+MSID_MagicSlash: Hexblade{Variable=0}
+MSID_H_MagicSlash: Treated as a magical attack.
+MSID_MistReaper: Mist Reaper{Variable=0}
+MSID_H_MistReaper: Grants Avo{Variable=0} during combat. Grants\nCrit{Variable=1} when making a follow-up.
+MSID_DarkRays: Dark Ray{Variable=0}
+MSID_H_DarkRays: Inflicts Hit/Avo/Crit{Variable=0} on foe\nduring combat.
+MSID_WindGnaw: Windsweep{Variable=0}
+MSID_H_WindGnaw: If unit's attack hits, cannot be countered.\nTrigger % = {Variable=0}.
+MSID_SkySplit: Skysplit{Variable=0}
+MSID_H_SkySplit: Grants AS{Variable=0} during combat.
+MSID_HeatHaze: Heat Haze{Variable=0}
+MSID_H_HeatHaze: After defeating a foe, grants Avo{Variable=0} until\nunit's next phase.
+MSID_GreatAttack: Furious Strike{Variable=0}
+MSID_H_GreatAttack: High Mt/Hit.
+MSID_SingleSlash: Single Sunder{Variable=0}
+MSID_H_SingleSlash: Low Hit, durability cost. High Mt.
+MSID_BladeSlam: Blade Slam{Variable=0}
+MSID_H_BladeSlam: Sets unit's hit % to {Variable=0}.
+MSID_FatefulSlash: Fateful Strike{Variable=0}
+MSID_H_FatefulSlash: Grants Atk{Variable=0} for the attack.\nTrigger % = Lck ÷ 2.
+MSID_SteppingWind: Lunging Gale{Variable=0}
+MSID_H_SteppingWind: Grants AS{Variable=0} during combat. Grants\nAtk{Variable=1} when making a follow-up.
+MSID_TriceFlash: Vicious Flash{Variable=0}
+MSID_H_TriceFlash: Grants Atk{Variable=0} for the attack.\nTrigger % = Dex ÷ 2.
+MSID_GreatMagicAttack: Greater Hexblade{Variable=0}
+MSID_H_GreatMagicAttack: High Mt/Hit. Treated as a magical attack.
+MSID_Ryusei: Astra{Variable=0}
+MSID_H_Ryusei: Strikes 5 times at {Variable=0}% damage.
+MSID_BloodSlash: Bloodletting{Variable=0}
+MSID_H_BloodSlash: Very high Crit. Effective vs. dragons.
+MSID_FlameStorm: Firestorm
+MSID_H_FlameStorm: Very high Mt.
+MSID_KillingSword: Deadly Blade
+MSID_H_KillingSword: High Crit.
+MSID_LayeredPoison: Poison Harvest
+MSID_H_LayeredPoison: If foe is Poisoned, unit recovers HP equal to\nhalf the damage they deal.
+MSID_ThunderAttack: Lightning Strike
+MSID_H_ThunderAttack: Unleashes powerful lightning from\nthe blade. Treated as a magical attack.
+MSID_PoisonFuneral: Poison Burial
+MSID_H_PoisonFuneral: If foe is Poisoned, grants Atk{Variable=0}.
+MSID_DesperateFlower: Prune
+MSID_H_DesperateFlower: Reduces weapon durability cost to 0 for\nthe attack. Trigger % = Dex.
+MSID_MoonDestruction: Moonbreaker
+MSID_H_MoonDestruction: Very high Hit/Crit.
+MSID_DarkWind: Toxic Wind
+MSID_H_DarkWind: If unit's attack hits, inflicts Poison on foe.\nTreated as a magical attack. Cannot make\na follow-up.
+MSID_LuckSteal: Siphon Luck
+MSID_H_LuckSteal: After defeating a foe, grants Lck{Variable=0} until\nthe end of the map. (Max {Variable=1})
+MSID_WindSpear: Tempest Spear{Variable=0}
+MSID_H_WindSpear: High Hit.
+MSID_GaleSpear: Gale Spear{Variable=0}
+MSID_H_GaleSpear: High Crit.
+MSID_FlowSpear: Flowing Spear{Variable=0}
+MSID_H_FlowSpear: Grants Avo{Variable=0} during combat.
+MSID_GuardianSpear: Defending Spear{Variable=0}
+MSID_H_GuardianSpear: Grants Shld{Variable=0} during combat.
+MSID_ConcentratedThrow: Focused Throw{Variable=0}
+MSID_H_ConcentratedThrow: High Hit. (Only usable by spears with\nRng = 1-2.)
+MSID_KongoStrike: Armored Blow{Variable=0}
+MSID_H_KongoStrike: After defeating a foe, grants Prt{Variable=0} until\nunit's next phase. Cannot make a follow-up.
+MSID_Stinger: Stinger{Variable=0}
+MSID_H_Stinger: Low Hit. High Mt.
+MSID_HolyThrust: Holy Spear{Variable=0}
+MSID_H_HolyThrust: After combat, restores a little HP to unit.
+MSID_H_HolyThrust+: After combat, restores some HP to unit.
+MSID_DoubleThrow: Double Throw{Variable=0}
+MSID_H_DoubleThrow: Strikes {Variable=0} times. (Only usable by spears\nwith Rng = 1-2.)
+MSID_Pushing: Jab{Variable=0}
+MSID_H_Pushing: Moderately high Mt.
+MSID_FlyingSpear: Flying Spear{Variable=0}
+MSID_H_FlyingSpear: Unit's follow-up occurs before foe's counter.
+MSID_H_FlyingSpear+: Unit's follow-up occurs before foe's counter.\nGrants Crit{Variable=0} when making a follow-up.
+MSID_SwordBreaker: Sword Breaker{Variable=0}
+MSID_H_SwordBreaker: If foe uses a sword, grants Atk{Variable=0}.
+MSID_H_SwordBreaker+: If foe uses a sword, grants Atk{Variable=0}, Hit{Variable=1}.
+MSID_BrilliantStrike: Brilliant Strike{Variable=0}
+MSID_H_BrilliantStrike: After defeating a foe, grants Rsl{Variable=0} until\nunit's next phase.
+MSID_FastThrust: Quick Thrust{Variable=0}
+MSID_H_FastThrust: Grants AS{Variable=0} during combat.
+MSID_GuardianWind: Protective Storm{Variable=0}
+MSID_H_GuardianWind: Grants Prt{Variable=0} during combat.
+MSID_BreakRush: Vanguard Spear{Variable=0}
+MSID_H_BreakRush: Grants Atk{Variable=0} for the attack.\nTrigger % = Str ÷ 2.
+MSID_Hamshin: Khamsin{Variable=0}
+MSID_H_Hamshin: If foe's Hit ≤ {Variable=0}, reduces foe's Hit to 0\nduring combat.
+MSID_DefenceThrust: Protective Spear{Variable=0}
+MSID_H_DefenceThrust: Grants Ddg{Variable=0} during combat.
+MSID_WindIceSpear: Frozen-Spear Slice{Variable=0}
+MSID_H_WindIceSpear: Treated as a magical attack. (Only usable by\nspears with Rng = 1-2.)
+MSID_Rollover: Pivot Strike{Variable=0}
+MSID_H_Rollover: Foe attacks first.
+MSID_H_Rollover+: Foe attacks first. Grants Shld{Variable=0}\nduring combat.
+MSID_IceSpear: Frozen Spear{Variable=0}
+MSID_H_IceSpear: Treated as a magical attack.
+MSID_FlowingAttack: Graceful Blow{Variable=0}
+MSID_H_FlowingAttack: Reduces weapon durability cost to 0 for the\nattack. Trigger % = Dex ÷ 2.
+MSID_StrongThrow: Yawning Throw{Variable=0}
+MSID_H_StrongThrow: High Mt/Hit. (Only usable by spears\nwith Rng = 1-2.)
+MSID_CavalryBury: Knightkneel{Variable=0}
+MSID_H_CavalryBury: Strikes {Variable=0} {SingularPlural0=time|times} at {Variable=2}% damage.\nIf foe is cavalry, grants Hit{Variable=1}.
+MSID_Tempest: Raging Tempest{Variable=0}
+MSID_H_Tempest: High Mt/Hit.
+MSID_NoDust: Leave No Dust
+MSID_H_NoDust: Effective vs. beasts and dragons.
+MSID_Sun: Sol
+MSID_H_Sun: Unit recovers HP equal to half the\ndamage they deal.
+MSID_SpearStarlight: Blinding Starlight
+MSID_H_SpearStarlight: Effective vs. undead. Treated as a magical\nattack. Cannot make a follow-up.
+MSID_HolyAttack: Sacred Strike
+MSID_H_HolyAttack: After defeating a foe, restores some\nHP to unit.
+MSID_WindBlowing: Windweave
+MSID_H_WindBlowing: If unit's attack hits, cannot be countered.\nTrigger % = {Variable=0}.
+MSID_KillingSpear: Deadly Spear
+MSID_H_KillingSpear: High Crit.
+MSID_PowerThrow: Brute Throw
+MSID_H_PowerThrow: Low Hit. Very high Mt.
+MSID_FullMoon: Full Moon
+MSID_H_FullMoon: After combat, restores some HP to unit.
+MSID_BlackRoar: Black Roar
+MSID_H_BlackRoar: After defeating a foe, grants Prt{Variable=0} until\nunit's next phase.
+MSID_CavalryBreak: Cavalry Ruin
+MSID_H_CavalryBreak: If foe is cavalry, grants Atk{Variable=0} to unit.
+MSID_OverlordSnake: Supreme Serpent
+MSID_H_OverlordSnake: Long Rng. Cannot make a follow-up.
+MSID_Spike: Spike{Variable=0}
+MSID_H_Spike: High Hit.
+MSID_Smash: Smash{Variable=0}
+MSID_H_Smash: High Crit.
+MSID_HalfSpike: Half Spike{Variable=0}
+MSID_H_HalfSpike: Grants Avo{Variable=0} during combat.
+MSID_HelmetSplit: Helm Splitter{Variable=0}
+MSID_H_HelmetSplit: Effective vs. armored.
+MSID_ThrowAttack: Hurl{Variable=0}
+MSID_H_ThrowAttack: High Hit. (Only usable by axes with\nRng = 1-2.)
+MSID_SafeAttack: Careful Attack{Variable=0}
+MSID_H_SafeAttack: When foe avoids attack, foe cannot counter. \nDeals half damage. Cannot make a\nfollow-up.
+MSID_DoubleAttack: Double Attack{Variable=0}
+MSID_H_DoubleAttack: Strikes {Variable=0} times at {Variable=1}% damage.
+MSID_RageUp: Enrage{Variable=0}
+MSID_H_RageUp: After combat, grants Str{Variable=0} until the end\nof the map. (Max {Variable=1})
+MSID_ThrowingMagicAxe: Magic Throw{Variable=0}
+MSID_H_ThrowingMagicAxe: Treated as a magical attack. (Only usable by\naxes with Rng 1-2.)
+MSID_ReversalAttack: Reflecting Dance{Variable=0}
+MSID_H_ReversalAttack: If foe would have made a follow-up, foe\ncannot make a follow-up and unit makes\na follow-up instead.
+MSID_CrazyAttack: Wild Abandon{Variable=0}
+MSID_H_CrazyAttack: Low Hit. High Mt.
+MSID_WildFang: Battleblade Strike{Variable=0}
+MSID_H_WildFang: After combat, grants Dex{Variable=0} until the end\nof the map. (Max {Variable=1})
+MSID_SpearBreaker: Spear Buster{Variable=0}
+MSID_H_SpearBreaker: If foe uses a spear, grants Atk{Variable=0}.
+MSID_H_SpearBreaker+: If foe uses a spear, grants Atk{Variable=0}, Hit{Variable=1}.
+MSID_Crash: Crash {Variable=0}
+MSID_H_Crash: If unit's attack hits, inflicts Confusion\non foe (trigger % = {Variable=0}). Cannot\nmake follow-up.
+MSID_AscertainAttack: Discerning Blow{Variable=0}
+MSID_H_AscertainAttack: Very high Hit. Deals half damage.
+MSID_GuardSpike: Guard Spike{Variable=0}
+MSID_H_GuardSpike: Grants Prt{Variable=0} during combat.
+MSID_LightningAx: Lightning Axe{Variable=0}
+MSID_H_LightningAx: Treated as a magical attack.
+MSID_RiotAttack: Riot{Variable=0}
+MSID_H_RiotAttack: Grants Atk{Variable=0} when making a follow-up.
+MSID_GiantKiller: Giant Breaker{Variable=0}
+MSID_H_GiantKiller: If foe is large scale, grants Atk{Variable=0}.
+MSID_H_GiantKiller+: If foe is large scale, grants Atk{Variable=0}, Hit{Variable=1}.
+MSID_TripleSpike: Triple Spike{Variable=0}
+MSID_H_TripleSpike: Strikes {Variable=0} times. When foe avoids a\nstrike, grants Hit{Variable=1} to unit.
+MSID_H_TripleSpike+: Strikes {Variable=0} times. When foe avoids a\nstrike, grants Hit/Crit{Variable=1} to unit.
+MSID_KillerSpike: Killer Spike{Variable=0}
+MSID_H_KillerSpike: High Mt/Crit.
+MSID_PowerSpike: Power Spike{Variable=0}
+MSID_H_PowerSpike: High Mt/Hit.
+MSID_TomahawkThrow: Power Throw{Variable=0}
+MSID_H_TomahawkThrow: High Mt/Hit. (Only usable by axes with\nRng = 1-2.)
+MSID_DoubleEagle: Double Swing{Variable=0}
+MSID_H_DoubleEagle: Strikes {Variable=0} times at {Variable=1}% damage.\n(Only usable by axes with Rng = 1-2.)
+MSID_MirrorWater: Focused Strike{Variable=0}
+MSID_H_MirrorWater: Very high Hit.
+MSID_MargeBlake: Magic Breaker{Variable=0}
+MSID_H_MargeBlake: If foe uses magic, grants Atk{Variable=0}.
+MSID_H_MargeBlake+: If foe uses magic, grants Atk{Variable=0}, Hit{Variable=1}.
+MSID_FlashAttack: Instant Strike{Variable=0}
+MSID_H_FlashAttack: Grants Atk{Variable=0} for the attack and when\nmaking a follow-up.\nTrigger % = Spd ÷ 2.
+MSID_BloodyBlitz: Bloodbath{Variable=0}
+MSID_H_BloodyBlitz: After defeating foe, grants Shld{Variable=0} through\nunit's next combat.
+MSID_WarDemon: War Master's Strike{Variable=0}
+MSID_H_WarDemon: Multiplies damage dealt by {Variable=0}.
+MSID_GodAttack: Godly Strike
+MSID_H_GodAttack: Very high Mt.
+MSID_FireRing: Flame Ring
+MSID_H_FireRing: First hit is imbued with magic. High Mt.\nTreated as a magical attack.
+MSID_Hazetsu: Domination{Variable=0}
+MSID_H_Hazetsu: Calculates damage as if foe's\nUnderworld Boon is negated.
+MSID_HellViscera: Underworld Viscera
+MSID_H_HellViscera: First hit is imbued with magic. If unit's\nattack hits, inflicts Poison on foe. Treated\nas a magical attack.
+MSID_CrushingAttack: Pulverize
+MSID_H_CrushingAttack: Can destroy obstacles.
+MSID_StormWalk: Stormstep
+MSID_H_StormWalk: After defeating a foe, grants AS{Variable=0} until\nunit's next phase.
+MSID_DemonSplit: Magecleaver
+MSID_H_DemonSplit: If foe uses magic, grants Hit{Variable=0}, Atk{Variable=1}.
+MSID_SpinTurn: Rotation
+MSID_H_SpinTurn: Very high Hit.
+MSID_MagicStrike: Magic Strike
+MSID_H_MagicStrike: First hit is imbued with magic. Treated as\na magical attack.
+MSID_CriticalShot: Vital Shot{Variable=0}
+MSID_H_CriticalShot: High Crit.
+MSID_CurvedShot: Curved Shot{Variable=0}
+MSID_H_CurvedShot: High Hit.
+MSID_Sniper: Deadeye{Variable=0}
+MSID_H_Sniper: Long Rng. Cannot make a follow-up.
+MSID_EnclosureArrow: Encloser{Variable=0}
+MSID_H_EnclosureArrow: If unit's attack hits, inflicts Mov{Variable=0} on foe\nuntil unit's next phase.
+MSID_SurpriseArrow: Surprise Shot{Variable=0}
+MSID_H_SurpriseArrow: If foe's HP = 100%, grants Atk{Variable=1}.\nTrigger % = {Variable=0}.
+MSID_BreakawayShot: Breakaway Shot{Variable=0}
+MSID_H_BreakawayShot: After combat, unit can move up to 1 space.
+MSID_SealArrow: Ward Arrow{Variable=0}
+MSID_H_SealArrow: If unit's attack hits, inflicts Silence on foe.
+MSID_LeadArrow: Lead Arrow{Variable=0}
+MSID_H_LeadArrow: Effective vs. armored.
+MSID_H_LeadArrow+: Effective vs. armored. If foe is armored,\ngrants Crit{Variable=0} to unit.
+MSID_SnipeShot: Snipe{Variable=0}
+MSID_H_SnipeShot: If foe's HP ≤ 50%, grants Atk{Variable=0}, Hit{Variable=1}.
+MSID_LegShot: Leg Shot{Variable=0}
+MSID_H_LegShot: If unit's attack hits, inflicts Avo{Variable=0} on foe\nthrough their next combat. Cannot make\na follow-up.
+MSID_ShadowShot: Shadow Arrow{Variable=0}
+MSID_H_ShadowShot: Grants Avo{Variable=0} during combat.
+MSID_GreatShot: Leaden Draw{Variable=0}
+MSID_H_GreatShot: High Mt/Hit.
+MSID_MagicalShot: Magic Arrow{Variable=0}
+MSID_H_MagicalShot: Treated as a magical attack.
+MSID_SpiralShot: Spiral Shot{Variable=0}
+MSID_H_SpiralShot: Grants Atk{Variable=0} for the attack.\nTrigger % = Dex ÷ 2.
+MSID_PowerShot: Mighty Shot{Variable=0}
+MSID_H_PowerShot: Low Hit. Very high Mt.
+MSID_MarksmanShot: Sneaky Shot{Variable=0}
+MSID_H_MarksmanShot: If unit is on favorable terrain, grants\nAtk{Variable=0}, Hit/Crit{Variable=1}.
+MSID_SpiritArrow: Spirit Bow{Variable=0}
+MSID_H_SpiritArrow: Grants Rsl{Variable=0} during combat.
+MSID_BreakArrow: Arrowcrack{Variable=0}
+MSID_H_BreakArrow: Grants Atk{Variable=1} for the attack.\nTrigger % = {Variable=0}.
+MSID_RandomShot: Haphazard{Variable=0}
+MSID_H_RandomShot: Strikes {Variable=0} times at {Variable=1}% damage.
+MSID_ElegantShot: Twin-Shot Flow{Variable=0}
+MSID_H_ElegantShot: Strikes {Variable=0} times at {Variable=1}% damage.
+MSID_BowKillerShot: Bowbreaker Arrow{Variable=0}
+MSID_H_BowKillerShot: If foe uses a bow, strikes {Variable=0} times\nat {Variable=1}% damage.
+MSID_SkyHunter: Sky Hunter{Variable=0}
+MSID_H_SkyHunter: If foe is flying, grants Hit{Variable=0}.
+MSID_CalmCall: Calm Call{Variable=0}
+MSID_H_CalmCall: After defeating a foe, grants Avo{Variable=0}\nthrough unit's next combat.
+MSID_PoisonHunter: Poisoner's Talent
+MSID_H_PoisonHunter: If foe is Poisoned, grants Atk{Variable=0}, Hit{Variable=1}\nto unit.
+MSID_HeavenlyWind: Heaven's Wind
+MSID_H_HeavenlyWind: Very long Rng. Cannot make a follow-up.
+MSID_HolyFlash: Holy Flash
+MSID_H_HolyFlash: After defeating a foe, restores some HP\nto unit.
+MSID_HunterCross: Hunter's Cross{Variable=0}
+MSID_H_HunterCross: High Hit/Crit.
+MSID_CalamityShot: Calamitous Shot
+MSID_H_CalamityShot: If unit's attack hits, inflicts Silence and\nImmobilize on foe. Cannot make a\nfollow-up.
+MSID_ThunderStar: Lightning Star
+MSID_H_ThunderStar: High Crit. Treated as a magical attack.
+MSID_DrillShot: Drilling Breach
+MSID_H_DrillShot: Ignores foe's Shld. Cannot make a follow-up.
+MSID_FistBlow: Mighty Fist{Variable=0}
+MSID_H_FistBlow: High Hit.
+MSID_SmashCombo: Deal Death{Variable=0}
+MSID_H_SmashCombo: High Crit.
+MSID_MagicCut: Curtail Magic{Variable=0}
+MSID_H_MagicCut: Grants Rsl{Variable=0} during combat.
+MSID_Tyman: One-on-One{Variable=0}
+MSID_H_Tyman: If unit's attack hits, inflicts Immobilize\non foe.
+MSID_FeintBlow: Feint{Variable=0}
+MSID_H_FeintBlow: After combat, inflicts Avo{Variable=0} on foe\nthrough their next combat.
+MSID_BeatUp: Beatdown{Variable=0}
+MSID_H_BeatUp: After combat, grants Spd{Variable=0} until the\nend of the map. (Max {Variable=1}) 
+MSID_BackBlow: Fading Blow{Variable=0}
+MSID_H_BackBlow: After combat, unit can move up to\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_BackAssault: Fading Assault{Variable=0}
+MSID_H_BackAssault: After combat, unit can move up to\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_LivingFist: Saving Fist{Variable=0}
+MSID_H_LivingFist: If foe's HP ≥ {Variable=0}, leaves foe with {Variable=1} HP.\nCannot make a follow-up.
+MSID_JackHit: Jack Hit{Variable=0}
+MSID_H_JackHit: Grants Atk{Variable=1} for the attack.\nTrigger % = {Variable=0}.
+MSID_AssassinFist: Assassin's Fist{Variable=0}
+MSID_H_AssassinFist: Deals at least {Variable=0} damage.
+MSID_ArmorBreaker: Crush Armor{Variable=0}
+MSID_H_ArmorBreaker: Effective vs. armored.
+MSID_H_ArmorBreaker+: Effective vs. armored. If foe is armored,\ngrants Crit{Variable=0} to unit.
+MSID_MagicCombo: Magic Combo{Variable=0}
+MSID_H_MagicCombo: Strikes {Variable=0} times at {Variable=1}% damage.\nTreated as a magical attack.
+MSID_CrashCombo: Knockout{Variable=0}
+MSID_H_CrashCombo: If unit's attack hits, inflicts Confusion on\nfoe (trigger % = {Variable=0}). Cannot make a\nfollow-up.
+MSID_PowerCombo: Power Combo{Variable=0}
+MSID_H_PowerCombo: Strikes {Variable=0} times. Reduces Hit to 50%.
+MSID_CounterBlow: One-Two Punch{Variable=0}
+MSID_H_CounterBlow: Foe attacks first. Grants Avo{Variable=0}\nduring combat.
+MSID_BattleRush: Battle Rush{Variable=0}
+MSID_H_BattleRush: Unit's follow-up occurs before foe's counter.
+MSID_RazorFist: Razor Fist{Variable=0}
+MSID_H_RazorFist: If unit makes a critical, reduces weapon\ndurability cost to 0.
+MSID_SpiritFist: Spirit Fist{Variable=0}
+MSID_H_SpiritFist: Grants Atk{Variable=0} for the attack.\nTrigger % = Res ÷ 2.
+MSID_MindBlow: Mind's-Eye Blow{Variable=0}
+MSID_H_MindBlow: Very high Hit.
+MSID_SpiritBlow: Spirit Blow{Variable=0}
+MSID_H_SpiritBlow: High Mt/Hit.
+MSID_RevivalAttack: Revival{Variable=0}
+MSID_H_RevivalAttack: After defeating a foe, restores a lot of HP\nto unit.
+MSID_GauntletTron: Thoron Gauntlet
+MSID_H_GauntletTron: Treated as a magical attack.
+MSID_BlowHeel: Strike and Heal{Variable=0}
+MSID_H_BlowHeel: After combat, unit can use assist magic.
+MSID_KillingBeat: Deadly Gauntlet
+MSID_H_KillingBeat: High Crit.
+MSID_FlameDrill: Flame Drill
+MSID_H_FlameDrill: Multiplies damage dealt by {Variable=0}.
+MSID_FantasyRapid: Mirage
+MSID_H_FantasyRapid: Grants Avo{Variable=0} to unit and inflicts Avo{Variable=1}\non foe during combat.
+MSID_ViolentClaw: Violent Claw
+MSID_H_ViolentClaw: Strikes {Variable=0} times at {Variable=1}% damage.
+MSID_FlameRing: Flame Wheel
+MSID_H_FlameRing: Unit's follow-up occurs before foe's counter.\nTreated as a magical attack.
+MSID_CompressedBullet: Compressed Laser
+MSID_H_CompressedBullet: Treated as a magical attack.
+MSID_ShadowSlash: Dropshadow Blade{Variable=0}
+MSID_H_ShadowSlash: If foe is on favorable terrain, ignores those\nterrain effects.
+MSID_KnightSpear: Fierce Spear{Variable=0}
+MSID_H_KnightSpear: Unit cannot suffer a follow-up during\ncombat.
+MSID_MagicTwinAxe: Devilwind Flurry{Variable=0}
+MSID_H_MagicTwinAxe: Will make a follow-up regardless of AS\nduring combat. Trigger % = Mag ÷ 2.
+MSID_WarningShot: Warning Shot{Variable=0}
+MSID_H_WarningShot: Grants Avo{Variable=0} during combat.
+MSID_CautionBlow: Cautious Blow{Variable=0}
+MSID_H_CautionBlow: Grants Avo{Variable=0} during combat.
+MSID_BattleBlow: Battle Blow{Variable=0}
+MSID_H_BattleBlow: If unit's HP = 100%, grants Atk{Variable=0}.
+MSID_MagicBlow: Mystic Blow{Variable=0}
+MSID_H_MagicBlow: Treated as a magical attack.
+MSID_ClearMind: Clear Head
+MSID_H_ClearMind: Grants Def/Res Shift for 1 combat or 1 turn.\nDef/Res Shift: Swaps Def and Res.
+MSID_IncenseBurner: Censer
+MSID_Replacement: Swap
+MSID_H_Replacement: [Infantry] Unit and adjacent ally swap\nspaces. (Cannot use on large-scale allies.)
+MSID_Attract: Draw Back
+MSID_H_Attract: [Infantry] Unit and adjacent ally move {Variable=0}\n{SingularPlural0=space|spaces} back. (Cannot use on large-scale\nallies.)
+MSID_BodyAttack: Shove
+MSID_H_BodyAttack: [Infantry] Adjacent ally moves {Variable=0} {SingularPlural0=space|spaces}\nforward. (Cannot use on large-scale allies.)
+MSID_Guard: Defense Stance
+MSID_H_Guard: [Infantry] Grants Def{Variable=0} at cost of\nAvo{Variable=1} to unit until unit's next phase.
+MSID_MagicGuard: Resist Stance
+MSID_H_MagicGuard: [Infantry] Grants Res{Variable=0} at cost of\nAvo{Variable=1} to unit until unit's next phase.
+MSID_OffensiveCommand: Lend Strength{Variable=0}
+MSID_H_OffensiveCommand: Grants Str{Variable=0} to an ally until unit's\nnext phase.
+MSID_H_OffensiveCommand+: Grants Str{Variable=0} to an ally until unit's\nnext phase. Then unit can attack.
+MSID_DefenseCommand: Lend Defense{Variable=0}
+MSID_H_DefenseCommand: Grants Def{Variable=0} to an ally until unit's\nnext phase.
+MSID_H_DefenseCommand+: Grants Def{Variable=0} to an ally until unit's\nnext phase. Then unit can attack.
+MSID_MagicCommand: Lend Magic{Variable=0}
+MSID_H_MagicCommand: Grants Mag/Res{Variable=0} to an ally until unit's\nnext phase.
+MSID_H_MagicCommand+: Grants Mag/Res{Variable=0} to an ally until unit's\nnext phase. Then unit can attack.
+MSID_SpeedCommand: Lend Speed{Variable=0}
+MSID_H_SpeedCommand: Grants Spd{Variable=0} to an ally until unit's\nnext phase.
+MSID_H_SpeedCommand+: Grants Spd{Variable=0} to an ally until unit's\nnext phase. Then unit can attack.
+MSID_DestinyCommand: Lend Luck{Variable=0}
+MSID_H_DestinyCommand: Grants Lck{Variable=0} to an ally until unit's\nnext phase.
+MSID_H_DestinyCommand+: Grants Lck{Variable=0} to an ally until unit's\nnext phase. Then unit can attack.
+MSID_TechnicalCommand: Lend Dexterity{Variable=0}
+MSID_H_TechnicalCommand: Grants Dex{Variable=0} to an ally until unit's\nnext phase.
+MSID_H_TechnicalCommand+: Grants Dex{Variable=0} to an ally until unit's\nnext phase. Then unit can attack.
+MSID_Dance: Dance
+MSID_H_Dance: Allows an ally to act again.
+MSID_Trick: Foul Play
+MSID_H_Trick: Unit and ally in range swap spaces.\n(Cannot use on large-scale allies.)
+MSID_BlowAway: Propel
+MSID_H_BlowAway: [Infantry] Adjacent ally moves {Variable=0} {SingularPlural0=space|spaces}\nforward. (Cannot use on large-scale allies.)
+MSID_CourageSong: Song of Courage
+MSID_H_CourageSong: Grants Dex/Spd{Variable=0} to allies in range\nuntil unit's next phase.
+MSID_ProtectionSong: Song of Calm
+MSID_H_ProtectionSong: Grants Res{Variable=0} to allies in range\nuntil unit's next phase.
+MSID_EmotionalSong: Song of Feeling
+MSID_H_EmotionalSong: Grants Str{Variable=0} to allies in range\nuntil unit's next phase.
+MSID_FirstAidFormation: Patch-Up Stance
+MSID_H_FirstAidFormation: Extends range of Patch Up to {Variable=0}\nspaces until unit's next phase.
+MSID_KnightFormation: Teach Guardian
+MSID_H_KnightFormation: Grants Guardian's Duty to ally until\nunit's next phase.
+MSID_ArmorFuneralFormation: Teach Requiem
+MSID_H_ArmorFuneralFormation: Grants Requiem Style to ally until\nunit's next phase.
+MSID_BackupFormation: Brave-Assist Stance
+MSID_H_BackupFormation: Extends range of Brave Assist to\n{Variable=0} {SingularPlural0=space|spaces} until unit's next phase.
+MSID_FirstMoveFormation: Quick-Draw Order
+MSID_H_FirstMoveFormation: Grants Quick Draw to allies in range\nfor the current phase.
+MSID_OneShotFormation: Teach One Chance
+MSID_H_OneShotFormation: Grants One Chance to ally until\nunit's next phase.
+MSID_TransgressionFormation: Teach Monk Havoc
+MSID_H_TransgressionFormation: Grants Monkly Havoc to ally until\nunit's next phase.
+MSID_ForceForwardFormation: Barging Order
+MSID_H_ForceForwardFormation: Grants Barge Through to allies in range\nfor the current phase.
+MSID_CounterFormation: Counter Order
+MSID_H_CounterFormation: Grants Expert Counter to allies in range\nuntil unit's next phase.
+MSID_BodyguardFormation: Caretaker Stance
+MSID_H_BodyguardFormation: Extends range of Caretaker to {Variable=0} {SingularPlural0=space|spaces}\nuntil unit's next phase.
+MSID_ConcentratFormation: Clarity Order
+MSID_H_ConcentratFormation: Grants Warrior's Clarity to allies in range\nuntil unit's next phase.
+MSID_HunterFormation: Hunter's Order
+MSID_H_HunterFormation: Grants Hunter's Snare to allies in range\nuntil unit's next phase.
+MSID_StrongFormation: Veteran's Order
+MSID_H_StrongFormation: Grants Veteran's Mettle to allies in range\nuntil unit's next phase.
+MSID_BigAttackFormation: Power-Arts Order
+MSID_H_BigAttackFormation: Grants Power Arts to allies in range\nuntil unit's next phase.
+MSID_UnjuFormation: Teach Yun Shou
+MSID_H_UnjuFormation: Grants Yun Shou to an ally until\nunit's next phase.
+MSID_ViolenceFormation: Tyranny Order
+MSID_H_ViolenceFormation: Grants Tyranny to allies in range\nuntil unit's next phase.
+MSID_HealingFormation: Healing Order
+MSID_H_HealingFormation: Grants Healing Knowledge to allies in range\nuntil unit's next phase.
+MSID_SafeguardFormation: Safety-First Order
+MSID_H_SafeguardFormation: Grants Safety First to allies in range\nuntil unit's next phase.
+MSID_GaleFormation: Squall Order
+MSID_H_GaleFormation: Grants Punishing Squall to allies in range\nfor the current phase.
+MSID_SoulStrike: Hidden Soulrend{Variable=0}
+MSID_H_SoulStrike: Unit recovers HP equal to half the\ndamage they deal.
+MSID_SwallowDrop: Hidden Birdbane{Variable=0}
+MSID_H_SwallowDrop: If foe is flying and unit's attack hits,\ninflicts Mov{Variable=0} on foe until unit's\nnext phase.
+MSID_Ryusui: Hidden Flowform{Variable=0}
+MSID_H_Ryusui: Grants Avo{Variable=0} to unit and unit makes a\nfollow-up regardless of AS, but unit deals\nhalf damage during combat.
+MSID_DemonSlayer: Hidden Giantsbane{Variable=0}
+MSID_H_DemonSlayer: If foe is large scale, unit takes half damage\nduring combat.
+MSID_WindJavelin: Hidden Windpierce{Variable=0}
+MSID_H_WindJavelin: If foe's AS ≥ unit's AS+{Variable=0}, grants Hit{Variable=1}\nto unit. (Only usable by spears with\nRng = 1-2.)
+MSID_SwordKiller: Hidden Twinblade{Variable=0}
+MSID_H_SwordKiller: Grants Ddg{Variable=0} to unit during combat and\nafter combat until unit's next phase.
+MSID_ForcedSniper: Hidden Truesnipe{Variable=0}
+MSID_H_ForcedSniper: Long Rng. Very high durability cost.\nCannot make a follow-up.
+MSID_DefeatingFist: Hidden Evilbreak{Variable=0}
+MSID_H_DefeatingFist: If unit's attack hits, neutralizes\nUnderworld Boon on foe through\ntheir next combat.
+MSID_DragonSlayer: Hidden Bladerule{Variable=0}
+MSID_H_DragonSlayer: Extremely high Crit. Sets hit % to {Variable=0}.\nCannot make a follow-up.
+MSID_SoulCrown: Diadem of Duality
+MSID_H_SoulCrown: Grants Atk{Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_ApostolicCrown: Diadem of the Apostle
+MSID_H_ApostolicCrown: Grants Hit{Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_EarthCrown: Diadem of the Earth
+MSID_H_EarthCrown: Grants Atk{Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_WinnerCrown: Diadem of the Victor
+MSID_H_WinnerCrown: Grants Atk{Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_CourageCrown: Diadem of Valor
+MSID_H_CourageCrown: Multiplies damage by {Variable=1} when\nattacking. Trigger % = {Variable=0}.
+MSID_LibraCrown: Diadem of Balance
+MSID_H_LibraCrown: Unit cannot be countered. Trigger % = {Variable=0}.
+MSID_EternalCrown: Diadem of the Endless
+MSID_H_EternalCrown: Restores some HP to unit when attacking.\nTrigger % = {Variable=0}.
+MSID_PlayCrown: Diadem of Revival
+MSID_H_PlayCrown: Restores a little HP to unit when attacking.\nTrigger % = {Variable=0}.
+MSID_BondageCrown: Diadem of Fetters
+MSID_H_BondageCrown: Multiplies damage by {Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_HermitCrown: Diadem of Reflection
+MSID_H_HermitCrown: Grants Hit{Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_DedicationCrown: Diadem of Constancy
+MSID_H_DedicationCrown: Restores a lot of HP to unit when attacking.\nTrigger % = {Variable=0}.
+MSID_ProphetCrown: Diadem of the Auger
+MSID_H_ProphetCrown: Grants Hit{Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_IgnoranceCrown: Diadem of the Fanatic
+MSID_H_IgnoranceCrown: Grants Atk{Variable=1}, Hit{Variable=1} when attacking.\nTrigger % = {Variable=0}.
+MSID_WisemanCrown: Diadem of Sagacity
+MSID_H_WisemanCrown: Restores some HP to unit and grants\nAtk{Variable=1} when attacking. Trigger % = {Variable=0}.
+MSID_ClawStrike: Clawing Strike
+MSID_H_ClawStrike: If unit's attack hits, inflicts Def{Variable=0} on foe\nuntil unit's next phase.
+MSID_BigDust: Sandstorm
+MSID_H_BigDust: If unit's attack hits, inflicts Immobilize\non foe.
+MSID_RockThrow: Boulder Throw
+MSID_H_RockThrow: Area attack on spaces in range.
+MSID_Titanomachy: Titanomachy
+MSID_H_Titanomachy: If unit's attack hits, inflicts Spd{Variable=0} on foe\nuntil unit's next phase.
+MSID_AnnihilationSlash: Annihilating Slash
+MSID_H_AnnihilationSlash: If unit's attack hits, inflicts Res{Variable=0} on foe\nuntil unit's next phase.
+MSID_BodyPress: Body Press
+MSID_H_BodyPress: Area attack on spaces in range. Unit attacks\nwhile moving.
+MSID_CrackSky: Sky Fissure
+MSID_H_CrackSky: If unit's attack hits, inflicts Immobilize\non foe.
+MSID_GreatWhirlwind: Cyclone
+MSID_H_GreatWhirlwind: A magic attack. If unit's attack hits,\ninflicts Immobilize on foe.
+MSID_HeavyRush: Heavy Charge
+MSID_H_HeavyRush: Unit attacks while moving.
+MSID_H_HeavyRush_P: Unit attacks while moving. After combat,\ngrants Shld{Variable=0} until unit's next phase.
+MSID_Rush: Charge
+MSID_H_Rush: Unit attacks while moving.
+MSID_H_Rush_P: Unit attacks while moving. After combat,\ngrants Def{Variable=0} until unit's next phase.
+MSID_Flash: Flash
+MSID_H_Flash: If unit's attack hits, halves foe's Shld until\nunit's next phase.
+MSID_GiantSlalom: Grand Spin
+MSID_H_GiantSlalom: Area attack on spaces in range.
+MSID_MiasmaBreath: Miasma Breath
+MSID_H_MiasmaBreath: A magic attack. If unit's attack hits,\ninflicts Confusion on foe.
+MSID_LightBreath: Glow Breath
+MSID_H_LightBreath: A magic attack.
+MSID_FlameBreath: Flame Breath
+MSID_H_FlameBreath: A magic attack.
+MSID_PoisonBreath: Poison Breath
+MSID_H_PoisonBreath: A magic attack. If unit's attack hits,\ninflicts Poison on foe.
+MSID_RadioWave: Toxic Thunderwave
+MSID_H_RadioWave: Area attack on spaces in range.\nInflicts Confusion on foes in range.
+MSID_MendeZeruel: Mendezerel
+MSID_H_MendeZeruel: A magic area attack on spaces in\nrange.
+MSID_FallEclipse: Shadow of Despair
+MSID_H_FallEclipse: A magic attack. If unit's attack hits,\ninflicts Immobilize on foe.
+MSID_PowerEfficacy: Str Effect{Variable=0}
+MSID_H_PowerEfficacy: Grants Str{Variable=0}.
+MSID_SpeedEfficacy: Spd Effect{Variable=0}
+MSID_H_SpeedEfficacy: Grants Spd{Variable=0}.
+MSID_CriticalEfficacy: Crit Effect{Variable=0}
+MSID_H_CriticalEfficacy: Grants Crit{Variable=0}.
+MSID_AvoidEfficacy: Avo Effect{Variable=0}
+MSID_H_AvoidEfficacy: Grants Avo{Variable=0}.
+MSID_PursuitEfficacy: Follow-Up Effect{Variable=0}
+MSID_H_PursuitEfficacy: Grants Atk{Variable=0} when making a follow-up.
+MSID_ActiveEfficacy: Revitalize{Variable=0}
+MSID_H_ActiveEfficacy: After combat, allows unit to act again.\nTrigger % = {Variable=0}.
+MSID_FearlessEfficacy: Daring
+MSID_H_FearlessEfficacy: Grants Atk{Variable=0} at cost of Avo{Variable=1}.
+MSID_OutragedEfficacy: Fury
+MSID_H_OutragedEfficacy: Grants Atk{Variable=0} at cost of Hit{Variable=1}.
+MSID_CombatEfficacy: Arts Effect{Variable=0}
+MSID_H_CombatEfficacy: Grants Atk{Variable=0}, Hit{Variable=1} when attacking\nwith a combat art.
+MSID_SharpEfficacy: Arts Durability
+MSID_H_SharpEfficacy: When using a combat art, reduces weapon\ndurability cost to 0 during combat.\nTrigger % = {Variable=0}.
+MSID_ImmunityEfficacy: Poison Resist
+MSID_H_ImmunityEfficacy: Unit cannot be Poisoned.
+MSID_TechniqueEfficacy: Dex Effect{Variable=0}
+MSID_H_TechniqueEfficacy: Grants Dex{Variable=0}.
+MSID_DefenseEfficacy: Def Effect{Variable=0}
+MSID_H_DefenseEfficacy: Grants Def{Variable=0}.
+MSID_HitEfficacy: Hit Effect{Variable=0}
+MSID_H_HitEfficacy: Grants Hit{Variable=0}.
+MSID_ImmovableEfficacy: Resist Immobilize
+MSID_H_ImmovableEfficacy: Unit cannot be Immobilized.
+MSID_MovingEfficacy: Mov Effect{Variable=0}
+MSID_H_MovingEfficacy: Grants Mov{Variable=0}.
+MSID_HealingEfficacy: Heal Effect{Variable=0}
+MSID_H_HealingEfficacy: After combat, restores a little HP to unit.\nTrigger % = {Variable=0}.
+MSID_BigHealingEfficacy: Max Healing
+MSID_H_BigHealingEfficacy: After combat, restores all HP to unit.\nTrigger % = {Variable=0}.
+MSID_PhysiqueEfficacy: Bld Effect
+MSID_H_PhysiqueEfficacy: Grants Bld{Variable=0}.
+MSID_LifeEfficacy: HP Effect{Variable=0}
+MSID_H_LifeEfficacy: Grants max HP{Variable=0}.
+MSID_MPowerEfficacy: Mag Effect{Variable=0}
+MSID_H_MPowerEfficacy: Grants Mag{Variable=0}.
+MSID_MDefenseEfficacy: Res Effect{Variable=0}
+MSID_H_MDefenseEfficacy: Grants Res{Variable=0}.
+MSID_LuckEfficacy: Lck Effect{Variable=0}
+MSID_H_LuckEfficacy: Grants Lck{Variable=0}.
+MSID_RecoveryEfficacy: Recovery Effect{Variable=0}
+MSID_H_RecoveryEfficacy: When healing an ally with magic, restores\n{Variable=0} HP.
+MSID_ResistEfficacy: Magic Seal Resist
+MSID_H_ResistEfficacy: Unit cannot be Silenced.
+MSID_SerenityEfficacy: Calm{Variable=0}
+MSID_H_SerenityEfficacy: When using magic, reduces magic cost to 0\nduring combat. Trigger % = {Variable=0}.
+MSID_AbsorptionEfficacy: Absorption{Variable=0}
+MSID_H_AbsorptionEfficacy: Unit recovers HP equal to half the damage\nthey deal when attacking with magic.\nTrigger % = {Variable=0}.
+MSID_VisionEfficacy: Vis Effect
+MSID_H_VisionEfficacy: Grants Vis{Variable=0}.
+MSID_WeightEfficacy: Fast Magic
+MSID_H_WeightEfficacy: When equipped with magic, grants AS{Variable=0}.
+MSID_CharmEfficacy: Cha Effect{Variable=0}
+MSID_H_CharmEfficacy: Grants Cha{Variable=0}.
+MSID_ForwardConfusion: Disturbing Strike
+MSID_AssaultConfusion: Disturbing Push
+MSID_ShootingConfusion: Disturbing Volley
+MSID_AssaultStrategy: All-Out Offensive
+MSID_Brawl: Stampede
+MSID_FireStrategy: Blaze
+MSID_PoisonStrategy: Poison Tactics
+MSID_GreatFireStrategy: Blaze+
+MSID_GreatPoisonStrategy: Poison Tactics+
+MSID_CavalryConfusion: Disturb-Rider Tactics
+MSID_AntiairConfusion: Disturb-Flier Tactics
+MSID_FlameSpread: Scattered Flames
+MSID_SurroundingIce: Encircling Ice
+MSID_DirectionThunder: Crossed Lightning
+MSID_SealingStrategy: Magic-Ward Tactics
+MSID_SiegeStrategy: Gambit-Ward Tactics
+MSID_CollectiveWhite: Splash Recover
+MSID_FormationRecovery: Column Recovery
+MSID_ResonanceWhite: Resonance Recover
+MSID_FormationWings: Flank-Guard Formation
+MSID_FormationTwin: Rampart Formation
+MSID_FormationSnake: Serpent Formation
+MSID_FormationDirections: Quad Formation
+MSID_FormationScattered: Cross Defenders
+MSID_FormationIronclad: Bulwark Formation
+MSID_FormationEagle: Flank Formation+
+MSID_FormationCrane: Wing Formation
+MSID_FormationCobra: Serpent Formation+
+MSID_FormationSquare: Enclosing Formation
+MSID_GreatForwardConfusion: Disturbing Strike+
+MSID_GreatAssaultConfusion: Disturbing Onslaught
+MSID_GreatShootingConfusion: Disturbing Volley+
+MSID_GreatAssaultStrategy: All-Out Offensive+
+MSID_SniperConfusion: Disturbing Deadeye
+MSID_GreatSniperConfusion: Disturbing Deadeye+
+MSID_SpearWall: Line of Lances
+MSID_GreatSpearWall: Line of Lances+
+MSID_SurroundingFire: Encircling Flames
+MSID_SurroundingThunder: Encircling Lightning
+MSID_IceSpread: Scattering Ice
+MSID_ThunderSpread: Scattering Lightning
+MSID_FlameShooting: Fireshot Tactics
+MSID_IceShooting: Iceshot Tactics
+MSID_ThunderShooting: Lightning-Shot Tactics
+MSID_DefenseMagicFire: Fireguard
+MSID_DefenseMagicIce: Iceguard
+MSID_DefenseMagicThunder: Lightning Guard
+MSID_IceLine: Ice Line
+MSID_ThunderLine: Lightning Line
+MSID_IceWorld: Ice Domain
+MSID_ThunderWorld: Lightning Domain
+MSID_GreatFormationRecovery: Column Recovery+
+MSID_GroupDetoxify: Group Detoxification
+MSID_JointRecovery: Joint Recovery
+MSID_GreatJointRecovery: Joint Recovery+
+MSID_DistantRecovery: Distant Recovery
+MSID_GreatDistantRecovery: Distant Recovery+
+MSID_WidespreadRecovery: Extensive Recovery
+MSID_GreatWidespreadRecovery: Extensive Recovery+
+MSID_MixedPoisonMagic: Mixed Poison Recovery
+MSID_FullRecovery: Complete Recovery
+MSID_WavesWhite: Wave Recovery
+MSID_FormationLine: Vertical Formation
+MSID_GreatFormationLine: Vertical Formation+
+MSID_GreatFormationIronclad: Bulwark Formation+
+MSID_FormationThree: Tri-Front Formation
+MSID_GreatFormationThree: Tri-Front Formation+
+MSID_FormationDoubleWings: Dual-Wing Formation
+MSID_FormationDoubleWalls: Two-Wall Formation
+MSID_FormationDoubleForts: Two-Fort Formation
+MSID_FormationFence: Palisade Formation
+MSID_FormationDivided: Divided Formation
+MSID_FormationCastle: Fortress Formation
+MSID_H_ForwardConfusion: If unit's attack hits, inflicts Immobilize\non foe.
+MSID_H_AssaultStrategy: A mighty physical attack.
+MSID_H_FireStrategy: Applies Flame to spaces in range.
+MSID_H_PoisonStrategy: If unit's attack hits, inflicts Poison on foe.
+MSID_H_CavalryConfusion: Effective vs. cavalry. If foe is cavalry and\nunit's attack hits, inflicts Immobilize on foe.
+MSID_H_AntiairConfusion: Effective+ vs. flying. If foe is flying and\nunit's attack hits, inflicts Immobilize on foe.
+MSID_H_FlameSpread: Magical area attack on spaces in range.
+MSID_H_SealingStrategy: If unit's attack hits, inflicts Silence on foe.
+MSID_H_SiegeStrategy: If unit's attack hits, inflicts Foil on foe.
+MSID_H_FormationWings: Makes spaces in range impassable.
+MSID_H_DefenseMagic: Magical area attack on spaces in range.\nGrants Shld{Variable=0} for each hit until unit's\nnext phase.
+MSID_H_GroupRecoveryS: Restores a little HP to allies in range.
+MSID_H_GroupRecoveryM: Restores some HP to allies in range.
+MSID_H_GroupRecoveryL: Restores a lot of HP to allies in range.
+MSID_H_GroupDetoxify: Removes Poison from allies in range.
+MSID_H_JointRecoveryS: Restores a little HP to allies in range.\nUnit recovers a little HP for each ally.
+MSID_H_JointRecoveryM: Restores some HP to allies in range.\nUnit recovers a little HP for each ally.
+MSID_H_MixedPoisonMagic: Restores a lot of HP to allies in range.\nInflicts Poison on allies in range.
+MSID_H_FullRecovery: Restores all HP to allies in range.
+MSID_H_ForwardConfusion_Bow: Effective+ vs. flying. If unit's attack hits,\ninflicts Immobilize on foe.
+MSID_H_AssaultStrategy_Spear: A mighty physical attack. Effective vs.\ncavalry.
+MSID_Fotona: Fortuna's Blessing
+MSID_H_Fotona: Revisit your actions on a map.
+MSID_Mars: Mars's Blessing
+MSID_H_Mars1: Grants Hit{Variable=0} to physical attacks for 1 turn.
+MSID_H_Mars2: Restores some HP when defeating a foe for 1 turn.
+MSID_H_Mars3: Grants Str{Variable=0} for 1 turn.
+MSID_Clair: Credna's Blessing
+MSID_H_Clair1: Grants Vis{Variable=0} for 1 turn.
+MSID_H_Clair2: Reduces weapon durability costs to 0 for 1 turn.
+MSID_H_Clair3: Attack first during combat in enemy's phase for 1 turn.
+MSID_Cara: Kalla's Blessing
+MSID_H_Cara1: Grants Avo{Variable=0} for 1 turn.
+MSID_H_Cara2: Grants Spd{Variable=0} for 1 turn.
+MSID_H_Cara3: Grants Mov{Variable=0} for 1 turn.
+MSID_Juno: Jurah's Blessing
+MSID_H_Juno1: Neutralizes foe's effective damage.
+MSID_H_Juno2: Cannot suffer follow-ups for 1 turn.
+MSID_H_Juno3: Cannot suffer criticals for 1 turn.
+MSID_Smirnoth: Smyrnos's Blessing
+MSID_H_Smirnoth1: Grants Hit{Variable=0} to magical attacks for 1 turn.
+MSID_H_Smirnoth2: Grants Rng{Variable=0} to magic for 1 turn.
+MSID_H_Smirnoth3: Grants Mag{Variable=0} for 1 turn.
+MSID_Aurora: Aurora's Blessing
+MSID_H_Aurora1: Halves damage from physical attacks for 1 turn.
+MSID_H_Aurora2: Halves damage from magical attacks for 1 turn.
+MSID_H_Aurora3: Neutralizes Underworld Boon on foe for 1 turn.
+MSID_ReMove: Canto{Variable=0}
+MSID_H_ReMove: [Cavalry] After combat, unit can move up\nto {Variable=0} {SingularPlural0=space|spaces}.
+MSID_SharedRunning: Paired Run{Variable=0}
+MSID_H_SharedRunning: [Cavalry] Grants Mov{Variable=0}.
+MSID_SharedArousal: Paired Alertness{Variable=0}
+MSID_H_SharedArousal: [Cavalry] Grants Ddg{Variable=0}.
+MSID_SharedConcentration: Paired Arts-Focus{Variable=0}
+MSID_H_SharedConcentration: [Cavalry] Grants Hit{Variable=0} when attacking\nwith a combat art.
+MSID_SharedOnslaught: Paired Fierce-Arts{Variable=0}
+MSID_H_SharedOnslaught: [Cavalry] Grants Atk{Variable=0} when attacking\nwith a combat art.
+MSID_SharedMiracle: Paired Miracle{Variable=0}
+MSID_H_SharedMiracle: [Cavalry] Grants Lck{Variable=0}.
+MSID_SharedHealing: Paired Healing{Variable=0}
+MSID_H_SharedHealing: [Cavalry] After combat, restores a little HP\nto unit.
+MSID_H_SharedHealing+: [Cavalry] After combat, restores some HP\nto unit.
+MSID_SharedCovert: Paired Stealth{Variable=0}
+MSID_H_SharedCovert: [Cavalry] If unit is on favorable terrain,\ngrants Avo{Variable=0} during combat.
+MSID_H_SharedCovert+: [Cavalry] If unit is on favorable terrain,\ngrants Avo{Variable=0}, Shld{Variable=1} during combat.
+MSID_SharedPurification: Paired Purify{Variable=0}
+MSID_H_SharedPurification: [Cavalry] At start of unit's phase, removes\nPoison from unit. Trigger % = {Variable=0}.
+MSID_H_SharedPurification+: [Cavalry] At start of unit's phase, removes\nPoison from unit.
+MSID_SharedHuge: Paired Bulk{Variable=0}
+MSID_H_SharedHuge: [Cavalry] Grants Bld{Variable=0}.
+MSID_SharedProtection: Paired Protection{Variable=0}
+MSID_H_SharedProtection: [Cavalry] Reduces damage to {Variable=0}% when\nattacked with a critical.
+MSID_SharedMagicFocus: Paired Magic-Focus{Variable=0}
+MSID_H_SharedMagicFocus: [Cavalry] When equipped with magic,\ngrants Hit{Variable=0}.
+MSID_SharedMagicSharpness: Paired Magic-Sight{Variable=0}
+MSID_H_SharedMagicSharpness: [Cavalry] When equipped with magic,\ngrants Crit{Variable=0}.
+MSID_FlyingReMove: Flying Canto{Variable=0}
+MSID_H_FlyingReMove: [Flying] After combat, unit can move\nup to {Variable=0} {SingularPlural0=space|spaces}.
+MSID_SharedFlight: Paired Streak{Variable=0}
+MSID_H_SharedFlight: [Flying] Grants Mov{Variable=0}.
+MSID_SharedAntiMagic: Paired Mage-Kill{Variable=0}
+MSID_H_SharedAntiMagic: [Flying] If foe uses magic, grants Atk{Variable=0}\nduring combat.
+MSID_SharedSMagic: Paired Magic Speed{Variable=0}
+MSID_H_SharedSMagic: [Flying] When equipped with magic,\ngrants AS{Variable=0}.
+MSID_SharedWind: Paired Tempest{Variable=0}
+MSID_H_SharedWind: [Flying] If foe uses a bow, grants Avo{Variable=0}\nduring combat.
+MSID_SharedStorm: Paired Stormwind{Variable=0}
+MSID_H_SharedStorm: [Flying] Grants Atk{Variable=0} when making\na follow-up.
+MSID_H_SharedConcentrationFlight: [Flying] Grants Hit{Variable=0} when attacking\nwith a combat art.
+MSID_H_SharedOnslaughtFlight: [Flying] Grants Atk{Variable=0} when attacking\nwith a combat art.
+MSID_SharedTough: Paired Resilience{Variable=0}
+MSID_H_SharedTough: [Flying] If foe is effective against unit,\nreduces damage to {Variable=0}% when attacked.
+MSID_H_SharedTough+: [Flying] If foe is effective against unit, unit\ntakes half damage when attacked.
+MSID_SharedMigration: Paired Dash{Variable=0}
+MSID_H_SharedMigration: [Cavalry] Grants Mov{Variable=0}.
+MSID_PoisonAttack: Poison Attack
+MSID_H_PoisonAttack: If unit's attack hits, inflicts Poison on foe.
+MSID_Poisoner: Poisoned Weapon
+MSID_H_Poisoner: If unit's attack hits, inflicts Poison on foe.
+MSID_WaterCrossing: Cross Water
+MSID_H_WaterCrossing: If unit is on aquatic terrain, grants Avo{Variable=0}.
+MSID_Vitality: Regenerate
+MSID_H_Vitality: At start of unit's phase, restores a little HP.
+MSID_ProtectiveBarrier: Protect Allies
+MSID_H_ProtectiveBarrier: Grants Shld{Variable=0} to adjacent allies.
+MSID_GodlyBody: Divine Protection
+MSID_H_GodlyBody: If unit's HP ≥ {Variable=0} and damage would\nreduce it to 0, leaves unit with 1 HP.
+MSID_Beckoning: Send Under
+MSID_H_Beckoning: If unit's attack hits, inflicts max HP{Variable=0}\non foe.
+MSID_CorpseEater: Corpse Eater
+MSID_H_CorpseEater: After defeating a foe, restores {Variable=0} HP\nto unit.
+MSID_BloodThirst: Thirst for Gore
+MSID_H_BloodThirst: If unit's attack hits, restores {Variable=0} HP to unit.
+MSID_Activation: Renewal
+MSID_H_Activation: Increases how much HP Regenerate\nrestores.
+MSID_FocusMode: Focused
+MSID_H_FocusMode: Grants Hit{Variable=0}.
+MSID_SpeedMode: Quick
+MSID_H_SpeedMode: Grants Spd{Variable=0}, Mov{Variable=1}.
+MSID_BigWings: Large Wingspan
+MSID_H_BigWings: Grants Avo{Variable=0} during combat against an\nadjacent foe.
+MSID_Calamity: Disastrous
+MSID_H_Calamity: Grants Atk/Shld{Variable=0}.
+MSID_PoisonLayer: Poison Advantage
+MSID_H_PoisonLayer: If foe is Poisoned, grants Hit{Variable=0} to unit\nduring combat.
+MSID_PoisonTrap: Poison Trap
+MSID_H_PoisonTrap: In enemy's phase, if foe is Poisoned,\nunit attacks first during combat.
+MSID_FreshlyAttacked: Desperation
+MSID_H_FreshlyAttacked: Unit's follow-up occurs before foe's counter.
+MSID_AirRaid: Terror from Above
+MSID_H_AirRaid: Unit cannot be countered.
+MSID_Runaway: Frenzy
+MSID_H_Runaway: Grants Mov{Variable=0}.
+MSID_SoaringSoul: Overflowing Soul
+MSID_H_SoaringSoul: At start of unit's phase, restores a little HP.
+MSID_DivineAwakening: Divine Awakening
+MSID_H_DivineAwakening: Grants Str/Mag/Dex/Spd/Lck/Def/Res{Variable=0}.
+MSID_SoulEater: Devour Soul
+MSID_H_SoulEater: After defeating a foe, restores {Variable=0} HP\nto unit.
+MSID_ValorShield: Balor's Godshield
+MSID_H_ValorShield: Unit takes half damage when attacked.
+MSID_AbsolutePursuit: Relentless Pursuit
+MSID_H_AbsolutePursuit: Unit makes a follow-up regardless of\nAS during combat.
+MSID_GreatMagicBarrier: Dilute Magic
+MSID_H_GreatMagicBarrier: Unit takes half damage when attacked with\na magical attack.
+MSID_PoisonKiller: Amplify Poison
+MSID_H_PoisonKiller: If foe is Poisoned, grants Atk{Variable=0} to unit\nduring combat.
+MSID_DarkLight: Dark Light
+MSID_H_DarkLight: After combat, restores a little HP.
+MSID_DarkBrightly: Dark Brilliance
+MSID_H_DarkBrightly: Increases how much HP Dark Light\nrestores.
+MSID_MagicCannon: Magic Cannon
+MSID_H_MagicCannon: Grants Rng{Variable=0} to magic.
+MSID_DarkProtection: Underworld Boon
+MSID_H_DarkProtection: If foe is not effective against unit, unit takes\nhalf damage when attacked.
+MSID_GeneralStar: General
+MSID_H_GeneralStar: Cannot suffer the same status twice. Unit\ntakes half damage when attacked with a\ngambit.
+MSID_LittleGeneralStar: Captain
+MSID_H_LittleGeneralStar: Unit takes half damage when attacked\nwith a gambit.
+MSID_BigGeneralStar: Commander
+MSID_H_BigGeneralStar: Cannot suffer the same status twice.\nUnit takes half damage from gambits\nand effective attacks.
+MSID_GaleStance: Breeze Stance
+MSID_H_GaleStance: Grants Spd{Variable=0}.
+MSID_FogStance: Haze Stance
+MSID_H_FogStance: Grants max HP/Str/Def{Variable=0}, Spd{Variable=1},\nAvo{Variable=2}.
+MSID_RockStance: Holy-Stone Stance
+MSID_H_RockStance: Grants max HP{Variable=0}, Str{Variable=1}, Def{Variable=2}.
+MSID_GaleToeFog: Haze Dance
+MSID_H_GaleToeFog: Switches from Breeze Stance to\nHaze Stance.
+MSID_FogToeRock: Stone Still
+MSID_H_FogToeRock: Switches from Haze Stance to\nHoly-Stone Stance.
+MSID_SkyBarrier: Careful Flying
+MSID_H_SkyBarrier: If foe is effective+ against flying, reduces\ndamage to {Variable=0}% when attacked.
+MSID_EarthShield: Sublime Godshield
+MSID_H_EarthShield: Unit takes half damage when attacked by a\nfire orb or ballista. Cannot be defeated by\nsuch attacks.
+MSID_AutoReboot: Forced to Restart
+MSID_H_AutoReboot: After combat, if unit was attacked, removes\nParalysis.
+MSID_FlyingEffectiveDisable: Flying Effect Null
+MSID_H_FlyingEffectiveDisable: Neutralizes effective vs. flying.
+MSID_CavalryEffectiveDisable: Cavalry Effect Null
+MSID_H_CavalryEffectiveDisable: Neutralizes effective vs. cavalry.
+MSID_ArmorEffectiveDisable: Armored Effect Null
+MSID_H_ArmorEffectiveDisable: Neutralizes effective vs. armored.
+MSID_DragonEffectiveDisable: Dragon Effect Null
+MSID_H_DragonEffectiveDisable: Neutralizes effective vs. dragons.
+MSID_BeastEffectiveDisable: Beast Effect Null
+MSID_H_BeastEffectiveDisable: Neutralizes effective vs. beasts.
+MSID_HellEffectiveDisable: Undead Effect Null
+MSID_H_HellEffectiveDisable: Neutralizes effective vs. undead.
+MSID_AllEffectiveDisable: All Effects Null
+MSID_H_AllEffectiveDisable: Neutralizes effective damage.
+MSID_HalfProtection: Cracking Hurdle
+MSID_H_HalfProtection: Unit takes half damage when attacked.\n(Canceled after {Variable=0} {SingularPlural0=attack|attacks}.)
+MSID_HalfDefenseProtection: Cracking Wall
+MSID_H_HalfDefenseProtection: Unit takes no damage when attacked.\n(Canceled after {Variable=0} {SingularPlural0=attack|attacks}.)
+MSID_Protection: Hurdle
+MSID_H_Protection: Unit takes half damage when attacked.\n(Canceled after {Variable=0} {SingularPlural0=attack|attacks}.)
+MSID_RecoveryProtection: Returning Hurdle
+MSID_H_RecoveryProtection: Unit takes half damage when attacked.\nDestroyed if attacked {Variable=0} {SingularPlural0=time|times}.\nRecovers to full durability every {Variable=1} {SingularPlural1=turn|turns}.
+MSID_RecoveryDefenseProtection: Returning Wall
+MSID_H_RecoveryDefenseProtection: Unit takes no damage when attacked.\nDestroyed if attacked {Variable=0} {SingularPlural0=time|times}.\nRecovers to full durability every {Variable=1} {SingularPlural1=turn|turns}.
+MSID_HellDragonProtection: Dragonscale Wall
+MSID_H_HellDragonProtection: If durability is at 1-4, unit takes half damage;\nif durability is at 5-8, unit takes no damage.\nRecovers to full durability every {Variable=0} {SingularPlural0=turn|turns}.
+MSID_InvincibleProtection: Invulnerable Wall
+MSID_H_InvincibleProtection: Unit takes no damage when attacked.\n(Never canceled.)
+MSID_EnemyPotential_HP: Max HP{Variable=0}
+MSID_H_EnemyPotential_HP: Grants max HP{Variable=0}.
+MSID_EnemyPotential_Str: Str{Variable=0}
+MSID_H_EnemyPotential_Str: Grants Str{Variable=0}.
+MSID_EnemyPotential_Def: Def{Variable=0}
+MSID_H_EnemyPotential_Def: Grants Def{Variable=0}.
+MSID_EnemyPotential_Spd: Spd{Variable=0}
+MSID_H_EnemyPotential_Spd: Grants Spd{Variable=0}.
+MSID_EnemyPotential_Mag: Mag{Variable=0}
+MSID_H_EnemyPotential_Mag: Grants Mag{Variable=0}.
+MSID_EnemyPotential_Res: Res{Variable=0}
+MSID_H_EnemyPotential_Res: Grants Res{Variable=0}.
+MSID_EnemyPotential_Hit: Hit{Variable=0}
+MSID_H_EnemyPotential_Hit: Grants Hit{Variable=0}.
+MSID_EnemyPotential_Avoid: Avo{Variable=0}
+MSID_H_EnemyPotential_Avoid: Grants Avo{Variable=0}.
+MSID_TribalSongD: Defense Chant
+MSID_H_TribalSongD: Grants Def{Variable=0} to all allies through the\nend of the next turn.
+MSID_TribalSongM: Prayer Chant
+MSID_H_TribalSongM: Grants Res{Variable=0} to all allies through the\nend of the next turn.
+MSID_TribalSongA: Hunting Chant
+MSID_H_TribalSongA: Grants Atk{Variable=0} to all allies through the\nend of the next turn.
+MSID_H_FrenzySongAll: Inflicts Confusion on all foes.
+MSID_H_EnthusiasticSongAll: Grants Atk{Variable=0} to all allies\nuntil unit's next phase.
+MSID_H_FrozenSongAll: Grants Shld{Variable=0} to all allies\nuntil unit's next phase.
+MSID_BalorAttack: Abyssal Claw
+MSID_SpecialSniperAvoid: Great Sniper Evasion
+MSID_H_SpecialSniperAvoid: Grants Avo{Variable=1} during combat with\na foe {Variable=0}+ {SingularPlural0=space|spaces} away.
+MSID_AnhEnhance: Conviction
+MSID_H_R_Hp_Def: Grants HP{Variable=0}, Def{Variable=1}.
+MSID_DefenseBattleBuff: Carnage Rush{Variable=0}
+MSID_H_DefenseBattleBuff: Grants Str/Mag/Spd/Def/Res{Variable=0}.
+MSID_Poison: Poison
+MSID_H_Poison: At start of unit's phase, unit takes a little\ndamage. (Canceled after {Variable=0} {SingularPlural0=turn|turns}.)
+MSID_Confusion: Confusion
+MSID_H_Confusion: Cannot counter for the current phase.\n(Canceled after {Variable=0} {SingularPlural0=combat|combats}.)
+MSID_NoMagic: Silence
+MSID_H_NoMagic: Cannot use magic. (Canceled after\n{Variable=0} {SingularPlural0=turn|turns}.)
+MSID_NoStrategy: Foil
+MSID_H_NoStrategy: Cannot use gambits. (Canceled after\n{Variable=0} {SingularPlural0=turn|turns}.)
+MSID_NoMove: Immobilize
+MSID_H_NoMove: Cannot move. (Canceled after {Variable=0} {SingularPlural0=turn|turns}.)
+MSID_NoAction: Paralysis
+MSID_H_NoAction: Cannot act. (Canceled after {Variable=0} {SingularPlural0=turn|turns}.)
+MSID_Collapse: Numb
+MSID_H_Collapse: Halves Hit. (Canceled after {Variable=0} {SingularPlural0=combat|combats} or\n{Variable=1} {SingularPlural1=turn|turns}.)
+MSID_Slowing: Slow
+MSID_H_Slowing: Halves AS. (Canceled after {Variable=0} {SingularPlural0=combat|combats} or\n{Variable=1} {SingularPlural1=turn|turns}.)
+MSID_Unrack: Jinx
+MSID_H_Unrack: Halves Lck. (Canceled after {Variable=0} {SingularPlural0=combat|combats} or\nin {Variable=1} {SingularPlural1=turn|turns}.)
+MSID_AttackChange: Str/Mag Shift
+MSID_H_AttackChange: Swaps Str and Mag. (Canceled after\n{Variable=0} {SingularPlural0=combat|combats} or {Variable=1} {SingularPlural1=turn|turns}.)
+MSID_DefenseChange: Def/Res Shift
+MSID_H_DefenseChange: Swaps Def and Res. (Canceled after\n{Variable=0} {SingularPlural0=combat|combats} or {Variable=1} {SingularPlural1=turn|turns}.)
+MSID_Lizaia: Nosferatu
+MSID_Barrier: Barrier
+MSID_MagicShield: Ward
+MSID_Emergence: Emergis
+MSID_Regeia: Regenera
+MSID_Warm: Swarm Ζ
+MSID_Luna: Luna Λ
+MSID_HolyWater: Pure Water
+MSID_PeaceDew: Dew of Peace
+MSID_BlessingDew: Dew of Protection
+MSID_Antidote: Antitoxin
+MSID_HitAle: Linaria Juice
+MSID_BuildAle: Ginji Juice
+MSID_CharmAle: Pongo Juice
+MSID_DetoxifyAle: Coffee
+MSID_SealedAle: Bakul Juice
+MSID_LuckAle: Wun Juice
+MSID_AttackAle: Paya Juice
+MSID_DefenseAle: Miranilla Juice
+MSID_LightAle: Date Juice
+MSID_CombatAle: Roca Juice
+MSID_ApathyAle: Bitter-Leaf Juice
+MSID_RangeAle: Sweet-Leaf Juice
+MSID_RecoveryAle: Pepper-Leaf Juice
+MSID_MoveAle: Zang Juice
+MSID_BlissTongue: Lashing Rapture
+MSID_VictoryJewel: Victory Gem
+MSID_SeaCharm: Sea-Spirit Charm
+MSID_AuroraCloth: Cloth of Aurora
+MSID_MiasmaLaziness: Sloth Miasma
+MSID_H_MiasmaLaziness: Unit cannot make a follow-up.
+MSID_MiasmaGreed: Greed Miasma
+MSID_H_MiasmaGreed: At start of unit's phase, halves HP.\nMultiplies bullions obtained by {Variable=0}.\nSets Def to {Variable=1}. Foes are immune.
+MSID_MiasmaDeceit: Deception Miasma
+MSID_H_MiasmaDeceit: Reduces unit's Vis to {Variable=0}. Foes\nare immune.
+MSID_MiasmaEnvy: Envy Miasma
+MSID_H_MiasmaEnvy: If Lv < foe's, sets unit's Avo to {Variable=0} and\nmultiplies unit's Hit by {Variable=1} during combat.
+MSID_MiasmaRage: Wrath Miasma
+MSID_H_MiasmaRage: Multiplies Crit by {Variable=0}. Halves Def.
+MSID_MiasmaPride: Pride Miasma
+MSID_H_MiasmaPride: If Lv > foe's, halves unit's Hit\nduring combat.
+MSID_MiasmaLust: Lust Miasma
+MSID_H_MiasmaLust: If Cha < foe's, halves unit's Hit/Avo\nduring combat.
+MSID_MiasmaGluttony: Gluttony Miasma
+MSID_H_MiasmaGluttony: At start of unit's phase, inflicts {Variable=0} on\nequipped weapon durability or {Variable=1} on\nequipped magic uses.
+MSID_MiasmaFear: Fear Miasma
+MSID_H_MiasmaFear: At start of enemy phase, inflicts Confusion.\nFoes are immune.
+MSID_Miasma: Miasma
+MSID_H_Miasma: At start of unit's phase, unit takes damage\nequal to half their max HP. Underworld\nsoldiers recover HP instead.
+MSID_SunsetMiasma: Sundown Miasma
+MSID_HadesGate: Underworld Gate
+MSID_H_HadesGate: Collapses after {Variable=0} {SingularPlural0=turn|turns}.
+MSID_HadesGround: Pulsating Flesh
+MSID_H_HadesGround: Underworld Gate appears after {Variable=0} {SingularPlural0=turn|turns}.
+MSID_Madness: Underworld Madness
+MSID_H_Madness: Sets Blaze Gauge to {Variable=0}. Overblaze cannot\nbe removed.
+MSID_SpiritualUnity: Underworld Calm
+MSID_H_SpiritualUnity: Reverts Blaze Gauge to 0.
+MSID_Secret: ???
+MSID_SolidGiant: Hulking Help
+MSID_SandstormBattalion: Sandstorm Battalion
+MSID_DragonFormDagda: 
+MSID_H_DragonFormDagda: 
+MSID_DragonFormIshieto: 
+MSID_H_DragonFormIshieto: 
+MSID_DragonFormSeteth: 
+MSID_H_DragonFormSeteth: 
+MSID_DragonFormLyra: 
+MSID_H_DragonFormLyra: 
+MSID_CommonSwordSkill: Swords
+MSID_H_CommonSwordSkill: Multiplies Atk by {Variable=0} when making\na follow-up.
+MSID_CommonAxesSkill: Axes
+MSID_H_CommonAxesSkill: Deals at least {Variable=0} damage.
+MSID_CommonGauntletSkill: Gauntlets
+MSID_H_CommonGauntletSkill: If foe is not equipped with gauntlets,\ngrants Avo{Variable=0} during combat.
+MSID_H_Invincible: Braziers are magically protected for\n{Variable=0} {SingularPlural0=turn|turns}. (Max {Variable=1} {SingularPlural1=use|uses}.)
+MSID_H_Clearsandstorm: Neutralizes sandstorm on spaces in range.
+MSID_H_Throwfeed: Strengthens a giant. Unit's army will no\nlonger be targeted.
+MSID_H_Calmdown: Speak to Kunlun citizen to remove panic.
+MSID_H_Feeding: Transforms striped wolf to an ally. If striped\nwolf is already an ally, restores a little HP\nto striped wolf.
+MSID_H_Markerplacement: Throws a lightning javelin to target an area\nfor the elephant cannon to bombard.
+MSID_Rainy: Rainy Weather
+MSID_H_Rainy: Multiplies lightning damage by {Variable=0}.\nHalves flame damage.
+MSID_GleipnirPower: Amplifying Thread
+MSID_H_GleipnirPower: Grants all basic stats{Variable=0}.
+MSID_DefForceField: Defense Field
+MSID_H_DefForceField: Grants Def{Variable=0}.
+MSID_ResForceField: Resistance Field
+MSID_H_ResForceField: Grants Res{Variable=0}.
+MSID_KatarinaProtect: Katarina's Protection
+MSID_H_KatarinaProtect: Grants Str/Mag/Def/Res/Lck{Variable=0}.
+MSID_InvinciblePower: Invincible
+MSID_H_InvinciblePower: Takes no damage.
+MSID_Cheering: Cheer
+MSID_H_Cheering: Multiplies all basic stats by {Variable=0}.
+MSID_FogHiding: Hide in Fog
+MSID_H_FogHiding: Grants Avo{Variable=0}, Str{Variable=1}, Def{Variable=2}.
+MSID_TelusBarrier: Tellus Barrier
+MSID_H_TelusBarrier1: Reduces damage to {Variable=0}% when attacked.
+MSID_Unprotected: Defenseless
+MSID_RecklessTreasure: Magic Orb
+MSID_ParmaMagic: Secrets of Palma
+MSID_Flama: Flamma
+MSID_H_Flama1: Grants Str{Variable=0}, Def/Res{Variable=1}.
+MSID_H_Flama2: Grants max HP{Variable=0}, Str/Res{Variable=1}.
+MSID_IshietoHelp: Eishet's Guidance
+MSID_H_IshietoHelp: Grants Rng{Variable=0} to magic, Str/Mag{Variable=1},\nDef/Res{Variable=2}.
+MSID_DagdaDivinePower: Power of Dagda
+MSID_H_DagdaDivinePower: Grants Str{Variable=0}, Mag/Def/Res{Variable=1}.
+MSID_BalorDivinePower: Power of Balor
+MSID_BalorGreatDivinePower: Power of Balor+
+MSID_H_BalorGreatDivinePower: Grants max HP{Variable=0}, Str/Mag/Spd{Variable=1}.
+MSID_GiantFood: Giant Bait
+MSID_H_GiantFood: Grants Str/Dex/Spd{Variable=0}. Unit takes\nno damage.
+MSID_LegionArea: Legionnaire
+MSID_H_LegionArea: Cannot be passed by foes.
+MSID_BalorBreath: Apocalypse Fog
+MSID_BalorTerrainAttack: Fires of Tartarus
+MSID_H_BalorTerrainAttack: Attacks all foes in range.
+MSID_BlazeControl: Control
+MSID_H_BlazeControl: Allows use of the Underworld Calm\ncommand.
+MSID_BlazeRampage: Rampage
+MSID_H_BlazeRampage: Allows use of the Underworld Madness\ncommand.
+MSID_BlazeResistance: Unyielding
+MSID_H_BlazeResistance: Bursts do not decrease max HP.
+MSID_BlazeMachine: Guardian Angel
+MSID_H_BlazeMachine: Allows use of the Elizabeth command.\nAllows Blaze Arts until the Blaze Gauge\nis depleted.
+MSID_BlazeHeaven: Grasp Truths
+MSID_H_BlazeHeaven: Allows use of increasingly powerful\nBlaze Arts as the Blaze Gauge fills.
+MSID_RemainsProtection: Offset Curse
+MSID_H_RemainsProtection: Unit takes no damage when attacked.\nTrigger % = {Variable=0}.
+MSID_GoldenCurse: Divinium Drain
+MSID_KouPower: Hong Hua's Magic
+MSID_H_Damina: Grants Hit{Variable=0} when attacking with a\ncombat art.
+MSID_H_Damina+3: Grants Hit/Crit{Variable=0} when attacking with a\ncombat art.
+MSID_H_HorseSword+3: If foe is cavalry, grants Crit{Variable=0}\nduring combat.
+MSID_H_Flissa+3: If foe is armored, grants Crit{Variable=0}\nduring combat.
+MSID_H_GaleSword+3: When unit avoids an attack, grants\nPhys{Variable=0} during combat.
+MSID_H_GreatSword+3: If foe is large scale, grants Hit/Crit{Variable=0}\nduring combat.
+MSID_H_ExorcismSword: Neutralizes Underworld Boon on foe\nduring combat.
+MSID_H_HandSpear+3: Grants Avo{Variable=1} during combat against a\nfoe {Variable=0}+ {SingularPlural0=space|spaces} away.
+MSID_H_ShortSpear+3: Grants Hit{Variable=1} during combat against a\nfoe {Variable=0}+ {SingularPlural0=space|spaces} away.
+MSID_H_SlenderSpear+3: Grants Phys{Variable=1} during combat against a\nfoe {Variable=0}+ {SingularPlural0=space|spaces} away.
+MSID_H_IdeaBow: Increases how much HP Holy Flash restores.
+MSID_H_Assal+3: Increases how much HP Sacred Strike\nrestores.
+MSID_H_KnightKiller+3: If foe is cavalry, grants Shld{Variable=0}\nduring combat.
+MSID_H_ShieldAxe: If foe attacks first, grants Prt{Variable=0} to unit\nduring combat.
+MSID_H_Boomerang+3: Grants Crit{Variable=1} during combat against a foe\n{Variable=0}+ {SingularPlural0=space|spaces} away.
+MSID_H_Bardiche+3: If foe is large scale, grants Phys{Variable=0} to unit\nduring combat.
+MSID_H_Ottochan+3: In enemy's phase, if foe is Poisoned,\nunit attacks first during combat.
+MSID_H_HuntingBow+3: If foe is a beast, grants Hit{Variable=0}\nduring combat.
+MSID_H_ShortBow+1: Grants AS{Variable=0} during combat against an\nadjacent foe.
+MSID_H_HorseBow+3: If foe is cavalry, grants Hit{Variable=0}\nduring combat.
+MSID_H_BattleBow+3: If foe is large scale, grants Hit{Variable=0}\nduring combat.
+MSID_H_WindBow+1: If unit attacks first, grants Avo{Variable=0}\nduring combat.
+MSID_H_CounterGautlet: If foe attacks first, grants Atk{Variable=0}\nduring combat.
+MSID_H_CounterGautlet+3: If foe attacks first, grants Atk{Variable=0}, Hit{Variable=1}\nduring combat.
+MSID_H_Kenkonken+3: Grants Hit/Avo/Crit{Variable=1} during combat\nagainst a foe {Variable=0}+ {SingularPlural0=space|spaces} away.
+MSID_H_Hukarin+1: If unit attacks first, grants Hit{Variable=0}\nduring combat.
+MSID_H_HealingWand: When healing an ally with magic,\nrestores {Variable=0} HP.
+MSID_H_DemonSkull: Grants Crit{Variable=0} when attacking with magic.
+MSID_H_AgonyShield: Unit takes half damage when attacked with\na magical attack. Trigger % = {Variable=0}.
+MSID_H_JuneauShield: A Supreme Arc coated in a tranquil frost.\nUnit takes half damage when attacked\nwith a critical.
+MSID_H_ZephyrusShield: A mysterious Arc imbued with the power of\nwind. Neutralizes effective vs. flying.
+MSID_H_YuphasMask: Grants Shld{Variable=0} when attacked by an\nundead foe.
+MSID_H_BragiBrush: Grants Hit{Variable=0} when attacking with magic.
+MSID_H_ParticleEmblem: If unit's magic attack hits, inflicts Confusion\non foe. Trigger % = {Variable=0}.
+MSID_H_PoisonBone: If unit's magic attack hits, inflicts Poison\non foe. Trigger % = {Variable=0}.
+MSID_H_CarlaNeedle: Grants Atk{Variable=0} when making a follow-up.
+MSID_H_MarsStone: Grants Atk{Variable=0}, Crit{Variable=1} when attacking\nwith a combat art.
+MSID_H_PoisonJewel: If foe is Poisoned, unit takes {Variable=0}% damage\nwhen attacked.
+MSID_H_HuntingJewel: If foe is Poisoned, multiplies unit's damage\nby {Variable=0} when attacking.
+MSID_H_EventfulJewel: If foe is Confused, multiplies unit's damage\nby {Variable=0} when attacking.
+MSID_H_FuraiJewel: Unit cannot suffer a follow-up during\ncombat. Trigger % = {Variable=0}.
+MSID_H_LightningJewel: Multiplies damage by {Variable=1} when attacking\nwith a combat art. Trigger % = {Variable=0}.
+MSID_H_FlameJewel: Grants Hit{Variable=1} when attacking with a\ncombat art. Trigger % = {Variable=0}.
+MSID_H_StormJewel: When using a combat art, grants Avo{Variable=1}\nduring combat. Trigger % = {Variable=0}.
+MSID_H_CriticalJewel: If unit makes a critical, unit recovers HP\nequal to a third of the damage they deal.
+MSID_H_ChallengeJewel: If foe is equipped with the same weapon\ntype, grants Atk{Variable=0} to unit during combat.
+MSID_H_PursuitJewel: Unit makes a follow-up regardless of AS\nduring combat. Trigger % = {Variable=0}.
+MSID_H_CharmJewel: Inflicts Hit{Variable=0} on foe during combat.\nTrigger % = Cha ÷ 2.
+MSID_H_SeverJewel: If unit attacks first, unit cannot suffer a\nfollow-up during combat. Trigger % = {Variable=0}.
+MSID_H_MiracleJewel: Reduces damage to {Variable=1} when\nattacked. Trigger % = {Variable=0}.
+MSID_H_DaintyJewel: If Cha ≥ foe's Cha+{Variable=0}, inflicts Hit{Variable=1}\non foe during combat.
+MSID_H_SpiritJewel: Grants Avo{Variable=1} when attacked with a\nmagical attack. Trigger % = {Variable=0}.
+MSID_H_MadnessJewel: If unit is Confused, grants Avo{Variable=0}.
+MSID_H_SwordAmulet: If foe uses a sword, grants Hit/Avo{Variable=0} to\nunit during combat.
+MSID_H_SpearAmulet: If foe uses a spear, grants Hit/Avo{Variable=0} to\nunit during combat.
+MSID_H_AxeAmulet: If foe uses an axe, grants Hit/Avo{Variable=0} to\nunit during combat.
+MSID_H_BowAmulet: If foe uses a bow, grants Hit/Avo{Variable=0} to\nunit during combat.
+MSID_H_GauntletAmulet: If foe uses gauntlets, grants Hit/Avo{Variable=0} to\nunit during combat.
+MSID_H_Warm: If unit's attack hits, inflicts Spd{Variable=0} on foe\nuntil unit's next phase.
+MSID_H_Luna: Ignores foe's Res during combat.
+MSID_H_R_Hit_Att: Grants Hit{Variable=0}, Atk{Variable=1}.
+MSID_H_R_Avo_Sec: Grants Avo/Ddg{Variable=0}.
+MSID_H_Regeia: Restores a little HP at start of unit's phase\nfor {Variable=0} {SingularPlural0=turn|turns}.
+MSID_H_R_Hit: {PlusMinus0=Grants|Inflicts} Hit{Variable=0}.
+MSID_H_R_CSHit: Grants Hit{Variable=0} when attacking with a\ncombat art.
+MSID_H_R_Avo: {PlusMinus0=Grants|Inflicts} Avo{Variable=0}.
+MSID_H_R_Cri: {PlusMinus0=Grants|Inflicts} Crit{Variable=0}.
+MSID_H_R_Sec: Grants Ddg{Variable=0}.
+MSID_H_R_AS: Grants AS{Variable=0}.
+MSID_H_R_Hit_Avo: {PlusMinus0=Grants|Inflicts} Hit/Avo{Variable=0}.
+MSID_H_R_Hit_Avo_Cri: Grants Hit/Avo/Crit{Variable=0}.
+MSID_H_R_Att: {PlusMinus0=Grants|Inflicts} Atk{Variable=0}.
+MSID_H_R_Pro: {PlusMinus0=Grants|Inflicts} Shld{Variable=0}.
+MSID_H_R_Att_Cri: Grants Atk{Variable=0}, Crit{Variable=1}.
+MSID_H_R_Pro_Sec: Grants Shld{Variable=0}, Ddg{Variable=1}.
+MSID_H_R_Hp: {PlusMinus0=Grants|Inflicts} max HP{Variable=0}.
+MSID_H_R_Str: Grants Str{Variable=0}.
+MSID_H_R_Mag: Grants Mag{Variable=0}.
+MSID_H_R_Tec: {PlusMinus0=Grants|Inflicts} Dex{Variable=0}.
+MSID_H_R_Spd: {PlusMinus0=Grants|Inflicts} Spd{Variable=0}.
+MSID_H_R_Def: {PlusMinus0=Grants|Inflicts} Def{Variable=0}.
+MSID_H_R_Res: {PlusMinus0=Grants|Inflicts} Res{Variable=0}.
+MSID_H_R_Lck: {PlusMinus0=Grants|Inflicts} Lck{Variable=0}.
+MSID_H_R_Mov: Inflicts Mov{Variable=0}.
+MSID_H_R_Phy: Grants Bld{Variable=0}.
+MSID_H_R_Cha: Grants Cha{Variable=0}.
+MSID_H_R_Str_Mag: Grants Str/Mag{Variable=0}.
+MSID_H_R_Def_Res: Grants Def/Res{Variable=0}.
+MSID_H_R_Def_Avo: Grants Def{Variable=0} at cost of Avo{Variable=1}.
+MSID_H_R_Mag_Res: Grants Mag/Res{Variable=0}.
+MSID_H_R_Str_Magx150: Multiplies Str/Mag by {Variable=0}.
+MSID_H_R_Def_Resx150: Multiplies Def/Res by {Variable=0}.
+MSID_H_R_HolyWater: Grants Res{Variable=0}. (Decreases by {Variable=2} every\n{Variable=1} {SingularPlural1=turn|turns}.)
+MSID_H_R_HellLordEffect: Unit takes half damage. Unaffected\nby Underworld Flame.
+MSID_H_R_NoPursuit: Unit cannot suffer a follow-up.
+MSID_H_R_Leading: Unit attacks first.
+MSID_H_R_HitHalved: Halves Hit.
+MSID_H_R_AvoHalved: Halves Avo.
+MSID_H_R_ASHalved: Halves AS.
+MSID_H_R_ProHalved: Halves Shld.
+MSID_H_R_DefHalved: Halves Def.
+MSID_H_R_HitHalved_00: Halves Hit.
+MSID_H_R_Hit_AvoHalved: Halves Hit/Avo.
+MSID_H_R_MagicDamageHalved: Unit takes half damage from magical\nattacks.
+MSID_H_R_DamageHalved: Unit takes half damage from attacks.
+MSID_H_R_Str_Mag_Invert: Str and Mag are swapped.
+MSID_H_R_Def_Res_Invert: Def and Res are swapped.
+MSID_H_R_NoReturn: Unit cannot counter.
+MSID_H_R_NoCounter: Unit cannot be countered.
+MSID_H_R_NoPoison: Unit cannot be Poisoned.
+MSID_H_R_NoSealed: Unit cannot be Silenced.
+MSID_H_R_HellEff: Attacks are effective vs. undead.
+MSID_H_R_Continuous: Unit's follow-up occurs before foe's\ncounter.
+MSID_H_R_InvalidEff: Neutralizes foe's effective bonuses.
+MSID_H_R_InvalidCritical: Unit cannot suffer a critical attack.
+MSID_H_R_Absorption: Unit recovers HP equal to half the damage\nthey deal.
+MSID_H_R_Def0: Sets Def to 0.
+MSID_H_R_BattleRecoveryS: After combat, restores a little HP to unit.
+MSID_H_R_Res0: Sets Res to 0.
+MSID_H_R_Pha_Hit: Grants Hit{Variable=0} to physical attacks.
+MSID_H_R_Maa_Hit: Grants Hit{Variable=0} to magical attacks.
+MSID_H_R_KillHeelM: After defeating a foe, restores some HP\nto unit.
+MSID_H_R_Durability: Reduces weapon durability cost to 0.
+MSID_H_R_Pha_DamageHalved: Unit takes half damage from\nphysical attacks.
+MSID_H_R_Maa_DamageHalved: Unit takes half damage from\nmagical attacks.
+MSID_H_R_Ect: Grants Prt{Variable=0}.
+MSID_H_R_End: Grants Rsl{Variable=0}.
+MSID_H_R_Tec_Spd: Grants Dex/Spd{Variable=0}.
+MSID_H_R_Explanation: Grants Hit{Variable=1} during combat.\nTrigger % = {Variable=0}.
+MSID_H_R_ReducedMoveCost: Applies {Variable=0} to movement cost \nfor terrain. (Cannot be reduced below 1.)
+MSID_H_R_AutoRecovery: At start of unit's phase, restores a little HP\nto unit.
+MSID_H_R_Antidote: Cannot be poisoned for {Variable=0} {SingularPlural0=turn|turns}.
+MSID_H_R_RunThrough: Grants Mov{Variable=0} for {Variable=1} {SingularPlural1=turn|turns}.
+MSID_H_R_FirstAidFormation: Extends range of Patch Up to\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_H_R_BackupFormation: Extends range of Brave Assist to\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_H_R_BodyguardFormation: Extends range of Caretaker to\n{Variable=0} {SingularPlural0=space|spaces}.
+MSID_H_R_Res_Avo: Grants Res{Variable=0} at cost of Avo{Variable=1}.
+MID_Plus: +
+MID_PlusPlus: ++
+MID_SkillPlus_1: +1
+MID_SkillPlus_2: +2
+MID_SkillPlus_3: +3
+MID_SkillPlus_5: +5
+MID_SkillPlus_7: +7
+MID_SkillPlus_10: +10
+MID_SkillPlus_15: +15
+MID_SkillPlus_20: +20
+MID_SkillPlus_30: +30
+MID_SkillLevel_1: Lv. 1
+MID_SkillLevel_2: Lv. 2
+MID_SkillLevel_3: Lv. 3
+MID_SkillLevel_4: Lv. 4
+MID_SkillLevel_5: Lv. 5
+MID_Skill_SpecifyJob_Ride: [Cavalry]
+MID_Skill_SpecifyJob_Fly: [Flying]
+MID_Skill_SpecifyJob_Armor: [Armored]
+MID_Skill_SpecifyJob_Infantry: [Infantry]
+MID_Skill_CompAttack: Atk
+MID_Skill_CompDefense: Shld
+MID_Skill_InPhase: for the current phase.
+MID_Skill_About3Turn: for 3 turns.
+MID_Skill_AtNextTurnEnd: through the end of the next turn.
+MID_Skill_AtNextMyPhase: until unit's next phase
+MID_Skill_AtOnceBattle: through their next combat
+MID_Skill_SpearRange_1to2: (Only usable by spears with Rng = 1-2.)
+MID_Skill_AxesRange_1to2: (Only usable by axes with Rng = 1-2.)
+MID_Skill_Impossible_AddAtk: Cannot make a follow-up.
+MID_Skill_InBattleMapEnd: until the end of the map
+MID_Skill_AtOnceBattleMap: (Once per map.)

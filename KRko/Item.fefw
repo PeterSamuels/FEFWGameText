@@ -1,0 +1,1661 @@
+﻿MIID_WoodSword: 목제 검{Variable=0}
+MIID_H_WoodSword1: 가볍고 다루기 쉬운 목제 검
+MIID_H_WoodSword2: 가볍고 다루기 쉬운 목제 검.\n속도 {Variable=0}
+MIID_BronzeSword: 청동의 검{Variable=0}
+MIID_H_BronzeSword1: 청동으로 주조한 일반적인 검
+MIID_H_BronzeSword2: 청동으로 주조한 일반적인 검.\n수비 {Variable=0}
+MIID_IronSword: 철의 검{Variable=0}
+MIID_H_IronSword1: 철을 단조해 만든 양질의 검
+MIID_H_IronSword2: 철을 단조해 만든 양질의 검.\n기술 {Variable=0}
+MIID_DaminaSword: 다 미나의 검{Variable=0}
+MIID_H_DaminaSword0: 다 미나에서 제조된 고품질 검
+MIID_H_DaminaSword1: 다 미나에서 제조된 고품질 검.\n전투 기술로 공격 시 명중 {Variable=0}
+MIID_H_DaminaSword2: 다 미나에서 제조된 고품질 검.\n전투 기술로 공격 시\n명중·필살 {Variable=0}
+MIID_SilverSword: 은의 검{Variable=0}
+MIID_H_SilverSword1: 정제한 은으로 만든 강력한 검
+MIID_KillSword: 킬 소드{Variable=0}
+MIID_H_KillSword1: 동방의 기술로 만든 예리한 검.\n전투 기술 「필살검」 사용 가능
+MIID_PoisonSword: 독의 검{Variable=0}
+MIID_H_PoisonSword1: 칼날에 맹독이 발린 검.\n공격 명중 시 적을 독 상태로 만든다
+MIID_H_PoisonSword2: 칼날에 맹독이 발린 검.\n공격 명중 시 적을 독 상태로 만든다.\n전투 기술 「독 흡수」 사용 가능
+MIID_HorseSword: 참마도{Variable=0}
+MIID_H_HorseSword1: 기병을 말과 함께 쪼개 버리는 큰 검
+MIID_H_HorseSword2: 기병을 말과 함께 쪼개 버리는 큰 검.\n전투 시 적이 기병 속성이면\n필살 {Variable=0}
+MIID_Flissa: 플리사{Variable=0}
+MIID_H_Flissa1: 갑옷의 틈을 꿰뚫는 찌르기용 검
+MIID_H_Flissa2: 갑옷의 틈을 꿰뚫는 찌르기용 검.\n전투 시 적이 중갑 속성이면\n필살 {Variable=0}
+MIID_GaleSword: 질풍의 검{Variable=0}
+MIID_H_GaleSword1: 칼날에 바람 정령의 힘이 깃든 검
+MIID_H_GaleSword2: 칼날에 바람 정령의 힘이 깃든 검.\n적의 공격을 회피하면\n해당 전투 중 물공 {Variable=0}
+MIID_GreatSword: 그레이트 소드{Variable=0}
+MIID_H_GreatSword1: 어떤 상대든 쪼개 버리는 거대한 검
+MIID_H_GreatSword2: 어떤 상대든 쪼개 버리는 거대한 검.\n전투 시 적이 대형 유닛이면\n명중·필살 {Variable=0}
+MIID_ExorcismSword: 재계의 검{Variable=0}
+MIID_H_ExorcismSword1: 성스러운 축복으로 청정해진 검.\n전투 시 적의 「명부의 가호」 무효화
+MIID_ThunderSword: 선더 소드{Variable=0}
+MIID_H_ThunderSword1: 번개 정령의 힘이 깃든 마법검.\n마법 공격에 속한다.\n전투 기술 「뇌격」 사용 가능
+MIID_Ajura: 사검 엔주라{Variable=0}
+MIID_H_Ajura1: 명계의 어두운 힘이 깃든 마독검.\n전투 기술 「독 매장」 사용 가능
+MIID_D_Ajura: 암흑검 엔주라
+MIID_H_D_Ajura1: 망자의 기억이 낳은 사악한 독검.\n전투 기술 「독 매장」 사용 가능
+MIID_Velokine: 사검 벨로키네{Variable=0}
+MIID_H_Velokine1: 명계의 어두운 힘이 깃든 마세검.\n전투 기술 「절화」 사용 가능
+MIID_H_Velokine2: 명계의 어두운 힘이 깃든 마세검.\n전투 기술 「절화」 사용 가능.\n기술 {Variable=0}
+MIID_Fragarach: 사검 프라가라흐{Variable=0}
+MIID_H_Fragarach1: 명계의 어두운 힘이 깃든 마곡도.\n전투 기술 「달 부수기」 사용 가능
+MIID_D_Fragarach: 암흑검 프라가라흐
+MIID_H_D_Fragarach1: 망자의 기억이 낳은 사악한 곡도.\n전투 기술 「달 부수기」 사용 가능
+MIID_IronFan: 나찰녀의 철선{Variable=0}
+MIID_H_IronFan1: 명계의 어두운 힘이 깃든 독선검.\n전투 기술 「독 바람」 사용 가능
+MIID_H_IronFan2: 명계의 어두운 힘이 깃든 독선검.\n전투 기술 「독 바람」 사용 가능.\n「독 바람」의 공격력 {Variable=0}
+MIID_D_IronFan: 나찰녀의 암흑철선{Variable=0}
+MIID_H_D_IronFan1: 망자의 기억이 낳은 독선검.\n전투 기술 「독 바람」 사용 가능
+MIID_NightQatar: 상야의 카타라{Variable=0}
+MIID_H_NightQatar1: 명계의 어두운 힘이 깃든 유엽도.\n전투 기술 「행운 탈취」 사용 가능
+MIID_H_NightQatar2: 명계의 어두운 힘이 깃든 유엽도.\n전투 기술 「행운 탈취」 사용 가능.\n「행운 탈취」의 명중 {Variable=0}
+MIID_MarsSword: 마스의 열검{Variable=0}
+MIID_H_MarsSword1: 불의 힘이 깃든 지고의 아크.\n전투 기술 「화염 폭풍」 사용 가능
+MIID_H_MarsSword2: 불의 힘이 깃든 지고의 아크.\n전투 기술 「화염 폭풍」 사용 가능.\n속도 {Variable=0}
+MIID_D_MarsSword: 마스의 암흑검{Variable=0}
+MIID_H_D_MarsSword1: 망자의 기억이 낳은 사악한 열검.\n전투 기술 「화염 폭풍」 사용 가능
+MIID_Answerer: 앤서러{Variable=0}
+MIID_H_Answerer1: 혈인의 소유자만 다룰 수 있는 영웅의 유산.\n디트리히만이 전투 기술 「혈섬」 사용 가능
+MIID_H_Answerer2: 혈인의 소유자만 다룰 수 있는 영웅의 유산.\n디트리히만이 전투 기술 「혈섬」 사용 가능.\n「혈섬」의 위력 {Variable=0}
+MIID_AnswererRevised: 강화 앤서러
+MIID_H_AnswererRevised1: 혈인의 소유자만 다룰 수 있는 영웅의 유산.\n디트리히만이 전투 기술 「혈섬+」 사용 가능
+MIID_AnswererSai: 분쇄의 앤서러
+MIID_AnswererOu: 봉황의 앤서러
+MIID_GladiusSword: 작암의 대검{Variable=0}
+MIID_H_GladiusSword1: 이름난 전사를 위해 만들어진 검
+MIID_WoodLance: 목제 창{Variable=0}
+MIID_H_WoodLance1: 가볍고 다루기 쉬운 목제 창
+MIID_H_WoodLance2: 가볍고 다루기 쉬운 목제 창.\n속도 {Variable=0}
+MIID_BronzeLance: 청동의 창{Variable=0}
+MIID_H_BronzeLance1: 청동으로 주조한 일반적인 창
+MIID_H_BronzeLance2: 청동으로 주조한 일반적인 창.\n수비 {Variable=0}
+MIID_IronLance: 철의 창{Variable=0}
+MIID_H_IronLance1: 철을 단조해 만든 양질의 창
+MIID_H_IronLance2: 철을 단조해 만든 양질의 창.\n기술 {Variable=0}
+MIID_DaminaLance: 다 미나의 창{Variable=0}
+MIID_H_DaminaLance0: 다 미나에서 제조된 고품질 창
+MIID_H_DaminaLance1: 다 미나에서 제조된 고품질 창.\n전투 기술로 공격 시 명중 {Variable=0}
+MIID_H_DaminaLance2: 다 미나에서 제조된 고품질 창.\n전투 기술로 공격 시\n명중·필살 {Variable=0}
+MIID_SilverLance: 은의 창{Variable=0}
+MIID_H_SilverLance1: 정제한 은으로 만든 강력한 창
+MIID_HandSpear: 투척창{Variable=0}
+MIID_H_HandSpear1: 간단한 구조의 투창
+MIID_H_HandSpear2: 간단한 구조의 투창.\n2칸 이상 떨어진 적과 전투 시\n회피 {Variable=0}
+MIID_ShortSpear: 쇼트 스피어{Variable=0}
+MIID_H_ShortSpear1: 던지기 좋은 양질의 투창
+MIID_H_ShortSpear2: 던지기 좋은 양질의 투창.\n2칸 이상 떨어진 적과 전투 시\n명중 {Variable=0}
+MIID_SlenderSpear: 슬렌드 스피어{Variable=0}
+MIID_H_SlenderSpear1: 위력을 높인 고품질 투창
+MIID_H_SlenderSpear2: 위력을 높인 고품질 투창.\n2칸 이상 떨어진 적과 전투 시\n물공 {Variable=0}
+MIID_Halberd: 핼버드{Variable=0}
+MIID_H_Halberd1: 찌르기와 후리기가 모두 용이한 창
+MIID_H_Halberd2: 찌르기와 후리기가 모두 용이한 창.\n기술 {Variable=0}
+MIID_Geki: 극{Variable=0}
+MIID_H_Geki1: 다양한 전투 방식에 대응 가능한 창.\n전투 기술 「바람 꿰기」 사용 가능
+MIID_H_Geki2: 다양한 전투 방식에 대응 가능한 창.\n전투 기술 「바람 꿰기」 사용 가능.\n「바람 꿰기」의 명중 {Variable=0}
+MIID_Grave: 글레이브{Variable=0}
+MIID_H_Grave1: 날이 적당히 굽어 베기에도 좋은 창.\n전투 기술 「필살창」 사용 가능
+MIID_Scimitar: 언월도{Variable=0}
+MIID_H_Scimitar1: 넓고 무거운 창날을 가진 강력한 창
+MIID_KnightKiller: 나이트 킬러{Variable=0}
+MIID_H_KnightKiller1: 기병을 상대로 특화된 창
+MIID_H_KnightKiller2: 기병을 상대로 특화된 창.\n전투 시 적이 기병 속성이면 방어력 {Variable=0}
+MIID_AuroraLance: 아우로라의 성창{Variable=0}
+MIID_H_AuroraLance1: 별의 반짝임을 간직한 지고의 아크.\n전투 기술 「별빛의 반짝임」 사용 가능
+MIID_NamelessSpear: 무명의 창{Variable=0}
+MIID_H_NamelessSpear: 본래의 힘을 잃어버린 이름 없는 창
+MIID_SorelLance: 소렐의 휘창{Variable=0}
+MIID_H_SorelLance1: 태양의 힘이 깃든 지고의 아크.\n전투 기술 「태양」 사용 가능
+MIID_H_SorelLance2: 태양의 힘이 깃든 지고의 아크.\n전투 기술 「태양」 사용 가능.\n「태양」이 준 대미지만큼 HP 회복
+MIID_ShinzaHarpoon: 신자의 작살{Variable=0}
+MIID_H_ShinzaHarpoon1: 에스메랄다의 아버지가 남긴 작살.\n전투 기술 「괴력 던지기」 사용 가능
+MIID_H_ShinzaHarpoon2: 에스메랄다의 아버지가 남긴 작살.\n전투 기술 「괴력 던지기」 사용 가능.\n「괴력 던지기」의 위력 {Variable=0}
+MIID_MahamadLance: 마하마두의 창{Variable=0}
+MIID_H_MahamadLance1: 전설 속 영웅이 휘두른 황금빛 창.\n전투 기술 「진월」 사용 가능
+MIID_H_MahamadLance2: 전설 속 영웅이 휘두른 황금빛 창.\n전투 기술 「진월」 사용 가능.\n「진월」의 위력 {Variable=0}
+MIID_D_MahamadLance: 마하마두의 암흑창{Variable=0}
+MIID_H_D_MahamadLance1: 망자의 기억이 낳은 사악한 창.\n전투 기술 「진월」 사용 가능
+MIID_LourdijaSpear: 루루의 창{Variable=0}
+MIID_H_LourdijaSpear1: 루루디아가 스스로 단조한\n약간 가늘고 가벼운 창
+MIID_Muen: 사창 무엔{Variable=0}
+MIID_H_Muen1: 명계의 어두운 힘이 깃든 마창.\n전투 기술 「흑굉」 사용 가능
+MIID_H_Muen2: 명계의 어두운 힘이 깃든 마창.\n전투 기술 「흑굉」 사용 가능.\n「흑굉」의 명중 {Variable=0}
+MIID_Hanoa: 사창 하노어{Variable=0}
+MIID_H_Hanoa1: 명계의 어두운 힘이 깃든 돌창.\n전투 기술 「기병 파괴」 사용 가능
+MIID_Grancida: 마창 그라시더{Variable=0}
+MIID_H_Grancida1: 혈인의 소유자만 다룰 수 있는 영웅의 유산.\n에스메랄다만이 전투 기술 「무진」 사용 가능
+MIID_Assal: 성스러운 창 아살{Variable=0}
+MIID_H_Assal1: 일찍이 세테스가 스스로 단조한 창.\n전투 기술 「성격」 사용 가능
+MIID_H_Assal2: 일찍이 세테스가 스스로 단조한 창.\n전투 기술 「성격」 사용 가능.\n「성격」의 회복량이 증가한다
+MIID_Vendetta: 요창 벤데타{Variable=0}
+MIID_H_Vendetta1: 명계의 어두운 힘이 깃든 사복창.\n전투 기술 「패사」 사용 가능
+MIID_H_Vendetta2: 명계의 어두운 힘이 깃든 사복창.\n전투 기술 「패사」 사용 가능.\n「패사」의 명중 {Variable=0}
+MIID_D_Vendetta: 암흑창 벤데타{Variable=0}
+MIID_H_D_Vendetta1: 망자의 기억이 낳은 사복창.\n전투 기술 「패사」 사용 가능
+MIID_WoodAxe: 목제 도끼{Variable=0}
+MIID_H_WoodAxe1: 가볍고 다루기 쉬운 목제 도끼
+MIID_H_WoodAxe2: 가볍고 다루기 쉬운 목제 도끼.\n속도 {Variable=0}
+MIID_BronzeAxe: 청동의 도끼{Variable=0}
+MIID_H_BronzeAxe1: 청동으로 주조한 일반적인 도끼
+MIID_H_BronzeAxe2: 청동으로 주조한 일반적인 도끼.\n수비 {Variable=0}
+MIID_IronAxe: 철의 도끼{Variable=0}
+MIID_H_IronAxe1: 철을 단조해 만든 양질의 도끼
+MIID_H_IronAxe2: 철을 단조해 만든 양질의 도끼.\n기술 {Variable=0}
+MIID_DaminaAxe: 다 미나의 도끼{Variable=0}
+MIID_H_DaminaAxe0: 다 미나에서 제조된 고품질 도끼
+MIID_H_DaminaAxe1: 다 미나에서 제조된 고품질 도끼.\n전투 기술로 공격 시 명중 {Variable=0}
+MIID_H_DaminaAxe2: 다 미나에서 제조된 고품질 도끼.\n전투 기술로 공격 시\n명중·필살 {Variable=0}
+MIID_SilverAxe: 은의 도끼{Variable=0}
+MIID_H_SilverAxe1: 정제한 은으로 만든 강력한 도끼
+MIID_HandAxe: 투척도끼{Variable=0}
+MIID_H_HandAxe1: 투척이 가능한 간단한 구조의 도끼
+MIID_H_HandAxe2: 투척이 가능한 간단한 구조의 도끼.\n2칸 이상 떨어진 적과 전투 시\n회피 {Variable=0}
+MIID_ShortAxe: 쇼트 액스{Variable=0}
+MIID_H_ShortAxe1: 던지기 좋은 양질의 투척도끼
+MIID_H_ShortAxe2: 던지기 좋은 양질의 투척도끼.\n2칸 이상 떨어진 적과 전투 시\n명중 {Variable=0}
+MIID_Tomahawk: 사가리스{Variable=0}
+MIID_H_Tomahawk1: 위력을 높인 고품질 투척도끼
+MIID_H_Tomahawk2: 위력을 높인 고품질 투척도끼.\n2칸 이상 떨어진 적과 전투 시\n물공 {Variable=0}
+MIID_SmashAxe: 스매시 액스{Variable=0}
+MIID_H_SmashAxe1: 바위조차 쪼갠다는 묵직한 도끼.\n전투 기술 「분쇄의 일격」 사용 가능
+MIID_H_SmashAxe2: 바위조차 쪼갠다는 묵직한 도끼.\n전투 기술 「분쇄의 일격」 사용 가능.\n「분쇄의 일격」의 필살 {Variable=0}
+MIID_ShieldAxe: 실드 액스{Variable=0}
+MIID_H_ShieldAxe0: 방패로도 사용할 수 있는 도끼
+MIID_H_ShieldAxe1: 방패로도 사용할 수 있는 도끼.\n후공일 경우\n해당 전투 중 물방 {Variable=0}
+MIID_Boomerang: 매 발톱 도끼{Variable=0}
+MIID_H_Boomerang1: 예리한 투척도끼
+MIID_H_Boomerang2: 예리한 투척도끼.\n2칸 이상 떨어진 적과 전투 시\n필살 {Variable=0}
+MIID_Bardiche: 바디시{Variable=0}
+MIID_H_Bardiche1: 긴 자루 끝에 커다란 날이 달린 도끼
+MIID_H_Bardiche2: 긴 자루 끝에 커다란 날이 달린 도끼.\n전투 시 적이 대형 유닛이면\n물공 {Variable=0}
+MIID_Hammer: 해머{Variable=0}
+MIID_H_Hammer1: 단단한 갑옷도 부수는 전투용 망치
+MIID_Mace: 메이스{Variable=0}
+MIID_H_Mace1: 손쉽게 다룰 수 있는 타격용 무기.\n전투 기술 「마충타」 사용 가능
+MIID_H_Mace2: 손쉽게 다룰 수 있는 타격용 무기.\n전투 기술 「마충타」 사용 가능.\n「마충타」의 위력 {Variable=0}
+MIID_Verelheit: 사부 벨하이트{Variable=0}
+MIID_H_Verelheit1: 명계의 어두운 힘이 깃든 양날 도끼.\n전투 기술 「폭풍 걸음」 사용 가능
+MIID_Gundogya: 사부 간드기어{Variable=0}
+MIID_H_Gundogya1: 명계의 어두운 힘이 깃든 외날 도끼.\n전투 기술 「마법 찢기」 사용 가능
+MIID_RedAxe: 붉은 도끼{Variable=0}
+MIID_H_RedAxe1: 아라고 왕가에 내려오던 핏빛 도끼.\n전투 기술 「패절」 사용 가능
+MIID_D_RedAxe: 붉은 암흑도끼{Variable=0}
+MIID_H_D_RedAxe1: 망자의 기억이 낳은 사악한 도끼.\n전투 기술 「패절」 사용 가능
+MIID_Zalmoxis: 잘목시스{Variable=0}
+MIID_H_Zalmoxis1: 하늘조차 찢는 힘을 간직한 도끼.\n전투 기술 「패절+」 사용 가능
+MIID_DagdaClub: 다그다의 곤봉{Variable=0}
+MIID_H_DagdaClub1: 만물을 깨부수는 지고의 아크.\n전투 기술 「신격」 사용 가능.\n「신격」 외의 전투 기술 사용 불가
+MIID_D_DagdaClub: 다그다의 암흑곤봉{Variable=0}
+MIID_H_D_DagdaClub1: 망자의 기억이 낳은 사악한 마곤.\n전투 기술 「신격」 사용 가능
+MIID_ClaireHammer: 크레르의 큰 망치{Variable=0}
+MIID_H_ClaireHammer1: 강한 마력을 간직한 지고의 아크.\n전투 기술 「염환」 사용 가능
+MIID_H_ClaireHammer2: 강한 마력을 간직한 지고의 아크.\n전투 기술 「염환」 사용 가능.\n「염환」 사용 후 HP를 적당량 회복
+MIID_Suiran: 취란의 마륜호{Variable=0}
+MIID_H_Suiran1: 명계의 어두운 힘이 깃든 투척도끼.\n전투 기술 「회선」 사용 가능
+MIID_H_Suiran2: 명계의 어두운 힘이 깃든 투척도끼.\n전투 기술 「회선」 사용 가능.\n「회선」의 위력 {Variable=0}
+MIID_D_Suiran: 취란의 암흑륜호{Variable=0}
+MIID_H_D_Suiran1: 망자의 기억이 낳은 투척도끼.\n전투 기술 「회선」 사용 가능
+MIID_Ottochan: 우리 오토{Variable=0}
+MIID_H_Ottochan1: 기이한 분위기가 감도는 곰 인형.\n전투 기술 「명부의 내장」 사용 가능
+MIID_H_Ottochan2: 기이한 분위기가 감도는 곰 인형.\n전투 기술 「명부의 내장」 사용 가능.\n적이 독 상태라면 자신이 선공이 된다
+MIID_RedAxe_SealBroken: 원념의 붉은 도끼
+MIID_H_RedAxe_SealBroken: 각성하려 하고 있는 전설의 도끼.\n전투 기술 「패절」 사용 가능
+MIID_WoodBow: 목제 활{Variable=0}
+MIID_H_WoodBow1: 가볍고 다루기 쉬운 목제 활
+MIID_H_WoodBow2: 가볍고 다루기 쉬운 목제 활.\n속도 {Variable=0}
+MIID_BronzeBow: 청동의 활{Variable=0}
+MIID_H_BronzeBow1: 청동으로 강도를 높인 일반적인 활
+MIID_H_BronzeBow2: 청동으로 강도를 높인 일반적인 활.\n수비 {Variable=0}
+MIID_IronBow: 철의 활{Variable=0}
+MIID_H_IronBow1: 용수철을 결합한 양질의 활
+MIID_H_IronBow2: 용수철을 결합한 양질의 활.\n기술 {Variable=0}
+MIID_DaminaBow: 다 미나의 활{Variable=0}
+MIID_H_DaminaBow0: 다 미나에서 제조된 고품질 활
+MIID_H_DaminaBow1: 다 미나에서 제조된 고품질 활.\n전투 기술로 공격 시 명중 {Variable=0}
+MIID_H_DaminaBow2: 다 미나에서 제조된 고품질 활.\n전투 기술로 공격 시\n명중·필살 {Variable=0}
+MIID_SilverBow: 은의 활{Variable=0}
+MIID_H_SilverBow1: 정제한 은으로 만든 강력한 활
+MIID_HuntingBow: 수렵의 활{Variable=0}
+MIID_H_HuntingBow1: 숲의 부족이 즐겨 쓰는 복합궁
+MIID_H_HuntingBow2: 숲의 부족이 즐겨 쓰는 복합궁.\n전투 시 적이 야수 속성이면\n명중 {Variable=0}
+MIID_LongBow: 롱 보우{Variable=0}
+MIID_H_LongBow1: 사정거리가 길고 굉장히 큰 활.\n전투 기술 「저격」 사용 가능
+MIID_ShortBow: 쇼트 보우{Variable=0}
+MIID_H_ShortBow1: 매우 다루기 편한 소형 활
+MIID_H_ShortBow2: 매우 다루기 편한 소형 활.\n인접한 적과의 전투 시 공속 {Variable=0}
+MIID_HorseBow: 말 킬러의 활{Variable=0}
+MIID_H_HorseBow1: 기병을 상대로 특화된 활
+MIID_H_HorseBow2: 기병을 상대로 특화된 활.\n전투 시 적이 기병 속성이면\n명중 {Variable=0}
+MIID_BattleBow: 배틀 보우{Variable=0}
+MIID_H_BattleBow1: 위력을 높인 대형 활
+MIID_H_BattleBow2: 위력을 높인 대형 활.\n전투 시 적이 대형 유닛이면\n명중 {Variable=0}
+MIID_WindBow: 바람의 활{Variable=0}
+MIID_H_WindBow1: 바람 정령의 힘이 깃든 아름다운 활
+MIID_H_WindBow2: 바람 정령의 힘이 깃든 아름다운 활.\n선공일 경우 해당 전투 중 회피 {Variable=0}
+MIID_PoisonBow: 독의 활{Variable=0}
+MIID_H_PoisonBow1: 화살에 맹독을 묻힌 활.\n공격 명중 시 적을 독 상태로 만든다
+MIID_H_PoisonBow2: 화살에 맹독을 묻힌 활.\n공격 명중 시 적을 독 상태로 만든다.\n전투 기술 「독 추적 화살」 사용 가능
+MIID_AgazeBow: 아가제의 활{Variable=0}
+MIID_H_AgazeBow1: 명계의 어두운 힘이 깃든 검은 마궁.\n전투 기술 「재앙 사격」 사용 가능
+MIID_HedagBow: 헤더그의 활{Variable=0}
+MIID_H_HedagBow1: 명계의 어두운 힘이 깃든 황금 마궁.\n전투 기술 「뇌성」 사용 가능
+MIID_D_HedagBow: 헤더그의 암흑활{Variable=0}
+MIID_H_D_HedagBow1: 망자의 기억이 낳은 사악한 마궁.\n전투 기술 「뇌성」 사용 가능
+MIID_UgouBow: 오호의 활{Variable=0}
+MIID_H_UgouBow1: 명계의 어두운 힘이 깃든 붉은 마궁.\n전투 기술 「천파」 사용 가능
+MIID_IdeaBow: 이데아의 활{Variable=0}
+MIID_H_IdeaBow1: 아라고 왕가에 전해 내려오는 아크.\n전투 기술 「성섬」 사용 가능
+MIID_H_IdeaBow2: 아라고 왕가에 전해 내려오는 아크.\n전투 기술 「성섬」 사용 가능.\n「성섬」의 회복량이 증가한다
+MIID_CarlaBow: 칼라의 활{Variable=0}
+MIID_H_CarlaBow1: 바람의 힘이 깃든 지고의 아크.\n전투 기술 「천풍」 사용 가능
+MIID_H_CarlaBow2: 바람의 힘이 깃든 지고의 아크.\n전투 기술 「천풍」 사용 가능.\n「천풍」의 명중 {Variable=0}
+MIID_WoodGautlet: 목제 건틀릿{Variable=0}
+MIID_H_WoodGautlet1: 가볍고 다루기 쉬운 목제 건틀릿
+MIID_H_WoodGautlet2: 가볍고 다루기 쉬운 목제 건틀릿.\n속도 {Variable=0}
+MIID_BronzeGautlet: 청동의 건틀릿{Variable=0}
+MIID_H_BronzeGautlet1: 청동으로 주조한 일반적인 건틀릿
+MIID_H_BronzeGautlet2: 청동으로 주조한 일반적인 건틀릿.\n수비 {Variable=0}
+MIID_IronGautlet: 철의 건틀릿{Variable=0}
+MIID_H_IronGautlet1: 철을 단조해 만든 양질의 건틀릿
+MIID_H_IronGautlet2: 철을 단조해 만든 양질의 건틀릿.\n기술 {Variable=0}
+MIID_DaminaGautlet: 다 미나의 건틀릿{Variable=0}
+MIID_H_DaminaGautlet0: 다 미나에서 제조된 고품질 건틀릿
+MIID_H_DaminaGautlet1: 다 미나에서 제조된 고품질 건틀릿.\n전투 기술로 공격 시 명중 {Variable=0}
+MIID_H_DaminaGautlet2: 다 미나에서 제조된 고품질 건틀릿.\n전투 기술로 공격 시\n명중·필살 {Variable=0}
+MIID_SilverGautlet: 은의 건틀릿{Variable=0}
+MIID_H_SilverGautlet1: 정제한 은으로 만든 강력한 건틀릿
+MIID_AvoidGautlet: 회피의 건틀릿{Variable=0}
+MIID_H_AvoidGautlet1: 매우 가볍고 움직이기 편한 건틀릿.\n공격을 회피하기 쉬워진다
+MIID_ResistGautlet: 대마법의 철갑{Variable=0}
+MIID_H_ResistGautlet0: 마법에 대한 내성을 갖춘 건틀릿
+MIID_H_ResistGautlet1: 마법에 대한 내성을 갖춘 건틀릿.\n마방 {Variable=0}
+MIID_CounterGautlet: 반격의 건틀릿{Variable=0}
+MIID_H_CounterGautlet0: 반격할 때 진가를 발휘하는 건틀릿
+MIID_H_CounterGautlet1: 반격할 때 진가를 발휘하는 건틀릿.\n후공일 경우 해당 전투 중\n공격력 {Variable=0}
+MIID_H_CounterGautlet2: 반격할 때 진가를 발휘하는 건틀릿.\n후공일 경우 해당 전투 중\n공격력 {Variable=0}, 명중 {Variable=1}
+MIID_Jamadahar: 자마다르{Variable=0}
+MIID_H_Jamadahar1: 끝에 예리한 칼날이 달린 건틀릿.\n전투 기술 「필살갑」 사용 가능
+MIID_Kenkonken: 건곤권{Variable=0}
+MIID_H_Kenkonken1: 투척할 수 있는 원형 무기
+MIID_H_Kenkonken2: 투척할 수 있는 원형 무기.\n2칸 이상 떨어진 적과 전투 시\n명중·필살·회피 {Variable=0}
+MIID_Dondebok: 사갑 돈데복{Variable=0}
+MIID_H_Dondebok1: 명계의 어두운 힘이 깃든 불꽃 장갑.\n전투 기술 「염천」 사용 가능
+MIID_D_Dondebok: 암갑 돈데복{Variable=0}
+MIID_H_D_Dondebok1: 망자의 기억이 낳은 불꽃 장갑.\n전투 기술 「염천」 사용 가능
+MIID_Gazeria: 사갑 가젤리아{Variable=0}
+MIID_H_Gazeria1: 명계의 어두운 힘이 깃든 환혹 장갑.\n전투 기술 「환신」 사용 가능
+MIID_H_Gazeria2: 명계의 어두운 힘이 깃든 환혹 장갑.\n전투 기술 「환신」 사용 가능.\n전투 기술로 공격 시 공격력 {Variable=0}
+MIID_D_Gazeria: 암갑 가젤리아{Variable=0}
+MIID_H_D_Gazeria1: 망자의 기억이 낳은 환혹 장갑.\n전투 기술 「환신」 사용 가능
+MIID_BearClaw: 
+MIID_H_BearClaw1: 
+MIID_H_BearClaw2: 
+MIID_D_BearClaw: 큰 곰의 암흑발톱{Variable=0}
+MIID_H_D_BearClaw1: 망자의 기억이 낳은 발톱 장갑.\n전투 기술 「폭조」 사용 가능
+MIID_BearClawRight: 큰 곰의 오른 발톱
+MIID_H_BearClawRight1: 꺼림칙한 발톱 장갑의 일부분.\n전투 기술 「폭조」 사용 가능
+MIID_BearClawLeft: 큰 곰의 왼 발톱
+MIID_H_BearClawLeft1: 꺼림칙한 발톱 장갑의 일부분.\n전투 기술 「폭조」 사용 가능
+MIID_SmirnosGautlet: 스미르노스의 뇌갑{Variable=0}
+MIID_H_SmirnosGautlet1: 번개의 힘이 깃든 지고의 아크.\n전투 기술 「뇌갑 트론」 사용 가능
+MIID_Hukarin: 풍화륜{Variable=0}
+MIID_H_Hukarin1: 불의 힘이 깃든 아름다운 아크.\n전투 기술 「염륜」 사용 가능
+MIID_H_Hukarin2: 불의 힘이 깃든 아름다운 아크.\n전투 기술 「염륜」 사용 가능.\n선공일 경우 해당 전투 중 명중 {Variable=0}
+MIID_Salamander: 샐러맨더{Variable=0}
+MIID_H_Salamander1: 막강한 위력을 자랑하는 휴대 화기.\n마법 공격에 속한다.\n전투 기술 「과압축 광탄」 사용 가능
+MIID_H_Salamander2: 막강한 위력을 자랑하는 휴대 화기.\n마법 공격에 속한다.\n전투 기술 「과압축 광탄」 사용 가능
+MIID_Zerberos: 체르베르스{Variable=0}
+MIID_H_Zerberos1: 트로이아에게 맞춰진 휴대 화기.\n마법 공격에 속한다.\n전투 기술 「과압축 광탄」 사용 가능
+MIID_H_Zerberos2: 트로이아에게 맞춰진 휴대 화기.\n마법 공격에 속한다.\n전투 기술 「과압축 광탄」 사용 가능
+MIID_Chiarenza: 키아렌차
+MIID_H_Chiarenza: 크레르가 만든 휴대 화기.\n마법 공격에 속한다
+MIID_Fire: 파이어
+MIID_H_Fire: 화염구로 공격하는 초급 마법
+MIID_Bolganon: 볼케논
+MIID_H_Bolganon: 주변을 불태우는 상급 마법
+MIID_Thunder: 선더
+MIID_H_Thunder: 번개를 떨어뜨리는 초급 마법
+MIID_Tron: 트론
+MIID_H_Tron: 전격으로 적을 꿰뚫는 상급 마법
+MIID_Wind: 윈드
+MIID_H_Wind: 진공 칼날을 날리는 초급 마법.\n비행 유효
+MIID_Shaver: 셰이버
+MIID_H_Shaver: 바람 칼날로 공격하는 상급 마법.\n비행 유효
+MIID_Blizzar: 블리자드
+MIID_H_Blizzar: 대상을 얼리는 초급 마법
+MIID_IceBlade: 아이스 블레이드
+MIID_H_IceBlade: 얼음 칼날을 쏘아 내는 상급 마법
+MIID_Arrow: 애로
+MIID_H_Arrow: 날카로운 마력 화살을 쏘는 마법
+MIID_AgneaArrow: 아그네아의 화살
+MIID_H_AgneaArrow: 만물을 불살라 정화하는 최상급 마법
+MIID_ThunderStorm: 선더스톰
+MIID_H_ThunderStorm: 번개 폭풍으로\n먼 곳을 공격하는 최상급 마법\n(추격 불가)
+MIID_Excalibur: 엑스칼리버
+MIID_H_Excalibur: 거대한 바람 칼날로\n적을 찢어 버리는 최상급 마법.\n비행 유효
+MIID_FimbleNight: 핌불의 밤
+MIID_H_FimbleNight: 모든 것을 얼려 버리는 최상급 마법
+MIID_WanderingWall: 떠돌이 벽
+MIID_H_WanderingWall: 지정한 곳에 벽을 생성한다
+MIID_GlassWheel: 유리 수레바퀴
+MIID_H_GlassWheel: 경화된 유리 화살로 적을 공격한다.\n적의 물방에 의해 대미지가 결정된다.\n비행 유효
+MIID_JudgmentSword: 심판의 검
+MIID_H_JudgmentSword: 스스로 행동하는 검으로 공격한다.\n{Variable=0}회 연속으로 공격한다.\n적의 물방에 의해 대미지가 결정된다
+MIID_EarthJaw: 대지의 턱
+MIID_H_EarthJaw: 거대한 턱이 모든 것을 씹어 부순다.\n적의 물방에 의해 대미지가 결정된다
+MIID_GriefGravel: 탄식의 비석
+MIID_H_GriefGravel: 규소 결정으로 대상을 공격한다.\n공격이 반드시 명중한다.\n적의 물방에 의해 대미지가 결정된다
+MIID_CrushingFist: 파쇄의 거권
+MIID_H_CrushingFist: 거대한 주먹으로 대상을 깨부순다.\n적의 물방에 의해 대미지가 결정된다
+MIID_SolidGiant: 무구한 거인
+MIID_H_SolidGiant: 강력한 대형 타이타니스를 소환한다
+MIID_SandstormBattalion: 사풍 대대
+MIID_H_SandstormBattalion: 다수의 소형 타이타니스를 소환한다
+MIID_Dora: 도라Δ
+MIID_H_Dora: 응축된 암흑 물질로 적을 공격한다
+MIID_Slime: 슬라임Β
+MIID_H_Slime: 유사 생명체의 소화액으로 공격한다
+MIID_Warm: 웜Ζ
+MIID_H_Warm: 무수한 미세 기계로 포위 공격 한다.\n명중 시 적의 속도 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MIID_Banshee: 반시Θ
+MIID_H_Banshee: 암흑의 팔로 대상을 제압한다.\n명중 시 적을\n이동 불능 상태로 만든다
+MIID_Death: 데스Γ
+MIID_H_Death: 인공 사신이 대상을 죽음으로 이끈다.\n필살이 높다
+MIID_Luna: 루나Λ
+MIID_H_Luna: 대상을 내부로부터 파괴하는 공격.\n적의 마방을 무시한다
+MIID_DarkSpikes: 다크스파이크Τ
+MIID_H_DarkSpikes: 기병을 상대로 특화된 마법.\n기병 특효
+MIID_Heal: 라이브
+MIID_H_Heal: 상처를 약간 낫게 하는 신성 마법.\n아군의 HP를 회복한다
+MIID_Recover: 리커버
+MIID_H_Recover: 상처를 많이 낫게 하는 신성 마법.\n아군의 HP를 크게 회복한다
+MIID_Riblow: 리브로
+MIID_H_Riblow: 먼 곳의 아군을 치유하는 신성 마법.\n떨어져 있는 아군의 HP를 회복한다
+MIID_Reserve: 리저브
+MIID_H_Reserve: 넓은 범위에 있는 아군을\n한꺼번에 치유하는 신성 마법.\n범위 내 아군의 HP를 회복한다
+MIID_Laia: 라이아
+MIID_H_Laia: 상처를 약간 낫게 하는 신성 마법.\n아군의 HP를 조금 회복한다.\n드물게 회복량 {Variable=0}
+MIID_Lizaia: 리자이어
+MIID_H_Lizaia: 대상의 생명력을 흡수하는 신성 마법.\n준 대미지의 절반만큼\nHP를 회복한다
+MIID_Angel: 엔젤
+MIID_H_Angel: 청정한 빛으로 공격하는 신성 마법.\n명귀 유효
+MIID_Aura: 오라
+MIID_H_Aura: 솟구치는 빛으로 사르는 신성 마법
+MIID_Starlight: 스타라이트
+MIID_H_Starlight: 별빛으로 대상을 물리치는 신성 마법.\n명귀 유효
+MIID_Torch: 토치
+MIID_H_Torch: 빛으로 어둠을 내쫓는 신성 마법.\n시야 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MIID_Rest: 레스트
+MIID_H_Rest: 몸 상태를 되돌리는 신성 마법.\n아군의 상태 이상을 해제한다
+MIID_Resquia: 레스키아
+MIID_H_Resquia: 가까운 대상을 옮기는 신성 마법.\n아군을 자신과 인접한 칸으로\n이동시킨다
+MIID_Rescue: 레스큐
+MIID_H_Rescue: 먼 대상을 옮기는 신성 마법.\n아군을 자신과 인접한 칸으로\n이동시킨다
+MIID_Warp: 워프
+MIID_H_Warp: 대상을 다른 곳으로 옮기는 마법.\n아군을 주위 {Variable=0}칸 이내의 장소로\n이동시킨다
+MIID_Barrier: 배리어
+MIID_H_Barrier: 신성 장벽으로 아군을 지키는 마법.\n아군이 다음 전투에서 받는\n대미지가 반감된다
+MIID_MagicShield: 매직 실드
+MIID_H_MagicShield: 마도의 영향을 방어하는 신성 마법.\n아군의 마방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MIID_Emergence: 이머지스
+MIID_H_Emergence: 치명적 일격을 저지하는 신성 마법.\n아군의 필살 회피 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MIID_Regeia: 리제네라
+MIID_H_Regeia: 꾸준히 상처를 낫게 하는 신성 마법.\n아군의 HP를 페이즈 개시 시마다\n소량 회복 ({Variable=0}턴 후 해제)
+MIID_Silece: 사일런스
+MIID_H_Silece: 마도를 봉인하는 신성 마법.\n적을 마법 봉인 상태로 만든다
+MIID_Freeze: 프리즈
+MIID_H_Freeze: 행동을 제한하는 신성 마법.\n적을 이동 불능 상태로 만든다
+MIID_Basark: 버서크
+MIID_H_Basark: 정신에 영향을 미치는 신성 마법.\n적을 혼란 상태로 만든다
+MIID_Thanatos: 타나토스
+MIID_H_Thanatos: 땅속에서 암흑 팔을 소환하는 마법
+MIID_WoodShield: 목제 방패
+MIID_H_WoodShield: 수비 {Variable=0}
+MIID_BronzeShield: 청동의 방패
+MIID_IronShield: 철의 방패
+MIID_DaminaShield: 다 미나의 방패
+MIID_SilverShield: 은의 방패
+MIID_AmuletShield: 퇴마의 방패
+MIID_H_AmuletShield: 수비 {Variable=0}, 마방 {Variable=1}
+MIID_ResistShield: 마법 봉인 방패
+MIID_HitRing: 사수의 반지
+MIID_H_HitRing: 명중 {Variable=0}
+MIID_AVoidRing: 환영의 반지
+MIID_H_AVoidRing: 회피 {Variable=0}
+MIID_CriticalRing: 사냥꾼의 반지
+MIID_H_CriticalRing: 필살 {Variable=0}
+MIID_GoddessRing: 여신의 반지
+MIID_H_GoddessRing: 행운 {Variable=0}
+MIID_GiantRing: 거인의 반지
+MIID_H_GiantRing: 체격 {Variable=0}
+MIID_GaleRing: 질풍의 반지
+MIID_H_GaleRing: 속도 {Variable=0}
+MIID_PoisonJewel: 식독의 보주
+MIID_H_PoisonJewel: 공격받을 때 적이 독 상태라면\n받는 대미지가 {Variable=0}%로 줄어든다
+MIID_HuntingJewel: 엽독의 보주
+MIID_H_HuntingJewel: 공격 시 적이 독 상태라면\n주는 대미지가 {Variable=0}배로 증가한다
+MIID_EventfulJewel: 파란의 가면
+MIID_H_EventfulJewel: 명계의 어두운 힘이 깃든 가면.\n공격 시 적이 혼란 상태라면\n주는 대미지가 {Variable=0}배로 증가한다
+MIID_FuraiJewel: 표풍의 보주
+MIID_H_FuraiJewel: 전투 시 {Variable=0}%로 발동.\n추격을 받지 않는다
+MIID_LightningJewel: 신뢰의 보주
+MIID_H_LightningJewel: 전투 기술로 공격 시 {Variable=0}%로 발동.\n주는 대미지가 {Variable=1}배로 증가한다
+MIID_FlameJewel: 굉염의 보주
+MIID_H_FlameJewel: 전투 기술로 공격 시 {Variable=0}%로 발동.\n명중 {Variable=1}
+MIID_StormJewel: 취람의 보주
+MIID_H_StormJewel: 전투 기술로 공격 시 {Variable=0}%로 발동.\n해당 전투 중 회피 {Variable=1}
+MIID_VictoryJewel: 축승의 보주
+MIID_H_VictoryJewel: 적 처치 시\n자신의 HP를 소량 회복한다
+MIID_CriticalJewel: 필성의 보주
+MIID_H_CriticalJewel: 필살의 일격 발동 시 준 대미지의\n1/3만큼 HP를 회복한다
+MIID_ChallengeJewel: 도전의 보주
+MIID_H_ChallengeJewel: 전투 시 적과 무기 종류가 같다면\n공격력 {Variable=0}
+MIID_PursuitJewel: 추격의 보주
+MIID_H_PursuitJewel: 전투 시 {Variable=0}%로 발동.\n공속에 상관없이 추격한다
+MIID_CharmJewel: 매료의 가면
+MIID_H_CharmJewel: 전투 시 (매력÷2)%로 발동.\n적의 명중 {Variable=0}
+MIID_SeverJewel: 절풍의 보주
+MIID_H_SeverJewel: 선공일 경우 {Variable=0}%로 발동.\n추격을 받지 않는다
+MIID_MiracleJewel: 기적의 보주
+MIID_H_MiracleJewel: 공격받을 때 {Variable=0}%로 발동.\n받는 대미지가 0이 된다
+MIID_DaintyJewel: 가련의 가면
+MIID_H_DaintyJewel: 전투 시 자신의 매력이\n적보다 {Variable=0} 이상 높으면\n적의 명중 {Variable=1}
+MIID_SpiritJewel: 정령의 보주
+MIID_H_SpiritJewel: 마법 공격을 받을 때 {Variable=0}%로 발동.\n회피 {Variable=1}
+MIID_MadnessJewel: 취광의 가면
+MIID_H_MadnessJewel: 자신이 혼란 상태라면\n회피 {Variable=0}
+MIID_SwordAmulet: 검 킬러 부적
+MIID_H_SwordAmulet: 전투 시 적이 검을 장비 중이면\n명중·회피 {Variable=0}
+MIID_SpearAmulet: 창 킬러 부적
+MIID_H_SpearAmulet: 전투 시 적이 창을 장비 중이면\n명중·회피 {Variable=0}
+MIID_AxeAmulet: 도끼 킬러 부적
+MIID_H_AxeAmulet: 전투 시 적이 도끼를 장비 중이면\n명중·회피 {Variable=0}
+MIID_BowAmulet: 활 킬러 부적
+MIID_H_BowAmulet: 전투 시 적이 활을 장비 중이면\n명중·회피 {Variable=0}
+MIID_GauntletAmulet: 건틀릿 킬러 부적
+MIID_H_GauntletAmulet: 전투 시 적이 건틀릿을 장비 중이면\n명중·회피 {Variable=0}
+MIID_MagicalWand: 마도의 지팡이
+MIID_H_MagicalWand: 마력 {Variable=0}
+MIID_HealingWand: 치유의 지팡이
+MIID_H_HealingWand: 마법으로 아군을 회복할 때\n회복량 {Variable=0}
+MIID_GaranBangle: 가란의 암흑팔찌
+MIID_H_GaranBangle: 명계의 어두운 힘이 깃든 팔찌.\n공격 마법의 사정 {Variable=0}
+MIID_DemonSkull: 귀면의 해골
+MIID_H_DemonSkull: 명계의 어두운 힘이 깃든\n무시무시한 해골.\n마법 공격 시 필살 {Variable=0}
+MIID_D_DemonSkull: 귀면의 암흑해골
+MIID_AgonyShield: 고민의 방패
+MIID_H_AgonyShield: 명계의 어두운 힘이 깃든 방패.\n마법 공격을 받을 때 {Variable=0}%로 발동.\n받는 대미지가 반감된다
+MIID_AronWand: 원장 아론
+MIID_H_AronWand: 명계의 어두운 힘이 깃든 지팡이.\n마력·기술 {Variable=0}
+MIID_JuneauShield: 주라의 빙경
+MIID_H_JuneauShield: 고요한 냉기를 머금은 지고의 아크.\n필살의 일격을 받을 때\n받는 대미지가 반감된다
+MIID_ZephyrusShield: 제피로스의 방패
+MIID_H_ZephyrusShield: 바람의 힘이 깃든 신비한 아크.\n비행 유효·비행 특효 무효화
+MIID_CatMask: 고양이 가면
+MIID_H_CatMask: 매력 {Variable=0}
+MIID_YuphasMask: 유 파스의 가면
+MIID_H_YuphasMask: 명귀 속성인 적에게 공격받을 때\n방어력 {Variable=0}
+MIID_LyraMask: 라일라의 가면
+MIID_H_LyraMask: 마력 {Variable=0}
+MIID_MyrnaMask: 마아나의 가면
+MIID_H_MyrnaMask: 행운 {Variable=0}
+MIID_IsietoMask: 이세트의 가면
+MIID_H_IsietoMask: 매력 {Variable=0}
+MIID_FortanaWand: 포트나의 신성 지팡이
+MIID_H_FortanaWand: 술사의 능력을 높이는 지고의 아크.\n회복 마법의 사정 {Variable=0}
+MIID_BragiBrush: 브라기의 화필
+MIID_H_BragiBrush: 명계의 어두운 힘이 깃든 붓.\n마법 공격 시 명중 {Variable=0}
+MIID_D_BragiBrush: 브라기의 암흑화필
+MIID_SummonBranch: 강령의 가지
+MIID_H_SummonBranch: 명계의 어두운 힘이 깃든 피리.\n망자를 소환한다
+MIID_Gleipnir: 요사 글레이프니르
+MIID_D_Gleipnir: 암사 글레이프니르
+MIID_H_Gleipnir: 명계의 어두운 힘이 깃든 요사.\n타인의 정신을 조종한다
+MIID_WhiteMoon: 천현·월백
+MIID_H_WhiteMoon: 건곤의 연주자가 쓰던 전설의 비우엘라.\n그 선율은 하늘 끝까지 울려 퍼진다.\n마방 {Variable=0}
+MIID_D_WhiteMoon: 암현·월백
+MIID_H_D_WhiteMoon: 명계에 물든 마리아의 비우엘라.\n명계의 스산한 선율을 연주한다.\n마방 {Variable=0}
+MIID_ParticleEmblem: 전자 교란 끈
+MIID_H_ParticleEmblem: 고대 기술로 만든 특수 합금 밧줄.\n마법 공격 명중 시 {Variable=0}%로 발동.\n적을 혼란 상태로 만든다
+MIID_BlissTongue: 지복한 혀
+MIID_H_BlissTongue: 명계의 어두운 힘이 깃든 혀.\n적 처치 시 자신의 HP를\n적당량 회복한다
+MIID_PoisonBone: 마독의 뼈 사슬
+MIID_H_PoisonBone: 명계의 어두운 힘이 깃든 사슬.\n마법 공격 명중 시 {Variable=0}%로 발동.\n적을 독 상태로 만든다
+MIID_SeaCharm: 해령의 부적
+MIID_H_SeaCharm: 인접한 적의 행운 {Variable=0}
+MIID_MonasticTalisman: 수도회의 지팡이
+MIID_H_MonasticTalisman: 마력 {Variable=0}, 마방 {Variable=1}
+MIID_HeatHazeOrder: 아지랑이 훈장
+MIID_H_HeatHazeOrder: 검 또는 활 장비 시\n공격이 명중했을 때\n최소 {Variable=0} 이상의 대미지를 준다
+MIID_AuroraCloth: 아우로라의 수호포
+MIID_H_AuroraCloth: 별의 힘이 깃든 아크.\n마방 {Variable=0}.\n인접한 아군의 마방 {Variable=1}
+MIID_CarlaNeedle: 칼라의 성침
+MIID_H_CarlaNeedle: 여신이 호신용으로 숨겨 둔 아크.\n추격 시 공격력 {Variable=0}
+MIID_MarsStone: 마스의 무릎 보호대
+MIID_H_MarsStone: 군신을 위해 만들어진 아크.\n전투 기술로 공격 시\n공격력 {Variable=0}, 필살 {Variable=1}
+MIID_AlchemyStone: 연성석
+MIID_H_AlchemyStone: 각지의 광산에서 산출되는 광석.\n여기서 추출한 물질을 첨가하여\n무기를 강화할 수 있다
+MIID_Corundum: 옥 강철
+MIID_H_Corundum: 자연에서 채굴할 수 있는 철광석 중\n특별히 품질이 좋은 것을 가리킨다.\n탄소 등의 불순물 함량이 낮다
+MIID_PoisonStone: 독석
+MIID_H_PoisonStone: 공기 중에 떠도는 독소를 흡수하여\n내부에 응축시킨 광석.\n채굴할 때 위험을 동반한다
+MIID_WindStone: 풍석
+MIID_H_WindStone: 바람이 항상 지나가는 동굴 안쪽에\n형성되곤 하는 희귀한 광석.\n내부에 바람의 힘을 가두고 있다
+MIID_ThunderStone: 뇌석
+MIID_H_ThunderStone: 번개가 자주 떨어지는 곳 부근에\n형성되곤 하는 희귀한 광석.\n내부에 번개의 힘을 가두고 있다
+MIID_SeaStar: 해성석
+MIID_H_SeaStar: 바다와 가까운 동굴 등의 장소에\n형성되곤 하는 희귀한 광석.\n바다의 신비한 힘을 간직하고 있다
+MIID_SunStone: 태양석
+MIID_H_SunStone: 햇빛을 풍부하게 받는 장소에\n형성되기도 하는 희귀한 광석.\n내부에 태양의 빛을 간직하고 있다
+MIID_MoonStone: 월광석
+MIID_H_MoonStone: 어둡고 조용한 장소에\n형성되기도 하는 희귀한 광석.\n내부에 달빛을 머금고 있다
+MIID_BlueSnor: 블루 스노르
+MIID_H_BlueSnor: 춥고 어두운 장소에\n드물게 형성되는 희귀한 광석.\n청백색 광채를 발산한다
+MIID_Cullet: 컬렛
+MIID_H_Cullet: 평범한 수정보다 단단한 수정 조각.\n각지의 동굴에서 발견되곤 한다.\n날에 예리함을 더하는 특성이 있다
+MIID_MagicArray: 매직 어레이
+MIID_H_MagicArray: 수천 년의 세월에 걸쳐 주변의\n마력을 흡수해 결정화된 광물.\n매우 특이한 형태로 되어 있다
+MIID_WootzSteel: 우츠 강철
+MIID_H_WootzSteel: 나뭇결 같은 무늬를 가진 철광석.\n이것을 이용하여 매우 높은 품질의\n무기를 제작할 수 있다
+MIID_Agartium: 아가르타니움
+MIID_H_Agartium: 단단하고 무거운 은백색 희소 금속.\n녹는점이 매우 높아, 가공하려면\n상당한 솜씨가 필요하다
+MIID_DarkMetal: 다크 메탈
+MIID_H_DarkMetal: 극히 희귀하고 신비로운 금속.\n일설에 따르면 운석과 함께\n지상에 떨어져 내려왔다고 한다
+MIID_FlintCrystal: 열소 광석
+MIID_H_FlintCrystal: 한정된 장소에서만 산출되는 매우\n단단한 광물. 적당한 금속과 만나면\n불꽃을 내뿜는다
+MIID_Uranite: 우라노타이트
+MIID_H_Uranite: 옛날에 우라노스 산에서 발견됐다는\n이유로 이름 지어진 광물.\n미량의 열기를 내뿜는다
+MIID_NemeaStalactite: 네메아드
+MIID_H_NemeaStalactite: 네메아 대동굴에서만 산출되는\n매우 희귀한 광석.\n채굴할 때 큰 위험을 동반한다
+MIID_Orichalcum: 오리할콘
+MIID_H_Orichalcum: 황금색으로 빛나는 희소 광물.\n내부에 마력을 머금는 특성이 있다.\n신전이 엄중히 관리하고 있다
+MIID_Adamant: 아다만트
+MIID_H_Adamant: 하얗고 선명하게 빛나는 희소 광물.\n매우 단단하고 강도가 높다.\n신전이 엄중히 관리하고 있다
+MIID_WarriorStone: 전혼석
+MIID_H_WarriorStone: 희귀한 광물. 싸움에서 목숨을 잃고\n끝내 명계에 도달하지 못한 영혼의\n마지막 몰골로 알려져 있다
+MIID_NobutaMeat: 모래 돼지 고기
+MIID_H_NobutaMeat: 살살 녹는 지방과 진하고 강한\n감칠맛의 살코기가 특징이다.\n중간 크기의 암컷이 가장 맛있다
+MIID_BearMeat: 곰 고기
+MIID_H_BearMeat: 누린내가 강하고 단맛이 나는 고기.\n정성껏 삶아 잡내를 제거하면\n놀랄 만큼 고급스러운 맛이 난다
+MIID_SeaMeat: 해수 고기
+MIID_H_SeaMeat: 강한 피비린내가 나는 거뭇한 고기.\n지방 함량이 적어 단단하지만\n잘 씹혀서 먹기 좋다
+MIID_WolfMeat: 늑대 고기
+MIID_H_WolfMeat: 힘줄투성이에 육질이 단단하다.\n일반적으로는 소금에 절인 후\n볕에 말려 보존 식품으로 가공한다
+MIID_KusarikMeat: 쿠사리쿠 고기
+MIID_H_KusarikMeat: 진한 감칠맛이 감도는 살코기.\n특유의 냄새도 없고, 입안에 넣으면\n은은한 신맛과 매운맛이 느껴진다
+MIID_LuffMeat: 루프 고기
+MIID_H_LuffMeat: 선명한 붉은빛의 살코기로\n잡내가 없고 영양가는 매우 높다.\n어떤 요리와도 잘 맞는다
+MIID_YakMeat: 야크 고기
+MIID_H_YakMeat: 냄새가 독특하고 야생의 맛이 난다.\n육질은 부드러우며, 향초와 함께\n조리하는 것이 일반적이다
+MIID_LizardMeat: 날도마뱀 고기
+MIID_H_LizardMeat: 지방 함량이 적고 담백한 백색육.\n지나치게 가열하면 수분이 날아가\n맛이 크게 떨어진다
+MIID_GiantMeat: 거대 고기
+MIID_H_GiantMeat: 거인이 즐겨 먹는 뼈에 붙은 고기.\n독특한 보존 방법 때문인지\n발효되어 특유의 풍미가 있다
+MIID_WoodliceMeat: 쥐며느리 고기
+MIID_H_WoodliceMeat: 딱딱한 껍질과는 정반대로 고기는\n희고 반투명한 데다, 탄력이 있고\n부드러워 섬세한 맛이다
+MIID_ScorpionMeat: 샌드 바알 고기
+MIID_H_ScorpionMeat: 의외로 먹을 수 있는 부분이 적다.\n육질은 하얀 섬유 같고\n일부 갑각류와 비슷한 맛이 난다
+MIID_SandwormMeat: 모래 벌레 고기
+MIID_H_SandwormMeat: 육질은 탄력 있고 단단하며\n씹으면 감칠맛이 배어난다.\n사막에서 귀중한 단백질 공급원이다
+MIID_AmidGoby: 타르토 망둥이
+MIID_AmidGoby_Tut: 남은 타르토 망둥이
+MIID_H_AmidGoby: 다그다 전역에 서식하는 민물고기.\n몸집이 작고 약간 납작하게 생겼다.\n뼈가 부드러워 그대로 먹을 수 있다
+MIID_AmidPike: 바알 꼬치고기
+MIID_H_AmidPike: 주로 바알호에 서식하는 민물고기.\n수명이 길어 상당한 크기로 자라며\n고기는 달고 맛있다
+MIID_Megaminotsukai: 반짝반짝어
+MIID_H_Megaminotsukai: 신어라고도 불리는 전설 속 물고기.\n특정 호수에만 서식하며\n먹으면 신체가 강건해진다고 한다
+MIID_CarneBonito: 카르네 가다랑어
+MIID_H_CarneBonito: 먼바다에 사는 대형 육식성 어류.\n살이 두툼하고 감칠맛이 강해\n다양한 형태로 가공하여 먹는다
+MIID_HeartBonito: 하트 가다랑어
+MIID_H_HeartBonito: 먼바다에 사는 대형 육식성 어류.\n특정 해역에만 서식하고\n머리에는 독특한 무늬가 있다
+MIID_GoldTrout: 금송어
+MIID_H_GoldTrout: 아름다운 황금빛 몸을 가진 물고기.\n민물이든 바다든 상관없이 서식한다.\n달고 매우 고급스러운 맛이 난다
+MIID_WhiteTrout: 순백의 송어
+MIID_H_WhiteTrout: 넓은 지역에 분포하는 하얀 물고기.\n민물이든 바다든 상관없이 서식한다.\n신기할 정도로 짠맛이 강하다
+MIID_Calednisgaa: 코샬루 가아
+MIID_H_Calednisgaa: 비교적 흐름이 완만한 곳에\n숨은 듯 서식하는 민물고기.\n매우 단단한 비늘이 특징이다
+MIID_Yumenosilbe: 꿈 길잡이
+MIID_H_Yumenosilbe: 매우 영양가가 높은 희귀 어종.\n거친 바다를 선호하여, 그러한 곳에\n서식하는 경우가 많다고 한다
+MIID_LilFish: 리르 피시
+MIID_H_LilFish: 리르해에 널리 분포하는 물고기.\n몸은 작지만 성격이 사나워\n어부의 그물을 찢어 놓는 골칫덩이
+MIID_BazariShark: 바자리 상어
+MIID_H_BazariShark: 지능이 높고 사나운 대형 어종.\n무리 지어 사냥을 하는 경우가 있다.\n포획이 어려워 희소성이 높다
+MIID_GalaMerlin: 갈라 멀린
+MIID_H_GalaMerlin: 날카로운 입을 가진 매우 큰 물고기.\n먼바다에 서식하며 힘이 매우 강해\n숙련된 어부라도 포획하기 어렵다
+MIID_TortatesLoach: 라돈 잉어
+MIID_H_TortatesLoach: 오염에 강해 어떤 환경에서도\n서식할 수 있는 민물고기.\n요리 전에 내장을 비우는 것이 좋다
+MIID_TortatesPike: 라돈 꼬치고기
+MIID_H_TortatesPike: 라돈호 등 큰 호수에 널리 서식하는\n민물고기. 비린내가 강해서\n요리하려면 주의가 필요하다
+MIID_BlackRoach: 검은 잉어
+MIID_H_BlackRoach: 극히 일부의 호수에만 서식하는\n매우 희귀한 물고기. 맛이 독특하여\n한번 빠진 사람은 계속 찾게 된다
+MIID_Rahran: 라란
+MIID_H_Rahran: 리르해에서 잡히는 물고기.\n특유의 맛이 강렬한 탓에 요리사의\n솜씨에 따라 평가가 엇갈린다
+MIID_AngusPike: 방패 꼬치고기
+MIID_H_AngusPike: 매우 납작한 몸을 갖고 있어\n마치 방패와 같은 모습이다.\n건어물로 만든 것은 귀히 여겨진다
+MIID_QueenRoach: 여왕 잉어
+MIID_H_QueenRoach: 호수에 널리 서식하는 민물고기.\n우아하고 아름다운 생김새로 인해\n호수의 여왕으로도 불린다
+MIID_AlbineHerring: 알비네 청어
+MIID_H_AlbineHerring: 한류를 타고 회유하는 어종.\n맛에는 큰 특징이 없어\n어떤 조리법과도 잘 어울린다
+MIID_MeltFish: 멜트 피시
+MIID_H_MeltFish: 판자 해류에 서식하는 심해어.\n기름기가 굉장히 많아 맛은 있지만\n과식하면 장사라도 배탈이 난다
+MIID_Dougzandi: 다그단디
+MIID_H_Dougzandi: 특이한 생김새를 가진 고대어.\n호수 등지에 서식하고 있다.\n말리면 깊은 맛이 난다
+MIID_DarkFish: 다크 피시
+MIID_H_DarkFish: 어디든 서식할 수 있는 희귀 어종.\n매우 깊은 곳에 살고 있어\n그물에 걸려드는 일을 보기 어렵다
+MIID_MoonFish: 문 피시
+MIID_H_MoonFish: 몇몇 호수에만 서식한다고 알려진\n환상의 물고기. 달이 뜨는 밤에는\n온몸이 빛난다는 전설이 있다
+MIID_GradyGoby: 그래디 망둥이
+MIID_H_GradyGoby: 리르해에 널리 서식하는 흔한 어종.\n바다의 밑바닥으로 파고들어 머리만\n내밀고 있는 모습이 자주 보인다
+MIID_Zotogon: 조토곤
+MIID_H_Zotogon: 조토호에 서식하는 민물고기.\n맛은 좋지만 빠르게 부패하므로\n미리 가공한 상태로 거래된다
+MIID_Scylla: 스칼라이
+MIID_H_Scylla: 해저에 서식하며 거칠고 단단한\n껍질로 머리가 덮인 문어의 일종.\n삶아 먹으면 매우 맛있다
+MIID_HardFish: 하드 피시
+MIID_H_HardFish: 온몸이 단단한 껍질로 덮인 물고기.\n투박한 겉모습과는 달리, 속살은\n담백하고 정제된 감칠맛이 난다
+MIID_SugarMerlin: 슈거 멀린
+MIID_H_SugarMerlin: 주둥이가 짧은 중간 크기의 회유어.\n살은 근육질에 은은한 단맛이 있어\n어떻게 요리해 먹어도 맛있다
+MIID_TeffFruit: 테프 열매
+MIID_TeffFruit_Tut: 먹다 남은 테프 열매
+MIID_H_TeffFruit: 남부에서 많이 재배되는 열매.\n열매에서 씨만 빼내어 볶은 테프가\n곳곳에서 거래되고 있다
+MIID_Ginji: 긴지
+MIID_H_Ginji: 다그다의 땅 곳곳에 자생하는 과일.\n나무줄기에 작은 열매가 맺힌다.\n홍소의 재료로 이용된다
+MIID_Kimbasho: 금파초
+MIID_H_Kimbasho: 삼림 지대 등에 자생하는 과일.\n열매는 달고 영양가가 매우 높다.\n잎이나 줄기도 유용하게 쓰인다
+MIID_Sabakukibi: 사막 수수
+MIID_H_Sabakukibi: 건조 지대에 자생하는 식물.\n낟알을 탈곡해서 식용으로 쓴다.\n향미가 진하고 흙냄새가 난다
+MIID_Baku: 바쿠
+MIID_H_Baku: 널리 이용되고 있는 곡물.\n생육에는 충분한 양의 물이 필요해\n큰 강 유역 등에서 재배된다
+MIID_Dates: 대추야자
+MIID_H_Dates: 건조한 기후에 적합해 사막에서도\n자생한다. 말린 열매는 매우 달아서\n보존 식품으로 널리 이용된다
+MIID_BlueGinji: 파란 긴지
+MIID_H_BlueGinji: 드물게 발견되는 긴지의 변종.\n열매는 선명한 푸른색을 띤다.\n창소의 재료로 이용된다
+MIID_Hishibana: 마름꽃
+MIID_H_Hishibana: 주로 온화한 기후에서 자생하는\n식물. 네모난 꽃이 특징이며\n꽃을 먹을 수도 있다
+MIID_Kadam: 카담
+MIID_H_Kadam: 남부에서 발견되는 식물. 열매는\n껍질이 단단하고 지방이 풍부하다.\n껍질을 그릇으로 가공하기도 한다
+MIID_Angelica: 안젤리카
+MIID_H_Angelica: 한정된 지역에만 자생하는 희귀한\n향초. 잎과 줄기를 이용한다.\n달고 향이 진하며 약효도 뛰어나다
+MIID_SemPotato: 셈 감자
+MIID_H_SemPotato: 온난 습윤한 환경을 좋아하는 식물.\n수확한 땅속줄기는 보존성이 좋아서\n식용으로 널리 쓰이고 있다
+MIID_Soldanella: 솔다넬라
+MIID_H_Soldanella: 주로 솔리두스 지방에 자생하는\n식물. 식용으로 쓰기 위해서는\n꽃이 피기 전에 수확할 필요가 있다
+MIID_Hikariboshi: 반짝 별
+MIID_H_Hikariboshi: 극히 일부 지방에서만 자라는\n희귀 식물. 길게 뻗은 덩굴 끝에\n큼지막한 열매가 맺힌다
+MIID_Apatia: 아파치아
+MIID_H_Apatia: 건조한 지역에서 자생하는 식물.\n고급스러운 단맛과 희소성으로 인해\n높은 가격에 거래되기도 한다
+MIID_Sorgi: 솔기
+MIID_H_Sorgi: 사막 등지에서 자생하는 식물.\n다량의 수분을 함유하고 있어\n그 덕분에 구원받은 여행자도 많다
+MIID_PurgatoryGrass: 연옥초
+MIID_H_PurgatoryGrass: 잎에서는 불을 뿜는다는 표현이\n어울릴 만큼 강렬한 매운맛이 난다.\n보기 드문 향신료로 귀히 여겨진다
+MIID_Gurumaosa: 글루마오사
+MIID_H_Gurumaosa: 아름답게 생겼으나 독성이 강해\n사람이 먹을 때는 세심한 주의가\n필요하다. 벌레 퇴치에 유용하다
+MIID_RedFlicker: 레드 플리커
+MIID_H_RedFlicker: 산악 지대에 주로 자생하는 야채.\n매운맛이 강한 열매를 잘 말려서\n요리에 사용하기도 한다
+MIID_Agave: 용설란
+MIID_H_Agave: 사막에 자생하고 있는 식물.\n잎에 난 가시를 제거하고 이용한다.\n섬유질이며 독특한 매운맛이 난다
+MIID_SunFruit: 태양 열매
+MIID_H_SunFruit: 어디서든 비교적 잘 자라는 야채.\n열매는 작아도 맛이 풍부하고\n으깬 것은 맛 내기 비법으로 쓰인다
+MIID_RedKimbai: 빨간 금매
+MIID_H_RedKimbai: 금매의 변종.\n새빨간 꽃을 피운다.\n씨앗은 풍미가 강해 귀히 여겨진다
+MIID_Crestor: 크레스토
+MIID_H_Crestor: 사막에 자생하는 희귀한 식물.\n잎을 다져 향신료로 이용한다.\n약재로 쓰기 위해 찾는 사람도 많다
+MIID_Roca: 로카
+MIID_H_Roca: 북부에서 자주 발견되는 야채.\n붉고 동그란 뿌리 부분을 먹는다.\n가열하면 독특한 매운맛이 완화된다
+MIID_Shaktou: 샥투
+MIID_H_Shaktou: 고온 다습한 지역에서 자라는 야채.\n매운맛이 극도로 강해, 수확할 때\n손이 짓무르는 경우가 있다
+MIID_Joppa: 요파
+MIID_H_Joppa: 열매가 어른의 머리만큼 크며\n매우 향이 좋고 쌉싸름한 맛이 난다.\n껍질을 꿀에 절여 먹기도 한다
+MIID_Linaria: 리나리아
+MIID_H_Linaria: 다그다 전역에 자생하는 식물.\n다양한 색의 조그마한 꽃을 피운다.\n강인하며 가뭄에도 잘 견딘다
+MIID_Zange: 잔게
+MIID_H_Zange: 고도가 낮은 곳에 자생하는 야채.\n단단한 식감과 쓴맛이 특징이다.\n마음을 진정시키는 약효도 있다
+MIID_Oliva: 올리바
+MIID_H_Oliva: 가뭄에 강해 널리 자생하는 식물.\n열매는 식용이 가능하며\n기름을 짜내는 데 쓰이기도 한다
+MIID_NoaFruit: 노어 열매
+MIID_H_NoaFruit: 하나 열매의 변종.\n노어의 동굴 북부에만 자생한다.\n환상의 열매라 불릴 만큼 향이 좋다
+MIID_Obroma: 오브로마
+MIID_H_Obroma: 남부에 자생하는 식물. 열매는\n새콤달콤하고, 발효시킨 씨앗을\n잘 으깨면 고급 식재료가 된다
+MIID_Kimbai: 금매
+MIID_H_Kimbai: 산악 지대에 자생하는 식물.\n아름다운 노란색 꽃을 피운다.\n씨앗은 향신료로 이용된다
+MIID_TeaTree: 차 나무
+MIID_H_TeaTree: 램버스 지방에 자생하는 식물.\n부드러운 새싹을 따서 건조시킨 후\n물에 우려내 그 풍미를 즐긴다
+MIID_IchiFruit: 하나 열매
+MIID_H_IchiFruit: 고도가 높은 곳에서 자라나는 야채.\n쌉싸름하지만 풍부한 향을 가졌다.\n비슷해도 독이 든 두이 열매에 주의
+MIID_Haksan: 학센
+MIID_H_Haksan: 동부에 많이 자라나는 잎채소.\n세련된 맛이지만 상하기 쉽고\n신선도가 떨어지면 쓴맛이 강해진다
+MIID_Enriette: 엔리예트
+MIID_H_Enriette: 바람이 잘 통하는 구릉 지대 등에\n드물게 자라는 희귀한 나무의 열매.\n자양 강장 식품으로 귀히 여겨진다
+MIID_Pongo: 퐁고
+MIID_H_Pongo: 주로 멜리아스 지방의 평야에\n자생하는 매우 특이한 생김새의\n야채. 특유의 향이 적고 쌉싸름하다
+MIID_OdeMonge: 오드 몽주
+MIID_H_OdeMonge: 살라미스 왕국의 특산품.\n맛있지만 떫은맛이 강해, 식용으로\n쓰려면 많은 손을 거쳐야 한다
+MIID_Milanilla: 밀라닐라
+MIID_H_Milanilla: 카스탈리아 지방에 자생하는 향초.\n자극적인 풍미가 입맛을 돋운다.\n많이 먹으면 냄새가 신경 쓰인다
+MIID_DhakaMonge: 다카 몽주
+MIID_H_DhakaMonge: 아트라 산 등지에서 발견되는 식물.\n수차례에 걸쳐 햇볕에 말린 후에야\n겨우 먹을 수 있게 된다
+MIID_Denebatou: 테네바 콩
+MIID_H_Denebatou: 산간 지대에 자생하는 콩의 일종.\n영양가가 매우 높고 건강에 좋다.\n발효시켜서 먹는 지역도 있다
+MIID_Cinnamos: 시나모스
+MIID_H_Cinnamos: 바시테아 지방에서 잘 자라는 향초.\n잎 부분만 따서 사용한다.\n계피와 비슷하게 우아한 향이 난다
+MIID_Paya: 파야
+MIID_H_Paya: 남부 지방에서 재배되는 식물.\n브레저란트 왕국의 특산품이다.\n약간 고기와 비슷한 풍미가 있다
+MIID_Chrysanthemum: 피레스 국화
+MIID_H_Chrysanthemum: 카스탈리아 지방에 자생하는 들풀.\n관상용으로도 쓰인다.\n꽃에 강한 방충 효과가 있다고 한다
+MIID_Hingasha: 빈하사
+MIID_H_Hingasha: 좀처럼 눈에 띄지 않는 희귀 식물.\n머리를 맑게 하는 효과가 있어\n위대한 현자가 애용했다고도 한다
+MIID_YamanGiku: 야먼 국화
+MIID_H_YamanGiku: 일부 지역에서만 드물게 피는 꽃.\n야먼 마을에서 판매하는 명산물로\n잘 알려져 있다
+MIID_Tobarinara: 트발리나라
+MIID_H_Tobarinara: 특정한 땅에만 뿌리를 내리는 나무.\n흔들면 많은 열매가 떨어지며\n이는 트발린 마을의 특산품이다
+MIID_Lazanibarta: 라자니바르타
+MIID_H_Lazanibarta: 바시테아 지방의 희귀 식물.\n입에 머금으면 청량감이 느껴진다.\n거인의 전설에도 등장하는 들풀이다
+MIID_YukiTou: 유키투
+MIID_H_YukiTou: 식용으로 널리 사용되는 야채.\n밭을 가꾸다 보면 드물게 수확된다.\n꽃봉오리를 따 먹는 게 일반적이다
+MIID_CocoMinji: 코코미니
+MIID_H_CocoMinji: 남부 지방에 자생하는 버섯의 일종.\n밭을 가꾸다 보면 드물게 수확된다.\n쿠사리쿠가 매우 좋아한다
+MIID_Usamos: 우사모스
+MIID_H_Usamos: 향이 좋아 인기가 있는 들풀.\n밭을 가꾸다 보면 드물게 수확된다.\n뿌리줄기 부분을 먹을 수 있다
+MIID_Hakuren: 하쿠렌
+MIID_H_Hakuren: 빳빳한 잎을 가진 작은 들풀.\n밭을 가꾸다 보면 드물게 수확된다.\n잠을 깨게 만드는 효과가 있다
+MIID_Yunamei: 유나메이
+MIID_H_Yunamei: 흙덩어리처럼 생긴 남조류의 일종.\n반투명한 데다 탄력이 있어\n개성적인 식감을 자랑한다
+MIID_Nineyakka: 니네이아카
+MIID_H_Nineyakka: 인기가 많은 고급스러운 식물.\n나무껍질을 졸여서 얻을 수 있는\n달콤한 진액을 감미료로 이용한다
+MIID_Baskatch: 바스캐치
+MIID_H_Baskatch: 오그마 지방에 자생하는 고급 야채.\n최근까지도 잘 알려지지 않았다.\n염해에 강해 해변에서도 잘 자란다
+MIID_Almamet: 알마메트
+MIID_H_Almamet: 다그다 북서부에 자생하는 과일.\n축제 때 놓아두면 복이 온다고 한다.\n달콤한 향기와 달리 과육은 맵다
+MIID_Melara: 멜라라
+MIID_H_Melara: 북다그다 일대에 자생하는 균류.\n불꽃처럼 일렁이는 모습이 특징이다.\n너무 많이 먹으면 의식을 잃는다
+MIID_Solom: 솔롬
+MIID_H_Solom: 이색적인 맛의 사막 식물.\n바다 너머 사막에 자생하고 있다.\n가뭄에 특히 강하다
+MIID_Misanga: 미장가
+MIID_H_Misanga: 개성적이고 희귀한 사막 식물.\n바다 너머 사막에 자생하고 있다.\n바람이 불면 굴러다닌다
+MIID_Fugue: 퓌주
+MIID_H_Fugue: 진한 푸른색 껍질을 가진 과일.\n고온 다습한 환경을 선호한다.\n보존 식품으로도 인기가 많다
+MIID_Sharmir: 샤르미르
+MIID_H_Sharmir: 다그다 중앙부에 자생하는 과일.\n덩굴에 작고 붉은 열매가\n주렁주렁 맺히는 모습이 인상적이다
+MIID_Riganet: 리가네트
+MIID_H_Riganet: 주로 다그다 중앙부에 자생하는\n과일. 과일 중에서는 드물게도\n크기가 클수록 맛이 진하다고 한다
+MIID_SweetLeaf: 스위트 리프
+MIID_H_SweetLeaf: 주로 깊은 숲속에 자생하는 달콤한\n향초. 술집의 단골들에게 인기가\n많은 혼합주의 재료로 쓰인다
+MIID_SpiceLeaf: 스파이시 리프
+MIID_H_SpiceLeaf: 자극적인 풍미를 가진 향초.\n술집의 단골들에게 인기가 많은\n혼합주의 재료로 쓰인다
+MIID_BitterLeaf: 비터 리프
+MIID_H_BitterLeaf: 산뜻한 쓴맛이 나는 향초.\n술집의 단골들에게 인기가 많은\n혼합주의 재료로 쓰인다
+MIID_WonderLeaf: 원더 리프
+MIID_H_WonderLeaf: 복잡하고 오묘한 풍미의 향초.\n술집의 단골들에게 인기가 많은\n혼합주의 재료로 쓰인다
+MIID_FishingHook: 예리한 낚싯바늘
+MIID_H_FishingHook: 두꺼운 조개껍데기를 갈아 만든\n가늘고 예리한 고품질 낚싯바늘.\n낚시 애호가가 좋아한다
+MIID_SeaBook: 바다 저편의 고서
+MIID_H_SeaBook: 교역을 통해 해외에서 들어온\n세월의 흐름이 엿보이는 책.\n책 애호가가 좋아한다
+MIID_ArrowFeather: 바람을 가르는 깃
+MIID_H_ArrowFeather: 희귀한 물새의 깃털로 만든 화살 깃.\n화살을 곧게 날려 보내 인기가 많다.\n활 애호가가 좋아한다
+MIID_CookingPedia: 가정 요리 대백과
+MIID_H_CookingPedia: 각지의 가정 요리를 한데 모은 책.\n요식업에 종사하는 모두가 탐낸다.\n요리 애호가가 좋아한다
+MIID_BoardGame: 흑단제 보드게임
+MIID_H_BoardGame: 다그다에서 흔히 즐기는 보드게임.\n묵직하고 윤기 있어 매우 고급스럽다.\n보드게임 애호가가 좋아한다
+MIID_FinestTea: 동방 최고급 찻잎
+MIID_H_FinestTea: 먼 동방, 사이의 나라에서 나는 찻잎.\n유통되는 양이 적어 희소성이 높다.\n음료 애호가가 좋아한다
+MIID_BeautyWater: 천로수
+MIID_H_BeautyWater: 카엘루스에서 제조되고 있는\n여신도 애용한다는 고품질 화장수.\n치장을 즐기는 사람이 좋아한다
+MIID_SewingTools: 실용적인 재봉 도구
+MIID_H_SewingTools: 바느질에 필요한 물건을 고루 갖춘\n쓰기 편하고 인기 있는 재봉 도구.\n치장을 즐기는 사람이 좋아한다
+MIID_TrainingPillar: 단련용 돌기둥
+MIID_H_TrainingPillar: 오래된 유적에서 뽑아 온\n한 아름 가까이 되는 굵기의 돌기둥.\n단련 애호가가 좋아한다
+MIID_FamousPoems: 세계 명시집
+MIID_H_FamousPoems: 바다 건너편의 시를 집대성하여\n각 지역의 문화를 엿볼 수 있는 시집.\n책 애호가가 좋아한다
+MIID_KittenFigurine: 새끼 고양이 장식
+MIID_H_KittenFigurine: 마도의 신 스미르노스가 기르는\n검은 고양이를 재현한 목조 장식.\n동물 애호가가 좋아한다
+MIID_RareSeed: 남부의 희귀 종자
+MIID_H_RareSeed: 남다그다에만 분포한다고 알려진\n희귀 식물의 씨앗.\n밭일을 즐기는 사람이 좋아한다
+MIID_SharpChisel: 날카로운 조각도
+MIID_H_SharpChisel: 다 미나에서 만들어졌다고 하는\n쓰기 편한 한 벌의 조각도.\n예술 애호가가 좋아한다
+MIID_SweetsBook: 영양 만점 과자 책
+MIID_H_SweetsBook: 아이들이 먹으면 몸이 건강해지는\n과자를 만드는 법이 실린 책.\n단것 애호가가 좋아한다
+MIID_FlowerPainting: 작고 흰 꽃 그림
+MIID_H_FlowerPainting: 아름다운 꽃이 그려진 정교한 그림.\n대가가 남긴 전설적 연작 중 하나.\n그림 애호가가 좋아한다
+MIID_LittleDagger: 작고 예리한 단검
+MIID_H_LittleDagger: 날이 잘 드는 조그마한 단검.\n일상생활에서 쓰임이 다양하다.\n무기 애호가가 좋아한다
+MIID_SweetsBox: 달콤한 과자 상자
+MIID_H_SweetsBox: 설탕과 고소한 향신료를\n듬뿍 사용한 고급스러운 과자.\n단것 애호가가 좋아한다
+MIID_CaseFile: 교직원 사건 기록
+MIID_H_CaseFile: 어느 사관 학교에서 벌어지는\n기괴한 사건을 그린 모험담.\n책 애호가가 좋아한다
+MIID_BlackSilk: 동방의 칠흑 비단
+MIID_H_BlackSilk: 밤하늘보다 검고 윤기 나는 비단실.\n시선을 빼앗길 만큼 완성도가 높다.\n치장을 즐기는 사람이 좋아한다
+MIID_PortraitYoo: 유 파스의 초상화
+MIID_H_PortraitYoo: 여신 유 파스의 생전 모습을 묘사한\n매우 귀중한 그림.\n아름다운 것 애호가가 좋아한다
+MIID_FishKnife: 한 쌍의 회칼
+MIID_H_FishKnife: 서로 형태가 다른 두 자루의 회칼.\n어떤 생선이라도 손질할 수 있다.\n요리 애호가가 좋아한다
+MIID_ArrowheadJewelry: 화살촉 모양 보석
+MIID_H_ArrowheadJewelry: 화살촉 모양이 되도록 다듬은\n매우 아름답고 커다란 보석.\n치장을 즐기는 사람이 좋아한다
+MIID_PegasusPainting: 페가수스 풍경화
+MIID_H_PegasusPainting: 하늘을 달리는 페가수스를\n화폭에 담은 웅대한 풍경화.\n그림 애호가가 좋아한다
+MIID_LleatherBag: 튼튼한 가죽 배낭
+MIID_H_LleatherBag: 튼튼하고 쓰기 편한 가죽 배낭.\n생각보다 많은 짐을 넣을 수 있다.\n여행 애호가가 좋아한다
+MIID_AdventureTale: 남해 모험 기담
+MIID_H_AdventureTale: 이름난 뱃사람이 남다그다의 바다를\n항해했던 경험을 정리한 귀중한 책.\n책 애호가가 좋아한다
+MIID_ArtSupplies: 연한 물감
+MIID_H_ArtSupplies: 곱게 갈린 안료로 제작하여\n옅은 색이 아름답게 표현되는 물감.\n예술 애호가가 좋아한다
+MIID_DanteCollection: 단테 희곡 전집
+MIID_H_DanteCollection: 희대의 극작가 단테의 작품들에서\n명장면을 엮어 한 권으로 소개한 책.\n책 애호가가 좋아한다
+MIID_JarredVegetables: 야채 절임
+MIID_H_JarredVegetables: 야채를 기름병에 넣고 뚜껑을 덮어\n수개월에 걸쳐 절인 보존 식품.\n야채 애호가가 좋아한다
+MIID_UnusualSpices: 진귀한 향신료
+MIID_H_UnusualSpices: 강렬한 매운맛의 향신료를\n호화로운 선물 상자에 담은 것.\n매운맛 애호가가 좋아한다
+MIID_VihuelaTools: 비우엘라 관리 도구
+MIID_H_VihuelaTools: 악기를 완벽한 상태로 유지하기\n위한 손질 도구를 모아 놓은 것.\n음악 애호가가 좋아한다
+MIID_CookingTools: 야외용 조리 도구
+MIID_H_CookingTools: 야외에서 사용하는 상황을\n고려하여 제작한 조리 도구 모음.\n요리 애호가가 좋아한다
+MIID_LoveStory: 동방 연애 견문록
+MIID_H_LoveStory: 사이의 나라의 전설에 기반한\n신과 인간의 슬픈 사랑 이야기.\n책 애호가가 좋아한다
+MIID_BlueRose: 파란 장미 꽃다발
+MIID_H_BlueRose: 시장에는 거의 나돌지 않는\n아름답고 커다란 장미 꽃다발.\n꽃 애호가가 좋아한다
+MIID_HerbaPedia: 약초 요리 대백과
+MIID_H_HerbaPedia: 약효가 높은 갖가지 요리에 대해\n해설한 약선 요리 전문서.\n요리 애호가가 좋아한다
+MIID_TravelingHistory: 노인과의 대화록
+MIID_H_TravelingHistory: 어느 왕이 여행지에서 만났던\n신비로운 노인의 말을 엮어 낸 책.\n책 애호가가 좋아한다
+MIID_TrainingWeight: 무술 훈련용 추
+MIID_H_TrainingWeight: 납이 들어 있는 팔찌와 발찌.\n착용하는 것만으로도 단련이 된다.\n단련 애호가가 좋아한다
+MIID_SaltedFish: 생선 내장 절임
+MIID_H_SaltedFish: 생선의 내장에 효모와 소금을 넣고\n발효시켜 풍미가 강한 보존 식품.\n생선 애호가가 좋아한다
+MIID_MagicTools: 간단한 마술 도구
+MIID_H_MagicTools: 어린아이의 입문용으로 알맞도록\n비교적 난이도가 낮은 마술 도구.\n신비로운 것 애호가가 좋아한다
+MIID_HairOrnament: 주홍색 머리 장식
+MIID_H_HairOrnament: 동방에서 채취한 나무의 수액으로\n색을 낸 선명한 빛깔의 머리 장식.\n치장을 즐기는 사람이 좋아한다
+MIID_SalamisSweets: 살라미스 과자
+MIID_H_SalamisSweets: 살라미스에서 자주 구워 먹는\n소박한 맛의 과자.\n단것 애호가가 좋아한다
+MIID_RockSugar: 섬세한 얼음사탕
+MIID_H_RockSugar: 사막 수수를 정제해서 얻을 수 있는\n설탕을 결정화시킨 고급품.\n단것 애호가가 좋아한다
+MIID_RuggedWork: 투박한 날붙이
+MIID_H_RuggedWork: 군신조차 놀랄 만큼 베는 맛이 좋은\n고풍스러운 도검.\n무기 애호가가 좋아한다
+MIID_MorphisAlmanac: 모르피스 세시기
+MIID_H_MorphisAlmanac: 마도 도시 모르피스에서 행해지는\n각종 행사를 소개하는 귀중한 책.\n책 애호가가 좋아한다
+MIID_DesertThings: 사막에서 찾은 것
+MIID_H_DesertThings: 사막에서 찾았다고 하는\n재료도 용도도 불명인 물건
+MIID_DishesCollection: 시골 요리 모음집
+MIID_H_DishesCollection: 다그다의 땅 동부 지방에 존재하는\n향토 요리를 한곳에 엮은 책.\n요리 애호가가 좋아한다
+MIID_SandwormsMeat: 모래 벌레 고기 말이
+MIID_H_SandwormsMeat: 모래 벌레의 내장을 산짐승 고기로\n말아서 발효시킨 희귀 보존 식품.\n고기 애호가가 좋아한다
+MIID_MedicineDrops: 백약의 물방울
+MIID_H_MedicineDrops: 가벼운 병은 한 잔 마시는 것만으로\n금세 낫는다고 하는 홍소.\n발효 음료 애호가가 좋아한다
+MIID_ManeOrnament: 갈기 장식
+MIID_H_ManeOrnament: 말의 갈기를 화려하게 꾸미는 장식.\n여러 색깔의 실을 엮어 만들었다.\n말 애호가가 좋아한다
+MIID_TrainingBracelet: 단련용 장식 팔찌
+MIID_H_TrainingBracelet: 묵직한 중량감을 가졌으면서도\n외견은 아름다운 단련용 장식품.\n단련 애호가가 좋아한다
+MIID_MealCoupon: 무료 식사권
+MIID_H_MealCoupon: 특정 점포에서 무료로\n식사할 수 있는 아주 좋은 물건.\n잘 먹는 사람이 좋아한다
+MIID_FemaleKnight: 여기사와 구혼자
+MIID_H_FemaleKnight: 고결한 여기사가 다섯 구혼자에게\n시련을 안겨 주는 내용의 모험담.\n책 애호가가 좋아한다
+MIID_ShieldsPortrait: 방패들의 초상화
+MIID_H_ShieldsPortrait: 살라미스가 다그다의 방패로 불리게\n된 유래인 그라너 전쟁을 그린 회화.\n그림 애호가가 좋아한다
+MIID_PottedVegetables: 야채 화분
+MIID_H_PottedVegetables: 야채를 화분에 모아 심은 것.\n1년 중 몇 번이라도 수확할 수 있다.\n야채 애호가가 좋아한다
+MIID_StrategyManuscrip: 전술서 사본
+MIID_H_StrategyManuscrip: 많은 전술가들의 필독서인\n「대참모 아우구스트의 전술」 사본.\n단련 애호가가 좋아한다
+MIID_JointProtection: 관절 보호용 장갑
+MIID_H_JointProtection: 활을 쏠 때 팔을 보호하는\n고급스러운 가죽제 장갑.\n활 애호가가 좋아한다
+MIID_SpiritDoll: 정령의 수호 인형
+MIID_H_SpiritDoll: 브리기트에서 만들어진 소박한 인형.\n정령이 몸을 지켜 준다고도 한다.\n신비로운 것 애호가가 좋아한다
+MIID_HorseCare: 말 관리 도구
+MIID_H_HorseCare: 말을 손질하는 도구 모음.\n마음껏 애마를 돌봐 줄 수 있다.\n말 애호가가 좋아한다
+MIID_EastGame: 동방의 보드게임
+MIID_H_EastGame: 먼 동방에서 건너온 보드게임.\n매우 아름다워 관상용으로도 좋다.\n보드게임 애호가가 좋아한다
+MIID_DecorativeArrow: 예쁜 장식용 화살
+MIID_H_DecorativeArrow: 왕후장상도 반할 만큼 아름다운\n세 대의 장식용 화살 묶음.\n활 애호가가 좋아한다
+MIID_FlashyBangle: 사치스러운 팔찌
+MIID_H_FlashyBangle: 온통 보석과 조각으로 장식된\n호사스러운 느낌의 팔찌.\n치장을 즐기는 사람이 좋아한다
+MIID_StrangeVegetables: 기묘한 야채 씨앗
+MIID_H_StrangeVegetables: 겉면의 무늬가 얼굴처럼 보이는\n기묘한 분위기를 가진 야채 씨앗.\n밭일을 즐기는 사람이 좋아한다
+MIID_CrimsonStatue: 진홍색 소 조각
+MIID_H_CrimsonStatue: 의열의 맹우로 알려진 적기사\n네이선을 기리고자 만들어진 조각.\n미술품 애호가가 좋아한다
+MIID_JadeStatue: 비취색 표범 조각
+MIID_H_JadeStatue: 선풍의 흑표로 알려진 녹기사\n키릭을 기리고자 만들어진 조각.\n미술품 애호가가 좋아한다
+MIID_TradeIntroduction: 무역 거래 입문
+MIID_H_TradeIntroduction: 외국 항구에서의 교섭 방법이나\n주의점 등 실용적 정보가 정리된 책.\n책 애호가가 좋아한다
+MIID_CeremonialSpear: 의장용 창
+MIID_H_CeremonialSpear: 매우 아름답게 장식된 창.\n내구성이 낮아 실용적이지는 않다.\n무기 애호가가 좋아한다
+MIID_SpiritGame: 정령의 보드게임
+MIID_H_SpiritGame: 정령을 주제로 만든 말을\n가지고 노는 브리기트제 보드게임.\n보드게임 애호가가 좋아한다
+MIID_GamesCollection: 보드게임의 정석
+MIID_H_GamesCollection: 보드게임 명인들이 엮어 낸\n다양한 정석이 기록된 책.\n보드게임 애호가가 좋아한다
+MIID_BeautifulRing: 화려한 보석 반지
+MIID_H_BeautifulRing: 아름답고 대담하게 장식된\n커다란 보석이 특징인 반지.\n치장을 즐기는 사람이 좋아한다
+MIID_DougzaGrass: 다그다 수염풀
+MIID_H_DougzaGrass: 들고 있기만 해도 말을 기분 좋게\n만드는 신기한 향이 나는 풀.\n말 애호가가 좋아한다
+MIID_FishingRod: 유연한 낚싯대
+MIID_H_FishingRod: 큰 물고기도 잡을 수 있어 보이는\n유연하고 튼튼한 철제 낚싯대.\n낚시 애호가가 좋아한다
+MIID_RoseBouquet: 붉은 장미 꽃다발
+MIID_H_RoseBouquet: 타오르는 듯 붉고\n꽃송이가 커다란 장미의 꽃다발.\n꽃 애호가가 좋아한다
+MIID_RuinsThings: 폐허에서 찾은 것
+MIID_H_RuinsThings: 타르타로스 대유구 부근에서 발견된\n정체불명인 무언가의 부품
+MIID_FishEyeball: 거대 생선의 눈알
+MIID_H_FishEyeball: 남해의 알렉토 항구 근처에서 잡힌\n거대 생선의 눈알을 소금에 절인 것.\n생선 애호가가 좋아한다
+MIID_EasternEarring: 동방의 귀걸이
+MIID_H_EasternEarring: 진녹색 옥과 황금을 정교히 세공한\n참으로 아름다운 동방의 귀걸이.\n치장을 즐기는 사람이 좋아한다
+MIID_BaguaTools: 고급 팔괘점 도구
+MIID_H_BaguaTools: 머나먼 사이의 나라에서 들여온\n팔괘점을 칠 때 필요한 도구.\n점술 애호가가 좋아한다
+MIID_ThickBook: 이국의 두꺼운 책
+MIID_H_ThickBook: 포드라로부터 들여온\n정령 마법에 관한 내용의 책.\n책 애호가가 좋아한다
+MIID_ArenaStory: 투기장 이야기 사본
+MIID_H_ArenaStory: 검투사들을 주제로 한\n다양한 일화를 한데 모은 책.\n책 애호가가 좋아한다
+MIID_BowTools: 활 관리 도구
+MIID_H_BowTools: 애용하는 활을 적절히 손질하여\n오래 쓰기 위해 필요한 도구.\n활 애호가가 좋아한다
+MIID_PickledBulbs: 알뿌리 식초 절임
+MIID_H_PickledBulbs: 신선한 야채의 알뿌리를\n식초에 절여 신맛이 강한 보존 식품.\n야채 애호가가 좋아한다
+MIID_FlavorfulSeasoning: 농후 조미료
+MIID_H_FlavorfulSeasoning: 향신료와 어패류에 소금을 섞어\n발효시킨 감칠맛이 강한 조미료.\n요리 애호가가 좋아한다
+MIID_SmallTeff: 알갱이가 작은 테프
+MIID_H_SmallTeff: 알갱이가 고르지 않은 원두를 볶아\n품질이 그다지 좋지 않은 테프.\n테프 애호가가 좋아한다
+MIID_LargeTeff: 알갱이가 큰 테프
+MIID_H_LargeTeff: 알갱이가 큰 원두를 엄선해 볶은\n묵직한 맛의 테프.\n테프 애호가가 좋아한다
+MIID_SouthTeff: 남방 풍미의 테프
+MIID_H_SouthTeff: 남방의 농원에서 수확한\n원두를 볶아 향이 진한 고급 테프.\n테프 애호가가 좋아한다
+MIID_AugusTeff: 오거스 테프
+MIID_H_AugusTeff: 오거스 산에서 수확한 원두를 볶은\n강렬한 맛의 진귀한 테프.\n테프 애호가가 좋아한다
+MIID_SolomonTeff: 환상의 솔로몬 테프
+MIID_H_SolomonTeff: 환상으로 일컬어지는 솔로몬산 테프.\n독특한 향과 맛을 가진 최고급품.\n테프 애호가가 좋아한다
+MIID_YoungGauche: 햇홍소
+MIID_H_YoungGauche: 숙성이 많이 진행되지 않아\n과일 맛이 강하고 쌉쌀한 홍소.\n발효 음료 애호가가 좋아한다
+MIID_AgingGauche: 숙성 홍소
+MIID_H_AgingGauche: 시간을 두고 충분히 숙성되어\n깊은 향과 맛을 내는 홍소.\n발효 음료 애호가가 좋아한다
+MIID_GreenGauche: 비취색 홍소
+MIID_H_GreenGauche: 보기 드문 비취색 홍소.\n특정 지역에서만 생산된다.\n발효 음료 애호가가 좋아한다
+MIID_SunGauche: 태양의 홍소
+MIID_H_SunGauche: 건조한 지역에서 생산된 홍소.\n태양처럼 강렬하고 자극적인 맛이다.\n발효 음료 애호가가 좋아한다
+MIID_SecretGauche: 비전 홍소
+MIID_H_SecretGauche: 비전되는 제조법으로 만든 홍소.\n너무 맛있어서 시중에 팔지 않는다.\n발효 음료 애호가가 좋아한다
+MIID_VolcanoGauche: 불의 산 홍소
+MIID_H_VolcanoGauche: 불의 산 근처에서 양조된 홍소.\n의례용으로 쓰이는 경우가 많다.\n발효 음료 애호가가 좋아한다
+MIID_CrimsonGauche: 진홍빛 홍소
+MIID_H_CrimsonGauche: 너무나도 선명한 붉은 빛깔의 홍소.\n신전에 바치는 물건으로 유명하다.\n발효 음료 애호가가 좋아한다
+MIID_SouthGauche: 남방 홍소
+MIID_H_SouthGauche: 모자에서 들여온 홍소.\n매우 알싸하고 여운을 오래 남긴다.\n발효 음료 애호가가 좋아한다
+MIID_ExcitingGauche: 자극적인 홍소
+MIID_H_ExcitingGauche: 살라미스에서 주로 만드는 홍소.\n향신료의 자극적인 맛이 특징이다.\n발효 음료 애호가가 좋아한다
+MIID_RusticGauche: 소박한 홍소
+MIID_H_RusticGauche: 어느 마을에서만 근근이 양조되어\n좀처럼 시중에 유통되지 않는 일품.\n발효 음료 애호가가 좋아한다
+MIID_YoungSoush: 햇창소
+MIID_H_YoungSoush: 숙성이 많이 진행되지 않은 창소.\n선명한 파란색이 특징이다.\n발효 음료 애호가가 좋아한다
+MIID_AgingSoush: 숙성 창소
+MIID_H_AgingSoush: 시간을 두고 충분히 숙성되어\n텁텁하지 않고 깊은 맛이 나는 창소.\n발효 음료 애호가가 좋아한다
+MIID_MellowSoush: 향기로운 창소
+MIID_H_MellowSoush: 비전의 방법으로 양조한 창소.\n향이 진하고 맛이 깊은 귀중품.\n발효 음료 애호가가 좋아한다
+MIID_WittySoush: 산뜻한 창소
+MIID_H_WittySoush: 어느 마을에서만 근근이 양조되는\n산뜻한 첫맛이 특징인 창소.\n발효 음료 애호가가 좋아한다
+MIID_BlueSoush: 창공의 창소
+MIID_H_BlueSoush: 푸른 하늘처럼 상쾌한 빛깔의 창소.\n얼마든지 마실 수 있는 상큼한 맛.\n발효 음료 애호가가 좋아한다
+MIID_ThinServi: 연한 세르비
+MIID_H_ThinServi: 만들어진 세르비를 물에 타서\n마시기 쉽게 한 것.\n어린아이가 좋아한다
+MIID_AgingServi: 진한 세르비
+MIID_H_AgingServi: 통에서 갓 떠낸 농후한 세르비.\n단맛과 신맛이 강해 먹기 까다롭다.\n어린아이가 좋아한다
+MIID_DryingServi: 숙성 건조 세르비
+MIID_H_DryingServi: 세르비의 침전물을 건조시킨 것.\n가볍고 영양가가 높은 보존 식품.\n어린아이가 좋아한다
+MIID_GinjiServi: 긴지 세르비
+MIID_H_GinjiServi: 긴지 열매를 듬뿍 넣어\n과일 맛이 풍부하게 나는 세르비.\n단것 애호가가 좋아한다
+MIID_WhiteServi: 순백의 세르비
+MIID_H_WhiteServi: 첨가물을 거의 넣지 않은 세르비.\n매우 산뜻한 맛이 난다.\n단것 애호가가 좋아한다
+MIID_Garm: 가룸
+MIID_H_Garm: 물가 마을에서 주로 만드는 생선장.\n짠맛과 감칠맛이 매우 강하다.\n요리 애호가가 좋아한다
+MIID_LightGarm: 담백한 가룸
+MIID_H_LightGarm: 몇 차례에 걸쳐 걸러 낸 가룸.\n일반적인 것보다 맛이 깔끔하다.\n요리 애호가가 좋아한다
+MIID_RichGarm: 농후한 가룸
+MIID_H_RichGarm: 만들어진 가룸을 졸여서\n일반적인 것보다 맛이 진하다.\n요리 애호가가 좋아한다
+MIID_AlectoGarm: 알렉토 가룸
+MIID_H_AlectoGarm: 해양 도시 알렉토에서 생산되는\n묵직한 풍미를 가진 고급 가룸.\n요리 애호가가 좋아한다
+MIID_NizaGarm: 니자산 가룸
+MIID_H_NizaGarm: 니자 항구에서 생산되는 가룸.\n포드라와의 교역에 이용되기도 한다.\n요리 애호가가 좋아한다
+MIID_LegendaryGarm: 환상의 가룸
+MIID_H_LegendaryGarm: 침몰선 안에서 장기간 숙성된\n지극히 희귀한 가룸.\n요리 애호가가 좋아한다
+MIID_NastyGarm: 쿰쿰한 가룸
+MIID_H_NastyGarm: 어느 귀족이 정성을 들여 만든\n굉장히 불쾌한 냄새가 나는 가룸.\n요리 애호가가 좋아한다
+MIID_MorphisTea: 모르피스 홍차
+MIID_H_MorphisTea: 모르피스에서 특수한 공정을 거쳐\n더욱 진하게 숙성된 홍차.\n음료 애호가가 좋아한다
+MIID_FodlanTea: 포드라 홍차
+MIID_H_FodlanTea: 포드라에서 들여온 홍차.\n장미 꽃잎으로 향을 더했다.\n음료 애호가가 좋아한다
+MIID_JermellMilk: 자멜의 젖
+MIID_H_JermellMilk: 자멜로부터 짜낸 젖.\n독특한 향이 있고 약간 짠맛이 난다.\n어린아이가 좋아한다
+MIID_YakMilk: 야크의 젖
+MIID_H_YakMilk: 야크로부터 짜낸 젖.\n영양가가 높고 마시기 쉽다.\n어린아이가 좋아한다
+MIID_HoneyMilk: 벌꿀 젖
+MIID_H_HoneyMilk: 야크로부터 짜낸 젖에\n벌꿀을 넣어 맛을 좋게 한 것.\n단것 애호가가 좋아한다
+MIID_RusticTreats: 소박한 구운 과자
+MIID_H_RusticTreats: 소재의 풍미를 살려 구운 과자.\n질리지 않는 맛에 먹기도 쉽다.\n단것 애호가가 좋아한다
+MIID_SweetTreats: 달짝지근한 구운 과자
+MIID_H_SweetTreats: 사막 수수의 즙을 넣어\n달짝지근한 맛이 나도록 구운 과자.\n단것 애호가가 좋아한다
+MIID_FragrantTreats: 고소한 구운 과자
+MIID_H_FragrantTreats: 고온의 가마에서 구워 내\n고소한 풍미를 가진 과자.\n단것 애호가가 좋아한다
+MIID_HoneyTreats: 벌꿀을 넣어 구운 과자
+MIID_H_HoneyTreats: 벌꿀을 듬뿍 넣어\n달콤하고 맛있는 과자.\n단것 애호가가 좋아한다
+MIID_TeffTreats: 테프를 넣어 구운 과자
+MIID_H_TeffTreats: 테프 열매를 많이 넣어\n새콤달콤한 맛이 나는 과자.\n단것 애호가가 좋아한다
+MIID_AntiqueMedal: 골동품 무공 훈장
+MIID_H_AntiqueMedal: 전장에서 혁혁한 공을 세운 자에게\n수여되었던 훈장.\n무공을 중시하는 사람이 좋아한다
+MIID_ImitationEmblem: 모조품 무공 훈장
+MIID_H_ImitationEmblem: 옛 시대의 무공 훈장을 본뜬 것.\n일종의 기념품으로 수요가 있다.\n무공을 중시하는 사람이 좋아한다
+MIID_BlackFeather: 칠흑색 꽁지깃
+MIID_H_BlackFeather: 검은 오르니우스의 깃털.\n장식품으로서 가치가 높다.\n치장을 즐기는 사람이 좋아한다
+MIID_CommonPeople: 서민 요모조모
+MIID_H_CommonPeople: 평범한 서민의 생활에\n초점을 두고 쓰인 폭소극.\n책 애호가가 좋아한다
+MIID_DyedTowel: 아무 르 염직물
+MIID_H_DyedTowel: 예전에 아무 르에서 생산되던 직물.\n유 파스가 사랑한 꽃의 무늬가 있다.\n아름다운 것 애호가가 좋아한다
+MIID_MegrezSand: 메그레즈의 모래
+MIID_H_MegrezSand: 메그레즈 촌락 옛터의 모래.\n특별히 문제는 없어 보인다.\n빨리 의뢰인에게 건네주자
+MIID_AeginaCrystal: 아이기나 수정
+MIID_H_AeginaCrystal: 깊이 있는 색채가 일렁거리는 수정.\n자비·조화·완벽을 의미한다.\n빨리 의뢰인에게 건네주자
+MIID_OldPendant: 낡은 주술 도구
+MIID_H_OldPendant: 도난당한 상품이 든 커다란 상자.\n갖고 있으면 왠지 시선이 느껴진다.\n빨리 의뢰인에게 건네주자
+MIID_ZealCoins: 지르 주화
+MIID_H_ZealCoins: 수백 년 전에 멸망한 남다그다의\n왕국에서 제조된 희귀 주화.\n빨리 의뢰인에게 건네주자
+MIID_JuraWoodcarving: 목조 주라상
+MIID_H_JuraWoodcarving: 낡은 목조 여신상.\n솜씨 좋은 장인이 만든 것 같다.\n빨리 의뢰인에게 건네주자
+MIID_RedSecretLetter: 붉은 인장의 밀서
+MIID_H_RedSecretLetter: 의뢰인이 절대 내용을 읽지 말라고\n경고한 위험해 보이는 밀서.\n빨리 의뢰인에게 건네주자
+MIID_Blushing: 성인용 볼연지
+MIID_H_Blushing: 어른스럽고 색다른 분위기를\n연출할 수 있는 볼연지.\n에스메랄다에게 건네주자
+MIID_JuraStatue: 주라의 조각상
+MIID_H_JuraStatue: 차분하고 온화한 분위기를 표현한\n여신 주라의 조각상.\n빨리 의뢰인에게 건네주자
+MIID_CarlaStatue: 칼라의 조각상
+MIID_H_CarlaStatue: 아름답고 화려한 모습을 잘 표현한\n여신 칼라의 조각상.\n빨리 의뢰인에게 건네주자
+MIID_YufasStatue: 유 파스의 조각상
+MIID_H_YufasStatue: 모두를 감싸안는 다정함이 표현된\n여신 유 파스의 조각상.\n빨리 의뢰인에게 건네주자
+MIID_PhotonStatue: 포트나의 조각상
+MIID_H_PhotonStatue: 근심이 묻어나는 애처로운 얼굴이\n잘 표현된 여신 포트나의 조각상.\n빨리 의뢰인에게 건네주자
+MIID_Harness: 특제 차축
+MIID_H_Harness: 마차에 끼우는 특제 차축.\n메가에라의 장인이 만들었다.\n빨리 의뢰인에게 건네주자
+MIID_MansionKey: 날개 사자 열쇠
+MIID_H_MansionKey: 날개 달린 사자가 새겨진 열쇠.\n오래됐지만 집 열쇠인 듯하다.\n빨리 의뢰인에게 건네주자
+MIID_GiscoTreasure: 기스코의 재보
+MIID_H_GiscoTreasure: 영장 기스코가 남긴 재보 중 하나.\n아름다운 인어가 그려진 보석함.\n빨리 의뢰인에게 건네주자
+MIID_VioletBrooch: 자줏빛 브로치
+MIID_H_VioletBrooch: 옅은 자주색의 섬세한 브로치.\n여동생의 소중한 유품이다.\n빨리 키릭에게 건네주자
+MIID_SandbaalTail: 샌드 바알의 꼬리
+MIID_H_SandbaalTail: 사막 등지에 서식하는\n매우 사나운 전갈의 꼬리를 모은 것.\n빨리 의뢰인에게 건네주자
+MIID_GirlClip: 소녀의 머리 장식
+MIID_H_GirlClip: 놀다가 떨어뜨렸다는\n작고 귀여운 머리 장식.\n빨리 주인에게 건네주자
+MIID_SpecialGinji: 환상의 긴지
+MIID_H_SpecialGinji: 영롱한 빛깔의 매우 귀한 긴지 열매.\n겉모습뿐만 아니라 맛 또한 개성적.\n빨리 피터르에게 건네주자
+MIID_GiftBox: 선물이 담긴 상자
+MIID_H_GiftBox: 울턴드의 어머니가\n가족을 위해 준비한 물건.\n빨리 울턴드에게 건네주자
+MIID_PoetsMonument: 시인의 비석 탁본
+MIID_H_PoetsMonument: 전설적인 시인의 시가 새겨진\n비석을 그대로 베낀 것.\n빨리 시로코에게 건네주자
+MIID_GlowDrop: 홍작의 물방울
+MIID_H_GlowDrop: 크레우사산 고급 홍차.\n매우 향이 좋고 선명한 빛깔이 특징.\n빨리 올림피아에게 건네주자
+MIID_DesertRose: 아우룸 로즈
+MIID_H_DesertRose: 강한 햇살을 받으며 자란 장미.\n아름다운 색채가 황금을 연상시킨다.\n빨리 올림피아에게 선물하자
+MIID_BlueHeart: 푸른 심장
+MIID_H_BlueHeart: 보는 이의 심장을 빨아들이는 듯한\n아름다운 푸른빛을 발하는 수정.\n빨리 올림피아에게 헌정하자
+MIID_GoldHelmet: 황금 투구
+MIID_H_GoldHelmet: 마스가 주인인 황금 무구.\n아름다운 장식이 돋보인다.\n빨리 마스에게 가지고 가자
+MIID_DesertSunStone: 사막의 태양석
+MIID_H_DesertSunStone: 사막에 내리쬐는 태양의 힘을\n오랜 세월에 걸쳐 내부에 담은 돌.\n빨리 크레르에게 가지고 가자
+MIID_Sandalwood: 백단 향목
+MIID_H_Sandalwood: 망자가 기피하는 향을 풍기는 나무.\n예로부터 부적으로 많이 이용되었다.\n빨리 칼라에게 가지고 가자
+MIID_DagdaShield: 다그다의 신의 방패
+MIID_H_DagdaShield: 격렬한 전투 끝에 떨어져 나간\n다그다 대제의 신의 방패.\n빨리 주라에게 가지고 가자
+MIID_Fulama: 플라마
+MIID_H_Fulama: 초자연적인 힘을 얻을 수 있다는\n심상치 않은 기운이 감도는 작은 병.\n빨리 의뢰인에게 넘겨 버리자
+MIID_AncientStone: 고대 석판
+MIID_H_AncientStone: 낯선 문자가 새겨진 석판.\n오래됐지만 상태는 양호하다.\n빨리 의뢰인에게 건네주자
+MIID_AmalfridaSword: 공녀의 보검
+MIID_H_AmalfridaSword: 새벽의 공녀라 불린 아라고의 여걸\n엘라나를 위해 만들어진 검.\n빨리 의뢰인에게 건네주자
+MIID_SoulCrystal: 영혼의 결정
+MIID_H_SoulCrystal: 생물의 영혼이 어떠한 이유로 인해\n물질화된 것이라고 하는 희귀품.\n빨리 의뢰인에게 건네주자
+MIID_JuniorLicense: 초급 시험 증서
+MIID_H_JuniorLicense: 모든 병과의 기본이 되는\n초급직의 자격 시험에 필요한\n증명서로, 신전에서 발행한다
+MIID_InterLicense: 중급 시험 증서
+MIID_H_InterLicense: 전투의 중심이 되는 병과인\n중급직의 자격 시험에 필요한\n증명서로, 신전에서 발행한다
+MIID_HighLicense: 상급 시험 증서
+MIID_H_HighLicense: 고도의 전문 기술을 다루는 병과인\n상급직의 자격 시험에 필요한\n증명서로, 신전에서 발행한다
+MIID_HighestLicense: 최상급 시험 증서
+MIID_H_HighestLicense: 최고 수준에 달한 자를 위한 병과인\n최상급직의 자격 시험에 필요한\n증명서로, 신전에서 발행한다
+MIID_TankLicense: 전차병 시험 증서
+MIID_H_TankLicense: 공격력과 돌파력이 뛰어난 병과인\n전차병의 자격 시험에 필요한\n증명서로, 신전에서 발행한다
+MIID_ElephantLicense: 코끼리병 시험 증서
+MIID_H_ElephantLicense: 거대한 코끼리를 부리는 병과인\n코끼리병의 자격 시험에 필요한\n증명서로, 신전에서 발행한다
+MIID_ReincarnationLotus: 전생의 연꽃
+MIID_H_ReincarnationLotus: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 성철신장이\n되기 위한 시험을 치를 수 있다
+MIID_MusaNecklace: 뮤즈의 목걸이
+MIID_H_MusaNecklace: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 신악신장이\n되기 위한 시험을 치를 수 있다
+MIID_EmperorBand: 대제의 복대
+MIID_H_EmperorBand: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 파권신장이\n되기 위한 시험을 치를 수 있다
+MIID_TridentSpear: 삼지창
+MIID_H_TridentSpear: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 정창신장이\n되기 위한 시험을 치를 수 있다
+MIID_DarknessCrystal: 암흑 결정
+MIID_H_DarknessCrystal: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 앙화신장이\n되기 위한 시험을 치를 수 있다
+MIID_DemonTsuba: 요도의 날밑
+MIID_H_DemonTsuba: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 인휘신장이\n되기 위한 시험을 치를 수 있다
+MIID_IronSaddle: 신철의 안장
+MIID_H_IronSaddle: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 준제신장이\n되기 위한 시험을 치를 수 있다
+MIID_JudgmentBalance: 심판의 천칭
+MIID_H_JudgmentBalance: 신이 인정한 자에게 내리는 유일품.\n이것을 손에 넣은 자는 영패신장이\n되기 위한 시험을 치를 수 있다
+MIID_Materials: 재건용 자재
+MIID_H_Materials: 다그시온의 재건에 필요한 자재.\n몇 년 전처럼 활기찬 모습을 되찾는\n계획의 초석이 될 귀중한 물자
+MIID_CrownKey: 천관의 열쇠
+MIID_H_CrownKey: 신의 은총을 받을 수 있다고 하는\n천관의 신전을 열기 위한 열쇠.\n선조 소티스가 남긴 계약의 증표
+MIID_DancerLicense: 무희의 목걸이
+MIID_H_DancerLicense: 대대로 전해 내려온 후계자의 증표.\n춤으로 활력을 불어넣는 병과인\n무용수의 자격을 얻을 수 있다
+MIID_SpecialCargo: 상회의 짐
+MIID_H_SpecialCargo: 마차로 운반하던 중\n행방불명된 반달 상회의 화물.\n전부 회수해야 한다
+MIID_Vulnerary: 상처약
+MIID_H_Vulnerary: 자신의 HP를 {Variable=0} 회복한다
+MIID_Pharmaceutical: 조합약
+MIID_SilverBullet: 특효약
+MIID_Antidote: 해독제
+MIID_H_Antidote: 독 상태를 해제한다.\n추가적으로 독 상태를 방지한다\n({Variable=0}턴 후 해제)
+MIID_Coin: 사금
+MIID_H_Coin: 가게에서 팔 수 있다
+MIID_BigCoin: 사금 덩어리
+MIID_H_BigCoin: 가게에서 팔 수 있다
+MIID_Gold: 금괴
+MIID_H_Gold: 가게에서 팔 수 있다
+MIID_BigGold: 커다란 금괴
+MIID_H_BigGold: 가게에서 비싸게 팔 수 있다
+MIID_HigeGold: 거대한 금괴
+MIID_H_HigeGold: 가게에서 매우 비싸게 팔 수 있다
+MIID_Gold_Drake: 해적왕의 비보
+MIID_H_Gold_Drake: 해적왕 드레이크가\n사람들에게서 빼앗은\n고가의 금품이 들어 있는 주머니
+MIID_LuckyCoin: 럭키 코인
+MIID_H_LuckyCoin: 가게에서 비싸게 팔 수 있다
+MIID_InsectPearl: 벌레 진주
+MIID_H_InsectPearl: 가게에서 팔 수 있다
+MIID_BigInsectPearl: 커다란 벌레 진주
+MIID_H_BigInsectPearl: 가게에서 비싸게 팔 수 있다
+MIID_TreasureKey: 보물 열쇠
+MIID_H_TreasureKey: 자물쇠가 걸린\n보물 상자를 열 수 있다
+MIID_AngelRobe: 천사의 옷
+MIID_H_AngelRobe: 사용하면 최대 HP {Variable=0}
+MIID_PowerDrop: 힘의 물방울
+MIID_H_PowerDrop: 사용하면 힘 {Variable=0}
+MIID_SpiritPowder: 정령의 가루
+MIID_H_SpiritPowder: 사용하면 마력 {Variable=0}
+MIID_SecretBook: 비전서
+MIID_H_SecretBook: 사용하면 기술 {Variable=0}
+MIID_GaleWing: 질풍의 깃털
+MIID_H_GaleWing: 사용하면 속도 {Variable=0}
+MIID_GoddessStatue: 여신상
+MIID_H_GoddessStatue: 사용하면 행운 {Variable=0}
+MIID_TurtleShell: 거북 배갑
+MIID_H_TurtleShell: 사용하면 수비 {Variable=0}
+MIID_Amulet: 부적
+MIID_H_Amulet: 사용하면 마방 {Variable=0}
+MIID_BlackPearl: 흑진주
+MIID_H_BlackPearl: 사용하면 매력 {Variable=0}
+MIID_HolyWater: 성수
+MIID_H_HolyWater: 마방 {Variable=0}\n({Variable=1}턴마다 {Variable=2}씩 감소)
+MIID_TcticalBook: 전술 지침서
+MIID_H_TcticalBook: 교본을 알기 쉽게 그린 도해.\n사용하면 지휘술 기술 능력이\n조금 오른다
+MIID_SuperTcticalBook: 상급 전술 지침서
+MIID_H_SuperTcticalBook: 수준 높은 교본을 상세히 그린 도해.\n사용하면 지휘술 기술 능력이\n크게 오른다
+MIID_EquestrianBook: 기마술 지침서
+MIID_H_EquestrianBook: 교본을 알기 쉽게 그린 도해.\n사용하면 기마술 기술 능력이\n조금 오른다
+MIID_SuperEquestrianBook: 상급 기마술 지침서
+MIID_H_SuperEquestrianBook: 수준 높은 교본을 상세히 그린 도해.\n사용하면 기마술 기술 능력이\n크게 오른다
+MIID_ArmorBook: 중갑술 지침서
+MIID_H_ArmorBook: 교본을 알기 쉽게 그린 도해.\n사용하면 중갑술 기술 능력이\n조금 오른다
+MIID_SuperArmorBook: 상급 중갑술 지침서
+MIID_H_SuperArmorBook: 수준 높은 교본을 상세히 그린 도해.\n사용하면 중갑술 기술 능력이\n크게 오른다
+MIID_FlightBook: 비행술 지침서
+MIID_H_FlightBook: 교본을 알기 쉽게 그린 도해.\n사용하면 비행술 기술 능력이\n조금 오른다
+MIID_SuperFlightBook: 상급 비행술 지침서
+MIID_H_SuperFlightBook: 수준 높은 교본을 상세히 그린 도해.\n사용하면 비행술 기술 능력이\n크게 오른다
+MIID_BlackMagicBook: 흑마술 지침서
+MIID_H_BlackMagicBook: 교본을 알기 쉽게 그린 도해.\n사용하면 흑마술 기술 능력이\n조금 오른다
+MIID_SuperBlackMagicBook: 상급 흑마술 지침서
+MIID_H_SuperBlackMagicBook: 수준 높은 교본을 상세히 그린 도해.\n사용하면 흑마술 기술 능력이\n크게 오른다
+MIID_WhiteMagicBook: 백마술 지침서
+MIID_H_WhiteMagicBook: 교본을 알기 쉽게 그린 도해.\n사용하면 백마술 기술 능력이\n조금 오른다
+MIID_SuperWhiteMagicBook: 상급 백마술 지침서
+MIID_H_SuperWhiteMagicBook: 수준 높은 교본을 상세히 그린 도해.\n사용하면 백마술 기술 능력이\n크게 오른다
+MIID_Agnea: 아그네아의 책
+MIID_H_Agnea: 사용하면\n만물을 불살라 정화하는 최상급 마법\n「아그네아의 화살」을 습득한다
+MIID_Fimbul: 핌불의 책
+MIID_H_Fimbul: 사용하면\n모든 것을 얼려 버리는 최상급 마법\n「핌불의 밤」을 습득한다
+MIID_ArchiveSlime: 아카이브Β
+MIID_H_ArchiveSlime: 사용하면\n사정이 길고 쓰기 편한 암흑마법\n「슬라임Β」를 습득한다
+MIID_ArchiveDeath: 아카이브Γ
+MIID_H_ArchiveDeath: 사용하면\n위력과 필살이 높은 암흑마법\n「데스Γ」를 습득한다
+MIID_ArchiveWarm: 아카이브Ζ
+MIID_H_ArchiveWarm: 사용하면\n명중 시 적의 속도를 저하시키는\n암흑마법 「웜Ζ」를 습득한다
+MIID_ArchiveBanshee: 아카이브Θ
+MIID_H_ArchiveBanshee: 사용하면\n명중 시 적을 이동 불능으로 만드는\n암흑마법 「반시Θ」를 습득한다
+MIID_ArchiveDarkSpikes: 아카이브Τ
+MIID_H_ArchiveDarkSpikes: 사용하면\n기병에게 특히 효과적인 암흑마법\n「다크스파이크Τ」를 습득한다
+MIID_PeaceDew: 안녕의 이슬
+MIID_H_PeaceDew: 필살의 일격을 받지 않게 된다\n(다음 자신의 페이즈 전까지)
+MIID_BlessingDew: 가호의 이슬
+MIID_H_BlessingDew: 공격으로 받는 대미지가 반감된다\n(다음 자신의 페이즈 전까지)
+MIID_SimpleBox: 수수한 무구 상자
+MIID_H_SimpleBox: 개봉하면 무기나 장비품을\n무작위로 하나 획득한다
+MIID_GoodBox: 질 좋은 무구 상자
+MIID_H_GoodBox: 개봉하면 무기나 장비품을\n무작위로 하나 획득한다
+MIID_LuxuryBox: 고급 무구 상자
+MIID_H_LuxuryBox: 개봉하면 무기나 장비품을\n무작위로 하나 획득한다
+MIID_DaminaBox: 다 미나의 무구 상자
+MIID_H_DaminaBox: 개봉하면 무기나 장비품을\n무작위로 하나 획득한다
+MIID_BookBox: 책 상자
+MIID_H_BookBox: 개봉하면 기술 지침서를\n무작위로 하나 획득한다
+MIID_SuperBookBox: 비장의 책 상자
+MIID_H_SuperBookBox: 개봉하면 상급 기술 지침서를\n무작위로 하나 획득한다
+MIID_PresentBox: 선물 상자
+MIID_H_PresentBox: 개봉하면 선물을\n무작위로 하나 획득한다
+MIID_MeatBox: 고기 상자
+MIID_H_MeatBox: 개봉하면 고기를\n무작위로 하나 획득한다
+MIID_VegetableBox: 야채 상자
+MIID_H_VegetableBox: 개봉하면 야채를\n무작위로 하나 획득한다
+MIID_FishBox: 생선 상자
+MIID_H_FishBox: 개봉하면 생선을\n무작위로 하나 획득한다
+MIID_StoneBox: 광석 상자
+MIID_H_StoneBox: 개봉하면 광석을\n무작위로 하나 획득한다
+MIID_RingBox: 반지 상자
+MIID_H_RingBox: 개봉하면 반지를\n무작위로 하나 획득한다
+MIID_WoodBox: 떠내려온 나무 상자
+MIID_H_WoodBox: 개봉하면 아이템을\n무작위로 하나 획득한다
+MIID_SecretBox: 수수께끼의 상자
+MIID_H_SecretBox: 개봉하면 아이템을\n무작위로 하나 획득한다
+MIID_JewelBox: 보주 상자
+MIID_H_JewelBox: 개봉하면 보주를\n무작위로 하나 획득한다
+MIID_StrongWeaponBox: 연성 무구 상자
+MIID_H_StrongWeaponBox: 개봉하면 연성된 무기를\n무작위로 하나 획득한다
+MIID_StrongBronzeBox: 연성 청동 무구 상자
+MIID_H_StrongBronzeBox: 개봉하면 연성된 청동 무기를\n무작위로 하나 획득한다
+MIID_StrongIronBox: 연성 철 무구 상자
+MIID_H_StrongIronBox: 개봉하면 연성된 철 무기를\n무작위로 하나 획득한다
+MIID_StrongDaminaBox: 연성 다 미나 무구 상자
+MIID_H_StrongDaminaBox: 개봉하면 연성된 다 미나 무기를\n무작위로 하나 획득한다
+MIID_SecretMedicine: 봄바에의 비약
+MIID_H_SecretMedicine: HP를 {Variable=0} 회복한다
+MIID_GreatMeatBox: 고급 고기 상자
+MIID_H_GreatMeatBox: 개봉하면 가치가 높은 고기를\n무작위로 하나 획득한다
+MIID_GreatVegetableBox: 고급 야채 상자
+MIID_H_GreatVegetableBox: 개봉하면 가치가 높은 야채를\n무작위로 하나 획득한다
+MIID_GreatFishBox: 고급 생선 상자
+MIID_H_GreatFishBox: 개봉하면 가치가 높은 생선을\n무작위로 하나 획득한다
+MIID_HitAle: 리나리 에이드
+MIID_H_HitAle: 명중 {Variable=0}\n(맵이 끝날 때까지)
+MIID_BuildAle: 긴지 에이드
+MIID_H_BuildAle: 체격 {Variable=0}\n(맵이 끝날 때까지)
+MIID_MoveAle: 잔게 에이드
+MIID_H_MoveAle: 이동 시 지형의 이동 코스트 {Variable=0}\n(1 미만으로 줄어들지 않음)\n(맵이 끝날 때까지)
+MIID_CharmAle: 퐁고 에이드
+MIID_H_CharmAle: 매력 {Variable=0}\n(맵이 끝날 때까지)
+MIID_DetoxifyAle: 테피 에이드
+MIID_H_DetoxifyAle: 독 상태를 해제하고\n독 상태를 방지한다\n(맵이 끝날 때까지)
+MIID_SealedAle: 바쿠 에이드
+MIID_H_SealedAle: 마법 봉인 상태를 해제하고\n마법 봉인 상태를 방지한다\n(맵이 끝날 때까지)
+MIID_LuckAle: 하나 에이드
+MIID_H_LuckAle: 행운 {Variable=0}\n(맵이 끝날 때까지)
+MIID_AttackAle: 파야 에이드
+MIID_H_AttackAle: 공격력 {Variable=0}, 필살 {Variable=1}\n(맵이 끝날 때까지)
+MIID_DefenseAle: 밀라닐라 에이드
+MIID_H_DefenseAle: 방어력 {Variable=0}, 필살 회피 {Variable=1}\n(맵이 끝날 때까지)
+MIID_LightAle: 대추야자 에이드
+MIID_H_LightAle: 공속 {Variable=0}\n(맵이 끝날 때까지)
+MIID_CombatAle: 로카 에이드
+MIID_H_CombatAle: 전투 기술로 공격 시 명중 {Variable=0}\n(맵이 끝날 때까지)
+MIID_RangeAle: 스위트 에이드
+MIID_H_RangeAle: 항마 {Variable=0}\n(맵이 끝날 때까지)
+MIID_RecoveryAle: 스파이시 에이드
+MIID_H_RecoveryAle: 자신의 페이즈가 개시될 때\nHP가 소량 회복된다\n(맵이 끝날 때까지)
+MIID_ApathyAle: 비터 에이드
+MIID_H_ApathyAle: 반격할 수 없게 된다\n(맵이 끝날 때까지)
+MIID_LinkPointRecoveryLow: 연계의 돌멩이
+MIID_H_LinkPointRecoveryLow: LP를 {Variable=0} 회복한다\n(퀵 배틀에서만 사용 가능)
+MIID_LinkPointRecoveryHigh: 연계의 돌덩이
+MIID_WindShoes: 바람의 부츠
+MIID_H_WindShoes: 사용하면 이동력 {Variable=0}
+MIID_HorseDung: 말똥
+MIID_H_HorseDung: 유기물이 풍부하게 함유되어 있어\n밭에 뿌리면 작물이 잘 자란다.\n말의 서식지에서 획득 가능
+MIID_OrniusDung: 오르니우스의 똥
+MIID_H_OrniusDung: 유기물이 약간 함유되어 있어\n밭에 뿌리면 어느 정도 도움이 된다.\n오르니우스의 서식지에서 획득 가능
+MIID_PegasusDung: 페가수스의 똥
+MIID_H_PegasusDung: 풍부한 유기물과 신비한 힘 덕분에\n밭에 뿌리면 작물이 매우 잘 자란다.\n페가수스의 서식지에서 획득 가능
+MIID_BawDung: 바우의 똥
+MIID_H_BawDung: 매우 유용한 세균을 함유하고 있어\n작물의 성장을 돕는 데 최고인 비료.\n바우의 영역에서 획득 가능
+MID_Arms+0: 
+MID_Arms+1: +1
+MID_Arms+2: +2
+MID_Arms+3: +3
+MID_Arms+4: +4
+MID_Arms+5: +5
+MID_Arms+6: +6
+MID_Arms+7: +7
+MID_Arms+8: +8
+MID_Arms+9: +9
+MIID_SharpClaw: 발톱
+MIID_H_SharpClaw: 예리한 발톱과 꼬리를 이용한 공격
+MIID_BeastFang: 수아
+MIID_H_BeastFang: 날카로운 엄니를 이용한 공격
+MIID_BigClub: 큰 곤봉
+MIID_H_BigClub: 거대한 곤봉을 이용한 공격
+MIID_Blade: 트윈 블레이드
+MIID_H_Blade: 양팔의 검을 이용한 참격
+MIID_GiantAxe: 자애의 거대 도끼
+MIID_H_GiantAxe: 거대한 도끼를 휘두르는 공격
+MIID_SharpBeak: 큰 부리
+MIID_H_SharpBeak: 거대한 부리를 이용한 공격
+MIID_ShadowPunch: 그림자 손톱
+MIID_H_ShadowPunch: 이성이 결여된 마구잡이 공격
+MIID_BalorAttack: 심연의 용의 발톱
+MIID_H_BalorAttack: 거룡의 발톱을 이용한 공격.\n범위 내의 적 전원을\n동시에 공격할 수 있다
+MIID_BalorCounter: 회명의 용의 포효
+MIID_H_BalorCounter: 마법 공격.\n공격받을 때 전투를 중단시키고\n모여 있는 적에게 한 번에 반격한다
+MIID_ChargeAttack: 박치기
+MIID_H_ChargeAttack: 육중한 몸을 활용한 공격
+MIID_BigNeedle: 큰 침
+MIID_H_BigNeedle: 꼬리에 달린 큰 침으로 찌르는 공격
+MIID_BeastClaw: 수조
+MIID_H_BeastClaw: 사나운 짐승의 할퀴기 공격
+MIID_WaterMagic: 물 공격
+MIID_H_WaterMagic: 거센 물줄기를 이용한 공격
+MIID_BigSharpClaw: 큰 발톱
+MIID_H_BigSharpClaw: 거대한 발톱을 이용한 공격
+MIID_BigSweep: 큰 턱
+MIID_H_BigSweep: 날카로운 턱을 휘두르는 공격
+MIID_BigBlade: 메가 블레이드
+MIID_H_BigBlade: 거대한 검을 이용한 참격
+MIID_CetusFang: 해왕의 용의 엄니
+MIID_H_CetusFang: 거룡의 엄니를 이용한 무서운 공격
+MIID_Dissolution: 용해액
+MIID_H_Dissolution: 용해액을 뿜어내는 공격
+MIID_RapidDissolution: 용해액
+MIID_H_RapidDissolution: 용해액을 연사하는 공격
+MIID_BigWing: 큰 날개
+MIID_H_BigWing: 거대한 날개로 바람을 일으키는 공격
+MIID_DagdaClaw: 대제의 용의 발톱
+MIID_H_DagdaClaw: 거룡의 발톱을 이용한 공격
+MIID_MarsClaw: 군신의 용의 발톱
+MIID_H_MarsClaw: 거룡의 발톱을 이용한 공격
+MIID_NomvedBreath: 현룡의 브레스
+MIID_H_NomvedBreath: 거룡의 숨결을 이용한 공격
+MIID_LyrahBreath: 지룡의 브레스
+MIID_H_LyrahBreath: 거룡의 숨결을 이용한 공격
+MIID_EishetBreath: 수룡의 브레스
+MIID_H_EishetBreath: 거룡의 숨결을 이용한 공격
+MIID_SetethHorn: 추룡의 용의 뿔
+MIID_H_SetethHorn: 망치 모양 머리의 뿔을 이용한 공격
+MIID_DarkSharpClaw: 발톱
+MIID_H_DarkSharpClaw: 명계의 마수가 가하는 일격
+MIID_DeathClaw: 죽은 자의 손톱
+MIID_H_DeathClaw: 부정한 손톱을 이용한 공격
+MIID_DeathFang: 사룡의 엄니
+MIID_H_DeathFang: 사룡의 엄니를 이용한 공격
+MIID_BowTurret: 활 포대
+MIID_H_BowTurret: 화살을 발사하는 장치.\n멀리 떨어진 적을 공격할 수 있다
+MIID_MagicTurret: 마도 포대
+MIID_H_MagicTurret: 마법을 발동하는 장치.\n멀리 떨어진 적을 공격할 수 있다
+MIID_Catapult: 투석기
+MIID_H_Catapult: 바위를 투척하는 장치.\n멀리 떨어진 적을 공격할 수 있다
+MIID_NoseAttack: 코 공격
+MIID_H_NoseAttack: 기다란 코를 이용한 일격
+MIID_Stomping: 짓밟기
+MIID_H_Stomping: 체중을 실어 적을 짓밟는 공격
+MIID_AuroraJuwel: 붉은 보석
+MIID_H_AuroraJuwel: 카이의 집을 습격한 도적에게\n빼앗긴 어머니의 유품
+MIID_RedGem: 붉은 보석
+MIID_H_RedGem: 카이의 왼손과 일체화한 붉은 보석.\n암흑보다 어두운 불꽃의 힘이 서려 있다.\n마력 {Variable=0}
+MIID_D_RedGem: 암흑의 붉은 보석
+MIID_H_D_RedGem: 명계에 물든 카이의 왼손의 보석.\n모든 것을 태워 없애는 불길한 불꽃.\n마력 {Variable=0}
+MIID_BlackGwen: 칠흑의 그웬
+MIID_H_BlackGwen: 암흑보다 짙은 색을 띤 외투.\n그림자 속을 가로지르는 힘이 있다.\n기술 {Variable=0}
+MIID_D_BlackGwen: 흑암의 그웬
+MIID_H_D_BlackGwen: 명계에 물든 디트리히의 외투.\n마신의 그림자가 변모한 제2의 모습.\n기술 {Variable=0}
+MIID_MahamadouHand: 마하마두의 오른팔
+MIID_H_MahamadouHand: 위대한 힘이 깃든 세오도라의 오른팔.\n영웅 마하마두가 발휘하던 힘이다.\n힘 {Variable=0}
+MIID_D_MahamadouHand: 마하마두의 암흑팔
+MIID_H_D_MahamadouHand: 명계에 물든 세오도라의 오른팔.\n모든 것을 파괴하는 마신의 힘이다.\n힘 {Variable=0}
+MIID_BlackSun: 지현·흑요
+MIID_H_BlackSun: 레다의 가문에 내려오던 전설의 비우엘라.\n그 선율은 땅속 깊은 곳까지 울려 퍼진다.\n마방 {Variable=0}
+MIID_D_BlackSun: 암현·흑요
+MIID_H_D_BlackSun: 명계에 물든 레다의 비우엘라.\n명계의 스산한 선율을 연주한다.\n마방 {Variable=0}
+MIID_H_D_BlackSun_Cohen: 더욱 깊은 어둠에 물든 흑요.\n명계의 스산한 선율을 연주한다.\n마방 {Variable=0}
+MIID_RedAxeCurse: 붉은 도끼의 저주
+MIID_H_RedAxeCurse: 아라고 왕가의 붉은 도끼에 깃든 힘.\n소유자에게 강력한 가호를 내린다.\n힘 {Variable=0}
+MIID_BloodPattern: 피의 문양
+MIID_H_BloodPattern: 베르트랑의 전신에 떠오른 문양.\n온몸의 혈액을 끓어오르게 한다.\n힘 {Variable=0}
+MIID_D_BloodPattern: 암혈의 문양
+MIID_H_D_BloodPattern: 명계에 물든 베르트랑의 문양.\n명계의 힘이 전신에 밀려든다.\n힘 {Variable=0}
+MIID_DhabaCompass: 다바의 나침반
+MIID_H_DhabaCompass: 타리문이 가진 신기한 나침반.\n소유자가 바라는 것을 가리킨다.\n마력 {Variable=0}
+MIID_D_DhabaCompass: 다바의 암흑나침반
+MIID_H_D_DhabaCompass: 명계에 물든 타리문의 나침반.\n대상에게 암흑의 저주를 부여한다.\n마력 {Variable=0}
+MIID_SecretBody: ??? 몸
+MIID_H_SecretBody: 오르헬의 몸에 숨겨진 비밀.\n그 진실은 수수께끼에 싸여 있다.\n수비 {Variable=0}
+MIID_MechanicalBody: 기계 몸
+MIID_H_MechanicalBody: 밝혀진 오르헬의 몸에 대한 진실.\n수호천사 엘리자베스가 쓰던 몸.\n수비 {Variable=0}
+MIID_SevenStartsCore: 칠성핵
+MIID_H_SevenStartsCore: 아나톨리아에게만 주어진 기관.\n신체 능력을 몇 배나 향상시킨다.\n기술 {Variable=0}
+MIID_D_SevenStartsCore: 암흑의 칠성핵
+MIID_H_D_SevenStartsCore: 명계에 물든 아나톨리아의 힘.\n자신의 육체조차 파멸로 몰아넣는다.\n기술 {Variable=0}
+MIID_CaptainCore: 선장의 심핵
+MIID_H_CaptainCore: 구세주에게 맡겨진 마지막 심핵.\n세상에 빛을 되찾아 오기 위한 힘.\n기술 {Variable=0}
+MIID_RecklessTreasure: 마법의 보주
+MIID_H_RecklessTreasure: 시합의 승자를 결정짓는 증표.\n소지하고 있는 유닛의\n수비가 0이 된다
+MIID_ResonateStone: 마향석
+MIID_H_ResonateStone: 전투 기술 강화에 필요한 소재
+MIID_ResonateStoneL: 마향석·특대
+MIID_H_ResonateStoneL: 마향석×{Variable=0}
+MIID_ResonateStoneS: 마향석·대
+MIID_H_ResonateStoneS: 마향석×{Variable=0}
+MIID_AmaltheaMap: 아말테아 지도
+MIID_H_AmaltheaMap: 제도 다그시온이 위치한\n제국의 중심지 아말테아 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_LambuthMap: 램버스 지도
+MIID_H_LambuthMap: 제도 서쪽에 위치하며 실로 다양한\n자연 지형이 펼쳐진 램버스 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_ElectraMap: 엘렉트라 지도
+MIID_H_ElectraMap: 제도 남동쪽에 위치하며 수많은\n사람이 살고 있는 엘렉트라 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_CastaliaMap: 카스탈리아 지도
+MIID_H_CastaliaMap: 제도의 북동쪽에 위치하며 바다\n저편과 교역하는 카스탈리아 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_TaliaMap: 탈리아 지도
+MIID_H_TaliaMap: 제도 북쪽의 산악 지대이자 강인한\n주민들이 살고 있는 탈리아 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_SolidusMap: 솔리두스 지도
+MIID_H_SolidusMap: 제도의 먼 북서쪽, 주민들이 자연의\n위협과 공존하는 솔리두스 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_BasithaMap: 바시테아 지도
+MIID_H_BasithaMap: 다그다 대륙의 서쪽 끝에 위치하며\n미개척지가 많은 바시테아 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_BraxtheaMap: 브락시테아 지도
+MIID_H_BraxtheaMap: 제도로부터 남서쪽 멀리 위치하며\n삼림이 울창한 브락시테아 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_MeliasMap: 멜리아스 지도
+MIID_H_MeliasMap: 제도의 남쪽에 위치하며 느긋함과\n잔잔함이 감도는 멜리아스 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_SaveronMap: 사벨론 지도
+MIID_H_SaveronMap: 제도의 남쪽 멀리 있으며 참혹한\n비극의 무대였던 사벨론 지방의\n주요 장소가 그려진 여행자용 지도
+MIID_HorseCharm: 준마의 부적{Variable=0}
+MIID_H_HorseCharm1: 기술 {Variable=0}
+MIID_H_HorseCharm2: 기술 {Variable=0}, 수비 {Variable=1}
+MIID_H_HorseCharm4: 기술 {Variable=0}, 속도 {Variable=1}, 수비 {Variable=2}
+MIID_HorseFriendCharm: 준마의 참{Variable=0}
+MIID_BloodHorseCharm: 적마의 부적{Variable=0}
+MIID_H_BloodHorseCharm1: 힘 {Variable=0}
+MIID_H_BloodHorseCharm2: 힘 {Variable=0}, 기술 {Variable=1}
+MIID_H_BloodHorseCharm3: 힘 {Variable=0}, 기술 {Variable=1}, 수비 {Variable=2}
+MIID_BloodHorseFriendCharm: 적마의 참{Variable=0}
+MIID_BlackHorseCharm: 흑마의 부적{Variable=0}
+MIID_H_BlackHorseCharm1: 속도 {Variable=0}
+MIID_H_BlackHorseCharm2: 기술 {Variable=0}, 속도 {Variable=1}
+MIID_H_BlackHorseCharm3: 힘 {Variable=0}, 기술 {Variable=1}, 속도 {Variable=2}
+MIID_BlackHorseFriendCharm: 흑마의 참{Variable=0}
+MIID_UnicornCharm: 각마의 부적{Variable=0}
+MIID_H_UnicornCharm1: 행운 {Variable=0}
+MIID_H_UnicornCharm2: 기술 {Variable=0}, 행운 {Variable=1}
+MIID_H_UnicornCharm4: 기술 {Variable=0}, 속도 {Variable=1}, 행운 {Variable=2}
+MIID_UnicornFriendCharm: 각마의 참{Variable=0}
+MIID_OrniusCharm: 새 깃털 부적{Variable=0}
+MIID_H_OrniusCharm1: 기술 {Variable=0}
+MIID_H_OrniusCharm2: 기술 {Variable=0}, 속도 {Variable=1}
+MIID_OrniusFriendCharm: 새 깃털 참{Variable=0}
+MIID_WhiteOrniusCharm: 하얀 깃털 부적{Variable=0}
+MIID_H_WhiteOrniusCharm1: 마방 {Variable=0}
+MIID_H_WhiteOrniusCharm2: 기술 {Variable=0}, 마방 {Variable=1}
+MIID_H_WhiteOrniusCharm4: 기술 {Variable=0}, 속도 {Variable=1}, 마방 {Variable=2}
+MIID_WhiteOrniusFriendCharm: 하얀 깃털 참{Variable=0}
+MIID_MeganiusCharm: 억센 깃털 부적{Variable=0}
+MIID_H_MeganiusCharm1: 수비 {Variable=0}
+MIID_H_MeganiusCharm2: 기술 {Variable=0}, 수비 {Variable=1}
+MIID_H_MeganiusCharm4: 기술 {Variable=0}, 속도 {Variable=1}, 수비 {Variable=2}
+MIID_MeganiusFriendCharm: 억센 깃털 참{Variable=0}
+MIID_RedMeganiusCharm: 빨간 깃털 부적{Variable=0}
+MIID_H_RedMeganiusCharm1: 힘 {Variable=0}
+MIID_H_RedMeganiusCharm2: 힘 {Variable=0}, 기술 {Variable=1}
+MIID_H_RedMeganiusCharm3: 힘 {Variable=0}, 기술 {Variable=1}, 수비 {Variable=2}
+MIID_RedMeganiusFriendCharm: 빨간 깃털 참{Variable=0}
+MIID_MaginiusCharm: 마력 깃털 부적{Variable=0}
+MIID_H_MaginiusCharm1: 마력 {Variable=0}
+MIID_H_MaginiusCharm2: 마력 {Variable=0}, 속도 {Variable=1}
+MIID_MaginiusFriendCharm: 마력 깃털 참{Variable=0}
+MIID_BlackMaginiusCharm: 검은 깃털 부적{Variable=0}
+MIID_H_BlackMaginiusCharm1: 마력 {Variable=0}
+MIID_H_BlackMaginiusCharm2: 마력 {Variable=0}, 기술 {Variable=1}
+MIID_H_BlackMaginiusCharm4: 마력 {Variable=0}, 기술 {Variable=1}, 속도 {Variable=2}
+MIID_BlackMaginiusFriendCharm: 검은 깃털 참{Variable=0}
+MIID_PegasusCharm: 익마의 부적{Variable=0}
+MIID_H_PegasusCharm1: 마방 {Variable=0}
+MIID_H_PegasusCharm2: 속도 {Variable=0}, 마방 {Variable=1}
+MIID_PegasusFriendCharm: 익마의 참{Variable=0}
+MIID_DarkPegasusCharm: 흑익의 부적{Variable=0}
+MIID_H_DarkPegasusCharm1: 마력 {Variable=0}
+MIID_H_DarkPegasusCharm2: 마력 {Variable=0}, 속도 {Variable=1}
+MIID_DarkPegasusFriendCharm: 흑익의 참{Variable=0}
+MIID_FalconCharm: 성익의 부적{Variable=0}
+MIID_H_FalconCharm1: 속도 {Variable=0}
+MIID_H_FalconCharm3: 기술 {Variable=0}, 속도 {Variable=1}
+MIID_H_FalconCharm4: 힘 {Variable=0}, 기술 {Variable=1}, 속도 {Variable=2}
+MIID_FalconFriendCharm: 성익의 참{Variable=0}
+MIID_RedFalconCharm: 적익의 부적{Variable=0}
+MIID_H_RedFalconCharm1: 속도 {Variable=0}
+MIID_H_RedFalconCharm2: 힘 {Variable=0}, 속도 {Variable=1}
+MIID_H_RedFalconCharm: 힘 {Variable=0}, 기술 {Variable=1}, 속도 {Variable=2}
+MIID_RedFalconFriendCharm: 적익의 참{Variable=0}
+MIID_BawCharm: 용린의 부적{Variable=0}
+MIID_H_BawCharm1: 기술 {Variable=0}
+MIID_H_BawCharm2: 힘 {Variable=0}, 기술 {Variable=1}
+MIID_H_BawCharm3: 힘 {Variable=0}, 기술 {Variable=1}, 속도 {Variable=2}
+MIID_BawFriendCharm: 용린의 참{Variable=0}
+MIID_RedBawCharm: 적린의 부적{Variable=0}
+MIID_H_RedBawCharm1: 힘 {Variable=0}
+MIID_H_RedBawCharm3: 힘 {Variable=0}, 기술 {Variable=1}
+MIID_RedBawFriendCharm: 적린의 참{Variable=0}
+MIID_BlackBawCharm: 흑린의 부적{Variable=0}
+MIID_H_BlackBawCharm1: 속도 {Variable=0}
+MIID_H_BlackBawCharm2: 힘 {Variable=0}, 속도 {Variable=1}
+MIID_BlackBawFriendCharm: 흑린의 참{Variable=0}
+MIID_DagdaElephantCharm: 코끼리 털 부적{Variable=0}
+MIID_H_DagdaElephantCharm1: 수비 {Variable=0}
+MIID_H_DagdaElephantCharm3: 힘 {Variable=0}, 수비 {Variable=1}
+MIID_DagdaElephantFriendCharm: 코끼리 털 참{Variable=0}
+MIID_MorphisIronSword: 
+MIID_H_MorphisIronSword1: 
+MIID_H_MorphisIronSword2: 
+MIID_H_MorphisIronSword3: 
+MIID_H_MorphisIronSword4: 
+MIID_H_MorphisIronSword5: 
+MIID_H_MorphisIronSword6: 
+MIID_MorphisSilverSword: 
+MIID_H_MorphisSilverSword1: 
+MIID_H_MorphisSilverSword2: 
+MIID_H_MorphisSilverSword3: 
+MIID_MorphisIronLance: 
+MIID_H_MorphisIronLance1: 
+MIID_H_MorphisIronLance2: 
+MIID_H_MorphisIronLance3: 
+MIID_H_MorphisIronLance4: 
+MIID_H_MorphisIronLance5: 
+MIID_H_MorphisIronLance6: 
+MIID_MorphisSilverLance: 
+MIID_H_MorphisSilverLance1: 
+MIID_H_MorphisSilverLance2: 
+MIID_H_MorphisSilverLance3: 
+MIID_MorphisIronAxe: 
+MIID_H_MorphisIronAxe1: 
+MIID_H_MorphisIronAxe2: 
+MIID_H_MorphisIronAxe3: 
+MIID_H_MorphisIronAxe4: 
+MIID_H_MorphisIronAxe5: 
+MIID_H_MorphisIronAxe6: 
+MIID_MorphisSilverAxe: 
+MIID_H_MorphisSilverAxe1: 
+MIID_H_MorphisSilverAxe2: 
+MIID_H_MorphisSilverAxe3: 
+MIID_MorphisIronBow: 
+MIID_H_MorphisIronBow1: 
+MIID_H_MorphisIronBow2: 
+MIID_H_MorphisIronBow3: 
+MIID_H_MorphisIronBow4: 
+MIID_H_MorphisIronBow5: 
+MIID_H_MorphisIronBow6: 
+MIID_MorphisSilverBow: 
+MIID_H_MorphisSilverBow1: 
+MIID_H_MorphisSilverBow2: 
+MIID_H_MorphisSilverBow3: 
+MIID_MorphisIronGautlet: 
+MIID_H_MorphisIronGautlet1: 
+MIID_H_MorphisIronGautlet2: 
+MIID_H_MorphisIronGautlet3: 
+MIID_H_MorphisIronGautlet4: 
+MIID_H_MorphisIronGautlet5: 
+MIID_H_MorphisIronGautlet6: 
+MIID_MorphisSilverGautlet: 
+MIID_H_MorphisSilverGautlet1: 
+MIID_H_MorphisSilverGautlet2: 
+MIID_H_MorphisSilverGautlet3: 
+MIID_Extra01: 
+MIID_H_Extra01: 
+MIID_Extra02: 
+MIID_H_Extra02: 
+MIID_Extra03: 
+MIID_H_Extra03: 
+MIID_Extra04: 
+MIID_H_Extra04: 
+MIID_Extra05: 
+MIID_H_Extra05: 
+MIID_Extra06: 
+MIID_H_Extra06: 
+MIID_Extra07: 
+MIID_H_Extra07: 
+MIID_Extra08: 
+MIID_H_Extra08: 
+MIID_ExtraArms01: 
+MIID_ExtraArms01_1: 
+MIID_ExtraArms01_2: 
+MIID_ExtraArms01_3: 
+MIID_H_ExtraArms01_1: 
+MIID_H_ExtraArms01_2: 
+MIID_H_ExtraArms01_3: 
+MIID_ExtraArms02: 
+MIID_ExtraArms02_1: 
+MIID_ExtraArms02_2: 
+MIID_ExtraArms02_3: 
+MIID_H_ExtraArms02_1: 
+MIID_H_ExtraArms02_2: 
+MIID_H_ExtraArms02_3: 
+MIID_ExtraArms03: 
+MIID_ExtraArms03_1: 
+MIID_ExtraArms03_2: 
+MIID_ExtraArms03_3: 
+MIID_H_ExtraArms03_1: 
+MIID_H_ExtraArms03_2: 
+MIID_H_ExtraArms03_3: 
+MIID_ExtraArms04: 
+MIID_ExtraArms04_1: 
+MIID_ExtraArms04_2: 
+MIID_ExtraArms04_3: 
+MIID_H_ExtraArms04_1: 
+MIID_H_ExtraArms04_2: 
+MIID_H_ExtraArms04_3: 
+MIID_ExtraArms05: 
+MIID_H_ExtraArms05_1: 
+MIID_H_ExtraArms05_2: 
+MIID_H_ExtraArms05_3: 
+MIID_ExtraArms06: 
+MIID_H_ExtraArms06_1: 
+MIID_H_ExtraArms06_2: 
+MIID_H_ExtraArms06_3: 
+MIID_ExtraArms07: 
+MIID_H_ExtraArms07_1: 
+MIID_H_ExtraArms07_2: 
+MIID_H_ExtraArms07_3: 
+MIID_ExtraArms08: 
+MIID_H_ExtraArms08_1: 
+MIID_H_ExtraArms08_2: 
+MIID_H_ExtraArms08_3: 

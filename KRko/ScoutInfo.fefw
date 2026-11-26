@@ -1,0 +1,86 @@
+﻿MID_ScoutInfo_NegotiationConditions_Yes_Easy: 협상 필요(쉬움)
+MID_ScoutInfo_NegotiationConditions_Yes_Normal: 협상 필요(보통)
+MID_ScoutInfo_NegotiationConditions_Yes_Hard: 협상 필요(어려움)
+MID_ScoutInfo_NegotiationConditions_Yes_VeryHard: 협상 필요(매우 어려움)
+MID_ScoutInfo_NegotiationConditions_Win: 내기에서 이긴다
+MID_ScoutInfo_NegotiationConditions_Price: 금액 협상을 한다
+MID_ScoutInfo_NegotiationConditions_Question: 질문에 대답한다
+MID_ScoutInfo_NegotiationConditions_Item: 만족할 만한 물건을 건넨다
+MID_ScoutInfo_NegotiationConditions_Talk: 이야기를 듣는다
+MID_ScoutInfo_NegotiationConditions_Clear: ??? 클리어
+MID_ScoutInfo_NegotiationConditions_SideStoryClear: {Variable=0} 외전 클리어
+MID_ScoutInfo_NegotiationConditions_ClearAndAction: ??? 클리어 및 ???
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndAction: {Variable=0} 외전 클리어 및 ???
+MID_ScoutInfo_NegotiationConditions_SideStoryClearAndDefeat: {Variable=0} 외전 클리어 및 본선에서 격파
+MID_ScoutInfo_Characteristic_Aur: 유 파스의 피를 이어받은 고결한 여신\n신비한 힘으로 명계의 침략에 맞선다
+MID_ScoutInfo_Characteristic_Pet0: 눈이 좋고 장거리 사격에 능한 활의 명수\n전투 기술을 사용하면 더 멀리 있는 적을 맞힐 수 있다
+MID_ScoutInfo_Characteristic_Hur: 전투와 치료에 모두 능한, 강하고 상냥한 여성\n적과 교전하면서 아군의 치료도 담당한다
+MID_ScoutInfo_Characteristic_Jes: 눈에 보이지 않는 속도로 움직여 적을 농락하는 검사\n전투 기술 「바꾸기」로 전장을 자유자재로 휘젓는다
+MID_ScoutInfo_Characteristic_Gol: 압도적인 힘과 수비로 적을 제압하는 거한\n체격이 남달라 무거운 장비도 아랑곳하지 않는다
+MID_ScoutInfo_Characteristic_Dan: 뛰어난 마도 술사이자 지식이 풍부한 문호\n정확한 지시를 통해 아군의 능력을 높인다
+MID_ScoutInfo_Characteristic_Esm: 전력으로 적을 분쇄하는 강인한 창잡이\n아무리 무거운 무기라도 거뜬히 다룰 수 있다
+MID_ScoutInfo_Characteristic_Sim: 수많은 사선을 넘어온 전투의 전문가\n치명상을 입어도 악운으로 살아남는다
+MID_ScoutInfo_Characteristic_Lou: 연속 공격으로 적을 제압하는 귀여운 검사\n선제공격을 한 다음 추격으로 적을 몰아붙인다
+MID_ScoutInfo_Characteristic_Fia: 어딘가 어두운 구석이 있는 회복 마법 전문의 성직자\n마법 소비를 억제하여 많은 아군을 회복시킬 수 있다
+MID_ScoutInfo_Characteristic_Lor0: 뛰어난 민첩성을 자랑하는 활발한 소녀\n컨디션이 좋으면 어떤 공격도 피할 수 있다
+MID_ScoutInfo_Characteristic_Set: 탁월한 창술을 갖춘 총명한 여행자\n신속한 반격으로 적의 기선을 제압한다
+MID_ScoutInfo_Characteristic_Nin: 신전의 발칸을 맡고 있는 신비한 소녀\n정령의 목소리를 듣고 마법 공격에 유연히 대처한다
+MID_ScoutInfo_Characteristic_Lil: 안정적으로 제 몫을 해내는 궁수\n원거리에서 적을 일방적으로 공격하는 데 뛰어나다
+MID_ScoutInfo_Characteristic_Lys: 빠른 속도를 활용해 싸우는 영준한 기사\n적과의 거리를 좁혀 선제공격을 하는 것이 특기이다
+MID_ScoutInfo_Characteristic_Sci: 검과 마법을 자유자재로 쓰는 수수께끼의 음유 시인\n다양한 무기를 능숙하게 다룰 수 있다
+MID_ScoutInfo_Characteristic_Moo0: 아직 전장을 많이 경험해 보지 못한 소녀\n미숙하지만 성장 가능성이 높다
+MID_ScoutInfo_Characteristic_Mic: 백병전이 특기인 숙련된 여전사\n적의 움직임을 읽고 공격을 정확하게 명중시킨다
+MID_ScoutInfo_Characteristic_Oly: 백마법에 능한 정열적인 신관\n승리에 대한 열망으로 마법에 강력한 힘을 불어넣는다
+MID_ScoutInfo_Characteristic_Naz: 남다른 힘을 가진 기운찬 소년 검사\n선제공격 시 공격력이 더욱 강해진다
+MID_ScoutInfo_Characteristic_Dai: 뛰어난 완력으로 호쾌하게 싸우는 청년\n전력을 다한 일격으로 모든 적을 분쇄한다
+MID_ScoutInfo_Characteristic_Hal: 유랑 곡예사이자 손재주가 좋은 궁수\n실전에 강하며 어떤 전황에도 적응할 수 있다
+MID_ScoutInfo_Characteristic_Guj: 확실한 실력을 갖춘, 파격적이고 자유분방한 용병\n어떻게 싸워서 이길 것인지조차 마음대로 정한다
+MID_ScoutInfo_Characteristic_Yan: 치유뿐만 아니라 전투에도 능한 유랑 승병\n적을 쓰러뜨려 몸을 회복하는 신비한 기술을 사용한다
+MID_ScoutInfo_Characteristic_Iio: 애마와 함께 전장을 누비는 청년 용병\n기동력을 활용한 선제공격이 특기이다
+MID_ScoutInfo_Characteristic_Pep: 민첩성을 무기로 화려하게 싸우는 사냥의 달인\n약해진 적을 매복을 통해 확실하게 처치한다
+MID_ScoutInfo_Characteristic_Noc: 파워와 스피드를 겸비한 숙련된 투사\n전투 중 집중력을 높여서 온갖 공격을 회피할 수 있다
+MID_ScoutInfo_Characteristic_Sop: 회복 마법이 특기인 먹보 신관\n마법의 치유 효과를 증가시킬 수 있다
+MID_ScoutInfo_Characteristic_Cat: 확실한 전투 실력을 갖춘 일류 용병\n속도에서 우위를 점하면 공격의 정확도가 높아진다
+MID_ScoutInfo_Characteristic_Ned: 비약 타조를 자유자재로 다루는 뛰어난 기병\n전장을 마음대로 누비며 적을 농락한다
+MID_ScoutInfo_Characteristic_Zac: 산적의 기술을 가진 도끼의 달인\n도끼 공격의 명중률이 높다
+MID_ScoutInfo_Characteristic_Maj: 체력과 폭력을 믿고 날뛰는 난폭자\n도끼를 장비하면 공격성이 더욱 강해진다
+MID_ScoutInfo_Characteristic_Ven: 전차를 몹시 사랑하는 숙련된 전차병\n전차를 타면 사격 능력이 향상된다
+MID_ScoutInfo_Characteristic_Ini: 강력한 화살을 쏘는 활의 전문가\n그녀의 화살은 단단한 갑옷도 꿰뚫는다
+MID_ScoutInfo_Characteristic_Jas: 용병단의 리더를 맡고 있는, 수비에 능한 용병\n적의 공격을 받아 낸 후 정확한 반격을 가한다
+MID_ScoutInfo_Characteristic_Ale: 하늘을 가볍게 날아다니는 귀여운 천마 기사\n전투 중 동료들의 열렬한 응원에 힘을 얻는다
+MID_ScoutInfo_Characteristic_Cle: 
+MID_ScoutInfo_Characteristic_Mys: 
+MID_ScoutInfo_Characteristic_Cen: 철벽같은 방어력을 갖춘 숙련된 중갑 기사\n강력한 일격을 견뎌 낼 수 있다
+MID_ScoutInfo_Characteristic_Asw: 신에 필적하는 기량을 갖춘 신궁\n절대적인 명중률로 적을 정확하게 꿰뚫는다
+MID_ScoutInfo_Characteristic_Nat: 압도적인 공격력을 자랑하는 일기당천의 장수\n앞장서서 돌격하여 선제공격을 하는 전법에 능하다
+MID_ScoutInfo_Characteristic_Hri: 탁월한 기교와 지략을 갖춘 신기묘산의 장수\n수세를 취하는 척하면서 적을 농락하는 전법에 능하다
+MID_ScoutInfo_Characteristic_Gra: 
+MID_ScoutInfo_Characteristic_Kir: 잔인하기로 악명 높은 전 해적단 두목\n저항하지 않는 적을 상대할 때 더 큰 힘을 발휘한다
+MID_ScoutInfo_Characteristic_Nuz: 비할 데 없는 살상 기술을 가진 부족의 전사\n적이 약점을 보이면 가차 없이 그곳을 노린다
+MID_ScoutInfo_Characteristic_Kra: 무술이 뛰어나고 치유 마법에도 능한 수호 전사\n불굴의 정신으로 포기하지 않고 계속 싸운다
+MID_ScoutInfo_Characteristic_Ann: 적의 진형을 무너뜨리는 쾌활한 코끼리병\n전투 코끼리를 타고 힘차게 전장을 누빈다
+MID_ScoutInfo_Characteristic_Tia0: 다양한 지식과 참모의 재능을 갖춘 소녀\n뛰어난 용병술로 아군의 전력을 잘 활용한다
+MID_ScoutInfo_Characteristic_Fab: 암흑마법을 다룰 수 있는 수수께끼의 선교사\n특수한 기술을 사용하여 적의 전의를 상실시킨다
+MID_ScoutInfo_Characteristic_Bon: 검과 마법을 다루는 살라미스의 현장\n동료에게 비책을 일러 주어 공격의 정확도를 높인다
+MID_ScoutInfo_Characteristic_Tob: 뛰어난 힘과 수비를 자랑하는 살라미스의 맹장\n갈고닦은 기술로 전장에서 맹활약한다
+MID_ScoutInfo_Characteristic_Buc: 귀웅이라고도 불렸던 역전의 수호 기사\n강인한 육체로 적의 공격을 막아 낸다
+MID_ScoutInfo_Characteristic_Gat: 동방에서 수행한 적도 있는 뛰어난 무인\n날카로운 검술로 전장에 승리의 바람을 불러일으킨다
+MID_ScoutInfo_Characteristic_Urs: 냉정하고 침착한 반달 상회의 지배인\n거래에 능해 전장에서 도구 주머니를 공유할 수 있다
+MID_ScoutInfo_Characteristic_Die: 과묵하고 전투 기술이 뛰어난 숲의 부족 출신의 청년\n호위에도 능해서 적의 추격을 허용하지 않는다
+MID_ScoutInfo_Characteristic_Sar: 정령 마법이 특기인 차분한 분위기의 여성\n위기에 처한 아군을 후퇴시키고 치료할 수 있다
+MID_ScoutInfo_Characteristic_Kai0: 항상 가족을 생각하는 활기찬 소년\n뛰어난 행동력으로 전장에서 종횡무진 활약한다
+MID_ScoutInfo_Characteristic_Dit: 갈증을 해소하기 위해 사투를 벌이는 이방인 검사\n적과 싸울 때 그의 검은 살기등등한 빛을 발한다
+MID_ScoutInfo_Characteristic_Seo: 용맹하면서도 강단이 있는 살라미스의 여왕\n불굴의 의지로 어떠한 역경에도 맞선다
+MID_ScoutInfo_Characteristic_Led: 매혹적인 선율을 연주하는 아름다운 무희\n화려한 몸놀림으로 반격을 가볍게 피한다
+MID_ScoutInfo_Characteristic_Bel: 자유를 찾아 싸움을 계속하는 긍지 높은 전사\n투기장에서 갈고닦은 기술로 적에게 연타를 날린다
+MID_ScoutInfo_Characteristic_Tal: 거대한 야망을 가슴에 품은 다그다 제일의 대상인\n타고난 운을 활용해 대담한 활약을 펼친다
+MID_ScoutInfo_Characteristic_Orh: 많은 비밀을 품고 있는 수수께끼의 소녀\n병과 선택에 제한이 있는 대신 단단한 몸을 갖고 있다
+MID_ScoutInfo_Characteristic_Anh: 고향의 동포를 구하기 위해 싸우는 흰옷 차림의 소녀\n기공을 이용한 체술에 능하고 회피 능력이 뛰어나다
+MID_ScoutInfo_Characteristic_Kou: 곤륜 마법을 다루는 마도 술사\n강력한 마력을 적에게 정확히 명중시킨다
+MID_ScoutInfo_Characteristic_Tro: 풍부한 경험을 가진 믿음직한 노전사\n건틀릿으로 싸울 때 아주 뛰어난 몸놀림을 보여 준다
+MID_ScoutInfo_Characteristic_Kai1: 항상 가족을 생각하는 활기찬 청년\n뛰어난 행동력으로 전장에서 종횡무진 활약한다
+MID_ScoutInfo_Characteristic_Tia1: 다양한 지식과 참모의 재능을 갖춘 여성\n뛰어난 용병술로 아군의 전력을 잘 활용한다
+MID_ScoutInfo_Characteristic_Pet1: 눈이 좋고 장거리 사격에 능한 활의 명수\n전투 기술을 사용하면 더 멀리 있는 적을 맞힐 수 있다
+MID_ScoutInfo_Characteristic_Moo1: 많은 전장을 경험하고 성장한 여성\n아직도 큰 잠재력을 품고 있다
+MID_ScoutInfo_Characteristic_Lor1: 뛰어난 민첩성을 자랑하는 활발한 소녀\n컨디션이 좋으면 어떤 공격도 피할 수 있다
+MID_ScoutInfo_Characteristic_Tah: 피톤류 격투술을 익힌 투사. 단련된 육체로 주군인\n아스완뿐만 아니라 모든 아군을 든든히 지켜 낸다

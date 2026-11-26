@@ -1,0 +1,64 @@
+﻿MID_Rule_Title_Win: Conditions de victoire
+MID_Rule_Title_Lose: Conditions de défaite
+MID_WINRULE_Annihilate: Vaincre toutes les unités ennemies.
+MID_WINRULE_Destroy: Vaincre : {Variable=0}.
+MID_WINRULE_Destroy2: Vaincre : {Variable=0} & {Variable=1}.
+MID_LOSERULE_Annihilate: Toutes vos unités sont vaincues.
+MID_LOSERULE_Destroy: L'unité suivante tombe au combat : {Variable=0}.
+MID_LOSERULE_Destroy2: Les unités suivantes tombent au combat :\n{Variable=0} ou {Variable=1}.
+MID_LOSERULE_Destroy3: Les unités suivantes tombent au combat :\n{Variable=0}, {Variable=1} ou {Variable=2}.
+MID_WINRULE_SC11_01_1: Récupérer le joyau rouge.
+MID_WINRULE_SC12_08_1: Utiliser tous les leviers.
+MID_WINRULE_SC13_00_1: Theodora atteint sa destination.
+MID_WINRULE_SC13_10: Récupérer l'epimenium.
+MID_WINRULE_SC13_11_1: Avoir plus d'orbes que l'ennemi au bout\nde {Variable=0} {SingularPlural0=tour|tours}.
+MID_WINRULE_SC13_11_2: Obtenir un orbe ou faire en sorte\nque l'ennemi en perde un.
+MID_WINRULE_SC17_09: 
+MID_WINRULE_SC17_10: 
+MID_WINRULE_SC17_12_1: 
+MID_WINRULE_SC17_12_2: 
+MID_WINRULE_SC15_05: 
+MID_WINRULE_SC15_13: 
+MID_WINRULE_SC16_11_1: 
+MID_WINRULE_SC16_11_2: 
+MID_WINRULE_SC16_12_1: 
+MID_WINRULE_SC16_12_2: 
+MID_WINRULE_SC16_13: 
+MID_WINRULE_SC18_02: 
+MID_WINRULE_SC18_14: 
+MID_WINRULE_SC14_03: Avoir plus de flammes bleues que de flammes\nrouges au bout de {Variable=0} {SingularPlural0=tour|tours}.
+MID_WINRULE_SC14_05_2: Leda atteint sa destination.
+MID_WINRULE_SC30_08: L'unité suivante atteint sa destination : {LordName}.
+MID_WINRULE_SC00_16: Détruire le pilier des Limbes.
+MID_WINRULE_SCXX_01: Dépasser {Variable=0} {SingularPlural0=tour|tours}.
+MID_WINRULE_SCXX_02: Activer tous les mécanismes.
+MID_WINRULE_SCXX_04: Vaincre plus de la moitié des géants.
+MID_WINRULE_SCXX_05: Récupérer toutes les cargaisons de Vandahl\nou vaincre toutes les unités ennemies.
+MID_WINRULE_SCXX_07_1: Les derniers habitants de Kunlun atteignent\nleur destination ou vaincre la pentahydre.
+MID_WINRULE_SCXX_07_2: Anatolia atteint sa destination\nou vaincre la pentahydre.
+MID_WINRULE_KL_02_1: Détruire une barrière et vaincre tous les ennemis.
+MID_WINRULE_KL_02_2: Détruire toutes les barrières et vaincre\ntous les ennemis.
+MID_LOSERULE_SC11_03: La diligence est détruite ou Cai tombe au combat.
+MID_LOSERULE_SC12_08_1: Dépasser {Variable=0} {SingularPlural0=tour|tours} ou Dietrich tombe au combat.
+MID_LOSERULE_SC13_09: Dépasser {Variable=0} {SingularPlural0=tour|tours} ou Theodora tombe au combat.
+MID_LOSERULE_SC13_11_1: L'ennemi a plus d'orbes que vous au bout\nde {Variable=0} {SingularPlural0=tour|tours}.
+MID_LOSERULE_SC13_11_2: Une unité ennemie obtient un orbe\nou une de vos unités en perd un.
+MID_LOSERULE_SC17_10: 
+MID_LOSERULE_SC17_12_1: 
+MID_LOSERULE_SC17_12_2: 
+MID_LOSERULE_SC15_05: 
+MID_LOSERULE_SC15_13: 
+MID_LOSERULE_SC16_11_1: 
+MID_LOSERULE_SC16_12_1: 
+MID_LOSERULE_SC16_12_2: 
+MID_LOSERULE_SC16_16: 
+MID_LOSERULE_SC18_12: 
+MID_LOSERULE_SC18_14: 
+MID_LOSERULE_SC18_17: 
+MID_LOSERULE_SC14_03: Avoir plus de flammes rouges que de flammes\nbleues au bout de {Variable=0} {SingularPlural0=tour|tours}.
+MID_LOSERULE_SCXX_00: Une unité ennemie atteint sa destination, ou\n{LordName} ou Cai tombe au combat.
+MID_LOSERULE_SCXX_01: Une unité ennemie atteint sa destination, ou\n{LordName} ou Dietrich tombe au combat.
+MID_LOSERULE_SCXX_04: Les unités ennemies vainquent\nplus de la moitié des géants.
+MID_LOSERULE_SCXX_05_2: Un bandit avec une cargaison atteint sa destination,\nou {LordName} ou Talimun tombe au combat.
+MID_LOSERULE_SCXX_07: Trois habitants de Kunlun sont vaincus,\nou {LordName} ou Anatolia tombe au combat.
+MID_LOSERULE_DefenseBattle: Tous les habitants sont tués, ou {LordName}\ntombe au combat.

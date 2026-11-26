@@ -1,0 +1,1661 @@
+﻿MIID_WoodSword: Wooden Sword{Variable=0}
+MIID_H_WoodSword1: A light, simple sword made of wood.
+MIID_H_WoodSword2: A light, simple sword made of wood.\nGrants Spd{Variable=0}.
+MIID_BronzeSword: Bronze Sword{Variable=0}
+MIID_H_BronzeSword1: A standard sword cast from bronze.
+MIID_H_BronzeSword2: A standard sword cast from bronze.\nGrants Def{Variable=0}.
+MIID_IronSword: Iron Sword{Variable=0}
+MIID_H_IronSword1: A good-quality sword made of iron.
+MIID_H_IronSword2: A good-quality sword made of iron.\nGrants Dex{Variable=0}.
+MIID_DaminaSword: Da Mina Sword{Variable=0}
+MIID_H_DaminaSword0: A high-quality sword made in the town\nof Da Mina.
+MIID_H_DaminaSword1: A high-quality sword made in Da Mina.\nGrants Hit{Variable=0} when attacking with\na combat art.
+MIID_H_DaminaSword2: A high-quality sword made in Da Mina.\nGrants Hit/Crit{Variable=0} when attacking with\na combat art.
+MIID_SilverSword: Silver Sword{Variable=0}
+MIID_H_SilverSword1: A powerful sword plated in refined silver.
+MIID_KillSword: Killing Edge{Variable=0}
+MIID_H_KillSword1: A sharp sword crafted with eastern\ntechniques. Allows use of the Deadly Blade\ncombat art.
+MIID_PoisonSword: Venin Edge{Variable=0}
+MIID_H_PoisonSword1: A sword with a blade coated in deadly\npoison. If unit's attack hits, inflicts Poison\non foe.
+MIID_H_PoisonSword2: A poison sword. If unit's attack hits, inflicts\nPoison on foe. Allows use of the\nPoison Harvest combat art.
+MIID_HorseSword: Zanbato{Variable=0}
+MIID_H_HorseSword1: A large sword designed to cut down\nmounted cavalry.
+MIID_H_HorseSword2: A large, anti-cavalry sword. If foe is cavalry,\ngrants Crit{Variable=0} to unit during combat.
+MIID_Flissa: Flyssa{Variable=0}
+MIID_H_Flissa1: A thrusting sword for piercing gaps\nin armor.
+MIID_H_Flissa2: A thrusting sword for piercing gaps\nin armor. If foe is armored, grants\nCrit{Variable=0} to unit during combat.
+MIID_GaleSword: Whirlwind Blade{Variable=0}
+MIID_H_GaleSword1: A sword imbued with the power of\nwind spirits.
+MIID_H_GaleSword2: A sword imbued with the power of\nwind spirits. When unit avoids an attack,\ngrants Phys{Variable=0} during combat.
+MIID_GreatSword: Greatsword{Variable=0}
+MIID_H_GreatSword1: A huge sword that slashes through\ntargets with ease.
+MIID_H_GreatSword2: A huge sword that slashes through targets\nwith ease. If foe is large scale, grants\nHit/Crit{Variable=0} to unit during combat.
+MIID_ExorcismSword: Cleansing Blade{Variable=0}
+MIID_H_ExorcismSword1: A short sword, purified with holy blessings.\nNeutralizes Underworld Boon on foe\nduring combat.
+MIID_ThunderSword: Levin Sword{Variable=0}
+MIID_H_ThunderSword1: A sword imbued with the power of lightning\nspirits. Treated as a magical attack. Allows\nthe Lightning Strike combat art.
+MIID_Ajura: Angela{Variable=0}
+MIID_H_Ajura1: A magic poison sword imbued with dark\npower. Allows use of the Poison Burial\ncombat art.
+MIID_D_Ajura: Dark Angela
+MIID_H_D_Ajura1: An evil poison sword made from memories\nof the risen dead. Allows use of the\nPoison Burial combat art.
+MIID_Velokine: Veroquine{Variable=0}
+MIID_H_Velokine1: A slender magic sword imbued with dark\npower. Allows use of the Prune combat art.
+MIID_H_Velokine2: A slender magic sword with dark power.\nAllows use of the Prune combat art.\nGrants Dex{Variable=0}.
+MIID_Fragarach: Fragarach{Variable=0}
+MIID_H_Fragarach1: A curved magic sword imbued with dark\npower. Allows use of the Moonbreaker\ncombat art.
+MIID_D_Fragarach: Dark Fragarach
+MIID_H_D_Fragarach1: An evil curved sword made from memories\nof the risen dead. Allows use of the\nMoonbreaker combat art.
+MIID_IronFan: Lakshashi's Iron Fan{Variable=0}
+MIID_H_IronFan1: A poison fan sword imbued with dark\npower. Allows use of the Toxic Wind\ncombat art.
+MIID_H_IronFan2: A poison fan sword with dark power.\nAllows use of the Toxic Wind combat art\nwith Atk{Variable=0}.
+MIID_D_IronFan: Dark Iron Fan{Variable=0}
+MIID_H_D_IronFan1: A poison fan sword made from memories\nof the risen dead. Allows use of the\nToxic Wind combat art.
+MIID_NightQatar: Long-Night Katara{Variable=0}
+MIID_H_NightQatar1: A liuyedao imbued with dark power.\nAllows use of the Siphon Luck combat art.
+MIID_H_NightQatar2: A liuyedao imbued with dark power.\nAllows use of the Siphon Luck combat art\nwith Hit{Variable=0}.
+MIID_MarsSword: Smoldering Sword{Variable=0}
+MIID_H_MarsSword1: A Supreme Arc imbued with the power of\nfire. Allows use of the Firestorm combat art.
+MIID_H_MarsSword2: A Supreme Arc with the power of fire.\nAllows use of the Firestorm combat art.\nGrants Spd{Variable=0}.
+MIID_D_MarsSword: Shadowing Sword{Variable=0}
+MIID_H_D_MarsSword1: An evil smoldering sword made from\nmemories of the risen dead. Allows use\nof the Firestorm combat art.
+MIID_Answerer: Answerer{Variable=0}
+MIID_H_Answerer1: A Hero's Relic. Allows Dietrich use of\nthe Bloodletting combat art.
+MIID_H_Answerer2: A Hero's Relic. Allows Dietrich use of\nthe Bloodletting combat art with Mt{Variable=0}.
+MIID_AnswererRevised: Answerer Arisen
+MIID_H_AnswererRevised1: A Hero's Relic. Allows Dietrich use of\nthe Bloodletting+ combat art.
+MIID_AnswererSai: Answerer Breaker
+MIID_AnswererOu: Answerer Huang
+MIID_GladiusSword: Igneous Greatsword{Variable=0}
+MIID_H_GladiusSword1: A sword forged for a renowned warrior.
+MIID_WoodLance: Wooden Spear{Variable=0}
+MIID_H_WoodLance1: A light, simple spear made of wood.
+MIID_H_WoodLance2: A light, simple spear made of wood.\nGrants Spd{Variable=0}.
+MIID_BronzeLance: Bronze Spear{Variable=0}
+MIID_H_BronzeLance1: A standard spear cast from bronze.
+MIID_H_BronzeLance2: A standard spear cast from bronze.\nGrants Def{Variable=0}.
+MIID_IronLance: Iron Spear{Variable=0}
+MIID_H_IronLance1: A good-quality spear made of iron.
+MIID_H_IronLance2: A good-quality spear made of iron.\nGrants Dex{Variable=0}.
+MIID_DaminaLance: Da Mina Spear{Variable=0}
+MIID_H_DaminaLance0: A high-quality spear made in the town\nof Da Mina.
+MIID_H_DaminaLance1: A high-quality spear made in Da Mina.\nGrants Hit{Variable=0} when attacking with\na combat art.
+MIID_H_DaminaLance2: A high-quality spear made in Da Mina.\nGrants Hit/Crit{Variable=0} when attacking with\na combat art.
+MIID_SilverLance: Silver Spear{Variable=0}
+MIID_H_SilverLance1: A powerful spear plated in refined silver.
+MIID_HandSpear: Javelin{Variable=0}
+MIID_H_HandSpear1: A throwing spear of basic design.
+MIID_H_HandSpear2: A basic throwing spear. Grants Avo{Variable=0}\nduring combat against a foe 2+ spaces\naway.
+MIID_ShortSpear: Short Spear{Variable=0}
+MIID_H_ShortSpear1: A good-quality spear that is easy to throw.
+MIID_H_ShortSpear2: A good-quality throwing spear. Grants\nHit{Variable=0} during combat against a foe 2+\nspaces away.
+MIID_SlenderSpear: Pilum{Variable=0}
+MIID_H_SlenderSpear1: A high-quality throwing spear with\nincredible power.
+MIID_H_SlenderSpear2: A high-quality throwing spear. Grants\nPhys{Variable=0} during combat against a foe 2+\nspaces away.
+MIID_Halberd: Halberd{Variable=0}
+MIID_H_Halberd1: A polearm designed for both thrusting\nand slashing.
+MIID_H_Halberd2: A polearm designed for both thrusting\nand slashing. Grants Dex{Variable=0}.
+MIID_Geki: Ji{Variable=0}
+MIID_H_Geki1: A spear-like weapon that supports various\ncombat styles. Allows use of the Windweave\ncombat art.
+MIID_H_Geki2: A versatile spear-like weapon. Allows use of\nthe Windweave combat art with Hit{Variable=0}.
+MIID_Grave: Glaive{Variable=0}
+MIID_H_Grave1: A polearm with a sharp, curved blade.\nAllows use of the Deadly Spear combat art.
+MIID_Scimitar: Guandao{Variable=0}
+MIID_H_Scimitar1: A powerful polearm with a heavy,\nbroad blade.
+MIID_KnightKiller: Ridersbane{Variable=0}
+MIID_H_KnightKiller1: A spear made for anti-cavalry use.
+MIID_H_KnightKiller2: A spear made for anti-cavalry use. If foe\nis cavalry, grants Shld{Variable=0} to unit during\ncombat.
+MIID_AuroraLance: Star Spear{Variable=0}
+MIID_H_AuroraLance1: A Supreme Arc that holds starry brightness.\nAllows use of the Blinding Starlight\ncombat art.
+MIID_NamelessSpear: The Nameless{Variable=0}
+MIID_H_NamelessSpear: A spear that has lost its original power—\nand its name.
+MIID_SorelLance: Shining Spear{Variable=0}
+MIID_H_SorelLance1: A Supreme Arc imbued with the power of\nthe sun. Allows use of the Sol combat art.
+MIID_H_SorelLance2: A Supreme Arc with the power of the sun.\nAllows use of the Sol combat art, upgraded\nto recover HP equal to all damage dealt.
+MIID_ShinzaHarpoon: Sinza's Trident{Variable=0}
+MIID_H_ShinzaHarpoon1: The lost trident of Esmeralda's father.\nAllows use of the Brute Throw combat art.
+MIID_H_ShinzaHarpoon2: The lost trident of Esmeralda's father.\nAllows use of the Brute Throw combat art\nwith Mt{Variable=0}.
+MIID_MahamadLance: Mahadu's Spear{Variable=0}
+MIID_H_MahamadLance1: A shining golden spear wielded by a hero\nof legend. Allows use of the Full Moon\ncombat art.
+MIID_H_MahamadLance2: A shining golden spear wielded by a hero of\nlegend. Allows use of the Full Moon combat\nart with Mt{Variable=0}.
+MIID_D_MahamadLance: Mahadu's Darkspear{Variable=0}
+MIID_H_D_MahamadLance1: An evil spear made from memories of\nthe risen dead. Allows use of the Full Moon\ncombat art.
+MIID_LourdijaSpear: Lulu's Spear{Variable=0}
+MIID_H_LourdijaSpear1: A thin, light spear that Ludia forged herself.
+MIID_Muen: Muen{Variable=0}
+MIID_H_Muen1: A magic spear imbued with dark power.\nAllows use of the Black Roar combat art.
+MIID_H_Muen2: A magic spear imbued with dark power.\nAllows use of the Black Roar combat art\nwith Hit{Variable=0}.
+MIID_Hanoa: Onoa{Variable=0}
+MIID_H_Hanoa1: A thrusting spear imbued with dark power.\nAllows use of the Cavalry Ruin combat art.
+MIID_Grancida: Grasitha{Variable=0}
+MIID_H_Grancida1: A Hero's Relic. Allows Esmeralda use of the\nLeave No Dust combat art.
+MIID_Assal: Assal{Variable=0}
+MIID_H_Assal1: A spear that Seteth once forged. Allows\nthe Sacred Strike combat art.
+MIID_H_Assal2: A spear Seteth once forged. Allows\nthe Sacred Strike combat art with\nincreased recovery.
+MIID_Vendetta: Vendetta{Variable=0}
+MIID_H_Vendetta1: An extending spear imbued with dark\npower. Allows use of the Supreme Serpent\ncombat art.
+MIID_H_Vendetta2: An extending spear with dark\npower. Allows use of the Supreme Serpent\ncombat art with Hit{Variable=0}.
+MIID_D_Vendetta: Dark Vendetta{Variable=0}
+MIID_H_D_Vendetta1: An extending spear made from memories\nof the risen dead. Allows use of the\nSupreme Serpent combat art.
+MIID_WoodAxe: Wooden Axe{Variable=0}
+MIID_H_WoodAxe1: A light, simple axe made of wood.
+MIID_H_WoodAxe2: A light, simple axe made of wood.\nGrants Spd{Variable=0}.
+MIID_BronzeAxe: Bronze Axe{Variable=0}
+MIID_H_BronzeAxe1: A standard axe cast from bronze.
+MIID_H_BronzeAxe2: A standard axe cast from bronze.\nGrants Def{Variable=0}.
+MIID_IronAxe: Iron Axe{Variable=0}
+MIID_H_IronAxe1: A good-quality axe made of iron.
+MIID_H_IronAxe2: A good-quality axe made of iron.\nGrants Dex{Variable=0}.
+MIID_DaminaAxe: Da Mina Axe{Variable=0}
+MIID_H_DaminaAxe0: A high-quality axe made in the town\nof Da Mina.
+MIID_H_DaminaAxe1: A high-quality axe made in Da Mina.\nGrants Hit{Variable=0} when attacking with\na combat art.
+MIID_H_DaminaAxe2: A high-quality axe made in Da Mina.\nGrants Hit/Crit{Variable=0} when attacking with\na combat art.
+MIID_SilverAxe: Silver Axe{Variable=0}
+MIID_H_SilverAxe1: A powerful axe plated in refined silver.
+MIID_HandAxe: Hand Axe{Variable=0}
+MIID_H_HandAxe1: A throwing axe of basic design.
+MIID_H_HandAxe2: A basic throwing axe. Grants Avo{Variable=0}\nduring combat against a foe 2+ spaces\naway.
+MIID_ShortAxe: Short Axe{Variable=0}
+MIID_H_ShortAxe1: A good-quality, one-handed axe that is\neasy to throw.
+MIID_H_ShortAxe2: A good-quality throwing axe. Grants\nHit{Variable=0} during combat against a foe 2+\nspaces away.
+MIID_Tomahawk: Sagaris{Variable=0}
+MIID_H_Tomahawk1: A high-quality throwing axe with\nincredible power.
+MIID_H_Tomahawk2: A high-quality throwing axe. Grants\nPhys{Variable=0} during combat against a foe\n2+ spaces away.
+MIID_SmashAxe: Smashing Axe{Variable=0}
+MIID_H_SmashAxe1: An axe heavy enough to crush stone.\nAllows use of the Pulverize combat art.
+MIID_H_SmashAxe2: An axe heavy enough to crush stone.\nAllows use of the Pulverize combat art with\nCrit{Variable=0}.
+MIID_ShieldAxe: Shielding Axe{Variable=0}
+MIID_H_ShieldAxe0: An axe that also works as a shield.
+MIID_H_ShieldAxe1: An axe that also works as a shield.\nIf foe attacks first, grants Prt{Variable=0} to unit\nduring combat.
+MIID_Boomerang: You Sou Fu{Variable=0}
+MIID_H_Boomerang1: A throwing axe with a sharp blade.
+MIID_H_Boomerang2: A throwing axe with a sharp blade.\nGrants Crit{Variable=0} during combat against\na foe 2+ spaces away.
+MIID_Bardiche: Bardiche{Variable=0}
+MIID_H_Bardiche1: An axe with a large blade atop a long\nhandle.
+MIID_H_Bardiche2: An axe with a large blade atop a long\nhandle. If foe is large scale, grants\nPhys{Variable=0} to unit during combat. 
+MIID_Hammer: Hammer{Variable=0}
+MIID_H_Hammer1: A hammer that can pummel armor\nwith ease.
+MIID_Mace: Mace{Variable=0}
+MIID_H_Mace1: A bludgeoning weapon. Allows use of the\nMagic Strike combat art.
+MIID_H_Mace2: A bludgeoning weapon. Allows use of the\nMagic Strike combat art with Mt{Variable=0}.
+MIID_Verelheit: Velheit{Variable=0}
+MIID_H_Verelheit1: A double-edged axe imbued with dark\npower. Allows use of the Stormstep\ncombat art.
+MIID_Gundogya: Gundogya{Variable=0}
+MIID_H_Gundogya1: A single-edged axe imbued with dark\npower. Allows use of the Magecleaver\ncombat art.
+MIID_RedAxe: Bloodaxe{Variable=0}
+MIID_H_RedAxe1: A magic, crimson axe passed down through\nAragonian royals. Allows use of the\nDomination combat art.
+MIID_D_RedAxe: Dark Bloodaxe{Variable=0}
+MIID_H_D_RedAxe1: An evil axe made from memories of the\nrisen dead. Allows use of the Domination\ncombat art.
+MIID_Zalmoxis: Zalmoxis{Variable=0}
+MIID_H_Zalmoxis1: An axe with the power to cleave even the\nskies. Allows use of the Domination+\ncombat art.
+MIID_DagdaClub: Dagda's Club{Variable=0}
+MIID_H_DagdaClub1: A Supreme Arc that obliterates all things.\nAllows use of the Godly Strike combat art,\nbut removes all others.
+MIID_D_DagdaClub: Dagda's Dark Club{Variable=0}
+MIID_H_D_DagdaClub1: An evil, magic club made from memories\nof the risen dead. Allows use of the\nGodly Strike combat art.
+MIID_ClaireHammer: Credna's Mallet{Variable=0}
+MIID_H_ClaireHammer1: A Supreme Arc with strong magic.\nAllows use of the Flame Ring combat art.
+MIID_H_ClaireHammer2: A Supreme Arc with strong magic. Allows\nthe Flame Ring combat art. After using\nFlame Ring, restores some HP to unit.
+MIID_Suiran: Suiran's Whirling Claw{Variable=0}
+MIID_H_Suiran1: A throwing axe imbued with dark power.\nAllows use of the Rotation combat art.
+MIID_H_Suiran2: A throwing axe with dark power. Allows\nthe Rotation combat art with Mt{Variable=0}.
+MIID_D_Suiran: Dark Whirling Claw{Variable=0}
+MIID_H_D_Suiran1: A throwing axe made from memories of the\nrisen dead. Allows use of the Rotation\ncombat art.
+MIID_Ottochan: Babbu{Variable=0}
+MIID_H_Ottochan1: A stuffed bear that has an unsettling\npresence. Allows use of the\nUnderworld Viscera combat art.
+MIID_H_Ottochan2: An unsettling bear. Allows use of the\nUnderworld Viscera combat art.\nIf foe is Poisoned, unit attacks first.
+MIID_RedAxe_SealBroken: Odious Bloodaxe
+MIID_H_RedAxe_SealBroken: A magic axe awakening to its true form.\nAllows use of the Domination combat art.
+MIID_WoodBow: Wooden Bow{Variable=0}
+MIID_H_WoodBow1: A light, simple bow made of wood.
+MIID_H_WoodBow2: A light, simple bow made of wood.\nGrants Spd{Variable=0}.
+MIID_BronzeBow: Bronze Bow{Variable=0}
+MIID_H_BronzeBow1: A standard bow cast from bronze.
+MIID_H_BronzeBow2: A standard bow cast from bronze.\nGrants Def{Variable=0}.
+MIID_IronBow: Iron Bow{Variable=0}
+MIID_H_IronBow1: A good-quality bow made of iron.
+MIID_H_IronBow2: A good-quality bow made of iron.\nGrants Dex{Variable=0}.
+MIID_DaminaBow: Da Mina Bow{Variable=0}
+MIID_H_DaminaBow0: A high-quality bow made in the town\nof Da Mina.
+MIID_H_DaminaBow1: A high-quality bow made in Da Mina.\nGrants Hit{Variable=0} when attacking with\na combat art.
+MIID_H_DaminaBow2: A high-quality bow made in Da Mina.\nGrants Hit/Crit{Variable=0} when attacking with\na combat art.
+MIID_SilverBow: Silver Bow{Variable=0}
+MIID_H_SilverBow1: A powerful bow plated in refined silver.
+MIID_HuntingBow: Hunter's Bow{Variable=0}
+MIID_H_HuntingBow1: A composite bow favored by the forest\nclans.
+MIID_H_HuntingBow2: A composite bow favored by the forest\nclans. If foe is a beast, grants Hit{Variable=0}\nto unit during combat.
+MIID_LongBow: Longbow{Variable=0}
+MIID_H_LongBow1: A large bow capable of a very long range.\nAllows use of the Deadeye combat art.
+MIID_ShortBow: Mini Bow{Variable=0}
+MIID_H_ShortBow1: A small, easily handled bow.
+MIID_H_ShortBow2: A small, easily handled bow. Grants AS{Variable=0}\nduring combat against an adjacent foe.
+MIID_HorseBow: Horsekiller Bow{Variable=0}
+MIID_H_HorseBow1: A bow made for anti-cavalry use.
+MIID_H_HorseBow2: A bow made for anti-cavalry use. If foe\nis cavalry, grants Hit{Variable=0} to unit\nduring combat.
+MIID_BattleBow: War Bow{Variable=0}
+MIID_H_BattleBow1: A large bow with incredible power.
+MIID_H_BattleBow2: A large bow with incredible power. If foe\nis large scale, grants Hit{Variable=0} to unit\nduring combat.
+MIID_WindBow: Tempest Bow{Variable=0}
+MIID_H_WindBow1: A beautiful bow imbued with the power\nof wind spirits.
+MIID_H_WindBow2: A beautiful bow imbued with the power\nof wind spirits. If unit attacks first, grants\nAvo{Variable=0} during combat.
+MIID_PoisonBow: Venin Bow{Variable=0}
+MIID_H_PoisonBow1: A poison bow. If unit's attack hits, inflicts\nPoison on foe.
+MIID_H_PoisonBow2: A poison bow. If unit's attack hits, inflicts\nPoison on foe. Allows use of the\nPoisoner's Talent combat art.
+MIID_AgazeBow: Azaga's Bow{Variable=0}
+MIID_H_AgazeBow1: A magic bow imbued with dark power.\nAllows use of the Calamitous Shot\ncombat art.
+MIID_HedagBow: Hedagg's Bow{Variable=0}
+MIID_H_HedagBow1: A golden bow imbued with dark power.\nAllows use of the Lightning Star combat art.
+MIID_D_HedagBow: Hedagg's Dark Bow{Variable=0}
+MIID_H_D_HedagBow1: An evil magic bow made from memories of\nthe risen dead. Allows use of the\nLightning Star combat art.
+MIID_UgouBow: Ugo's Bow{Variable=0}
+MIID_H_UgouBow1: A magic bow of a distinctly deep red color\nthat is imbued with dark power. Allows use\nof the Drilling Breach combat art.
+MIID_IdeaBow: Idah's Bow{Variable=0}
+MIID_H_IdeaBow1: One of the Arcs passed down through\nAragonian royals. Allows use of the\nHoly Flash combat art.
+MIID_H_IdeaBow2: Arc passed down by Arago royalty. Allows\nthe Holy Flash combat art with increased\nrecovery.
+MIID_CarlaBow: Kalla's Bow{Variable=0}
+MIID_H_CarlaBow1: A Supreme Arc imbued with the power\nof wind. Allows use of the Heaven's Wind\ncombat art.
+MIID_H_CarlaBow2: A Supreme Arc with the power of wind.\nAllows use of the Heaven's Wind combat art\nwith Hit{Variable=0}.
+MIID_WoodGautlet: Wooden Gauntlets{Variable=0}
+MIID_H_WoodGautlet1: Light, simple gauntlets made of wood.
+MIID_H_WoodGautlet2: Light, simple gauntlets made of wood.\nGrants Spd{Variable=0}.
+MIID_BronzeGautlet: Bronze Gauntlets{Variable=0}
+MIID_H_BronzeGautlet1: Standard gauntlets cast from bronze.
+MIID_H_BronzeGautlet2: Standard gauntlets cast from bronze.\nGrants Def{Variable=0}.
+MIID_IronGautlet: Iron Gauntlets{Variable=0}
+MIID_H_IronGautlet1: Good-quality gauntlets made of iron.
+MIID_H_IronGautlet2: Good-quality gauntlets made of iron.\nGrants Dex{Variable=0}.
+MIID_DaminaGautlet: Da Mina Gauntlets{Variable=0}
+MIID_H_DaminaGautlet0: High-quality gauntlets made in the town\nof Da Mina.
+MIID_H_DaminaGautlet1: High-quality gauntlets made in Da Mina.\nGrants Hit{Variable=0} when attacking with\na combat art.
+MIID_H_DaminaGautlet2: High-quality gauntlets made in Da Mina.\nGrants Hit/Crit{Variable=0} when attacking with\na combat art.
+MIID_SilverGautlet: Silver Gauntlets{Variable=0}
+MIID_H_SilverGautlet1: Powerful gauntlets plated in refined silver.
+MIID_AvoidGautlet: Dodge Gauntlets{Variable=0}
+MIID_H_AvoidGautlet1: Gauntlets of lighter design for nimble\nfighting. Makes it easier to avoid attacks.
+MIID_ResistGautlet: Resistant Gauntlets{Variable=0}
+MIID_H_ResistGautlet0: Gauntlets that have a resistance to magic.
+MIID_H_ResistGautlet1: Gauntlets that have a resistance to magic.\nGrants Res{Variable=0}.
+MIID_CounterGautlet: Counter Gauntlets{Variable=0}
+MIID_H_CounterGautlet0: Gauntlets that are stronger during a\ncounterattack.
+MIID_H_CounterGautlet1: Gauntlets that are stronger during a\ncounterattack. If foe attacks first, grants\nAtk{Variable=0} to unit during combat.
+MIID_H_CounterGautlet2: Gauntlets that are stronger during a\ncounterattack. If foe attacks first, grants\nAtk{Variable=0}, Hit{Variable=1} to unit during combat.
+MIID_Jamadahar: Jamadhars{Variable=0}
+MIID_H_Jamadahar1: Gauntlets with blades at the tips. Allows\nthe Deadly Gauntlet combat art.
+MIID_Kenkonken: Qiankun Circles{Variable=0}
+MIID_H_Kenkonken1: Circular weapons that can also be thrown.
+MIID_H_Kenkonken2: Throwable weapons. Grants\nHit/Crit/Avo{Variable=0} during combat\nagainst a foe 2+ spaces away.
+MIID_Dondebok: Dondebok{Variable=0}
+MIID_H_Dondebok1: Fiery gauntlets imbued with dark power.\nAllows use of the Flame Drill combat art.
+MIID_D_Dondebok: Dark Dondebok{Variable=0}
+MIID_H_D_Dondebok1: Fiery gauntlets made from memories of\nthe risen dead. Allows use of the Flame Drill\ncombat art.
+MIID_Gazeria: Zagreia{Variable=0}
+MIID_H_Gazeria1: Illusory gauntlets imbued with dark power.\nAllows use of the Mirage combat art.
+MIID_H_Gazeria2: Illusory gauntlets. Allows use of the Mirage\ncombat art. Grants Atk{Variable=0} when attacking\nwith a combat art.
+MIID_D_Gazeria: Dark Zagreia{Variable=0}
+MIID_H_D_Gazeria1: Illusory gauntlets made from memories\nof the risen dead. Allows use of the Mirage\ncombat art.
+MIID_BearClaw: 
+MIID_H_BearClaw1: 
+MIID_H_BearClaw2: 
+MIID_D_BearClaw: Dark Claws of Ursa{Variable=0}
+MIID_H_D_BearClaw1: Claw gauntlets made from memories of\nthe risen dead. Allows use of the\nViolent Claw combat art.
+MIID_BearClawRight: Ursa's Right Claw
+MIID_H_BearClawRight1: One of a pair of gauntlets made of ominous\nclaws. Allows use of the Violent Claw\ncombat art.
+MIID_BearClawLeft: Ursa's Left Claw
+MIID_H_BearClawLeft1: One of a pair of gauntlets made of ominous\nclaws. Allows use of the Violent Claw\ncombat art.
+MIID_SmirnosGautlet: Smyrnos's Channels{Variable=0}
+MIID_H_SmirnosGautlet1: A Supreme Arc imbued with the power\nof lightning. Allows use of the\nThoron Gauntlet combat art.
+MIID_Hukarin: Windfire Rings{Variable=0}
+MIID_H_Hukarin1: A beautiful Arc imbued with the power\nof fire. Allows use of the Flame Wheel\ncombat art.
+MIID_H_Hukarin2: An Arc imbued with fire. Allows use of the\nFlame Wheel combat art. If unit attacks\nfirst, grants Hit{Variable=0} during combat.
+MIID_Salamander: Salamander{Variable=0}
+MIID_H_Salamander1: A handheld firearm of great power.\nTreated as a magical attack. Allows\nthe Compressed Laser combat art.
+MIID_H_Salamander2: A handheld firearm of great power.\nTreated as a magical attack. Allows\nthe Compressed Laser combat art.
+MIID_Zerberos: Zerberus{Variable=0}
+MIID_H_Zerberos1: A handheld firearm made for Troy.\nTreated as a magical attack. Allows\nthe Compressed Laser combat art.
+MIID_H_Zerberos2: A handheld firearm made for Troy.\nTreated as a magical attack. Allows\nthe Compressed Laser combat art.
+MIID_Chiarenza: Chiarenza
+MIID_H_Chiarenza: A handheld firearm designed by Credna.\nTreated as a magical attack.
+MIID_Fire: Fire
+MIID_H_Fire: Basic fire magic that unleashes a fireball.
+MIID_Bolganon: Bolganone
+MIID_H_Bolganon: Advanced fire magic that incinerates\nan enemy.
+MIID_Thunder: Thunder
+MIID_H_Thunder: Basic lightning magic that causes a\nfocused strike.
+MIID_Tron: Thoron
+MIID_H_Tron: Advanced lightning magic that pierces an\nenemy with a powerful bolt of condensed\nlightning.
+MIID_Wind: Wind
+MIID_H_Wind: Basic wind magic that strikes with a blade\nof evacuating air. Effective vs. flying.
+MIID_Shaver: Cutting Gale
+MIID_H_Shaver: Advanced wind magic that shreds an enemy\nwith blades of air. Effective vs. flying.
+MIID_Blizzar: Blizzard
+MIID_H_Blizzar: Basic ice magic that freezes the target.
+MIID_IceBlade: Ice Blade
+MIID_H_IceBlade: Advanced ice magic that attacks an enemy\nwith sliding ice blades.
+MIID_Arrow: Sagittae
+MIID_H_Arrow: Magic that attacks a foe with mystical\narrows.
+MIID_AgneaArrow: Agnea's Arrow
+MIID_H_AgneaArrow: The highest tier of fire magic that purifies\nwith a blazing strike.
+MIID_ThunderStorm: Bolting
+MIID_H_ThunderStorm: High-level magic that attacks from a\ndistance using a lightning storm.\nCannot make a follow-up.
+MIID_Excalibur: Excalibur
+MIID_H_Excalibur: High-level magic that slices an enemy with\ntwo large blades of wind. Effective\nvs. flying.
+MIID_FimbleNight: Fimbulvetr Night
+MIID_H_FimbleNight: Magic of the highest tier that draws\nupon eternal winter.
+MIID_WanderingWall: Wandering Wall
+MIID_H_WanderingWall: Creates a wall where needed.
+MIID_GlassWheel: Glass Wheel
+MIID_H_GlassWheel: Attacks a foe with shards of razor-sharp\nglass. Calculates damage based on foe's Prt.\nEffective vs. flying.
+MIID_JudgmentSword: Sword of Judgment
+MIID_H_JudgmentSword: Attacks a foe with a large, flying sword.\nStrikes {Variable=0} times. Calculates damage\nbased on foe's Prt.
+MIID_EarthJaw: Earth's Jaws
+MIID_H_EarthJaw: Summons giant stone jaws that crush a foe.\nCalculates damage based on foe's Prt.
+MIID_GriefGravel: Stone of Lament
+MIID_H_GriefGravel: Attacks a foe with a silicon stone.\nGuaranteed to hit. Calculates damage\nbased on foe's Prt.
+MIID_CrushingFist: Shattering Fist
+MIID_H_CrushingFist: Summons a giant arm of stone to crush a\nfoe. Calculates damage based on foe's Prt.
+MIID_SolidGiant: Hulking Help
+MIID_H_SolidGiant: Summons a greater Titanus.
+MIID_SandstormBattalion: Sandstorm Battalion
+MIID_H_SandstormBattalion: Summons multiple lesser Titanus.
+MIID_Dora: Miasma Δ
+MIID_H_Dora: Attacks a foe with a ball of concentrated\ndark matter.
+MIID_Slime: Mire B
+MIID_H_Slime: Attacks using the digestive fluids of\nartificial lifeforms.
+MIID_Warm: Swarm Ζ
+MIID_H_Warm: An attack that envelops a foe in\nmicromachines. If unit's attack hits, inflicts\nSpd{Variable=0} on foe until unit's next phase.
+MIID_Banshee: Banshee Θ
+MIID_H_Banshee: Assaults a foe with consecutive bursts of\ndark energy. Inflicts Immobilize on foe.
+MIID_Death: Death Γ
+MIID_H_Death: Summons the power of death and\nunleashes it on a foe. High Crit.
+MIID_Luna: Luna Λ
+MIID_H_Luna: A powerful attack that destroys targets from\nthe inside. Ignores foe's Res.
+MIID_DarkSpikes: Dark Spikes T
+MIID_H_DarkSpikes: Magic with specialized anti-cavalry\ncapabilities. Effective+ vs. cavalry.
+MIID_Heal: Heal
+MIID_H_Heal: Sacred magic that heals wounds.\nRestores HP to an ally.
+MIID_Recover: Recover
+MIID_H_Recover: Sacred magic that heals wounds.\nRestores a lot of HP to an ally.
+MIID_Riblow: Physic
+MIID_H_Riblow: Sacred magic that heals wounds from afar.\nRestores HP to a distant ally.
+MIID_Reserve: Fortify
+MIID_H_Reserve: Sacred magic that heals wounds in a wide\narea. Restores HP to allies in range.
+MIID_Laia: Laia
+MIID_H_Laia: Sacred magic that heals wounds.\nRestores a little HP to an ally.\nSometimes restores {Variable=0} HP.
+MIID_Lizaia: Nosferatu
+MIID_H_Lizaia: Magic that absorbs lifeforce from a target.\nUnit recovers HP equal to half the damage\nthey deal.
+MIID_Angel: Seraphim
+MIID_H_Angel: Sacred magic that attacks with a ball of\npure light. Effective vs. undead.
+MIID_Aura: Aura
+MIID_H_Aura: Sacred magic that incinerates a target with\nlight from the ground.
+MIID_Starlight: Starlight
+MIID_H_Starlight: Sacred magic that strikes a foe with a\nconcentrated beam of starlight.\nEffective vs. undead.
+MIID_Torch: Torch
+MIID_H_Torch: Sacred magic that lights the darkness.\nGrants Vis{Variable=0} until unit's next phase.
+MIID_Rest: Restore
+MIID_H_Rest: Sacred magic that restores the body to its\nnormal state. Removes all status effects\nfrom an ally.
+MIID_Resquia: Resquia
+MIID_H_Resquia: Sacred magic that teleports a nearby\ntarget. Warps a nearby ally to space\nadjacent to unit.
+MIID_Rescue: Rescue
+MIID_H_Rescue: Sacred magic that teleports a faraway\ntarget. Warps a distant ally to space\nadjacent to unit.
+MIID_Warp: Warp
+MIID_H_Warp: Magic that teleports a target to a distant\nplace. Warps an ally to a space within\n{Variable=0} {SingularPlural0=space|spaces}.
+MIID_Barrier: Barrier
+MIID_H_Barrier: Sacred magic that protects an ally with a\nholy barrier. Ally takes half damage during\ntheir next combat.
+MIID_MagicShield: Ward
+MIID_H_MagicShield: Magic that protects an ally from magical\neffects. Grants Res{Variable=0} to an ally until\nunit's next phase.
+MIID_Emergence: Emergis
+MIID_H_Emergence: Magic that protects an ally from lethal\nstrikes. Grants Ddg{Variable=0} to an ally until\nunit's next phase.
+MIID_Regeia: Regenera
+MIID_H_Regeia: Magic that gradually heals wounds. Restores\na little HP at start of unit's phase for\n{Variable=0} {SingularPlural0=turn|turns}.
+MIID_Silece: Silence
+MIID_H_Silece: Sacred magic that suppresses the magic\nability of others. Inflicts Silence on a foe.
+MIID_Freeze: Freeze
+MIID_H_Freeze: Sacred magic that restricts enemy\nmovement. Inflicts Immobilize on a foe.
+MIID_Basark: Berserk
+MIID_H_Basark: Sacred magic that distorts an enemy's\nfocus. Inflicts Confusion on a foe.
+MIID_Thanatos: Thanatos
+MIID_H_Thanatos: Magic that summons arms of darkness from\nthe depths of the earth.
+MIID_WoodShield: Wooden Shield
+MIID_H_WoodShield: Grants Def{Variable=0}.
+MIID_BronzeShield: Bronze Shield
+MIID_IronShield: Iron Shield
+MIID_DaminaShield: Da Mina Shield
+MIID_SilverShield: Silver Shield
+MIID_AmuletShield: Talisman Shield
+MIID_H_AmuletShield: Grants Def{Variable=0}, Res{Variable=1}.
+MIID_ResistShield: Hexlock Shield
+MIID_HitRing: Archer's Ring
+MIID_H_HitRing: Grants Hit{Variable=0}.
+MIID_AVoidRing: Phantom Ring
+MIID_H_AVoidRing: Grants Avo{Variable=0}.
+MIID_CriticalRing: Hunter's Ring
+MIID_H_CriticalRing: Grants Crit{Variable=0}.
+MIID_GoddessRing: Goddess Ring
+MIID_H_GoddessRing: Grants Lck{Variable=0}.
+MIID_GiantRing: Giant's Ring
+MIID_H_GiantRing: Grants Bld{Variable=0}.
+MIID_GaleRing: Gale Ring
+MIID_H_GaleRing: Grants Spd{Variable=0}.
+MIID_PoisonJewel: Poisonbane Gem
+MIID_H_PoisonJewel: If foe is Poisoned, unit takes {Variable=0}%\ndamage when attacked.
+MIID_HuntingJewel: Poisonhunt Gem
+MIID_H_HuntingJewel: If foe is Poisoned, multiplies unit's\ndamage by {Variable=0} when attacking.
+MIID_EventfulJewel: Turmoil Mask
+MIID_H_EventfulJewel: A mask imbued with dark power.\nIf foe is Confused, multiplies unit's\ndamage by {Variable=0} when attacking.
+MIID_FuraiJewel: Wander Gem
+MIID_H_FuraiJewel: Unit cannot suffer a follow-up during\ncombat. Trigger % = {Variable=0}.
+MIID_LightningJewel: Bolt Gem
+MIID_H_LightningJewel: Multiplies damage by {Variable=1} when\nattacking with a combat art.\nTrigger % = {Variable=0}.
+MIID_FlameJewel: Conflagrant Gem
+MIID_H_FlameJewel: Grants Hit{Variable=1} when attacking with\na combat art. Trigger % = {Variable=0}.
+MIID_StormJewel: Verdant Gem
+MIID_H_StormJewel: When using a combat art, grants Avo{Variable=1}\nduring combat. Trigger % = {Variable=0}.
+MIID_VictoryJewel: Victory Gem
+MIID_H_VictoryJewel: After defeating a foe, restores a little HP\nto unit.
+MIID_CriticalJewel: Sacred Gem
+MIID_H_CriticalJewel: If unit makes a critical, unit recovers HP\nequal to a third of damage they deal.
+MIID_ChallengeJewel: Challenge Gem
+MIID_H_ChallengeJewel: If foe is equipped with the same weapon\ntype, grants Atk{Variable=0} to unit during combat.
+MIID_PursuitJewel: Scourge Gem
+MIID_H_PursuitJewel: Unit makes a follow-up regardless of\nAS during combat. Trigger % = {Variable=0}.
+MIID_CharmJewel: Charm Mask
+MIID_H_CharmJewel: Inflicts Hit{Variable=0} on foe during combat.\nTrigger % = Cha ÷ 2.
+MIID_SeverJewel: Nullwind Gem
+MIID_H_SeverJewel: If unit attacks first, unit cannot suffer a\nfollow-up during combat. Trigger % = {Variable=0}.
+MIID_MiracleJewel: Miracle Gem
+MIID_H_MiracleJewel: Unit takes no damage when attacked.\nTrigger % = {Variable=0}.
+MIID_DaintyJewel: Beauty Mask
+MIID_H_DaintyJewel: If Cha ≥ foe's Cha+{Variable=0}, inflicts Hit{Variable=1}\non foe during combat.
+MIID_SpiritJewel: Spirit Gem
+MIID_H_SpiritJewel: Grants Avo{Variable=1} when attacked with a\nmagical attack. Trigger % = 30.
+MIID_MadnessJewel: Whimsy Mask
+MIID_H_MadnessJewel: If unit is Confused, grants Avo{Variable=0}.
+MIID_SwordAmulet: Swordbreak Amulet
+MIID_H_SwordAmulet: If foe uses a sword, grants Hit/Avo{Variable=0}\nto unit during combat.
+MIID_SpearAmulet: Spearbreak Amulet
+MIID_H_SpearAmulet: If foe uses a spear, grants Hit/Avo{Variable=0}\nto unit during combat.
+MIID_AxeAmulet: Axebreak Amulet
+MIID_H_AxeAmulet: If foe uses an axe, grants Hit/Avo{Variable=0}\nto unit during combat.
+MIID_BowAmulet: Bowbreak Amulet
+MIID_H_BowAmulet: If foe uses a bow, grants Hit/Avo{Variable=0}\nto unit during combat.
+MIID_GauntletAmulet: Fistbreak Amulet
+MIID_H_GauntletAmulet: If foe uses gauntlets, grants Hit/Avo{Variable=0}\nto unit during combat.
+MIID_MagicalWand: Magic Staff
+MIID_H_MagicalWand: Grants Mag{Variable=0}.
+MIID_HealingWand: Healing Staff
+MIID_H_HealingWand: When healing an ally with magic,\nrestores {Variable=0} HP.
+MIID_GaranBangle: Garan's Bangle
+MIID_H_GaranBangle: A bangle imbued with dark power.\nGrants Rng{Variable=0} to attack magic.
+MIID_DemonSkull: Ogreskull Mask
+MIID_H_DemonSkull: A terrifying mask imbued with dark power.\nGrants Crit{Variable=0} when attacking with magic.
+MIID_D_DemonSkull: Dark Ogreskull Mask
+MIID_AgonyShield: Anguishing Shield
+MIID_H_AgonyShield: A shield imbued with dark power.\nUnit takes half damage when attacked with\na magical attack. Trigger % = {Variable=0}.
+MIID_AronWand: Aaron's Rod
+MIID_H_AronWand: A rod imbued with dark power.\nGrants Mag/Dex{Variable=0}.
+MIID_JuneauShield: Jurah's Ice Mirror
+MIID_H_JuneauShield: A Supreme Arc coated in a tranquil frost.\nUnit takes half damage when attacked\nwith a critical.
+MIID_ZephyrusShield: Shield of Zephyrus
+MIID_H_ZephyrusShield: A mysterious Arc imbued with the power of\nwind. Neutralizes effective vs. flying.
+MIID_CatMask: Cat Mask
+MIID_H_CatMask: Inflicts Cha{Variable=0}.
+MIID_YuphasMask: Yu Phas's Mask
+MIID_H_YuphasMask: Grants Shld{Variable=0} when attacked by an\nundead foe.
+MIID_LyraMask: Lyrah's Mask
+MIID_H_LyraMask: Grants Mag{Variable=0}.
+MIID_MyrnaMask: Mahna's Mask
+MIID_H_MyrnaMask: Grants Lck{Variable=0}.
+MIID_IsietoMask: Eishet's Mask
+MIID_H_IsietoMask: Grants Cha{Variable=0}.
+MIID_FortanaWand: Fortuna's Wand
+MIID_H_FortanaWand: A Supreme Arc that enhances the caster's\npower. Grants Rng{Variable=0} to healing magic.
+MIID_BragiBrush: Bragi's Brush
+MIID_H_BragiBrush: A flat brush imbued with dark power.\nGrants Hit{Variable=0} when attacking with magic.
+MIID_D_BragiBrush: Bragi's Dark Brush
+MIID_SummonBranch: Beckoning Branch
+MIID_H_SummonBranch: A flute imbued with dark power.\nCalls forth the risen dead.
+MIID_Gleipnir: Gleipnir
+MIID_D_Gleipnir: Dark Gleipnir
+MIID_H_Gleipnir: A phantom thread imbued with dark power.\nManipulates the minds of others.
+MIID_WhiteMoon: Moonstone
+MIID_H_WhiteMoon: A legendary vihuela used by the Virtuosa of\nHeaven and Earth. Its melody resonates\nacross the world. Grants Res{Variable=0}.
+MIID_D_WhiteMoon: Dark Moonstone
+MIID_H_D_WhiteMoon: The vihuela borne by Maria. Its somber\nmelody echoes up from the underworld\ndepths. Grants Res{Variable=0}.
+MIID_ParticleEmblem: Electron Agitator
+MIID_H_ParticleEmblem: A cord made using an ancient alloy.\nIf unit's magic attack hits, inflicts Confusion\non foe. Trigger % = {Variable=0}.
+MIID_BlissTongue: Lashing Rapture
+MIID_H_BlissTongue: A tongue imbued with dark power.\nAfter defeating a foe, restores some\nHP to unit.
+MIID_PoisonBone: Poisonbone Chain
+MIID_H_PoisonBone: A chain imbued with dark power.\nIf unit's magic attack hits, inflicts Poison\non foe. Trigger % = {Variable=0}.
+MIID_SeaCharm: Sea-Spirit Charm
+MIID_H_SeaCharm: Inflicts Lck{Variable=0} on adjacent foes.
+MIID_MonasticTalisman: Order's Staff
+MIID_H_MonasticTalisman: Grants Mag{Variable=0}, Res{Variable=1}.
+MIID_HeatHazeOrder: Haze Badge
+MIID_H_HeatHazeOrder: When equipped with a sword or bow,\nif unit's attack hits, deals at least {Variable=0}\ndamage.
+MIID_AuroraCloth: Cloth of Aurora
+MIID_H_AuroraCloth: An Arc imbued with the power of the stars.\nGrants Res{Variable=0} to unit and Res{Variable=1}\nto adjacent allies.
+MIID_CarlaNeedle: Kalla's Needle
+MIID_H_CarlaNeedle: An Arc kept hidden for a goddess's defense.\nGrants Atk{Variable=0} when making a follow-up.
+MIID_MarsStone: Mars's Kneepads
+MIID_H_MarsStone: An Arc crafted for the Bringer of War.\nGrants Atk{Variable=0}, Crit{Variable=1} when attacking\nwith a combat art.
+MIID_AlchemyStone: Smithing Stone
+MIID_H_AlchemyStone: A common ore found throughout the\nland. Known as a cornerstone in\nsmithing materials.
+MIID_Corundum: Black-Sand Steel
+MIID_H_Corundum: A high-quality ore, often found in iron\nmines. Known for its low rate of carbon\nand other impurities.
+MIID_PoisonStone: Venomstone
+MIID_H_PoisonStone: An ore that absorbs airborne toxins and\nstores them inside. It can be dangerous\nunless mined carefully.
+MIID_WindStone: Windstone
+MIID_H_WindStone: A rare ore that forms in caves with\nrelentless air currents. It contains\nthe power of the wind.
+MIID_ThunderStone: Thunderstone
+MIID_H_ThunderStone: A rare ore that forms in areas with frequent\nlightning strikes. It contains the power\nof lightning.
+MIID_SeaStar: Sea-Star Stone
+MIID_H_SeaStar: A rare ore that forms in caves near the\nocean. It contains the power of the sea.
+MIID_SunStone: Sunstone
+MIID_H_SunStone: A rare ore that forms in areas that are\nfrequently bathed in sunlight. It contains\nthe brilliance of the sun.
+MIID_MoonStone: Lunar Stone
+MIID_H_MoonStone: A rare ore that forms in dark, quiet areas.\nIt contains the radiance of the moon.
+MIID_BlueSnor: Blue Snoll
+MIID_H_BlueSnor: A rare ore that occasionally forms in dark,\ncold places. It glows with a pale-blue light.
+MIID_Cullet: Cullet
+MIID_H_Cullet: A sturdy crystal shard, found in caves\nthroughout the land. Often used in\nsmithing to sharpen blades.
+MIID_MagicArray: Spellshard
+MIID_H_MagicArray: A mineral that has crystallized by absorbing\nmagic over millennia. It is known for its\ndistinct shape.
+MIID_WootzSteel: Wootz Steel
+MIID_H_WootzSteel: An iron ore with a wood-grain pattern.\nOften used in smithing to forge\nhigh-quality weapons.
+MIID_Agartium: Agarthium
+MIID_H_Agartium: A durable metal with a frost-like sheen.\nWith its high melting point, working it\nrequires incredible skill.
+MIID_DarkMetal: Umbral Steel
+MIID_H_DarkMetal: An extremely rare, mystical metal. Some\ntheorize it originally fell to this world on\nan ancient meteorite.
+MIID_FlintCrystal: Phlogiston
+MIID_H_FlintCrystal: A very durable mineral, only found in\nspecific places. It creates sparks when\nstruck with the right metal.
+MIID_Uranite: Ouranotite
+MIID_H_Uranite: A mineral named after Mount Ouranos\nwhere it was discovered. It can determine\nthe sun's position.
+MIID_NemeaStalactite: Nemearite
+MIID_H_NemeaStalactite: A very rare ore found only in Nemea\nCavern. Mining it is extremely dangerous.
+MIID_Orichalcum: Orichalcum
+MIID_H_Orichalcum: A rare mineral with a gold sparkle. It can\nstore magic within itself and is strictly\nregulated by the temples.
+MIID_Adamant: Adamantine
+MIID_H_Adamant: A rare mineral with a pale sparkle.\nExtremely durable and strictly regulated\nby the temples.
+MIID_WarriorStone: Warrior's Soulstone
+MIID_H_WarriorStone: A rare mineral, said to be the lost essence\nof a fallen warrior whose soul failed to\nreach the underworld.
+MIID_NobutaMeat: Sand-Boar Meat
+MIID_H_NobutaMeat: A rich, flavorful meat, known for its\nsucculence. It is widely agreed that\nfemales produce the best cuts.
+MIID_BearMeat: Bear Meat
+MIID_H_BearMeat: A sweet, gamy meat. Simmering it well\nbrings forth a surprisingly refined flavor.
+MIID_SeaMeat: Sea-Beast Meat
+MIID_H_SeaMeat: A dark meat with the potent scent of blood.\nIt is firm yet surprisingly easy to bite\nthrough.
+MIID_WolfMeat: Wolf Meat
+MIID_H_WolfMeat: A tough, sinewy meat that is often\nseasoned and sun-dried into jerky.
+MIID_KusarikMeat: Kusarik Meat
+MIID_H_KusarikMeat: A richly flavored meat with no defining\nodor. It has a slightly sour and spicy\naftertaste.
+MIID_LuffMeat: Rukh Meat
+MIID_H_LuffMeat: A nutrient-rich meat, known for its\nbright-red color. Many agree it pairs\nexcellently with most dishes.
+MIID_YakMeat: Yarc Meat
+MIID_H_YakMeat: A tender, gamy meat known for its unique\naroma. It is commonly prepared with\nfresh herbs.
+MIID_LizardMeat: Flying-Lizard Meat
+MIID_H_LizardMeat: A lean meat with a fresh, airy flavor.\nOvercooking it will likely drain it of\nits flavor.
+MIID_GiantMeat: Giants' Meat
+MIID_H_GiantMeat: A bone-in meat favored by giants. It is\nfermented, bringing forth a peculiar\nand distinctive flavor.
+MIID_WoodliceMeat: Louse Meat
+MIID_H_WoodliceMeat: A white, translucent meat housed in a\nthick shell. It's springy to the touch with\na hearty flavor.
+MIID_ScorpionMeat: Sandbael Meat
+MIID_H_ScorpionMeat: A pale, fibrous meat with a similar flavor\nto crustaceans. Surprisingly few parts of\nthis animal are edible.
+MIID_SandwormMeat: Sandworm Meat
+MIID_H_SandwormMeat: A firm, chewy meat with a deep flavor.\nDesert dwellers see it as a valuable\nsource of protein.
+MIID_AmidGoby: Talto Goby
+MIID_AmidGoby_Tut: Goby Leftovers
+MIID_H_AmidGoby: A common Dagdan freshwater fish. It is\nsmall and flat with bones that can be\nremoved or eaten whole.
+MIID_AmidPike: Baal Pike
+MIID_H_AmidPike: A common freshwater fish of Lake Baal\nknown for its notable lifespan and size.\nIts meat is pleasantly sweet.
+MIID_Megaminotsukai: Paradise Fish
+MIID_H_Megaminotsukai: A legendary fish, also known as the divine\ntrout. It is said to strengthen the body\nwhen consumed.
+MIID_CarneBonito: Carna Bonito
+MIID_H_CarneBonito: A large, carnivorous open-sea fish. Its meat\nis thick and rich, and can be prepared in\nmany ways.
+MIID_HeartBonito: Heart Bonito
+MIID_H_HeartBonito: A large, carnivorous open-sea fish known\nfor the pattern on its head. It only resides\nin certain areas.
+MIID_GoldTrout: Golden Trout
+MIID_H_GoldTrout: A sweet fish with beautiful, golden scales.\nIt can survive in both freshwater and\nsaltwater habitats.
+MIID_WhiteTrout: White Trout
+MIID_H_WhiteTrout: A salty fish with silvery-white scales. It\ncan survive in both freshwater and\nsaltwater habitats.
+MIID_Calednisgaa: Kothar Gar
+MIID_H_Calednisgaa: A freshwater fish known for its incredibly\nthick scales. It hides in areas with relatively\nlow currents.
+MIID_Yumenosilbe: Dreamtracer
+MIID_H_Yumenosilbe: A rare fish with extremely high nutritional\nvalue. It prefers to live in rough seas.
+MIID_LilFish: Lir Fish
+MIID_H_LilFish: A fish found widely in the Lir Sea. It is\nsmall but fiercely aggressive, often tearing\nthrough fishing nets.
+MIID_BazariShark: Bazari Shark
+MIID_H_BazariShark: A large, ferocious fish known to hunt in\npacks. It is valuable but intelligent enough\nto avoid capture.
+MIID_GalaMerlin: Garla Marlin
+MIID_H_GalaMerlin: A deep-sea fish with immense strength and\na large, sharp beak. It can be incredibly\ndifficult to catch.
+MIID_TortatesLoach: Ladon Loach
+MIID_H_TortatesLoach: A resilient freshwater fish that can thrive\nin polluted habitats. Best purged of mud\nbefore cooking.
+MIID_TortatesPike: Ladon Pike
+MIID_H_TortatesPike: A freshwater fish found in large lakes.\nIt has a powerful odor and requires\nexpert preparation.
+MIID_BlackRoach: Black Loach
+MIID_H_BlackRoach: A very rare fish found only in certain lakes.\nIts unique taste can become addicting\nfor some.
+MIID_Rahran: Rahlan
+MIID_H_Rahran: A fish found in the Lir Sea. Known for its\ndistinct flavor, it can only be prepared\nproperly by expert chefs.
+MIID_AngusPike: Aegis Pike
+MIID_H_AngusPike: A fish with a flat body resembling a shield.\nIts dried form is considered a delicacy.
+MIID_QueenRoach: Queen Loach
+MIID_H_QueenRoach: A freshwater fish commonly found in lakes.\nWith its elegance, it is often called the\nQueen of the Lake.
+MIID_AlbineHerring: Albinean Herring
+MIID_H_AlbineHerring: A migratory fish that travels along cold\ncurrents. Its mild flavor is consistent\ndespite how it's cooked.
+MIID_MeltFish: Meltfish
+MIID_H_MeltFish: A deep-sea fish found in the Pasha\nCurrents. Incredibly fatty and delicious,\nbut fills the stomach quickly.
+MIID_Dougzandi: Dagdandi
+MIID_H_Dougzandi: An ancient freshwater-lake fish with a\nstriking appearance. Drying it brings\nforth a deep flavor.
+MIID_DarkFish: Bedfish
+MIID_H_DarkFish: A rare fish found in both seas and lakes.\nBecause it lives in extremely deep waters,\nit is rarely caught.
+MIID_MoonFish: Moonfish
+MIID_H_MoonFish: A mythical fish that only lives in certain\nlakes. Legends spin tales of its radiant\nglow on moonlit nights.
+MIID_GradyGoby: Grady Goby
+MIID_H_GradyGoby: A common fish found in the Lir Sea. It is\noften spotted beneath the seabed, peeking\nout curiously.
+MIID_Zotogon: Zotogon
+MIID_H_Zotogon: A freshwater fish often found in lakes.\nIt spoils quickly, so it is typically sold in\na processed form.
+MIID_Scylla: Skolai
+MIID_H_Scylla: An octopus that lives on the seabed and\nhas a sturdy shell protecting its head.\nIt is delicious when boiled.
+MIID_HardFish: Steelfish
+MIID_H_HardFish: A rugged fish known for its thick exterior.\nIts flesh has a light, elegant flavor.
+MIID_SugarMerlin: Sugar Marlin
+MIID_H_SugarMerlin: A migratory fish with a short beak. Its meat\nis thick and sweet. It pairs well with\nmany dishes.
+MIID_TeffFruit: Coffee Berries
+MIID_TeffFruit_Tut: Leftover Coffee Berries
+MIID_H_TeffFruit: Berries widely cultivated in the south.\nThe seeds can be removed and roasted\nthen traded as coffee in various regions.
+MIID_Ginji: Ginji
+MIID_H_Ginji: A fruit that grows wildly on tree trunks\nthroughout Dagda. It is typically used to\nmake ghosh.
+MIID_Kimbasho: Jin Ba Jiao
+MIID_H_Kimbasho: A fruit that grows wildly in forests. It is\nsweet and highly nutritious. Its leaf fiber\ncan also be harvested.
+MIID_Sabakukibi: Desert Millet
+MIID_H_Sabakukibi: A plant that thrives in dry regions. With\nedible kernels, it has a strong flavor and\nearthy aroma.
+MIID_Baku: Bakul
+MIID_H_Baku: A widely used grain. It requires ample\nwater to grow, so it is farmed in areas\nwith large rivers.
+MIID_Dates: Dates
+MIID_H_Dates: A sweet, drought-resistant fruit that thrives\nin the desert. It preserves excellently\nwhen dried.
+MIID_BlueGinji: Blue Ginji
+MIID_H_BlueGinji: A rare, mutant species of ginji. This variant\nis bright blue and is used as an ingredient\nfor shosh.
+MIID_Hishibana: Caltrop Flower
+MIID_H_Hishibana: A plant that grows in relatively mild\nclimates. The edible part is its distinct,\nsquare-shaped flower.
+MIID_Kadam: Cadam
+MIID_H_Kadam: A southern plant with shelled fruit\ncontaining oil. The shells are used\nto make containers for small items.
+MIID_Angelica: Angelica
+MIID_H_Angelica: A rare herb cultivated for its stems and\nleaves. It has a sweet, rich flavor and\nhigh medicinal benefits.
+MIID_SemPotato: Shem Yam
+MIID_H_SemPotato: A plant that thrives in humid habitats.\nIts rhizomes store well and are a great\nsource of nutrients.
+MIID_Soldanella: Soldanella
+MIID_H_Soldanella: Primarily found in the Solidus region. It is\nonly edible if harvested before it blooms.
+MIID_Hikariboshi: Lightstar
+MIID_H_Hikariboshi: A rare plant that grows in specific areas.\nIt produces large fruit at the end of its vines.
+MIID_Apatia: Apatta
+MIID_H_Apatia: A plant that flourishes in dry areas. Due to\nits sweetness and rarity, it can be traded\nat a high price.
+MIID_Sorgi: Solgi
+MIID_H_Sorgi: A plant that primarily grows in deserts.\nIt stores enough water to save dehydrated\ntravelers.
+MIID_PurgatoryGrass: Torment Grass
+MIID_H_PurgatoryGrass: A plant with leaves so spicy they are often\ndescribed as fiery. Highly prized as a\nrare spice.
+MIID_Gurumaosa: Glirmosa
+MIID_H_Gurumaosa: A beautiful plant but highly poisonous.\nMust be properly prepared before human\nconsumption. Useful as an insect repellent.
+MIID_RedFlicker: Redflicker
+MIID_H_RedFlicker: A pungent vegetable that grows in\nmountainous areas. Its fruit is often\ndried and used in cooking.
+MIID_Agave: Agave
+MIID_H_Agave: A fibrous desert plant that must have its\nthorns removed before use. Known for its\nunique, spicy flavor.
+MIID_SunFruit: Thry Fruit
+MIID_H_SunFruit: A plant that can grow almost anywhere.\nIts fruit is often crushed and used as\naccent flavoring.
+MIID_RedKimbai: Red Kimbai
+MIID_H_RedKimbai: A mutant species of the kimbai with vivid\nred flowers. Its seeds are prized for their\npotent flavor.
+MIID_Crestor: Crestor
+MIID_H_Crestor: A rare desert plant. Its versatile leaves\ncan be used as spices or as medicinal\ningredients.
+MIID_Roca: Roca
+MIID_H_Roca: A vegetable found in northern areas. Known\nfor its spherical red root, it loses spiciness\nwhen heated.
+MIID_Shaktou: Shaktoh
+MIID_H_Shaktou: A vegetable that thrives in heat. Its\nspiciness can even cause irritation\nto the hands when harvested.
+MIID_Joppa: Jyoppa
+MIID_H_Joppa: A massive fruit. It is exceptionally fragrant\nwith a slightly bitter taste. It is often\npreserved in honey.
+MIID_Linaria: Linaria
+MIID_H_Linaria: A common plant in Dagda, known for its\nwide array of colored flowers. It is sturdy\nand resilient.
+MIID_Zange: Zang
+MIID_H_Zange: A bitter vegetable that thrives in low\naltitudes. It is known to soothe the mind\nwhen ingested.
+MIID_Oliva: Oliva
+MIID_H_Oliva: A widespread, drought-resistant plant.\nIts edible fruit is often squeezed and\nprocessed into oil.
+MIID_NoaFruit: Noa Fruit
+MIID_H_NoaFruit: A mutant species of the wun fruit, only\nfound north of Nowah's Cave. Its exquisite\nfragrance is legendary.
+MIID_Obroma: Obroma
+MIID_H_Obroma: A southern plant with sweet, sour fruit.\nPaste made from its seeds is valued\nas a luxury ingredient.
+MIID_Kimbai: Kimbai
+MIID_H_Kimbai: A mountain plant with gorgeous yellow\nflowers. Its seeds are often used as a spice.
+MIID_TeaTree: Tea Tree
+MIID_H_TeaTree: A Lambath-region plant. Its tender new\nshoots are dried and steeped to bring out\ntheir deep fragrance.
+MIID_IchiFruit: Wun Fruit
+MIID_H_IchiFruit: A pleasantly bitter plant that thrives in\nhigh altitudes. It is often mistaken for the\ntoxic tew fruit.
+MIID_Haksan: Hakseng
+MIID_H_Haksan: A leafy fruit commonly found in the east.\nIt has a refined flavor but spoils quickly,\nturning bitter.
+MIID_Enriette: Enrietto
+MIID_H_Enriette: A rare nut that can grow in windy hill-lands.\nIt is highly valued as a nutritional tonic.
+MIID_Pongo: Pongo
+MIID_H_Pongo: A distinct vegetable that grows mainly in\nthe Melias-region plains. Known for its mild,\nslightly bitter taste.
+MIID_OdeMonge: Oda Monja
+MIID_H_OdeMonge: A specialty in Saramis. It is bitter, but\nsatisfying, and requires many steps\nbefore it is actually edible.
+MIID_Milanilla: Miranilla
+MIID_H_Milanilla: A fragrant herb from Castalia. It is delicious,\nbut consuming it in excess can cause the\nbody to smell.
+MIID_DhakaMonge: Dakka Monja
+MIID_H_DhakaMonge: A plant found in areas like Mount Atla.\nIt must be sun-dried multiple times\nbefore it is edible.
+MIID_Denebatou: Tenebato
+MIID_H_Denebatou: A bean that thrives in mountainous areas.\nFermented in some regions, it is highly\nnutritious.
+MIID_Cinnamos: Cinnamos
+MIID_H_Cinnamos: An herb from the Pasithea region with\nsimilar fragrance to cinnamon. Typically,\nonly its leaves are used.
+MIID_Paya: Paya
+MIID_H_Paya: A plant cultivated in the south and a\nspecialty in Brezarant. It has a flavor\nresembling meat.
+MIID_Chrysanthemum: Pyrethrum
+MIID_H_Chrysanthemum: A wild herb of the Castalia region. It works\nwell as an ornament or as insect repellent.
+MIID_Hingasha: Hingosh
+MIID_H_Hingasha: An extremely rare plant said to help clear\nthe mind. Legend says it was once favored\nby a great sage.
+MIID_YamanGiku: Yaamanthemum
+MIID_H_YamanGiku: A rare flower that only blooms in a certain\narea. Famous as a specialty product of\nYaaman village.
+MIID_Tobarinara: Twalinnara
+MIID_H_Tobarinara: Nuts sold in Twalinn village, gathered\nby shaking a variety of tree that only\ngrows in certain places.
+MIID_Lazanibarta: Lazanibata
+MIID_H_Lazanibarta: A rare herb from Pasithea. It has a\nrefreshing taste and is featured\nheavily in legends of giants.
+MIID_YukiTou: Yukito
+MIID_H_YukiTou: A popular vegetable. While it is rarely\nfarmed, its buds are harvested for food.
+MIID_CocoMinji: Cocominj
+MIID_H_CocoMinji: A southern mushroom that is rarely farmed.\nIt is a known favorite of the kusarik.
+MIID_Usamos: Usamos
+MIID_H_Usamos: A fragrant and popular wild herb that is\nrarely farmed. Only the root stem is edible.
+MIID_Hakuren: Hakuren
+MIID_H_Hakuren: A small herb that is rarely farmed. Its\nsturdy leaves are often used to help\nwith sleepiness.
+MIID_Yunamei: Yuna Mei
+MIID_H_Yunamei: A green-blue algae that appears to be a\nlump of soil. It is translucent, highly elastic,\nand unique in flavor.
+MIID_Nineyakka: Ninokka
+MIID_H_Nineyakka: A popular, luxurious plant. The bark is\nboiled to produce a high-quality sweetener.
+MIID_Baskatch: Baquatti
+MIID_H_Baskatch: A luxury vegetable from the Ogmios region,\nfound near the sea. It is fairly new to\npublic markets.
+MIID_Almamet: Almamet
+MIID_H_Almamet: A spicy fruit with a sweet aroma. Grows in\nnorthwest Dagda. It is commonly used as\na lucky charm.
+MIID_Melara: Melara
+MIID_H_Melara: A fungus of Northern Dagda with a\nflame-like appearance. Eating too\nmuch can lead to fainting.
+MIID_Solom: Solom
+MIID_H_Solom: A desert plant with an odd flavor. Found\nonly in deserts far across the sea. It is\nhighly drought-resistant.
+MIID_Misanga: Mizang
+MIID_H_Misanga: A unique plant that only grows in deserts\nacross the sea. Known for the way it\ntumbles in the wind.
+MIID_Fugue: Fyujo
+MIID_H_Fugue: A vivid-blue fruit that thrives in hot, humid\nclimates. It is popular as a preserved food.
+MIID_Sharmir: Zamir
+MIID_H_Sharmir: A small red fruit common to central Dagda.\nThe way this fruit hangs from its vines\nis impressive.
+MIID_Riganet: Liganet
+MIID_H_Riganet: An unusual fruit that grows mainly in\ncentral Dagda. Its flavor is known to\ndeepen as it grows in size.
+MIID_SweetLeaf: Sweet Leaves
+MIID_H_SweetLeaf: A sweet herb that grows mainly in forests.\nOften used to make mixed drinks, it is\nfavored by tavern regulars.
+MIID_SpiceLeaf: Pepper Leaves
+MIID_H_SpiceLeaf: An herb known to add a sharp zing to\nmixed drinks. It is a favored ingredient\nof tavern patrons.
+MIID_BitterLeaf: Bitter Leaves
+MIID_H_BitterLeaf: An herb that adds a light, bitter zip to\nmixed drinks. It is a favored ingredient\nof tavern patrons.
+MIID_WonderLeaf: Wonder Leaves
+MIID_H_WonderLeaf: An herb that adds a curiously complex\nflavor to mixed drinks. Favored by\ntavern patrons.
+MIID_FishingHook: Sharp Fishhook
+MIID_H_FishingHook: A piercing, high-quality fishhook carved\nfrom thick seashell. Primarily enjoyed by\nfishing enthusiasts.
+MIID_SeaBook: Tome from Away
+MIID_H_SeaBook: An ancient book imported from a faraway\nland. Primarily enjoyed by book lovers.
+MIID_ArrowFeather: Wing Fletching
+MIID_H_ArrowFeather: Arrow quills forged from waterfowl feathers.\nThey improve accuracy. Primarily enjoyed\nby archers.
+MIID_CookingPedia: Home-Recipe Book
+MIID_H_CookingPedia: A collection of home-cooked meals from\naround the world. Primarily enjoyed by\nthose who love to cook.
+MIID_BoardGame: Ebony Game Board
+MIID_H_BoardGame: A common Dagdan board game crafted\nfrom high-quality wood. Primarily\nenjoyed by board-game enthusiasts.
+MIID_FinestTea: Eastern Tea Leaves
+MIID_H_FinestTea: Tea leaves from the land of Sai. It is a rare,\nhigh-quality, and limited product. Primarily\nenjoyed by those who love beverages.
+MIID_BeautyWater: Skin Balm
+MIID_H_BeautyWater: This premium lotion from Caelus is rumored\nto be used by goddesses. Primarily enjoyed\nby fashion lovers.
+MIID_SewingTools: Full Sewing Kit
+MIID_H_SewingTools: A complete set of sewing essentials that are\nincredibly easy to use. Primarily enjoyed by\nfashion lovers.
+MIID_TrainingPillar: Training Pillar
+MIID_H_TrainingPillar: A small, stone pillar found in an ancient\nruin. Primarily enjoyed by training\nenthusiasts.
+MIID_FamousPoems: Poems of the Greats
+MIID_H_FamousPoems: A collection of poems from across the sea,\ncapturing the art of other cultures.\nPrimarily enjoyed by book lovers.
+MIID_KittenFigurine: Kitten Figurine
+MIID_H_KittenFigurine: A beautiful wooden figure carved in the\nlikeness of Smyrnos's black cat.\nPrimarily enjoyed by animal lovers.
+MIID_RareSeed: Rare Southern Seeds
+MIID_H_RareSeed: A rare plant species said to be found \nonly in Southern Dagda. Primarily\nenjoyed by agriculture enthusiasts.
+MIID_SharpChisel: Crafting Knives
+MIID_H_SharpChisel: A set of easy-to-use carving knives\nfrom Da Mina. Primarily enjoyed by\ncrafting enthusiasts.
+MIID_SweetsBook: Pastry Cookbook
+MIID_H_SweetsBook: A cookbook filled with recipes of nutritious\nsweets that children would love. Primarily\nenjoyed by those who love sweets.
+MIID_FlowerPainting: Flower Painting
+MIID_H_FlowerPainting: An intricate painting of flowers. Part of\na series by a master artist. Primarily\nenjoyed by painting lovers.
+MIID_LittleDagger: Sharp Dagger
+MIID_H_LittleDagger: A small, versatile dagger. Useful in a variety\nof everyday situations. Primarily enjoyed by\nweapon lovers.
+MIID_SweetsBox: Box of Treats
+MIID_H_SweetsBox: Elegant baked goods made with sugar and\nfragrant spices. Primarily enjoyed by\nthose who love sweets.
+MIID_CaseFile: School Scandal
+MIID_H_CaseFile: An adventure story about a bizarre incident\nthat unfolds at a military academy.\nPrimarily enjoyed by book lovers.
+MIID_BlackSilk: Eastern Black Silk
+MIID_H_BlackSilk: Glossy silk thread with a pitch-black finish\nthat draws you in. Primarily enjoyed by\nfashion lovers.
+MIID_PortraitYoo: Portrait of Yu Phas
+MIID_H_PortraitYoo: An extremely rare painting depicting the\ngoddess Yu Phas. Primarily enjoyed by\nthose who appreciate beauty.
+MIID_FishKnife: Dual Fish Knives
+MIID_H_FishKnife: Two knives of varied shape, able to slice\nthrough any fish. Primarily enjoyed by \nthose who love to cook.
+MIID_ArrowheadJewelry: Arrowhead Gem
+MIID_H_ArrowheadJewelry: A large, beautiful gemstone shaped like\nan arrowhead. Primarily enjoyed by\nfashion lovers.
+MIID_PegasusPainting: Pegasus Panorama
+MIID_H_PegasusPainting: A painting depicting a majestic landscape\nand a pegasus soaring through the sky. \nPrimarily enjoyed by painting lovers.
+MIID_LleatherBag: Sturdy Rucksack
+MIID_H_LleatherBag: A durable leather bag that holds far more\nthan one would expect. Primarily enjoyed\nby travel enthusiasts.
+MIID_AdventureTale: Tales of Adventure
+MIID_H_AdventureTale: A book summarizing the exploits of a sailor\nduring his time in Southern Dagda.\nPrimarily enjoyed by book lovers.
+MIID_ArtSupplies: Pack of Pastels
+MIID_H_ArtSupplies: Made with delicate pigments, these art\nsupplies produce beautiful, soft colors.\nPrimarily enjoyed by crafting enthusiasts.
+MIID_DanteCollection: The Works of Dante
+MIID_H_DanteCollection: Volume one of the famed writer Dante's\ngreatest plays. Primarily enjoyed by\nbook lovers.
+MIID_JarredVegetables: Pickled Vegetables
+MIID_H_JarredVegetables: Vegetables fermented in brine for several\nmonths. Primarily enjoyed by\nvegetable lovers.
+MIID_UnusualSpices: Rare Spices
+MIID_H_UnusualSpices: Extremely rare spices packed in a\nluxurious presentation box. Primarily\nenjoyed by spicy-food lovers.
+MIID_VihuelaTools: Vihuela-Care Tools
+MIID_H_VihuelaTools: A complete set of maintenance tools to keep\ninstruments in perfect condition. Primarily\nenjoyed by musicians.
+MIID_CookingTools: Outdoor Cooking Set
+MIID_H_CookingTools: A complete set of cooking utensils designed\nfor outdoor use. Primarily enjoyed by those\nwho love to cook.
+MIID_LoveStory: Eastern Love Story
+MIID_H_LoveStory: A tragic love story between a god and\nmortal from the land of Sai. Primarily\nenjoyed by book lovers.
+MIID_BlueRose: Blue-Rose Bouquet
+MIID_H_BlueRose: A bouquet of beautiful roses rarely\nfound in markets. Primarily enjoyed by\nflower lovers.
+MIID_HerbaPedia: Herbal Recipe Guide
+MIID_H_HerbaPedia: A specialized book on medicinal cuisine\nand recipes. Primarily enjoyed by those who\nlove to cook.
+MIID_TravelingHistory: History of a Master
+MIID_H_TravelingHistory: Proverbs of a mysterious old man, noted by\na king during his travels. Primarily enjoyed\nby book lovers.
+MIID_TrainingWeight: Training Weights
+MIID_H_TrainingWeight: Bracelets and ankle bands filled with lead\nand used in training. Primarily enjoyed\nby training enthusiasts.
+MIID_SaltedFish: Brined Fish Guts
+MIID_H_SaltedFish: A savory, preserved food made of fermented\nfish innards, yeast, and salt. Primarily\nenjoyed by fish lovers.
+MIID_MagicTools: Magic-Trick Set
+MIID_H_MagicTools: A collection of items children often use to\nperform simple magic tricks. Primarily\nenjoyed by those who appreciate spirituality.
+MIID_HairOrnament: Red Hair Clip
+MIID_H_HairOrnament: A vibrantly colored hair clip made of sap\nfrom a tree in the east. Primarily enjoyed\nby fashion lovers.
+MIID_SalamisSweets: Saraminian Sweets
+MIID_H_SalamisSweets: Simple baked goods from Saramis.\nPrimarily enjoyed by those who love sweets.
+MIID_RockSugar: Candy Crystals
+MIID_H_RockSugar: High-quality candy made from crystallizing\ndesert millet into sugar. Primarily enjoyed\nby those who love sweets.
+MIID_RuggedWork: Rugged Blade
+MIID_H_RuggedWork: An antique sword, admired by even the god\nof war. Primarily enjoyed by weapon lovers.
+MIID_MorphisAlmanac: Morfis Almanac
+MIID_H_MorphisAlmanac: A book detailing various events held in\nthe City of Illusion, Morfis. Primarily\nenjoyed by book lovers.
+MIID_DesertThings: Desert Curios
+MIID_H_DesertThings: Items from the desert, unknown in material\nand purpose.
+MIID_DishesCollection: Village Recipes
+MIID_H_DishesCollection: A cookbook of recipes from eastern Dagda.\nPrimarily enjoyed by those who love\nto cook.
+MIID_SandwormsMeat: Meaty Delicacy
+MIID_H_SandwormsMeat: Fermented sandworm innards wrapped\nin beast meat. Primarily enjoyed by\nmeat lovers.
+MIID_MedicineDrops: Special "Medicine"
+MIID_H_MedicineDrops: It's said that a single cup of ghosh can cure\nany mild illness. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_ManeOrnament: Mane Ornament
+MIID_H_ManeOrnament: An ornate accessory for a horse's mane,\ncrafted from colorful yarn. Primarily\nenjoyed by those who love horses.
+MIID_TrainingBracelet: Training Bracelet
+MIID_H_TrainingBracelet: A hefty but beautiful training accessory.\nPrimarily enjoyed by training enthusiasts.
+MIID_MealCoupon: Meal Voucher
+MIID_H_MealCoupon: A coupon allowing one to eat for free at\ncertain restaurants. Primarily enjoyed by\nthose who appreciate cuisine.
+MIID_FemaleKnight: The Knight's Suitors
+MIID_H_FemaleKnight: The story of a female knight who challenged\nfive suitors to complete trials. Primarily\nenjoyed by book lovers.
+MIID_ShieldsPortrait: Shield Portrait
+MIID_H_ShieldsPortrait: A painting of the War of Grania, origin of\nSaramis's reputation as the Shield of Dagda.\nPrimarily enjoyed by painting lovers.
+MIID_PottedVegetables: Potted Vegetables
+MIID_H_PottedVegetables: Potted vegetables that can be harvested\nthroughout the year. Primarily enjoyed\nby vegetable lovers.
+MIID_StrategyManuscrip: Strategy Manuscript
+MIID_H_StrategyManuscrip: "The Great August's Art of War," a must-\nread for tacticians. Primarily enjoyed by\ntraining enthusiasts.
+MIID_JointProtection: Joint-Relief Gloves
+MIID_H_JointProtection: Luxurious leather gloves that protect the\narm when firing a bow. Primarily\nenjoyed by archers.
+MIID_SpiritDoll: Protection Figurine
+MIID_H_SpiritDoll: A doll from Brigid. It is said that spirits\nprotect the owner. Primarily enjoyed by\nthose who appreciate spirituality.
+MIID_HorseCare: Horse-Grooming Kit
+MIID_H_HorseCare: A collection of horse-care tools. Primarily\nenjoyed by those who love horses.
+MIID_EastGame: Eastern Board Game
+MIID_H_EastGame: A beautiful display piece brought from\nthe far east. Primarily enjoyed by\nboard-game enthusiasts.
+MIID_DecorativeArrow: Decorative Arrows
+MIID_H_DecorativeArrow: A set of three decorative arrows beautiful\nenough to even impress nobility.\nPrimarily enjoyed by archers.
+MIID_FlashyBangle: Gaudy Bangle
+MIID_H_FlashyBangle: A sparkling bracelet inlaid with gemstones\nand decorative carvings. Primarily enjoyed\nby fashion lovers.
+MIID_StrangeVegetables: Odd Vegetable Seeds
+MIID_H_StrangeVegetables: Vegetable seeds with an outer shell that\nresembles a face. Primarily enjoyed by\nagriculture enthusiasts.
+MIID_CrimsonStatue: Crimson Bull Figure
+MIID_H_CrimsonStatue: This statue honors Nathan the Red, also\nknown as Catoblepas. Primarily enjoyed by\nart lovers.
+MIID_JadeStatue: Jade Panther Figure
+MIID_H_JadeStatue: This statue honors Creek the Green, also\nknown as Pantere. Primarily enjoyed by\nart lovers.
+MIID_TradeIntroduction: Trader's Handbook
+MIID_H_TradeIntroduction: A book on good business practices, from\nnegotiation to cautionary tales. Primarily\nenjoyed by book lovers.
+MIID_CeremonialSpear: Ceremonial Spear
+MIID_H_CeremonialSpear: A beautifully decorated spear. It is not\ndurable enough for practical use.\nPrimarily enjoyed by weapon lovers.
+MIID_SpiritGame: Spirit Board Game
+MIID_H_SpiritGame: Board game from Brigid with spirit-themed\npieces. Primarily enjoyed by board-game\nenthusiasts.
+MIID_GamesCollection: Board-Game Tactics
+MIID_H_GamesCollection: A book of techniques for various board\ngames, devised by masters. Primarily\nenjoyed by board-game enthusiasts.
+MIID_BeautifulRing: Exquisite Ring
+MIID_H_BeautifulRing: A beautiful ring with a large gemstone and \nstrikingly decorated pieces. Primarily\nenjoyed by fashion lovers.
+MIID_DougzaGrass: Dagda Beard Grass
+MIID_H_DougzaGrass: An herb with an odd fragrance known to\nsoothe horses. Primarily enjoyed by\nthose who love horses.
+MIID_FishingRod: Flexible Fishing Rod
+MIID_H_FishingRod: A strong, flexible iron fishing rod that\nis sure to catch even the biggest fish.\nPrimarily enjoyed by fishing enthusiasts.
+MIID_RoseBouquet: Red-Rose Bouquet
+MIID_H_RoseBouquet: A bouquet of large, blazingly red roses.\nPrimarily enjoyed by flower lovers.
+MIID_RuinsThings: Ruin Relics
+MIID_H_RuinsThings: A collection of strange relics found near the\nGreat Tartarus Ruins.
+MIID_FishEyeball: Huge Fish Eyeball
+MIID_H_FishEyeball: The salted eye of a giant southern fish\ncaught in the port of Alecto. Primarily\nenjoyed by fish lovers.
+MIID_EasternEarring: Eastern Earrings
+MIID_H_EasternEarring: Beautiful gold earrings from the east with\ndeep-green beads. Primarily enjoyed by\nfashion lovers.
+MIID_BaguaTools: Divination Bagua
+MIID_H_BaguaTools: A tool from Sai that uses the Bagua\nsystem to tell fortunes. Primarily\nenjoyed by fortune tellers.
+MIID_ThickBook: Thick Foreign Tome
+MIID_H_ThickBook: A book from Fódlan about spirit magic.\nPrimarily enjoyed by book lovers.
+MIID_ArenaStory: Tales of the Arena
+MIID_H_ArenaStory: A collection of stories about the exploits of\nvarious gladiators. Primarily enjoyed by\nbook lovers.
+MIID_BowTools: Bow Repair Kit
+MIID_H_BowTools: A collection of tools that help one maintain\ntheir bow. Primarily enjoyed by archers.
+MIID_PickledBulbs: Pickled Bulbs
+MIID_H_PickledBulbs: A sour, preserved food made by pickling\nvegetable bulbs in vinegar. Primarily\nenjoyed by vegetable lovers.
+MIID_FlavorfulSeasoning: Strong Seasonings
+MIID_H_FlavorfulSeasoning: A condiment with a strong umami flavor.\nMade by mixing spices and seafood.\nPrimarily enjoyed by those who love to cook.
+MIID_SmallTeff: Common Coffee
+MIID_H_SmallTeff: An unremarkable coffee made from roasted,\nlow-quality beans. Primarily enjoyed by\nthose who love coffee.
+MIID_LargeTeff: Select Coffee
+MIID_H_LargeTeff: Coffee made from large, carefully selected\nbeans. Primarily enjoyed by those who\nlove coffee.
+MIID_SouthTeff: Southern Coffee
+MIID_H_SouthTeff: A fragrant, high-quality coffee made from\nsouthern beans. Primarily enjoyed by those\nwho love coffee.
+MIID_AugusTeff: Orgus Coffee
+MIID_H_AugusTeff: A rare, strong coffee from Mount Orgus.\nPrimarily enjoyed by those who love coffee.
+MIID_SolomonTeff: Solomon Coffee
+MIID_H_SolomonTeff: The legendary coffee of Solomon, unique in\naroma and flavor. Primarily enjoyed by\nthose who love coffee.
+MIID_YoungGauche: Young Ghosh
+MIID_H_YoungGauche: A recently brewed ghosh with a sharp,\nfruity flavor. Primarily enjoyed by lovers\nof fermented drinks.
+MIID_AgingGauche: Mature Ghosh
+MIID_H_AgingGauche: A well-aged ghosh with a deep aroma and\nflavor. Primarily enjoyed by lovers of\nfermented drinks.
+MIID_GreenGauche: Jade Ghosh
+MIID_H_GreenGauche: A rare jade-colored ghosh only produced\nin certain regions. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_SunGauche: Sun Ghosh
+MIID_H_SunGauche: Ghosh with a strong, bright flavor. It is often\nproduced in dry regions. Primarily enjoyed\nby lovers of fermented drinks.
+MIID_SecretGauche: Secret Ghosh
+MIID_H_SecretGauche: Ghosh made from a recipe so delicious that\nit is kept secret. Primarily enjoyed by lovers\nof fermented drinks.
+MIID_VolcanoGauche: Volcano Ghosh
+MIID_H_VolcanoGauche: Brewed near a volcano, this is a common\nceremonial ghosh. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_CrimsonGauche: Crimson Ghosh
+MIID_H_CrimsonGauche: A stunningly red ghosh known as a votive\noffering to temples. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_SouthGauche: Southern Ghosh
+MIID_H_SouthGauche: Imported ghosh from Mosa with a very\nbold, rich flavor. Primarily enjoyed by \nlovers of fermented drinks.
+MIID_ExcitingGauche: Energizing Ghosh
+MIID_H_ExcitingGauche: Ghosh from Saramis with a strong, spicy\nflavor. Primarily enjoyed by lovers of\nfermented drinks.
+MIID_RusticGauche: Rustic Ghosh
+MIID_H_RusticGauche: Special ghosh from a small village, rarely\nsold in markets. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_YoungSoush: Young Shosh
+MIID_H_YoungSoush: A recently brewed shosh known for its\ndistinct blue color. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_AgingSoush: Mature Shosh
+MIID_H_AgingSoush: A well-aged shosh with a deep, mellow\nflavor. Primarily enjoyed by lovers of\nfermented drinks.
+MIID_MellowSoush: Aromatic Shosh
+MIID_H_MellowSoush: A rare shosh with a rich flavor, brewed with\na secret technique. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_WittySoush: Light Shosh
+MIID_H_WittySoush: A light-textured shosh only made in a\ncertain village. Primarily enjoyed by\nlovers of fermented drinks.
+MIID_BlueSoush: Blue Shosh
+MIID_H_BlueSoush: A refreshing, light shosh known for its\nunique, sky-blue color. Primarily enjoyed\nby lovers of fermented drinks.
+MIID_ThinServi: Weak Cervi
+MIID_H_ThinServi: Cervi commonly diluted with water.\nPrimarily enjoyed by children.
+MIID_AgingServi: Strong Cervi
+MIID_H_AgingServi: Fresh, rich cervi. Its sweetness and acidity\nmake it difficult to drink. Primarily enjoyed\nby children.
+MIID_DryingServi: Mature Dried Cervi
+MIID_H_DryingServi: Dried sediment from cervi. A light,\nnutritious preserve. Primarily enjoyed\nby children.
+MIID_GinjiServi: Ginji Cervi
+MIID_H_GinjiServi: A fruity cervi, made with a mountain of\nginji fruit mixed in. Primarily enjoyed\nby those who love sweets.
+MIID_WhiteServi: Pure-White Cervi
+MIID_H_WhiteServi: A refreshing cervi with very few impurities.\nPrimarily enjoyed by those who love sweets.
+MIID_Garm: Garum
+MIID_H_Garm: A salty, umami-flavored fish sauce typically\nmade in waterside towns. Primarily enjoyed\nby those who love to cook.
+MIID_LightGarm: Smooth Garum
+MIID_H_LightGarm: A garum strained multiple times, creating a\nnoticeably clean flavor. Primarily enjoyed by\nthose who love to cook.
+MIID_RichGarm: Concentrated Garum
+MIID_H_RichGarm: Garum that has been boiled down into its\npurest, richest form. Primarily enjoyed by\nthose who love to cook.
+MIID_AlectoGarm: Alecto Garum
+MIID_H_AlectoGarm: A luxurious garum from Alecto with a\ndistinct, rich flavor. Primarily enjoyed\nby those who love to cook.
+MIID_NizaGarm: Niiza Garum
+MIID_H_NizaGarm: Garum from Niiza Port. Commonly used in\ntrade with Fódlan. Primarily enjoyed by\nthose who love to cook.
+MIID_LegendaryGarm: Legendary Garum
+MIID_H_LegendaryGarm: An extremely rare garum aged within a\nsunken ship. Primarily enjoyed by those\nwho love to cook.
+MIID_NastyGarm: Rancid Garum
+MIID_H_NastyGarm: A terrible-smelling garum specially crafted\nby a certain nobleman. Primarily enjoyed\nby those who love to cook.
+MIID_MorphisTea: Morfis Tea
+MIID_H_MorphisTea: Black tea from Morfis, aged to a deeper\nflavor through a special process. Primarily\nenjoyed by those who love beverages.
+MIID_FodlanTea: Fódlan Tea
+MIID_H_FodlanTea: Black tea imported from Fódlan and scented\nwith rose petals. Primarily enjoyed by those\nwho love beverages.
+MIID_JermellMilk: Jamel Milk
+MIID_H_JermellMilk: Milk from a jamel. It has a distinct aroma\nand subtle salty taste. Primarily enjoyed\nby children.
+MIID_YakMilk: Yarc Milk
+MIID_H_YakMilk: Milk from a yarc. It is known for its\nnutritional benefits. Primarily enjoyed\nby children.
+MIID_HoneyMilk: Honey Milk
+MIID_H_HoneyMilk: The perfect blend of yarc milk and honey,\nmaking it that much more enticing.\nPrimarily enjoyed by those who love sweets.
+MIID_RusticTreats: Simple Pastries
+MIID_H_RusticTreats: A collection of baked goods that are easy\nto enjoy and never get old. Primarily\nenjoyed by those who love sweets.
+MIID_SweetTreats: Mellow Pastries
+MIID_H_SweetTreats: Baked treats with a slightly sweet taste,\nmade with juice from desert millet.\nPrimarily enjoyed by those who love sweets.
+MIID_FragrantTreats: Fragrant Pastries
+MIID_H_FragrantTreats: Fragrant sweets often baked in a\nhigh-temperature oven. Primarily\nenjoyed by those who love sweets.
+MIID_HoneyTreats: Honey Pastries
+MIID_H_HoneyTreats: Baked sweets made with a sizable amount\nof honey. Primarily enjoyed by those who\nlove sweets.
+MIID_TeffTreats: Coffee Pastries
+MIID_H_TeffTreats: Sweet and sour baked goods made with\ncoffee beans. Primarily enjoyed by those\nwho love sweets.
+MIID_AntiqueMedal: Antique Medal
+MIID_H_AntiqueMedal: A military medal awarded to those who\nearn renown in battle. Primarily enjoyed\nby those who revere martial achievements.
+MIID_ImitationEmblem: Imitation Medal
+MIID_H_ImitationEmblem: A cheap replica of a military medal from\nancient times. Primarily enjoyed by those\nwho revere martial achievements.
+MIID_BlackFeather: Black Tail Feathers
+MIID_H_BlackFeather: Black ornius feathers known for being\nhigh-quality decorative items. Primarily\nenjoyed by fashion lovers.
+MIID_CommonPeople: Everyday Scenes
+MIID_H_CommonPeople: A slapstick comedy about the everyday lives\nof ordinary people. Primarily enjoyed by\nbook lovers.
+MIID_DyedTowel: Ahm Lu Cloth
+MIID_H_DyedTowel: Stitched in Ahm Lu and patterned after\na flower beloved by Yu Phas. Primarily\nenjoyed by those who appreciate beauty.
+MIID_MegrezSand: Megrez Soil
+MIID_H_MegrezSand: Soil from the Ruins of Megrez.\nIt doesn't seem out of the ordinary.\nDeliver it right away.
+MIID_AeginaCrystal: Aegina Crystal
+MIID_H_AeginaCrystal: A colored crystal that represents mercy,\nharmony, and perfection. Get this delivered\nright away.
+MIID_OldPendant: Spellcaster's Relics
+MIID_H_OldPendant: A box of stolen goods. Just holding it makes\none feel like they're being watched. You\nshould deliver it soon.
+MIID_ZealCoins: Djilu Coin
+MIID_H_ZealCoins: A rare coin from a southern nation that was\ndestroyed ages ago. You should get this to\nthe client quickly.
+MIID_JuraWoodcarving: Jurah Carving
+MIID_H_JuraWoodcarving: A wooden carving of a goddess, made by a\nskilled craftsman. Deliver it right away.
+MIID_RedSecretLetter: Sealed Letter
+MIID_H_RedSecretLetter: A private letter meant only for the\nrecipient. Deliver it when you can.
+MIID_Blushing: Mature Blush
+MIID_H_Blushing: Makeup perfect for capturing that unique,\nmature look. Get this over to Esmeralda.
+MIID_JuraStatue: Statue of Jurah
+MIID_H_JuraStatue: A statue of the goddess Jurah. Just looking\nat it brings peace and calm. Deliver it when\nyou can.
+MIID_CarlaStatue: Statue of Kalla
+MIID_H_CarlaStatue: A statue of the goddess Kalla. Even as a\nstatue, it exudes beauty. You should\ndeliver it right away.
+MIID_YufasStatue: Statue of Yu Phas
+MIID_H_YufasStatue: A statue of the goddess Yu Phas. It has a\nkind, tender aura. You should deliver it to\nthe client right away.
+MIID_PhotonStatue: Statue of Fortuna
+MIID_H_PhotonStatue: A statue of the goddess Fortuna. It almost\nseems sad somehow. Deliver it to the\nclient soon.
+MIID_Harness: Custom Axle
+MIID_H_Harness: A custom axle for carriages, made by\nmaster craftsmen in Megaira. Deliver it\nwhen you can.
+MIID_MansionKey: Winged-Lion Key
+MIID_H_MansionKey: An antique key with a winged lion carved\ninto it. Seems to be the key to a home.\nDeliver it when you can.
+MIID_GiscoTreasure: Gisco's Treasure
+MIID_H_GiscoTreasure: A jewelry box with a mermaid on it, left\nbehind by the Flame Lord Gisco. Deliver\nit when you can.
+MIID_VioletBrooch: Violet Brooch
+MIID_H_VioletBrooch: A delicate brooch belonging to Creek's\nsister. Deliver it to him when you can.
+MIID_SandbaalTail: Sandbael Tails
+MIID_H_SandbaalTail: A bundle of desert scorpion tails. You\nshould get this to the client as soon\nas you can.
+MIID_GirlClip: Girl's Hair Clip
+MIID_H_GirlClip: A small hair clip dropped by someone\nwhile she was merely playing. You should\nreturn it.
+MIID_SpecialGinji: Rare Ginji
+MIID_H_SpecialGinji: A rare, multi-colored ginji fruit known for\nits unique appearance and flavor. Get this\ndelivered soon.
+MIID_GiftBox: Mother's Gift
+MIID_H_GiftBox: An item Ultand's mother prepared for her\nfamily. Return it to Ultand right away.
+MIID_PoetsMonument: Monument Verse
+MIID_H_PoetsMonument: A verse from the monument of a legendary\npoet. Return it to Sirocco right away.
+MIID_GlowDrop: Scarlet Firedrops
+MIID_H_GlowDrop: Rare black tea from Creusa, known for its\ncolor and fragrance. Get this over to\nOlympia right away.
+MIID_DesertRose: Aurum Rose
+MIID_H_DesertRose: A rare, golden rose that sprouts in strong\nsunlight. You should gift it to Olympia\nright away.
+MIID_BlueHeart: Azure Heart
+MIID_H_BlueHeart: A crystal with a captivating blue sparkle.\nOffer it to Olympia.
+MIID_GoldHelmet: Golden Helm
+MIID_H_GoldHelmet: Beautiful and ornate golden armor owned\nby Mars. Return it to Mars as soon\nas you can.
+MIID_DesertSunStone: Desert Sunstone
+MIID_H_DesertSunStone: A stone that has been absorbing the power\nof the sun for a long time. Return it to\nCredna soon.
+MIID_Sandalwood: Sandalwood
+MIID_H_Sandalwood: Wood with a fragrant scent that has long\nbeen used as a charm against evil. Get this\nto Kalla soon.
+MIID_DagdaShield: Dagda's Godshield
+MIID_H_DagdaShield: A protective covering that was once part\nof Emperor Dagda but was lost in battle.\nDeliver it to Jurah.
+MIID_Fulama: Flamma
+MIID_H_Fulama: A vial of suspicious liquid rumored to grant\nsupernatural powers. Deliver this while\nyou can.
+MIID_AncientStone: Ancient Tablet
+MIID_H_AncientStone: A stone slab etched with strange symbols.\nIt's old but in good condition. Deliver it\nwhen you can.
+MIID_AmalfridaSword: Treasured Sword
+MIID_H_AmalfridaSword: A sword forged for Elana of Arago, also\nknown as the "Lady of Dawn." Get this\ndelivered right away.
+MIID_SoulCrystal: Soul Crystal
+MIID_H_SoulCrystal: A rare gem, said to be the crystallized\nessence of a soul. Deliver this as soon\nas you can.
+MIID_JuniorLicense: Beginner License
+MIID_H_JuniorLicense: A temple-issued license, required to take\nthe certification exam for beginner classes.
+MIID_InterLicense: Specialty License
+MIID_H_InterLicense: A temple-issued license, required to take\nthe certification exam for mid-level,\nspecialty classes.
+MIID_HighLicense: Advanced License
+MIID_H_HighLicense: A temple-issued license, required to take\nthe certification exam for high-level,\nadvanced classes.
+MIID_HighestLicense: Master License
+MIID_H_HighestLicense: A temple-issued license, required to take\nthe certification exam for master classes,\nthe highest level of achievement.
+MIID_TankLicense: Charioteer License
+MIID_H_TankLicense: A temple-issued license, required to become\na charioteer, a class focused on breaking\nthrough foes.
+MIID_ElephantLicense: Elephant License
+MIID_H_ElephantLicense: A temple-issued license, required to become\nan elephant rider who rides a war elephant\ninto battle.
+MIID_ReincarnationLotus: Lotus of Reincarnation
+MIID_H_ReincarnationLotus: A rare item bestowed by the gods. Allows\nthe owner to take the test of the avatar.
+MIID_MusaNecklace: Muses' Necklace
+MIID_H_MusaNecklace: A rare item bestowed by the gods. Allows\nthe owner to take the test of the apsara.
+MIID_EmperorBand: Emperor's Sash
+MIID_H_EmperorBand: A rare item bestowed by the gods. Allows\nthe owner to take the test of the godhand.
+MIID_TridentSpear: Trident
+MIID_H_TridentSpear: A rare item bestowed by the gods. Allows\nthe owner to take the test of the trident.
+MIID_DarknessCrystal: Crystal of Darkness
+MIID_H_DarknessCrystal: A rare item bestowed by the gods. Allows\nthe owner to take the test of the calamity.
+MIID_DemonTsuba: Demonic Swordguard
+MIID_H_DemonTsuba: A rare item bestowed by the gods. Allows\nthe owner to take the test of the blade.
+MIID_IronSaddle: Divinium Saddle
+MIID_H_IronSaddle: A rare item bestowed by the gods. Allows\nthe owner to take the test of the cavalier.
+MIID_JudgmentBalance: Scales of Judgment
+MIID_H_JudgmentBalance: A rare item bestowed by the gods. Allows\nthe owner to take the test of the eternal.
+MIID_Materials: Building Materials
+MIID_H_Materials: Materials for Dagsion's restoration. With\nthese, the great city can finally rise again.
+MIID_CrownKey: Key of the Diadem
+MIID_H_CrownKey: A key to the temple of the Diadem, said\nto hold grace promised by the progenitor\ngod, Sothis.
+MIID_DancerLicense: Dancer's Necklace
+MIID_H_DancerLicense: Grants training in a class that focuses on\ndance. An heirloom passed down through\nthe generations. 
+MIID_SpecialCargo: Company Cargo
+MIID_H_SpecialCargo: Vandahl Trading Company cargo that went\nmissing during transport. You must retrieve\nit all.
+MIID_Vulnerary: Vulnerary
+MIID_H_Vulnerary: Restores {Variable=0} HP.
+MIID_Pharmaceutical: Concoction
+MIID_SilverBullet: Elixir
+MIID_Antidote: Antitoxin
+MIID_H_Antidote: Removes Poison and unit cannot be\nPoisoned for {Variable=0} {SingularPlural0=turn|turns}.
+MIID_Coin: Coin
+MIID_H_Coin: Can be sold at a shop.
+MIID_BigCoin: Large Coin
+MIID_H_BigCoin: Can be sold at a shop.
+MIID_Gold: Bullion
+MIID_H_Gold: Can be sold at a shop.
+MIID_BigGold: Large Bullion
+MIID_H_BigGold: Can be sold at a shop for a high price.
+MIID_HigeGold: Extra Large Bullion
+MIID_H_HigeGold: Can be sold at a shop for an extremely\nhigh price.
+MIID_Gold_Drake: Pirate's Riches
+MIID_H_Gold_Drake: A bag filled with riches that Drake, the\nPirate King, stole from the people. Can be\nsold at a shop.
+MIID_LuckyCoin: Lucky Coin
+MIID_H_LuckyCoin: Can be sold at a shop for a high price.
+MIID_InsectPearl: Insect Pearl
+MIID_H_InsectPearl: Can be sold at a shop.
+MIID_BigInsectPearl: Large Insect Pearl
+MIID_H_BigInsectPearl: Can be sold at a shop for a high price.
+MIID_TreasureKey: Chest Key
+MIID_H_TreasureKey: Can open a locked chest.
+MIID_AngelRobe: Seraph Robe
+MIID_H_AngelRobe: Use to permanently grant max HP{Variable=0}.
+MIID_PowerDrop: Energy Drop
+MIID_H_PowerDrop: Use to permanently grant Str{Variable=0}.
+MIID_SpiritPowder: Spirit Dust
+MIID_H_SpiritPowder: Use to permanently grant Mag{Variable=0}.
+MIID_SecretBook: Secret Book
+MIID_H_SecretBook: Use to permanently grant Dex{Variable=0}.
+MIID_GaleWing: Speedwing
+MIID_H_GaleWing: Use to permanently grant Spd{Variable=0}.
+MIID_GoddessStatue: Goddess Icon
+MIID_H_GoddessStatue: Use to permanently grant Lck{Variable=0}.
+MIID_TurtleShell: Giant Shell
+MIID_H_TurtleShell: Use to permanently grant Def{Variable=0}.
+MIID_Amulet: Talisman
+MIID_H_Amulet: Use to permanently grant Res{Variable=0}.
+MIID_BlackPearl: Black Pearl
+MIID_H_BlackPearl: Use to permanently grant Cha{Variable=0}.
+MIID_HolyWater: Pure Water
+MIID_H_HolyWater: Grants Res{Variable=0}. (Decreases by\n{Variable=2} every {Variable=1} {SingularPlural1=turn|turns}.)
+MIID_TcticalBook: Tactics Manual
+MIID_H_TcticalBook: Use to slightly increase authority skill.
+MIID_SuperTcticalBook: Tactics Treatise
+MIID_H_SuperTcticalBook: Use to greatly increase authority skill.
+MIID_EquestrianBook: Riding Manual
+MIID_H_EquestrianBook: Use to slightly increase riding skill.
+MIID_SuperEquestrianBook: Riding Treatise
+MIID_H_SuperEquestrianBook: Use to greatly increase riding skill.
+MIID_ArmorBook: Heavy-Armor Manual
+MIID_H_ArmorBook: Use to slightly increase heavy-armor skill.
+MIID_SuperArmorBook: Heavy-Armor Treatise
+MIID_H_SuperArmorBook: Use to greatly increase heavy-armor skill.
+MIID_FlightBook: Flying Manual
+MIID_H_FlightBook: Use to slightly increase flying skill.
+MIID_SuperFlightBook: Flying Treatise
+MIID_H_SuperFlightBook: Use to greatly increase flying skill.
+MIID_BlackMagicBook: Black-Magic Manual
+MIID_H_BlackMagicBook: Use to slightly increase black-magic skill.
+MIID_SuperBlackMagicBook: Black-Magic Treatise
+MIID_H_SuperBlackMagicBook: Use to greatly increase black-magic skill.
+MIID_WhiteMagicBook: White-Magic Manual
+MIID_H_WhiteMagicBook: Use to slightly increase white-magic skill.
+MIID_SuperWhiteMagicBook: White-Magic Treatise
+MIID_H_SuperWhiteMagicBook: Use to greatly increase white-magic skill.
+MIID_Agnea: Agnea Tome
+MIID_H_Agnea: Use to learn Agnea's Arrow, the ultimate\nfire magic that reduces everything it\ntouches to ash.
+MIID_Fimbul: Fimbulvetr Tome
+MIID_H_Fimbul: Use to learn Fimbulvetr Night, the ultimate\nice magic with the power to summon an\neternal winter.
+MIID_ArchiveSlime: Archive Β
+MIID_H_ArchiveSlime: Use to learn Mire B, a common long-ranged\nspell among practitioners of dark magic.
+MIID_ArchiveDeath: Archive Γ
+MIID_H_ArchiveDeath: Use to learn Death Γ, devastating dark\nmagic that boasts a high Crit.
+MIID_ArchiveWarm: Archive Ζ
+MIID_H_ArchiveWarm: Use to learn Swarm Ζ, dark magic that\ndrains a foe of Spd when it hits.
+MIID_ArchiveBanshee: Archive Θ
+MIID_H_ArchiveBanshee: Use to learn Banshee Θ, dark magic that\ninflicts Immobilize on a foe when it hits.
+MIID_ArchiveDarkSpikes: Archive Τ
+MIID_H_ArchiveDarkSpikes: Use to learn Dark Spikes T, dark magic with\ntremendous efficacy against cavalry.
+MIID_PeaceDew: Dew of Peace
+MIID_H_PeaceDew: Unit cannot suffer a critical attack until\nunit's next phase.
+MIID_BlessingDew: Dew of Protection
+MIID_H_BlessingDew: Unit takes half damage until unit's\nnext phase.
+MIID_SimpleBox: Simple Weapon Crate
+MIID_H_SimpleBox: Use to obtain one random weapon or piece\nof equipment.
+MIID_GoodBox: Quality Weapon Crate
+MIID_H_GoodBox: Use to obtain one random weapon or piece\nof equipment.
+MIID_LuxuryBox: Luxury Weapon Crate
+MIID_H_LuxuryBox: Use to obtain one random weapon or piece\nof equipment.
+MIID_DaminaBox: Da Mina Crate
+MIID_H_DaminaBox: Use to obtain one random weapon or piece\nof equipment.
+MIID_BookBox: Manual Crate
+MIID_H_BookBox: Use to obtain one random manual.
+MIID_SuperBookBox: Treatise Crate
+MIID_H_SuperBookBox: Use to obtain one random treatise.
+MIID_PresentBox: Gift Box
+MIID_H_PresentBox: Use to obtain one random gift.
+MIID_MeatBox: Meat Crate
+MIID_H_MeatBox: Use to obtain one random meat.
+MIID_VegetableBox: Vegetable Crate
+MIID_H_VegetableBox: Use to obtain one random vegetable.
+MIID_FishBox: Fish Crate
+MIID_H_FishBox: Use to obtain one random fish.
+MIID_StoneBox: Ore Crate
+MIID_H_StoneBox: Use to obtain one random ore.
+MIID_RingBox: Ring Crate
+MIID_H_RingBox: Use to obtain one random ring.
+MIID_WoodBox: Washed-Up Crate
+MIID_H_WoodBox: Use to obtain one random item.
+MIID_SecretBox: Mystery Box
+MIID_H_SecretBox: Use to obtain one random item.
+MIID_JewelBox: Gem Box
+MIID_H_JewelBox: Use to obtain one random gem.
+MIID_StrongWeaponBox: Craft Smithy Box
+MIID_H_StrongWeaponBox: Use to obtain one random refined weapon.
+MIID_StrongBronzeBox: Bronze Smithy Box
+MIID_H_StrongBronzeBox: Use to obtain one random refined\nbronze weapon.
+MIID_StrongIronBox: Iron Smithy Box
+MIID_H_StrongIronBox: Use to obtain one random refined\niron weapon.
+MIID_StrongDaminaBox: Da Mina Smithy Box
+MIID_H_StrongDaminaBox: Use to obtain one random refined\nDa Mina weapon.
+MIID_SecretMedicine: Bombae Panacea
+MIID_H_SecretMedicine: Restores {Variable=0} HP.
+MIID_GreatMeatBox: Luxury Meat Crate
+MIID_H_GreatMeatBox: Use to obtain one random high-quality\nmeat.
+MIID_GreatVegetableBox: Luxury Veg. Crate
+MIID_H_GreatVegetableBox: Use to obtain one random high-quality\nvegetable.
+MIID_GreatFishBox: Luxury Fish Crate
+MIID_H_GreatFishBox: Use to obtain one random high-quality fish.
+MIID_HitAle: Linaria Juice
+MIID_H_HitAle: Grants Hit{Variable=0} until the end of the map.
+MIID_BuildAle: Ginji Juice
+MIID_H_BuildAle: Grants Bld{Variable=0} until the end of the map.
+MIID_MoveAle: Zang Juice
+MIID_H_MoveAle: Applies {Variable=0} to movement cost for terrain\nuntil the end of the map. (Cannot be\nreduced below 1.)
+MIID_CharmAle: Pongo Juice
+MIID_H_CharmAle: Grants Cha{Variable=0} until the end of the map.
+MIID_DetoxifyAle: Coffee
+MIID_H_DetoxifyAle: Removes Poison and unit cannot be\nPoisoned until the end of the map.
+MIID_SealedAle: Bakul Juice
+MIID_H_SealedAle: Removes Silence and unit cannot be\nSilenced until the end of the map.
+MIID_LuckAle: Wun Juice
+MIID_H_LuckAle: Grants Lck{Variable=0} until the end of the map.
+MIID_AttackAle: Paya Juice
+MIID_H_AttackAle: Grants Atk{Variable=0}, Crit{Variable=1} until the end\nof the map.
+MIID_DefenseAle: Miranilla Juice
+MIID_H_DefenseAle: Grants Shld{Variable=0}, Ddg{Variable=1} until the\nend of the map.
+MIID_LightAle: Date Juice
+MIID_H_LightAle: Grants AS{Variable=0} until the end of the map.
+MIID_CombatAle: Roca Juice
+MIID_H_CombatAle: Grants Hit{Variable=0} to unit when attacking with\na combat art until the end of the map.
+MIID_RangeAle: Sweet-Leaf Juice
+MIID_H_RangeAle: Grants Rsl{Variable=0} until the end of the map.
+MIID_RecoveryAle: Pepper-Leaf Juice
+MIID_H_RecoveryAle: Restores a little HP at start of unit's phase\nuntil the end of the map.
+MIID_ApathyAle: Bitter-Leaf Juice
+MIID_H_ApathyAle: Unit cannot counter until the end of\nthe map.
+MIID_LinkPointRecoveryLow: Linking Rock
+MIID_H_LinkPointRecoveryLow: Restores {Variable=0} LP. (Only usable in {LowercaseNextLetter}Clashes.)
+MIID_LinkPointRecoveryHigh: Linking Ball
+MIID_WindShoes: Shoes of the Wind
+MIID_H_WindShoes: Use to permanently grant Mov{Variable=0}.
+MIID_HorseDung: Horse Manure
+MIID_H_HorseDung: Manure, rich with useful bacteria that\nis great for farming. Can be found in\nhorse habitats.
+MIID_OrniusDung: Ornius Manure
+MIID_H_OrniusDung: Manure with little useful bacteria. It can\nhelp slightly in farming. Can be found in\nornius habitats.
+MIID_PegasusDung: Pegasus Manure
+MIID_H_PegasusDung: Magical manure, rich with useful bacteria\nand excellent for farming. Can be found\nin pegasus habitats.
+MIID_BawDung: Bau Manure
+MIID_H_BawDung: With extraordinary bacteria, it is the\nultimate manure for farming. Can be\nfound in bau habitats.
+MID_Arms+0: 
+MID_Arms+1: +1
+MID_Arms+2: +2
+MID_Arms+3: +3
+MID_Arms+4: +4
+MID_Arms+5: +5
+MID_Arms+6: +6
+MID_Arms+7: +7
+MID_Arms+8: +8
+MID_Arms+9: +9
+MIID_SharpClaw: Barb
+MIID_H_SharpClaw: An attack using sharp claws or a tail.
+MIID_BeastFang: Fang
+MIID_H_BeastFang: An attack with sharp fangs.
+MIID_BigClub: Great Club
+MIID_H_BigClub: An attack with a giant club.
+MIID_Blade: Twin Blades
+MIID_H_Blade: Slashing attacks with a sword in each hand.
+MIID_GiantAxe: Merciful Axe
+MIID_H_GiantAxe: An attack swinging a giant axe.
+MIID_SharpBeak: Great Beak
+MIID_H_SharpBeak: An attack with a giant beak.
+MIID_ShadowPunch: Shadeclaw
+MIID_H_ShadowPunch: A frenzied claw attack.
+MIID_BalorAttack: Abyssal Claw
+MIID_H_BalorAttack: An attack with massive dragon claws.\nCan hit all foes within attack range\nsimultaneously.
+MIID_BalorCounter: Darkest Roar
+MIID_H_BalorCounter: A magic attack. After foe attacks, unit's\ncounter stops combat and attacks target\nand all adjacent foes.
+MIID_ChargeAttack: Headbutt
+MIID_H_ChargeAttack: An attack that smashes foes with the\ncreature's powerful head.
+MIID_BigNeedle: Great Stinger
+MIID_H_BigNeedle: An attack from the creature's stinger.
+MIID_BeastClaw: Beast Claw
+MIID_H_BeastClaw: A ferocious claw swipe.
+MIID_WaterMagic: Water Strike
+MIID_H_WaterMagic: An attack with an intense water current.
+MIID_BigSharpClaw: Great Claw
+MIID_H_BigSharpClaw: An attack with a giant claw.
+MIID_BigSweep: Mandibles
+MIID_H_BigSweep: A powerful attack using sharp jaws.
+MIID_BigBlade: Giant Sword
+MIID_H_BigBlade: A powerful slash attack with a giant sword.
+MIID_CetusFang: Sea Tyrant's Fang
+MIID_H_CetusFang: A devastating attack from massive dragon\nfangs.
+MIID_Dissolution: Acid Spray
+MIID_H_Dissolution: An attack that sprays a dissolving solution.
+MIID_RapidDissolution: Acid Spray
+MIID_H_RapidDissolution: An attack that rapidly sprays a dissolving\nsolution.
+MIID_BigWing: Great Wing
+MIID_H_BigWing: An attack with massive wings that creates\na typhoon of air.
+MIID_DagdaClaw: Dagda's Claw
+MIID_H_DagdaClaw: An attack with a dragon's massive claws.
+MIID_MarsClaw: Bringer's Claw
+MIID_H_MarsClaw: An attack with a dragon's massive claws.
+MIID_NomvedBreath: Crafter's Breath
+MIID_H_NomvedBreath: A bellowing magic wave of dragon's breath.
+MIID_LyrahBreath: Earth's Breath
+MIID_H_LyrahBreath: A bellowing magic wave of dragon's breath.
+MIID_EishetBreath: Water's Breath
+MIID_H_EishetBreath: A bellowing magic wave of dragon's breath.
+MIID_SetethHorn: Hammering Horn
+MIID_H_SetethHorn: An attack with a horn growing from the\ndragon's hammerhead.
+MIID_DarkSharpClaw: Claw
+MIID_H_DarkSharpClaw: A clawing attack from a Demonic Beast\nof the underworld.
+MIID_DeathClaw: Claw of the Dead
+MIID_H_DeathClaw: An attack with claws surging with the\nunderworld's power.
+MIID_DeathFang: Death Dragon's Fang
+MIID_H_DeathFang: An attack from the fangs of a death dragon.
+MIID_BowTurret: Ballista
+MIID_H_BowTurret: A device that fires massive arrows.\nCan be used to attack distant foes.
+MIID_MagicTurret: Fire Orb
+MIID_H_MagicTurret: A device that radiates fire magic.\nCan be used to attack distant foes.
+MIID_Catapult: Onager
+MIID_H_Catapult: A device that hurls massive boulders.\nCan be used to attack distant foes.
+MIID_NoseAttack: Trunk Attack
+MIID_H_NoseAttack: An attack that uses the animal's powerful\ntrunk to strike foes.
+MIID_Stomping: Trample
+MIID_H_Stomping: An attack that uses the animal's body\nweight to trample foes.
+MIID_AuroraJuwel: Red Jewel
+MIID_H_AuroraJuwel: A keepsake of Cai's mother, stolen by\nthieves who attacked his home.
+MIID_RedGem: Red Jewel
+MIID_H_RedGem: The gem embedded in Cai's left hand,\nsurging with the power of black flames.\nGrants Mag{Variable=0}.
+MIID_D_RedGem: Dark Red Jewel
+MIID_H_D_RedGem: The cursed gem in Cai's left hand. Its flames\nyearn to consume until everything is ash.\nGrants Mag{Variable=0}.
+MIID_BlackGwen: Ink-Black Wen
+MIID_H_BlackGwen: A cloak blacker than darkness itself.\nIt allows the wearer to stride between\nshadows. Grants Dex{Variable=0}.
+MIID_D_BlackGwen: Ink-Dark Wen
+MIID_H_D_BlackGwen: Dietrich's cloak. It hungers to envelop all in\nthe demon god's shadow. Grants Dex{Variable=0}.
+MIID_MahamadouHand: Mahadu's Right Arm
+MIID_H_MahamadouHand: An arm of the legendary Mahadu, now\nfused to a new hero, Theodora of Saramis.\nGrants Str{Variable=0}.
+MIID_D_MahamadouHand: Mahadu's Dark Arm
+MIID_H_D_MahamadouHand: Once a tool for good, Theodora's arm now\nuses its dark power to maim and destroy.\nGrants Str{Variable=0}.
+MIID_BlackSun: Obsidian
+MIID_H_BlackSun: A legendary vihuela with the power to\nshake the very earth with its notes.\nGrants Res{Variable=0}.
+MIID_D_BlackSun: Dark Obsidian
+MIID_H_D_BlackSun: Leda's vihuela. With every note, horrid\nmelodies echo from the blackness.\nGrants Res{Variable=0}.
+MIID_H_D_BlackSun_Cohen: Obsidian, stained even darker than usual.\nIt reverberates with the power of the\nunderworld. Grants Res{Variable=0}.
+MIID_RedAxeCurse: Bloodaxe Curse
+MIID_H_RedAxeCurse: The Arago royal-family Bloodaxe, said to\nbestow divine protection upon its wielder.\nGrants Str{Variable=0}.
+MIID_BloodPattern: Blood Pattern
+MIID_H_BloodPattern: The markings on Bertrand's body that set\nhis blood ablaze. Grants Str{Variable=0}.
+MIID_D_BloodPattern: Dark Blood Pattern
+MIID_H_D_BloodPattern: Infernal markings on Bertrand's body that\nfill his veins with the vile power of\ndarkness. Grants Str{Variable=0}.
+MIID_DhabaCompass: Dhaba's Compass
+MIID_H_DhabaCompass: Talimun's legendary compass that guides\nits owner to their greatest desires.\nGrants Mag{Variable=0}.
+MIID_D_DhabaCompass: Dhaba's Dark Compass
+MIID_H_D_DhabaCompass: Once a priceless tool of adventure, this\ncompass will curse anyone who defies\nits master. Grants Mag{Variable=0}.
+MIID_SecretBody: Mysterious Form
+MIID_H_SecretBody: The secret of Orchel's body. The truth is\nveiled in mystery. Grants Def{Variable=0}.
+MIID_MechanicalBody: Mechanical Form
+MIID_H_MechanicalBody: The key to Orchel's incredible strength,\nthe power of guardian angel Elizabeth.\nGrants Def{Variable=0}.
+MIID_SevenStartsCore: Seven-Star Engine
+MIID_H_SevenStartsCore: A unique internal mechanism that gives\nAnatolia her incredible physical abilities.\nGrants Dex{Variable=0}.
+MIID_D_SevenStartsCore: Dark-Star Engine
+MIID_H_D_SevenStartsCore: The secret to Anatolia's strength, tainted\nbeyond saving. This rot will destroy her.\nGrants Dex{Variable=0}.
+MIID_CaptainCore: Leader's Heart Core
+MIID_H_CaptainCore: The final Heart Core, entrusted to a savior.\nIt is the power to bring light to the world.\nGrants Dex{Variable=0}.
+MIID_RecklessTreasure: Magic Orb
+MIID_H_RecklessTreasure: The object that will decide today's winner.\nReduces Def of unit carrying it to 0.
+MIID_ResonateStone: Magic Echo Shard
+MIID_H_ResonateStone: A required material for combat-arts\nenhancement.
+MIID_ResonateStoneL: Magic Echo Rock
+MIID_H_ResonateStoneL: Magic Echo Shards×{Variable=0}.
+MIID_ResonateStoneS: Magic Echo Stone
+MIID_H_ResonateStoneS: Magic Echo Shards×{Variable=0}.
+MIID_AmaltheaMap: Amalthea Map
+MIID_H_AmaltheaMap: A map noting major locations in Amalthea,\nthe empire's central region containing\nDagsion.
+MIID_LambuthMap: Lambath Map
+MIID_H_LambuthMap: A map noting major locations in Lambath,\nthe region west of the capital.
+MIID_ElectraMap: Elektra Map
+MIID_H_ElectraMap: A map noting major locations in Elektra,\nthe bustling region to the southeast of\nthe capital.
+MIID_CastaliaMap: Castalia Map
+MIID_H_CastaliaMap: A map noting major locations in Castalia,\nthe vibrant trading region to the northeast\nof the capital.
+MIID_TaliaMap: Thaleia Map
+MIID_H_TaliaMap: A map noting major locations in Thaleia,\nthe rugged, mountainous region north of\nthe capital.
+MIID_SolidusMap: Solidus Map
+MIID_H_SolidusMap: A map noting major locations in Solidus,\nfar to the northwest, where people coexist\nwith natural threats.
+MIID_BasithaMap: Pasithea Map
+MIID_H_BasithaMap: A map noting major locations in Pasithea,\nthe largely uncharted region to the far west\nof Dagsion.
+MIID_BraxtheaMap: Braxithea Map
+MIID_H_BraxtheaMap: A map noting major locations in Braxithea,\nthe lush forest region far to the southwest\nof the capital.
+MIID_MeliasMap: Melias Map
+MIID_H_MeliasMap: A map noting major locations in Melias,\nthe region south of Dagsion where gentle\nbreezes flow.
+MIID_SaveronMap: Saveilon Map
+MIID_H_SaveronMap: A map noting major locations in Saveilon\nto the far south of the capital, known for\nits tragic history.
+MIID_HorseCharm: Swift-Horse Amulet{Variable=0}
+MIID_H_HorseCharm1: Grants Dex{Variable=0}.
+MIID_H_HorseCharm2: Grants Dex{Variable=0}, Def{Variable=1}.
+MIID_H_HorseCharm4: Grants Dex{Variable=0}, Spd{Variable=1}, Def{Variable=2}.
+MIID_HorseFriendCharm: Swift-Horse Charm{Variable=0}
+MIID_BloodHorseCharm: Red-Horse Amulet{Variable=0}
+MIID_H_BloodHorseCharm1: Grants Str{Variable=0}.
+MIID_H_BloodHorseCharm2: Grants Str{Variable=0}, Dex{Variable=1}.
+MIID_H_BloodHorseCharm3: Grants Str{Variable=0}, Dex{Variable=1}, Def{Variable=2}.
+MIID_BloodHorseFriendCharm: Red-Horse Charm{Variable=0}
+MIID_BlackHorseCharm: Black-Horse Amulet{Variable=0}
+MIID_H_BlackHorseCharm1: Grants Spd{Variable=0}.
+MIID_H_BlackHorseCharm2: Grants Dex{Variable=0}, Spd{Variable=1}.
+MIID_H_BlackHorseCharm3: Grants Str{Variable=0}, Dex{Variable=1}, Spd{Variable=2}.
+MIID_BlackHorseFriendCharm: Black-Horse Charm{Variable=0}
+MIID_UnicornCharm: Monoceros Amulet{Variable=0}
+MIID_H_UnicornCharm1: Grants Lck{Variable=0}.
+MIID_H_UnicornCharm2: Grants Dex{Variable=0}, Lck{Variable=1}.
+MIID_H_UnicornCharm4: Grants Dex{Variable=0}, Spd{Variable=1}, Lck{Variable=2}.
+MIID_UnicornFriendCharm: Monoceros Charm{Variable=0}
+MIID_OrniusCharm: Bird-Plume Amulet{Variable=0}
+MIID_H_OrniusCharm1: Grants Dex{Variable=0}.
+MIID_H_OrniusCharm2: Grants Dex{Variable=0}, Spd{Variable=1}.
+MIID_OrniusFriendCharm: Bird-Plume Charm{Variable=0}
+MIID_WhiteOrniusCharm: White-Plume Amulet{Variable=0}
+MIID_H_WhiteOrniusCharm1: Grants Res{Variable=0}.
+MIID_H_WhiteOrniusCharm2: Grants Dex{Variable=0}, Res{Variable=1}.
+MIID_H_WhiteOrniusCharm4: Grants Dex{Variable=0}, Spd{Variable=1}, Res{Variable=2}.
+MIID_WhiteOrniusFriendCharm: White-Plume Charm{Variable=0}
+MIID_MeganiusCharm: Strong-Plume Amulet{Variable=0}
+MIID_H_MeganiusCharm1: Grants Def{Variable=0}.
+MIID_H_MeganiusCharm2: Grants Dex{Variable=0}, Def{Variable=1}.
+MIID_H_MeganiusCharm4: Grants Dex{Variable=0}, Spd{Variable=1}, Def{Variable=2}.
+MIID_MeganiusFriendCharm: Strong-Plume Charm{Variable=0}
+MIID_RedMeganiusCharm: Red-Plume Amulet{Variable=0}
+MIID_H_RedMeganiusCharm1: Grants Str{Variable=0}.
+MIID_H_RedMeganiusCharm2: Grants Str{Variable=0}, Dex{Variable=1}.
+MIID_H_RedMeganiusCharm3: Grants Str{Variable=0}, Dex{Variable=1}, Def{Variable=2}.
+MIID_RedMeganiusFriendCharm: Red-Plume Charm{Variable=0}
+MIID_MaginiusCharm: Magic-Plume Amulet{Variable=0}
+MIID_H_MaginiusCharm1: Grants Mag{Variable=0}.
+MIID_H_MaginiusCharm2: Grants Mag{Variable=0}, Spd{Variable=1}.
+MIID_MaginiusFriendCharm: Magic-Plume Charm{Variable=0}
+MIID_BlackMaginiusCharm: Black-Plume Amulet{Variable=0}
+MIID_H_BlackMaginiusCharm1: Grants Mag{Variable=0}.
+MIID_H_BlackMaginiusCharm2: Grants Mag{Variable=0}, Dex{Variable=1}.
+MIID_H_BlackMaginiusCharm4: Grants Mag{Variable=0}, Dex{Variable=1}, Spd{Variable=2}.
+MIID_BlackMaginiusFriendCharm: Black-Plume Charm{Variable=0}
+MIID_PegasusCharm: Winged-Horse Amulet{Variable=0}
+MIID_H_PegasusCharm1: Grants Res{Variable=0}.
+MIID_H_PegasusCharm2: Grants Spd{Variable=0}, Res{Variable=1}.
+MIID_PegasusFriendCharm: Winged-Horse Charm{Variable=0}
+MIID_DarkPegasusCharm: Black-Wing Amulet{Variable=0}
+MIID_H_DarkPegasusCharm1: Grants Mag{Variable=0}.
+MIID_H_DarkPegasusCharm2: Grants Mag{Variable=0}, Spd{Variable=1}.
+MIID_DarkPegasusFriendCharm: Black-Wing Charm{Variable=0}
+MIID_FalconCharm: Holy-Wing Amulet{Variable=0}
+MIID_H_FalconCharm1: Grants Spd{Variable=0}.
+MIID_H_FalconCharm3: Grants Dex{Variable=0}, Spd{Variable=1}.
+MIID_H_FalconCharm4: Grants Str{Variable=0}, Dex{Variable=1}, Spd{Variable=2}.
+MIID_FalconFriendCharm: Holy-Wing Charm{Variable=0}
+MIID_RedFalconCharm: Red-Wing Amulet{Variable=0}
+MIID_H_RedFalconCharm1: Grants Spd{Variable=0}.
+MIID_H_RedFalconCharm2: Grants Str{Variable=0}, Spd{Variable=1}.
+MIID_H_RedFalconCharm: Grants Str{Variable=0}, Dex{Variable=1}, Spd{Variable=2}.
+MIID_RedFalconFriendCharm: Red-Wing Charm{Variable=0}
+MIID_BawCharm: Dragonscale Amulet{Variable=0}
+MIID_H_BawCharm1: Grants Dex{Variable=0}.
+MIID_H_BawCharm2: Grants Str{Variable=0}, Dex{Variable=1}.
+MIID_H_BawCharm3: Grants Str{Variable=0}, Dex{Variable=1}, Spd{Variable=2}.
+MIID_BawFriendCharm: Dragonscale Charm{Variable=0}
+MIID_RedBawCharm: Red-Scale Amulet{Variable=0}
+MIID_H_RedBawCharm1: Grants Str{Variable=0}.
+MIID_H_RedBawCharm3: Grants Str{Variable=0}, Dex{Variable=1}.
+MIID_RedBawFriendCharm: Red-Scale Charm{Variable=0}
+MIID_BlackBawCharm: Black-Scale Amulet{Variable=0}
+MIID_H_BlackBawCharm1: Grants Spd{Variable=0}.
+MIID_H_BlackBawCharm2: Grants Str{Variable=0}, Spd{Variable=1}.
+MIID_BlackBawFriendCharm: Black-Scale Charm{Variable=0}
+MIID_DagdaElephantCharm: Elephant-Hair Amulet{Variable=0}
+MIID_H_DagdaElephantCharm1: Grants Def{Variable=0}.
+MIID_H_DagdaElephantCharm3: Grants Str{Variable=0}, Def{Variable=1}.
+MIID_DagdaElephantFriendCharm: Elephant-Hair Charm{Variable=0}
+MIID_MorphisIronSword: 
+MIID_H_MorphisIronSword1: 
+MIID_H_MorphisIronSword2: 
+MIID_H_MorphisIronSword3: 
+MIID_H_MorphisIronSword4: 
+MIID_H_MorphisIronSword5: 
+MIID_H_MorphisIronSword6: 
+MIID_MorphisSilverSword: 
+MIID_H_MorphisSilverSword1: 
+MIID_H_MorphisSilverSword2: 
+MIID_H_MorphisSilverSword3: 
+MIID_MorphisIronLance: 
+MIID_H_MorphisIronLance1: 
+MIID_H_MorphisIronLance2: 
+MIID_H_MorphisIronLance3: 
+MIID_H_MorphisIronLance4: 
+MIID_H_MorphisIronLance5: 
+MIID_H_MorphisIronLance6: 
+MIID_MorphisSilverLance: 
+MIID_H_MorphisSilverLance1: 
+MIID_H_MorphisSilverLance2: 
+MIID_H_MorphisSilverLance3: 
+MIID_MorphisIronAxe: 
+MIID_H_MorphisIronAxe1: 
+MIID_H_MorphisIronAxe2: 
+MIID_H_MorphisIronAxe3: 
+MIID_H_MorphisIronAxe4: 
+MIID_H_MorphisIronAxe5: 
+MIID_H_MorphisIronAxe6: 
+MIID_MorphisSilverAxe: 
+MIID_H_MorphisSilverAxe1: 
+MIID_H_MorphisSilverAxe2: 
+MIID_H_MorphisSilverAxe3: 
+MIID_MorphisIronBow: 
+MIID_H_MorphisIronBow1: 
+MIID_H_MorphisIronBow2: 
+MIID_H_MorphisIronBow3: 
+MIID_H_MorphisIronBow4: 
+MIID_H_MorphisIronBow5: 
+MIID_H_MorphisIronBow6: 
+MIID_MorphisSilverBow: 
+MIID_H_MorphisSilverBow1: 
+MIID_H_MorphisSilverBow2: 
+MIID_H_MorphisSilverBow3: 
+MIID_MorphisIronGautlet: 
+MIID_H_MorphisIronGautlet1: 
+MIID_H_MorphisIronGautlet2: 
+MIID_H_MorphisIronGautlet3: 
+MIID_H_MorphisIronGautlet4: 
+MIID_H_MorphisIronGautlet5: 
+MIID_H_MorphisIronGautlet6: 
+MIID_MorphisSilverGautlet: 
+MIID_H_MorphisSilverGautlet1: 
+MIID_H_MorphisSilverGautlet2: 
+MIID_H_MorphisSilverGautlet3: 
+MIID_Extra01: 
+MIID_H_Extra01: 
+MIID_Extra02: 
+MIID_H_Extra02: 
+MIID_Extra03: 
+MIID_H_Extra03: 
+MIID_Extra04: 
+MIID_H_Extra04: 
+MIID_Extra05: 
+MIID_H_Extra05: 
+MIID_Extra06: 
+MIID_H_Extra06: 
+MIID_Extra07: 
+MIID_H_Extra07: 
+MIID_Extra08: 
+MIID_H_Extra08: 
+MIID_ExtraArms01: 
+MIID_ExtraArms01_1: 
+MIID_ExtraArms01_2: 
+MIID_ExtraArms01_3: 
+MIID_H_ExtraArms01_1: 
+MIID_H_ExtraArms01_2: 
+MIID_H_ExtraArms01_3: 
+MIID_ExtraArms02: 
+MIID_ExtraArms02_1: 
+MIID_ExtraArms02_2: 
+MIID_ExtraArms02_3: 
+MIID_H_ExtraArms02_1: 
+MIID_H_ExtraArms02_2: 
+MIID_H_ExtraArms02_3: 
+MIID_ExtraArms03: 
+MIID_ExtraArms03_1: 
+MIID_ExtraArms03_2: 
+MIID_ExtraArms03_3: 
+MIID_H_ExtraArms03_1: 
+MIID_H_ExtraArms03_2: 
+MIID_H_ExtraArms03_3: 
+MIID_ExtraArms04: 
+MIID_ExtraArms04_1: 
+MIID_ExtraArms04_2: 
+MIID_ExtraArms04_3: 
+MIID_H_ExtraArms04_1: 
+MIID_H_ExtraArms04_2: 
+MIID_H_ExtraArms04_3: 
+MIID_ExtraArms05: 
+MIID_H_ExtraArms05_1: 
+MIID_H_ExtraArms05_2: 
+MIID_H_ExtraArms05_3: 
+MIID_ExtraArms06: 
+MIID_H_ExtraArms06_1: 
+MIID_H_ExtraArms06_2: 
+MIID_H_ExtraArms06_3: 
+MIID_ExtraArms07: 
+MIID_H_ExtraArms07_1: 
+MIID_H_ExtraArms07_2: 
+MIID_H_ExtraArms07_3: 
+MIID_ExtraArms08: 
+MIID_H_ExtraArms08_1: 
+MIID_H_ExtraArms08_2: 
+MIID_H_ExtraArms08_3: 

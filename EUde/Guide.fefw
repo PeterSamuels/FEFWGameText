@@ -1,0 +1,206 @@
+﻿MID_GuideTemplate000_m01: In Verliesen kann man Erfahrung, Erze und\nItems erhalten. Mein Tipp: {Variable=1}\nin der Nähe des Ortes {Variable=0}.
+MID_GuideTemplate001_m01: In vielen Orten kann man Landkarten kaufen,\ndie helfen, sich in der Gegend zurechtzufinden. Im\nOrt {Variable=0} gibt es eine im Angebot!
+MID_GuideTemplate002_m01: Kennst du {Variable=1}? Eine echte Koryphäe\nbeim Thema {Variable=0}! Aber beginne ein Gespräch nur\ndann, wenn deine Reputation mindestens {Variable=2} beträgt.
+MID_GuideTemplate004_m01: Es fehlt Erz für den Schmied? {Variable=0}\nund {Variable=1} finden sich hier:\n{Variable=2} oder {Variable=3}.
+MID_GuideTemplate005_m01: {Variable=1} benötigt? So etwas gibt es bei\nVandahl im Tausch gegen {Variable=2}, zu\nfinden an folgendem Ort: {Variable=3}.
+MID_GuideTemplate006_m01: {Variable=3}\nVandahl oder andere Läden verkaufen dafür Waffen\nwie {Variable=1} oder {Variable=2}.
+MID_GuideTemplate007_m01: Schon mal was anderes als das Gesäte erhalten?\nWendet man Düngen am Ort {Variable=0}\nan, gibt es als Rarität manchmal {Variable=1}.
+MID_GuideTemplate008_m01: {Variable=3}\nMeine Empfehlung dafür: {Variable=1} oder\n{Variable=2}. So was findet man im Laden!
+MID_GuideTemplate009_m01: Es heißt, es gibt am Ort {Variable=0}\nein seltenes Erz namens {Variable=1}. Welche\nVeredelungen damit wohl möglich sind?
+MID_GuideTemplate010_m01: {Variable=3}\nIn {Variable=1} findet man eine Waffe,\ndie dieses Problem löst: {Variable=2}.
+MID_GuideTemplate011_m01: Man könnte ein Bataillon zum Ort {Variable=0}\nentsenden, um selbst am Ort {Variable=1} zu\n{LowercaseNextLetter}Suchen. Wer delegiert, kann mehr auf einmal {LowercaseNextLetter}Suchen.
+MID_GuideTemplate013_m01: Rekrutierte Soldaten können Bataillone bilden. Sie\nerlauben die Befehle Strategem und Einsetzen. Sie\nkönnen auch in {Variable=0} rekrutiert werden.
+MID_GuideTemplate014_m01: Der Schmied bietet Veredelung für Waffen an. Das\nerhöht die Werte für Angr. und Trf. Hm, ich könnte\nja m{Unknown060E=01} {Variable=1} veredeln lassen.
+MID_GuideTemplate015_m01: Eine {LowercaseNextLetter}Motivierende Rede hilft, stärkere Bataillone zu\nrekrutieren. Einen Versuch ist es wert, beispielsweise\nam Ort {Variable=0}.
+MID_GuideTemplate016_m01: Zur Suche einsetzen lässt Truppen nach Materialien\nsuchen, z. B. am Ort {Variable=1}. In der\nNähe liegt auch der Ort {Variable=0}.
+MID_GuideTemplate017_m01: Ich hörte, Ihr liefert lokale Darbietungen. Habt Ihr\nschon den Auftrag des Ortes {Variable=0}\nangenommen? Details gibt es im Gasthaus.
+MID_GuideTemplate018_m01: Beträgt die Reputation mindestens {Variable=0}, bedeutet dies:\n{Variable=1}\nAlso nicht warten, Reputationserhöhung starten!
+MID_GuideTemplate020_m01: {Variable=3}\nWer das {Variable=2}-Bataillon rekrutiert,\nkann das {Variable=1}-Strategem nutzen.
+MID_GuideTemplate021_m01: Auf der Suche nach weiteren Herausforderungen?\nDann auf nach {Variable=0}! In Gefechten\noder Verliesen trifft man oft auf mächtige Gegner!
+MID_GuideTemplate018_t: Ein heißer Tipp zur Reputation!
+MID_GuideIntro001_m01: Bereiten gegnerische Berittene Probleme?
+MID_GuideIntro002_m01: Probleme mit Flugeinheiten? Bögen sind die Lösung.
+MID_GuideIntro003_m01: Probleme, gepanzerten Gegnern Schaden zuzufügen?
+MID_GuideIntro004_m01: Ich weiß, wie man die wandelnden Toten loswird.
+MID_GuideIntro005_m01: Stärke allein hilft nicht, wenn man nicht heilen kann.
+MID_GuideIntro006_m01: Gegner zu umzingeln, ist eine altbewährte Strategie.
+MID_GuideIntro007_m01: Nicht nur Magie erlaubt Fernangriffe!
+MID_Guide001_t: Gefälligkeit fördert Reputation!
+MID_Guide001_m01: Mit Gefälligkeiten erreicht man in Dagsion schnell\ngute Reputation. Wer Hilfe braucht, ist deutlich\nmarkiert und möchte angesprochen werden.
+MID_Guide002_t: Nicht vergessen, die Gefälligkeit zu melden.
+MID_Guide002_m01: Der Auftrag ist erst nach einer Meldung an den\nAuftraggeber beendet! Manche Gefälligkeit führt zu\nKämpfen – gute Vorbereitung ist also Pflicht.
+MID_Guide003_t: Wer Verliese erkundet, wird stark.
+MID_Guide004_t: Bereit für den Kampf?
+MID_Guide004_m01: Ein wichtiger Kampf steht an? Dann sollten genug\nWaffen und Items vorhanden sein. Am besten hat\nman immer ein {Variable=0} am Gürtel.
+MID_Guide005_t: Keine Angst vor einem Gefecht.
+MID_Guide005_m01: Keine Angst vor Gefechten auf der Weltkarte, denn\nhier winkt eine Menge Erfahrung. Also frisch auf und\nhinein ins Getümmel.
+MID_Guide006_t: Den Einzelhandel unterstützen.
+MID_Guide006_m01: Viele kleine Dörfer haben einen Laden, zum Beispiel\n{Variable=0} nahe Dagsion. Dort gibt es\necht gute {Variable=1}.
+MID_Guide007_t: Schon mal einen Händler getroffen?
+MID_Guide007_m01: Auf der Weltkarte finden sich manchmal Händler.\nSie zeigen gern ihre Waren, und manche bieten im\nTausch sogar seltene Produkte an.
+MID_Guide008_t: Gespräche mit dem Vogel.
+MID_Guide008_m01: Ein komisches Gerücht besagt: Wer zu dem Vogel\nauf der Stange lieb ist, dem hilft {AvatarGender=der Herold|die Heroldin} des\nFahlen Raben in der Not.
+MID_Guide009_t: Geschenke erhalten die Freundschaft.
+MID_Guide009_m01: Vor einer Einladung zum Mahl sollte man ordentlich\nGeschenke austeilen, die man leicht kaufen kann.\nAlso zuerst Geschenke, dann das Mahl – so läuft das.
+MID_Guide010_t: Ein Mahl im Sonderangebot.
+MID_Guide010_m01: Bei einem Mahl im Gasthaus kann man sich gut\nkennenlernen. Manchmal gibt es das sogar zum\nhalben Preis! Dann muss man einfach zugreifen!
+MID_Guide011_t: Nicht lange warten mit den Karten.
+MID_Guide012_t: Viele Verliese meistern!
+MID_Guide014_t: Achtung vor den Subquest-Fristen.
+MID_Guide014_m01: Belohnungen für eine Subquest gibt es nur,\nwenn die entsprechende Frist eingehalten wird,\ndie sich in der Questliste findet.
+MID_Guide015_t: Bei Vandahl gibt es (fast) alles!
+MID_Guide015_m01: Bei der Handelsgesellschaft Vandahl kann man nichts\nkaufen, sondern nur tauschen, und zwar Waren und Ma-\nterialien. Letztere kann man auf der Weltkarte suchen.
+MID_Guide016_t: Handelsgüter voraus!
+MID_Guide016_m01: Wenn ein großer Kampf ansteht, helfen Bronze-\nwaffen, die man bei Vandahl tauschen kann. Sie\nfügen mehr Schaden als Holzwaffen zu.
+MID_Guide017_t: Castors Unterweisung!
+MID_Guide017_m01: Ab einer Reputation von {Variable=0} bietet Castor eine\nUnterweisung an. Die erste Lektion: Wie man das\nTerrain zum eigenen Vorteil nutzt.
+MID_Guide018_t: Ausrüstung nicht vernachlässigen.
+MID_Guide018_m01: Ausrüstung muss auch angelegt werden – zum\nBeispiel ein {Variable=1} für jemanden,\ndessen {Variable=0} noch zu niedrig ist.
+MID_Guide019_t: Zu viel Geld macht doch glücklich!
+MID_Guide019_m01: Ich liebe Geld! Es ist nun mal sehr wichtig. Daher\nverkaufe ich alle Waffen, Items und Materialien,\nfür die ich keine Verwendung habe.
+MID_Guide020_m01: Im Gasthaus in der Unterstadt kann man alle\nmöglichen Geschenke kaufen. Das dürfen dort sogar\nKinder. Also nichts wie hin.
+MID_Guide022_t: Satte Rabatte beim Training!
+MID_Guide022_m01: Es ist ja bekannt, dass Training Erfahrung ein-\nbringt. Aber kaum bekannt ist, dass es an Wochen-\nenden weniger kostet. Das sollte man ausnutzen!
+MID_Guide023_t: Bereit für ein Examen?
+MID_Guide023_m01: Es gibt verschiedene Examen. Wir sollten mit dem\nEinsteigerexamen anfangen. Wenn alle Verbündeten\ndas geschafft haben, läuft es.
+MID_Guide024_t: Noctula beherrscht Panzerhände.
+MID_Guide025_t: Tiere sind unsere Freunde.
+MID_Guide025_m01: Ich liebe süße Tiere! Gefangene Exemplare kommen\nim Stall unter. Vertieft man sein Bandlevel zu ihnen,\nkann man spezielle Fertigkeiten erlernen.
+MID_Guide026_t: Jemand sucht Ornii.
+MID_Guide026_m01: Da ist wohl jemand auf der Suche nach Ornii und\nwartet beim Stall auf Hilfe. Also husch, husch,\ndorthin!
+MID_Guide027_t: Silbermumien gesichtet!
+MID_Guide027_m01: Achtung, an alle Teilnehmer. Es gibt Berichte über\nSilbermumien in der Nähe. Sie verschaffen viel\nErfahrung, aber sind sehr zäh, also Obacht!
+MID_Guide028_t: Die richtige Antwort auf Kavallerie.
+MID_Guide029_t: Auroras Unterweisung lohnt sich.
+MID_Guide029_m01: Erreicht die Reputation {Variable=0}, wird Auroras Unter-\nweisung verfügbar. Ihre erste Lektion konzentriert\nsich auf die Vermeidung von Schaden.
+MID_Guide030_t: Dienst verdient der Götter Gunst.
+MID_Guide030_m01: Für die Kämpfe kann man sich Segen verdienen.\nUnd die können recht mächtig sein. Dafür muss man\nnur Dienst in einem Tempel leisten.
+MID_Guide032_t: Von anderen Clans {LowercaseNextLetter}Rekrutieren.
+MID_Guide032_m01: Um eine Person eines anderen Clans zu {LowercaseNextLetter}Rekrutieren,\nsollte man ihr Geschenke überreichen und sie zu\neinem Mahl einladen. Ich? Ha, irgendwann vielleicht.
+MID_Guide033_t: Audienz bei den Göttern.
+MID_Guide033_m01: Wer über eine Reputation von mindestens {Variable=0} verfügt,\ndarf einer Gottheit gegenübertreten und ihr zuhören,\nwenn sie Zeit hat – für Ruhm und Ehre.
+MID_Guide034_t: Schon mal Feldarbeit versucht?
+MID_Guide034_m01: Feldarbeit bringt tonnenweise Zutaten hervor, mit\ndenen ein Festmahl für alle Verbündeten möglich ist –\noder man verschenkt sie als Gefälligkeit, oder verkauft sie.
+MID_Guide035_m01: Jeden Tag eine gute Tat. Gefälligkeit verbessert die\nReputation. Vorhin bin ich einem Händler mit\nGemüseproblemen begegnet... Zwinker, zwinker.
+MID_Guide036_m01: Für einen großen Kampf sind Eisenwaffen von\nVandahl besser als Bronzewaffen – aber nicht\nvergessen, sie auch auszurüsten!
+MID_Guide037_t: Schon beim Schmied gewesen?
+MID_Guide037_m01: Der Schmied veredelt und repariert die Waffen.\nDas kostet oft viel Erz und Geld, aber es lohnt sich.\nErz findet sich übrigens in den Verliesen.
+MID_Guide038_t: Wer hat die Goldmumie gesehen?
+MID_Guide038_m01: Achtung, an alle Teilnehmer. Es gibt Berichte über\nGoldmumien in der Nähe. Sie verschaffen viel Gold,\naber sind sehr zäh, also Obacht!
+MID_Guide039_t: Mit Erz die Waffen veredeln!
+MID_Guide040_t: Waffe zu schwer? Trainiere mehr.
+MID_Guide040_m01: Ist der Fähigkeitslevel zu niedrig für starke Waffen,\nkann er durch Training bis zum nötigen Wert erhöht\nwerden.
+MID_Guide041_t: Bertrand bietet eine Unterweisung an!
+MID_Guide041_m01: Erreicht die Reputation {Variable=0}, bietet Bertrand eine\nUnterweisung an. Seine erste Lektion konzentriert\nsich auf die Handhabung verschiedener Gegner.
+MID_Guide042_t: Ein Festmahl heilt alle Wunden.
+MID_Guide042_m01: Werden weit weg von Dagsion die KP knapp? Dann\nhilft ein Festmahl mit leckeren Zutaten – frisch auf-\ngefüllte KP UND stärkere Bande unter Freunden!
+MID_Guide043_t: Händler sollte man besuchen.
+MID_Guide044_t: Kontrollpunkt geschlossen?
+MID_Guide044_m01: Einige zwielichtige Gesellen haben den Kontrollpunkt\ngeschlossen und niemand kann durch. Vielleicht\nweiß der Händler am Schwarzen Brett mehr darüber.
+MID_Guide045_t: Centurio bietet eine Unterweisung an!
+MID_Guide045_m01: Erreicht die Reputation {Variable=0}, wird Centurios Unterwei-\nsung verfügbar. Kämpfe gegen riesige Gegner sind\nschwer, aber die Belohnungen sind sicher auch riesig.
+MID_Guide046_t: Yang Jie kann gut heilen.
+MID_Guide047_t: Schon vom Bannschild gehört?
+MID_Guide047_m01: Ver. hilft gegen Phys., und Res. gegen Mag.\nRes. ist aber schwer zu trainieren... Vielleicht kann\nman irgendwo etwas für einen Bannschild {LowercaseNextLetter}Tauschen?
+MID_Guide049_t: Nydine versteht was von Äxten.
+MID_Guide050_t: Haben alle Reiter ihre Reittiere?
+MID_Guide050_m01: Gefangene Tiere können Orniusrittern und Leichter\nKavallerie zugewiesen werden. Sind die Bandlevel\nstark genug, lernen sie neue Fertigkeiten.
+MID_Guide052_t: Seltene Tiere fangen!
+MID_Guide052_m01: An manchen Orten gibt es seltene Tiere. Legt man\ndort ihre Lieblingsköder aus, kommen sie an, und\nSCHNAPP – hat man sie gefangen.
+MID_Guide053_t: Unterstützungen sind das A und O.
+MID_Guide053_m01: In Unterstützungsgesprächen zeigen die Verbündeten\noft neue Seiten von sich. Der Unterstz.-Lv. kann\ndurch Geschenke und ein Mahl erhöht werden.
+MID_Guide054_m01: Erreicht die Reputation {Variable=0}, verschafft Training\nzusätzliche Fähigkeitenerfahrung. In Verbindung\nmit dem Wochenendrabatt lohnt das gleich doppelt!
+MID_Guide055_m01: Wird es bei so viel Kraft allmählich Zeit für ein\nSpezialexamen? Es wird leichter, wenn alle einmal\nfortgeschritten sind.
+MID_Guide056_t: Fernwaffen nicht vergessen.
+MID_Guide057_m01: Erreicht die Reputation {Variable=0}, wird Castors Unterwei-\nsung verfügbar. Ich habe keine Ahnung, was er vor-\nhat, aber die Belohnung wird bestimmt fantastisch.
+MID_Guide058_m01: Feldarbeit bringt viele Zutaten ein. Und erreicht die\nReputation {Variable=0}, wird NOCH mehr Feldarbeit möglich,\nwas NOCH mehr Zutaten einbringt!
+MID_Guide059_t: Gemeinsam speisen und ausgehen.
+MID_Guide059_m01: Ein Mahl mit Freunden ist schön, eine gemeinsame\nAufführung noch schöner. Bei einer Reputat. von {Variable=0}\nöffnet das Theater. Hm? Ob ich schon was vorhabe?
+MID_Guide060_t: Ein Jagdbogen bringt Glück.
+MID_Guide060_m01: Tiere wie Atlasbären und gestreifte Wölfe sind zäh,\naber ein Jagdbogen macht die Sache leichter. Man\nfindet ihn in {Variable=0}.
+MID_Guide061_t: Jasmine ist schwer gepanzert.
+MID_Guide063_t: Seltene Zutaten sammeln!
+MID_Guide064_m01: Es gibt Ausrüstung, die Heilmagie beeinflusst. Bei\nVandahl kann man einen Heilstab ertauschen, der\nWiederherstellungsmagie verstärkt.
+MID_Guide065_t: Der Kutscher braucht Hilfe.
+MID_Guide065_m01: Kutschen sind praktisch, aber sie nehmen keine\nunbegleiteten Minderjährigen mit. Wobei... der\nKutscher braucht Hilfe. Vielleicht ergibt sich da was.
+MID_Guide067_t: Was hilft denn gegen Rüstungen?
+MID_Guide069_m01: Erreicht die Reputation {Variable=0}, wird Auroras Unter-\nweisung verfügbar. Was auch immer sie vorhat,\nich wette, die Belohnung ist es wert.
+MID_Guide070_t: Jetzt wird im Theater geprobt!
+MID_Guide070_m01: Bei einer Reputation von {Variable=0} darf man selbst im\nTheater {LowercaseNextLetter}Schauspielen. Das bringt Geld und verbessert\ndie Beziehung mit den gewählten Verbündeten.
+MID_Guide071_t: Entspannung in der Therme.
+MID_Guide071_m01: Hinter dem Theater liegt die Therme, die bei einer\nReputation von {Variable=0} öffnet. Wer dort gemeinsam\n{LowercaseNextLetter}Baden geht, kommt sich bestimmt näher.
+MID_Guide073_t: Sind die Nebenquests bekannt?
+MID_Guide073_m01: Manche Teilnehmer der Heroenspiele wollen einen\nGefallen erfüllt haben. Wer ihnen jetzt hilft, könnte\nspäter davon profitieren.
+MID_Guide074_m01: Waffen aus Da Mina sollen sehr genau sein. Klingt\ngut. Vielleicht lohnt sich eine Reise dorthin – wenn\nman die Stadt auf der Weltkarte findet.
+MID_Guide075_t: Entfernte Verbündete heilen.
+MID_Guide075_m01: Entfernte Verbündete heilt man mit der Weißmagie\nPurgativ. Sofia oder Yang Jie können sie erlernen.
+MID_Guide076_m01: Ein großer Kampf steht bevor. Passt alles? Klassen,\nAusrüstung, Kampftechniken und so? Falls nicht,\nschnell noch jemanden mit Heilmagie {LowercaseNextLetter}Rekrutieren.
+MID_Guide077_m01: Bei einer Reputation von {Variable=0} wird Bertrands Unter-\nweisung verfügbar. Ich weiß nicht, was der Weiß-\nmähnige Dämon vorhat, aber das lohnt sich sicher.
+MID_Guide081_t: Diese seltsamen Amulette.
+MID_Guide081_m01: Die Handelsgesellschaft Vandahl hat neue Amulette\nzum Tausch, aber nur gegen seltene Materialien. Sie\nerhöhen wohl den Schutz gegen bestimmte Waffen.
+MID_Guide083_m01: Da wird aber jemand mächtig. Es ist Zeit für ein\nEliteexamen. Aber die Lizenzen dafür sind wertvoll,\nalso nicht verschwenden.
+MID_Guide086_t: Ein Hinweis zu göttlichen Waffen.
+MID_Guide086_m01: Jede Waffe eines Gottes sollte vom Schmied\nbegutachtet werden. Sogar bei denen ist angeblich\neine Veredelung möglich.
+MID_Guide088_t: Neue Produkte bei Vandahl!
+MID_Guide088_m01: Wie ich hörte, hat die Handelsgesellschaft Vandahl\nein interessantes magisches Buch namens Archiv-\nIrgendwas. Das wäre doch mal einen Blick wert.
+MID_Guide089_m01: Bei einer Reputation von {Variable=0} kann man in der Therme\nin besonderen Bädern {LowercaseNextLetter}Baden, um besondere Fähig-\nkeiten zu lernen und engere Bande zu knüpfen.
+MID_Guide090_t: Nach versteckten Feinden lauschen.
+MID_Guide090_m01: Gegner, die mit Antworters Ruf entdeckt wurden,\nbringen Erf., magische Echosplitter und Reputation\nein. Also immer wieder die Öhrchen spitzen!
+MID_Guide091_t: Schon Kampftechniken verbessert?
+MID_Guide091_m01: Unglaublich, dass Smyrnos bei der Verbesserung der\nKampftechniken hilft. Sammeln wir magische Echo-\nsplitter mittels Antworters Ruf, um das zu nutzen.
+MID_Guide093_t: Herausforderungsbrief zugestellt!
+MID_Guide093_m01: Ein Herausforderungsbrief stammt von einem\nHerausforderer, dessen geheime Kampftechnik\nnach einem Sieg übernommen werden kann.
+MID_Guide097_t: Kiroc hat den Bogen raus.
+MID_Guide098_t: Was hilft gegen Flugeinheiten?
+MID_Guide100_t: Geheimnisse lüften.
+MID_Guide100_m01: Smyrnos ermöglicht es, Verbündete Geheimnisse zu\nlehren? Das ist ja super! Die magischen Echosplitter\ndafür findet man mittels Antworters Ruf.
+MID_Guide102_t: Wie geht es Antworter?
+MID_Guide102_m01: Kampftechniken senken die Haltbarkeit von Waffen.\nWenn Antworter verschleißt, kann er mit Erz aus der\nSchattenhöhle repariert werden.
+MID_Guide106_t: Der Meerestyrann.
+MID_Guide106_m01: Cetus, der Meerestyrann, ist im Grunde eine Art\nDrache, also könnte hier Antworters Blutvergießen\nhilfreich sein! Repariere die Waffe, falls nötig.
+MID_Guide109_t: Benditz, der Streitwagenfahrer.
+MID_Guide111_t: Bereit für wüste Wüsten-Verliese?
+MID_Guide111_m01: Geht es in die Wüste? In den Dünen verbergen sich\nviele Verliese, die man plünd-- *räusper* erforschen\nsollte.
+MID_Guide114_t: Catania ist eine Himmelsreiterin.
+MID_Guide120_t: Bataillone nutzen Strategeme.
+MID_Guide120_m01: Bataillone in Kämpfen zu entsenden ermöglicht den\nEinsatz von Strategemen zum Angreifen, Heilen und\nmehr – was auch die Autoritätserf. stärkt.
+MID_Guide121_t: Schon mal Vorräte versendet?
+MID_Guide121_m01: Diese Logistik ist toll. Es braucht Zeit, Truppen\neinzusetzen, um an Orten zu {LowercaseNextLetter}Suchen, aber dadurch\nkann man sich besser um anderes kümmern.
+MID_Guide122_t: Eine Suche ist der Mühe wert!
+MID_Guide123_t: Sofia kann wunderbar heilen.
+MID_Guide124_t: Wie helfen Bataillone gegen Flieger?
+MID_Guide126_t: Einige Bataillone machen langsam.
+MID_Guide127_t: Können Bataillone auch heilen?
+MID_Guide128_t: Klappt die Soldatenrekrutierung?
+MID_Guide129_t: An die Waffen{LowercaseNextLetter}Veredelung denken.
+MID_Guide130_m01: Das Schwert namens Reinklinge ist bestens gegen\ndie wandelnden Toten geeignet. Es kann bei Vandahl\nim Tausch erworben werden.
+MID_Guide135_t: Bataillone helfen gegen Kavallerie.
+MID_Guide136_t: Zarcone kennt sich mit Äxten aus.
+MID_Guide138_t: Schon den Transportoffizier beansprucht?
+MID_Guide138_m01: Mittels Transportoffizier können Bataillone nach\nSaramis gesandt werden, um ihr Land zu verteidigen.\nBei genug Truppen gibt es ein Taktikhandbuch.
+MID_Guide139_t: Alexandra ist eine Himmelsreiterin.
+MID_Guide146_t: Auch einzigartige Waffen kann man veredeln.
+MID_Guide146_m01: Ist das Mahadus Speer? Auch er kann mit den\nrichtigen Materialien vom Schmied verbessert\nwerden.
+MID_Guide148_t: Rekruten lieben {LowercaseNextLetter}Motivierende Reden!
+MID_Guide149_t: Ein Hinweis zu Waffenkisten...
+MID_Guide149_m01: Vandahl hat eine Waffenlieferung aus Da Mina\nerhalten. Aber wo kann man die Materialen nur\n{LowercaseNextLetter}Suchen, die sie dafür handeln wollen...
+MID_Guide150_t: Eingesetzte Truppen sammeln Materialien.
+MID_Guide152_t: Eingesetzte Truppen sammeln Erz.
+MID_Guide160_t: Schon Tänze dargeboten?
+MID_Guide161_t: Über interessante Orte informieren.
+MID_Guide161_m01: Bei lokalen Darbietungen erfährt man oft etwas über\ngeheime, nicht verzeichnete Orte. Materialien, die\ndort gefunden werden können, helfen im Gasthaus.
+MID_Guide162_t: Catania ist lanzenerfahren.
+MID_Guide163_t: Immer den Einwohnern helfen.
+MID_Guide165_t: Wie läuft es mit den Gasthausbitten?
+MID_Guide165_m01: Der Gastwirt braucht etwas? Ja, natürlich sind\nReputation und Materialien wichtig, aber das könnte\nzu einem neuen Lied inspirieren.
+MID_Guide166_t: Schon ein kühles Getränk probiert?
+MID_Guide166_m01: Bietet das Gasthaus schon besondere Getränke? Dafür\nbraucht es Reputation und Materialien. Einen Wach-\nmacher könnte ich morgens auch gebrauchen...
+MID_Guide167_t: Die Suche nach dem seltenen Blatt.
+MID_Guide167_m01: Interessante Blätter sind der richtigen Person sehr\nwichtig. Man kann sie wohl mit einer Suche an\nbesonderen Orten finden.
+MID_Guide169_m01: Nach einer lokalen Darbietung gibt es die Gelegen-\nheit, in den Läden vor Ort einzukaufen. Da lässt sich\nbestimmt etwas Gutes finden!
+MID_Guide174_t: Schon Syracusio getroffen?
+MID_Guide174_m01: Syracusio-- ich meine Sirocco, hat wohl irgendetwas\nauf dem Herzen. Geht mich natürlich nichts an, ich\nwollte es nur erwähnt haben.
+MID_Guide178_t: Gerüchte über Drakes Schatz.
+MID_Guide178_m01: Man kann sogar Teile von Drakes Schatz veredeln!\nAls Erstes sollte man dazu beim Schmied die\nnötigen Materialien in Erfahrung bringen.
+MID_Guide181_t: Kallas Prüfung schon bestanden?
+MID_Guide181_m01: Gratulation zur Einladung zu Kallas Prüfung.\nAls Belohnung winkt ihr Absolutes Arc – eine\ngroße Ehre, und ein Vermögen wert.

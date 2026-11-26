@@ -1,0 +1,203 @@
+﻿MJID_Commoner: Commoner
+MJID_H_Commoner: A member of Dagda's common\nfolk, who hail from diverse\nbackgrounds and positions.
+MJID_Aristocrat: Noble
+MJID_H_Aristocrat: A scion of a prestigious house\ngiven authority over the people.
+MJID_God: God
+MJID_H_God: A god who rules over Dagda. Has\npower unthinkable to humans.
+MJID_Warrior: Gladiator
+MJID_H_Warrior: Can deal devastating damage with\nweapons such as swords, axes,\nand gauntlets.
+MJID_Soldier: Soldier
+MJID_H_Soldier: A spear-wielder who dons armor\nand holds a shield for maximal\ndefense.
+MJID_Hunter: Hunter
+MJID_H_Hunter: Adept with both swords and bows.\nDraws upon dexterity and speed to\nstalk foes.
+MJID_CurseMage: Diviner
+MJID_H_CurseMage: Uses magic to both heal allies and\nharm foes.
+MJID_Flyingostrichsoldier: Ornius Rider
+MJID_H_Flyingostrichsoldier: Mounted upon an ornius, this class\ncan leap over obstacles.
+MJID_SwordFighter: Myrmidon
+MJID_H_SwordFighter: A sword specialist who metes out\nswift strikes to foes.
+MJID_Rogue: Rogue
+MJID_H_Rogue: A thief and expert lockpick. Can\nalso move swiftly through forests\nfor scouting.
+MJID_ArmorKnight: Armored Knight
+MJID_H_ArmorKnight: This class, clad in thick armor, acts\nas a sturdy shield for allies.
+MJID_Brigand: Brigand
+MJID_H_Brigand: This rough-and-tumble class cuts\ndown foes with powerful axe\nstrikes.
+MJID_Archer: Archer
+MJID_H_Archer: Facility with a bow allows this\nclass to take down distant foes and\nflying units.
+MJID_Cestus: Pugilist
+MJID_H_Cestus: A scrappy, gauntlet-proficient\nbrawler. Can confuse foes with\nlight attacks.
+MJID_Shaman: Shaman
+MJID_H_Shaman: A spellcaster specializing in black\nmagic that pierces the heaviest\nof armor.
+MJID_Healer: Priest
+MJID_H_Healer: Can use white magic to heal allies\nand sling attacks at foes.
+MJID_Flyingostrichknight: Armored Ornius Rider
+MJID_H_Flyingostrichknight: Mounted upon an ornius, this\narmored class soars over obstacles.
+MJID_LightKnight: Light Cavalry
+MJID_H_LightKnight: This horse rider can swiftly gallop\nacross the battlefield.
+MJID_PegasusKnight: Wing Soldier
+MJID_H_PegasusKnight: Riding atop a pegasus, this class\nsoars through the sky and easily\nresists magical attacks.
+MJID_Tank: Charioteer
+MJID_H_Tank: Can fire a bow and charge at foes,\ncrushing them. Cannot avoid\nattacks.
+MJID_Sydow: Shido
+MJID_H_Sydow: Highly trained and attuned to the\nspirit of the sword. Deals swift,\nfatal damage.
+MJID_Ranger: Ranger
+MJID_H_Ranger: A skilled lockpick who moves\nnimbly through forests, making the\nclass a useful scout.
+MJID_Guardian: Guardian
+MJID_H_Guardian: Handy with spears and white\nmagic. Excels in both offensive and\ndefensive fighting.
+MJID_HeavyArmor: Dreadnought
+MJID_H_HeavyArmor: Thanks to thick armor, this heavy\ninfantry class is like a sturdy wall\ndefending allies.
+MJID_BattleWarrior: Warrior
+MJID_H_BattleWarrior: Easily crushes foes with strength\nand well-honed axe skills.
+MJID_Blacksmith: Blacksmith
+MJID_H_Blacksmith: An axe wielder who can also use\nblack magic. Quite flexible in battle.
+MJID_Sniper: Sniper
+MJID_H_Sniper: Able to deliver attacks from long\ndistances. Particularly punishing to\nflying enemies.
+MJID_Vates: Ovate
+MJID_H_Vates: A black-magic user who deals high\namounts of damage, cutting\nthrough heavy armor.
+MJID_Bishop: Bishop
+MJID_H_Bishop: Draws on religious faith and the\npower of white magic to heal and\nsupport allies.
+MJID_Bardinger: Bardinger
+MJID_H_Bardinger: An elite who gallops across the\nbattlefield with alacrity, punishing\nfoes from horseback.
+MJID_Cataphract: Cataphract
+MJID_H_Cataphract: A heavily armored class that is\ntalented in riding and defense.
+MJID_ForestKnight: Forest Knight
+MJID_H_ForestKnight: A knight who shoots at foes from\nhorseback and can even navigate\nwooded areas.
+MJID_Torpador: Troubadour
+MJID_H_Torpador: A cavalry class that can use white\nand black magic but not weapons.\nPlays spellsongs.
+MJID_Charadrios: Caladrius
+MJID_H_Charadrios: Perched on an ornius. Springs over\nobstacles to pepper foes with\nblack magic.
+MJID_Dragoon: Dragoon
+MJID_H_Dragoon: Flies through the sky on a bau.\nIs skilled in combat and has\nexcellent mobility.
+MJID_ElephantKnight: Elephant Rider
+MJID_H_ElephantKnight: Rides on an elephant. Attacks by\ncharging and swinging the animal's\ntrunk. Cannot avoid attacks.
+MJID_SwordMaster: Swordmaster
+MJID_H_SwordMaster: The swordmaster has grasped the\nway of the blade, delivering deadly\nblows with blinding fury.
+MJID_ShadowSeeker: Shadow Seeker
+MJID_H_ShadowSeeker: This lockpick, scout, and assassin\nlives in the world of shadows. The\nclass also moves nimbly in forests.
+MJID_Trickster: Trickster
+MJID_H_Trickster: Toys with foes using swords and\nblack magic. Can also pick locks\nand move nimbly in forests.
+MJID_HolyLancer: Sentinel
+MJID_H_HolyLancer: A spear master who uses white\nmagic. Excels in both combat and\nsupport roles.
+MJID_BattleMaster: Battlemaster
+MJID_H_BattleMaster: A maven in the art of axe fighting,\nStrong, resilient, and effective on\nthe front lines.
+MJID_Fortress: Castle Knight
+MJID_H_Fortress: What this armored class lacks in\nagility is made up for with sheer\ndefensive ability.
+MJID_MasterArch: Bow Adept
+MJID_H_MasterArch: With keen accuracy, this class can\ntake out distant foes. Specializes in\ndowning fliers.
+MJID_BattleMonk: War Monk
+MJID_H_BattleMonk: Faithful and fervent. Boasts fierce\npower as well as the ability to use\nwhite magic.
+MJID_Druid: Druid
+MJID_H_Druid: With mastery of a wide variety of\nblack magic, this class can rain\ndevastating damage on foes.
+MJID_Wiseman: Wiseman
+MJID_H_Wiseman: A sagacious class that heals and\nsupports allies from the rear flank\nusing white magic.
+MJID_Enlightened: Awakened
+MJID_H_Enlightened: A user of both black and white\nmagic. Can attack from a distance\nand save more allies.
+MJID_Orihaldia: Orichaldia
+MJID_H_Orihaldia: A golden knight with a mastery of\nmounted combat, this class is one\nwith the horse.
+MJID_HighEpitaph: High Savant
+MJID_H_HighEpitaph: Skilled with black magic as well as\nswords. Can kill with a single slash.
+MJID_GreatKnight: Great Knight
+MJID_H_GreatKnight: A heavily armored knight who\nrushes into the battle on horseback.
+MJID_BowKnight: Bow Knight
+MJID_H_BowKnight: A skilled archer and horse rider,\nhighly mobile and able to navigate\nwooded areas.
+MJID_Sale: Seere
+MJID_H_Sale: A highly mobile magic knight. Can\nuse white magic to heal allies.
+MJID_Valkyrie: Valkyrium
+MJID_H_Valkyrie: Though unable to use weapons,\nthis class can use black and white\nmagic, as well as spellsongs.
+MJID_FalconKnight: Celestial Trooper
+MJID_H_FalconKnight: An elite flying knight who flies on\na pegasus. Is highly mobile and\nresistant to magic.
+MJID_DarkPegasus: Badhbh Cath
+MJID_H_DarkPegasus: Highly mobile and magic resistant.\nFlies over the battlefield using\nblack magic.
+MJID_DragonMaster: Bau Lord
+MJID_H_DragonMaster: With excellent combat skills and\nmobility, this class strikes fear in\nfoes from the skies.
+MJID_Dancer: Dancer
+MJID_H_Dancer: With graceful, fluid dancing, this\nclass cheers up allies, motivating\nthem to take further action.
+MJID_Braid: The Blade
+MJID_H_Braid: A protector to the gods, this class\nlives by the sword. There is\nnothing their blade cannot cut.
+MJID_Calamity: The Calamity
+MJID_H_Calamity: Sows disaster through divine will,\nexposing the darkness and clearing\nthe way for better things.
+MJID_Trident: The Trident
+MJID_H_Trident: A spear wielder who pierces\nimpure foes and uses holy magic to\nprotect others.
+MJID_Eternal: The Eternal
+MJID_H_Eternal: A child of battle who possesses\ninfinite power. Carves a path for\nthe gods with an axe.
+MJID_Godhand: The Godhand
+MJID_H_Godhand: With a divine fist that pummels\nfoes and heals allies, this class is a\nprotector of the weak.
+MJID_Messiah: The Avatar
+MJID_H_Messiah: A master of black and white magic.\nRules over magic and mirrors the\ndeeds of the gods.
+MJID_Apsaras: The Apsara
+MJID_H_Apsaras: A mystic who performs sacred\ndances. Can soothe the hearts of\nthe very gods.
+MJID_Cavalier: The Cavalier
+MJID_H_Cavalier: A swift protector who looks like a\nflash of lightning racing into battle.
+MJID_woodlouse: Blight Louse
+MJID_H_woodlouse: A large, segmented insect that\nthrives in moist caves and\noccasionally drops insect pearls.
+MJID_sandbael: Sandbael
+MJID_H_sandbael: An insect with a thick shell and\nsharp, venomous spines. Its\ndelicious meat tastes like shrimp.
+MJID_stripewolf: Striped Wolf
+MJID_H_stripewolf: This swift, ferocious wolf is found\nthroughout Dagda. It is named for\nthe stripes on its back.
+MJID_sandvegle: Vouivre
+MJID_H_sandvegle: A lizard that has evolved to fly.\nIt is not a bau, but looks similar to\none, earning the name "False Bau."
+MJID_seamonster: Sea Beast
+MJID_H_seamonster: This ocean-dwelling creature has\na strange appearance and an\nappetite for human flesh.
+MJID_atlasbear: Atlas Bear
+MJID_H_atlasbear: This vicious bear, which inhabits\nthe area near Mount Atla, is often\nlikened to giants of legend.
+MJID_atlasbearS: Minor Atlas Bear
+MJID_H_atlasbearS: An agile, ferocious bear, small in\nstature, but with venomous claws\nand fangs. Often found in caves.
+MJID_sandworm: Sandworm
+MJID_H_sandworm: A mammoth arthropod that slinks\nunder the desert sand, attacking\nany prey that comes close.
+MJID_colossus: Giant
+MJID_H_colossus: A huge humanoid who one must\ncrane their neck to see—smart\nenough to use tools, but little else.
+MJID_titanusS: Lesser Titanus
+MJID_H_titanusS: This automaton, made with ancient\ntechnology, excels in scouting,\nguarding, and combat.
+MJID_titanusB: Greater Titanus
+MJID_H_titanusB: With its incredible armor and high\nenergy output, this enormous\nautomaton is formidable indeed.
+MJID_golem: Golem
+MJID_H_golem: A temple guardian forged by divine\npower. It can create barriers that\nbolster its allies' defenses.
+MJID_Ketos: Cetus
+MJID_H_Ketos: Known as the Sea Tyrant, this\nhuge beast swims at amazing speed\nand goes soaring to crush its foes.
+MJID_digamma: Digamma
+MJID_H_digamma: A serpentine monster that raises its\nhead from the ground to attack\nprey in packs.
+MJID_queenhydra: Pentkehydra
+MJID_H_queenhydra: A large, many-headed monster—\nthe body that the digamma, its\nheads, are attached to.
+MJID_giantrukh: Rukh
+MJID_H_giantrukh: This wild bird grows to enormous\nsize and preys on insects as well as\nanimals—human or otherwise.
+MJID_magicharpia: Harpyia
+MJID_H_magicharpia: A huge bird feared for its ominous\nappearance, size, and cry. It is said\nto be an envoy of the underworld.
+MJID_shadowofbalor: Shade
+MJID_H_shadowofbalor: A mysterious, unidentified shadow\nemitting sinister vibrations.
+MJID_pillar: Underworld Pillar
+MJID_H_pillar: A cornerstone of the underworld\nremade by Balor into his own body.
+MJID_armoredsoldier: Living Armor
+MJID_H_armoredsoldier: A soldier automaton crafted by\nCredna, the Spark of the Forge.
+MJID_skeleton: Skellion
+MJID_H_skeleton: A monster composed of animated\nbones—this is what has become of\na deceased human.
+MJID_mummy: Mummy
+MJID_H_mummy: The resurrected corpse of an\nimpure person.
+MJID_dragonzombie: Necrodragon
+MJID_H_dragonzombie: The corpse of a Demonic Beast,\ncorrupted and startled from sleep.\nIt is as venomous as it is odorous.
+MJID_EvilBeast: Demonic Beast
+MJID_H_EvilBeast: This grotesque beast is feared\nfor its gigantic body and \nfearsome strength.
+MJID_NabataeanDragon_Dagda: The Skyblotter
+MJID_H_NabataeanDragon_Dagda: Dagda—a giant, soaring dragon of\nincredible strength.
+MJID_H_NabataeanDragon_Dagda_Orh: 
+MJID_NabataeanDragon_Balor: The Darkest Dark
+MJID_H_NabataeanDragon_Balor: Balor—the fearsome, demonic\ndragon who rules the underworld.
+MJID_NabataeanDragon_Mars: The Brandisher
+MJID_H_NabataeanDragon_Mars: Mars—the fierce, heroic dragon\nwho burns with a fiery passion.
+MJID_NabataeanDragon_Lyra: The Beckoner
+MJID_H_NabataeanDragon_Lyra: Lyrah—a sinister dragon with an\nunusually shaped form.
+MJID_H_NabataeanDragon_Lyra_Orh: 
+MJID_NabataeanDragon_LyraCradle: Flesh Pod
+MJID_H_NabataeanDragon_LyraCradle: A huge, unidentifiable mass that\nresembles a cocoon.
+MJID_NabataeanDragon_Isheth: 
+MJID_H_NabataeanDragon_Isheth: 
+MJID_H_NabataeanDragon_Isheth_Orh: 
+MJID_NabataeanDragon_Seteth: 
+MJID_H_NabataeanDragon_Seteth: 
+MJID_NabataeanDragon_Nomvethe: 
+MJID_H_NabataeanDragon_Nomvethe: 
+MJID_Kusarikku: Kusarik
+MJID_H_Kusarikku: A bovine creature with horns on\nboth sides. It may be kept as\nlivestock but tends to act unruly.
+MJID_Pig: Sand Boar
+MJID_H_Pig: A tusked, porcine creature that will\neat anything. It survives in Dagda's\nharshest environments.
+MJID_Yak: Yarc
+MJID_H_Yak: This herbivore can have its milk\nused for beverages and cheese.\nIts meat, though tough, is popular.

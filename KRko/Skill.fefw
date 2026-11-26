@@ -1,0 +1,1944 @@
+﻿MSID_Active: 활발{Variable=0}
+MSID_H_Active: 이동력 {Variable=0}
+MSID_HellLord: 명염의 주인
+MSID_H_HellLord: 자신이 출격 중일 때 아군은 명염의\n영향을 받지 않고, 명염 내의 아군이\n공격으로 받는 대미지가 반감된다
+MSID_MilitaryTalent: 참모의 재능
+MSID_H_MilitaryTalent: 아군에게 쓸 수 있는\n전투 기술의 사정 {Variable=0}
+MSID_EyeContact: 참모의 형안{Variable=0}
+MSID_H_EyeContact: 선공일 때의 전투 후\n해당 적의 회피 {Variable=0}\n(1회 전투 후 초기화)
+MSID_Shooting: 조준 사격
+MSID_H_Shooting: 활의 전투 기술 사용 시 사정 {Variable=0}
+MSID_ErrorCorrection: 오차 수정{Variable=0}
+MSID_H_ErrorCorrection: 전투 시 자신의 명중이\n{Variable=0}% 이상이면 명중 {Variable=1}
+MSID_FirstAid: 응급 처치
+MSID_H_FirstAid: 인접한 아군의 전투가 끝나면\n해당 아군의 HP를 소량 회복한다
+MSID_SafePrayer: 무사 안녕 기도{Variable=0}
+MSID_H_SafePrayer: 인접한 아군의 필살 회피 {Variable=0}
+MSID_MurderousIntent: 살의{Variable=0}
+MSID_H_MurderousIntent: 선공일 경우\n해당 전투 중 필살 {Variable=0}
+MSID_BeastImpulse: 야수의 충동
+MSID_H_BeastImpulse: 전투 후 필살 {Variable=0}\n(필살의 일격이 발동한 전투 후\n초기화)
+MSID_DarknessCall: 암흑 부름
+MSID_H_DarknessCall: 인접한 적의 필살 회피 {Variable=0}
+MSID_DarkSecret: 암흑의 비술{Variable=0}
+MSID_H_DarkSecret: 「암흑 부름」 효과의 범위가\n주위 {Variable=0}칸까지 확대된다
+MSID_Strength: 괴력
+MSID_H_Strength: 자신이 장비하고 있는 무기와\n장비품의 무게가 {Variable=0}%로 줄어든다
+MSID_JavelinThrow: 투창의 달인{Variable=0}
+MSID_H_JavelinThrow: 전투 시 창을 던져 공격하면\n명중 {Variable=0}, 공격력 {Variable=1}
+MSID_StrongMan: 역전의 강자
+MSID_H_StrongMan: 인접한 적과의 전투 시\n명중 {Variable=0}
+MSID_IronBlood: 철혈{Variable=0}
+MSID_H_IronBlood: 인접한 적과의 전투 시\n공격력 {Variable=0}
+MSID_H_IronBlood+: 인접한 적과의 전투 시 공격력 {Variable=0}.\n또한 공격 시 {Variable=1}%의 확률로\n공격력 {Variable=2}
+MSID_Readiness: 불굴의 각오{Variable=0}
+MSID_H_Readiness: 공격받을 때 {Variable=0}%로 발동.\n받는 대미지가 반감된다
+MSID_Destroy: 파괴
+MSID_H_Destroy: 장애물을 공격할 때\n주는 대미지가 {Variable=0}배로 증가한다
+MSID_DirectHit: 직격
+MSID_H_DirectHit: 블레이즈 아츠로 공격 시\n{Variable=0}%로 발동.\n주는 대미지 {Variable=1}
+MSID_Wisdom: 훈수
+MSID_H_Wisdom: 인접한 아군의 기술 {Variable=0}
+MSID_Explanation: 보충 설명{Variable=0}
+MSID_H_Explanation: 인접한 아군 전투 시 {Variable=0}%로 발동.\n해당 아군의 명중 {Variable=1}
+MSID_BigAttack: 큰 기술
+MSID_H_BigAttack: 전투 기술로 공격 시 공격력 {Variable=0}
+MSID_SeriousAttack: 진심의 일격{Variable=0}
+MSID_H_SeriousAttack: 전투 기술로 공격 시 {Variable=0}%로 발동.\n주는 대미지가 {Variable=1}배로 증가한다
+MSID_Safeguard: 안전책
+MSID_H_Safeguard: 전투 시 적이 반격할 수 없다면\n명중 {Variable=0}
+MSID_GoodVibes: 좋은 느낌{Variable=0}
+MSID_H_GoodVibes: 공격 시 자신의 명중이\n{Variable=0}%면 공격력 {Variable=1}
+MSID_SprintAttack: 질주 공격
+MSID_H_SprintAttack: 선공일 경우\n해당 전투 중 회피 {Variable=0}
+MSID_Acceleration: 가속{Variable=0}
+MSID_H_Acceleration: 적 처치 시\n속도 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_DarkRaid: 야습{Variable=0}
+MSID_H_DarkRaid: 선공일 경우 {Variable=0}%로 발동.\n반격을 받지 않는다
+MSID_AdLib: 즉흥
+MSID_H_AdLib: 블레이즈 아츠 사용 후\n자신이 오버 블레이즈 상태라면\n이어서 공격할 수 있다
+MSID_GuardianKnight: 수호 기사의 의무
+MSID_H_GuardianKnight: 공격받을 때\n받는 대미지가 {Variable=0}%로 줄어든다
+MSID_Reciprocation: 보복{Variable=0}
+MSID_H_Reciprocation: 후공일 경우 {Variable=0}%로 발동.\n주는 대미지가 {Variable=1}배로 증가한다
+MSID_GoddessGrace: 여신의 은총
+MSID_H_GoddessGrace: 전투 후 자신의 HP를\n{Variable=0} 회복한다
+MSID_EntrustWind: 바람 따라{Variable=0}
+MSID_EntrustWind_1: 바람 따라(+1)
+MSID_EntrustWind_5: 바람 따라(+5)
+MSID_EntrustWind_20: 바람 따라(+20)
+MSID_H_EntrustWind: 전투 시 「회피 {Variable=0}」,\n「회피 {Variable=1}」, 「회피 {Variable=2}」 중\n하나가 발동한다
+MSID_EntrustWind+_1: 바람 따라+(+1)
+MSID_EntrustWind+_5: 바람 따라+(+5)
+MSID_EntrustWind+_20: 바람 따라+(+20)
+MSID_EntrustWind+_30: 바람 따라+(+30)
+MSID_H_EntrustWind+: 전투 시 「회피 {Variable=0}」,\n「회피 {Variable=1}」, 「회피 {Variable=2}」,\n「회피 {Variable=3}」 중 하나가 발동한다
+MSID_SoreLoser: 호승심
+MSID_H_SoreLoser: 마법 장비 시 필살 {Variable=0}
+MSID_EmotionalLizaia: 정서의 리자이어{Variable=0}
+MSID_H_EmotionalLizaia: 리자이어로 공격 시 해당 전투 중\n공격력 {Variable=0}, 필살 {Variable=1}
+MSID_GrowthSigns: 성장의 징조
+MSID_H_GrowthSigns: 레벨 업을 했을 때\n기본 능력이 성장할 확률이 높다
+MSID_WarriorBlood: 강한 전사의 피{Variable=0}
+MSID_H_WarriorBlood: 장비하는 무기의 종류에 따라\n기본 능력이 상승한다
+MSID_H_WarriorBlood+: 장비하는 무기의 종류에 따라\n기본 능력이 크게 상승한다
+MSID_ArmorFuneral: 갑옷 장례{Variable=0}
+MSID_H_ArmorFuneral: 전투 시 {Variable=0}％로 발동.\n공속에 상관없이 추격한다
+MSID_After: 후발 선지
+MSID_H_After: 적 페이즈일 때의 전투 시\n{Variable=0}%로 발동.\n자신이 선공이 된다
+MSID_Ahead: 기선 제압
+MSID_H_Ahead: 선공일 경우 {Variable=0}%로 발동.\n적의 반격보다 먼저 추격한다
+MSID_Flickering: 찰나의 교체
+MSID_H_Flickering: 「바꾸기」 사용 후 수비 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_InstantBlade: 찰나의 칼날{Variable=0}
+MSID_H_InstantBlade: 적의 공격을 회피하면\n해당 전투 중 공격력 {Variable=0}
+MSID_BloodCommotion: 중량급 전사
+MSID_H_BloodCommotion: 기병 및 비행 병과 선택 불가.\n체격 {Variable=0}
+MSID_Pressure: 압박{Variable=0}
+MSID_H_Pressure: 인접한 적의 이동력 {Variable=0}
+MSID_Backup: 조력
+MSID_H_Backup: 인접한 아군의 수비 {Variable=0}
+MSID_FangFlash: 아섬{Variable=0}
+MSID_H_FangFlash: 공격 시 {Variable=2}%로 발동.\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_StageProduction: 전장의 극작
+MSID_H_StageProduction: 주위 {Variable=0}칸 내에 있는 아군 전투 시\n해당 아군의 (매력÷2)%로 발동.\n해당 아군의 필살 회피 {Variable=1}
+MSID_H_R_StageProduction: 전투 시 (매력÷2)%로 발동.\n필살 회피 {Variable=0}
+MSID_H_R_StageProduction+: 전투 시 (매력÷2)%로 발동.\n필살 회피·명중 {Variable=0}
+MSID_H_R_StageProduction++: 전투 시 (매력÷2)%로 발동.\n필살 회피·명중·필살 {Variable=0}
+MSID_Inspiration: 추가 연출{Variable=0}
+MSID_H_Inspiration: 「전장의 극작」 발동 시\n해당 아군의 명중 {Variable=0}
+MSID_H_Inspiration+: 「전장의 극작」 발동 시\n해당 아군의 명중·필살 {Variable=0}
+MSID_AdventureKing: 모험왕의 행운{Variable=0}
+MSID_H_AdventureKing: 행운 {Variable=0}
+MSID_H_AdventureKing+: 모든 아군의 행운 {Variable=0}
+MSID_SkilledGunner: 숙련된 포수
+MSID_H_SkilledGunner: 병기로 공격 시 명중 {Variable=0}
+MSID_VictoryWind: 승리의 바람
+MSID_H_VictoryWind: 공격하거나 공격받을 때 행운%로 발동.\n공격하는 경우라면 명중 {Variable=0},\n공격받는 경우라면 회피 {Variable=1}
+MSID_CompanyManager: 상회의 지배인
+MSID_H_CompanyManager: 자신을 포함해\n주위 {Variable=0}칸 내에 있는 아군이\n도구 주머니를 사용할 수 있다
+MSID_Opportunity: 호기{Variable=0}
+MSID_H_Opportunity: 공격 시 (행운÷2)%로 발동.\n주는 대미지가 {Variable=0}배로 증가한다
+MSID_Hayabusa: 매
+MSID_H_Hayabusa: 선공일 경우\n해당 전투 중 공속 {Variable=0}
+MSID_Quitting: 간파{Variable=0}
+MSID_H_Quitting: 전투 시 자신이 추격 가능한\n상태라면 회피 {Variable=0}
+MSID_Dying: 구사일생
+MSID_H_Dying: 자신의 HP가 {Variable=0} 이상이고\nHP가 0이 되는 대미지를 받았을 때\n행운%의 확률로 HP가 {Variable=1} 남는다
+MSID_BadLuck: 악운{Variable=0}
+MSID_H_BadLuck: 적 처치 시\n행운 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_BeautifulLight: 광휘
+MSID_H_BeautifulLight: 마법으로 아군을 회복할 때\n행운%로 발동.\n마법 횟수가 줄어들지 않는다
+MSID_FaithGift: 신앙의 선물{Variable=0}
+MSID_H_FaithGift: 마법으로 아군을 회복할 때\n행운%로 발동.\n회복량 {Variable=0}
+MSID_MechanicalBody: 견뢰견고{Variable=0}
+MSID_H_MechanicalBody: 수비 {Variable=0}.\n중갑 속성이 된다\n(기병 및 비행 병과 선택 불가)
+MSID_H_MechanicalBody+: 수비 {Variable=0}, 기술 {Variable=1}.\n중갑 속성이 된다\n(기병 및 비행 병과 선택 불가)
+MSID_NightLight: 동체 예측
+MSID_H_NightLight: 선공일 경우\n해당 전투 중 마법 명중 {Variable=0}
+MSID_AdjustmentSoul: 영혼 조율{Variable=0}
+MSID_H_AdjustmentSoul: 마법으로 아군을 회복하면\n자신의 HP를 소량 회복한다
+MSID_H_AdjustmentSoul+: 마법으로 아군을 회복하면\n자신의 HP를 적당량 회복한다
+MSID_GolemResonance: 자가 수복
+MSID_H_GolemResonance: 오버 블레이즈 상태일 때\n자신의 페이즈가 개시되면\nHP를 대량 회복한다
+MSID_Bodyguard: 경호원
+MSID_H_Bodyguard: 인접한 아군 전투 시 {Variable=0}%로 발동.\n추격을 받지 않는다
+MSID_H_R_Bodyguard: 전투 시 {Variable=0}%로 발동.\n추격을 받지 않는다
+MSID_NoMercy: 무자비{Variable=0}
+MSID_H_NoMercy: 추격 시 명중·필살 {Variable=0}
+MSID_GenerousHeart: 마음의 여유
+MSID_H_GenerousHeart: 전투 시 자신의 HP가\n절반 이상이면 회피 {Variable=0}
+MSID_GreatCondition: 절호조{Variable=0}
+MSID_H_GreatCondition: 전투 시 자신의 HP가 최대치면\n공격력 {Variable=0}
+MSID_H_GreatCondition+: 전투 시 자신의 HP가 최대치면\n공격력 {Variable=0}, 회피 {Variable=1}
+MSID_BattleReady: 임전 태세
+MSID_H_BattleReady: 적 페이즈일 때 첫 번째 전투에서\n{Variable=0}%의 확률로\n자신이 선공이 된다
+MSID_JusticeExecution: 정의의 집행{Variable=0}
+MSID_H_JusticeExecution: 「천칭의 천관」 발동 시 공격력 {Variable=0}
+MSID_SpiritVoice: 정령의 목소리
+MSID_H_SpiritVoice: 전투 시 적이 마법을 장비 중이면\n명중·회피 {Variable=0}
+MSID_SpiritWhisper: 정령의 인도{Variable=0}
+MSID_H_SpiritWhisper: 인접한 아군에게\n「정령의 목소리」를 부여한다
+MSID_H_SpiritWhisper+: 주위 {Variable=0}칸 내에 있는 아군에게\n「정령의 목소리」를 부여한다
+MSID_FlowQigong: 기공의 흐름
+MSID_H_FlowQigong: 회피 {Variable=0}
+MSID_WayCyclo: 경락 회선
+MSID_H_WayCyclo: 회피 {Variable=0}.\n「황룡파」를 사용할 수 있다
+MSID_SevenCyclo: 칠성 회선
+MSID_H_SevenCyclo: 회피 {Variable=0}.\n「파동회룡경」을 사용할 수 있다
+MSID_FullyCyclo: 칠성 둔갑
+MSID_H_FullyCyclo: 회피 {Variable=0}.\n「칠성천룡경」을 사용할 수 있다
+MSID_SmoothContinuity: 원활한 연관{Variable=0}
+MSID_H_SmoothContinuity: 적의 공격을 회피하면\n자신의 HP를 {Variable=0} 회복한다
+MSID_RouteExtension: 경락 확장
+MSID_H_RouteExtension: 적 처치 시\n최대 HP {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_FirstMove: 선수 필승
+MSID_H_FirstMove: 선공일 경우 {Variable=0}%로 발동.\n해당 전투 중 공격력 {Variable=1}
+MSID_Nonstop: 난 멈추지 않아{Variable=0}
+MSID_H_Nonstop: 「선수 필승」 발동 후 공격 시\n{Variable=0}%로 발동.\n공격력 {Variable=1}
+MSID_Detainer: 만류
+MSID_H_Detainer: 「끌어당기기」 사용 후\n보조 마법을 사용할 수 있다
+MSID_HeadsUp: 주의 환기{Variable=0}
+MSID_H_HeadsUp: 인접한 아군의 속도 {Variable=0}
+MSID_OneShot: 한 방 승부
+MSID_H_OneShot: 전투 시 자신도 적도\n추격할 수 없다면\n자신의 공격력 {Variable=0}
+MSID_FullPower: 전력{Variable=0}
+MSID_H_FullPower: 공격 시 (힘÷2)%로 발동.\n주는 대미지가 {Variable=0}배로 증가한다
+MSID_Acclimatization: 순응
+MSID_H_Acclimatization: 전투 후\n명중 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_Foothold: 발 묶기{Variable=0}
+MSID_H_Foothold: 선공일 때의 전투 후\n해당 적의 속도 {Variable=0}\n(1회 전투 후 초기화)
+MSID_Familiarity: 숙달
+MSID_H_Familiarity: 공격받을 때 기술%로 발동.\n회피 {Variable=0}
+MSID_AtWill: 기분파
+MSID_H_AtWill: 전투 시 명중·회피·필살 중\n하나가 {Variable=0}
+MSID_AtWillH: 기분파(명중)
+MSID_AtWillT: 기분파(필살)
+MSID_AtWillA: 기분파(회피)
+MSID_FeelingGreat: 좋은 기분{Variable=0}
+MSID_H_FeelingGreat: 「기분파」의 능력 상승 효과가\n{Variable=0}까지 증가한다
+MSID_Transgression: 파계승
+MSID_H_Transgression: 적 처치 시 (행운÷2)%로 발동.\n자신의 HP를 최대 HP만큼 회복한다
+MSID_Buddhism: 활력 결계{Variable=0}
+MSID_H_Buddhism: 공격받을 때\n(자신의 남은 HP)%로 발동.\n방어력 {Variable=0}
+MSID_HorseCooperation: 애마와의 연계
+MSID_H_HorseCooperation: 【기병】 선공일 경우 해당 전투 중\n방어력 {Variable=0}, 필살 회피 {Variable=1}
+MSID_RidingCharge: 기승 돌격{Variable=0}
+MSID_H_RidingCharge: 【기병】 선공일 경우 해당 전투 중\n명중 {Variable=0}
+MSID_H_RidingCharge+: 【기병】 선공일 경우 해당 전투 중\n명중 {Variable=0}, 공격력 {Variable=1}
+MSID_HunterAmbush: 사냥꾼의 매복
+MSID_H_HunterAmbush: 적 페이즈일 때의 전투 시\n적이 대미지를 받은 상태라면\n{Variable=0}%로 발동. 자신이 선공이 된다
+MSID_PrimeHunt: 왕의 위광{Variable=0}
+MSID_H_PrimeHunt: 전투 시 적이\n대미지를 받은 상태라면\n공격력 {Variable=0}, 필살 {Variable=1}
+MSID_Concentration: 집중
+MSID_H_Concentration: 전투 후 회피 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_Zone: 존{Variable=0}
+MSID_H_Zone: 「집중」 발동 시 {Variable=0}%로 발동.\n회피 {Variable=1}\n(다음 자신의 페이즈 전까지)
+MSID_HealingKnowledge: 치유의 지식
+MSID_H_HealingKnowledge: 마법으로 아군을 회복할 때\n회복량 {Variable=0}
+MSID_RemoteHealing: 원격 치유{Variable=0}
+MSID_H_RemoteHealing: 회복 마법의 사정 {Variable=0}
+MSID_Gale: 질풍
+MSID_H_Gale: 전투 시 자신의 공속이 적보다\n{Variable=0} 이상 높으면 명중 {Variable=1}
+MSID_WindAlly: 바람을 내 편으로{Variable=0}
+MSID_H_WindAlly: 전투 시 자신의 공속이 적보다\n{Variable=0} 이상 높으면 공격력 {Variable=1}
+MSID_H_WindAlly+: 전투 시 자신의 공속이 적보다\n{Variable=0} 이상 높으면 공격력 {Variable=1},\n{Variable=2} 이상 높으면 회피 {Variable=3}
+MSID_ForceForward: 강행 돌파
+MSID_H_ForceForward: 【기병】 적이 있는 칸을\n통과할 수 있다\n(자신이 대형 유닛이면 무효)
+MSID_Galloping: 질주{Variable=0}
+MSID_H_Galloping: 【기병】 이동 시\n지형의 이동 코스트 {Variable=0}\n(1 미만으로 줄어들지 않음)
+MSID_AxKnife: 액스 나이프
+MSID_H_AxKnife: 도끼 장비 시 명중 {Variable=0}
+MSID_Messy: 비열{Variable=0}
+MSID_H_Messy: 전투 시 적의 남은 HP가\n절반 이하면 명중 {Variable=0}
+MSID_H_Messy+: 전투 시 적의 남은 HP가\n절반 이하면 명중 {Variable=0},\n공격력 {Variable=1}
+MSID_RampageAx: 광폭한 도끼
+MSID_H_RampageAx: 도끼 장비 시 힘 {Variable=0}
+MSID_Fearless: 무모{Variable=0}
+MSID_H_Fearless: 선공일 경우 해당 전투 중\n공격력 {Variable=0}, 회피 {Variable=1}
+MSID_ReadyFiring: 마차 전투술
+MSID_H_ReadyFiring: 【기병】 자신이 「전차병」이면\n명중 {Variable=0}
+MSID_ChariotRider: 전차 승차{Variable=0}
+MSID_H_ChariotRider: 자신이 「전차병」이면\n맹격 횟수 {Variable=0}
+MSID_StrongArcher: 강궁수
+MSID_H_StrongArcher: 활 장비 시 힘 {Variable=0}
+MSID_Penetration: 꿰뚫기{Variable=0}
+MSID_H_Penetration: 활의 전투 기술로 공격 시\n공격력 {Variable=0}, 필살 {Variable=1}
+MSID_SkillfulCounter: 숙련된 반격술
+MSID_H_SkillfulCounter: 후공일 경우\n해당 전투 중 명중 {Variable=0}
+MSID_FuriousCounter: 노도의 반격{Variable=0}
+MSID_H_FuriousCounter: 후공일 경우\n해당 전투 중 공격력 {Variable=0}
+MSID_H_FuriousCounter+: 후공일 경우 해당 전투 중\n공격력 {Variable=0}, 필살 {Variable=1}
+MSID_SilverMaiden: 백은의 소녀
+MSID_H_SilverMaiden: 인접한 아군 한 명당\n자신의 명중·회피 {Variable=0}
+MSID_TakeFlight: 비상{Variable=0}
+MSID_H_TakeFlight: 자신이 보행 불가 지형에 있을 때\n공속 {Variable=0}
+MSID_Violence: 포학
+MSID_H_Violence: 전투 시 적이 상태 이상이면\n공격력 {Variable=0}, 필살 {Variable=1}
+MSID_Intimidation: 협박{Variable=0}
+MSID_H_Intimidation: 전투 시 {Variable=0}%로 발동.\n적의 필살 회피를 반감시킨다
+MSID_SecretTechnique: 부족의 비기
+MSID_H_SecretTechnique: 전투 시 자신의 공격이 적에게\n유효·특효일 경우 공격력 {Variable=0}
+MSID_Mysteries: 비오{Variable=0}
+MSID_H_Mysteries: 전투 시 자신의 공격이 적에게\n유효·특효일 경우 명중 {Variable=0}
+MSID_SalvationLight: 구세의 빛{Variable=0}
+MSID_H_SalvationLight: 주위 {Variable=0}칸 내에 있는 적의\n「명부의 가호」를 무효화한다
+MSID_H_R_SalvationLight: 「명부의 가호」를 무효화한다
+MSID_BlazingSun: 적일의 가호{Variable=0}
+MSID_H_BlazingSun: 명귀 속성인 적에게 공격받을 때\n{Variable=0}%로 발동.\n받는 대미지가 0이 된다
+MSID_RedMagic: 주명
+MSID_H_RedMagic: 마법 장비 시 명중 {Variable=0}
+MSID_MagicBoost: 마력 증폭{Variable=0}
+MSID_H_MagicBoost: 전투 후 (마력÷2)%로 발동.\n공격력 {Variable=0}\n(1회 전투 후 초기화)
+MSID_Unju: 운수
+MSID_H_Unju: 건틀릿 장비 시 명중 {Variable=0}
+MSID_Alteration: 모디파이{Variable=0}
+MSID_H_Alteration: 「체르베르스」 장비 시\n공격이 비행 유효로 변화
+MSID_H_Alteration+: 「체르베르스」 장비 시\n공격이 비행 특효로 변화
+MSID_Windstorm: 폭풍
+MSID_H_Windstorm: 선공일 경우 해당 전투 중\n명중·회피 {Variable=0}
+MSID_CorundumDefense: 강옥의 수호
+MSID_H_CorundumDefense: 적 페이즈일 때 첫 번째 전투에서만\n공격으로 받는 대미지가 반감된다
+MSID_AgarthaPower: 아가르타의 비술
+MSID_H_AgarthaPower: 인접한 적의 공격력 {Variable=0}
+MSID_BowPrincess: 궁희
+MSID_H_BowPrincess: 활 장비 시 명중 {Variable=0}
+MSID_Ambition: 패기
+MSID_H_Ambition: 전투 시 {Variable=0}%로 발동.\n적의 명중을 반감시킨다
+MSID_RecklessRush: 저돌 맹진
+MSID_H_RecklessRush: 선공일 경우 해당 전투 중\n공속 {Variable=0}, 명중 {Variable=1}
+MSID_Calm: 냉정 침착
+MSID_H_Calm: 후공일 경우 해당 전투 중\n공속 {Variable=0}, 회피 {Variable=1}
+MSID_MysticalProtection: 성순의 가호
+MSID_H_MysticalProtection: 전투 시 적이 명귀 속성이면\n방어력 {Variable=0}
+MSID_GodEye: 군신의 눈
+MSID_H_GodEye: {Variable=0}칸 이상 떨어진\n적과의 전투 시 회피 {Variable=1}
+MSID_GoddessBarrier: 지모신의 결계
+MSID_H_GoddessBarrier: 인접한 아군의\n방어력 {Variable=0}, 필살 회피 {Variable=1}
+MSID_GodWisdom: 마도의 신지
+MSID_H_GodWisdom: 마법 사용 시 {Variable=0}%로 발동.\n마법 횟수가 줄어들지 않는다
+MSID_Supernatural: 대장장이 신의 단철
+MSID_H_Supernatural: 전투 기술로 공격 시 {Variable=0}%로 발동.\n해당 전투 중\n무기 내구도가 줄어들지 않는다
+MSID_GodHunting: 수렵의 신기
+MSID_H_GodHunting: 활의 전투 기술로 공격 시\n공격력 {Variable=0}
+MSID_ElephantRun: 전투 코끼리의 진격
+MSID_H_ElephantRun: 【기병】 자신이 「코끼리병」이면\n맹격 횟수 {Variable=0}
+MSID_SilverSpirit: 은의 정신
+MSID_H_SilverSpirit: 전투 후 수비%로 발동.\n수비 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_BrotherCoop: 여동생과의 연계
+MSID_H_BrotherCoop: 체이엔과 인접해 있을 때\n자신의 명중 {Variable=0}
+MSID_SisterCoop: 오빠와의 연계
+MSID_H_SisterCoop: 체르네시와 인접해 있을 때\n자신의 회피 {Variable=0}
+MSID_FistStyle: 피톤류 전법
+MSID_H_FistStyle: 건틀릿의 전투 기술로 공격 시\n{Variable=0}%로 발동.\n공속에 상관없이 추격한다
+MSID_GetOnOff: 타기·내리기
+MSID_H_GetOnOff: 「타기」, 「내리기」를 사용할 수 있다
+MSID_Unlock: 자물쇠 열기
+MSID_H_Unlock: 열쇠가 없어도\n보물 상자를 열 수 있다
+MSID_Exploration: 탐색술
+MSID_H_Exploration: 부대에 있을 때 탐색을 하면\nPERFECT가 될 확률이\n약간 높아진다
+MSID_AdvancedExploration: 상급 탐색술
+MSID_H_AdvancedExploration: 부대에 있을 때 탐색을 하면\nPERFECT가 될 확률이 높아진다
+MSID_SuperExploration: 최상급 탐색술
+MSID_H_SuperExploration: 부대에 있을 때 탐색을 하면\nPERFECT가 될 확률이\n상당히 높아진다
+MSID_GodExploration: 특급 탐색술
+MSID_H_GodExploration: 부대에 있을 때 탐색을 하면\nPERFECT가 될 확률이\n매우 높아진다
+MSID_BowHit: 활 명중 {Variable=0}
+MSID_H_BowHit: 활 장비 시 명중 {Variable=0}
+MSID_AxeHit: 도끼 명중 {Variable=0}
+MSID_H_AxeHit: 도끼 장비 시 명중 {Variable=0}
+MSID_GauntletAvoid: 격투 회피 {Variable=0}
+MSID_H_GauntletAvoid: 건틀릿 장비 시 회피 {Variable=0}
+MSID_SwordCritical: 검 필살 {Variable=0}
+MSID_H_SwordCritical: 검 장비 시 필살 {Variable=0}
+MSID_SecondDefense: 후공 수비 {Variable=0}
+MSID_H_SecondDefense: 후공일 경우\n해당 전투 중 물방 {Variable=0}
+MSID_CombatEquipment: 전투 기술 장비 {Variable=0}
+MSID_H_CombatEquipment: 장비 가능한 전투 기술 개수 {Variable=0}
+MSID_FlightAvoid: 비행 회피 {Variable=0}
+MSID_H_FlightAvoid: 【비행】 회피 {Variable=0}
+MSID_MagicRecovery: 마법 회복 {Variable=0}
+MSID_H_MagicRecovery: 마법으로 아군을 회복할 때\n회복량 {Variable=0}
+MSID_MagicHit: 마법 명중 {Variable=0}
+MSID_H_MagicHit: 마법 장비 시 명중 {Variable=0}
+MSID_BlackMagicQuest: 흑마술의 탐구
+MSID_H_BlackMagicQuest: 흑마법 횟수가 {Variable=0}배로 증가한다
+MSID_WhiteMagicQuest: 백마술의 탐구
+MSID_H_WhiteMagicQuest: 백마법 횟수가 {Variable=0}배로 증가한다
+MSID_WhiteMagicEx: 백마술의 극한
+MSID_AllMagicQuest: 모든 마술 탐구
+MSID_H_AllMagicQuest: 흑마법·백마법 횟수가\n{Variable=0}배로 증가한다
+MSID_AllMagicEx: 모든 마술 극한
+MSID_GoldenArmor: 금강의 갑옷
+MSID_H_GoldenArmor: 중갑 유효·중갑 특효 무효화
+MSID_GoldenRun: 황금 신주
+MSID_H_GoldenRun: 기병 유효·기병 특효 무효화
+MSID_MechanicalWing: 기계 날개
+MSID_H_MechanicalWing: 비행 유효·비행 특효 무효화
+MSID_TankArmor: 전차의 장갑
+MSID_H_TankArmor: 【기병】 방어력 {Variable=0}.\n회피가 불가능해진다
+MSID_ElephantLeg: 전투 코끼리의 다리
+MSID_H_ElephantLeg: 【기병】 공격으로 받는 대미지가\n반감되지만 회피가 불가능해진다
+MSID_TankRoad: 전차병의 길
+MSID_H_TankRoad: 자신의 레벨이 높아질수록\n성장률도 높아진다
+MSID_ElephantRoad: 코끼리병의 길
+MSID_H_ElephantRoad: 자신의 레벨이 높아질수록\n성장률도 높아진다
+MSID_Rush_skill: 전차병의 전술
+MSID_H_Rush_skill: 「타기」, 「내리기」 사용 가능,\n【기병】 「돌진」 사용 가능
+MSID_HeavyRush_skill: 코끼리병의 전술
+MSID_H_HeavyRush_skill: 「타기」, 「내리기」 사용 가능,\n【기병】 「중돌진」 사용 가능
+MSID_Dance_skill: 춤추기
+MSID_H_Dance_skill: 전투 기술 「춤추기」를\n사용할 수 있다
+MSID_GauntletHit: 격투 명중 {Variable=0}
+MSID_H_GauntletHit: 건틀릿 장비 시 명중 {Variable=0}
+MSID_BattleBasics: 전투의 기본
+MSID_H_BattleBasics: 명중·회피 {Variable=0}
+MSID_HuntingBasics: 수렵의 기본
+MSID_H_HuntingBasics: 기술·속도 {Variable=0}
+MSID_CombatBasics: 공격의 기본
+MSID_H_CombatBasics: 힘 {Variable=0}
+MSID_DefenseBasics: 방위의 기본
+MSID_H_DefenseBasics: 수비 {Variable=0}
+MSID_MagicBasics: 마도의 기본
+MSID_H_MagicBasics: 마력·마방 {Variable=0}
+MSID_AttackBasics: 공세의 기본
+MSID_H_AttackBasics: 힘·마력 {Variable=0}
+MSID_DoWell: 호조
+MSID_H_DoWell: 적 처치 시\n명중 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_ShadowHide: 그림자 숨기
+MSID_H_ShadowHide: 적 처치 시 회피 {Variable=0}\n(1회 전투 후 초기화)
+MSID_Restructuring: 재정비
+MSID_H_Restructuring: 적이 공격을 회피하면\n해당 전투 중 자신의 회피 {Variable=0}
+MSID_HitAway: 히트&어웨이
+MSID_H_HitAway: 전투 기술로 공격 시\n해당 전투 중 회피 {Variable=0}
+MSID_ClearSkill: 뛰어난 기술
+MSID_H_ClearSkill: 필살의 일격 발동 시\n주는 대미지 {Variable=0}
+MSID_BigCounter: 대반격
+MSID_H_BigCounter: 후공일 경우\n해당 전투 중 공격력 {Variable=0}
+MSID_Chaser: 돌격 태세
+MSID_H_Chaser: 「돌진」 사용 시 물방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_PhysicalStrength: 체력의 강화
+MSID_H_PhysicalStrength: HP {Variable=0}
+MSID_Faith: 신앙심
+MSID_H_Faith: 행운 {Variable=0}
+MSID_TechniqueCurse: 기술의 주박
+MSID_H_TechniqueCurse: 인접한 적의 기술 {Variable=0}
+MSID_PegasusFavor: 천마의 가호
+MSID_H_PegasusFavor: 마방 {Variable=0}
+MSID_SensingThreats: 위협 감지
+MSID_H_SensingThreats: 전투 시 적의 공격이 자신에게\n유효·특효일 경우 회피 {Variable=0}
+MSID_HunterEyes: 사냥꾼의 눈
+MSID_H_HunterEyes: 활을 장비한 상태에서 추격 시\n공격력 {Variable=0}
+MSID_ShootingMaster: 사격의 달인
+MSID_H_ShootingMaster: 활 장비 시 명중 {Variable=0}
+MSID_CounterShooting: 반격 사격
+MSID_H_CounterShooting: 활을 장비한 상태에서 전투 시\n{Variable=0}%로 발동.\n인접한 적에게 반격할 수 있다
+MSID_Practitioner: 즉석 수리
+MSID_H_Practitioner: 전투 기술로 공격 시 {Variable=0}%로 발동.\n해당 전투 중\n무기 내구도가 줄어들지 않는다
+MSID_Proficiency: 숙련된 기술
+MSID_H_Proficiency: 전투 기술로 공격 시 명중 {Variable=0}
+MSID_Zanshin: 후비심
+MSID_H_Zanshin: 필살의 일격으로 적 처치 시\n자신의 HP를 소량 회복한다
+MSID_Tightening: 가다듬기
+MSID_H_Tightening: 적 처치 시 물방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_FocusingCounter: 집중 반격
+MSID_H_FocusingCounter: 후공일 경우\n해당 전투 중 명중 {Variable=0}
+MSID_LargeShield: 거대한 방패
+MSID_H_LargeShield: 물리 공격을 받을 때 {Variable=0}%로 발동.\n받는 대미지가 반감된다
+MSID_HolyShield: 성스러운 방패
+MSID_H_HolyShield: 마법 공격을 받을 때 {Variable=0}%로 발동.\n받는 대미지가 반감된다
+MSID_ElephantBearer: 전투 코끼리의 기수
+MSID_H_ElephantBearer: 【기병】 자신이 「코끼리병」이면\n명중 {Variable=0}
+MSID_SacredBarrier: 결계
+MSID_H_SacredBarrier: 인접한 아군의 마방 {Variable=0}
+MSID_SpeedCurse: 속도의 주박
+MSID_H_SpeedCurse: 인접한 적의 속도 {Variable=0}
+MSID_SiegeBreaker: 농성 무너뜨리기
+MSID_H_SiegeBreaker: 전투 시 적이 유리한 지형에 있으면\n명중 {Variable=0}
+MSID_RunThrough: 빠져나가기
+MSID_H_RunThrough: 적 처치 시\n이동력 {Variable=0} (최대 {Variable=1}까지 증가)\n(다음 턴이 끝날 때까지)
+MSID_SpecialDance: 특별한 춤
+MSID_H_SpecialDance: 아군에게 「춤추기」 사용 시\n해당 아군의 기술·속도 {Variable=0}\n(해당 페이즈 동안만 적용)
+MSID_DarkMoon: 암월
+MSID_H_DarkMoon: 공격 시 {Variable=0}%로 발동.\n적의 방어력을 반감시킨다
+MSID_SteadfastStance: 불굴의 자세
+MSID_H_SteadfastStance: 전투 시 자신의 HP가 최대치면\n방어력 {Variable=0}
+MSID_SoulArmor: 차단
+MSID_H_SoulArmor: 공격받을 때\n받는 대미지를 {Variable=0} 줄인다
+MSID_FerociousShield: 맹렬한 방패
+MSID_H_FerociousShield: 선공일 경우 {Variable=0}%로 발동.\n해당 전투 중 공격으로 받는\n대미지가 반감된다
+MSID_ProtectionArmor: 가호의 갑옷
+MSID_H_ProtectionArmor: 전투 후 자신의 HP를 소량 회복
+MSID_MagicControl: 마력 장악
+MSID_H_MagicControl: 전투 시 적이 마법을 장비 중이면\n{Variable=0}%로 발동.\n반격을 받지 않는다
+MSID_MagicCurse: 마방의 주박
+MSID_H_MagicCurse: 인접한 적의 마방 {Variable=0}
+MSID_LightningStorm: 신뢰 풍렬
+MSID_H_LightningStorm: 선공일 경우 자신의 공속이\n적보다 {Variable=0} 이상 높으면\n적의 반격보다 먼저 추격한다
+MSID_Raid: 습격
+MSID_H_Raid: 자신이 보행 불가 지형에 있을 때\n공격력 {Variable=0}
+MSID_MagicEntomb: 마법 매장
+MSID_H_MagicEntomb: 전투 시 자신도 적도 마법을\n장비 중이면 자신의 공격력 {Variable=0}
+MSID_DivineEye: 신의 눈
+MSID_DivineLife: 신의 뜻
+MSID_H_DivineLife: 행운 {Variable=0}
+MSID_DivineEquipment: 신의 장비
+MSID_H_DivineEquipment: 마방 {Variable=0}
+MSID_DivineForce: 무신
+MSID_H_DivineForce: 힘 {Variable=0}
+MSID_DivineDance: 신의 춤
+MSID_H_DivineDance: 매력 {Variable=0}
+MSID_DivineBattle: 전신
+MSID_H_DivineBattle: 속도 {Variable=0}
+MSID_DivineShield: 신의 벽
+MSID_H_DivineShield: 수비 {Variable=0}
+MSID_DivineArmor: 신의 갑옷
+MSID_DivineSkill: 신의 기술
+MSID_H_DivineSkill: 기술 {Variable=0}
+MSID_DivineMagic: 신의 법
+MSID_H_DivineMagic: 마력 {Variable=0}
+MSID_DivineSpeed: 신의 속도
+MSID_SwordSkill: 검술 {Variable=0}
+MSID_H_SwordSkill1: 검 장비 시 명중 {Variable=0}
+MSID_H_SwordSkill3: 검 장비 시 명중·회피 {Variable=0}
+MSID_SwordMastery: 검술 통달
+MSID_H_SwordMastery: 검 장비 시\n명중·회피 {Variable=0}, 공격력 {Variable=1}
+MSID_SpearSkill: 창술 {Variable=0}
+MSID_H_SpearSkill1: 창 장비 시 명중 {Variable=0}
+MSID_H_SpearSkill3: 창 장비 시 명중·회피 {Variable=0}
+MSID_SpearMastery: 창술 통달
+MSID_H_SpearMastery: 창 장비 시\n명중·회피 {Variable=0}, 공격력 {Variable=1}
+MSID_Axeskill: 도끼술 {Variable=0}
+MSID_H_Axeskill1: 도끼 장비 시 명중 {Variable=0}
+MSID_H_Axeskill3: 도끼 장비 시 명중·회피 {Variable=0}
+MSID_AxeMastery: 도끼술 통달
+MSID_H_AxeMastery: 도끼 장비 시\n명중·회피 {Variable=0}, 공격력 {Variable=1}
+MSID_Bowskill: 궁술 {Variable=0}
+MSID_H_Bowskill1: 활 장비 시 명중 {Variable=0}
+MSID_H_Bowskill3: 활 장비 시 명중·회피 {Variable=0}
+MSID_BowMastery: 궁술 통달
+MSID_H_BowMastery: 활 장비 시\n명중·회피 {Variable=0}, 공격력 {Variable=1}
+MSID_GauntletSkill: 격투술 {Variable=0}
+MSID_H_GauntletSkill1: 건틀릿 장비 시 명중 {Variable=0}
+MSID_H_GauntletSkill3: 건틀릿 장비 시 명중·회피 {Variable=0}
+MSID_GauntletMastery: 격투술 통달
+MSID_H_GauntletMastery: 건틀릿 장비 시\n명중·회피 {Variable=0}, 공격력 {Variable=1}
+MSID_BlackMagicSkill: 흑마술 {Variable=0}
+MSID_H_BlackMagicSkill1: 흑마법 장비 시 명중 {Variable=0}
+MSID_H_BlackMagicSkill3: 흑마법 장비 시 명중·회피 {Variable=0}
+MSID_BlackMagicMastery: 흑마술 통달
+MSID_H_BlackMagicMastery: 흑마법 장비 시\n명중·회피 {Variable=0}, 공격력 {Variable=1}
+MSID_WhiteMagicSkill: 백마술 {Variable=0}
+MSID_H_WhiteMagicSkill1: 백마법 장비 시 명중 {Variable=0}
+MSID_H_WhiteMagicSkill3: 백마법 장비 시 명중·회피 {Variable=0}
+MSID_WhiteMagicMastery: 백마술 통달
+MSID_H_WhiteMagicMastery: 백마법 장비 시\n명중·회피 {Variable=0}, 공격력 {Variable=1}
+MSID_KnightSense: 기사의 감각
+MSID_H_KnightSense: 전투 시 적이 창을 장비 중이면\n회피 {Variable=0}
+MSID_KnightVanguard: 선봉 기사{Variable=0}
+MSID_H_KnightVanguard: 【기병】 선공일 경우\n해당 전투 중 방어력 {Variable=0}
+MSID_CavalryMove: 기병 이동술{Variable=0}
+MSID_H_CavalryMove: 【기병】 이동 시\n지형의 이동 코스트 {Variable=0}\n(1 미만으로 줄어들지 않음)
+MSID_ReadingWind: 바람 예측
+MSID_H_ReadingWind: 전투 시 적이 활을 장비 중이면\n회피 {Variable=0}
+MSID_FastFlight: 고속 비행술{Variable=0}
+MSID_H_FastFlight: 【비행】 선공일 경우\n해당 전투 중 공속 {Variable=0}
+MSID_FlightMove: 비행 전투술{Variable=0}
+MSID_H_FlightMove: 【비행】 선공일 경우\n해당 전투 중 명중 {Variable=0}
+MSID_FrontStrategy: 전선 계략술
+MSID_H_FrontStrategy: 계략 사용 후 공격력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_WalkingMove: 보행 이동술{Variable=0}
+MSID_H_WalkingMove: 【보병】 이동 시\n지형의 이동 코스트 {Variable=0}\n(1 미만으로 줄어들지 않음)
+MSID_Physique: 체격{Variable=0}
+MSID_H_Physique: 체격 {Variable=0}
+MSID_AttackFormation: 공격 진형{Variable=0}
+MSID_H_AttackFormation: 인접한 아군의 공격력 {Variable=0}
+MSID_DefensiveFormation: 방어 진형{Variable=0}
+MSID_H_DefensiveFormation: 인접한 아군의 방어력 {Variable=0}
+MSID_Diversion: 양동{Variable=0}
+MSID_H_Diversion: 인접한 적의 명중 {Variable=0}
+MSID_Restraint: 견제{Variable=0}
+MSID_H_Restraint: 인접한 적의 회피 {Variable=0}
+MSID_Threat: 위협{Variable=0}
+MSID_H_Threat: 인접한 적의 필살 {Variable=0}
+MSID_AntiSniper: 대저격 전술{Variable=0}
+MSID_H_AntiSniper: 주위 {Variable=0}칸 내에 있는\n활을 든 적의 명중·회피 {Variable=1}
+MSID_AntiMagic: 대마법 전술{Variable=0}
+MSID_H_AntiMagic: 주위 {Variable=0}칸 내에 있는\n마법을 장비한 적의 명중·회피 {Variable=1}
+MSID_AntiCavalry: 대기병 전술{Variable=0}
+MSID_H_AntiCavalry: 주위 {Variable=0}칸 내에 있는\n기병 속성인 적의 명중·회피 {Variable=1}
+MSID_AntiFlyer: 대비행 전술{Variable=0}
+MSID_H_AntiFlyer: 주위 {Variable=0}칸 내에 있는\n비행 속성인 적의 명중·회피 {Variable=1}
+MSID_StrategyMaster: 계략의 달인
+MSID_H_StrategyMaster: 계략 횟수 {Variable=0}
+MSID_MeleeRange: 백병 간격{Variable=0}
+MSID_H_MeleeRange: 【보병】 인접한 적의 이동력 {Variable=0}
+MSID_BarelyAvoid: 순간 회피{Variable=0}
+MSID_H_BarelyAvoid: 【보병】 공격받을 때\n{Variable=0}%로 발동.\n회피 {Variable=1}
+MSID_ShootingStability: 사격 안정{Variable=0}
+MSID_H_ShootingStability: 【보병】 활 또는 마법 장비 시\n명중 {Variable=0}
+MSID_FatalAvoid: 치명 회피{Variable=0}
+MSID_H_FatalAvoid: 【보병】 필살 회피 {Variable=0}
+MSID_PredicamentAvoid: 궁지 회피
+MSID_H_PredicamentAvoid: 【보병】 전투 시 자신의 남은 HP가\n절반 이하면 회피 {Variable=0}
+MSID_SniperAvoid: 저격 회피{Variable=0}
+MSID_H_SniperAvoid: 【보병】 {Variable=0}칸 이상 떨어진\n적과의 전투 시 회피 {Variable=1}
+MSID_WalkingRemove: 보행 재이동
+MSID_H_WalkingRemove: 【보병】 전투 후\n{Variable=0}칸까지 이동할 수 있다
+MSID_Evasion: 모면{Variable=0}
+MSID_H_Evasion: 【보병】 전투 시 적이 활 또는\n마법을 장비 중이면 회피 {Variable=0}
+MSID_PassThrough: 통과하기
+MSID_H_PassThrough: 【보병】 적이 있는 칸을\n통과할 수 있다
+MSID_TakePosition: 땅따먹기{Variable=0}
+MSID_H_TakePosition: 【보병】 전투 시\n자신이 유리한 지형에 있으면\n회피 {Variable=0}
+MSID_H_TakePosition+: 【보병】 전투 시\n자신이 유리한 지형에 있으면\n회피 {Variable=0}, 방어력 {Variable=1}
+MSID_SurpriseAttack: 기습
+MSID_H_SurpriseAttack: 【보병】 전투 시\n자신이 유리한 지형에 있으면\n명중 {Variable=0}
+MSID_SuperiorCombat: 우위 전투술
+MSID_H_SuperiorCombat: 【보병】 전투 시\n자신이 유리한 지형에 있으면\n공격력 {Variable=0}
+MSID_ImmediateDefense: 즉각 방어
+MSID_H_ImmediateDefense: 공격받을 때 {Variable=0}%로 발동.\n방어력 {Variable=1}
+MSID_DeadlyDefense: 필살 수비
+MSID_H_DeadlyDefense: 필살의 일격을 받을 때\n{Variable=0}%로 발동.\n받는 대미지가 반감된다
+MSID_ArmorMove: 중갑 이동술{Variable=0}
+MSID_H_ArmorMove: 【중갑】 이동력 {Variable=0}
+MSID_ArmorCombat: 중갑 전투술{Variable=0}
+MSID_H_ArmorCombat: 【중갑】 기술 {Variable=0}
+MSID_ContinuousDefense: 추격 방어
+MSID_H_ContinuousDefense: 추격을 받을 때 {Variable=0}%로 발동.\n받는 대미지가 반감된다
+MSID_HeavyBreak: 헤비 브레이크{Variable=0}
+MSID_H_HeavyBreak: 【중갑】 공격 시 (수비÷2)%로 발동.\n주는 대미지가 {Variable=0}배로 증가한다
+MSID_ArmorStep: 갑옷 도약{Variable=0}
+MSID_H_ArmorStep: 【중갑】 회피 {Variable=0}
+MSID_PreventBow: 방궁술
+MSID_H_PreventBow: 【중갑】 전투 시\n적이 활을 장비 중이면 방어력 {Variable=0}
+MSID_PreventSpear: 방창술
+MSID_H_PreventSpear: 【중갑】 전투 시\n적이 창을 장비 중이면 방어력 {Variable=0}
+MSID_BowShield: 강화 방궁 방패
+MSID_H_BowShield: 【중갑】 전투 시\n적이 활을 장비 중이면 방어력 {Variable=0}
+MSID_MultipleCounter: 다중 반격술
+MSID_H_MultipleCounter: 후공일 경우 {Variable=0}%로 발동.\n공속에 상관없이 추격한다
+MSID_AbsoluteDefense: 절대 방어{Variable=0}
+MSID_H_AbsoluteDefense: 【중갑】 공격받을 때\n{Variable=0}%로 발동.\n방어력 {Variable=1}
+MSID_Blocking: 힘의 방어: 대
+MSID_H_Blocking: 공격받을 때 (힘÷2)%로 발동.\n받는 대미지가 반감된다
+MSID_SuperGuard: 수비의 방어: 대
+MSID_H_SuperGuard: 공격받을 때 (수비÷2)%로 발동.\n받는 대미지가 반감된다
+MSID_MagicArmor: 마력의 방어: 대
+MSID_H_MagicArmor: 공격받을 때 (마방÷2)%로 발동.\n받는 대미지가 반감된다
+MSID_TacticalGuard: 기술의 방어: 대
+MSID_H_TacticalGuard: 공격받을 때 (기술÷2)%로 발동.\n받는 대미지가 반감된다
+MSID_LuckyGuard: 행운의 방어: 대
+MSID_H_LuckyGuard: 공격받을 때 (행운÷2)%로 발동.\n받는 대미지가 반감된다
+MSID_HeelArmor: 힐 아머
+MSID_H_HeelArmor: 【중갑】 공격 시 마력%로 발동.\n준 대미지의 절반만큼\nHP를 회복한다
+MSID_MagicResist: 저항 마법 장비{Variable=0}
+MSID_H_MagicResist: 【중갑】 마방 {Variable=0}
+MSID_DarkFlame: 명염탄
+MSID_H_DarkFlame: 타오르는 명염을 발사한다
+MSID_H_B_DarkFlame: 타오르는 명염을 발사한다.\n범위 내 지형을 「명염」으로 만든다
+MSID_DarkWave: 흑염 소용돌이
+MSID_H_DarkWave: 명염을 광범위로 내뿜는 범위 공격
+MSID_H_B_DarkWave: 명염을 광범위로 내뿜는 범위 공격.\n범위 내 지형을 「명염」으로 만든다
+MSID_DarkStar: 낙성명염옥
+MSID_H_DarkStar: 명중 시 폭발하는 명염을 발사한다.\n범위 내 지형을 「명염」으로 만든다\n(한 맵당 한 번만 사용 가능)
+MSID_H_E_DarkStar: 명중 시 폭발하는 명염을 발사한다.\n범위 내 지형을 「명염」으로 만든다
+MSID_ShadowBlade: 그림자 건너기
+MSID_H_ShadowBlade: 최대 {Variable=0}칸까지 순간 이동한다.\n이동 후 공격할 수 있다
+MSID_ShadowBind: 그림자 꿰매기
+MSID_H_ShadowBind: 최대 {Variable=0}칸까지 순간 이동한다.\n이동 후 주위 {Variable=1}칸 내에 있는\n적을 이동 불능 상태로 만든다
+MSID_ShadowDestruction: 영멸
+MSID_H_ShadowDestruction: 최대 5칸까지 순간 이동한다.\n이동 후 범위 내 적에게\n대미지를 준다
+MSID_RoaringRock: 굉토
+MSID_H_RoaringRock: 지면을 뜯어내 투척 공격을 한다
+MSID_H_B_RoaringRock: 지면을 뜯어내 투척 공격을 한다.\n반드시 명중한다
+MSID_MightyRock: 대굉토
+MSID_H_MightyRock: 멀리까지 닿는 투척 공격을 한다
+MSID_H_B_MightyRock: 멀리까지 닿는 투척 공격을 한다.\n반드시 명중한다
+MSID_CometRock: 혜성 황탄
+MSID_H_CometRock: 적을 관통하는 투척 공격을 한다.\n반드시 명중한다\n(한 맵당 한 번만 사용 가능)
+MSID_EnthusiasticSong: 열광의 노래{Variable=0}
+MSID_H_EnthusiasticSong: 범위 내 아군의 힘·마력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_EnthusiasticSong++: 범위 내 아군의 힘·마력 {Variable=0},\n이동력 {Variable=1}\n(다음 자신의 페이즈 전까지)
+MSID_H_EnthusiasticSongHell: 범위 내 아군의\n힘·마력이 {Variable=0}배로 증가한다\n(다음 자신의 페이즈 전까지)
+MSID_FrozenSong: 냉광의 노래{Variable=0}
+MSID_H_FrozenSong: 범위 내 아군의 수비·마방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_FrozenSong++: 범위 내 아군의 HP를 적당량 회복,\n해당 아군의 수비·마방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_FrozenSongHell: 범위 내 아군의\n수비·마방이 {Variable=0}배로 증가한다\n(다음 자신의 페이즈 전까지)
+MSID_H_FrozenSongEnemy: 범위 내 아군의 방어력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_PurificationSong: 멸명의 노래
+MSID_H_PurificationSong: 범위 내 아군의 공격이\n명귀 유효로 변화한다\n(다음 자신의 페이즈 전까지)
+MSID_FrenzySong: 광란의 노래
+MSID_H_FrenzySong: 범위 내 적을 혼란 상태로 만든다\n(한 맵당 한 번만 사용 가능)
+MSID_H_E_FrenzySong: 범위 내 적을 혼란 상태로 만든다
+MSID_ResentmentSong: 소마의 노래
+MSID_H_ResentmentSong: 마수를 소환한다\n(한 맵당 한 번만 사용 가능)
+MSID_H_E_ResentmentSong: 마수를 소환한다
+MSID_GoddessDance: 천녀의 노래
+MSID_H_GoddessDance: 범위 내 아군을 다시 행동하게 한다\n(한 맵당 한 번만 사용 가능)
+MSID_CollapseCurse: 허탈의 명주
+MSID_H_CollapseCurse: 적을 허탈 상태로 만든다.\n허탈: 명중이 반감된다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_SlowingCurse: 둔화의 명주
+MSID_H_SlowingCurse: 적을 둔화 상태로 만든다.\n둔화: 공속이 반감된다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_MisfortuneCurse: 불운의 명주
+MSID_H_MisfortuneCurse: 적을 불운 상태로 만든다.\n불운: 행운이 반감된다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_AttackCurse: 공격력 반전의 명주
+MSID_H_AttackCurse: 적을 공격력 반전 상태로 만든다.\n공격력 반전: 힘과 마력이 뒤바뀐다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_DefenseCurse: 방어력 반전의 명주
+MSID_H_DefenseCurse: 적을 방어력 반전 상태로 만든다.\n방어력 반전: 수비와 마방이 뒤바뀐다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_PowerAwakening: 패자의 각성
+MSID_H_PowerAwakening: 숨겨진 전투 능력을 해방한다.\n각성 후 공격할 수 있다. 명중 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_PowerAwakening+: 각성 후 공격할 수 있다.\n명중 {Variable=0}, 공격력 {Variable=1}\n(다음 자신의 페이즈 전까지)
+MSID_H_E_PowerAwakening1: 숨겨진 전투 능력을 해방한다.\n명중 {Variable=0}\n(1회 전투 후 초기화)
+MSID_H_E_PowerAwakening2: 숨겨진 전투 능력을 해방한다.\n명중 {Variable=0}, 공격력 {Variable=1}\n(1회 전투 후 초기화)
+MSID_SkillAwakening: 번뜩임의 각성
+MSID_H_SkillAwakening: 숨겨진 전투 능력을 해방한다.\n각성 후 공격할 수 있다. 물방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_E_SkillAwakening1: 숨겨진 전투 능력을 해방한다.\n물방 {Variable=0}\n(1회 전투 후 초기화)
+MSID_H_E_SkillAwakening2: 숨겨진 전투 능력을 해방한다.\n물방 {Variable=0}\n(1회 전투 후 초기화)
+MSID_StormAwakening: 폭풍의 각성
+MSID_H_StormAwakening: 숨겨진 투쟁 본능을 깨운다.\n각성 후 공격할 수 있다. 회피 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_StormAwakening+: 각성 후 공격할 수 있다.\n회피·필살 회피 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_E_StormAwakening1: 숨겨진 투쟁 본능을 깨운다.\n회피 {Variable=0}\n(1회 전투 후 초기화)
+MSID_H_E_StormAwakening2: 숨겨진 투쟁 본능을 깨운다.\n회피·필살 회피 {Variable=0}\n(1회 전투 후 초기화)
+MSID_Elisabeth: 엘리자베스
+MSID_H_Elisabeth: 오버 블레이즈 상태가 된다.\n사용 후 공격할 수 있다\n(한 맵당 한 번만 사용 가능)
+MSID_Strahl: 슈트랄
+MSID_H_Strahl: 눈부신 빛줄기를 광범위로 발사해\n적을 공격한다
+MSID_Lanze: 란체
+MSID_H_Lanze: 눈부신 빛줄기로 적을 꿰뚫는다.\n명귀 유효
+MSID_DragonSurge_1: 용파 1식
+MSID_DragonSurge_2: 용파 2식
+MSID_DragonSurge_3: 용파 3식
+MSID_H_DragonSurge: 체내의 기를 방출하는 범위 공격.\n장애물을 파괴할 수 있다
+MSID_GlitterDragonSurge: 황룡파
+MSID_H_GlitterDragonSurge: 체내의 기를 광범위로\n방출하는 범위 공격.\n장애물을 파괴할 수 있다
+MSID_RevolveDragonSurge: 파동회룡경
+MSID_H_RevolveDragonSurge: 기를 나선형으로 방출한다.\n장애물을 파괴할 수 있다
+MSID_SevenStarsSurge: 칠성천룡경
+MSID_H_SevenStarsSurge: 심오의의 힘으로 큰 일격을 날린다.\n장애물을 파괴할 수 있다
+MSID_WhiteCrowSpear_1: 파사섬격
+MSID_H_WhiteCrowSpear_1: 신성한 빛의 창으로 적을 꿰뚫는다.\n명귀 유효
+MSID_WhiteCrowSpear_2: 진파사섬격
+MSID_H_WhiteCrowSpear_2: 신성한 빛의 창으로 적을 꿰뚫는다.\n명귀 유효. 반드시 명중한다
+MSID_WhiteCrowSpear_3: 구천신격
+MSID_H_WhiteCrowSpear_3: 신성한 빛의 창으로 적을 꿰뚫는다.\n명귀 특효. 반드시 명중한다
+MSID_WhiteCrowSpear_4: 진구천신격
+MSID_WhiteCrowSpear_5: 파천절화격
+MSID_ResistAwakening: 진리의 각성
+MSID_H_ResistAwakening: 숨겨진 전투 능력을 해방한다.\n각성 후 공격할 수 있다. 항마 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_HardAttack: 강격{Variable=0}
+MSID_H_HardAttack: 명중이 높다
+MSID_Bisection: 양단{Variable=0}
+MSID_H_Bisection: 필살이 높다
+MSID_DewCutting: 안개 베기{Variable=0}
+MSID_H_DewCutting: 전투 시 회피 {Variable=0}
+MSID_Chopped: 내려찍기{Variable=0}
+MSID_H_Chopped: 명중이 낮지만 위력이 높다
+MSID_SwallowReversal: 제비 베기{Variable=0}
+MSID_H_SwallowReversal: 비행 유효
+MSID_TigerSlash: 호랑이 베기{Variable=0}
+MSID_H_TigerSlash: 기병 유효
+MSID_ArmorPasser: 틈새 노리기{Variable=0}
+MSID_H_ArmorPasser: 중갑 유효
+MSID_SecretSword: 비검{Variable=0}
+MSID_H_SecretSword: 최소 {Variable=0} 이상의 대미지를 준다
+MSID_ShadowHunt: 그림자 마무리{Variable=0}
+MSID_H_ShadowHunt: 적이 유리한 지형에 있으면\n해당 지형의 영향을 무시한다
+MSID_HittingPeaks: 칼등 치기{Variable=0}
+MSID_H_HittingPeaks: 적의 HP가 2 이상이면\nHP를 1 남긴다\n(추격 불가)
+MSID_Crosswise: 크로스와이즈{Variable=0}
+MSID_H_Crosswise: 전투 후\n기술 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_Destrezza: 데스트레사{Variable=0}
+MSID_H_Destrezza: 적의 HP가 절반 이하면\n공격력 {Variable=0}, 필살 {Variable=1}
+MSID_RippleSlash: 파문 베기{Variable=0}
+MSID_H_RippleSlash: 반드시 명중한다
+MSID_H_RippleSlash+: 반드시 명중한다\n(추격도 반드시 명중)
+MSID_BlazingSlash: 화염의 일격{Variable=0}
+MSID_H_BlazingSlash: 공격 시 (힘÷2)%로 발동.\n공격력 {Variable=0}
+MSID_GaleSlash: 질풍의 일격{Variable=0}
+MSID_H_GaleSlash: 공격 시 (속도÷2)%로 발동.\n공격력 {Variable=0}
+MSID_BladeSlash: 필섬의 일격{Variable=0}
+MSID_H_BladeSlash: 공격 시 (기술÷2)%로 발동.\n공격력 {Variable=0}
+MSID_DoubleSlash: 쌍날{Variable=0}
+MSID_H_DoubleSlash: {Variable=0}회 연속으로 공격한다\n(각 공격의 대미지는 {Variable=1}%)
+MSID_MagicSlash: 마법 칼날{Variable=0}
+MSID_H_MagicSlash: 마법 공격에 속한다
+MSID_MistReaper: 미스트 리퍼{Variable=0}
+MSID_H_MistReaper: 전투 시 회피 {Variable=0},\n추격 시 필살 {Variable=1}
+MSID_DarkRays: 다크 레이즈{Variable=0}
+MSID_H_DarkRays: 전투 시\n적의 명중·회피·필살 {Variable=0}
+MSID_WindGnaw: 바람 베기{Variable=0}
+MSID_H_WindGnaw: 명중 시 {Variable=0}%로 발동.\n반격을 받지 않는다
+MSID_SkySplit: 하늘 가르기{Variable=0}
+MSID_H_SkySplit: 전투 시 공속 {Variable=0}
+MSID_HeatHaze: 아지랑이{Variable=0}
+MSID_H_HeatHaze: 적 처치 시 회피 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_GreatAttack: 대강격{Variable=0}
+MSID_H_GreatAttack: 위력과 명중이 높다
+MSID_SingleSlash: 일도양단{Variable=0}
+MSID_H_SingleSlash: 명중이 낮지만\n내구 소비가 적고 위력이 높다
+MSID_BladeSlam: 블레이드 슬램{Variable=0}
+MSID_H_BladeSlam: 자신의 명중이 {Variable=0}%가 된다
+MSID_FatefulSlash: 운명의 일격{Variable=0}
+MSID_H_FatefulSlash: 공격 시 (행운÷2)%로 발동.\n공격력 {Variable=0}
+MSID_SteppingWind: 몰아치는 열풍{Variable=0}
+MSID_H_SteppingWind: 전투 시 공속 {Variable=0},\n추격 시 공격력 {Variable=1}
+MSID_TriceFlash: 극일섬{Variable=0}
+MSID_H_TriceFlash: 공격 시 (기술÷2)%로 발동.\n공격력 {Variable=0}
+MSID_GreatMagicAttack: 마법 칼날: 대{Variable=0}
+MSID_H_GreatMagicAttack: 위력과 명중이 높다.\n마법 공격에 속한다
+MSID_Ryusei: 유성{Variable=0}
+MSID_H_Ryusei: 5회 연속으로 공격한다\n(각 공격의 대미지는 {Variable=0}%)
+MSID_BloodSlash: 혈섬{Variable=0}
+MSID_H_BloodSlash: 필살이 매우 높다.\n용 유효
+MSID_FlameStorm: 화염 폭풍
+MSID_H_FlameStorm: 위력이 매우 높다
+MSID_KillingSword: 필살검
+MSID_H_KillingSword: 필살이 높다
+MSID_LayeredPoison: 독 흡수
+MSID_H_LayeredPoison: 적이 독 상태라면\n준 대미지의 절반만큼\nHP를 회복한다
+MSID_ThunderAttack: 뇌격
+MSID_H_ThunderAttack: 칼날에서 강력한 번개를 내뿜는다.\n마법 공격에 속한다
+MSID_PoisonFuneral: 독 매장
+MSID_H_PoisonFuneral: 적이 독 상태라면 공격력 {Variable=0}
+MSID_DesperateFlower: 절화
+MSID_H_DesperateFlower: 공격 시 기술%로 발동.\n무기 내구도가 줄어들지 않는다
+MSID_MoonDestruction: 달 부수기
+MSID_H_MoonDestruction: 명중과 필살이 매우 높다
+MSID_DarkWind: 독 바람
+MSID_H_DarkWind: 마법 공격에 속한다.\n명중 시 적을 독 상태로 만든다\n(추격 불가)
+MSID_LuckSteal: 행운 탈취
+MSID_H_LuckSteal: 적 처치 시\n행운 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_WindSpear: 선풍창{Variable=0}
+MSID_H_WindSpear: 명중이 높다
+MSID_GaleSpear: 열풍창{Variable=0}
+MSID_H_GaleSpear: 필살이 높다
+MSID_FlowSpear: 유풍창{Variable=0}
+MSID_H_FlowSpear: 전투 시 회피 {Variable=0}
+MSID_GuardianSpear: 수호 창 찌르기{Variable=0}
+MSID_H_GuardianSpear: 전투 시 방어력 {Variable=0}
+MSID_ConcentratedThrow: 집중 투척{Variable=0}
+MSID_H_ConcentratedThrow: 명중이 높다\n(사정 1-2의 창으로만 사용 가능)
+MSID_KongoStrike: 금강의 일격{Variable=0}
+MSID_H_KongoStrike: 적 처치 시 물방{Variable=0}\n(다음 자신의 페이즈 전까지)\n(추격 불가)
+MSID_Stinger: 스팅어{Variable=0}
+MSID_H_Stinger: 명중이 낮지만 위력이 높다
+MSID_HolyThrust: 성스러운 창 찌르기{Variable=0}
+MSID_H_HolyThrust: 전투 후 자신의 HP를 소량 회복
+MSID_H_HolyThrust+: 전투 후 자신의 HP를 적당량 회복
+MSID_DoubleThrow: 이연 투척{Variable=0}
+MSID_H_DoubleThrow: {Variable=0}회 연속으로 공격한다\n(사정 1-2의 창으로만 사용 가능)
+MSID_Pushing: 찌르기{Variable=0}
+MSID_H_Pushing: 위력이 조금 높다
+MSID_FlyingSpear: 상섬창{Variable=0}
+MSID_H_FlyingSpear: 적의 반격보다 먼저 추격한다
+MSID_H_FlyingSpear+: 적의 반격보다 먼저 추격한다.\n추격 시 필살 {Variable=0}
+MSID_SwordBreaker: 소드 브레이크{Variable=0}
+MSID_H_SwordBreaker: 적이 검을 장비 중이면 공격력 {Variable=0}
+MSID_H_SwordBreaker+: 적이 검을 장비 중이면\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_BrilliantStrike: 광휘의 일격{Variable=0}
+MSID_H_BrilliantStrike: 적 처치 시 항마 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_FastThrust: 속공{Variable=0}
+MSID_H_FastThrust: 전투 시 공속 {Variable=0}
+MSID_GuardianWind: 수호 선풍{Variable=0}
+MSID_H_GuardianWind: 전투 시 물방 {Variable=0}
+MSID_BreakRush: 승부수{Variable=0}
+MSID_H_BreakRush: 공격 시 (힘÷2)%로 발동.\n공격력 {Variable=0}
+MSID_Hamshin: 캄신{Variable=0}
+MSID_H_Hamshin: 전투 시 적의 명중이 {Variable=0} 이하면\n해당 적의 명중이 0이 된다
+MSID_DefenceThrust: 호신창{Variable=0}
+MSID_H_DefenceThrust: 전투 시 필살 회피 {Variable=0}
+MSID_WindIceSpear: 바람을 가르는 빙창{Variable=0}
+MSID_H_WindIceSpear: 마법 공격에 속한다\n(사정 1-2의 창으로만 사용 가능)
+MSID_Rollover: 공수 교대{Variable=0}
+MSID_H_Rollover: 자신이 후공이 된다
+MSID_H_Rollover+: 자신이 후공이 된다.\n전투 시 방어력 {Variable=0}
+MSID_IceSpear: 빙창{Variable=0}
+MSID_H_IceSpear: 마법 공격에 속한다
+MSID_FlowingAttack: 유려한 일격{Variable=0}
+MSID_H_FlowingAttack: 공격 시 (기술÷2)%로 발동.\n무기 내구도가 줄어들지 않는다
+MSID_StrongThrow: 대투척{Variable=0}
+MSID_H_StrongThrow: 위력과 명중이 높다\n(사정 1-2의 창으로만 사용 가능)
+MSID_CavalryBury: 기병 매장의 연공{Variable=0}
+MSID_H_CavalryBury: {Variable=0}회 연속으로 공격한다.\n적이 기병 속성이면 명중 {Variable=1}\n(각 공격의 대미지는 {Variable=2}%)
+MSID_Tempest: 템페스트{Variable=0}
+MSID_H_Tempest: 위력과 명중이 높다
+MSID_NoDust: 무진
+MSID_H_NoDust: 야수 유효·용 유효
+MSID_Sun: 태양
+MSID_H_Sun: 준 대미지의 절반만큼\nHP를 회복한다
+MSID_SpearStarlight: 별빛의 반짝임
+MSID_H_SpearStarlight: 명귀 유효.\n마법 공격에 속한다\n(추격 불가)
+MSID_HolyAttack: 성격
+MSID_H_HolyAttack: 적 처치 시\n자신의 HP를 적당량 회복한다
+MSID_WindBlowing: 바람 꿰기
+MSID_H_WindBlowing: 명중 시 {Variable=0}%로 발동.\n반격을 받지 않는다
+MSID_KillingSpear: 필살창
+MSID_H_KillingSpear: 필살이 높다
+MSID_PowerThrow: 괴력 던지기
+MSID_H_PowerThrow: 명중이 낮지만 위력이 매우 높다
+MSID_FullMoon: 진월
+MSID_H_FullMoon: 전투 후 자신의 HP를 적당량 회복
+MSID_BlackRoar: 흑굉
+MSID_H_BlackRoar: 적 처치 시 물방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_CavalryBreak: 기병 파괴
+MSID_H_CavalryBreak: 적이 기병 속성이면 공격력 {Variable=0}
+MSID_OverlordSnake: 패사
+MSID_H_OverlordSnake: 사정거리가 길다\n(추격 불가)
+MSID_Spike: 스파이크{Variable=0}
+MSID_H_Spike: 명중이 높다
+MSID_Smash: 스매시{Variable=0}
+MSID_H_Smash: 필살이 높다
+MSID_HalfSpike: 하프 스파이크{Variable=0}
+MSID_H_HalfSpike: 전투 시 회피 {Variable=0}
+MSID_HelmetSplit: 투구 부수기{Variable=0}
+MSID_H_HelmetSplit: 중갑 유효
+MSID_ThrowAttack: 투격{Variable=0}
+MSID_H_ThrowAttack: 명중이 높다\n(사정 1-2의 도끼로만 사용 가능)
+MSID_SafeAttack: 세이프 어택{Variable=0}
+MSID_H_SafeAttack: 주는 대미지가 반감되는 대신\n적이 공격을 회피하면\n반격을 받지 않는다 (추격 불가)
+MSID_DoubleAttack: 더블 어택{Variable=0}
+MSID_H_DoubleAttack: {Variable=0}회 연속으로 공격한다\n(각 공격의 대미지는 {Variable=1}%)
+MSID_RageUp: 레이지 업{Variable=0}
+MSID_H_RageUp: 전투 후\n힘 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_ThrowingMagicAxe: 마부 투척{Variable=0}
+MSID_H_ThrowingMagicAxe: 마법 공격에 속한다\n(사정 1-2의 도끼로만 사용 가능)
+MSID_ReversalAttack: 역전 난무{Variable=0}
+MSID_H_ReversalAttack: 적이 추격 가능한 상태라면\n적 대신 자신이 추격한다
+MSID_CrazyAttack: 무아지경{Variable=0}
+MSID_H_CrazyAttack: 명중이 낮지만 위력이 높다
+MSID_WildFang: 전인의 일격{Variable=0}
+MSID_H_WildFang: 전투 후\n기술 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_SpearBreaker: 창 부수기{Variable=0}
+MSID_H_SpearBreaker: 적이 창을 장비 중이면 공격력 {Variable=0}
+MSID_H_SpearBreaker+: 적이 창을 장비 중이면\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_Crash: 크래시{Variable=0}
+MSID_H_Crash: 명중 시 {Variable=0}%의 확률로\n적을 혼란 상태로 만든다\n(추격 불가)
+MSID_AscertainAttack: 판별의 일격{Variable=0}
+MSID_H_AscertainAttack: 명중이 매우 높은 대신\n주는 대미지가 반감된다
+MSID_GuardSpike: 가드 스파이크{Variable=0}
+MSID_H_GuardSpike: 전투 시 물방 {Variable=0}
+MSID_LightningAx: 뇌부{Variable=0}
+MSID_H_LightningAx: 마법 공격에 속한다
+MSID_RiotAttack: 라이엇{Variable=0}
+MSID_H_RiotAttack: 추격 시 공격력 {Variable=0}
+MSID_GiantKiller: 거암 파괴{Variable=0}
+MSID_H_GiantKiller: 적이 대형 유닛이면 공격력 {Variable=0}
+MSID_H_GiantKiller+: 적이 대형 유닛이면\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_TripleSpike: 삼단 스파이크{Variable=0}
+MSID_H_TripleSpike: {Variable=0}회 연속으로 공격한다.\n공격이 빗나갈 때마다 명중 {Variable=1}
+MSID_H_TripleSpike+: {Variable=0}회 연속으로 공격한다.\n공격이 빗나갈 때마다\n명중·필살 {Variable=1}
+MSID_KillerSpike: 킬러 스파이크{Variable=0}
+MSID_H_KillerSpike: 위력과 필살이 높다
+MSID_PowerSpike: 파워 스파이크{Variable=0}
+MSID_H_PowerSpike: 위력과 명중이 높다
+MSID_TomahawkThrow: 강완 투척{Variable=0}
+MSID_H_TomahawkThrow: 위력과 명중이 높다\n(사정 1-2의 도끼로만 사용 가능)
+MSID_DoubleEagle: 더블 이글{Variable=0}
+MSID_H_DoubleEagle: {Variable=0}회 연속으로 공격한다\n(사정 1-2의 도끼로만 사용 가능)\n(각 공격의 대미지는 {Variable=1}%)
+MSID_MirrorWater: 명경지수{Variable=0}
+MSID_H_MirrorWater: 명중이 매우 높다
+MSID_MargeBlake: 메이지 브레이크{Variable=0}
+MSID_H_MargeBlake: 적이 마법을 장비 중이면\n공격력 {Variable=0}
+MSID_H_MargeBlake+: 적이 마법을 장비 중이면\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_FlashAttack: 순격{Variable=0}
+MSID_H_FlashAttack: 공격 및 추격 시\n(속도÷2)%로 발동.\n공격력 {Variable=0}
+MSID_BloodyBlitz: 혈풍철화{Variable=0}
+MSID_H_BloodyBlitz: 적 처치 시 방어력 {Variable=0}\n(1회 전투 후 초기화)
+MSID_WarDemon: 전귀의 일격{Variable=0}
+MSID_H_WarDemon: 주는 대미지가 {Variable=0}배로 증가한다
+MSID_GodAttack: 신격
+MSID_H_GodAttack: 위력이 매우 높다
+MSID_FireRing: 염환
+MSID_H_FireRing: 마력을 실은 일격.\n위력이 높다.\n마법 공격에 속한다
+MSID_Hazetsu: 패절{Variable=0}
+MSID_H_Hazetsu: 적의 「명부의 가호」를 무시하고\n대미지가 적용된다
+MSID_HellViscera: 명부의 내장
+MSID_H_HellViscera: 마력을 실은 일격.\n마법 공격에 속한다.\n명중 시 적을 독 상태로 만든다
+MSID_CrushingAttack: 분쇄의 일격
+MSID_H_CrushingAttack: 장애물을 파괴할 수 있다
+MSID_StormWalk: 폭풍 걸음
+MSID_H_StormWalk: 적 처치 시 공속 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_DemonSplit: 마법 찢기
+MSID_H_DemonSplit: 적이 마법을 장비 중이면\n명중 {Variable=0}, 공격력 {Variable=1}
+MSID_SpinTurn: 회선
+MSID_H_SpinTurn: 명중이 매우 높다
+MSID_MagicStrike: 마충타
+MSID_H_MagicStrike: 마력을 실은 일격.\n마법 공격에 속한다
+MSID_CriticalShot: 급소 공격{Variable=0}
+MSID_H_CriticalShot: 필살이 높다
+MSID_CurvedShot: 곡사{Variable=0}
+MSID_H_CurvedShot: 명중이 높다
+MSID_Sniper: 저격{Variable=0}
+MSID_H_Sniper: 사정거리가 길다\n(추격 불가)
+MSID_EnclosureArrow: 봉쇄의 화살{Variable=0}
+MSID_H_EnclosureArrow: 명중 시\n해당 적의 이동력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_SurpriseArrow: 기습 화살{Variable=0}
+MSID_H_SurpriseArrow: 적의 HP가 최대치면 {Variable=0}%로 발동.\n공격력 {Variable=1}
+MSID_BreakawayShot: 이탈 사격{Variable=0}
+MSID_H_BreakawayShot: 전투 후 1칸까지 이동할 수 있다
+MSID_SealArrow: 봉마의 화살{Variable=0}
+MSID_H_SealArrow: 명중 시 해당 적을\n마법 봉인 상태로 만든다
+MSID_LeadArrow: 납 화살{Variable=0}
+MSID_H_LeadArrow: 중갑 유효
+MSID_H_LeadArrow+: 중갑 유효.\n적이 중갑 속성이면 필살 {Variable=0}
+MSID_SnipeShot: 스나이프{Variable=0}
+MSID_H_SnipeShot: 적의 HP가 절반 이하면\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_LegShot: 다리 쏘기{Variable=0}
+MSID_H_LegShot: 명중 시 적의 회피 {Variable=0}\n(1회 전투 후 초기화)\n(추격 불가)
+MSID_ShadowShot: 그림자 화살{Variable=0}
+MSID_H_ShadowShot: 전투 시 회피 {Variable=0}
+MSID_GreatShot: 대강궁{Variable=0}
+MSID_H_GreatShot: 위력과 명중이 높다
+MSID_MagicalShot: 마법 화살{Variable=0}
+MSID_H_MagicalShot: 마법 공격에 속한다
+MSID_SpiralShot: 나선 쏘기{Variable=0}
+MSID_H_SpiralShot: 공격 시 (기술÷2)%로 발동.\n공격력 {Variable=0}
+MSID_PowerShot: 전력의 한 발{Variable=0}
+MSID_H_PowerShot: 명중이 낮지만 위력이 매우 높다
+MSID_MarksmanShot: 하이드 샷{Variable=0}
+MSID_H_MarksmanShot: 자신이 유리한 지형에 있으면\n공격력 {Variable=0}, 명중·필살 {Variable=1}
+MSID_SpiritArrow: 정령궁{Variable=0}
+MSID_H_SpiritArrow: 전투 시 항마 {Variable=0}
+MSID_BreakArrow: 브레이크 애로{Variable=0}
+MSID_H_BreakArrow: 공격 시 {Variable=0}%로 발동.\n공격력 {Variable=1}
+MSID_RandomShot: 난사{Variable=0}
+MSID_H_RandomShot: {Variable=0}회 연속으로 공격한다\n(각 공격의 대미지는 {Variable=1}%)
+MSID_ElegantShot: 유려한 사격{Variable=0}
+MSID_H_ElegantShot: {Variable=0}회 연속으로 공격한다\n(각 공격의 대미지는 {Variable=1}%)
+MSID_BowKillerShot: 활 킬러의 화살{Variable=0}
+MSID_H_BowKillerShot: 적이 활을 장비 중이면\n{Variable=0}회 연속으로 공격한다\n(각 공격의 대미지는 {Variable=1}%)
+MSID_SkyHunter: 스카이 헌터{Variable=0}
+MSID_H_SkyHunter: 적이 비행 속성이면 명중 {Variable=0}
+MSID_CalmCall: 고요{Variable=0}
+MSID_H_CalmCall: 적 처치 시 회피 {Variable=0}\n(1회 전투 후 초기화)
+MSID_PoisonHunter: 독 추적 화살
+MSID_H_PoisonHunter: 적이 독 상태라면\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_HeavenlyWind: 천풍
+MSID_H_HeavenlyWind: 사정거리가 매우 길다\n(추격 불가)
+MSID_HolyFlash: 성섬
+MSID_H_HolyFlash: 적 처치 시\n자신의 HP를 적당량 회복한다
+MSID_HunterCross: 헌터 크로스{Variable=0}
+MSID_H_HunterCross: 명중과 필살이 높다
+MSID_CalamityShot: 재앙 사격
+MSID_H_CalamityShot: 명중 시 적을 마법 봉인 상태 및\n이동 불능 상태로 만든다\n(추격 불가)
+MSID_ThunderStar: 뇌성
+MSID_H_ThunderStar: 마법 공격에 속한다.\n필살이 높다
+MSID_DrillShot: 천파
+MSID_H_DrillShot: 적의 방어력을 무시한다\n(추격 불가)
+MSID_FistBlow: 호권 일격{Variable=0}
+MSID_H_FistBlow: 명중이 높다
+MSID_SmashCombo: 활살 일격{Variable=0}
+MSID_H_SmashCombo: 필살이 높다
+MSID_MagicCut: 매직 컷{Variable=0}
+MSID_H_MagicCut: 전투 시 항마 {Variable=0}
+MSID_Tyman: 일대일{Variable=0}
+MSID_H_Tyman: 공격 명중 시\n적을 이동 불능 상태로 만든다
+MSID_FeintBlow: 페인트{Variable=0}
+MSID_H_FeintBlow: 전투 후 해당 적의 회피 {Variable=0}\n(1회 전투 후 초기화)
+MSID_BeatUp: 비트 업{Variable=0}
+MSID_H_BeatUp: 전투 후\n속도 {Variable=0} (최대 {Variable=1}까지 증가)\n(맵이 끝날 때까지)
+MSID_BackBlow: 백 블로{Variable=0}
+MSID_H_BackBlow: 전투 후 {Variable=0}칸까지 이동할 수 있다
+MSID_BackAssault: 백 어솔트{Variable=0}
+MSID_H_BackAssault: 전투 후 {Variable=0}칸까지 이동할 수 있다
+MSID_LivingFist: 활인권{Variable=0}
+MSID_H_LivingFist: 적의 HP가 {Variable=0} 이상이면\nHP를 {Variable=1} 남긴다 (추격 불가)
+MSID_JackHit: 잭 히트{Variable=0}
+MSID_H_JackHit: 공격 시 {Variable=0}%로 발동.\n공격력 {Variable=1}
+MSID_AssassinFist: 암살권{Variable=0}
+MSID_H_AssassinFist: 최소 {Variable=0} 이상의 대미지를 준다
+MSID_ArmorBreaker: 갑옷 깨기{Variable=0}
+MSID_H_ArmorBreaker: 중갑 유효
+MSID_H_ArmorBreaker+: 중갑 유효.\n적이 중갑 속성이면 필살 {Variable=0}
+MSID_MagicCombo: 매직 콤보{Variable=0}
+MSID_H_MagicCombo: {Variable=0}회 연속으로 공격한다.\n마법 공격에 속한다\n(각 공격의 대미지는 {Variable=1}%)
+MSID_CrashCombo: 녹아웃{Variable=0}
+MSID_H_CrashCombo: 명중 시 {Variable=0}%로 발동.\n적을 혼란 상태로 만든다\n(추격 불가)
+MSID_PowerCombo: 파워 콤보{Variable=0}
+MSID_H_PowerCombo: {Variable=0}회 연속으로 공격하는 대신\n자신의 명중이 반감된다
+MSID_CounterBlow: 카운터{Variable=0}
+MSID_H_CounterBlow: 자신이 후공이 된다.\n전투 시 회피 {Variable=0}
+MSID_BattleRush: 배틀 러시{Variable=0}
+MSID_H_BattleRush: 적의 반격보다 먼저 추격한다
+MSID_RazorFist: 예리한 철권{Variable=0}
+MSID_H_RazorFist: 필살의 일격이 발동한 경우\n무기 내구도가 줄어들지 않는다
+MSID_SpiritFist: 정령권{Variable=0}
+MSID_H_SpiritFist: 공격 시 (마방÷2)%로 발동.\n공격력 {Variable=0}
+MSID_MindBlow: 심안의 일격{Variable=0}
+MSID_H_MindBlow: 명중이 매우 높다
+MSID_SpiritBlow: 영혼 일격{Variable=0}
+MSID_H_SpiritBlow: 위력과 명중이 높다
+MSID_RevivalAttack: 리바이벌{Variable=0}
+MSID_H_RevivalAttack: 적 처치 시\n자신의 HP를 대량 회복한다
+MSID_GauntletTron: 뇌갑 트론
+MSID_H_GauntletTron: 마법 공격에 속한다
+MSID_BlowHeel: 블로&힐{Variable=0}
+MSID_H_BlowHeel: 전투 후\n보조 마법을 사용할 수 있다
+MSID_KillingBeat: 필살갑
+MSID_H_KillingBeat: 필살이 높다
+MSID_FlameDrill: 염천
+MSID_H_FlameDrill: 주는 대미지가 {Variable=0}배로 증가한다
+MSID_FantasyRapid: 환신
+MSID_H_FantasyRapid: 전투 시\n자신의 회피 {Variable=0}, 적의 회피 {Variable=1}
+MSID_ViolentClaw: 폭조
+MSID_H_ViolentClaw: {Variable=0}회 연속으로 공격한다\n(각 공격의 대미지는 {Variable=1}%)
+MSID_FlameRing: 염륜
+MSID_H_FlameRing: 적의 반격보다 먼저 추격한다.\n마법 공격에 속한다
+MSID_CompressedBullet: 과압축 광탄
+MSID_H_CompressedBullet: 마법 공격에 속한다
+MSID_ShadowSlash: 낙영의 칼날{Variable=0}
+MSID_H_ShadowSlash: 적이 유리한 지형에 있으면\n해당 지형의 영향을 무시한다
+MSID_KnightSpear: 기사 열창{Variable=0}
+MSID_H_KnightSpear: 해당 전투 중 추격을 받지 않는다
+MSID_MagicTwinAxe: 마풍 연격{Variable=0}
+MSID_H_MagicTwinAxe: 전투 시 (마력÷2)%로 발동.\n공속에 상관없이 추격한다
+MSID_WarningShot: 경계 사격{Variable=0}
+MSID_H_WarningShot: 전투 시 회피 {Variable=0}
+MSID_CautionBlow: 신중한 일격{Variable=0}
+MSID_H_CautionBlow: 전투 시 회피 {Variable=0}
+MSID_BattleBlow: 배틀 블로{Variable=0}
+MSID_H_BattleBlow: 자신의 HP가 최대치면\n공격력 {Variable=0}
+MSID_MagicBlow: 매직 블로{Variable=0}
+MSID_H_MagicBlow: 마법 공격에 속한다
+MSID_ClearMind: 무념무상
+MSID_H_ClearMind: 자신을 방어력 반전 상태로 만든다.\n방어력 반전: 수비와 마방이 뒤바뀐다\n(1회 전투 또는 1턴 후 해제)
+MSID_IncenseBurner: 향로의 장치
+MSID_Replacement: 바꾸기
+MSID_H_Replacement: 【보병】 인접한 아군과\n자신의 위치를 바꾼다\n(대형 유닛에게는 사용 불가)
+MSID_Attract: 끌어당기기
+MSID_H_Attract: 【보병】 인접한 아군을 끌어당겨\n함께 {Variable=0}칸 뒤로 이동한다\n(대형 유닛에게는 사용 불가)
+MSID_BodyAttack: 밀어내기
+MSID_H_BodyAttack: 【보병】 인접한 아군을 밀어내\n앞으로 {Variable=0}칸 이동시킨다\n(대형 유닛에게는 사용 불가)
+MSID_Guard: 수호의 자세
+MSID_H_Guard: 【보병】 자신의 수비 {Variable=0},\n회피 {Variable=1}\n(다음 자신의 페이즈 전까지)
+MSID_MagicGuard: 마방의 자세
+MSID_H_MagicGuard: 【보병】 자신의 마방 {Variable=0},\n회피 {Variable=1}\n(다음 자신의 페이즈 전까지)
+MSID_OffensiveCommand: 공세 지휘{Variable=0}
+MSID_H_OffensiveCommand: 아군의 힘 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_OffensiveCommand+: 아군의 힘 {Variable=0}\n(다음 자신의 페이즈 전까지)\n(사용 후 공격 가능)
+MSID_DefenseCommand: 방위 지휘{Variable=0}
+MSID_H_DefenseCommand: 아군의 수비 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_DefenseCommand+: 아군의 수비 {Variable=0}\n(다음 자신의 페이즈 전까지)\n(사용 후 공격 가능)
+MSID_MagicCommand: 마법 지휘{Variable=0}
+MSID_H_MagicCommand: 아군의 마력·마방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_MagicCommand+: 아군의 마력·마방 {Variable=0}\n(다음 자신의 페이즈 전까지)\n(사용 후 공격 가능)
+MSID_SpeedCommand: 공속 지휘{Variable=0}
+MSID_H_SpeedCommand: 아군의 속도 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_SpeedCommand+: 아군의 속도 {Variable=0}\n(다음 자신의 페이즈 전까지)\n(사용 후 공격 가능)
+MSID_DestinyCommand: 명운 지휘{Variable=0}
+MSID_H_DestinyCommand: 아군의 행운 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_DestinyCommand+: 아군의 행운 {Variable=0}\n(다음 자신의 페이즈 전까지)\n(사용 후 공격 가능)
+MSID_TechnicalCommand: 기술 지휘{Variable=0}
+MSID_H_TechnicalCommand: 아군의 기술 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_TechnicalCommand+: 아군의 기술 {Variable=0}\n(다음 자신의 페이즈 전까지)\n(사용 후 공격 가능)
+MSID_Dance: 춤추기
+MSID_H_Dance: 아군을 다시 행동하게 한다
+MSID_Trick: 트릭
+MSID_H_Trick: 범위 내 아군과\n자신의 위치를 바꾼다\n(대형 유닛에게는 사용 불가)
+MSID_BlowAway: 날려 버리기
+MSID_H_BlowAway: 【보병】 인접한 아군을 밀어내\n앞으로 {Variable=0}칸 이동시킨다\n(대형 유닛에게는 사용 불가)
+MSID_CourageSong: 용기의 노래
+MSID_H_CourageSong: 범위 내 아군의 기술·속도 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_ProtectionSong: 평온의 노래
+MSID_H_ProtectionSong: 범위 내 아군의 마방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_EmotionalSong: 정서의 노래
+MSID_H_EmotionalSong: 범위 내 아군의 힘 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_FirstAidFormation: 응급 처치의 자세
+MSID_H_FirstAidFormation: 「응급 처치」의 범위가\n주위 {Variable=0}칸까지 확대된다\n(다음 자신의 페이즈 전까지)
+MSID_KnightFormation: 수호 기사 전수
+MSID_H_KnightFormation: 아군에게 「수호 기사의 의무」를\n부여한다\n(다음 자신의 페이즈 전까지)
+MSID_ArmorFuneralFormation: 갑옷 장례 전수
+MSID_H_ArmorFuneralFormation: 아군에게 「갑옷 장례」를 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_BackupFormation: 조력의 자세
+MSID_H_BackupFormation: 「조력」의 범위가\n주위 {Variable=0}칸까지 확대된다\n(다음 자신의 페이즈 전까지)
+MSID_FirstMoveFormation: 선수 필승 지침
+MSID_H_FirstMoveFormation: 범위 내 아군에게\n「선수 필승」을 부여한다\n(해당 페이즈 동안만 적용)
+MSID_OneShotFormation: 한 방 승부 전수
+MSID_H_OneShotFormation: 아군에게 「한 방 승부」를 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_TransgressionFormation: 파계승 전수
+MSID_H_TransgressionFormation: 아군에게 「파계승」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_ForceForwardFormation: 강행 돌파 지침
+MSID_H_ForceForwardFormation: 범위 내 아군에게\n「강행 돌파」를 부여한다\n(해당 페이즈 동안만 적용)
+MSID_CounterFormation: 반격 지침
+MSID_H_CounterFormation: 범위 내 아군에게\n「숙련된 반격술」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_BodyguardFormation: 경호원의 자세
+MSID_H_BodyguardFormation: 「경호원」의 범위가\n주위 {Variable=0}칸까지 확대된다\n(다음 자신의 페이즈 전까지)
+MSID_ConcentratFormation: 집중 지침
+MSID_H_ConcentratFormation: 범위 내 아군에게\n「집중」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_HunterFormation: 사냥꾼 지침
+MSID_H_HunterFormation: 범위 내 아군에게\n「사냥꾼의 매복」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_StrongFormation: 강자 지침
+MSID_H_StrongFormation: 범위 내 아군에게\n「역전의 강자」를 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_BigAttackFormation: 큰 기술 지침
+MSID_H_BigAttackFormation: 범위 내 아군에게\n「큰 기술」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_UnjuFormation: 운수 전수
+MSID_H_UnjuFormation: 아군에게 「운수」를 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_ViolenceFormation: 포학 지침
+MSID_H_ViolenceFormation: 범위 내 아군에게\n「포학」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_HealingFormation: 치유 지침
+MSID_H_HealingFormation: 범위 내 아군에게\n「치유의 지식」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_SafeguardFormation: 안전책 지침
+MSID_H_SafeguardFormation: 범위 내 아군에게\n「안전책」을 부여한다\n(다음 자신의 페이즈 전까지)
+MSID_GaleFormation: 질풍 지침
+MSID_H_GaleFormation: 범위 내 아군에게\n「질풍」을 부여한다\n(해당 페이즈 동안만 적용)
+MSID_SoulStrike: 비전·혈아{Variable=0}
+MSID_H_SoulStrike: 준 대미지의 절반만큼\nHP를 회복한다
+MSID_SwallowDrop: 비전·제비 떨구기{Variable=0}
+MSID_H_SwallowDrop: 명중 시 적이 비행 속성이면\n적의 이동력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_Ryusui: 비전·유수{Variable=0}
+MSID_H_Ryusui: 전투 시 회피 {Variable=0}.\n공속에 상관없이 추격하는 대신\n전투 중 주는 대미지가 반감된다
+MSID_DemonSlayer: 비전·거격 파훼{Variable=0}
+MSID_H_DemonSlayer: 전투 시 적이 대형 유닛이면\n자신이 받는 대미지가 반감된다
+MSID_WindJavelin: 비전·부동관창{Variable=0}
+MSID_H_WindJavelin: 적의 공속이 자신보다 {Variable=0} 이상\n높으면 명중 {Variable=1}\n(사정 1-2의 창으로만 사용 가능)
+MSID_SwordKiller: 비전·필살 흘리기{Variable=0}
+MSID_H_SwordKiller: 전투 중 및 전투 후\n자신의 필살 회피 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_ForcedSniper: 비전·원뢰{Variable=0}
+MSID_H_ForcedSniper: 사정거리가 긴 대신\n내구 소비가 매우 크다\n(추격 불가)
+MSID_DefeatingFist: 비전·파사 철권{Variable=0}
+MSID_H_DefeatingFist: 명중 시\n적의 「명부의 가호」를 무효화한다\n(1회 전투 후 초기화)
+MSID_DragonSlayer: 비전·절인{Variable=0}
+MSID_H_DragonSlayer: 필살이 매우 높은 대신\n명중이 {Variable=0}%까지 저하\n(추격 불가)
+MSID_SoulCrown: 혼백의 천관
+MSID_H_SoulCrown: 공격 시 {Variable=0}%로 발동.\n공격력 {Variable=1}
+MSID_ApostolicCrown: 사도의 천관
+MSID_H_ApostolicCrown: 공격 시 {Variable=0}%로 발동.\n명중 {Variable=1}
+MSID_EarthCrown: 대지의 천관
+MSID_H_EarthCrown: 공격 시 {Variable=0}%로 발동.\n공격력 {Variable=1}
+MSID_WinnerCrown: 승자의 천관
+MSID_H_WinnerCrown: 공격 시 {Variable=0}%로 발동.\n공격력 {Variable=1}
+MSID_CourageCrown: 용기의 천관
+MSID_H_CourageCrown: 공격 시 {Variable=0}%로 발동.\n주는 대미지가 {Variable=1}배로 증가한다
+MSID_LibraCrown: 천칭의 천관
+MSID_H_LibraCrown: 공격 시 {Variable=0}%로 발동.\n반격을 받지 않는다
+MSID_EternalCrown: 영원의 천관
+MSID_H_EternalCrown: 공격 시 {Variable=0}%로 발동.\n자신의 HP를 적당량 회복한다
+MSID_PlayCrown: 재생의 천관
+MSID_H_PlayCrown: 공격 시 {Variable=0}%로 발동.\n자신의 HP를 소량 회복한다
+MSID_BondageCrown: 속박의 천관
+MSID_H_BondageCrown: 공격 시 {Variable=0}%로 발동.\n주는 대미지가 {Variable=1}배로 증가한다
+MSID_HermitCrown: 고고의 천관
+MSID_H_HermitCrown: 공격 시 {Variable=0}%로 발동.\n명중 {Variable=1}
+MSID_DedicationCrown: 헌신의 천관
+MSID_H_DedicationCrown: 공격 시 {Variable=0}%로 발동.\n자신의 HP를 대량 회복한다
+MSID_ProphetCrown: 예언자의 천관
+MSID_H_ProphetCrown: 공격 시 {Variable=0}%로 발동.\n명중 {Variable=1}
+MSID_IgnoranceCrown: 무명의 천관
+MSID_H_IgnoranceCrown: 공격 시 {Variable=0}%로 발동.\n공격력 {Variable=1}, 명중 {Variable=2}
+MSID_WisemanCrown: 현자의 천관
+MSID_H_WisemanCrown: 공격 시 {Variable=0}%로 발동.\n자신의 HP를 적당량 회복,\n공격력 {Variable=1}
+MSID_ClawStrike: 강조격
+MSID_H_ClawStrike: 명중 시 적의 수비 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_BigDust: 대사진
+MSID_H_BigDust: 명중 시\n적을 이동 불능 상태로 만든다
+MSID_RockThrow: 대암투
+MSID_H_RockThrow: 사정거리 내에 범위 공격을 가한다
+MSID_Titanomachy: 티타노마키아
+MSID_H_Titanomachy: 명중 시 적의 속도 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_AnnihilationSlash: 섬멸참
+MSID_H_AnnihilationSlash: 명중 시 적의 마방 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_BodyPress: 보디 프레스
+MSID_H_BodyPress: 사정거리 내에 범위 공격을 가한다.\n이동하면서 공격한다
+MSID_CrackSky: 대열공
+MSID_H_CrackSky: 명중 시\n적을 이동 불능 상태로 만든다
+MSID_GreatWhirlwind: 대선풍
+MSID_H_GreatWhirlwind: 마법 공격.\n명중 시\n적을 이동 불능 상태로 만든다
+MSID_HeavyRush: 중돌진
+MSID_H_HeavyRush: 이동하면서 공격한다
+MSID_H_HeavyRush_P: 이동하면서 공격한다.\n전투 후 방어력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_Rush: 돌진
+MSID_H_Rush: 이동하면서 공격한다
+MSID_H_Rush_P: 이동하면서 공격한다.\n전투 후 수비 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_Flash: 일섬
+MSID_H_Flash: 명중 시\n적의 방어력을 반감시킨다\n(다음 자신의 페이즈 전까지)
+MSID_GiantSlalom: 대회전
+MSID_H_GiantSlalom: 주위에 범위 공격을 가한다
+MSID_MiasmaBreath: 독기의 브레스
+MSID_H_MiasmaBreath: 마법 공격.\n명중 시\n적을 혼란 상태로 만든다
+MSID_LightBreath: 빛의 브레스
+MSID_H_LightBreath: 마법 공격
+MSID_FlameBreath: 불꽃의 브레스
+MSID_H_FlameBreath: 마법 공격
+MSID_PoisonBreath: 독의 브레스
+MSID_H_PoisonBreath: 마법 공격.\n명중 시 적을 독 상태로 만든다
+MSID_RadioWave: 독괴 전파
+MSID_H_RadioWave: 사정거리 내에 범위 공격을 가한다.\n범위 내 적을 혼란 상태로 만든다
+MSID_MendeZeruel: 멘데제르엘
+MSID_H_MendeZeruel: 사정거리 내에 범위 공격을 가한다.\n마법 공격
+MSID_FallEclipse: 절망의 그림자
+MSID_H_FallEclipse: 마법 공격.\n명중 시\n적을 이동 불능 상태로 만든다
+MSID_PowerEfficacy: 힘의 효능{Variable=0}
+MSID_H_PowerEfficacy: 힘 {Variable=0}
+MSID_SpeedEfficacy: 속도의 효능{Variable=0}
+MSID_H_SpeedEfficacy: 속도 {Variable=0}
+MSID_CriticalEfficacy: 필살의 효능{Variable=0}
+MSID_H_CriticalEfficacy: 필살 {Variable=0}
+MSID_AvoidEfficacy: 회피의 효능{Variable=0}
+MSID_H_AvoidEfficacy: 회피 {Variable=0}
+MSID_PursuitEfficacy: 추격의 효능{Variable=0}
+MSID_H_PursuitEfficacy: 추격 시 공격력 {Variable=0}
+MSID_ActiveEfficacy: 초활성의 효능{Variable=0}
+MSID_H_ActiveEfficacy: 전투 후 {Variable=0}%로 발동.\n다시 행동한다
+MSID_FearlessEfficacy: 대담무쌍의 효능
+MSID_H_FearlessEfficacy: 공격력 {Variable=0}, 회피 {Variable=1}
+MSID_OutragedEfficacy: 노기충천의 효능
+MSID_H_OutragedEfficacy: 공격력 {Variable=0}, 명중 {Variable=1}
+MSID_CombatEfficacy: 전투 기술의 효능{Variable=0}
+MSID_H_CombatEfficacy: 전투 기술로 공격 시\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_SharpEfficacy: 전투 기술 첨예의 효능
+MSID_H_SharpEfficacy: 전투 기술로 공격 시 {Variable=0}%로 발동.\n해당 전투 중\n무기 내구도가 줄어들지 않는다
+MSID_ImmunityEfficacy: 독 내성의 효능
+MSID_H_ImmunityEfficacy: 독 상태가 되지 않는다
+MSID_TechniqueEfficacy: 기술의 효능{Variable=0}
+MSID_H_TechniqueEfficacy: 기술 {Variable=0}
+MSID_DefenseEfficacy: 수비의 효능{Variable=0}
+MSID_H_DefenseEfficacy: 수비 {Variable=0}
+MSID_HitEfficacy: 명중의 효능{Variable=0}
+MSID_H_HitEfficacy: 명중 {Variable=0}
+MSID_ImmovableEfficacy: 부동 내성의 효능
+MSID_H_ImmovableEfficacy: 이동 불능 상태가 되지 않는다
+MSID_MovingEfficacy: 이동의 효능{Variable=0}
+MSID_H_MovingEfficacy: 이동력 {Variable=0}
+MSID_HealingEfficacy: 치유의 효능{Variable=0}
+MSID_H_HealingEfficacy: 전투 후 {Variable=0}%로 발동.\n자신의 HP를 소량 회복한다
+MSID_BigHealingEfficacy: 치유의 효능: 대
+MSID_H_BigHealingEfficacy: 전투 후 {Variable=0}%로 발동.\n자신의 HP를 최대치까지 회복한다
+MSID_PhysiqueEfficacy: 체격의 효능
+MSID_H_PhysiqueEfficacy: 체격 {Variable=0}
+MSID_LifeEfficacy: 생명력의 효능{Variable=0}
+MSID_H_LifeEfficacy: HP {Variable=0}
+MSID_MPowerEfficacy: 마력의 효능{Variable=0}
+MSID_H_MPowerEfficacy: 마력 {Variable=0}
+MSID_MDefenseEfficacy: 마방의 효능{Variable=0}
+MSID_H_MDefenseEfficacy: 마방 {Variable=0}
+MSID_LuckEfficacy: 행운의 효능{Variable=0}
+MSID_H_LuckEfficacy: 행운 {Variable=0}
+MSID_RecoveryEfficacy: 회복력의 효능{Variable=0}
+MSID_H_RecoveryEfficacy: 마법으로 아군을 회복할 때\n회복량 {Variable=0}
+MSID_ResistEfficacy: 마법 봉인 내성의 효능
+MSID_H_ResistEfficacy: 마법 봉인 상태가 되지 않는다
+MSID_SerenityEfficacy: 평온의 효능{Variable=0}
+MSID_H_SerenityEfficacy: 마법 공격 시 {Variable=0}%로 발동.\n해당 전투 중\n마법 횟수가 줄어들지 않는다
+MSID_AbsorptionEfficacy: 흡수의 효능{Variable=0}
+MSID_H_AbsorptionEfficacy: 마법 공격 시 {Variable=0}%로 발동.\n준 대미지의 절반만큼\nHP를 회복한다
+MSID_VisionEfficacy: 시야의 효능
+MSID_H_VisionEfficacy: 시야 {Variable=0}
+MSID_WeightEfficacy: 마법 경량의 효능
+MSID_H_WeightEfficacy: 마법 장비 시 공속 {Variable=0}
+MSID_CharmEfficacy: 매력의 효능{Variable=0}
+MSID_H_CharmEfficacy: 매력 {Variable=0}
+MSID_ForwardConfusion: 전방 교란
+MSID_AssaultConfusion: 돌격 교란
+MSID_ShootingConfusion: 교란 사격
+MSID_AssaultStrategy: 일제 돌격
+MSID_Brawl: 대난투
+MSID_FireStrategy: 화계
+MSID_PoisonStrategy: 독계
+MSID_GreatFireStrategy: 대화계
+MSID_GreatPoisonStrategy: 대독계
+MSID_CavalryConfusion: 기병 교란계
+MSID_AntiairConfusion: 대공 교란계
+MSID_FlameSpread: 산염 마법
+MSID_SurroundingIce: 주빙 마법
+MSID_DirectionThunder: 향뢰 마법
+MSID_SealingStrategy: 봉마계
+MSID_SiegeStrategy: 봉계계
+MSID_CollectiveWhite: 범위 회복
+MSID_FormationRecovery: 대열 회복
+MSID_ResonanceWhite: 공명 회복
+MSID_FormationWings: 양익 진형
+MSID_FormationTwin: 쌍벽 진형
+MSID_FormationSnake: 장사 진형
+MSID_FormationDirections: 사방 진형
+MSID_FormationScattered: 사산 진형
+MSID_FormationIronclad: 철벽 진형
+MSID_FormationEagle: 대익 진형
+MSID_FormationCrane: 학익 진형
+MSID_FormationCobra: 대사 진형
+MSID_FormationSquare: 방원 진형
+MSID_GreatForwardConfusion: 전방 교란: 대
+MSID_GreatAssaultConfusion: 돌격 교란: 대
+MSID_GreatShootingConfusion: 교란 사격: 대
+MSID_GreatAssaultStrategy: 일제 돌격: 대
+MSID_SniperConfusion: 교란 저격
+MSID_GreatSniperConfusion: 교란 저격: 대
+MSID_SpearWall: 창금
+MSID_GreatSpearWall: 대창금
+MSID_SurroundingFire: 주염 마법
+MSID_SurroundingThunder: 주뢰 마법
+MSID_IceSpread: 산빙 마법
+MSID_ThunderSpread: 산뢰 마법
+MSID_FlameShooting: 사염계
+MSID_IceShooting: 사빙계
+MSID_ThunderShooting: 사뢰계
+MSID_DefenseMagicFire: 방염 마법
+MSID_DefenseMagicIce: 방빙 마법
+MSID_DefenseMagicThunder: 방뢰 마법
+MSID_IceLine: 빙렬 마법
+MSID_ThunderLine: 뇌열 마법
+MSID_IceWorld: 빙계 마법
+MSID_ThunderWorld: 뇌계 마법
+MSID_GreatFormationRecovery: 대열 회복: 대
+MSID_GroupDetoxify: 집단 해독
+MSID_JointRecovery: 공동 회복
+MSID_GreatJointRecovery: 공동 회복: 대
+MSID_DistantRecovery: 원거리 회복
+MSID_GreatDistantRecovery: 원거리 회복: 대
+MSID_WidespreadRecovery: 광범위 회복
+MSID_GreatWidespreadRecovery: 광범위 회복: 대
+MSID_MixedPoisonMagic: 혼독 회복
+MSID_FullRecovery: 완전 회복
+MSID_WavesWhite: 파동 회복: 대
+MSID_FormationLine: 종렬 진형
+MSID_GreatFormationLine: 종렬 진형: 대
+MSID_GreatFormationIronclad: 철벽 진형: 대
+MSID_FormationThree: 삼방 진형
+MSID_GreatFormationThree: 삼방 진형: 대
+MSID_FormationDoubleWings: 쌍익 진형
+MSID_FormationDoubleWalls: 양벽 진형
+MSID_FormationDoubleForts: 양새 진형
+MSID_FormationFence: 방책 진형
+MSID_FormationDivided: 분단 진형
+MSID_FormationCastle: 성채 진형
+MSID_H_ForwardConfusion: 명중 시 해당 적을\n이동 불능 상태로 만든다
+MSID_H_AssaultStrategy: 위력 중시의 물리 공격
+MSID_H_FireStrategy: 범위 내 지형을 「화재」로 만든다
+MSID_H_PoisonStrategy: 명중 시 해당 적을\n독 상태로 만든다
+MSID_H_CavalryConfusion: 기병 유효.\n명중 시 적이 기병 속성이면\n해당 적을 이동 불능 상태로 만든다
+MSID_H_AntiairConfusion: 비행 특효.\n명중 시 적이 비행 속성이면\n해당 적을 이동 불능 상태로 만든다
+MSID_H_FlameSpread: 마법으로 일정 범위를 공격한다
+MSID_H_SealingStrategy: 명중 시 해당 적을\n마법 봉인 상태로 만든다
+MSID_H_SiegeStrategy: 명중 시 해당 적을\n계략 봉인 상태로 만든다
+MSID_H_FormationWings: 지정 범위를\n진입 불가 상태로 만든다
+MSID_H_DefenseMagic: 마법으로 일정 범위를 공격한다.\n명중할 때마다 자신의 방어력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_GroupRecoveryS: 범위 내 아군의 HP를 소량 회복
+MSID_H_GroupRecoveryM: 범위 내 아군의 HP를 적당량 회복
+MSID_H_GroupRecoveryL: 범위 내 아군의 HP를 대량 회복
+MSID_H_GroupDetoxify: 범위 내 아군의 독 상태를 해제한다
+MSID_H_JointRecoveryS: 범위 내 아군의 HP를 소량 회복,\n범위 내 아군 한 명당\n자신의 HP를 소량 회복
+MSID_H_JointRecoveryM: 범위 내 아군의 HP를 적당량 회복,\n범위 내 아군 한 명당\n자신의 HP를 소량 회복
+MSID_H_MixedPoisonMagic: 범위 내 아군의 HP를\n대량 회복하는 대신\n해당 아군을 독 상태로 만든다
+MSID_H_FullRecovery: 범위 내 아군의 HP를\n최대치까지 회복한다
+MSID_H_ForwardConfusion_Bow: 비행 특효.\n명중 시 해당 적을\n이동 불능 상태로 만든다
+MSID_H_AssaultStrategy_Spear: 기병 유효.\n위력 중시의 물리 공격
+MSID_Fotona: 포트나의 가호
+MSID_H_Fotona: 전투 맵에서 취한 행동을 되돌릴 수 있다
+MSID_Mars: 마스의 가호
+MSID_H_Mars1: 1턴 동안, 물리 공격의 명중 {Variable=0}
+MSID_H_Mars2: 1턴 동안, 적 처치 시 HP를 적당량 회복
+MSID_H_Mars3: 1턴 동안, 힘 {Variable=0}
+MSID_Clair: 크레르의 가호
+MSID_H_Clair1: 1턴 동안, 시야 {Variable=0}
+MSID_H_Clair2: 1턴 동안, 무기 내구도가 줄어들지 않는다
+MSID_H_Clair3: 1턴 동안, 적 페이즈일 때의 전투 시 자신이 선공이 된다
+MSID_Cara: 칼라의 가호
+MSID_H_Cara1: 1턴 동안, 회피 {Variable=0}
+MSID_H_Cara2: 1턴 동안, 속도 {Variable=0}
+MSID_H_Cara3: 1턴 동안, 이동력 {Variable=0}
+MSID_Juno: 주라의 가호
+MSID_H_Juno1: 1턴 동안, 유효·특효 무효화
+MSID_H_Juno2: 1턴 동안, 추격을 받지 않는다
+MSID_H_Juno3: 1턴 동안, 필살의 일격을 받지 않는다
+MSID_Smirnoth: 스미르노스의 가호
+MSID_H_Smirnoth1: 1턴 동안, 마법 공격의 명중 {Variable=0}
+MSID_H_Smirnoth2: 1턴 동안, 마법의 사정 {Variable=0}
+MSID_H_Smirnoth3: 1턴 동안, 마력 {Variable=0}
+MSID_Aurora: 아우로라의 가호
+MSID_H_Aurora1: 1턴 동안, 물리 공격으로 받는 대미지 반감
+MSID_H_Aurora2: 1턴 동안, 마법 공격으로 받는 대미지 반감
+MSID_H_Aurora3: 1턴 동안, 전투 시 적의 「명부의 가호」 무효화
+MSID_ReMove: 재이동{Variable=0}
+MSID_H_ReMove: 【기병】 전투 후 {Variable=0}칸까지\n이동할 수 있다
+MSID_SharedRunning: 연계 질주{Variable=0}
+MSID_H_SharedRunning: 【기병】 이동력 {Variable=0}
+MSID_SharedArousal: 연계 환기{Variable=0}
+MSID_H_SharedArousal: 【기병】 필살 회피 {Variable=0}
+MSID_SharedConcentration: 연계 전투 기술 집중{Variable=0}
+MSID_H_SharedConcentration: 【기병】 전투 기술로 공격 시\n명중 {Variable=0}
+MSID_SharedOnslaught: 연계 맹공격{Variable=0}
+MSID_H_SharedOnslaught: 【기병】 전투 기술로 공격 시\n공격력 {Variable=0}
+MSID_SharedMiracle: 연계 기적{Variable=0}
+MSID_H_SharedMiracle: 【기병】 행운 {Variable=0}
+MSID_SharedHealing: 연계 치유{Variable=0}
+MSID_H_SharedHealing: 【기병】 전투 후 자신의 HP를\n소량 회복한다
+MSID_H_SharedHealing+: 【기병】 전투 후 자신의 HP를\n적당량 회복한다
+MSID_SharedCovert: 연계 은밀{Variable=0}
+MSID_H_SharedCovert: 【기병】 전투 시 자신이\n유리한 지형에 있으면 회피 {Variable=0}
+MSID_H_SharedCovert+: 【기병】 전투 시 자신이\n유리한 지형에 있으면\n회피 {Variable=0}, 방어력 {Variable=1}
+MSID_SharedPurification: 연계 정화{Variable=0}
+MSID_H_SharedPurification: 【기병】 자신의 페이즈가 개시될 때\n{Variable=0}%의 확률로\n독 상태가 해제된다
+MSID_H_SharedPurification+: 【기병】 자신의 페이즈가 개시될 때\n독 상태가 해제된다
+MSID_SharedHuge: 연계 거구{Variable=0}
+MSID_H_SharedHuge: 【기병】 체격 {Variable=0}
+MSID_SharedProtection: 연계 방호{Variable=0}
+MSID_H_SharedProtection: 【기병】 필살의 일격을 받을 때\n받는 대미지가 {Variable=0}%로 줄어든다
+MSID_SharedMagicFocus: 연계 마법 집중{Variable=0}
+MSID_H_SharedMagicFocus: 【기병】 마법 장비 시 명중 {Variable=0}
+MSID_SharedMagicSharpness: 연계 마법 첨예{Variable=0}
+MSID_H_SharedMagicSharpness: 【기병】 마법 장비 시 필살 {Variable=0}
+MSID_FlyingReMove: 비행 재이동{Variable=0}
+MSID_H_FlyingReMove: 【비행】 전투 후 {Variable=0}칸까지\n이동할 수 있다
+MSID_SharedFlight: 연계 비상{Variable=0}
+MSID_H_SharedFlight: 【비행】 이동력 {Variable=0}
+MSID_SharedAntiMagic: 연계 대마법{Variable=0}
+MSID_H_SharedAntiMagic: 【비행】 전투 시\n적이 마법을 장비 중이면 공격력 {Variable=0}
+MSID_SharedSMagic: 연계 고속 마법{Variable=0}
+MSID_H_SharedSMagic: 【비행】 마법 장비 시 공속 {Variable=0}
+MSID_SharedWind: 연계 선풍{Variable=0}
+MSID_H_SharedWind: 【비행】 전투 시\n적이 활을 장비 중이면 회피 {Variable=0}
+MSID_SharedStorm: 연계 폭풍{Variable=0}
+MSID_H_SharedStorm: 【비행】 추격 시 공격력 {Variable=0}
+MSID_H_SharedConcentrationFlight: 【비행】 전투 기술로 공격 시\n명중 {Variable=0}
+MSID_H_SharedOnslaughtFlight: 【비행】 전투 기술로 공격 시\n공격력 {Variable=0}
+MSID_SharedTough: 연계 강인{Variable=0}
+MSID_H_SharedTough: 【비행】 공격받을 때 적의 공격이\n자신에게 유효 또는 특효라면\n받는 대미지가 {Variable=0}%로 줄어든다
+MSID_H_SharedTough+: 【비행】 공격받을 때 적의 공격이\n자신에게 유효 또는 특효라면\n받는 대미지가 반감된다
+MSID_SharedMigration: 연계 대이동{Variable=0}
+MSID_H_SharedMigration: 【기병】 이동력 {Variable=0}
+MSID_PoisonAttack: 독 공격
+MSID_H_PoisonAttack: 공격 명중 시\n적을 독 상태로 만든다
+MSID_Poisoner: 독 사용자
+MSID_H_Poisoner: 물리 공격 명중 시\n적을 독 상태로 만든다
+MSID_WaterCrossing: 물 건너기
+MSID_H_WaterCrossing: 자신이 수상 지형에 있으면\n회피 {Variable=0}
+MSID_Vitality: 생명력
+MSID_H_Vitality: 자신의 페이즈가 개시될 때\nHP를 소량 회복한다
+MSID_ProtectiveBarrier: 수호 결계
+MSID_H_ProtectiveBarrier: 인접한 아군의 방어력 {Variable=0}
+MSID_GodlyBody: 신위의 육체
+MSID_H_GodlyBody: 자신의 HP가 {Variable=0} 이상이고\nHP가 0이 되는 대미지를 받았을 때\nHP가 1 남는다
+MSID_Beckoning: 명부로의 손짓
+MSID_H_Beckoning: 공격 명중 시\n적의 최대 HP {Variable=0}
+MSID_CorpseEater: 시체 먹기
+MSID_H_CorpseEater: 적 처치 시 자신의 HP를\n{Variable=0} 회복한다
+MSID_BloodThirst: 피의 갈증
+MSID_H_BloodThirst: 공격 명중 시 자신의\nHP를 {Variable=0} 회복한다
+MSID_Activation: 활성화
+MSID_H_Activation: 「생명력」의 회복량이 증가한다
+MSID_FocusMode: 포커스 모드
+MSID_H_FocusMode: 명중 {Variable=0}
+MSID_SpeedMode: 스피드 모드
+MSID_H_SpeedMode: 속도 {Variable=0}, 이동력 {Variable=1}
+MSID_BigWings: 커다란 날개
+MSID_H_BigWings: 인접한 적과의 전투 시 회피 {Variable=0}
+MSID_Calamity: 재앙
+MSID_H_Calamity: 공격력·방어력 {Variable=0}
+MSID_PoisonLayer: 독 중첩
+MSID_H_PoisonLayer: 전투 시 적이 독 상태라면\n명중 {Variable=0}
+MSID_PoisonTrap: 독 함정
+MSID_H_PoisonTrap: 적 페이즈일 때의 전투 시\n적이 독 상태라면\n자신이 선공이 된다
+MSID_FreshlyAttacked: 연속 공격
+MSID_H_FreshlyAttacked: 적의 반격보다 먼저 추격한다
+MSID_AirRaid: 공습
+MSID_H_AirRaid: 반격을 받지 않는다
+MSID_Runaway: 질풍노도
+MSID_H_Runaway: 이동력 {Variable=0}
+MSID_SoaringSoul: 넘치는 영혼
+MSID_H_SoaringSoul: 자신의 페이즈가 개시될 때\nHP를 소량 회복한다
+MSID_DivineAwakening: 신력의 각성
+MSID_H_DivineAwakening: 힘·마력·기술·속도·\n행운·수비·마방 {Variable=0}
+MSID_SoulEater: 영혼 섭취
+MSID_H_SoulEater: 적 처치 시 자신의 HP를\n{Variable=0} 회복한다
+MSID_ValorShield: 발로르의 신의 방패
+MSID_H_ValorShield: 공격받을 때\n받는 대미지가 반감된다
+MSID_AbsolutePursuit: 절대 추격
+MSID_H_AbsolutePursuit: 전투 시 공속에 상관없이 추격한다
+MSID_GreatMagicBarrier: 대마법 결계
+MSID_H_GreatMagicBarrier: 마법 공격을 받을 때\n받는 대미지가 반감된다
+MSID_PoisonKiller: 독 추적
+MSID_H_PoisonKiller: 전투 시 적이 독 상태라면\n공격력 {Variable=0}
+MSID_DarkLight: 명계의 빛
+MSID_H_DarkLight: 전투 후 자신의 HP를 소량 회복
+MSID_DarkBrightly: 명계의 섬광
+MSID_H_DarkBrightly: 「명계의 빛」의 회복량이 증가한다
+MSID_MagicCannon: 마법포
+MSID_H_MagicCannon: 마법의 사정 {Variable=0}
+MSID_DarkProtection: 명부의 가호
+MSID_H_DarkProtection: 공격받을 때 적의 공격이 자신에게\n유효 또는 특효가 아니라면\n받는 대미지가 반감된다
+MSID_GeneralStar: 장성
+MSID_H_GeneralStar: 동일한 상태 이상에 면역이 생긴다.\n계략으로 공격받을 때\n받는 대미지가 반감된다
+MSID_LittleGeneralStar: 소장성
+MSID_H_LittleGeneralStar: 계략으로 공격받을 때\n받는 대미지가 반감된다
+MSID_BigGeneralStar: 대장성
+MSID_H_BigGeneralStar: 동일한 상태 이상에 면역이 생긴다.\n계략, 유효 또는 특효 공격으로\n받는 대미지가 반감된다
+MSID_GaleStance: 질풍의 자세
+MSID_H_GaleStance: 속도 {Variable=0}
+MSID_FogStance: 농무의 자세
+MSID_H_FogStance: HP·힘·수비 {Variable=0}, 속도 {Variable=1},\n회피 {Variable=2}
+MSID_RockStance: 신암의 자세
+MSID_H_RockStance: HP {Variable=0}, 힘 {Variable=1}, 수비 {Variable=2}
+MSID_GaleToeFog: 바람 가고 안개 춤추리
+MSID_H_GaleToeFog: 「질풍의 자세」에서 「농무의 자세」로\n전환한다
+MSID_FogToeRock: 안개 개고 바위 잠드리
+MSID_H_FogToeRock: 「농무의 자세」에서 「신암의 자세」로\n전환한다
+MSID_SkyBarrier: 공중 결계
+MSID_H_SkyBarrier: 비행 특효 공격을 받을 때\n받는 대미지가 {Variable=0}%로 줄어든다
+MSID_EarthShield: 건곤의 신의 방패
+MSID_H_EarthShield: 포격을 받을 때\n받는 대미지가 반감되며\n해당 공격으로 쓰러지지 않는다
+MSID_AutoReboot: 강제 리부트
+MSID_H_AutoReboot: 공격을 받으면 전투 후\n자신의 행동 불능 상태를 해제한다
+MSID_FlyingEffectiveDisable: 비행 특효 무효
+MSID_H_FlyingEffectiveDisable: 비행 유효·비행 특효 무효화
+MSID_CavalryEffectiveDisable: 기병 특효 무효
+MSID_H_CavalryEffectiveDisable: 기병 유효·기병 특효 무효화
+MSID_ArmorEffectiveDisable: 중갑 특효 무효
+MSID_H_ArmorEffectiveDisable: 중갑 유효·중갑 특효 무효화
+MSID_DragonEffectiveDisable: 용 특효 무효
+MSID_H_DragonEffectiveDisable: 용 유효·용 특효 무효화
+MSID_BeastEffectiveDisable: 야수 특효 무효
+MSID_H_BeastEffectiveDisable: 야수 유효·야수 특효 무효화
+MSID_HellEffectiveDisable: 명귀 특효 무효
+MSID_H_HellEffectiveDisable: 명귀 유효·명귀 특효 무효화
+MSID_AllEffectiveDisable: 모든 특효 무효
+MSID_H_AllEffectiveDisable: 유효·특효 무효화
+MSID_HalfProtection: 금이 간 배리어
+MSID_H_HalfProtection: 공격으로 받는 대미지가 반감된다.\n{Variable=0}회 공격받으면 파괴된다
+MSID_HalfDefenseProtection: 금이 간 방호 배리어
+MSID_H_HalfDefenseProtection: 공격으로 받는 대미지가 0이 된다.\n{Variable=0}회 공격받으면 파괴된다
+MSID_Protection: 배리어
+MSID_H_Protection: 공격으로 받는 대미지가 반감된다.\n{Variable=0}회 공격받으면 파괴된다
+MSID_RecoveryProtection: 부활 배리어
+MSID_H_RecoveryProtection: 공격으로 받는 대미지가 반감된다.\n{Variable=0}회 공격받으면 파괴되지만\n{Variable=1}턴마다 내구도가 모두 회복된다
+MSID_RecoveryDefenseProtection: 부활 방호 배리어
+MSID_H_RecoveryDefenseProtection: 공격으로 받는 대미지가 0이 된다.\n{Variable=0}회 공격받으면 파괴되지만\n{Variable=1}턴마다 내구도가 모두 회복된다
+MSID_HellDragonProtection: 명계 용린 배리어
+MSID_H_HellDragonProtection: 받는 대미지를 내구도 1~4일 때 50%,\n5~8일 때 100% 경감한다.\n{Variable=0}턴마다 내구도가 모두 회복된다
+MSID_InvincibleProtection: 무적 배리어
+MSID_H_InvincibleProtection: 공격으로 받는 대미지가 0이 된다.\n공격받아도 파괴되지 않는다
+MSID_EnemyPotential_HP: HP {Variable=0}
+MSID_H_EnemyPotential_HP: HP {Variable=0}
+MSID_EnemyPotential_Str: 힘 {Variable=0}
+MSID_H_EnemyPotential_Str: 힘 {Variable=0}
+MSID_EnemyPotential_Def: 수비 {Variable=0}
+MSID_H_EnemyPotential_Def: 수비 {Variable=0}
+MSID_EnemyPotential_Spd: 속도 {Variable=0}
+MSID_H_EnemyPotential_Spd: 속도 {Variable=0}
+MSID_EnemyPotential_Mag: 마력 {Variable=0}
+MSID_H_EnemyPotential_Mag: 마력 {Variable=0}
+MSID_EnemyPotential_Res: 마방 {Variable=0}
+MSID_H_EnemyPotential_Res: 마방 {Variable=0}
+MSID_EnemyPotential_Hit: 명중 {Variable=0}
+MSID_H_EnemyPotential_Hit: 명중 {Variable=0}
+MSID_EnemyPotential_Avoid: 회피 {Variable=0}
+MSID_H_EnemyPotential_Avoid: 회피 {Variable=0}
+MSID_TribalSongD: 부족의 노래: 수호
+MSID_H_TribalSongD: 자신을 제외한\n모든 아군의 수비 {Variable=0}\n(다음 턴이 끝날 때까지)
+MSID_TribalSongM: 부족의 노래: 기도
+MSID_H_TribalSongM: 자신을 제외한\n모든 아군의 마방 {Variable=0}\n(다음 턴이 끝날 때까지)
+MSID_TribalSongA: 부족의 노래: 맹렬
+MSID_H_TribalSongA: 자신을 제외한\n모든 아군의 공격력 {Variable=0}\n(다음 턴이 끝날 때까지)
+MSID_H_FrenzySongAll: 모든 적을 혼란 상태로 만든다
+MSID_H_EnthusiasticSongAll: 모든 아군의 공격력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_FrozenSongAll: 모든 아군의 방어력 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_BalorAttack: 심연의 용의 발톱
+MSID_SpecialSniperAvoid: 저격 회피: 대
+MSID_H_SpecialSniperAvoid: {Variable=0}칸 이상 떨어진 적과의 전투 시\n회피 {Variable=1}
+MSID_AnhEnhance: 불퇴
+MSID_H_R_Hp_Def: HP {Variable=0}, 수비 {Variable=1}
+MSID_DefenseBattleBuff: 유혈 낭자{Variable=0}
+MSID_H_DefenseBattleBuff: 힘·마력·속도·수비·마방 {Variable=0}
+MSID_Poison: 독
+MSID_H_Poison: 페이즈가 개시될 때\n소량의 대미지를 받는다\n({Variable=0}턴 후 해제)
+MSID_Confusion: 혼란
+MSID_H_Confusion: 반격할 수 없다\n({Variable=0}회 전투 후 해제)\n(해당 페이즈 동안만 적용)
+MSID_NoMagic: 마법 봉인
+MSID_H_NoMagic: 마법을 사용할 수 없다\n({Variable=0}턴 후 해제)
+MSID_NoStrategy: 계략 봉인
+MSID_H_NoStrategy: 계략을 사용할 수 없다\n({Variable=0}턴 후 해제)
+MSID_NoMove: 이동 불능
+MSID_H_NoMove: 이동할 수 없다\n({Variable=0}턴 후 해제)
+MSID_NoAction: 행동 불능
+MSID_H_NoAction: 행동할 수 없다\n({Variable=0}턴 후 해제)
+MSID_Collapse: 허탈
+MSID_H_Collapse: 명중이 반감된다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_Slowing: 둔화
+MSID_H_Slowing: 공속이 반감된다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_Unrack: 불운
+MSID_H_Unrack: 행운이 반감된다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_AttackChange: 공격력 반전
+MSID_H_AttackChange: 힘과 마력이 뒤바뀐다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_DefenseChange: 방어력 반전
+MSID_H_DefenseChange: 수비와 마방이 뒤바뀐다\n({Variable=0}회 전투 또는 {Variable=1}턴 후 해제)
+MSID_Lizaia: 리자이어
+MSID_Barrier: 배리어
+MSID_MagicShield: 매직 실드
+MSID_Emergence: 이머지스
+MSID_Regeia: 리제네라
+MSID_Warm: 웜Ζ
+MSID_Luna: 루나Λ
+MSID_HolyWater: 성수
+MSID_PeaceDew: 안녕의 이슬
+MSID_BlessingDew: 가호의 이슬
+MSID_Antidote: 해독제
+MSID_HitAle: 리나리 에이드
+MSID_BuildAle: 긴지 에이드
+MSID_CharmAle: 퐁고 에이드
+MSID_DetoxifyAle: 테피 에이드
+MSID_SealedAle: 바쿠 에이드
+MSID_LuckAle: 하나 에이드
+MSID_AttackAle: 파야 에이드
+MSID_DefenseAle: 밀라닐라 에이드
+MSID_LightAle: 대추야자 에이드
+MSID_CombatAle: 로카 에이드
+MSID_ApathyAle: 비터 에이드
+MSID_RangeAle: 스위트 에이드
+MSID_RecoveryAle: 스파이시 에이드
+MSID_MoveAle: 잔게 에이드
+MSID_BlissTongue: 지복한 혀
+MSID_VictoryJewel: 축승의 보주
+MSID_SeaCharm: 해령의 부적
+MSID_AuroraCloth: 아우로라의 수호포
+MSID_MiasmaLaziness: 나태의 독기
+MSID_H_MiasmaLaziness: 추격할 수 없게 된다
+MSID_MiasmaGreed: 탐욕의 독기
+MSID_H_MiasmaGreed: 페이즈가 개시될 때 남은 HP가 반감,\n얻을 수 있는 금괴가 {Variable=0}배로 증가,\n수비가 {Variable=1}까지 저하 (적에게 무효)
+MSID_MiasmaDeceit: 기만의 독기
+MSID_H_MiasmaDeceit: 시야가 {Variable=0}까지 저하\n(적에게 무효)
+MSID_MiasmaEnvy: 질투의 독기
+MSID_H_MiasmaEnvy: 자신보다 LV이 높은 적과 전투 시\n회피가 {Variable=0}까지 저하,\n명중이 {Variable=1}배로 증가
+MSID_MiasmaRage: 분노의 독기
+MSID_H_MiasmaRage: 필살이 {Variable=0}배로 증가하지만\n수비가 반감된다
+MSID_MiasmaPride: 오만의 독기
+MSID_H_MiasmaPride: 자신보다 LV이 낮은 적과 전투 시\n자신의 명중이 반감된다
+MSID_MiasmaLust: 색욕의 독기
+MSID_H_MiasmaLust: 자신보다 매력이 높은 적과 전투 시\n자신의 명중과 회피가 반감된다
+MSID_MiasmaGluttony: 폭식의 독기
+MSID_H_MiasmaGluttony: 페이즈가 개시될 때\n장비하고 있는 무기의 내구도 {Variable=0},\n장비하고 있는 마법의 횟수 {Variable=1}
+MSID_MiasmaFear: 공포의 독기
+MSID_H_MiasmaFear: 적 페이즈가 개시될 때\n혼란 상태가 된다\n(적에게 무효)
+MSID_Miasma: 독기
+MSID_H_Miasma: 페이즈가 개시될 때 최대 HP의\n절반만큼 대미지를 받는다\n(명계병은 HP를 회복)
+MSID_SunsetMiasma: 낙일의 독기
+MSID_HadesGate: 명계의 문
+MSID_H_HadesGate: {Variable=0}턴 후에 붕괴된다
+MSID_HadesGround: 맥동하는 살덩이
+MSID_H_HadesGround: {Variable=0}턴 후에 「명계의 문」이 출현한다
+MSID_Madness: 명광
+MSID_H_Madness: 블레이즈 게이지를 {Variable=0}까지 올린다.\n버스트를 해도 오버 블레이즈가\n해제되지 않는다
+MSID_SpiritualUnity: 명정
+MSID_H_SpiritualUnity: 블레이즈 게이지를 0으로 되돌린다
+MSID_Secret: ???
+MSID_SolidGiant: 무구한 거인
+MSID_SandstormBattalion: 사풍 대대
+MSID_DragonFormDagda: 
+MSID_H_DragonFormDagda: 
+MSID_DragonFormIshieto: 
+MSID_H_DragonFormIshieto: 
+MSID_DragonFormSeteth: 
+MSID_H_DragonFormSeteth: 
+MSID_DragonFormLyra: 
+MSID_H_DragonFormLyra: 
+MSID_CommonSwordSkill: 검
+MSID_H_CommonSwordSkill: 추격 시\n주는 대미지가 {Variable=0}배로 증가한다
+MSID_CommonAxesSkill: 도끼
+MSID_H_CommonAxesSkill: 최소 {Variable=0} 이상의 대미지를 준다
+MSID_CommonGauntletSkill: 건틀릿
+MSID_H_CommonGauntletSkill: 전투 시 적의 무기가\n건틀릿이 아니라면 회피 {Variable=0}
+MSID_H_Invincible: {Variable=0}턴 동안\n등불을 마법으로 보호한다\n(최대 {Variable=1}회까지 사용 가능)
+MSID_H_Clearsandstorm: 사용한 칸 주변의\n모래 폭풍을 제거한다
+MSID_H_Throwfeed: 거인이 강화되며\n먹이를 준 유닛이 소속된 진영을\n공격하지 않게 된다
+MSID_H_Calmdown: 곤륜 부족에게 말을 걸어서\n착란 상태를 해제한다
+MSID_H_Feeding: 줄무늬 늑대를 아군으로 만든다\n(이미 아군이라면 HP를 소량 회복)
+MSID_H_Markerplacement: 투척뢰를 던져서\n엘리펀트포 발사 지시를 내린다
+MSID_Rainy: 우천
+MSID_H_Rainy: 번개 대미지가 {Variable=0}배로 증가하고\n화염 대미지가 반감된다
+MSID_GleipnirPower: 암사 증폭
+MSID_H_GleipnirPower: 모든 기본 능력 {Variable=0}
+MSID_DefForceField: 수비의 역장
+MSID_H_DefForceField: 수비 {Variable=0}
+MSID_ResForceField: 마방의 역장
+MSID_H_ResForceField: 마방 {Variable=0}
+MSID_KatarinaProtect: 카타리나의 가호
+MSID_H_KatarinaProtect: 힘·마력·수비·마방·행운 {Variable=0}
+MSID_InvinciblePower: 무적
+MSID_H_InvinciblePower: 대미지를 받지 않는다
+MSID_Cheering: 성원
+MSID_H_Cheering: 모든 기본 능력이 {Variable=0}배로 증가한다
+MSID_FogHiding: 안개 속으로 숨기
+MSID_H_FogHiding: 회피 {Variable=0},\n힘 {Variable=1}, 수비 {Variable=2}
+MSID_TelusBarrier: 텔루스의 결계
+MSID_H_TelusBarrier1: 공격받을 때\n받는 대미지가 {Variable=0}%로 줄어든다
+MSID_Unprotected: 무방비
+MSID_RecklessTreasure: 마법의 보주
+MSID_ParmaMagic: 파르마의 비술
+MSID_Flama: 플라마
+MSID_H_Flama1: 힘 {Variable=0}, 수비·마방 {Variable=1}
+MSID_H_Flama2: HP {Variable=0}, 힘·마방 {Variable=1}
+MSID_IshietoHelp: 이세트의 지도
+MSID_H_IshietoHelp: 마법의 사정 {Variable=0},\n힘·마력 {Variable=1},\n수비·마방 {Variable=2}
+MSID_DagdaDivinePower: 다그다의 신력
+MSID_H_DagdaDivinePower: 힘 {Variable=0},\n마력·수비·마방 {Variable=1}
+MSID_BalorDivinePower: 발로르의 신력
+MSID_BalorGreatDivinePower: 발로르의 신력: 대
+MSID_H_BalorGreatDivinePower: HP {Variable=0},\n힘·마력·속도 {Variable=1}
+MSID_GiantFood: 거인의 먹이
+MSID_H_GiantFood: 힘·기술·속도 {Variable=0}.\n받는 대미지가 0이 된다
+MSID_LegionArea: 군단병
+MSID_H_LegionArea: 적대 세력 진입 불가
+MSID_BalorBreath: 아포칼립스 안개
+MSID_BalorTerrainAttack: 타르타로스 불기둥
+MSID_H_BalorTerrainAttack: 범위 내 적을 공격한다
+MSID_BlazeControl: 장악
+MSID_H_BlazeControl: 「명정」을 사용할 수 있다
+MSID_BlazeRampage: 폭주
+MSID_H_BlazeRampage: 「명광」을 사용할 수 있다
+MSID_BlazeResistance: 저항
+MSID_H_BlazeResistance: 버스트를 해도\n최대 HP가 감소하지 않는다
+MSID_BlazeMachine: 수호천사 해방
+MSID_H_BlazeMachine: 「엘리자베스」 사용 가능,\n블레이즈 게이지가 소진될 때까지\n블레이즈 아츠 사용 가능
+MSID_BlazeHeaven: 각성
+MSID_H_BlazeHeaven: 블레이즈 게이지가 쌓일수록\n더 강력한 블레이즈 아츠를\n사용할 수 있게 된다
+MSID_RemainsProtection: 명주 상쇄
+MSID_H_RemainsProtection: 공격받을 때 {Variable=0}%로 발동.\n받는 대미지가 0이 된다
+MSID_GoldenCurse: 신철력 상실
+MSID_KouPower: 홍화의 마력
+MSID_H_Damina: 전투 기술로 공격 시 명중 {Variable=0}
+MSID_H_Damina+3: 전투 기술로 공격 시\n명중·필살 {Variable=0}
+MSID_H_HorseSword+3: 전투 시 적이 기병 속성이면\n필살 {Variable=0}
+MSID_H_Flissa+3: 전투 시 적이 중갑 속성이면\n필살 {Variable=0}
+MSID_H_GaleSword+3: 적의 공격을 회피하면\n해당 전투 중 물공 {Variable=0}
+MSID_H_GreatSword+3: 전투 시 적이 대형 유닛이면\n명중·필살 {Variable=0}
+MSID_H_ExorcismSword: 전투 시 적의 「명부의 가호」를\n무효화한다
+MSID_H_HandSpear+3: {Variable=0}칸 이상 떨어진 적과의 전투 시\n회피 {Variable=1}
+MSID_H_ShortSpear+3: {Variable=0}칸 이상 떨어진 적과의 전투 시\n명중 {Variable=1}
+MSID_H_SlenderSpear+3: {Variable=0}칸 이상 떨어진 적과의 전투 시\n물공 {Variable=1}
+MSID_H_IdeaBow: 「성섬」의 회복량이 증가한다
+MSID_H_Assal+3: 「성격」의 회복량이 증가한다
+MSID_H_KnightKiller+3: 전투 시 적이 기병 속성이면\n방어력 {Variable=0}
+MSID_H_ShieldAxe: 후공일 경우\n해당 전투 중 물방 {Variable=0}
+MSID_H_Boomerang+3: {Variable=0}칸 이상 떨어진 적과의 전투 시\n필살 {Variable=1}
+MSID_H_Bardiche+3: 전투 시 적이 대형 유닛이면\n물공 {Variable=0}
+MSID_H_Ottochan+3: 적 페이즈일 때의 전투 시\n적이 독 상태라면\n자신이 선공이 된다
+MSID_H_HuntingBow+3: 전투 시 적이 야수 속성이면\n명중 {Variable=0}
+MSID_H_ShortBow+1: 인접한 적과의 전투 시 공속 {Variable=0}
+MSID_H_HorseBow+3: 전투 시 적이 기병 속성이면\n명중 {Variable=0}
+MSID_H_BattleBow+3: 전투 시 적이 대형 유닛이면\n명중 {Variable=0}
+MSID_H_WindBow+1: 선공일 경우\n해당 전투 중 회피 {Variable=0}
+MSID_H_CounterGautlet: 후공일 경우\n해당 전투 중 공격력 {Variable=0}
+MSID_H_CounterGautlet+3: 후공일 경우 해당 전투 중\n공격력 {Variable=0}, 명중 {Variable=1}
+MSID_H_Kenkonken+3: {Variable=0}칸 이상 떨어진 적과의 전투 시\n명중·회피·필살 {Variable=1}
+MSID_H_Hukarin+1: 선공일 경우\n해당 전투 중 명중 {Variable=0}
+MSID_H_HealingWand: 마법으로 아군을 회복할 때\n회복량 {Variable=0}
+MSID_H_DemonSkull: 마법 필살 {Variable=0}
+MSID_H_AgonyShield: 마법 공격을 받을 때 {Variable=0}%로 발동.\n받는 대미지가 반감된다
+MSID_H_JuneauShield: 고요한 냉기를 머금은 지고의 아크.\n필살의 일격을 받을 때\n받는 대미지가 반감된다
+MSID_H_ZephyrusShield: 바람의 힘이 깃든 신비한 아크.\n비행 유효·비행 특효 무효화
+MSID_H_YuphasMask: 명귀 속성인 적에게 공격받을 때\n방어력 {Variable=0}
+MSID_H_BragiBrush: 마법 장비 시 명중 {Variable=0}
+MSID_H_ParticleEmblem: 마법 공격 명중 시\n{Variable=0}%로 발동.\n적을 혼란 상태로 만든다
+MSID_H_PoisonBone: 마법 공격 명중 시\n{Variable=0}%로 발동.\n적을 독 상태로 만든다
+MSID_H_CarlaNeedle: 추격 시 공격력 {Variable=0}
+MSID_H_MarsStone: 전투 기술로 공격 시\n공격력 {Variable=0}, 필살 {Variable=1}
+MSID_H_PoisonJewel: 공격받을 때 적이 독 상태라면\n받는 대미지가 {Variable=0}%로 줄어든다
+MSID_H_HuntingJewel: 독 상태인 적을 공격할 때\n주는 대미지가 {Variable=0}배로 증가한다
+MSID_H_EventfulJewel: 혼란 상태인 적을 공격할 때\n주는 대미지가 {Variable=0}배로 증가한다
+MSID_H_FuraiJewel: 전투 시 {Variable=0}%로 발동.\n추격을 받지 않는다
+MSID_H_LightningJewel: 전투 기술로 공격 시 {Variable=0}%로 발동.\n주는 대미지가 {Variable=1}배로 증가한다
+MSID_H_FlameJewel: 전투 기술로 공격 시 {Variable=0}%로 발동.\n명중 {Variable=1}
+MSID_H_StormJewel: 전투 기술로 공격 시 {Variable=0}%로 발동.\n해당 전투 중 회피 {Variable=1}
+MSID_H_CriticalJewel: 필살의 일격 발동 시\n준 대미지의 1/3만큼\nHP를 회복한다
+MSID_H_ChallengeJewel: 전투 시 적과 무기 종류가 같다면\n공격력 {Variable=0}
+MSID_H_PursuitJewel: 전투 시 {Variable=0}%로 발동.\n공속에 상관없이 추격한다
+MSID_H_CharmJewel: 전투 시 (매력÷2)%로 발동.\n적의 명중 {Variable=0}
+MSID_H_SeverJewel: 선공일 경우 {Variable=0}%로 발동.\n추격을 받지 않는다
+MSID_H_MiracleJewel: 공격받을 때 {Variable=0}%로 발동.\n받는 대미지가 {Variable=1}이 된다
+MSID_H_DaintyJewel: 전투 시 자신의 매력이\n적보다 {Variable=0} 이상 높으면\n적의 명중 {Variable=1}
+MSID_H_SpiritJewel: 마법 공격을 받을 때 {Variable=0}%로 발동.\n회피 {Variable=1}
+MSID_H_MadnessJewel: 자신이 혼란 상태라면\n회피 {Variable=0}
+MSID_H_SwordAmulet: 전투 시 적이 검을 장비 중이면\n명중·회피 {Variable=0}
+MSID_H_SpearAmulet: 전투 시 적이 창을 장비 중이면\n명중·회피 {Variable=0}
+MSID_H_AxeAmulet: 전투 시 적이 도끼를 장비 중이면\n명중·회피 {Variable=0}
+MSID_H_BowAmulet: 전투 시 적이 활을 장비 중이면\n명중·회피 {Variable=0}
+MSID_H_GauntletAmulet: 전투 시 적이 건틀릿을 장비 중이면\n명중·회피 {Variable=0}
+MSID_H_Warm: 공격 명중 시\n적의 속도 {Variable=0}\n(다음 자신의 페이즈 전까지)
+MSID_H_Luna: 전투 시 적의 마방을 무시한다
+MSID_H_R_Hit_Att: 명중 {Variable=0}, 공격력 {Variable=1}
+MSID_H_R_Avo_Sec: 회피·필살 회피 {Variable=0}
+MSID_H_Regeia: HP를 페이즈 개시 시마다\n소량 회복 ({Variable=0}턴 후 해제)
+MSID_H_R_Hit: 명중 {Variable=0}
+MSID_H_R_CSHit: 전투 기술로 공격 시 명중 {Variable=0}
+MSID_H_R_Avo: 회피 {Variable=0}
+MSID_H_R_Cri: 필살 {Variable=0}
+MSID_H_R_Sec: 필살 회피 {Variable=0}
+MSID_H_R_AS: 공속 {Variable=0}
+MSID_H_R_Hit_Avo: 명중·회피 {Variable=0}
+MSID_H_R_Hit_Avo_Cri: 명중·회피·필살 {Variable=0}
+MSID_H_R_Att: 공격력 {Variable=0}
+MSID_H_R_Pro: 방어력 {Variable=0}
+MSID_H_R_Att_Cri: 공격력 {Variable=0}, 필살 {Variable=1}
+MSID_H_R_Pro_Sec: 방어력 {Variable=0}, 필살 회피 {Variable=1}
+MSID_H_R_Hp: HP {Variable=0}
+MSID_H_R_Str: 힘 {Variable=0}
+MSID_H_R_Mag: 마력 {Variable=0}
+MSID_H_R_Tec: 기술 {Variable=0}
+MSID_H_R_Spd: 속도 {Variable=0}
+MSID_H_R_Def: 수비 {Variable=0}
+MSID_H_R_Res: 마방 {Variable=0}
+MSID_H_R_Lck: 행운 {Variable=0}
+MSID_H_R_Mov: 이동력 {Variable=0}
+MSID_H_R_Phy: 체격 {Variable=0}
+MSID_H_R_Cha: 매력 {Variable=0}
+MSID_H_R_Str_Mag: 힘·마력 {Variable=0}
+MSID_H_R_Def_Res: 수비·마방 {Variable=0}
+MSID_H_R_Def_Avo: 수비 {Variable=0}, 회피 {Variable=1}
+MSID_H_R_Mag_Res: 마력·마방 {Variable=0}
+MSID_H_R_Str_Magx150: 힘·마력이 {Variable=0}배로 증가한다
+MSID_H_R_Def_Resx150: 수비·마방이 {Variable=0}배로 증가한다
+MSID_H_R_HolyWater: 마방 {Variable=0}\n({Variable=1}턴마다 {Variable=2}씩 감소)
+MSID_H_R_HellLordEffect: 명염의 영향을 받지 않는다.\n공격으로 받는 대미지가 반감된다
+MSID_H_R_NoPursuit: 추격을 받지 않는다
+MSID_H_R_Leading: 자신이 선공이 된다
+MSID_H_R_HitHalved: 명중이 반감된다
+MSID_H_R_AvoHalved: 회피가 반감된다
+MSID_H_R_ASHalved: 공속이 반감된다
+MSID_H_R_ProHalved: 방어력이 반감된다
+MSID_H_R_DefHalved: 수비가 반감된다
+MSID_H_R_HitHalved_00: 명중이 반감된다
+MSID_H_R_Hit_AvoHalved: 명중·회피가 반감된다
+MSID_H_R_MagicDamageHalved: 마법 공격으로 받는 대미지가\n반감된다
+MSID_H_R_DamageHalved: 공격으로 받는 대미지가 반감된다
+MSID_H_R_Str_Mag_Invert: 힘과 마력이 뒤바뀐다
+MSID_H_R_Def_Res_Invert: 수비와 마방이 뒤바뀐다
+MSID_H_R_NoReturn: 반격할 수 없게 된다
+MSID_H_R_NoCounter: 반격을 받지 않는다
+MSID_H_R_NoPoison: 독 상태가 되지 않는다
+MSID_H_R_NoSealed: 마법 봉인 상태가 되지 않는다
+MSID_H_R_HellEff: 공격이 명귀 유효로 변화
+MSID_H_R_Continuous: 적의 반격보다 먼저 추격한다
+MSID_H_R_InvalidEff: 유효·특효 무효화
+MSID_H_R_InvalidCritical: 필살의 일격을 받지 않는다
+MSID_H_R_Absorption: 준 대미지의 절반만큼\nHP를 회복한다
+MSID_H_R_Def0: 수비가 0이 된다
+MSID_H_R_BattleRecoveryS: 전투 후 HP를 소량 회복
+MSID_H_R_Res0: 마방이 0이 된다
+MSID_H_R_Pha_Hit: 물리 공격의 명중 {Variable=0}
+MSID_H_R_Maa_Hit: 마법 공격의 명중 {Variable=0}
+MSID_H_R_KillHeelM: 적 처치 시 HP를 적당량 회복
+MSID_H_R_Durability: 무기 내구도가 줄어들지 않는다
+MSID_H_R_Pha_DamageHalved: 물리 공격으로 받는 대미지가\n반감된다
+MSID_H_R_Maa_DamageHalved: 마법 공격으로 받는 대미지가\n반감된다
+MSID_H_R_Ect: 물방 {Variable=0}
+MSID_H_R_End: 항마 {Variable=0}
+MSID_H_R_Tec_Spd: 기술·속도 {Variable=0}
+MSID_H_R_Explanation: 전투 시 {Variable=0}%로 발동.\n명중 {Variable=1}
+MSID_H_R_ReducedMoveCost: 이동 시 지형의 이동 코스트 {Variable=0}\n(1 미만으로 줄어들지 않음)
+MSID_H_R_AutoRecovery: HP를 페이즈 개시 시마다 소량 회복
+MSID_H_R_Antidote: 독 상태가 되지 않는다\n({Variable=0}턴 후 해제)
+MSID_H_R_RunThrough: 이동력 {Variable=0}\n({Variable=1}턴 후 해제)
+MSID_H_R_FirstAidFormation: 「응급 처치」의 범위가\n주위 {Variable=0}칸까지 확대된다
+MSID_H_R_BackupFormation: 「조력」의 범위가\n주위 {Variable=0}칸까지 확대된다
+MSID_H_R_BodyguardFormation: 「경호원」의 범위가\n주위 {Variable=0}칸까지 확대된다
+MSID_H_R_Res_Avo: 마방 {Variable=0}, 회피 {Variable=1}
+MID_Plus: +
+MID_PlusPlus: ++
+MID_SkillPlus_1: +1
+MID_SkillPlus_2: +2
+MID_SkillPlus_3: +3
+MID_SkillPlus_5: +5
+MID_SkillPlus_7: +7
+MID_SkillPlus_10: +10
+MID_SkillPlus_15: +15
+MID_SkillPlus_20: +20
+MID_SkillPlus_30: +30
+MID_SkillLevel_1: LV 1
+MID_SkillLevel_2: LV 2
+MID_SkillLevel_3: LV 3
+MID_SkillLevel_4: LV 4
+MID_SkillLevel_5: LV 5
+MID_Skill_SpecifyJob_Ride: 【기병】
+MID_Skill_SpecifyJob_Fly: 【비행】
+MID_Skill_SpecifyJob_Armor: 【중갑】
+MID_Skill_SpecifyJob_Infantry: 【보병】
+MID_Skill_CompAttack: 공격력
+MID_Skill_CompDefense: 방어력
+MID_Skill_InPhase: (해당 페이즈 동안만 적용)
+MID_Skill_About3Turn: (3턴 후 해제)
+MID_Skill_AtNextTurnEnd: (다음 턴이 끝날 때까지)
+MID_Skill_AtNextMyPhase: (다음 자신의 페이즈 전까지)
+MID_Skill_AtOnceBattle: (1회 전투 후 초기화)
+MID_Skill_SpearRange_1to2: (사정 1-2의 창으로만 사용 가능)
+MID_Skill_AxesRange_1to2: (사정 1-2의 도끼로만 사용 가능)
+MID_Skill_Impossible_AddAtk: (추격 불가)
+MID_Skill_InBattleMapEnd: (맵이 끝날 때까지)
+MID_Skill_AtOnceBattleMap: (한 맵당 한 번만 사용 가능)

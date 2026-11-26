@@ -1,0 +1,462 @@
+﻿MID_GiftMenu_Help: 건넬 물건을 선택해 주십시오
+MID_GiftMenu_Confirm: 선물을 그만두겠습니까?
+MID_ScoutInfo_Introduction: 인물 소개
+MID_ScoutInfo_Status: 전투 정보
+MID_ScoutInfo_Profile: 프로필
+MID_ScoutMenu_Give_Help: 건넬 물건을 선택해 주십시오
+MID_HubMenu_RouteSelect: 인과 선택
+MID_RouteSelectMenu_Help: 어느 루트의 인물을 동료로 영입할지 선택해 주십시오
+MID_RouteSelectMenu_Confirm: {Variable=0}의 {Variable=1}{ConsonantVowel=을|를}\n동료로 영입하겠습니까?
+MID_RouteSelectMenu_AutoGrow_Confirm: {Variable=0}의 {Variable=1}{ConsonantVowel=을|를} 동료로 영입합니다\n결전에 적합한 수준으로 레벨이 올라갑니다
+MID_RouteSelectMenu_AutoGrow_Yes: 레벨을 올리고 동료로 영입한다
+MID_RouteSelectMenu_AutoGrow_Yes_NotGrow: 이대로 동료로 영입한다
+MID_RouteSelectMenu_AutoGrow_No: 뒤로
+MID_HeroJoyn_AutoGrow_Confirm: 진영장 {Variable=0}{ConsonantVowel=은|는}\n결전에 적합한 수준으로 레벨을 올릴 수 있습니다\n레벨을 올리고 동료로 영입하겠습니까?
+MID_Joyn_AutoGrow_Confirm: {Variable=0}{ConsonantVowel=은|는} 결전에 적합한 수준으로\n레벨을 올릴 수 있습니다\n레벨을 올리고 동료로 영입하겠습니까?
+MID_LessonMenu_Help: 내용을 선택해 주십시오
+MID_LessonMenu_Explanation: 강습
+MID_LessonMenu_Practice: 실전
+MID_LessonMenu_Subjugation: 원정
+MID_LessonMenu_PracticeConfirm: 전투 맵에서 지도가 시작됩니다\n지도를 받겠습니까?
+MID_ProcurementMenu_Help: 의뢰를 확인하고 물자를 납품할 수 있습니다
+MID_QuestBoard_Help: 발생한 서브 퀘스트를 확인할 수 있습니다
+MID_QuestMenu_MaineQuest: 메인 퀘스트
+MID_QuestMenu_SubQuest: 서브 퀘스트
+MID_QuestMenu_SideStoryQuest: 외전
+MID_QuestMenu_RouteQuest_Kindness: 주민 지원
+MID_QuestMenu_RouteQuest_Challenge: 도전장
+MID_QuestMenu_RouteQuest_Procurement: 군비 증강
+MID_QuestMenu_RouteQuest_Show: 공연
+MID_QuestMenu_RouteQuest: 특별 퀘스트
+MID_QuestMenu_Condition: 달성 조건
+MID_QuestMenu_Destination: 목적지
+MID_QuestMenu_TimeLimit: 기한
+MID_QuestMenu_Reward: 보수
+MID_QuestMenu_Acceptable: 수락 가능
+MID_QuestMenu_Reportable: 보고 가능
+MID_QuestMenu_Progressing: 진행 중
+MID_QuestMenu_Failed: 기한 초과
+MID_QuestMenu_Accept_Yes: 수락한다
+MID_QuestMenu_Accept_No: 수락하지 않는다
+MID_QuestMenu_Report_Yes: 보고한다
+MID_QuestMenu_Report_No: 보고하지 않는다
+MID_QuestMenu_Delivery_Yes: 납품한다
+MID_QuestMenu_Delivery_No: 납품하지 않는다
+MID_QuestMenu_Confirm: 「{Variable=0}」\n퀘스트를 수락하겠습니까?
+MID_QuestMenu_Report_Confirm: 퀘스트 달성 결과를 보고하겠습니까?
+MID_QuestMenu_AcceptReport_Confirm: 이미 의뢰 내용을 달성했습니다\n이대로 보고하겠습니까?
+MID_QuestMenu_ExclusiveQuest_Confirm: 이 퀘스트에 납품하면 현재 루트에서는\n퀘스트 「{Variable=0}{ConsonantVowel=」을|」를}\n달성할 수 없게 됩니다. 괜찮겠습니까?
+MID_DeliveryMenu_Title: 납품
+MID_DeliveryMenu_ItemSelect_Help: 납품할 물건을 선택해 주십시오
+MID_DeliveryMenu_AnimalSelect_Help: 납품할 동물을 선택해 주십시오
+MID_DeliveryMenu_Confirm: 다음을 납품하겠습니까?
+MID_DeliveryMenu_Select_Confirm: 납품할 수량을 선택해 주십시오
+MID_DeliveryMenu_Cancel_Confirm: 납품을 그만두겠습니까?
+MID_ScoutDeliveryMenu_Confirm: 다음 아이템을 건네겠습니까?
+MID_ScoutDeliveryMenu_Cancel_Confirm: 스카우트를 그만두겠습니까?
+MID_HubMenu_FastTravel: 거점 지도
+MID_FastTravelMenu_Area: 구역
+MID_FastTravelMenu_Facility: 시설
+MID_FastTravelMenu_CanScout: 스카우트 대상
+MID_FastTravelMenu_CannotScout: 스카우트 대상 외
+MID_FastTravelMenu_CanJoin: 가입 가능
+MID_FastTravelMenu_ScoutCondition: 스카우트 조건
+MID_FastTravelMenu_Action: 가능한 일
+MID_FastTravelMenu_Confirm: 근처로 이동하겠습니까?
+MID_FastTravelMenu_NotMove_Message: 지금은 이동할 수 없습니다
+MID_FastTravelMenu_NameOrder: 이름순
+MID_Facility_Special: SPECIAL
+MID_Facility_HalfPrice: 50% OFF
+MID_Facility_Menu_Lv: {Variable=0} LV{Variable=1}
+MID_Facility_MenuBoard: 이번 주 메뉴
+MID_Shop_Buy: 구입
+MID_Shop_Buy_Help: 상품을 구입한다
+MID_Shop_Sell: 매각
+MID_Shop_Sell_Help: 아이템이나 소재를 매각한다
+MID_Shop_Trade: 소재 교환
+MID_Shop_Trade_Help: 가지고 있는 소재를 아이템으로 교환한다
+MID_ShopMenu_Buy_UnitSelect_Help: 아이템을 줄 유닛을 선택해 주십시오
+MID_ShopMenu_Sell_UnitSelect_Help: 어느 유닛의 아이템을 매각할지 선택해 주십시오
+MID_ShopMenu_Help: 아이템을 선택해 주십시오
+MID_Shop_Transport_Help: 무기, 장비품, 아이템 등을 넣는\n모든 동료가 공유하는 주머니
+MID_Shop_Material_Help: 소재나 선물을 넣는\n모든 동료가 공유하는 주머니
+MID_Shop_Price: 가격
+MID_Shop_Stock: 재고
+MID_Shop_NotSell: 매각 불가
+MID_Shop_Sell_TotalNum: 합계 매각 개수
+MID_Shop_Sell_TotalPrice: 합계 매각 금액
+MID_Shop_Buy_TotalNum: 합계 구입 개수
+MID_Shop_Buy_TotalPrice: 합계 구입 금액
+MID_Shop_Consumption: 소비
+MID_Shop_Aquisition: 획득
+MID_Shop_Item_Other: 외
+MID_Shop_Buy_Confirm: 다음 아이템을 구입하겠습니까?
+MID_Shop_Sell_Confirm: 다음 아이템을 매각하겠습니까?
+MID_Shop_Exchange_Confirm: 다음 아이템을 교환하겠습니까?
+MID_Shop_FullItem_Transport_Message: 도구 주머니가 가득 찼습니다\n필요 없는 아이템을 버리거나 매각해 주십시오
+MID_Shop_FullItem_Unit_Message: 더 이상 소지할 수 없습니다\n필요 없는 아이템을 버리거나 매각해 주십시오
+MID_Shop_FullItem_Material_Message: 소재 주머니가 가득 찼습니다
+MID_BlacksmithShop_Refine: 연성
+MID_BlacksmithShop_Refine_Help: 소재를 사용해 무기를 강화한다
+MID_BlacksmithShop_Repair: 수리
+MID_BlacksmithShop_Repair_Help: 소재를 사용해 무기 내구도를 회복한다
+MID_RefineMenu_UnitSelect_Help: 어느 유닛의 무기를 강화할지 선택해 주십시오
+MID_RefineMenu_Help: 무기를 선택해 주십시오
+MID_RefineMenu_Select_Help: 연성 단계를 선택해 주십시오
+MID_RefineMenu_CanRefine: 연성 가능
+MID_RefineMenu_Before: 연성 전
+MID_RefineMenu_After: 연성 후
+MID_RefineMenu_Confirm: 다음과 같이 연성하겠습니까?
+MID_RefineMenu_Result: 무기가 연성되었다
+MID_RepairMenu_UnitSelect_Help: 어느 유닛의 무기를 수리할지 선택해 주십시오
+MID_RepairMenu_Help: 무기를 선택해 주십시오
+MID_RepairMenu_Confirm: 다음과 같이 수리하겠습니까?
+MID_RepairMenu_Result: 무기가 수리되었다
+MID_LegionShop_Sell: 군단병을 보낸다
+MID_LegionShop_Sell_Help: 군단병을 전출시키고 병비치를 획득한다
+MID_LegionSellMenu_Help: 전출시킬 군단병을 선택해 주십시오
+MID_LegionSellMenu_Confirm: 다음 군단병을 전출시키겠습니까?
+MID_LegionSellMenu_Dispatch_Confirm: 이 군단병은 {Variable=0}에 파병 중입니다\n파병을 중단하고 전출시키겠습니까?
+MID_LegionSellMenu_Owner_Confirm: 이 군단병은 {Variable=0}에게 배치 중입니다\n배치를 해제하고 전출시키겠습니까?
+MID_LegionSellMenu_Result: 병비치가 {Variable=0}에 도달하여 다음 아이템을 획득했다
+MID_HubMenu_Stable: 축사
+MID_StableMenu_Naming: 명명/개명
+MID_StableMenu_Naming_Help: 동물의 이름을\n지어 주거나 변경한다
+MID_StableMenu_Breeding: 돌보기
+MID_StableMenu_Breeding_Help: 동물에게 먹을 것을 주어 우호를 다진다
+MID_StableMenu_Release: 놓아주기
+MID_StableMenu_Release_Help: 동물을 놓아주어 전선에서 이탈시킨다\n기념할 물건을 얻는 경우가 있다
+MID_StableMenu_FullRelease_Message: 축사가 가득 찼습니다\n놓아줄 동물을 선택해 주십시오
+MID_NamingMenu_AnimalSelect_Help: 동물을 선택해 주십시오
+MID_ReleaseMenu_AnimalSelect_Help: 동물을 선택해 주십시오
+MID_ReleaselMenu_Confirm: 다음 동물을 놓아주겠습니까?
+MID_ReleaseMenu_OwnerConfirm: 이 동물은 {Variable=0}에게 배치 중입니다\n배치를 해제하고 놓아주겠습니까?
+MID_ReleaseMenu_Result: {Variable=0}{ConsonantVowel=을|를} 놓아주었다
+MID_ReleaseMenu_GetItem_Result: {Variable=0}{ConsonantVowel=은|는} 다음 아이템을 남겼다
+MID_BreedingMenu_FoodSelect_Help: 먹일 것을 선택해 주십시오
+MID_BreedingMenu_FavoriteTaste: 맛 취향
+MID_BreedingMenu_FavoriteFoodType: 식재료 취향
+MID_BreedingMenu_FavoriteFood: 선호 먹이
+MID_BreedingMenu_RideFull: 배부름
+MID_HubMenu_Hotel: 여관
+MID_HotelMenu_Stay: 숙박
+MID_HotelMenu_Stay_Help: 숙박하여 휴식을 취하면\nHP, 마법 횟수, 의욕이 회복된다
+MID_HotelMenu_Dining: 식사
+MID_HotelMenu_Dining_Help: 3명을 골라 함께 식사한다\n함께 식사한 인물 사이의 지원도가 상승한다
+MID_HotelMenu_Reliance: 지원 회화
+MID_HotelMenu_Reliance_Help: 발생한 지원 회화를 감상할 수 있다
+MID_HotelMenu_Individual: 개별 행동
+MID_HotelMenu_Individual_Help: 동료 전원에게 행동을 지시하여\n턴 수에 따른 소재, 골드, EXP 등을 획득한다
+MID_HotelMenu_Individual_Part3_Help: 동료 전원에게 행동을 지시하여\n턴 수에 따른 소재, 골드, EXP 등을 획득한다\n(기한까지 남아 있는 모든 턴을 사용합니다)
+MID_HotelMenu_Stay_Confirm: 숙박하겠습니까?
+MID_HotelMenu_Stay_Part3_Annotation: {Variable=0} 부대는 행동을 종료하고\n월드 맵으로 돌아갑니다
+MID_HotelMenu_Stay_Part3Ism_Annotation: {AvatarName}{ConsonantVowel=은|는} 행동을 종료하고\n월드 맵으로 돌아갑니다\n「부대 편성」은 사용할 수 있습니다
+MID_DiningMenu_RecipeSelect_Help: 요리를 선택해 주십시오
+MID_DiningMenu_Confirm: 다음과 같이 식사하겠습니까?
+MID_IndividualMenu_Help: 동료의 행동을 선택해 주십시오
+MID_IndividualMenu_Action: 행동
+MID_IndividualMenu_ActualCombat: 실전
+MID_IndividualMenu_Confirm: 몇 턴 동안 개별 행동을 실행할지 결정해 주십시오
+MID_IndividualMenu_Reminder_Confirm: 일정 알림을 설정한 {Variable=0} {Variable=1}을 건너뛰게 됩니다\n그래도 실행하겠습니까?\n(일정 알림을 설정한 날까지 앞으로 {Variable=2}턴)
+MID_IndividualMenu_Reminder_Yes: 실행
+MID_IndividualMenu_Reminder_Yes_Fixed: {Variable=0}턴 동안만 실행
+MID_IndividualMenu_Reminder_No: 뒤로
+MID_HubMenu_Thermae: 테르메
+MID_ThermaeMenu_Thermae: 입욕
+MID_ThermaeMenu_Thermae_Help: 선택한 동료 2명이 함께 입욕한다\n지원도가 상승하고 HP, 마법 횟수, 의욕이 회복된다\n이 장의 메인 배틀이 끝날 때까지 지속되는 특별한 스킬을 얻는다
+MID_ThermaeMenu_Thermae_Part3_Help: 선택한 동료 2명이 함께 입욕한다\n지원도가 상승하고 HP, 마법 횟수, 의욕이 회복된다\n모든 메인 배틀이 끝날 때까지 지속되는 특별한 스킬을 얻는다
+MID_ThermaeMenu_ThermaeSelect_Help: 입욕할 탕을 선택해 주십시오
+MID_ThermaeMenu_Confirm: 다음과 같이 입욕하겠습니까?
+MID_HubMenu_Theater: 극장
+MID_TheaterMenu_Act: 출연
+MID_TheaterMenu_Act_Help: 선택한 동료들이 연극에 출연한다\n출연한 동료 사이의 지원도가 상승하고\n결과에 따른 보수를 받는다
+MID_TheaterMenu_Watch: 관람
+MID_TheaterMenu_Watch_Help: 선택한 동료 2명이 연극을 관람한다\n동료 사이의 지원도가 상승한다
+MID_TheaterMenu_HelpDetail: 작품 상세
+MID_TheaterMenu_DramaGenre_Comedy: 희극
+MID_TheaterMenu_DramaGenre_Tragedy: 비극
+MID_TheaterMenu_DramaGenre_Opera: 가극
+MID_TheaterMenu_DramaGenre_Special: 특별 공연
+MID_TheaterActMenu_Confirm: 다음과 같이 출연하겠습니까?
+MID_TheaterActMenu_GetFunItem_Result: 관객으로부터 선물을 받았다
+MID_TheaterAct_Recovery: 평가 UP
+MID_TheaterAct_Recovery_Message: {Variable=0}의 열연으로 밀어붙였다!
+MID_TheaterWatchMenu_Confirm: 다음과 같이 관람하겠습니까?
+MID_TheaterWatch_Perfect_Message: 둘은 같은 감상을 나누고 공감했다!
+MID_TheaterWatch_Good_Message: 둘 다 그럭저럭 즐거웠던 모양이다
+MID_TheaterWatch_Bad_Message: 혼자만 즐거웠던 모양이다……
+MID_PerchMenu_Perch: 백아와 교류한다
+MID_PerchMenu_Perch_Help: 먹을 것을 주며 백아와 교류한다\n({AvatarName}{ConsonantVowel=이|가} 백아의 모습으로\n동료와 교류하여 지원도가 상승합니다)
+MID_PerchMenu_Perch_Part3: 동료를 지켜본다
+MID_PerchMenu_Perch_Part3_Help: 백아가 되어 동료의 모습을 지켜본다
+MID_PerchMenu_Obelisk: 방첨탑의 방으로 간다
+MID_PerchMenu_Obelisk_Help: {Variable=0}의 이야기를 일시적으로 중단한다\n(방첨탑의 방에서는 다른 인물의 이야기를 진행하거나\n무비 및 음악을 감상할 수 있습니다)
+MID_PerchMenu_BattleHint: 길잡이 예언
+MID_PerchMenu_BattleHint_Help: 이 장의 메인 배틀에 대한 정보나\n도움말을 확인할 수 있다
+MID_PerchMenu_BattleHint_Part3_Help: 이 구분의 메인 배틀에 대한 정보나\n도움말을 확인할 수 있다
+MID_PerchMenu_ResetChapter_Help: 이 장을 처음부터 다시 시작한다\n(장 시작부터 지금까지의 진행 상황은 소실됩니다)
+MID_PerchMenu_ResetChapter_Part3_Help: 이 구분을 처음부터 다시 시작한다\n(구분 시작부터 지금까지의 진행 상황은 소실됩니다)
+MID_PerchMenu_FoodSelect_Help: 먹일 것을 선택해 주십시오
+MID_PerchMenu_Confirm: 다음과 같이 먹을 것을 주겠습니까?
+MID_PerchMenu_Part3_Confirm: {Variable=0}{ConsonantVowel=을|를} 지켜보겠습니까?
+MID_Perch_QuetionCorrect_Message: (기뻐하는 것 같다)
+MID_Perch_QuetionWrong_Message: (별로 기쁘지 않은 것 같다)
+MID_GazeMenu_FreeTime: Free Time
+MID_GazeMenu_Gaze: 바라본다
+MID_GazeMenu_Farewell: 종료
+MID_BattleHintMenu_MainBattle: 메인 배틀
+MID_BattleHintMenu_Lv: 추천 LV
+MID_BattleHintMenu_JobRank: 추천 병과 랭크
+MID_BattleHintMenu_WeaponRank: 추천 무기 랭크
+MID_BattleHintMenu_Job: 추천 병과
+MID_BattleHintMenu_Item: 추천 아이템
+MID_BattleHintMenu_Advice: 조언
+MID_BattleHintMenu_SortiePlayer: 아군
+MID_BattleHintMenu_SortieGuest: GUEST
+MID_DivinationMenu_DivinationVisiter: 점 보기
+MID_DivinationMenu_DivinationVisiter_Help: 아나톨리아에게 부탁해 운수를 점친다
+MID_DivinationMenu_DivinationVisiter_Confirm: 운수를 점치겠습니까?
+MID_DivinationMenu_Divination: 
+MID_DivinationMenu_Divination_Help: 
+MID_DivinationMenu_Divination_Confirm: 
+MID_HubMenu_Temple: 신에 대한 봉사
+MID_TempleMenu_MiracleEquip: 가호
+MID_TempleMenu_MiracleEquip_Help: 어느 신의 가호를 전투에서 사용할지 선택할 수 있다
+MID_TempleMenu_Volunteer: 봉사 활동
+MID_TempleMenu_Trial: 시련
+MID_TempleMenu_Trial_Help: {Variable=0}를 받은 병사에게 도전한다\n승리하면 강력한 무구를 획득한다
+MID_TempleMenu_Trial_RecommendedLv: 추천 LV
+MID_TempleMenu_Trial_Clear: Clear
+MID_TempleMenu_HelpDetail: 신전 상세
+MID_TempleMenu_HelpDetail_Miracle: 가호의 효과
+MID_TempleMenu_HelpDetail_LuckyWeek: 길일
+MID_TempleMenu_HelpDetail_WholeLuckyWeek: ALL
+MID_TempleMenu_Reinforce: 전투 기술 강화
+MID_TempleMenu_Reinforce_Help: 전투 기술을 강화하여 능력을 향상시키거나\n무기의 내구 소비를 경감한다
+MID_TempleMenu_Educate: 비전 전수
+MID_TempleMenu_Educate_Help: 디트리히가 흉전사로부터 습득한 비전을 동료에게 전수한다
+MID_TempleMenu_Audience: 알현
+MID_MiracleEquipMenu_Help: 가호를 {Variable=0}개 선택할 수 있습니다
+MID_MiracleEquipMenu_EquippedNum: 선택 개수
+MID_MiracleEquipMenu_Info_Help: 가호의 효과를 확인할 수 있습니다
+MID_MiracleEquipMenu_NotTemple_Message: 가호는 신전이나\n신전이 있는 거점에서 선택할 수 있습니다
+MID_MiracleEquipMenu_Invalid_Message: 지금은 변경할 수 없습니다
+MID_VolunteerMenu_Confirm: 다음과 같이 봉사 활동을 하겠습니까?
+MID_TrialMenu_Help: 퀵 배틀에 출격할 유닛을 선택해 주십시오
+MID_TrialMenu_Confirm: 시련에 도전하겠습니까?
+MID_ReinforceMenu_UnitSelect_Help: 어느 유닛의 전투 기술을 강화할지 선택해 주십시오
+MID_ReinforceMenu_Help: 전투 기술을 선택해 주십시오
+MID_ReinforceMenu_Confirm: 다음과 같이 강화하겠습니까?
+MID_EducateMenu_UnitSelect_Help: 전수받을 유닛을 선택해 주십시오
+MID_EducateMenu_Help: 비전을 선택해 주십시오
+MID_EducateMenu_Confirm: 다음과 같이 비전을 전수하겠습니까?
+MID_HubMenu_ClassExaminer: 자격 시험
+MID_TempleMenu_ClassChange: 병과 변경
+MID_TempleMenu_ClassChange_Help: 이미 자격이 있는 다른 병과로 변경한다
+MID_TempleMenu_ClassTrial: 자격 시험
+MID_TempleMenu_ClassTrial_Help: 병과의 자격 시험에 도전한다\n합격하면 그 병과가 될 수 있다
+MID_TempleMenu_ClassRecycle: 자격 반납
+MID_TempleMenu_ClassRecycle_Help: 인원이 제한되어 있는 병과의 자격을 반납한다\n(시험용 아이템이 반환됩니다)
+MID_ClassTrialMenu_UnitSelect_Help: 시험을 칠 유닛을 선택해 주십시오
+MID_ClassTrialMenu_ClassSelect_Help: 랭크를 선택해 주십시오
+MID_ClassTrialMenu_JobRank: 랭크
+MID_ClassTrialMenu_JobRank_None: 기본직
+MID_ClassTrialMenu_JobRank_Novice: 초급직
+MID_ClassTrialMenu_JobRank_Middle: 중급직
+MID_ClassTrialMenu_JobRank_Higher: 상급직
+MID_ClassTrialMenu_JobRank_Super: 최상급직
+MID_ClassTrialMenu_JobRank_Legend: 신장직
+MID_ClassTrialMenu_JobSelect_Help: 병과를 선택해 주십시오
+MID_ClassTrialMenu_JobRankSelect: {Variable=0} 시험
+MID_ClassTrialMenu_PassRate: 합격 확률
+MID_ClassTrialMenu_RequiredMastery: 주요 기술 능력 LV
+MID_ClassTrialMenu_ElectiveMastery: 선택 기술 능력 LV
+MID_ClassTrialMenu_ConditionPart3: 구세편
+MID_ClassTrialMenu_TrialInfo: 시험 내용
+MID_ClassTrialMenu_Job_Bonus: 성장/기술 능력
+MID_ClassTrialMenu_MasterSkill: 마스터 스킬
+MID_ClassTrialMenu_UsableMastery: 사용 가능 기술 능력
+MID_ClassTrialMenu_SkillEXP_Bonus: 기술 능력 EXP 보너스
+MID_ClassTrialMenu_Confirm: 다음 시험을 치겠습니까?
+MID_ClassTrialMenu_PassRateFull_Message: 이 병과는 합격 확률이 100%일 때만 시험을 칠 수 있습니다
+MID_ClassTrialMenu_ChangeConfirm: 합격한 병과로 즉시 변경하겠습니까?
+MID_Sys_Result_ClassTrial_Passed: 합격
+MID_Sys_Result_ClassTrial_Failed: 불합격
+MID_ClassChangeMenu_UnitSelect_Help: 변경할 유닛을 선택해 주십시오
+MID_ClassChangeMenu_JobSelect_Help: 변경할 병과를 선택해 주십시오
+MID_ClassChangeMenu_Confirm: 다음 병과로 변경하겠습니까?
+MID_ClassChangeMenu_CostumeInvalid_Message: {Variable=0}{ConsonantVowel=은|는} 이 병과일 때 의상을 변경할 수 없습니다
+MID_ClassRecycleMenu_JobSelect_Help: 병과를 선택해 주십시오
+MID_ClassRecycleMenu_Confirm: 이 병과의 자격을 반납하겠습니까?\n(시험용 아이템이 반환됩니다)
+MID_ClassRecycleMenu_JobChange_Confirm: 현재의 병과를 변경할 필요가 있습니다\n즉시 변경하겠습니까?
+MID_ClassRecycleMenu_Change_Confirm: 자격을 반납하고 이 병과로 변경하겠습니까?\n(시험용 아이템이 반환됩니다)
+MID_HubMenu_Arena: 투기장
+MID_ArenaMenu_Training: 훈련
+MID_ArenaMenu_Training_Help: 훈련으로 각종 기술 능력을 단련한다
+MID_ArenaMenu_Watching: 관전
+MID_ArenaMenu_Watching_Help: 개최 중인 시합을 관전한다\n동료 전원의 기술 능력 EXP가 상승한다
+MID_ArenaMenu_Watching_Accepting: 관전 접수 중
+MID_TrainingMenu_Help: 내용을 선택해 주십시오
+MID_TrainingMenu_TrainingMastery: 기술 능력
+MID_TrainingMenu_Confirm: 다음과 같이 훈련하겠습니까?
+MID_WatchingMenu_Confirm: 시합을 관전하겠습니까?
+MID_HubMenu_Training: 훈련장
+MID_SortiePlanMenu_BottomUp: 전력 향상 단련
+MID_SortiePlanMenu_BottomUp_Help: 실력이 부족한 동료를 단련시켜\n상위권의 동료에 근접한 수준까지 레벨을 올린다
+MID_SortiePlanMenu_BottomUp_Confirm: 전력 향상 단련을 실행하겠습니까?
+MID_SortiePlanMenu_Training: 전군 기술 능력 훈련
+MID_SortiePlanMenu_Training_Heip: 동료 전원을 훈련시켜 기술 능력을 향상시킨다
+MID_SortiePlanMenu_Training_Confirm: 전군 기술 능력 훈련을 실행하겠습니까?
+MID_SortiePlanMenu_Volunteer: 단체 봉사 활동
+MID_SortiePlanMenu_Volunteer_Help: 선택한 신을 위해 동료 전원이\n봉사 활동을 실시하여 공헌도를 상승시킨다
+MID_SortiePlanMenu_Volunteer_Confirm: 단체 봉사 활동을 실행하겠습니까?
+MID_CharaMaking_Page_Body: BODY
+MID_CharaMaking_Page_Skin: SKIN
+MID_CharaMaking_Page_Head: HEAD
+MID_CharaMaking_Page_Hair: HAIR
+MID_CharaMaking_Page_Clothes: CLOTHES
+MID_CharaMaking_Page_Name: NAME
+MID_CharaMaking_Page_Confirm: CHECK
+MID_CharaMaking_BodyType: BODY TYPE SELECT
+MID_CharaMaking_SkinColor: SKIN COLOR SELECT
+MID_CharaMaking_HeadType: HEAD TYPE SELECT
+MID_CharaMaking_HairColor: HAIR COLOR SELECT
+MID_CharaMaking_Clothes: CLOTHES SELECT
+MID_CharaMaking_Check: FINAL CHECK
+MID_CharaMaking_Type_A: TYPE A
+MID_CharaMaking_Type_B: TYPE B
+MID_CharaMaking_Type_C: TYPE C
+MID_CharaMaking_Type_D: TYPE D
+MID_CharaMaking_Type_E: TYPE E
+MID_CharaMaking_Swkbd_Header: 이름을 입력해 주십시오(사용할 수 없는 문자는 ■로 표시됩니다)
+MID_CharaMaking_Confirm_Yes: OK
+MID_CharaMaking_Confirm_RemakeAppearance: 외형 변경
+MID_CharaMaking_Confirm_Rename: 이름 변경
+MID_HeroMenu_Start_Part1: 이 방첨탑과 접촉한다
+MID_HeroMenu_Start_Part2: 전쟁편에 도전한다
+MID_HeroMenu_Start_Part3: 결전에 도전한다
+MID_HeroMenu_Start_Part1_Confirm: 이 방첨탑과 접촉하여\n진영장 {Variable=0}{ConsonantVowel=을|를} 인도하겠습니까?
+MID_HeroMenu_Start_Part2_Confirm: {Variable=0}{ConsonantVowelL=으로|로} 전쟁편에 도전하겠습니까?
+MID_HeroMenu_Start_Part3_Confirm: 마신 발로르와의 결전에 도전하겠습니까?
+MID_HeroMenu_Continue_Part1: {Variable=0}{ConsonantVowel=을|를} 재개한다
+MID_HeroMenu_Continue_Part2: 전쟁편을 재개한다
+MID_HeroMenu_Continue_Part3: 구세편을 재개한다
+MID_HeroMenu_Continue_Confirm: {Variable=0}부터 다시 시작하겠습니까?
+MID_HeroMenu_Continue_Part3_Confirm: 구세편을 다시 시작하겠습니까?
+MID_HeroMenu_Skip_Part2: 전쟁편을 스킵한다
+MID_HeroMenu_Skip_Confirm: 전쟁편의 줄거리만 보고\n클리어한 것으로 처리합니다\n동료는 자동으로 성장합니다\n전쟁편을 스킵하겠습니까?
+MID_HeroMenu_Skip_Comment: 클리어 후에도 다시 플레이할 수 있습니다
+MID_HeroMenu_Skip_Attention: {Variable=0} 전쟁편의 중단 데이터는 소실됩니다
+MID_HeroMenu_Restart: 원하는 장부터 다시 플레이
+MID_HeroMenu_Restart_Attention: {Variable=0}의 중단 데이터가 있습니다\n다시 플레이하면 데이터가 덮어씌워집니다
+MID_HeroMenu_Restart_Part2_Attention: {Variable=0} 전쟁편의 중단 데이터가 있습니다\n다시 플레이하면 데이터가 덮어씌워집니다
+MID_HeroMenu_RestartChapter_Confirm: 이 장부터 다시 플레이하겠습니까?
+MID_HeroMenu_RestartChapter_Attention: 제1부를 클리어할 때마다 해당 클리어 상태로\n전쟁편의 시작 데이터가 덮어씌워집니다
+MID_HeroMenu_Restart_Part3: 원하는 구분부터 다시 플레이
+MID_HeroMenu_Restart_Part3_Attention: 원하는 구분부터 다시 플레이하면\n진행 상황, 동료의 레벨 등이\n해당 시점의 상태로 돌아갑니다
+MID_HeroMenu_RestartChapter_Part3_Confirm: 이 구분부터 다시 플레이하겠습니까?
+MID_HeroMenu_RestartChapter_Continue_Confirm: 재강림을 하기 전의 데이터입니다\n{AvatarName}의 병과가 가디언이 됩니다\n이 구분부터 다시 플레이하겠습니까?
+MID_HeroMenu_ClearData_KeyHelp: 클리어 데이터 확인
+MID_HeroMenu_Mastery: 특기 기술 능력
+MID_ResumeMenu_Help: 다시 플레이할 장을 선택해 주십시오
+MID_ResumeMenu_Part3_Help: 다시 플레이할 구분을 선택해 주십시오
+MID_ResumeMenu_UpdateDate: 갱신 일시
+MID_ChapterStatus_Title: 스테이터스 확인
+MID_ChapterStatus_Title_Help: 개시 시점의 아군 상태를 확인할 수 있습니다
+MID_ClearStatus_Title: 클리어 데이터 확인
+MID_ClearStatus_Help: 전쟁편 클리어 시점의 스테이터스를 확인할 수 있습니다
+MID_ClearStatus_Acquired_Skill: 새 스킬을 습득했습니다
+MID_ClearStatus_Acquired_Arts: 새 전투 기술을 습득했습니다
+MID_ObeliskMenu_Memory: 지금까지의 기억
+MID_ObeliskMenu_Memory_Help: 이벤트 감상, 사운드 감상, 지원 회화 감상 등\n지금까지의 기억을 되돌아볼 수 있다
+MID_ObeliskMenu_Memory_Sound: 사운드 감상
+MID_ObeliskMenu_Memory_Movie: 무비 감상
+MID_ObeliskMenu_Memory_Event: 이벤트 감상
+MID_ObeliskMenu_Memory_Reliance: 지원 회화 감상
+MID_ObeliskMenu_Destiny: 위업록
+MID_ObeliskMenu_Destiny_Help: 지금까지 달성한 여러 기록을 확인하고\n보수로 인과의 파편을 받는다
+MID_ObeliskMenu_Causation: 구세의 축복
+MID_ObeliskMenu_Causation_Help: 위업록 등에서 얻은 인과의 파편을 사용하여\n게임 플레이에 도움이 되는 다양한 효과를 해방한다
+MID_ObeliskMenu_CausationSkill: 
+MID_ObeliskMenu_CausationSkill_Help: 
+MID_ObeliskMenu_UnitMarge: 동료의 인과 융합
+MID_ObeliskMenu_UnitMarge_Help: 구세편의 동료 유닛 능력을\n전쟁편 클리어 시점의 해당 유닛 능력과 융합한다
+MID_ObeliskMenu_Depository: 안식처의 성궤
+MID_ObeliskMenu_Depository_Help: 인과의 파편을 사용하여\n아이템, 소재 등을 생성한다
+MID_ObeliskMenu_DownDifficulty: 난이도 변경
+MID_ObeliskMenu_DownDifficulty_Help: 게임의 난이도를 낮춘다\n(난이도를 낮추더라도 이야기 전개에 영향은 없습니다)
+MID_AchieveMenu_Help: 기록을 확인하고, 달성한 항목의 보수를 받을 수 있습니다
+MID_AchieveMenu_Battle: 전투
+MID_AchieveMenu_Hub: 거점
+MID_AchieveMenu_Gmap: 월드 맵
+MID_AchieveMenu_Friend: 동료
+MID_AchieveMenu_Item: 아이템
+MID_AchieveMenu_Report: 그 외
+MID_AchieveMenu_State: 해방 상황
+MID_AchieveMenu_Receive_Result: 「{Variable=0}」의\n보수를 획득했다
+MID_AchieveMenu_ReceiveAll_Confirm: 달성 보수를 모두 받겠습니까?
+MID_AchieveMenu_ReceiveAll_Result: 달성 보수를 모두 받았다
+MID_CausationMenu_Help: 해방할 축복을 선택해 주십시오
+MID_CausationMenu_Opened: 해방 완료
+MID_CausationMenu_NotCondition: 조건 미달
+MID_CausationMenu_Condition_Message: 인과율 변동을 {Variable=0}명 이상 완료하면 해방됩니다
+MID_CausationMenu_Confirm: 「{Variable=0}」의\n축복을 해방하겠습니까?
+MID_CausationMenu_Confirm2: 「{Variable=0} {Variable=1}」의\n축복을 해방하겠습니까?
+MID_UnitMergeMenu_UnitSelect_Help: 능력을 계승시킬 유닛을 선택해 주십시오
+MID_UnitMergeMenu_RouteSelect_Help: 어느 루트의 유닛으로부터 능력을 계승할지 선택해 주십시오
+MID_UnitMergeMenu_Confirm: 선택한 내용대로 인과 융합을 실행하겠습니까?
+MID_UnitMergeMenu_Acquired: 계승할 {Variable=0}
+MID_UnitMergeMenu_Acquired_Other: 그 외 {Variable=0}개
+MID_UnitMergeMenu_JobExpUp: 병과 EXP 상승
+MID_DepositoryMenu_Item_Help: 생성할 아이템을 선택해 주십시오
+MID_DepositoryMenu_Ride_Help: 생성할 동물을 선택해 주십시오
+MID_DepositoryMenu_Legion_Help: 생성할 군단병을 선택해 주십시오
+MID_DepositoryMenu_TotalNum: 합계
+MID_DepositoryMenu_TotalPrice: 필요한 파편
+MID_DepositoryMenu_Confirm: 다음을 생성하겠습니까?
+MID_DepositoryMenu_Need_KAI_Message: 동물은 인과가 성립된 카이가 동료로 있어야 생성할 수 있습니다
+MID_DepositoryMenu_Need_SEO_Message: 군단병은 인과가 성립된 세오도라가 동료로 있어야 생성할 수 있습니다
+MID_DepositoryMenu_Overlap_Animal_Message: 이미 동일한 개체가 있으므로 생성할 수 없습니다
+MID_DepositoryMenu_FullItem_Animal_Message: 동물을 더 이상 보유할 수 없습니다
+MID_DepositoryMenu_FullItem_Legion_Message: 군단병을 더 이상 보유할 수 없습니다
+MID_DownDifficulty_Confirm: 게임 난이도를 현재의 「{Variable=0}」에서\n「{Variable=1}{ConsonantVowelL=」으로|」로} 변경하겠습니까?
+MID_DownDifficulty_Annotation: 난이도를 낮추는 것만 가능합니다\n난이도를 높이기 위해서는\n「재강림」을 해야 합니다
+MID_DownDifficulty_Result: 난이도를 「{Variable=0}{ConsonantVowelL=」으로|」로} 변경했습니다
+MID_DownDifficulty_Lowest_Message: 「{Variable=0}」 난이도에서는 변경할 수 없습니다
+MID_MemoryMovieMenu_Help: 무비를 선택해 주십시오
+MID_MemoryEventMenu_Help: 이벤트를 선택해 주십시오
+MID_MemoryEventMenu_Conditions: 발생 조건
+MID_MemorySoundMenu_Help: 음악을 선택해 주십시오
+MID_MemorySoundMenu_BattleOn: BATTLE ON
+MID_MemorySoundMenu_BattleOff: BATTLE OFF
+MID_MemorySoundMenu_Arrange: CHANGE ARR.
+MID_MemorySoundMenu_NowPlaying: ♪NOW PLAYING
+MID_MemorySoundMenu_Note: ♪
+MID_CrownJobInfo_Message: {Variable=0}에 잠들다……
+MID_Crown_OpenDoor_Confirm: 천관의 열쇠를 사용하여\n{Variable=0}의 문을 열겠습니까?\n(열쇠 소지 수: {Variable=1})
+MID_Crown_NotOpenDoor_Message: 이 문을 열기 위해서는 「천관의 열쇠」가 필요합니다\n(각지의 던전에 숨겨져 있습니다)
+MID_Crown_NotOpenTemple_Message: 아직 들어갈 수 없습니다
+MID_HubMenu_MainQuest: 메인 퀘스트
+MID_HubMenu_MainQuest_Help: 메인 퀘스트로 넘어간다\n(자유행동 기간은 종료됩니다)
+MID_HubMenu_SubQuest: 서브 퀘스트
+MID_HubMenu_SubQuest_Help: 서브 퀘스트를 수락하거나\n보고할 수 있다
+MID_HubMenu_SideStory: 외전
+MID_HubMenu_SideStory_Help: 외전을 시작한다\n(자유행동 기간은 종료되지 않습니다)
+MID_HubMenu_Gift: 선물
+MID_HubMenu_Gift_Help: 선물을 전달해 친목을 다진다\n상대와의 지원도가 상승한다
+MID_HubMenu_Scout: 스카우트
+MID_HubMenu_Scout_Help: 동료로 영입한다\n성공하려면 조건을 만족시키거나\n요구를 들어줄 필요가 있다
+MID_HubMenu_ScoutInfo: 인물 정보
+MID_HubMenu_ScoutInfo_Help: 인물의 능력이나 좋아하는 것,\n동료로 영입하기 위한 조건 등의\n정보를 확인한다
+MID_HubMenu_SortiePlan: 전군 행동
+MID_HubMenu_SortiePlan_Help: 군의 전력을 향상시킬 수 있는\n행동을 하나 선택하여 실행한다
+MID_HubMenu_Lesson: 지도
+MID_HubMenu_Lesson_Help: 지도를 받아 지식이나 아이템 등\n전투가 유리해지는 보수를 얻는다
+MID_HubMenu_Procurement: 군비 증강
+MID_HubMenu_Procurement_Help: 살라미스의 백성에게 소재를 전달해\n명성을 높인다
+MID_HubMenu_Divination: 점집
+MID_HubMenu_Aurora: 아우로라의 방으로
+MID_HubMenu_Outing: 
+MID_HubMenu_Outing_Return: 
+MID_EXMenu_EX-091: 
+MID_EXMenu_EX-088: 

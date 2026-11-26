@@ -1,0 +1,421 @@
+﻿MID_Shop_Weapon: 武器屋
+MID_Shop_Tool: 道具屋
+MID_Shop_Blacksmith: 鍛冶屋
+MID_Shop_Market: 贈り物屋
+MID_Shop_Drink: 飲み物係
+MID_Shop_Legion: 軍兵輸送
+MID_Shop_Trader: 行商人
+MID_Shop_Talimun: ヴァンダル商会
+MID_Shop_Anna: アンナの秘密の店
+MID_Shop_Bill: 手形販売
+MID_Shop_Bazaar: 市場
+MID_DiningMenu_Recipe_Meat01: 焼き山羊肉
+MID_DiningMenu_Recipe_Meat01_Help: 下味をつけた山羊肉を豪快に焼き\n上げた肉料理。旨味あふれる肉汁と\n香草の香りが食欲を呼び覚ます
+MID_DiningMenu_Recipe_Meat02: 岩塩かけハム
+MID_DiningMenu_Recipe_Meat02_Help: 岩塩を擦りこんだスナブタ肉を\n時間をかけて燻製にしたもの\n香りと塩味の刺激がたまらない
+MID_DiningMenu_Recipe_Meat03: 豆とスナブタの丸ごと煮
+MID_DiningMenu_Recipe_Meat03_Help: ほのかな苦みを含んだ豆と重厚な\n肉が互いの個性を引き立て合う\nスープと一緒に召し上がれ
+MID_DiningMenu_Recipe_Meat04: ダグザナナフシの甘辛煮
+MID_DiningMenu_Recipe_Meat04_Help: 揚げ煮にされたナナフシのサクッと\n軽い歯ごたえが何とも心地よい\nサラミス王国の名物の一つ
+MID_DiningMenu_Recipe_Fish01: ホタテガーリック炭火焼き
+MID_DiningMenu_Recipe_Fish01_Help: ホタテに酪脂をのせてじっくりと\n炭火で焼き上げた贅沢な一品\n海と陸の味覚の素敵な相乗効果
+MID_DiningMenu_Recipe_Fish02: 魚醤のスープ
+MID_DiningMenu_Recipe_Fish02_Help: 鍋一杯の魚介でとった出汁に相性\n抜群の魚醤で味を調えたもの\n無くなるまで匙がとまらない
+MID_DiningMenu_Recipe_Fish03: 炭火焼き魚
+MID_DiningMenu_Recipe_Fish03_Help: 朝獲れの新鮮な魚を炭火でじっくり\n焼き上げた魚料理の王道ど真ん中\n苦みのある腸も残さず食べるべし
+MID_DiningMenu_Recipe_Fish04: 炙りチーズザリガニ
+MID_DiningMenu_Recipe_Fish04_Help: 大ぶりのザリガニをたっぷりの\n乾酪とともに焼き上げた魚介料理\n彩りが目にも美しい豪華な一皿
+MID_DiningMenu_Recipe_Vegee01: 梨のシロップ煮
+MID_DiningMenu_Recipe_Vegee01_Help: 甘い梨をたっぷりの蜜で柔らかく\n煮込んだ果物料理。頬が落ちそうに\nなるほどの極上の甘味体験
+MID_DiningMenu_Recipe_Vegee02: マダジーン
+MID_DiningMenu_Recipe_Vegee02_Help: バク粉に野菜をたっぷり練り込み、\n香ばしく揚げた甘い麺包\nおやつに、主食に、もってこい
+MID_DiningMenu_Recipe_Vegee03: テフノミの果醤
+MID_DiningMenu_Recipe_Vegee03_Help: テフノミを甘く煮詰めた果醤\nいろんなものにたっぷり載せて\n一緒に食べればもう幸せ
+MID_DiningMenu_Recipe_Vegee04: カボチャスープ
+MID_DiningMenu_Recipe_Vegee04_Help: くりぬいた南瓜を器にした豪快な\nどっしり野菜料理。甘さと辛さの\n絶妙な組み合わせが癖になる
+MID_ThermaeMenu_Spring01: 温熱の湯
+MID_ThermaeMenu_Spring01_Help: 少し熱めで血行の良くなる湯\n獲得スキル例「力の効能」\n「必殺の効能」など
+MID_ThermaeMenu_Spring02: 爽快の湯
+MID_ThermaeMenu_Spring02_Help: 穏やかな温度でスッキリする湯\n獲得スキル例「速さの効能」\n「回避の効能」など
+MID_ThermaeMenu_Spring03: 薬治の湯
+MID_ThermaeMenu_Spring03_Help: 身体に良い薬草袋を沈めた湯\n獲得スキル例「怒髪天の効能」\n「体格の効能」など
+MID_ThermaeMenu_Spring04: 芳花の湯
+MID_ThermaeMenu_Spring04_Help: 良い香りの花で匂いをつけた湯\n獲得スキル例「傷癒の効能」\n「魔力の効能」など
+MID_ThermaeMenu_SpringA01: 紅玉の湯
+MID_ThermaeMenu_SpringA01_Help: 紅玉の砕粉を混ぜた活力の湧く湯\n獲得スキル例「力の効能」\n「戦技の効能」など
+MID_ThermaeMenu_SpringA02: 黄金の湯
+MID_ThermaeMenu_SpringA02_Help: 金粉を豪華に使った黄金に輝く湯\n獲得スキル例「回避の効能」\n「超活性の効能」など
+MID_ThermaeMenu_SpringA03: 翡翠の湯
+MID_ThermaeMenu_SpringA03_Help: 翡翠の桶で清めた元気の出る湯\n獲得スキル例「怒髪天の効能」\n「命中の効能」など
+MID_ThermaeMenu_SpringA04: 金剛の湯
+MID_ThermaeMenu_SpringA04_Help: 非常に深い地層より汲んだ希少な湯\n獲得スキル例「必殺の効能」\n「大胆不敵の効能」など
+MID_ThermaeMenu_SpringB01: 駿風の湯
+MID_ThermaeMenu_SpringB01_Help: 湯上がり涼しき果実入りの湯\n獲得スキル例「速さの効能」\n「回避の効能」など
+MID_ThermaeMenu_SpringB02: 生命樹の湯
+MID_ThermaeMenu_SpringB02_Help: 高価な古木を浸した滋養に富む湯\n獲得スキル例「超活性の効能」\n「追撃の効能」など
+MID_ThermaeMenu_SpringB03: 火吹山の湯
+MID_ThermaeMenu_SpringB03_Help: 火山石を熱し沈めた闘志の漲る湯\n獲得スキル例「必殺の効能」\n「大胆不敵の効能」など
+MID_ThermaeMenu_SpringB04: 圓月の湯
+MID_ThermaeMenu_SpringB04_Help: 満月の夜に祈祷された聖水の湯\n獲得スキル例「力の効能」\n「技の効能」など
+MID_ThermaeMenu_Special01: 特別温泉 巨人の湯
+MID_ThermaeMenu_Special01_Help: アトラ山麓にある巨大温泉の湯\n獲得スキル例「力の効能＋」\n「必殺の効能＋」など
+MID_ThermaeMenu_Special02: 特別温泉 一角獣の湯
+MID_ThermaeMenu_Special02_Help: 幻の獣も訪れるオーガス山の秘湯\n獲得スキル例「速さの効能＋」\n「回避の効能＋」など
+MID_ThermaeMenu_Special03: 特別温泉 海王の湯
+MID_ThermaeMenu_Special03_Help: リル海に人知れず湧く海底温泉の湯\n獲得スキル例「生命力の効能＋」\n「守備の効能＋」など
+MID_ThermaeMenu_Special04: 特別温泉 魔鳥の湯
+MID_ThermaeMenu_Special04_Help: ウラノス山の高所に湧く神秘の湯\n獲得スキル例「傷癒の効能＋」\n「魔力の効能＋」など
+MID_VolunteerMenu_Pray: 神殿清掃
+MID_VolunteerMenu_Pray_Help: アウロラ神殿への奉仕活動\n心を静めつつ神殿内を丁寧に清めることで\nアウロラ神の加護を得ることができる
+MID_VolunteerMenu_Guard: 神殿警護
+MID_VolunteerMenu_Guard_Help: マーズ神殿への奉仕活動\n神殿の警護任務に従事することで\nマーズ神の加護を得ることができる
+MID_VolunteerMenu_Caring: 猫のお世話
+MID_VolunteerMenu_Caring_Help: スミルノス神殿への一風変わった奉仕活動\n神殿内で飼われている猫たちの世話を行うことで\nスミルノス神の加護を得ることができる
+MID_VolunteerMenu_Library: 書庫の整理
+MID_VolunteerMenu_Library_Help: ジュラ神殿への奉仕活動\n神殿内に保管される大量の蔵書を整理することで\nジュラ神の加護を得ることができる
+MID_VolunteerMenu_Song: 神歌の奉納
+MID_VolunteerMenu_Song_Help: カーラ神殿への奉仕活動\n神殿の聖歌隊に混じり心を込めて歌うことで\nカーラ神の加護を得ることができる
+MID_VolunteerMenu_Statue: 神像作成
+MID_VolunteerMenu_Statue_Help: クレール神殿への奉仕活動\n神殿内に置かれる彫像の制作や修繕を行うことで\nクレール神の加護を得ることができる
+MID_TrainingMenu_Training01: 歩兵訓練
+MID_TrainingMenu_Training01_Help: 歩兵としての基礎的な戦い方を\n学ぶことができる訓練\n剣術、弓術、歩兵術を鍛える
+MID_TrainingMenu_Training02: 闘兵訓練
+MID_TrainingMenu_Training02_Help: 闘技場の剣闘士が用いる、\n様々な武器の扱いを学べる訓練\n剣術、斧術、格闘術を鍛える
+MID_TrainingMenu_Training03: 重装兵訓練
+MID_TrainingMenu_Training03_Help: 兵士や重装の心得を学ぶ訓練\n槍術、斧術、重装術に加え、\n指揮術を鍛える
+MID_TrainingMenu_Training04: 魔法兵訓練
+MID_TrainingMenu_Training04_Help: 攻撃魔法、回復魔法といった\n魔道士としての能力を高める訓練\n黒魔術、白魔術、指揮術を鍛える
+MID_TrainingMenu_Training05: 騎兵飛行訓練
+MID_TrainingMenu_Training05_Help: 騎兵や天翼兵の戦い方の訓練\n槍術、馬術、飛行術に加え、\n指揮術を鍛える
+MID_TrainingMenu_TrainingP3_01: 上級歩兵訓練
+MID_TrainingMenu_TrainingP3_01_Help: 歩兵としての、より高度な\n戦闘技術を学ぶための訓練\n剣術、弓術、歩兵術を鍛える
+MID_TrainingMenu_TrainingP3_02: 上級闘兵訓練
+MID_TrainingMenu_TrainingP3_02_Help: 歴戦の剣闘士たちの教えを元にした\n様々な武器をより上手く扱う訓練\n剣術、斧術、格闘術を鍛える
+MID_TrainingMenu_TrainingP3_03: 上級重装兵訓練
+MID_TrainingMenu_TrainingP3_03_Help: 兵士や重装のより洗練された訓練\n槍術、斧術、重装術に加え、\n指揮術を鍛える
+MID_TrainingMenu_TrainingP3_04: 上級魔法兵訓練
+MID_TrainingMenu_TrainingP3_04_Help: 魔道士としてより高みを目指す者に\n向けた、上級の魔法戦闘訓練\n黒魔術、白魔術、指揮術を鍛える
+MID_TrainingMenu_TrainingP3_05: 上級騎兵飛行訓練
+MID_TrainingMenu_TrainingP3_05_Help: 騎兵や天翼兵向けの厳しい訓練\n槍術、馬術、飛行術に加え、\n指揮術を鍛える
+MID_WatchMenu_WD11_05: 
+MID_WatchMenu_WD11_05_Help: 
+MID_WatchMenu_WD13_04: 予選試合 忘却のアルコルほか
+MID_WatchMenu_WD13_04_Help: “忘却のアルコル”をはじめ、\n他のクランの試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD11_06: 予選試合 雷雲騎士団ほか
+MID_WatchMenu_WD11_06_Help: “雷雲騎士団”をはじめ、\n他のクランの試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD14_06: 予選試合 パルマの雨ほか
+MID_WatchMenu_WD14_06_Help: “パルマの雨”をはじめ、\n他のクランの試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD12_09: 
+MID_WatchMenu_WD12_09_Help: 
+MID_WatchMenu_WD12_10: 予選試合 アラゴの双璧ほか
+MID_WatchMenu_WD12_10_Help: “アラゴ軍”をはじめ、\n他のクランの試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD11_09: 予選試合 ブラガンサ同胞団ほか
+MID_WatchMenu_WD11_09_Help: “ブラガンサ同胞団”をはじめ、\n他のクランの試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD15_11: 特別試合 白髪鬼対死の宣告者
+MID_WatchMenu_WD15_11_Help: 「闘技場の白髪鬼」と\n「死の宣告者」の特別試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD11_10: 本戦試合 カイ対レダ
+MID_WatchMenu_WD11_10_Help: “リベイラの風”と“薔薇の嵐”の\n試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD13_11: 本戦試合 セオドラ対タリムーン
+MID_WatchMenu_WD13_11_Help: “メガエラの灯火”と“月の嘘”の\n試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD15_13: 本戦試合 ベルトラン対オルヘル
+MID_WatchMenu_WD15_13_Help: “炎の鬣”と“リナリアの朝露”の\n試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD12_15: 本戦試合 ディートリヒ対アナトリア
+MID_WatchMenu_WD12_15_Help: “ラミーヌ一家”と\n“白鴉の花嫁団”の試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD13_12: 準決勝戦 カイ対セオドラ
+MID_WatchMenu_WD13_12_Help: “リベイラの風”と\n“メガエラの灯火”の試合の日です\n闘技場で観戦できます
+MID_WatchMenu_WD12_16: 準決勝戦 ディートリヒ対ベルトラン
+MID_WatchMenu_WD12_16_Help: “ラミーヌ一家”と“炎の鬣”の\n試合の日です\n闘技場で観戦できます
+MID_WatchMenu_BD15_08: 
+MID_WatchMenu_BD15_08_Help: 
+MID_WatchMenu_WD15_09: 御前試合 白髪鬼対ガンシン
+MID_WatchMenu_WD15_09_Help: 「闘技場の白髪鬼」と\n「ガンシン」の御前試合の日です\n水晶宮で観戦できます
+MID_Lesson_Title_Explanation1: 戦いの基本講義
+MID_Lesson_Detail_Explanation1: 私はアウロラ様の安全と、ダグシオンの平和のため、\nこれまでに多くの相手と戦ってきました。\nそんな私から、御子どのに、戦いにおける基本の\n心構えについて、お話できればと思います。
+MID_Lesson_Title_Explanation2: 地の利を活かす教え
+MID_Lesson_Detail_Explanation2: これまで色々なことを叩きこんだつもりだが……\nちゃんと教えてやる機会がなかったものもある。\n今は牢の中だから、口で言ってやるしかねえが、\n戦いで役に立つ話だ、聞いて損はねえぞ。
+MID_Lesson_Title_Explanation3: 怪我をしない教え
+MID_Lesson_Detail_Explanation3: カイくんは、カストールに似てるから、ひょっとして\n無茶な戦い方ばっかりしてるんじゃないかしら？\n取り返しの付かない大怪我をする前に、\n怪我をしない戦い方の話をしてあげるわね。
+MID_Lesson_Title_Practice1: 様々な敵との戦い方
+MID_Lesson_Detail_Practice1: 世界は広い……お前はこれから、様々な兵種、\n様々な戦い方の敵と、相まみえることになるだろう。\nだがいかなる敵にも、倒し方というものが存在する。\n仲間に相手を頼んだ。実戦でそれを覚えていけ。
+MID_Lesson_Title_Practice2: 巨大な敵との戦い方
+MID_Lesson_Detail_Practice2: 戦いの中で、戦象、巨人といった巨大な敵を\n相手にせねばならないこともあるでしょう。\nそのような時に慌てず、有効な対処ができるよう、\n実戦形式での稽古を行いましょう。
+MID_Lesson_Title_Subjugation1: 父からの秘密の依頼
+MID_Lesson_Detail_Subjugation1: お前、新しい兵種に興味はねえか？\n俺が出す依頼をこなしてくれたら、裏から話して\n新しい兵種の資格試験を受けられるようにしてやる。\nこれも稽古の一環だ、よろしく頼むぜ！
+MID_Lesson_Title_Subjugation2: 母からの特別な依頼
+MID_Lesson_Detail_Subjugation2: 実は、カイくんの戦いに役立つと思って、\n新しい兵種の試験が受けられるように、\n神殿へ特別な御願いをしてきたの。\n挑戦する気があるなら、わたくしの依頼をきいてね。
+MID_Lesson_Title_Subjugation3: 白髪鬼からの依頼
+MID_Lesson_Detail_Subjugation3: 俺の見たところ、お前の戦闘技術は、それを\n教えた人物によるものか、非常に実戦的だ。\nだから外で戦う方が、良い稽古になるだろう。\n俺が今からいう依頼を、見事こなしてみろ。
+MID_Access_Common: 調べる
+MID_Access_ExitPos: 外へ
+MID_Access_AreaChange: 奥へ
+MID_Access_DngBanquet: 休憩
+MID_Access_Question: ？？？
+MID_Access_Spire: 因果の祭壇
+MID_Access_Goto_KAI_steeple: 狐の方尖塔
+MID_Access_Goto_DIT_steeple: 獅の方尖塔
+MID_Access_Goto_SEO_steeple: 狼の方尖塔
+MID_Access_Goto_LED_steeple: 鷲の方尖塔
+MID_Access_Goto_BEL_steeple: 
+MID_Access_Goto_TAL_steeple: 
+MID_Access_Goto_ORH_steeple: 
+MID_Access_Goto_ANH_steeple: 
+MID_Access_Goto_2_steeple: 戦きの方尖塔
+MID_Access_Goto_3_steeple: 未来への扉
+MID_Access_GodlyPortal: 神の道の門
+MID_Access_ExPortal: 転移装置
+MID_Access_QuestBoard: 案内板
+MID_Access_Bird: 白鴉のとまり木
+MID_Access_Goto_Temple_Aurora: アウロラ神殿へ
+MID_Access_Goto_Temple_Jura: ジュラ神殿へ
+MID_Access_Goto_Temple_Mars: マーズ神殿へ
+MID_Access_Goto_Temple_Smyrnos: スミルノス神殿へ
+MID_Access_Goto_Temple_Claire: クレール神殿へ
+MID_Access_Goto_Temple_Soleil: ソレル神殿へ
+MID_Access_Goto_AutomatonCorridor: 
+MID_Access_Goto_Temple_Carla: カーラ神殿へ
+MID_Access_Goto_Temple_YuPhas: ユ・ファス神殿へ
+MID_Access_Goto_Sewar: 下水道へ
+MID_Access_Goto_Shop_Bar: 酒場へ
+MID_Access_Goto_Guest_Salamis: サラミス迎賓館へ
+MID_Access_Goto_ArenaUnderground: 大闘技場 地下区画へ
+MID_Access_Goto_Temple_YuPhasGarden: 庭園へ
+MID_Access_Goto_Garden_Aurora: アウロラの屋内庭園へ
+MID_Access_Goto_Boudoir: アウロラの私室へ
+MID_Access_Goto_BackRoad: 裏道へ
+MID_Access_Goto_UrbanArea: 市街地へ
+MID_Access_Goto_UpperLayer: ダグシオン 上層へ
+MID_Access_Goto_MiddleLayer: ダグシオン 中層へ
+MID_Access_Goto_UnderLayer: ダグシオン 下層へ
+MID_Access_Goto_Gmap: ダグシオンの外へ
+MID_Access_Goto_Throne: セルヒオの部屋へ
+MID_Access_Goto_Dng_022_A2: 乙女の間
+MID_Access_Goto_Dng_022_A3: 予言者の間
+MID_Access_Goto_Dng_022_A4: 追従者の間
+MID_Access_Goto_Dng_022_A5: 歪形の間
+MID_Access_Goto_Dng_022_A6: 天狼の間
+MID_Access_Out_Outland: 村の外へ
+MID_Access_Out_Town: 街の外へ
+MID_Access_Out_Village: 里の外へ
+MID_Access_Out_Temple: 神殿の外へ
+MID_Access_Out_Sewar: 下水道の外へ
+MID_Access_Out_Shop_Bar: 酒場の外へ
+MID_Access_Out_Guest: 迎賓館の外へ
+MID_Access_Goto_TopLayer: ダグシオン 最上層へ
+MID_Access_Goto_Prison_Lindo: 特別牢へ
+MID_Map_Area_Arena: 大闘技場前 広場
+MID_Map_Area_Shop: 露店街
+MID_Map_Area_Hotel: 市街地
+MID_Map_Area_Temple_Lower: 下参道
+MID_Map_Area_Temple_Upper: 上参道
+MID_Map_Area_Port: 港
+MID_Map_Area_Stable: 厩舎前 通路
+MID_Map_Area_Slums: 貧民街
+MID_Map_Area_Affluent: 富裕区
+MID_Map_Area__Commercial: 遊興区
+MID_Map_Area_Guest_Salamis: サラミス王国迎賓館
+MID_Map_Area_Temple_Dagda: ダグザ神殿前
+MID_Map_Area_Arena_Underground: 大闘技場 地下区画
+MID_Map_Area_Sewar: 下水道
+MID_Map_Area_Bar: 酒場
+MID_Map_Area_Room_Aurora: アウロラの私室
+MID_Map_Area_Garden_Aurora: アウロラの屋内庭園
+MID_Map_Area_Temple_Jura: ジュラ神殿 分殿
+MID_Map_Area_Temple_Mars: マーズ神殿 分殿
+MID_Map_Area_Temple_Smyrnos: スミルノス神殿 分殿
+MID_Map_Area_Temple_YuPhas: ユ・ファス神殿 分殿
+MID_Map_Area_Temple_Carla: カーラ神殿 分殿
+MID_Map_Area_Temple_Claire: クレール神殿 分殿
+MID_Map_Area_Temple_Aurora: アウロラ神殿 分殿
+MID_Map_Facility_Shop_Bill: 手形販売員
+MID_Map_Facility_Shop_Bill_Help: 資格試験を受けるために必要な\n試験手形を購入できる
+MID_Map_Facility_Shop_Market: 贈り物屋 市街地
+MID_Map_Facility_Shop_Market_Help: 各地の特産品や美術品など\n小粋な贈り物の数々を取り扱う店
+MID_Map_Facility_Shop_Bar: 贈り物屋 酒場
+MID_Map_Facility_Shop_Bar_Help: 酒場の片隅で酔客に贈り物を売る店\n求めやすい価格の物が多い
+MID_Map_Facility_Shop_Weapon: 武器屋
+MID_Map_Facility_Shop_Weapon_Help: 一般的に広く流通している品を中心に\n様々な武器を取り揃えた専門店
+MID_Map_Facility_Shop_Tool: 道具屋
+MID_Map_Facility_Shop_Tool_Help: 危険な冒険の中で役立つ\n様々な道具を取り揃えた専門店
+MID_Map_Facility_Shop_Anna: アンナの秘密の店
+MID_Map_Facility_Shop_Anna_Help: 他ではなかなか見かけない珍しい品を\n取り揃えたアンナの秘密のお店
+MID_Map_Facility_Subquest_Hotel: 案内板 市街地
+MID_Map_Facility_Subquest_Temple: 案内板 参道
+MID_Map_Facility_Subquest_Affluent: 案内板 富裕区
+MID_Map_Facility_Subquest_Port: 案内板 港
+MID_Map_Facility_Subquest_Help: 様々な店や施設の情報が集まっている掲示板\n開店した施設から来店の案内が届いていて\n達成すると名声が高まり、良い物が貰える
+MID_Map_Facility_LegionShop: 軍兵輸送長
+MID_Map_Facility_LegionShop_Help: サラミス王国に軍団兵を送る手続きができる\n軍団兵を送ることでサラミスの守りは強固となり\n戦いに役立つ道具が手に入る
+MID_Map_Facility_Blacksmith: 鍛冶屋
+MID_Map_Facility_Blacksmith_Help: 破損した武器の修理を行ったり\nより強い武器に錬成することができる
+MID_Map_Facility_Theater: 劇場
+MID_Map_Facility_Theater_Help: 人気の戯曲を観覧することができる施設\n仲良くなりたい人を誘えば親睦を深められる\n有名になれば戯曲に出演することもできる
+MID_Map_Facility_Hotel: 宿屋 市街地
+MID_Map_Facility_Hotel_Help: ダグシオンを訪れた旅人達の憩いの場\n休むことはもちろん、食事で親睦を深めたり\nすきま時間を有効に活用することができる
+MID_Map_Facility_Hotel_2_Help: 進軍拠点で英気を養う兵士たちの宿舎\n宿泊や食事はできないが、\n支援会話を見ることができる
+MID_Map_Facility_Hotel_Slums: 宿屋 貧民街
+MID_Map_Facility_Hotel_Slums_Help: ダグシオンを訪れた貧しき旅人達の木賃宿\n食事はできないが、宿泊や\nすきま時間を有効に活用することができる
+MID_Map_Facility_Thermae: テルマエ
+MID_Map_Facility_Thermae_Help: ダグザ屈指の公共浴場施設\n仲良くなりたい人を誘ってお湯に浸かれば\n親睦が深まると共に心身に色々な効能が得られる
+MID_Map_Facility_Temple_Aurora: アウロラ神殿 分殿
+MID_Map_Facility_Temple_Claire: クレール神殿 分殿
+MID_Map_Facility_Temple_Carla: カーラ神殿 分殿
+MID_Map_Facility_Temple_Smyrnos: スミルノス神殿 分殿
+MID_Map_Facility_Temple_Mars: マーズ神殿 分殿
+MID_Map_Facility_Temple_Jura: ジュラ神殿 分殿
+MID_Map_Facility_Temple_Help: 神々への謁見や奉仕活動などを行う施設\n奉仕活動を行う者同士の親睦が深まり、\nさらに神々の加護を得られるようになる
+MID_Map_Facility_Temple_2_Help: 信心深い兵士たちへの簡易的な神殿施設\nこれまでに得た神々の加護を選ぶことができる\n奉仕活動は行えない（行軍管理官が担当する）
+MID_Map_Facility_ClassExaminer: 資格試験官
+MID_Map_Facility_ClassExaminer_Help: 資格試験を受けることができる\n試験には、受けたい兵種のランクに\n応じた試験手形が必要になる
+MID_Map_Facility_StableBlock: 厩舎
+MID_Map_Facility_StableBlock_Help: 捕獲した動物を預けておける施設\nお世話することで仲良くなったり、\n名前を付けたりすることができる
+MID_Map_Facility_Perch_Hotel: 白鴉のとまり木 市街地
+MID_Map_Facility_Perch_Temple: 白鴉のとまり木 参道
+MID_Map_Facility_Perch_Affluent: 白鴉のとまり木 富裕区
+MID_Map_Facility_Perch_Port: 白鴉のとまり木 港
+MID_Map_Facility_Perch_Underground: 白鴉のとまり木 地下区画
+MID_Map_Facility_Perch_Help: 誰がいつ建てたのか定かでないとまり木\n不思議な白い小鳥がよくとまっており\n触れ合うことができるという
+MID_Map_Facility_Perch_2_Help: 誰かが拠点に持ち込んだ、とまり木\n行軍中は白い小鳥は現れないが、\n偉業録や先見の助言を確認できる
+MID_Map_Facility_Firm: ヴァンダル商会
+MID_Map_Facility_Firm_Help: 手持ちの素材を物々交換することができる施設\n人や物を繋げることがヴァンダル商会の座右の銘\nごく一般的な物から珍しい品まで扱っている
+MID_Map_Facility_TempleWarp: 神の道の門
+MID_Map_Facility_TempleWarp_Help: 神殿の、本殿と分殿とを繋ぐ不思議な門\n両神殿の間を一瞬で移動することができる\n門を使うにはそれぞれの神の許しが必要
+MID_Map_Facility_Arena: 闘技場
+MID_Map_Facility_Arena_Help: ダグザ帝国が誇る大闘技場\n日夜剣闘士達による激闘が行われる戦いの聖地\nその一角が訓練用に開放されている
+MID_Map_Facility_Divination: 占い屋
+MID_Map_Facility_Divination_Help: ダグシオンで大人気の占い屋\n不思議な道具で運勢を言い当てると評判\n占い結果を信じるかどうかは貴方次第
+MID_Map_Facility_DitArranger: 手配屋
+MID_Map_Facility_DitArranger_Help: ダグザの地の各地に潜む腕に覚えのある\n強者達と独自の繋がりを持つ謎の人物\n各地の強者からの挑戦状を受け取ることができる
+MID_Map_Facility_SeoProcurement: 戦備増強係
+MID_Map_Facility_SeoProcurement_Help: サラミス王国に支援物資を送る手続きができる\n女王であるセオドラが自ら物資を納品することで\n名声が高まり、資金も得られる
+MID_Map_Facility_LedShowman: 酒場店主
+MID_Map_Facility_LedShowman_Help: 類稀なるレダの腕を見込んで興行を依頼する人物\n依頼された興行を成功させることで新たな呪歌を\n会得したり新しい土地を知ることができる
+MID_Map_Facility_LedDrinkSeller: 飲み物係
+MID_Map_Facility_LedDrinkSeller_Help: 門外不出の秘伝の飲み物を受け継ぐ人物\n特殊な配合の飲み物は能力を飛躍的に高める\nレダが有名になるほど提供される飲み物が増える
+MID_Map_Facility_Revivalist: 酒場店主
+MID_Map_Facility_Revivalist_Help: 類稀なるレダの腕を見込んで人々に勇気と希望を\n与えるための興行を依頼する人物
+MID_Map_Facility_SortiePlan: 行軍管理官
+MID_Map_Facility_SortiePlan_Help: 戦時下における訓練や出陣を取り仕切る人物\nまた、神殿への奉仕活動も手配してくれる
+MID_Map_Facility_Temple_Main: 参殿者受付
+MID_Map_Facility_Temple_Main_Help: 神々への奉仕活動などが行える\n奉仕活動を行う者同士の親睦が深まり、\nさらに神々の加護を得られるようになる
+MID_Map_Facility_Shop_Bazaar: 市場
+MID_Map_Facility_Shop_Bazaar_Help: 行商人が各地で仕入れた商品を売る\n小さな市。主に贈り物を取り扱う
+MID_AreaTelop_UpperLayer: ダグシオン 上層
+MID_AreaTelop_MiddleLayer: ダグシオン 中層
+MID_AreaTelop_UnderLayer: ダグシオン 下層
+MID_AreaTelop_Guest_Salamis: サラミス王国迎賓館
+MID_AreaTelop_Guest_Arago: アラゴ王国迎賓館
+MID_AreaTelop_Arena_Underground: 大闘技場 地下区画
+MID_AreaTelop_Sewar: 下水道
+MID_AreaTelop_Shop_Bar: 酒場
+MID_AreaTelop_Temple_Jura: ジュラ神殿 分殿
+MID_AreaTelop_Temple_Mars: マーズ神殿 分殿
+MID_AreaTelop_Temple_Smyrnos: スミルノス神殿 分殿
+MID_AreaTelop_Temple_YuPhas: ユ・ファス神殿 分殿
+MID_AreaTelop_Temple_Carla: カーラ神殿 分殿
+MID_AreaTelop_Temple_Claire: クレール神殿 分殿
+MID_AreaTelop_Temple_Aurora: アウロラ神殿 分殿
+MID_AreaTelop_Obelisk: 方尖塔の間
+MID_AreaTelop_TopLayer: ダグシオン 最上層
+MID_AreaTelop_Cydonia: シドニア総督府
+MID_AreaTelop_Prison: 特別牢
+MID_AreaTelop_Garden: 屋内庭園
+MID_FT_CharacterHelp_Kai: 元気でひたむきな家族思いの少年
+MID_FT_CharacterHelp_Kai1: 元気でひたむきな家族思いの青年
+MID_FT_CharacterHelp_Dit: 渇きを癒やすため、死合いを求める異邦の剣士
+MID_FT_CharacterHelp_Seo: 勇猛果敢にして剛毅果断なサラミスの女王
+MID_FT_CharacterHelp_Led: 魅惑の調べを奏でる、美しき舞姫
+MID_FT_CharacterHelp_Bel: 自由を求めて戦い続ける誇り高き戦士
+MID_FT_CharacterHelp_Tal: 巨大な野望を胸に抱く、ダグザきっての大商人
+MID_FT_CharacterHelp_Orh: 多くの秘密をその身に宿す、謎深き乙女
+MID_FT_CharacterHelp_Anh: 故郷の同胞を救うため戦う、白妙の少女
+MID_FT_CharacterHelp_Tia: 多彩な知識を持つ少女
+MID_FT_CharacterHelp_Tia1: 多彩な知識を持つ女性
+MID_FT_CharacterHelp_Pet: 弓が得意な少年
+MID_FT_CharacterHelp_Pet1: 弓が得意な青年
+MID_FT_CharacterHelp_Hur: 神殿に仕える優しい女性
+MID_FT_CharacterHelp_Fab: 異邦から来た宣教師
+MID_FT_CharacterHelp_Esm: 漁村出身の力自慢な女性
+MID_FT_CharacterHelp_Mic: 名を馳せた元傭兵の女性
+MID_FT_CharacterHelp_Bon: 知略に長けたサラミス王国の将
+MID_FT_CharacterHelp_Tob: 豪快奔放なサラミス王国の将
+MID_FT_CharacterHelp_Lil: サラミス王国の弓使い
+MID_FT_CharacterHelp_Lys: サラミス王国の騎士
+MID_FT_CharacterHelp_Buc: 歴戦の守護騎士
+MID_FT_CharacterHelp_Sci: 女性好きの吟遊詩人
+MID_FT_CharacterHelp_Moo: 家族思いの素直な少女
+MID_FT_CharacterHelp_Moo1: 家族思いの素直な女性
+MID_FT_CharacterHelp_Oly: カエルスの薔薇の称号を持つ歌巫女
+MID_FT_CharacterHelp_Gat: 東方で修行した武芸者
+MID_FT_CharacterHelp_Jes: 戦化粧を纏う道化師
+MID_FT_CharacterHelp_Max: かつて道化師だった優しい青年
+MID_FT_CharacterHelp_Gol: 牛殺しの異名を持つ大巨漢
+MID_FT_CharacterHelp_Dan: 稀代の劇作家と呼ばれる文豪
+MID_FT_CharacterHelp_Urs: ヴァンダル商会の支配人
+MID_FT_CharacterHelp_Sim: 死線を潜り抜けてきた傭兵
+MID_FT_CharacterHelp_Lou: ヴァンダル商会のうら若き構成員
+MID_FT_CharacterHelp_Fia: ヴァンダル商会で庇護されている女性
+MID_FT_CharacterHelp_Die: オルヘルの忠実な従者
+MID_FT_CharacterHelp_Lor: オルヘルの侍従の活発な少女
+MID_FT_CharacterHelp_Lor1: オルヘルを慕う活発な少女
+MID_FT_CharacterHelp_Set: ダグザの各地を巡る旅人
+MID_FT_CharacterHelp_Nin: バルカンを務める神秘的な少女
+MID_FT_CharacterHelp_Sar: 落ち着いた雰囲気の女性
+MID_FT_CharacterHelp_Naz: 喧嘩っ早い少年剣士
+MID_FT_CharacterHelp_Dai: 豪快で機械が得意な青年
+MID_FT_CharacterHelp_Hal: 大道芸が得意な旅芸人
+MID_FT_CharacterHelp_Kou: 高い魔力を持つ女性魔道士
+MID_FT_CharacterHelp_Tro: 知識と経験に溢れる老女
+MID_FT_CharacterHelp_Guj: 法螺吹きで自由気ままな傭兵
+MID_FT_CharacterHelp_Ned: サラミス出身の傭兵
+MID_FT_CharacterHelp_Noc: 勝ち気な女性剣闘士
+MID_FT_CharacterHelp_Sop: 食いしん坊の神官
+MID_FT_CharacterHelp_Yan: 酒好きな流浪の破戒僧
+MID_FT_CharacterHelp_Cat: 自らを一流と自負する傭兵
+MID_FT_CharacterHelp_Maj: 体力と暴力が取り柄の暴れん坊
+MID_FT_CharacterHelp_Kir: 残忍で悪名高き元海賊団の首領
+MID_FT_CharacterHelp_Iio: 愛馬と共に戦場に臨む傭兵の青年
+MID_FT_CharacterHelp_Nuz: 森の民の部族の戦士
+MID_FT_CharacterHelp_Pep: 異邦からやってきた青年
+MID_FT_CharacterHelp_Zac: 山賊仕込みの技を持つ男性
+MID_FT_CharacterHelp_Ven: 尊大な性格の老兵士
+MID_FT_CharacterHelp_Jas: 傭兵団の団長を務める女性
+MID_FT_CharacterHelp_Ale: 愛天馬と共に戦う可憐な騎士
+MID_FT_CharacterHelp_Ini: 地方出身の卓越した弓使い
+MID_FT_CharacterHelp_Nat: アラゴ王国の一騎当千の将
+MID_FT_CharacterHelp_Hri: アラゴ王国の神算鬼謀の将
+MID_FT_CharacterHelp_Cen: アウロラに仕える神殿騎士
+MID_FT_CharacterHelp_Cle: 美しい容姿のアガルタの魔道士
+MID_FT_CharacterHelp_Mys: 目立たぬ風貌のアガルタの魔道士
+MID_FT_CharacterHelp_Ann: ソレル神殿の副祭
+MID_FT_CharacterHelp_Asw: 大王の血を引くアラゴの王族
+MID_FT_CharacterHelp_Gra: 大英雄の血を引く剣聖
+MID_FT_CharacterHelp_Kra: モーザ教主国の将軍
+MID_FT_CharacterHelp_Cas: カイの父親
+MID_FT_CharacterHelp_Lon: 武術を修めし老師
+MID_FT_CharacterHelp_Tah: アスワンの忠実な従者
+MID_FT_CharacterHelp_Jun: 豊穣の女神
+MID_FT_CharacterHelp_Mar: 武を司る軍神
+MID_FT_CharacterHelp_Smi: 魔道を司る神
+MID_FT_CharacterHelp_Cla: 鍛冶を司る神
+MID_FT_CharacterHelp_Car: 狩猟と芸術を司る女神
+MID_FT_CharacterHelp_Aur: 星と航海を司る女神
+MID_FT_CharacterHelp_Gab: 闘技場の地下の管理人
+MID_FT_CharacterHelp_Che: 
+MID_FT_CharacterHelp_Cir: 
+MID_FT_CharacterHelp_Nom: 
+MID_FT_CharacterHelp_Ile: 
+MID_FT_CharacterHelp_Mta: 
+MID_FT_CharacterHelp_Sol: 
+MID_FT_CharacterHelp_Shi: 
+MID_FT_CharacterHelp_Hyo: 
+MID_FT_CharacterHelp_Gan: 
+MID_FT_CharacterHelp_Gil: 
+MID_FT_CharacterHelp_Sua: 
+MID_FT_CharacterHelp_Har: 
+MID_FT_CharacterHelp_Ger: 
+MID_FT_CharacterHelp_Kar: 
+MID_FT_CharacterHelp_Bou: 
+MID_FT_CharacterHelp_Lin: 
+MID_FT_CharacterHelp_Miw: 
+MID_FT_CharacterHelp_Ver: 
+MID_FT_CharacterHelp_Kyo: 

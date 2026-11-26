@@ -1,0 +1,120 @@
+﻿MID_Tips_BasicKnowledge_t: 기초 지식
+MID_Tips_Hub_t: 거점
+MID_Tips_Battle_t: 전투
+MID_Tips_Dungeon_t: 던전
+MID_Tips_WorldMap_t: 월드 맵
+MID_Tips_Route_KAI_t: 진영장 카이
+MID_Tips_Route_SEO_t: 진영장 세오도라
+MID_Tips_Route_DIT_t: 진영장 디트리히
+MID_Tips_Route_LED_t: 진영장 레다
+MID_Tips_WeaponTypeTraits1_m01: 검은 추격 대미지가 높고, 창은 기병 유효 효과를 지니며, 도끼는 최소 5 이상의 대미지를 줄 수 있다
+MID_Tips_WeaponTypeTraits2_m01: 활은 비행 특효 효과를 지니며, 건틀릿은 건틀릿 외의 무기를 장비한 적과 싸울 때 회피가 높아진다
+MID_Tips_Rogue_m01: 로그 같은 일부 병과는 안개나 모래 폭풍 속에서도 다른 병과보다 시야가 조금 더 넓다
+MID_Tips_Motivation_m01: 훈련, 극장에서의 출연, 봉사 활동의 결과가 Perfect일 경우, 의욕이 회복된다
+MID_Tips_EncounterBattle_m01: 지방에 따라 출현하는 적의 레벨이 정해져 있다
+MID_Tips_EnemyLV_m01: 구세편에서는 이야기가 진행됨에 따라 강력한 적들이 출현한다
+MID_Tips_OpenSpot_m01: 스폿과 스폿 사이를 잇는 길은 때때로 특정 방향에서만 찾을 수 있다
+MID_Tips_Dungeon_m01: 입구와 다른 출구가 있는 경우, 해당 출구로 나가면 월드 맵의 새로운 길을 찾을 수 있다
+MID_Tips_SeaSpot_m01: 배를 사용할 수 있는 상황이라면 해상 스폿으로 이동하는 것이 가능하다
+MID_Tips_DetailedInformation1_m01: 스테이터스 화면을 비롯해 다양한 상황에서 {ButtonX}로 상세 정보를 확인할 수 있다
+MID_Tips_Frontline_Rearline_m01: 퀵 배틀 중 주는 대미지는 각 전위의 능력에 따라 결정된다
+MID_Tips_IncreaseSkillLevel_m01: 기술 능력 LV이 오를 때 습득하는 마법, 전투 기술, 스킬의 종류는 동료마다 다르다
+MID_Tips_Root_Capture1_m01: 다그다의 땅 어딘가에 희귀한 동물을 포획할 수 있는 스폿이 존재한다
+MID_Tips_Hub_Perch1_m01: 현재의 루트 진행 상황을 유지한 채 백아의 횃대에서 방첨탑의 방으로 돌아갈 수 있다
+MID_Tips_DetailedInformation2_m01: 다른 유닛으로부터 스킬 효과를 받고 있을 때 {ButtonMinus}를 누르면 상세 정보를 확인할 수 있다
+MID_Tips_Skill_m01: 기술 능력 중 특기는 노란색, 약점은 푸른색 아이콘으로 표시되며, 특기인 경우에는 기술 능력 경험치를 얻기 쉽다
+MID_Tips_EffectiveSpecial_m01: 「비행 특효」처럼 특정 적에게 효과적인 공격은 유효일 경우 위력이 2배, 특효일 경우 3배가 된다
+MID_Tips_SpecialAttack_m01: 한 번의 공격으로 여러 유효 또는 특효 효과가 동시에 발생했을 경우, 가장 수치가 높은 효과만 적용된다
+MID_Tips_ShortBattle_AdjacentSkills_m01: 퀵 배틀에서는 인접한 아군에게 영향을 미치는 스킬이 발동된다
+MID_Tips_ShortBattle_CooperationCommand_m01: 퀵 배틀에서 연계를 사용할 때, 상대와의 지원 LV이 높을수록 소비 LP가 줄어든다
+MID_Tips_ShortBattle_Auto_m01: 퀵 배틀의 「전투 결과로 스킵」은 무작위 유닛으로 진행된다
+MID_Tips_OtherForces_m01: 월드 맵에 있는 적과 상인은 스폿에 출입하거나 숙박을 하면 갱신된다
+MID_Tips_FastMovement_m01: 전투 맵이나 월드 맵에서 캐릭터가 이동할 때 {ButtonA} 또는 {ButtonY}를 누르면 빨리 움직인다
+MID_Tips_Scroll_m01: 맵 또는 메뉴에서 {ButtonY}를 누른 채 커서를 조작하면 빨리 이동할 수 있다
+MID_Tips_Mummy_m01: 골드 머미에게서는 금괴, 실버 머미에게서는 많은 경험치를 얻을 수 있다
+MID_Tips_AnnaShop_m01: 안나의 비밀 상점은 야간에만 문을 열지만, 희귀한 아이템을 판매한다
+MID_Tips_ZoomView_m01: 전투 맵에서 {StickR}을 위로 기울이고 있으면 카메라가 전환되어 전장의 분위기를 느낄 수 있다
+MID_Tips_BattlePrediction_m01: 전투 예측 표시 중에 {ButtonX}를 누르면 무기 및 스킬의 상세 정보를 확인할 수 있다
+MID_Tips_OrganizeItems_m01: 소지품을 정리할 때 {ButtonZL}을 누르면 소지품 칸과 도구 주머니 칸 사이로 커서를 이동할 수 있다
+MID_Tips_Move_m01: 거점 메뉴의 이동/어시스트에서 월드 맵이나 메인 퀘스트로 넘어갈 수 있다
+MID_Tips_Hub_Causal_m01: 구세의 축복에서는 인과의 파편을 사용해 유용한 효과를 얻을 수 있다
+MID_Tips_Hub_Perch2_m01: 백아의 횃대에서 {AvatarName}{ConsonantVowel=과|와}의 지원 LV을 올려 둔 동료에게는 인연의 강림이 발생하기 쉬워진다
+MID_Tips_Hub_Shop_m01: 도구상이나 무기상 등에서 판매하는 상품의 종류는 이야기가 진행됨에 따라 점점 늘어난다
+MID_Tips_Hub_Volunteer_m01: 봉사 활동은 모든 신전을 통틀어 일주일에 한 번만 할 수 있다
+MID_Tips_Hub_Volunteer2_m01: 신의 길일에 해당 신의 신전에서 봉사 활동을 하면 반드시 높은 평가를 받을 수 있다
+MID_Tips_Hub_Bill_m01: 자격 시험을 칠 때 필요한 시험 증서는 시험 증서 상인에게서 구입할 수 있으며, 수량에 제한이 있는 것도 있다
+MID_Tips_Hub_DestinyKarma_m01: 위업록에 있는 항목을 달성하면 인과의 파편을 획득할 수 있다
+MID_Tips_Hub_Thermae_m01: 테르메에서 얻은 스킬은 해당 장 동안 사용할 수 있지만, 장비하지 않으면 효과가 적용되지 않는다
+MID_Tips_Hub_TempleCrown_m01: 천관의 신전의 새로운 병과와 관련된 문을 열 수 있는 천관의 열쇠는 다그다 대륙 각지의 던전에 숨겨져 있다
+MID_Tips_Hub_LegendPass_m01: 신장직 또는 무용수가 자격 반납을 하면 다른 동료가 해당 병과의 시험을 볼 수 있다
+MID_Tips_Bmap_CombatTechnique_m01: 무기의 내구도는 전투 기술을 사용할 때만 소비되며, 0이 되면 위력과 명중이 감소한다
+MID_Tips_Bmap_HazardRange_m01: 적에게 커서를 맞추면 해당 적의 위험 범위가 표시되며, {ButtonA}를 누르면 표시한 상태로 고정할 수 있다
+MID_Tips_Bmap_OverBlaze_m01: 블레이즈 게이지가 절반 이상 쌓이면 오버 블레이즈 상태가 되어 기본 능력과 블레이즈 아츠가 강화된다
+MID_Tips_Bmap_SupportingEffect_m01: 지원 LV이 높은 동료와 가까이 있으면 전투 시 유리한 지원 효과를 받을 수 있다
+MID_Tips_Bmap_TurnBackTime_m01: 천각의 백사는 가호를 사용하면 감소하지만, 각 장이 시작될 때나 메인 퀘스트로 넘어갈 때 모두 회복된다
+MID_Tips_Bmap_Reinforcements_m01: 적의 증원군은 대부분 맵의 가장자리나 소환 마법진에서 출현한다
+MID_Tips_Bmap_FogMap_m01: 안개나 모래 폭풍 등으로 시야가 제한된 맵에서 적을 발견하면, 그 적은 혼란 상태가 되어 잠시 반격할 수 없게 된다
+MID_Tips_Bmap_GiantEnemy_m01: 대형 유닛의 배리어를 1칸 파괴할 때마다 다음 전투에서 반격받지 않으며, 모두 파괴하면 아이템을 획득하기도 한다
+MID_Tips_Bmap_Battery_m01: 전장에 설치되어 있는 활 포대와 마도 포대, 투석기 등의 병기는 적과 아군 모두 사용할 수 있다
+MID_Tips_Bmap_Rain_m01: 전투 맵에서는 우천 시, 번개 대미지가 증가하는 대신 화염 대미지가 감소하며, 병기를 사용할 수 없다
+MID_Tips_Gmap_AfterBattle_m01: 여관에서 숙박을 하면 HP와 마법 사용 횟수가 모두 회복된다
+MID_Tips_Gmap_Explore_m01: 스폿을 탐색하면 각 장소에서 출현하는 아이템을 무작위로 획득할 수 있으며, 때때로 새로운 길을 발견하기도 한다
+MID_Tips_Gmap_Feast_m01: 연회는 사용하는 식재료의 종류 및 수량에 따라 HP와 마법 횟수의 회복량이 달라진다
+MID_Tips_Gmap_Merchant_m01: 상인이 있는 스폿으로 이동하면 아이템을 구입할 수 있다
+MID_Tips_Gmap_DungeonSpot_m01: 나무 상자와 광물은 던전 탐색을 시작할 때마다 재배치된다
+MID_Tips_Gmap_DungeonEnemy_m01: 던전에서 쓰러뜨린 적은 다음 장에서 다시 출현한다
+MID_Tips_Gmap_SimpleBase_m01: 같은 상품이라도 판매처에 따라 가격이 다를 수 있다
+MID_Tips_Gmap_Station_m01: 골드를 지불하여 개방된 역과 역 사이를 단시간에 이동할 수 있다
+MID_Tips_Gmap_Base_m01: 거점 스폿에 커서를 맞추고 {ButtonZL}을 누르면 그곳에 있는 가게와 상품을 확인할 수 있다
+MID_Tips_Gmap_StandbyUnit_m01: 월드 맵에 출격하지 않은 동료는 턴 종료 시 경험치를 획득할 수 있다
+MID_Tips_Gmap_ReconstructionShorten_m01: 구세편에서는 재건 속도를 높이거나 요새를 방어하기 위해 파병을 할 수도 있다
+MID_Tips_ShortBattle_MVP_m01: 퀵 배틀에서 연계로 마무리했을 경우, 양자 모두 MVP가 된다
+MID_Tips_ShortBattle_RestingPlace_m01: 휴식 포인트는 한 번만 이용할 수 있지만, 던전을 나가면 이용 횟수가 초기화된다
+MID_Tips_ShortBattle_FieldKill_m01: 아군보다 일정 수준 이상으로 약한 적에게는 선제공격만으로 승리할 수 있다
+MID_Tips_Root_Perspective_m01: 던전 내에서 {ButtonZL}을 길게 누르면 일인칭 시점으로 전환되며, 카이는 그뿐만 아니라 벽을 투시해 적을 볼 수도 있다
+MID_Tips_Root_Capture2_m01: 유인에 사용된 미끼가 해당 스폿에 서식하는 동물이 좋아하는 것이라면 포획 성공률이 높아진다
+MID_Tips_Root_Stable_m01: 승용 동물은 우호 LV이 높은 유닛에게 배치됐을 때 진정한 실력을 발휘한다
+MID_Tips_Root_Fertilizer_m01: 재배한 식물을 수확할 때, 가끔 희귀한 식물이 섞여 있는 경우도 있다
+MID_Tips_Root_Field_m01: 재배가 완료된 식물은 밭을 통과하기만 해도 수확할 수 있다
+MID_Tips_Root_Reinforcement_m01: 마향석은 전투 기술 강화 및 비전 전수에 필요하며, 칼날 울림으로 발견한 적을 쓰러뜨리면 획득할 수 있다
+MID_Tips_Root_Blade_m01: 칼날 울림으로 적을 발견할 수 있는 범위는 턴이 경과하거나 스폿에 출입하면 회복된다
+MID_Tips_Root_Initiation_m01: 흉전사를 처치하고 익힌 특수한 전투 기술은 스미르노스 신전에서 다른 동료에게 전수할 수 있다
+MID_Tips_Root_RecruitingSoldiers_m01: 병사 모집에서는 명성 LV이 높을수록 높은 등급의 군단병을 모으기 더 쉬워진다
+MID_Tips_Root_Deployment_m01: 파병할 군단병을 선택할 때, 이미 파병 중인 군단병을 선택하면 다시 불러와서 파병할 수 있다
+MID_Tips_Root_MercenaryUnion_m01: 군단 이송으로 획득하는 병비치는 100씩 모일 때마다 전술 지침서로 교환된다
+MID_Tips_Root_Speech_m01: 병사 모집 중인 스폿에서 격려 연설을 하면 등급이 높은 군단병을 모으기 더 쉬워진다
+MID_Tips_Root_LocalEntertainment_m01: 지방 공연을 통해 알게 된 스폿에서 얻을 수 있는 소재는 술집의 신상품 개발에 필요한 경우가 많다
+MID_Tips_Root_DrinkPerson_m01: 술집에서 교환한 음료를 전투 중에 사용하면 맵이 끝날 때까지 유용한 효과가 지속된다
+MID_Tips_Root_BarShow_m01: 술집에서 의뢰받은 술집 공연 완료 시, 레다가 새로운 블레이즈 아츠를 습득한다
+MID_Tips_Bmap_Anhatolyah_t: 블레이즈 타입
+MID_Tips_Bmap_Anhatolyah_m01: 「천주」 타입은 공격 시 블레이즈 게이지가 증가한다
+MID_Tips_Special_Type_Seize_t: 장악(블레이즈 스킬)
+MID_Tips_Special_Type_Seize_m01: 블레이즈 게이지를 0으로 되돌릴 수 있는 「블레이즈 제어」(명정)를 사용할 수 있게 된다
+MID_Tips_Special_Type_Resistance_t: 저항(블레이즈 스킬)
+MID_Tips_Special_Type_Resistance_m01: 오버 블레이즈 상태에서 버스트를 해도 최대 HP가 감소하지 않는다
+MID_Tips_Special_Type_Runaway_t: 폭주(블레이즈 스킬)
+MID_Tips_Special_Type_Runaway_m01: 버스트를 해도 해제되지 않는 오버 블레이즈 상태로 만드는 「블레이즈 제어」(명광)를 사용할 수 있게 된다
+MID_Tips_Tutorial_m01: 메뉴의 「튜토리얼」을 선택하면 게임 플레이 방법을 확인할 수 있다
+MID_Tips_Preferences_m01: 공격이나 보조 등의 전투 연출은 메뉴의 「환경 설정」에서 OFF로 설정할 수 있다
+MID_Tips_Bmap_AllHazardRange_m01: 전투 맵에서 {ButtonZL}을 누르면 적의 공격이 닿는 범위가 표시된다
+MID_Tips_Phase_m01: 미행동 상태의 아군이 남아 있더라도 메뉴의 「페이즈 종료」를 선택하면 적 페이즈로 넘어간다
+MID_Tips_ExperiencePoints_m01: 일정 수치 이상의 경험치를 획득하면 레벨이 올라 최대 HP와 기본 능력이 상승한다
+MID_Tips_Item_m01: 상처약 같은 아이템은 사용 횟수가 정해져 있으며, 다 쓰면 없어진다
+MID_Tips_Auto_m01: 배틀 메뉴의 「위임」에서 네 가지 방침 중 하나를 선택하면 아군 유닛이 스스로 행동한다
+MID_Tips_UniqueSkills_m01: 개인 스킬은 해당 캐릭터만의 특별한 스킬로, 교체할 수 없다
+MID_Tips_TroopList_m01: 메뉴의 「부대표」에서 모든 아군의 병과와 레벨을 한눈에 확인할 수 있다
+MID_Tips_Knight_m01: 타기·내리기를 통해 특효 효과를 받는 약점이나 이동력 등을 바꿀 수 있다
+MID_Tips_SwitchingWeapons_m01: 전투 맵에서 유닛 선택 중 {ButtonL} 또는 {ButtonR}을 누르면 무기를 바로 교체할 수 있다
+MID_Tips_ToolBag_m01: 진영장 및 진영장과 인접해 있는 유닛은 「도구 주머니」 커맨드를 사용하여 도구를 보관하거나 꺼낼 수 있다
+MID_Tips_ItemDrop_m01: {Icon} 아이콘이 표시된 적을 처치하면 아이템을 획득할 수 있다
+MID_Tips_Birthday_m01: 생일에 선물을 주면 상대방의 취향과 상관없이 지원도가 크게 상승한다
+MID_Tips_DungeonRoute_m01: 이동 궤적 표시는 {ButtonZR}을 눌러 ON 또는 OFF로 설정할 수 있다
+MID_Tips_CaptureFertilizer_m01: 카이가 속해 있지 않은 부대도 수확과 포획을 할 수 있다
+MID_Tips_Equipment_m01: 장비품은 방패, 지팡이, 가면, 반지 등 여러 종류가 있으며, 1종류당 1개씩 동시에 장비할 수 있다
+MID_Tips_Damage_m01: 주보 장비 시, 스킬 「명부의 가호」를 보유한 유닛에게 대미지를 주지 못하는 경우도 있다
+MID_Tips_Reliance_m01: 지원 회화 중에는 특정 기간에만 볼 수 있는 것도 있다
+MID_Tips_Mouse1_m01: 마우스 조작 중 {ButtonPlus}를 누르면 조작 설명을 볼 수 있다
+MID_Tips_Mouse2_m01: 마우스 조작 시의 커서 속도나 카메라 감도는 환경 설정에서 변경할 수 있다
+MID_Tips_Mouse3_m01: 맵에서는 마우스를 빨리 움직일수록 커서가 더 멀리 이동한다
+MID_Tips_UniqueSkills: ({Variable=0}의 개인 스킬)
+MID_Tips_UniqueSymbol: ({Variable=0}{ConsonantVowel=이|가} 보유한 혈인)

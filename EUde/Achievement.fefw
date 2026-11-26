@@ -1,0 +1,143 @@
+﻿MATID_Record_RelianceCCleared: {Variable=0} C-{SingularPlural0=Unterstützungsgespräch|Unterstützungsgespräche} angesehen.
+MATID_Record_RelianceBCleared: {Variable=0} B-{SingularPlural0=Unterstützungsgespräch|Unterstützungsgespräche} angesehen.
+MATID_Record_RelianceACleared: {Variable=0} A-{SingularPlural0=Unterstützungsgespräch|Unterstützungsgespräche} angesehen.
+MATID_Record_PerformanceCount: {Variable=0}-mal eine lokale Darbietung aufgeführt.
+MATID_Record_DrinkSellerCount: {Variable=0}-mal Getränke gekauft.
+MATID_Record_TrainingCount: {Variable=0}-mal trainiert.
+MATID_Record_StageActCount: {Variable=0}-mal eine Darbietung im Theater aufgeführt.
+MATID_Record_StageWatchCount: {Variable=0}-mal eine Darbietung im Theater betrachtet.
+MATID_Record_ServeCount: {Variable=0}-mal Dienst im Tempel verrichtet.
+MATID_Record_ThermaeCount: {Variable=0}-mal ein Bad in der Therme genommen.
+MATID_Record_HotelStayCount: {Variable=0}-mal ein Zimmer in einem Gasthaus gemietet.
+MATID_Record_HotelIndividualTimes: {Variable=0} {SingularPlural0=Zug|Züge} mit individuellen Aktionen verbracht.
+MATID_Record_DiningCount: {Variable=0}-mal im Gasthaus gespeist.
+MATID_Record_GiftCount: {Variable=0}-mal ein Geschenk überreicht.
+MATID_Record_PerfectTimeCount: {Variable=0}-mal perfekt am Sitz des Fahlen Raben interagiert.
+MATID_Record_PerchCount: {Variable=0}-mal die Bande mit dem Fahlen Raben vertieft.
+MATID_Record_ClassTrialCount: {Variable=0}-mal ein Examen abgelegt.
+MATID_Record_Enemy01Defeat: {Variable=0} Gegner in Kämpfen besiegt.
+MATID_Record_Enemy02Defeat: {Variable=0} {SingularPlural0=wandelnden Toten|wandelnde Tote} in Kämpfen besiegt.
+MATID_Record_Enemy03Defeat: {Variable=0} {SingularPlural0=großen|große} Gegner in Kämpfen besiegt.
+MATID_Record_Enemy04Defeat: {Variable=0} {SingularPlural0=Bestie|Bestien} in Kämpfen besiegt.
+MATID_Record_BonusMommyDefeat: {Variable=0} Gold-/Silber{SingularPlural0=mumie|mumien} besiegt.
+MATID_Record_LivestockDefeat: {Variable=0}-mal Vieh in Kämpfen besiegt.
+MATID_Record_EncounterCount: {Variable=0}-mal ein Gefecht gewonnen.
+MATID_Record_AvoidCount: {Variable=0}-mal einem Angriff ausgewichen.
+MATID_Record_CriticalCount: {Variable=0}-mal einen kritischen Treffer gelandet.
+MATID_Record_AssistCount: {Variable=0}-mal beigestanden.
+MATID_Record_SpecialCount: {Variable=0}-mal eine Brandtechnik eingesetzt.
+MATID_Record_GambitCount: {Variable=0}-mal ein Strategem eingesetzt.
+MATID_Record_CompanyGoldUsed: {Variable=0} G an fahrende Händler gezahlt.
+MATID_Record_ExploreCount: {Variable=0} {SingularPlural0=Ort|Orte} untersucht.
+MATID_Record_ExploreRareGet: {Variable=0}-mal seltenes Material durch Suchen erhalten.
+MATID_Record_BanquetCount: {Variable=0} Festessen genossen.
+MATID_Record_CallAnimalCount: {Variable=0} Köder eingesetzt.
+MATID_Record_MakeFarmCount: {Variable=0}-mal Feldarbeit betrieben.
+MATID_Record_DestroyMiasmaCount: {Variable=0}-mal Miasma entfernt.
+MATID_Record_CmdBattleVictory: {Variable=0}-mal einen Schnellkampf gewonnen.
+MATID_Record_LinkAttackCount: {Variable=0}-mal eine Angriffsverbindung eingesetzt.
+MATID_Record_LinkHealCount: {Variable=0}-mal eine Heilverbindung eingesetzt.
+MATID_Record_LinkGuardCount: {Variable=0}-mal eine Mischverbindung eingesetzt.
+MATID_Record_VandalTradeCount: {Variable=0}-mal mit der Handelsgesellschaft getauscht.
+MATID_Record_ShoppingGoldUsed: Insgesamt {Variable=0} G in Läden der Basen ausgegeben.
+MATID_Record_SideStoryCleared: {Variable=0} {SingularPlural0=Nebenquest|Nebenquests} abgeschlossen.
+MATID_Record_OreGet: Insgesamt {Variable=0} Erz erhalten.
+MATID_Record_PlayTimes: Länger als {Variable=0} {SingularPlural0=Stunde|Stunden} gespielt.
+MATID_Record_IsmHelpCount: {Variable=0}-mal Unterstützungserlösung ausgelöst.
+MATID_Record_1KAI_Cleared: Cais Pfad in Teil I abgeschlossen.
+MATID_Record_1DIT_Cleared: Dietrichs Pfad in Teil I abgeschlossen.
+MATID_Record_1SEO_Cleared: Theodoras Pfad in Teil I abgeschlossen.
+MATID_Record_1LED_Cleared: Ledas Pfad in Teil I abgeschlossen.
+MATID_Record_1BEL_Cleared: Bertrands Pfad in Teil I abgeschlossen.
+MATID_Record_1TAL_Cleared: Talimuns Pfad in Teil I abgeschlossen.
+MATID_Record_1ORH_Cleared: Orchels Pfad in Teil I abgeschlossen.
+MATID_Record_1ANH_Cleared: Anatolias Pfad in Teil I abgeschlossen.
+MATID_Record_SkillLvCCount: {Variable=0}-mal Fähigkeitslevel C erreicht.
+MATID_Record_SkillLvBCount: {Variable=0}-mal Fähigkeitslevel B erreicht.
+MATID_Record_SkillLvACount: {Variable=0}-mal Fähigkeitslevel A erreicht.
+MATID_Record_SkillLvSCount: {Variable=0}-mal Fähigkeitslevel S erreicht.
+MATID_Record_SkillLvMAXCount: {Variable=0}-mal eine Fähigkeit maximiert.
+MATID_Record_RideLv2Count: {Variable=0}-mal Bandlevel Stufe 2 erreicht.
+MATID_Record_RideLv3Count: {Variable=0}-mal Bandlevel Stufe 3 erreicht.
+MATID_Record_RideLv4Count: {Variable=0}-mal Bandlevel Stufe 4 erreicht.
+MATID_Record_RideLvMAXCount: {Variable=0}-mal ein Band maximiert.
+MATID_Record_MiracleLv2Count: {Variable=0}-mal Segenlevel Stufe 2 erreicht.
+MATID_Record_MiracleLvMAXCount: {Variable=0}-mal einen Segen maximiert.
+MATID_Record_Part3_DungeonTBox_AllOpen: Alle Truhen in {Variable=0} {SingularPlural0=Verlies|Verliesen} von Teil III geöffnet.
+MATID_Record_TempleCrown_OpenCount: {Variable=0} {SingularPlural0=Tür|Türen} im Tempel des Diadems geöffnet.
+MATID_Record_AmaltheaState_Reconstruction: Alle zerstörten Orte in Amalthea wiederaufgebaut.
+MATID_Record_CastaliaState_Reconstruction: Alle zerstörten Orte in Castalia wiederaufgebaut.
+MATID_Record_IduiaState_Reconstruction: Alle zerstörten Orte in Idyia wiederaufgebaut.
+MATID_Record_ElectraState_Reconstruction: Alle zerstörten Orte in Elektra wiederaufgebaut.
+MATID_Record_MeliasState_Reconstruction: Alle zerstörten Orte in Melias wiederaufgebaut.
+MATID_Record_TaliaState_Reconstruction: Alle zerstörten Orte in Thaleia wiederaufgebaut.
+MATID_Record_SolidusState_Reconstruction: Alle zerstörten Orte in Solidus wiederaufgebaut.
+MATID_Record_NysiadesState_Reconstruction: Alle zerstörten Orte in Nysiades wiederaufgebaut.
+MATID_Record_LambuthState_Reconstruction: Alle zerstörten Orte in Lambath wiederaufgebaut.
+MATID_Record_BasithaState_Reconstruction: Alle zerstörten Orte in Pasithea wiederaufgebaut.
+MATID_Record_BraxtheaState_Reconstruction: Alle zerstörten Orte in Braxithea wiederaufgebaut.
+MATID_Record_SaveronState_Reconstruction: Alle zerstörten Orte in Saveilon wiederaufgebaut.
+MATID_Record_OmaStateReconstruction: Alle zerstörten Orte in Ogmios wiederaufgebaut.
+MATID_Record_SolomonReconstruction: Alle zerstörten Orte in Solomon wiederaufgebaut.
+MATID_Reward_ExpUp: Mehr Erf.
+MATID_H_Reward_ExpUp: Erhalte mehr Erf. in Kämpfen.
+MATID_Reward_JobExpUp: Mehr Klassen-Erf.
+MATID_H_Reward_JobExpUp: Erhöht erhaltene Klassen-Erf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_SwordSkillUp: Mehr Schwerterfahrung
+MATID_H_Reward_SwordSkillUp: Erhöht die erhaltene Schwerterf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_LanceSkillUp: Mehr Lanzenerfahrung
+MATID_H_Reward_LanceSkillUp: Erhöht die erhaltene Lanzenerf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_AxeSkillUp: Mehr Axterfahrung
+MATID_H_Reward_AxeSkillUp: Erhöht die erhaltene Axterf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_BowSkillUp: Mehr Bogenerfahrung
+MATID_H_Reward_BowSkillUp: Erhöht die erhaltene Bogenerf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_GauntletSkillUp: Mehr Fausterfahrung
+MATID_H_Reward_GauntletSkillUp: Erhöht die erhaltene Fausterf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_BlackSkillUp: Mehr Schwarzmagieerfahrung
+MATID_H_Reward_BlackSkillUp: Erhöht die erhaltene Schwarzerf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_WhiteSkillUp: Mehr Weißmagieerfahrung
+MATID_H_Reward_WhiteSkillUp: Erhöht die erhaltene Weißmagieerf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_FootSkillUp: Mehr Infanterieerfahrung
+MATID_H_Reward_FootSkillUp: Erhöht die erhaltene Infanterieerf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_CavalrySkillUp: Mehr Reiterfahrung
+MATID_H_Reward_CavalrySkillUp: Erhöht die erhaltene Reiterf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_HeavySkillUp: Mehr Rüstungserfahrung
+MATID_H_Reward_HeavySkillUp: Erhöht die erhaltene Rüstungserf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_FlySkillUp: Mehr Flugerfahrung
+MATID_H_Reward_FlySkillUp: Erhöht die erhaltene Flugerf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_TacticsSkillUp: Mehr Autoritätserfahrung
+MATID_H_Reward_TacticsSkillUp: Erhöht die erhaltene Autoritätserf. in Kämpfen.\n(Gilt nicht für Training.)
+MATID_Reward_SkillAuroraCostDown: Rabatt: Segen der Aurora
+MATID_H_Reward_SkillAuroraCostDown: Senkt die Kosten des Göttlichen Sandes bei Verwendung von\nSegen der Aurora.
+MATID_Reward_SkillMarsCostDown: Rabatt: Segen des Mars
+MATID_H_Reward_SkillMarsCostDown: Senkt die Kosten des Göttlichen Sandes bei Verwendung von\nSegen des Mars.
+MATID_Reward_SkillSmirnothCostDown: Rabatt: Segen des Smyrnos
+MATID_H_Reward_SkillSmirnothCostDown: Senkt die Kosten des Göttlichen Sandes bei Verwendung von\nSegen des Smyrnos.
+MATID_Reward_SkillJunoCostDown: Rabatt: Segen der Jurah
+MATID_H_Reward_SkillJunoCostDown: Senkt die Kosten des Göttlichen Sandes bei Verwendung von\nSegen der Jurah.
+MATID_Reward_SkillCaraCostDown: Rabatt: Segen der Kalla
+MATID_H_Reward_SkillCaraCostDown: Senkt die Kosten des Göttlichen Sandes bei Verwendung von\nSegen der Kalla.
+MATID_Reward_SkillClairCostDown: Rabatt: Segen des Credna
+MATID_H_Reward_SkillClairCostDown: Senkt die Kosten des Göttlichen Sandes bei Verwendung von\nSegen des Credna.
+MATID_Reward_CarriageDiscount: Rabatt: Kutsche
+MATID_H_Reward_CarriageDiscount: Senkt die Preise für die Nutzung der Kutsche.
+MATID_Reward_WeaponDiscount: Rabatt: Waffen
+MATID_H_Reward_WeaponDiscount: Senkt den Preis für Waffen.
+MATID_Reward_BlacksmithDiscount: Rabatt: Schmied
+MATID_H_Reward_BlacksmithDiscount: Senkt die Preise für die Dienste des Schmiedes.
+MATID_Reward_ItemDiscount: Rabatt: Items
+MATID_H_Reward_ItemDiscount: Senkt den Preis für Items.
+MATID_Reward_GiftDiscount: Rabatt: Geschenke
+MATID_H_Reward_GiftDiscount: Senkt den Preis für Geschenke.
+MATID_Reward_MealDiscount: Rabatt: Mahl
+MATID_H_Reward_MealDiscount: Senkt den Preis für ein Mahl im Gasthaus.\n(Gilt nicht an Rabatttagen.)
+MATID_Reward_ThermaeDiscount: Rabatt: Therme
+MATID_H_Reward_ThermaeDiscount: Senkt den Preis für Baden in der Therme.
+MATID_Reward_DungeonChasePlus: Verliesflucht
+MATID_H_Reward_DungeonChasePlus: Verkürzt die Verfolgungszeit durch die Gegner in Verliesen.
+MATID_Reward_DungeonDropUp: Reiche Vorkommen
+MATID_H_Reward_DungeonDropUp: Erhöht die Wahrscheinlichkeit für Materialien, wenn\nzerbrechliche Objekte in Verliesen zerstört werden.
+MATID_Reward_HotelStayDiscount: Günstige Übernachtungen
+MATID_H_Reward_HotelStayDiscount: Senkt den Preis für Übernachtungen im Gasthaus.
+MATID_Reward_TheaterWatchDiscount: Rabatt: Theater
+MATID_H_Reward_TheaterWatchDiscount: Senkt den Preis für das Betrachten einer Theater-Darbietung.

@@ -1,0 +1,143 @@
+﻿MATID_Record_RelianceCCleared: Has visto {Variable=0} {SingularPlural0=conversación|conversaciones} de apoyo de nivel C.
+MATID_Record_RelianceBCleared: Has visto {Variable=0} {SingularPlural0=conversación|conversaciones} de apoyo de nivel B.
+MATID_Record_RelianceACleared: Has visto {Variable=0} {SingularPlural0=conversación|conversaciones} de apoyo de nivel A.
+MATID_Record_PerformanceCount: Has actuado en locales {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_DrinkSellerCount: Has adquirido bebidas {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_TrainingCount: Has entrenado {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_StageActCount: Has actuado en {Variable=0} {SingularPlural0=obra|obras} de teatro.
+MATID_Record_StageWatchCount: Has presenciado {Variable=0} {SingularPlural0=obra|obras} de teatro.
+MATID_Record_ServeCount: Has prestado tus servicios en los templos {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_ThermaeCount: Te has dado {Variable=0} {LowercaseNextLetter}Baño{SingularPlural0=|s} en las termas.
+MATID_Record_HotelStayCount: Has dormido en una {LowercaseNextLetter}Posada {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_HotelIndividualTimes: Has pasado {Variable=0} {SingularPlural0=turno|turnos} haciendo {LowercaseNextLetter}actividades automáticas.
+MATID_Record_DiningCount: Has comido en una {LowercaseNextLetter}Posada {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_GiftCount: Has entregado {Variable=0} {SingularPlural0=regalo|regalos}.
+MATID_Record_PerfectTimeCount: Has logrado {Variable=0} {SingularPlural0=«Perfecto»|«Perfectos»} en la percha del Cuervo Blanco.
+MATID_Record_PerchCount: Has estrechado lazos con el Cuervo Blanco {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_ClassTrialCount: Te has presentado a {Variable=0} {SingularPlural0=examen|exámenes} de aptitud.
+MATID_Record_Enemy01Defeat: Has derrotado a {Variable=0} enemigo{SingularPlural0=|s} en combate.
+MATID_Record_Enemy02Defeat: Has vencido a {Variable=0} {SingularPlural0=muerto viviente|muertos vivientes} en combate.
+MATID_Record_Enemy03Defeat: Has derrotado a {Variable=0} unidad{SingularPlural0=|es} de gran tamaño en combate.
+MATID_Record_Enemy04Defeat: Has derrotado a {Variable=0} bestia{SingularPlural0=|s} en combate.
+MATID_Record_BonusMommyDefeat: Has derrotado a {Variable=0} {SingularPlural0=momia dorada o plateada|momias doradas o plateadas} en combate.
+MATID_Record_LivestockDefeat: Has derrotado a {Variable=0} animal{SingularPlural0=|es} en combate.
+MATID_Record_EncounterCount: Has vencido en {Variable=0} {LowercaseNextLetter}Escaramuza{SingularPlural0=|s}.
+MATID_Record_AvoidCount: Has esquivado {Variable=0} ataque{SingularPlural0=|s}.
+MATID_Record_CriticalCount: Has asestado {Variable=0} golpe{SingularPlural0=|s} crítico{SingularPlural0=|s}.
+MATID_Record_AssistCount: Has proporcionado {Variable=0} {LowercaseNextLetter}Apoyo{SingularPlural0=|s} en combate.
+MATID_Record_SpecialCount: Has usado técnicas de ignición {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_GambitCount: Has usado {LowercaseNextLetter}Tácticas {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_CompanyGoldUsed: Has gastado {Variable=0} M en los {LowercaseNextLetter}Mercaderes itinerantes.
+MATID_Record_ExploreCount: Has explorado {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_ExploreRareGet: Has encontrado {Variable=0} material{SingularPlural0=|es} poco {SingularPlural0=frecuente|frecuentes} al {LowercaseNextLetter}Buscar.
+MATID_Record_BanquetCount: Has participado en {Variable=0} {LowercaseNextLetter}Banquete{SingularPlural0=|s}.
+MATID_Record_CallAnimalCount: Has usado cebo para animales {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_MakeFarmCount: Has cultivado algo {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_DestroyMiasmaCount: Has disipado el miasma {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_CmdBattleVictory: Has ganado {Variable=0} batalla{SingularPlural0=|s} rápida{SingularPlural0=|s}.
+MATID_Record_LinkAttackCount: Has ejecutado {Variable=0} {SingularPlural0=ataque en cadena|ataques en cadena}.
+MATID_Record_LinkHealCount: Has ejecutado {Variable=0} {SingularPlural0=curación en cadena|curaciones en cadena}.
+MATID_Record_LinkGuardCount: Has ejecutado {Variable=0} {SingularPlural0=cadena mixta|cadenas mixtas}.
+MATID_Record_VandalTradeCount: Has comerciado con la Sociedad Vandahl {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_ShoppingGoldUsed: Has gastado un total de {Variable=0} M en tiendas de bases.
+MATID_Record_SideStoryCleared: Has completado {Variable=0} {SingularPlural0=anexo|anexos}.
+MATID_Record_OreGet: Has obtenido un total de {Variable=0} {SingularPlural0=unidad|unidades} de mineral.
+MATID_Record_PlayTimes: Has jugado más de {Variable=0} {SingularPlural0=hora|horas}.
+MATID_Record_IsmHelpCount: Has activado el rescate de apoyo {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_1KAI_Cleared: Has completado la senda de {Unknown080E=03}Cai en la parte I.
+MATID_Record_1DIT_Cleared: Has completado la senda de {Unknown080E=03}Dietrich en la parte I.
+MATID_Record_1SEO_Cleared: Has completado la senda de {Unknown080E=03}Theodora en la parte I.
+MATID_Record_1LED_Cleared: Has completado la senda de {Unknown080E=03}Leda en la parte I.
+MATID_Record_1BEL_Cleared: Has completado la senda de {Unknown080E=03}Bertrand en la parte I.
+MATID_Record_1TAL_Cleared: Has completado la senda de {Unknown080E=03}Talimun en la parte I.
+MATID_Record_1ORH_Cleared: Has completado la senda de {Unknown080E=03}Orchel en la parte I.
+MATID_Record_1ANH_Cleared: Has completado la senda de {Unknown080E=03}Anatolia en la parte I.
+MATID_Record_SkillLvCCount: Has alcanzado el nivel de {LowercaseNextLetter}Competencias C {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_SkillLvBCount: Has alcanzado el nivel de {LowercaseNextLetter}Competencias B {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_SkillLvACount: Has alcanzado el nivel de {LowercaseNextLetter}Competencias A {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_SkillLvSCount: Has alcanzado el nivel de {LowercaseNextLetter}Competencias S {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_SkillLvMAXCount: Has alcanzado el nivel máximo de una competencia {Variable=0} {SingularPlural0=vez|veces}.
+MATID_Record_RideLv2Count: Has alcanzado {Variable=0} {SingularPlural0=vez|veces} el nivel de {LowercaseNextLetter}Vínculo 2.
+MATID_Record_RideLv3Count: Has alcanzado {Variable=0} {SingularPlural0=vez|veces} el nivel de {LowercaseNextLetter}Vínculo 3.
+MATID_Record_RideLv4Count: Has alcanzado {Variable=0} {SingularPlural0=vez|veces} el nivel de {LowercaseNextLetter}Vínculo 4.
+MATID_Record_RideLvMAXCount: Has alcanzado {Variable=0} {SingularPlural0=vez|veces} el nivel de {LowercaseNextLetter}Vínculo máximo.
+MATID_Record_MiracleLv2Count: Has alcanzado {Variable=0} {SingularPlural0=vez|veces} el nivel de favor 2.
+MATID_Record_MiracleLvMAXCount: Has alcanzado {Variable=0} {SingularPlural0=vez|veces} el nivel de favor máximo.
+MATID_Record_Part3_DungeonTBox_AllOpen: Has abierto todos los cofres en {Variable=0} {SingularPlural0=zona explorable|zonas explorables} de la parte III.
+MATID_Record_TempleCrown_OpenCount: Has abierto {Variable=0} {SingularPlural0=puerta|puertas} en el {LowercaseNextLetter}Templo del Halo.
+MATID_Record_AmaltheaState_Reconstruction: Has reconstruido todos los lugares en ruinas de Amalthea.
+MATID_Record_CastaliaState_Reconstruction: Has reconstruido todos los lugares en ruinas de Castalia.
+MATID_Record_IduiaState_Reconstruction: Has reconstruido todos los lugares en ruinas de Idyia.
+MATID_Record_ElectraState_Reconstruction: Has reconstruido todos los lugares en ruinas de Elektra.
+MATID_Record_MeliasState_Reconstruction: Has reconstruido todos los lugares en ruinas de Melias.
+MATID_Record_TaliaState_Reconstruction: Has reconstruido todos los lugares en ruinas de Thaleia.
+MATID_Record_SolidusState_Reconstruction: Has reconstruido todos los lugares en ruinas de Solidus.
+MATID_Record_NysiadesState_Reconstruction: Has reconstruido todos los lugares en ruinas de Nysiades.
+MATID_Record_LambuthState_Reconstruction: Has reconstruido todos los lugares en ruinas de Lambath.
+MATID_Record_BasithaState_Reconstruction: Has reconstruido todos los lugares en ruinas de Pasithea.
+MATID_Record_BraxtheaState_Reconstruction: Has reconstruido todos los lugares en ruinas de Braxithea.
+MATID_Record_SaveronState_Reconstruction: Has reconstruido todos los lugares en ruinas de Saveilon.
+MATID_Record_OmaStateReconstruction: Has reconstruido todos los lugares en ruinas de Ogmios.
+MATID_Record_SolomonReconstruction: Has reconstruido todos los lugares en ruinas de Solomon.
+MATID_Reward_ExpUp: Exp adicional
+MATID_H_Reward_ExpUp: Combatir concede más Exp.
+MATID_Reward_JobExpUp: Exp de clase adicional
+MATID_H_Reward_JobExpUp: Combatir concede más experiencia de clase\n(excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_SwordSkillUp: Exp adicional con la espada
+MATID_H_Reward_SwordSkillUp: Combatir concede más experiencia en la competencia\ncon la espada (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_LanceSkillUp: Exp adicional con la lanza
+MATID_H_Reward_LanceSkillUp: Combatir concede más experiencia en la competencia\ncon la lanza (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_AxeSkillUp: Exp adicional con el hacha
+MATID_H_Reward_AxeSkillUp: Combatir concede más experiencia en la competencia\ncon el hacha (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_BowSkillUp: Exp adicional con el arco
+MATID_H_Reward_BowSkillUp: Combatir concede más experiencia en la competencia\ncon el arco (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_GauntletSkillUp: Exp adicional con guanteletes
+MATID_H_Reward_GauntletSkillUp: Combatir concede más experiencia en la competencia\ncon los puños (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_BlackSkillUp: Exp adicional con magia negra
+MATID_H_Reward_BlackSkillUp: Combatir concede más experiencia en la competencia\ncon la magia negra (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_WhiteSkillUp: Exp adicional con magia blanca
+MATID_H_Reward_WhiteSkillUp: Combatir concede más experiencia en la competencia\ncon la magia blanca (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_FootSkillUp: Exp adicional para infantería
+MATID_H_Reward_FootSkillUp: Combatir concede más experiencia en la competencia\npara {LowercaseNextLetter}Infantería (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_CavalrySkillUp: Exp adicional para caballería
+MATID_H_Reward_CavalrySkillUp: Combatir concede más experiencia en la competencia\npara {LowercaseNextLetter}Equitación (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_HeavySkillUp: Exp adicional para unidades acorazadas
+MATID_H_Reward_HeavySkillUp: Combatir concede más experiencia en la competencia\npara unidades acorazadas (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_FlySkillUp: Exp adicional para unidades voladoras
+MATID_H_Reward_FlySkillUp: Combatir concede más experiencia en la competencia\npara unidades voladoras (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_TacticsSkillUp: Exp adicional de {LowercaseNextLetter}Mando
+MATID_H_Reward_TacticsSkillUp: Combatir concede más experiencia en la competencia\nde {LowercaseNextLetter}Mando (excepto al {LowercaseNextLetter}Entrenar).
+MATID_Reward_SkillAuroraCostDown: Reducción de coste para Bendición de Aurora
+MATID_H_Reward_SkillAuroraCostDown: Reduce la cantidad de arena divina consumida\nal usar la Bendición de Aurora.
+MATID_Reward_SkillMarsCostDown: Reducción de coste para Bendición de Mars
+MATID_H_Reward_SkillMarsCostDown: Reduce la cantidad de arena divina consumida\nal usar la Bendición de Mars.
+MATID_Reward_SkillSmirnothCostDown: Reducción de coste para Bendición de Smyrnos
+MATID_H_Reward_SkillSmirnothCostDown: Reduce la cantidad de arena divina consumida\nal usar la Bendición de Smyrnos.
+MATID_Reward_SkillJunoCostDown: Reducción de coste para Bendición de Jurah
+MATID_H_Reward_SkillJunoCostDown: Reduce la cantidad de arena divina consumida\nal usar la Bendición de Jurah.
+MATID_Reward_SkillCaraCostDown: Reducción de coste para Bendición de Kalla
+MATID_H_Reward_SkillCaraCostDown: Reduce la cantidad de arena divina consumida\nal usar la Bendición de Kalla.
+MATID_Reward_SkillClairCostDown: Reducción de coste para Bendición de Credna
+MATID_H_Reward_SkillClairCostDown: Reduce la cantidad de arena divina consumida\nal usar la Bendición de Credna.
+MATID_Reward_CarriageDiscount: Descuento para {LowercaseNextLetter}Carruajes
+MATID_H_Reward_CarriageDiscount: Rebaja los precios de los {LowercaseNextLetter}Carruajes.
+MATID_Reward_WeaponDiscount: Descuento para armas
+MATID_H_Reward_WeaponDiscount: Rebaja los precios de las armas.
+MATID_Reward_BlacksmithDiscount: Descuento para {LowercaseNextLetter}Herrerías
+MATID_H_Reward_BlacksmithDiscount: Rebaja los precios de las {LowercaseNextLetter}Herrerías.
+MATID_Reward_ItemDiscount: Descuento para el bazar
+MATID_H_Reward_ItemDiscount: Rebaja los precios de los artículos del bazar.
+MATID_Reward_GiftDiscount: Descuento para {LowercaseNextLetter}Regalos
+MATID_H_Reward_GiftDiscount: Rebaja los precios de los {LowercaseNextLetter}Regalos.
+MATID_Reward_MealDiscount: Vale de comida
+MATID_H_Reward_MealDiscount: Rebaja los precios de las {LowercaseNextLetter}Comidas en las {LowercaseNextLetter}Posadas\n(sin efecto los días de rebajas).
+MATID_Reward_ThermaeDiscount: Descuento para {LowercaseNextLetter}Termas
+MATID_H_Reward_ThermaeDiscount: Rebaja los precios de los {LowercaseNextLetter}Baños en las {LowercaseNextLetter}Termas.
+MATID_Reward_DungeonChasePlus: Evasión en zonas explorables
+MATID_H_Reward_DungeonChasePlus: En los espacios que se pueden explorar, reduce el tiempo\ndurante el que te persiguen los enemigos.
+MATID_Reward_DungeonDropUp: Abundancia de materiales
+MATID_H_Reward_DungeonDropUp: En las zonas explorables, aumenta la probabilidad\nde obtener materiales raros al romper cajas,\nacumulaciones de mineral y demás.
+MATID_Reward_HotelStayDiscount: Descuento para {LowercaseNextLetter}Posadas
+MATID_H_Reward_HotelStayDiscount: Rebaja los precios de {LowercaseNextLetter}Dormir en las {LowercaseNextLetter}Posadas.
+MATID_Reward_TheaterWatchDiscount: Descuento para el {LowercaseNextLetter}Teatro
+MATID_H_Reward_TheaterWatchDiscount: Rebaja los precios de las entradas\npara {LowercaseNextLetter}Ver una obra de {LowercaseNextLetter}Teatro.
