@@ -357,7 +357,7 @@ MID_Sys_Result_Msg_Recruit_Boost_Bad: La arenga de {Variable=0} no ha tenido el 
 MID_Sys_Result_Headline_Scout_Success: Personaje reclutado
 MID_Sys_Result_Headline_Scout_Failed: Reclutamiento fallido
 MID_Sys_Result_Msg_Join: {Variable=0} se ha unido a tus filas.
-MID_Sys_Result_Msg_Join_Maxim: {Unknown080E=03}Maxim ({Unknown080E=03}Jester) se ha unido a tus filas.
+MID_Sys_Result_Msg_Join_Maxim: {Unknown0E08=03}Maxim ({Unknown0E08=03}Jester) se ha unido a tus filas.
 MID_Sys_Result_Msg_Join_SideStory: {Variable=0} se ha unido a tus filas con limitaciones.
 MID_Sys_Result_Msg_LevelUp: {Variable=0} sube a nivel {Variable=1}.
 MID_Sys_Result_Success: ¡Bien!
@@ -379,7 +379,7 @@ MID_Sys_Result_Msg_Thermae_Acquired: {CapitalizeNextLetter}{Variable=0} ha apren
 MID_Sys_Result_Msg_Temple_Contribution_Up: Han aumentado los tributos al {LowercaseNextLetter}{Variable=0}.
 MID_Sys_Result_Msg_Miracle_LevelUp_First: Ahora cuentas con la {LowercaseNextLetter}{Variable=0}.
 MID_Sys_Result_Msg_Miracle_LevelUp: Se ha añadido un efecto a la {LowercaseNextLetter}{Variable=0}:
-MID_Sys_Result_Msg_Reliance_EXP_Up_Divination: Han aumentado los puntos de apoyo con {Unknown080E=03}Anatolia.
+MID_Sys_Result_Msg_Reliance_EXP_Up_Divination: Han aumentado los puntos de apoyo con {Unknown0E08=03}Anatolia.
 MID_Sys_Result_Causation_Established: Causalidad fijada
 MID_Sys_Result_Msg_Causation_Established: Los acompañantes de la {LowercaseNextLetter}{Variable=0}\nya pueden participar en la campaña final.
 MID_Sys_Result_Causation_Marged: Causalidad fusionada
@@ -521,7 +521,7 @@ MID_Menu_Cause_NotGift: No tienes ningún regalo.
 MID_Menu_Cause_NotScout: No puedes {LowercaseNextLetter}Reclutar esta unidad.
 MID_Menu_Cause_UsedLesson: No hay formaciones disponibles.
 MID_Menu_Cause_Complete_Procurement: No hay suministros que enviar.
-MID_Menu_Cause_NotHero_Educate: {Unknown080E=03}Dietrich no está presente.
+MID_Menu_Cause_NotHero_Educate: {Unknown0E08=03}Dietrich no está presente.
 MID_Menu_Cause_NotMainTemple: Disponible en el templo principal.
 MID_Menu_Cause_NotWatching: No hay ningún combate.
 MID_Menu_Cause_FinishedWatching: El combate ha concluido.
@@ -900,10 +900,10 @@ MID_Restart_Hellgate: Reiniciar la misión del portal
 MID_Restart_Hellgate_Help: Empieza desde el principio la misión de destruir\nel portal de la presente sección.
 MID_Restart_Hellgate_Confirm: ¿Quieres reiniciar la misión de destruir el portal?
 MID_Restart_Hellgate_Annotation: Los atributos de las unidades, el inventario y demás\nvolverán al mismo estado en que se encontraban\nal comienzo de la misión de destruir el portal.
-MID_Restart_Dit8Search: Reiniciar la búsqueda de {Unknown080E=03}Cetus
-MID_Restart_Dit8Search_Help: Empieza desde el principio la misión\nde dar caza a {Unknown080E=03}Cetus.
-MID_Restart_Dit8Search_Confirm: ¿Quieres reiniciar la búsqueda de {Unknown080E=03}Cetus?
-MID_Restart_Dit8Search_Annotation: Volverás al inicio de la misión de dar caza a {Unknown080E=03}Cetus.
+MID_Restart_Dit8Search: Reiniciar la búsqueda de {Unknown0E08=03}Cetus
+MID_Restart_Dit8Search_Help: Empieza desde el principio la misión\nde dar caza a {Unknown0E08=03}Cetus.
+MID_Restart_Dit8Search_Confirm: ¿Quieres reiniciar la búsqueda de {Unknown0E08=03}Cetus?
+MID_Restart_Dit8Search_Annotation: Volverás al inicio de la misión de dar caza a {Unknown0E08=03}Cetus.
 MID_Restart_UseHistory: Usar la Bendición de Fortuna
 MID_Restart_UseHistory_Help: Retrocede en el tiempo para corregir tus decisiones.
 MID_Restart_UseHistory_Annotation: No tienes suficiente {LowercaseNextLetter}Arena divina.

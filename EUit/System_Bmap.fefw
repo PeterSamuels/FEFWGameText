@@ -74,11 +74,11 @@ MID_H_BtlMenu_Terrain_Default_SC13_13_2: Attiva il meccanismo. (Attivali\ntutti 
 MID_H_BtlMenu_Terrain_Default_SC13_13_1: Attiva il meccanismo per azionare\nle caselle di teletrasporto.
 MID_H_BtlMenu_Terrain_Default_SC16_18: Attiva il meccanismo per\ninterrompere la produzione\ndi flamma.
 MID_H_BtlMenu_Terrain_Default_SC18_10: Attiva il meccanismo per invertire\ni potenziamenti dei nemici da Prt\na Rsl e viceversa.
-MID_H_BtlMenu_Terrain_Default_SC18_03: Attiva il meccanismo per\npotenziare {Unknown080E=03}Anatolia.
-MID_H_BtlMenu_Terrain_Default_SC12_03: Usa il meccanismo. Usane tre\nper ridurre tutti i potenziamenti\ndi {Unknown080E=03}Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC18_03: Attiva il meccanismo per\npotenziare {Unknown0E08=03}Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC12_03: Usa il meccanismo. Usane tre\nper ridurre tutti i potenziamenti\ndi {Unknown0E08=03}Anatolia.
 MID_H_BtlMenu_Terrain_Default_SC12_15: Manomette il meccanismo e attiva\nil Titano nemico distruggendone\ntutte le barriere.
 MID_H_BtlMenu_Terrain_Default_SCXX_06: Attiva il meccanismo. Attivane\ndue nella stessa fase per operare\nl'onagro.
-MID_H_BtlMenu_Terrain_Default_SC12_12: Attiva il meccanismo per collocare\nper un turno una trappola che può\ncatturare e immobilizzare {Unknown080E=03}Cetus.
+MID_H_BtlMenu_Terrain_Default_SC12_12: Attiva il meccanismo per collocare\nper un turno una trappola che può\ncatturare e immobilizzare {Unknown0E08=03}Cetus.
 MID_H_BtlMenu_Terrain_Default_SC13_09: Attiva il dispositivo per dissipare\nla nebbia su tutto il campo di\nbattaglia per la propria fase.
 MID_BtlMenu_Terrain_Lightflame: Braciere
 MID_H_BtlMenu_Terrain_Lightflame: Accendi una fiamma blu\nsul braciere.
@@ -145,6 +145,6 @@ MID_Battle_FrozenSong: {Variable=1} ha suonato il {Variable=0}. La Pot dif dei\n
 MID_Battle_FrozenSong_All: {Variable=1} ha suonato il {Variable=0}. La Pot dif di\ntutti i nemici è aumentata.
 MID_Battle_FrenzySong: {Variable=1} ha suonato il {Variable=0}, infliggendo\nConfusione agli alleati nel raggio d'azione.
 MID_Battle_FrenzySong_All: {Variable=1} ha suonato il {Variable=0}, infliggendo\nConfusione a tutti gli alleati.
-MID_Battle_PowerAwakening: {Unknown080E=03}Bertrand ha usato il Risveglio del re. Il suo Clp\naumenterà nella sua prossima fase.
-MID_Battle_SkillAwakening: {Unknown080E=03}Bertrand ha usato il Risveglio del lampo. La sua\nPrt aumenterà nella sua prossima fase.
-MID_Battle_StormAwakening: {Unknown080E=03}Bertrand ha usato il Risveglio della tempesta.\nLa sua Scv aumenterà nella sua prossima fase.
+MID_Battle_PowerAwakening: {Unknown0E08=03}Bertrand ha usato il Risveglio del re. Il suo Clp\naumenterà nella sua prossima fase.
+MID_Battle_SkillAwakening: {Unknown0E08=03}Bertrand ha usato il Risveglio del lampo. La sua\nPrt aumenterà nella sua prossima fase.
+MID_Battle_StormAwakening: {Unknown0E08=03}Bertrand ha usato il Risveglio della tempesta.\nLa sua Scv aumenterà nella sua prossima fase.

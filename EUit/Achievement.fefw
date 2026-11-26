@@ -44,14 +44,14 @@ MATID_Record_SideStoryCleared: Completa {Variable=0} {SingularPlural0=appendice|
 MATID_Record_OreGet: Ottieni {Variable=0} {SingularPlural0=minerale|minerali}
 MATID_Record_PlayTimes: Gioca per più di {Variable=0} {SingularPlural0=ora|ore}
 MATID_Record_IsmHelpCount: Attiva il salvataggio di sostegno {Variable=0} {SingularPlural0=volta|volte}
-MATID_Record_1KAI_Cleared: Completa la parte I della saga di {Unknown080E=03}Cai
-MATID_Record_1DIT_Cleared: Completa la parte I della saga di {Unknown080E=03}Dietrich
-MATID_Record_1SEO_Cleared: Completa la parte I della saga di {Unknown080E=03}Theodora
-MATID_Record_1LED_Cleared: Completa la parte I della saga di {Unknown080E=03}Leda
-MATID_Record_1BEL_Cleared: Completa la parte I della saga di {Unknown080E=03}Bertrand
-MATID_Record_1TAL_Cleared: Completa la parte I della saga di {Unknown080E=03}Talimun
-MATID_Record_1ORH_Cleared: Completa la parte I della saga di {Unknown080E=03}Orchel
-MATID_Record_1ANH_Cleared: Completa la parte I della saga di {Unknown080E=03}Anatolia
+MATID_Record_1KAI_Cleared: Completa la parte I della saga di {Unknown0E08=03}Cai
+MATID_Record_1DIT_Cleared: Completa la parte I della saga di {Unknown0E08=03}Dietrich
+MATID_Record_1SEO_Cleared: Completa la parte I della saga di {Unknown0E08=03}Theodora
+MATID_Record_1LED_Cleared: Completa la parte I della saga di {Unknown0E08=03}Leda
+MATID_Record_1BEL_Cleared: Completa la parte I della saga di {Unknown0E08=03}Bertrand
+MATID_Record_1TAL_Cleared: Completa la parte I della saga di {Unknown0E08=03}Talimun
+MATID_Record_1ORH_Cleared: Completa la parte I della saga di {Unknown0E08=03}Orchel
+MATID_Record_1ANH_Cleared: Completa la parte I della saga di {Unknown0E08=03}Anatolia
 MATID_Record_SkillLvCCount: Raggiungi il grado C delle competenze {Variable=0} {SingularPlural0=volta|volte}
 MATID_Record_SkillLvBCount: Raggiungi il grado B delle competenze {Variable=0} {SingularPlural0=volta|volte}
 MATID_Record_SkillLvACount: Raggiungi il grado A delle competenze {Variable=0} {SingularPlural0=volta|volte}

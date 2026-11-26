@@ -76,7 +76,7 @@ MSID_H_EntrustWind+: En combate, otorga al azar\nEsq {Variable=0}, Esq {Variable
 MSID_SoreLoser: Celo competitivo
 MSID_H_SoreLoser: Si la unidad tiene magia equipada,\notorga Crí {Variable=0}.
 MSID_EmotionalLizaia: Vampiro emocional{Variable=0}
-MSID_H_EmotionalLizaia: Al usar {Unknown080E=03}Nosferatu en combate,\notorga Ata {Variable=0} y Crí {Variable=1}.
+MSID_H_EmotionalLizaia: Al usar {Unknown0E08=03}Nosferatu en combate,\notorga Ata {Variable=0} y Crí {Variable=1}.
 MSID_GrowthSigns: Signos de madurez
 MSID_H_GrowthSigns: La unidad recibe mayores mejoras\nde atributos al subir de nivel.
 MSID_WarriorBlood: Sangre guerrera{Variable=0}
@@ -306,9 +306,9 @@ MSID_H_ElephantRun: Caballería. Si la unidad es un jinete de\nelefantes, otorga
 MSID_SilverSpirit: Alma de plata
 MSID_H_SilverSpirit: Tras el combate, puede otorgar Def {Variable=0}\n(máx. {Variable=1}) hasta el final de la batalla.\nProbabilidad = Def %.
 MSID_BrotherCoop: Apoyo fraterno
-MSID_H_BrotherCoop: Si {Unknown080E=03}Chiara está en una casilla\nadyacente, otorga Gol {Variable=0}.
+MSID_H_BrotherCoop: Si {Unknown0E08=03}Chiara está en una casilla\nadyacente, otorga Gol {Variable=0}.
 MSID_SisterCoop: Apoyo fraterno
-MSID_H_SisterCoop: Si {Unknown080E=03}Churness está en una casilla\nadyacente, otorga Gol {Variable=0}.
+MSID_H_SisterCoop: Si {Unknown0E08=03}Churness está en una casilla\nadyacente, otorga Gol {Variable=0}.
 MSID_FistStyle: Técnica de la pitón
 MSID_H_FistStyle: Al usar una técnica de guanteletes en combate,\nla unidad puede hacer un ataque doble, sea\ncual sea la VA. Probabilidad = {Variable=0} %.
 MSID_GetOnOff: Montar/Desmontar
@@ -958,7 +958,7 @@ MSID_H_SurpriseArrow: Si el enemigo tiene todos sus PV,\npuede otorgar Gol {Vari
 MSID_BreakawayShot: Tiro de huida{Variable=0}
 MSID_H_BreakawayShot: Tras el combate, la unidad\npuede desplazarse una casilla.
 MSID_SealArrow: Saeta silencio{Variable=0}
-MSID_H_SealArrow: Si el ataque acierta, inflige {Unknown080E=03}Silencio.
+MSID_H_SealArrow: Si el ataque acierta, inflige {Unknown0E08=03}Silencio.
 MSID_LeadArrow: Saeta de plomo{Variable=0}
 MSID_H_LeadArrow: Eficaz contra unidades acorazadas.
 MSID_H_LeadArrow+: Eficaz contra unidades acorazadas.\nOtorga Crí {Variable=0} contra enemigos\nacorazados.
@@ -1297,7 +1297,7 @@ MSID_H_LuckEfficacy: Otorga Sue {Variable=0}.
 MSID_RecoveryEfficacy: Efecto Recuperación{Variable=0}
 MSID_H_RecoveryEfficacy: Curar a un aliado con magia\nrestaura {Variable=0} PV.
 MSID_ResistEfficacy: Inmunidad al silencio
-MSID_H_ResistEfficacy: Protege contra el {Unknown080E=03}Silencio.
+MSID_H_ResistEfficacy: Protege contra el {Unknown0E08=03}Silencio.
 MSID_SerenityEfficacy: Serenidad{Variable=0}
 MSID_H_SerenityEfficacy: En combate, puede anular el costo\nde usar magia. Probabilidad = {Variable=0} %.
 MSID_AbsorptionEfficacy: Efecto Esponja{Variable=0}
@@ -1388,7 +1388,7 @@ MSID_H_PoisonStrategy: Si el ataque acierta, inflige Veneno.
 MSID_H_CavalryConfusion: Eficaz contra unidades de caballería.\nSi el ataque acierta, inflige Inmovilidad.
 MSID_H_AntiairConfusion: Muy eficaz contra unidades voladoras.\nSi el ataque acierta, inflige Inmovilidad.
 MSID_H_FlameSpread: Ataque de área mágico.
-MSID_H_SealingStrategy: Si el ataque acierta, inflige {Unknown080E=03}Silencio.
+MSID_H_SealingStrategy: Si el ataque acierta, inflige {Unknown0E08=03}Silencio.
 MSID_H_SiegeStrategy: Si el ataque acierta, inflige Bloqueo táctico.
 MSID_H_FormationWings: Impide el paso por las casillas\nen las que se despliegue.
 MSID_H_DefenseMagic: Ataque de área mágico. Cada golpe\ninfligido otorga Def {Variable=0} y Res {Variable=0}\nhasta la siguiente fase.
@@ -1640,13 +1640,13 @@ MSID_AttackChange: Trueque ofensivo
 MSID_H_AttackChange: Permuta los valores de Fue y Mag\ndel enemigo durante {Variable=0} {SingularPlural0=combate|combates}\no {Variable=1} {SingularPlural1=turno|turnos}.
 MSID_DefenseChange: Trueque defensivo
 MSID_H_DefenseChange: Permuta los valores de Def y Res\ndel enemigo durante {Variable=0} {SingularPlural0=combate|combates}\no {Variable=1} {SingularPlural1=turno|turnos}.
-MSID_Lizaia: {Unknown080E=03}Nosferatu
-MSID_Barrier: {Unknown080E=03}Barrera
-MSID_MagicShield: {Unknown080E=03}Escudo mágico
-MSID_Emergence: {Unknown080E=03}Emergis
-MSID_Regeia: {Unknown080E=03}Regenerar
-MSID_Warm: {Unknown080E=03}Enjambre Ζ
-MSID_Luna: {Unknown080E=03}Luna Λ
+MSID_Lizaia: {Unknown0E08=03}Nosferatu
+MSID_Barrier: {Unknown0E08=03}Barrera
+MSID_MagicShield: {Unknown0E08=03}Escudo mágico
+MSID_Emergence: {Unknown0E08=03}Emergis
+MSID_Regeia: {Unknown0E08=03}Regenerar
+MSID_Warm: {Unknown0E08=03}Enjambre Ζ
+MSID_Luna: {Unknown0E08=03}Luna Λ
 MSID_HolyWater: Agua pura
 MSID_PeaceDew: Rocío de la paz
 MSID_BlessingDew: Rocío protector
@@ -1665,10 +1665,10 @@ MSID_ApathyAle: Jugo de hojamarga
 MSID_RangeAle: Jugo de hojadulce
 MSID_RecoveryAle: Jugo de hojapicante
 MSID_MoveAle: Jugo de zang
-MSID_BlissTongue: {Unknown080E=03}Lengua Venturosa
+MSID_BlissTongue: {Unknown0E08=03}Lengua Venturosa
 MSID_VictoryJewel: Gema victoriosa
 MSID_SeaCharm: Amuleto marítimo
-MSID_AuroraCloth: {Unknown080E=03}Manto de Aurora
+MSID_AuroraCloth: {Unknown0E08=03}Manto de Aurora
 MSID_MiasmaLaziness: Miasma de pereza
 MSID_H_MiasmaLaziness: Impide realizar ataques dobles.
 MSID_MiasmaGreed: Miasma de avaricia
@@ -1699,8 +1699,8 @@ MSID_H_Madness: Aumenta el medidor de ignición hasta {Variable=0}.\nImpide que 
 MSID_SpiritualUnity: Calma infernal
 MSID_H_SpiritualUnity: Reduce a 0 el medidor de ignición.
 MSID_Secret: (?)
-MSID_SolidGiant: {Unknown080E=03}Ayudante hercúleo
-MSID_SandstormBattalion: {Unknown080E=03}Batallón desértico
+MSID_SolidGiant: {Unknown0E08=03}Ayudante hercúleo
+MSID_SandstormBattalion: {Unknown0E08=03}Batallón desértico
 MSID_DragonFormDagda: 
 MSID_H_DragonFormDagda: 
 MSID_DragonFormIshieto: 
@@ -1883,7 +1883,7 @@ MSID_H_R_Def_Res_Invert: Permuta los valores de Def y Res.
 MSID_H_R_NoReturn: Impide contratacar a la unidad.
 MSID_H_R_NoCounter: Impide contratacar al enemigo.
 MSID_H_R_NoPoison: Protege contra el Veneno.
-MSID_H_R_NoSealed: Protege contra el {Unknown080E=03}Silencio.
+MSID_H_R_NoSealed: Protege contra el {Unknown0E08=03}Silencio.
 MSID_H_R_HellEff: Los ataques se vuelven eficaces\ncontra muertos vivientes.
 MSID_H_R_Continuous: El ataque doble de la unidad precede\nal contrataque del enemigo.
 MSID_H_R_InvalidEff: Anula la eficacia del enemigo\ncontra la unidad.

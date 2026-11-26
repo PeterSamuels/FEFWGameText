@@ -44,14 +44,14 @@ MATID_Record_SideStoryCleared: Has completado {Variable=0} {SingularPlural0=anex
 MATID_Record_OreGet: Has obtenido un total de {Variable=0} {SingularPlural0=unidad|unidades} de mineral.
 MATID_Record_PlayTimes: Has jugado más de {Variable=0} {SingularPlural0=hora|horas}.
 MATID_Record_IsmHelpCount: Has activado el rescate de apoyo {Variable=0} {SingularPlural0=vez|veces}.
-MATID_Record_1KAI_Cleared: Has completado la senda de {Unknown080E=03}Cai en la parte I.
-MATID_Record_1DIT_Cleared: Has completado la senda de {Unknown080E=03}Dietrich en la parte I.
-MATID_Record_1SEO_Cleared: Has completado la senda de {Unknown080E=03}Theodora en la parte I.
-MATID_Record_1LED_Cleared: Has completado la senda de {Unknown080E=03}Leda en la parte I.
-MATID_Record_1BEL_Cleared: Has completado la senda de {Unknown080E=03}Bertrand en la parte I.
-MATID_Record_1TAL_Cleared: Has completado la senda de {Unknown080E=03}Talimun en la parte I.
-MATID_Record_1ORH_Cleared: Has completado la senda de {Unknown080E=03}Orchel en la parte I.
-MATID_Record_1ANH_Cleared: Has completado la senda de {Unknown080E=03}Anatolia en la parte I.
+MATID_Record_1KAI_Cleared: Has completado la senda de {Unknown0E08=03}Cai en la parte I.
+MATID_Record_1DIT_Cleared: Has completado la senda de {Unknown0E08=03}Dietrich en la parte I.
+MATID_Record_1SEO_Cleared: Has completado la senda de {Unknown0E08=03}Theodora en la parte I.
+MATID_Record_1LED_Cleared: Has completado la senda de {Unknown0E08=03}Leda en la parte I.
+MATID_Record_1BEL_Cleared: Has completado la senda de {Unknown0E08=03}Bertrand en la parte I.
+MATID_Record_1TAL_Cleared: Has completado la senda de {Unknown0E08=03}Talimun en la parte I.
+MATID_Record_1ORH_Cleared: Has completado la senda de {Unknown0E08=03}Orchel en la parte I.
+MATID_Record_1ANH_Cleared: Has completado la senda de {Unknown0E08=03}Anatolia en la parte I.
 MATID_Record_SkillLvCCount: Has alcanzado el nivel de {LowercaseNextLetter}Competencias C {Variable=0} {SingularPlural0=vez|veces}.
 MATID_Record_SkillLvBCount: Has alcanzado el nivel de {LowercaseNextLetter}Competencias B {Variable=0} {SingularPlural0=vez|veces}.
 MATID_Record_SkillLvACount: Has alcanzado el nivel de {LowercaseNextLetter}Competencias A {Variable=0} {SingularPlural0=vez|veces}.

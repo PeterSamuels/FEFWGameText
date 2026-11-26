@@ -10,7 +10,7 @@ MID_GuideTemplate009_m01: Es heißt, es gibt am Ort {Variable=0}\nein seltenes E
 MID_GuideTemplate010_m01: {Variable=3}\nIn {Variable=1} findet man eine Waffe,\ndie dieses Problem löst: {Variable=2}.
 MID_GuideTemplate011_m01: Man könnte ein Bataillon zum Ort {Variable=0}\nentsenden, um selbst am Ort {Variable=1} zu\n{LowercaseNextLetter}Suchen. Wer delegiert, kann mehr auf einmal {LowercaseNextLetter}Suchen.
 MID_GuideTemplate013_m01: Rekrutierte Soldaten können Bataillone bilden. Sie\nerlauben die Befehle Strategem und Einsetzen. Sie\nkönnen auch in {Variable=0} rekrutiert werden.
-MID_GuideTemplate014_m01: Der Schmied bietet Veredelung für Waffen an. Das\nerhöht die Werte für Angr. und Trf. Hm, ich könnte\nja m{Unknown060E=01} {Variable=1} veredeln lassen.
+MID_GuideTemplate014_m01: Der Schmied bietet Veredelung für Waffen an. Das\nerhöht die Werte für Angr. und Trf. Hm, ich könnte\nja m{Unknown0E06=01} {Variable=1} veredeln lassen.
 MID_GuideTemplate015_m01: Eine {LowercaseNextLetter}Motivierende Rede hilft, stärkere Bataillone zu\nrekrutieren. Einen Versuch ist es wert, beispielsweise\nam Ort {Variable=0}.
 MID_GuideTemplate016_m01: Zur Suche einsetzen lässt Truppen nach Materialien\nsuchen, z. B. am Ort {Variable=1}. In der\nNähe liegt auch der Ort {Variable=0}.
 MID_GuideTemplate017_m01: Ich hörte, Ihr liefert lokale Darbietungen. Habt Ihr\nschon den Auftrag des Ortes {Variable=0}\nangenommen? Details gibt es im Gasthaus.

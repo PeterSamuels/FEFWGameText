@@ -18,10 +18,10 @@ MIID_H_KillSword1: Una spada affilata realizzata con tecniche\norientali. Consen
 MIID_PoisonSword: Spada velenosa{Variable=0}
 MIID_H_PoisonSword1: Una spada con la lama ricoperta di veleno\nmortale. Se l'attacco va a segno, avvelena\nil nemico.
 MIID_H_PoisonSword2: Una spada avvelenata. Se l'attacco va\na segno, avvelena il nemico. Consente\nVeleno curativo.
-MIID_HorseSword: {Unknown080E=03}Zanbato{Variable=0}
+MIID_HorseSword: {Unknown0E08=03}Zanbato{Variable=0}
 MIID_H_HorseSword1: Un'imponente spada che abbatte le unità\ndi cavalleria.
 MIID_H_HorseSword2: Un'imponente spada che abbatte le unità\ndi cavalleria. Conferisce Trlp {Variable=0} durante\nlo scontro, se usata contro la cavalleria.
-MIID_Flissa: {Unknown080E=03}Flyssa{Variable=0}
+MIID_Flissa: {Unknown0E08=03}Flyssa{Variable=0}
 MIID_H_Flissa1: Una spada che perfora e lacera le armature.
 MIID_H_Flissa2: Una spada da affondo per perforare\nle armature. Conferisce Trpl {Variable=0} durante\nlo scontro con i nemici corazzati.
 MIID_GaleSword: Lama del vento{Variable=0}
@@ -34,34 +34,34 @@ MIID_ExorcismSword: Lama di grazia{Variable=0}
 MIID_H_ExorcismSword1: Una spada corta, purificata con benedizioni\nsacre. Neutralizza Grazia dell'oltretomba\ndel nemico.
 MIID_ThunderSword: Spada folgore{Variable=0}
 MIID_H_ThunderSword1: Spada intrisa del potere degli spiriti\ndel fulmine. Gli attacchi sono magici.\nConsente Colpo di fulmine.
-MIID_Ajura: {Unknown080E=03}Angela{Variable=0}
+MIID_Ajura: {Unknown0E08=03}Angela{Variable=0}
 MIID_H_Ajura1: Spada avvelenata intrisa di potere oscuro.\nConsente la mossa speciale Megaveleno.
-MIID_D_Ajura: {Unknown080E=03}Angela oscura
+MIID_D_Ajura: {Unknown0E08=03}Angela oscura
 MIID_H_D_Ajura1: Una malvagia spada avvelenata creata dai\nricordi dei cadaveri. Consente Megaveleno.
-MIID_Velokine: {Unknown080E=03}Veroquine{Variable=0}
+MIID_Velokine: {Unknown0E08=03}Veroquine{Variable=0}
 MIID_H_Velokine1: Una spada sottile intrisa di potere oscuro.\nConsente la mossa speciale Azzeramento.
 MIID_H_Velokine2: Una spada sottile intrisa di potere oscuro.\nConsente Azzeramento. Conferisce\nDes {Variable=0}.
-MIID_Fragarach: {Unknown080E=03}Fragarach{Variable=0}
+MIID_Fragarach: {Unknown0E08=03}Fragarach{Variable=0}
 MIID_H_Fragarach1: Una spada ricurva intrisa di potere oscuro.\nConsente l'uso della mossa speciale Rovina\nlunare.
-MIID_D_Fragarach: {Unknown080E=03}Fragarach oscura
+MIID_D_Fragarach: {Unknown0E08=03}Fragarach oscura
 MIID_H_D_Fragarach1: Una malvagia spada ricurva creata\ndai ricordi dei cadaveri. Consente\nRovina lunare.
-MIID_IronFan: {Unknown080E=03}Ventaglio di Lakshashi{Variable=0}
+MIID_IronFan: {Unknown0E08=03}Ventaglio di Lakshashi{Variable=0}
 MIID_H_IronFan1: Ventaglio da combattimento avvelenato\nintriso di potere oscuro. Consente\nVento tossico.
 MIID_H_IronFan2: Ventaglio da combattimento avvelenato\nintriso di potere oscuro. Consente\nVento tossico con Pot att {Variable=0}.
-MIID_D_IronFan: {Unknown080E=03}Ventaglio oscuro{Variable=0}
+MIID_D_IronFan: {Unknown0E08=03}Ventaglio oscuro{Variable=0}
 MIID_H_D_IronFan1: Malvagio ventaglio avvelenato creato dai\nricordi dei cadaveri. Consente Vento tossico.
-MIID_NightQatar: {Unknown080E=03}Katara notturna{Variable=0}
+MIID_NightQatar: {Unknown0E08=03}Katara notturna{Variable=0}
 MIID_H_NightQatar1: Liuyedao intriso di potere oscuro. Consente\nla mossa speciale Fortuna aggressiva.
 MIID_H_NightQatar2: Liuyedao intriso di potere oscuro. Consente\nla mossa speciale Fortuna aggressiva con\nClp {Variable=0}.
-MIID_MarsSword: {Unknown080E=03}Spada rovente{Variable=0}
+MIID_MarsSword: {Unknown0E08=03}Spada rovente{Variable=0}
 MIID_H_MarsSword1: Arcon supremo intriso del potere\ndel fuoco. Consente la mossa speciale\nTempesta di fuoco.
 MIID_H_MarsSword2: Arcon supremo intriso di potere del fuoco.\nConsente Tempesta di fuoco. Conferisce\nVel {Variable=0}.
-MIID_D_MarsSword: {Unknown080E=03}Spada rovente oscura{Variable=0}
+MIID_D_MarsSword: {Unknown0E08=03}Spada rovente oscura{Variable=0}
 MIID_H_D_MarsSword1: Malvagia Spada rovente creata dai ricordi\ndei cadaveri. Consente Tempesta di fuoco.
-MIID_Answerer: {Unknown080E=03}Responsum{Variable=0}
+MIID_Answerer: {Unknown0E08=03}Responsum{Variable=0}
 MIID_H_Answerer1: Una delle reliquie degli eroi. Consente\na Dietrich la mossa speciale Salasso.
 MIID_H_Answerer2: Una delle reliquie degli eroi. Consente\na Dietrich Salasso con Pot {Variable=0}.
-MIID_AnswererRevised: {Unknown080E=03}Responsum fatale
+MIID_AnswererRevised: {Unknown0E08=03}Responsum fatale
 MIID_H_AnswererRevised1: Una delle reliquie degli eroi. Consente\na Dietrich la mossa speciale Salasso+.
 MIID_AnswererSai: Responsum flagello
 MIID_AnswererOu: Responsum fenice
@@ -104,11 +104,11 @@ MIID_H_Scimitar1: Potente arma dalla lama ampia e pesante.
 MIID_KnightKiller: Picca{Variable=0}
 MIID_H_KnightKiller1: Una lancia studiata per combattere le unità\ndi cavalleria.
 MIID_H_KnightKiller2: Una lancia anticavalleria. Se il nemico è\nun'unità di cavalleria, conferisce Pot dif {Variable=0}\ndurante lo scontro.
-MIID_AuroraLance: {Unknown080E=03}Lancia astrale{Variable=0}
+MIID_AuroraLance: {Unknown0E08=03}Lancia astrale{Variable=0}
 MIID_H_AuroraLance1: Un Arcon supremo dallo splendore stellare.\nConsente la mossa speciale Stella accecante.
-MIID_NamelessSpear: {Unknown080E=03}Innominata{Variable=0}
+MIID_NamelessSpear: {Unknown0E08=03}Innominata{Variable=0}
 MIID_H_NamelessSpear: Una lancia che ha perso il suo potere\noriginario, così come il suo nome.
-MIID_SorelLance: {Unknown080E=03}Lancia splendente{Variable=0}
+MIID_SorelLance: {Unknown0E08=03}Lancia splendente{Variable=0}
 MIID_H_SorelLance1: Un Arcon supremo intriso del potere del\nsole. Consente la mossa speciale Sole.
 MIID_H_SorelLance2: Un Arcon supremo intriso del potere del\nsole. Consente Sole con recupero PS pari\nal danno inflitto.
 MIID_ShinzaHarpoon: Tridente di Sinza{Variable=0}
@@ -121,20 +121,20 @@ MIID_D_MahamadLance: Lancia osc. di Mahadu{Variable=0}
 MIID_H_D_MahamadLance1: Una malvagia lancia creata dai ricordi\ndei cadaveri. Consente Luna piena.
 MIID_LourdijaSpear: Lancia di Lulu{Variable=0}
 MIID_H_LourdijaSpear1: Una lancia sottile e leggera forgiata da\nLudia in persona.
-MIID_Muen: {Unknown080E=03}Muen{Variable=0}
+MIID_Muen: {Unknown0E08=03}Muen{Variable=0}
 MIID_H_Muen1: Una lancia intrisa di potere oscuro.\nConsente la mossa speciale Ruggito nero.
 MIID_H_Muen2: Una lancia intrisa di potere oscuro.\nConsente la mossa speciale Ruggito nero\ncon Clp {Variable=0}.
-MIID_Hanoa: {Unknown080E=03}Onoa{Variable=0}
+MIID_Hanoa: {Unknown0E08=03}Onoa{Variable=0}
 MIID_H_Hanoa1: Una lancia da affondo, intrisa di potere\noscuro. Consente la mossa speciale\nTerrore dei cavalli.
-MIID_Grancida: {Unknown080E=03}Grasitha{Variable=0}
+MIID_Grancida: {Unknown0E08=03}Grasitha{Variable=0}
 MIID_H_Grancida1: Una reliquia degli eroi che consente a\nEsmeralda la mossa speciale Piazza pulita.
-MIID_Assal: {Unknown080E=03}Assal{Variable=0}
+MIID_Assal: {Unknown0E08=03}Assal{Variable=0}
 MIID_H_Assal1: Una lancia forgiata da Seteth. Consente\nla mossa speciale Eliminazione sacra.
 MIID_H_Assal2: Una lancia forgiata da Seteth. Consente\nEliminazione sacra con maggiore recupero\ndi PS.
-MIID_Vendetta: {Unknown080E=03}Vendetta{Variable=0}
+MIID_Vendetta: {Unknown0E08=03}Vendetta{Variable=0}
 MIID_H_Vendetta1: Una lancia estensibile intrisa di potere\noscuro. Consente la mossa speciale\nSerpente supremo.
 MIID_H_Vendetta2: Una lancia estensibile intrisa di potere\noscuro. Consente Serpente supremo\ncon Clp {Variable=0}.
-MIID_D_Vendetta: {Unknown080E=03}Vendetta oscura{Variable=0}
+MIID_D_Vendetta: {Unknown0E08=03}Vendetta oscura{Variable=0}
 MIID_H_D_Vendetta1: Malvagia lancia estensibile creata dai ricordi\ndei cadaveri. Consente Serpente supremo.
 MIID_WoodAxe: Ascia legno{Variable=0}
 MIID_H_WoodAxe1: Un'ascia di legno, semplice e leggera.
@@ -157,7 +157,7 @@ MIID_H_HandAxe2: Un'ascia da lancio semplice. In scontri\ncon nemici a 2 o più 
 MIID_ShortAxe: Ascia leggera{Variable=0}
 MIID_H_ShortAxe1: Un'ascia a una mano di buona fattura,\npiù facile da lanciare.
 MIID_H_ShortAxe2: Una buona ascia da lancio. In scontri\ncon nemici a 2 o più spazi di distanza,\nconferisce Clp {Variable=0}.
-MIID_Tomahawk: {Unknown080E=03}Sagaris{Variable=0}
+MIID_Tomahawk: {Unknown0E08=03}Sagaris{Variable=0}
 MIID_H_Tomahawk1: Un'ascia da lancio di alta qualità, in grado\ndi esprimere un grande potere.
 MIID_H_Tomahawk2: Un'ascia da lancio di alta qualità. In scontri\ncon nemici a 2 o più spazi di distanza,\nconferisce Att fis {Variable=0}.
 MIID_SmashAxe: Ascia poderosa{Variable=0}
@@ -166,7 +166,7 @@ MIID_H_SmashAxe2: Un'ascia tanto pesante da mandare in\nfrantumi le rocce. Conse
 MIID_ShieldAxe: Ascia scudo{Variable=0}
 MIID_H_ShieldAxe0: Un'ascia che funge anche da scudo.
 MIID_H_ShieldAxe1: Un'ascia che funge anche da scudo.\nSe il nemico attacca per primo, conferisce\nPrt {Variable=0} durante lo scontro.
-MIID_Boomerang: {Unknown080E=03}You sou fu{Variable=0}
+MIID_Boomerang: {Unknown0E08=03}You sou fu{Variable=0}
 MIID_H_Boomerang1: Un'ascia da lancio con una lama affilata.
 MIID_H_Boomerang2: Un'ascia da lancio con una lama affilata.\nIn scontri con nemici a 2 o più spazi di\ndistanza, conferisce Trpl {Variable=0}.
 MIID_Bardiche: Berdica{Variable=0}
@@ -177,32 +177,32 @@ MIID_H_Hammer1: Un martello in grado di sfondare\nfacilmente le armature.
 MIID_Mace: Mazza{Variable=0}
 MIID_H_Mace1: Una mazza pesante. Consente la mossa\nspeciale Colpo magico.
 MIID_H_Mace2: Una mazza pesante. Consente la mossa\nspeciale Colpo magico con Pot {Variable=0}.
-MIID_Verelheit: {Unknown080E=03}Velheit{Variable=0}
+MIID_Verelheit: {Unknown0E08=03}Velheit{Variable=0}
 MIID_H_Verelheit1: Un'ascia a doppia lama intrisa di potere\noscuro. Consente la mossa speciale\nPiede lesto.
-MIID_Gundogya: {Unknown080E=03}Gundogya{Variable=0}
+MIID_Gundogya: {Unknown0E08=03}Gundogya{Variable=0}
 MIID_H_Gundogya1: Un'ascia a lama singola intrisa di potere\noscuro. Consente la mossa speciale\nLinciamaghi.
-MIID_RedAxe: {Unknown080E=03}Ascia insanguinata{Variable=0}
+MIID_RedAxe: {Unknown0E08=03}Ascia insanguinata{Variable=0}
 MIID_H_RedAxe1: Un'ascia tramandata tra i reali dell'Arago.\nConsente la mossa speciale Dominazione.
-MIID_D_RedAxe: {Unknown080E=03}Ascia insang. osc.{Variable=0}
+MIID_D_RedAxe: {Unknown0E08=03}Ascia insang. osc.{Variable=0}
 MIID_H_D_RedAxe1: Malvagia ascia creata dai ricordi dei\ncadaveri. Consente la mossa speciale\nDominazione.
-MIID_Zalmoxis: {Unknown080E=03}Zalmoxis{Variable=0}
+MIID_Zalmoxis: {Unknown0E08=03}Zalmoxis{Variable=0}
 MIID_H_Zalmoxis1: Un'ascia con il potere di fendere anche\ni cieli. Consente la mossa speciale\nDominazione+.
-MIID_DagdaClub: {Unknown080E=03}Mazza di Dagda{Variable=0}
+MIID_DagdaClub: {Unknown0E08=03}Mazza di Dagda{Variable=0}
 MIID_H_DagdaClub1: Arcon supremo che oblitera tutto. Consente\nla mossa speciale Attacco divino, ma\nrimuove le altre.
-MIID_D_DagdaClub: {Unknown080E=03}Mazza oscura di Dagda{Variable=0}
+MIID_D_DagdaClub: {Unknown0E08=03}Mazza oscura di Dagda{Variable=0}
 MIID_H_D_DagdaClub1: Una malvagia mazza magica creata\ndai ricordi dei cadaveri. Consente\nAttacco divino.
-MIID_ClaireHammer: {Unknown080E=03}Maglio di Credna{Variable=0}
+MIID_ClaireHammer: {Unknown0E08=03}Maglio di Credna{Variable=0}
 MIID_H_ClaireHammer1: Un Arcon supremo dotato di grandi\npoteri magici. Consente la mossa\nspeciale Anello di fuoco.
 MIID_H_ClaireHammer2: Arcon supremo dai grandi poteri magici.\nConsente Anello di fuoco. Dopo la mossa\nspeciale, recuperi moderatamente i PS.
-MIID_Suiran: {Unknown080E=03}Artiglio rot. di Suiran{Variable=0}
+MIID_Suiran: {Unknown0E08=03}Artiglio rot. di Suiran{Variable=0}
 MIID_H_Suiran1: Un'ascia da lancio intrisa di potere oscuro.\nConsente la mossa speciale Rotazione.
 MIID_H_Suiran2: Un'ascia da lancio intrisa di potere oscuro.\nConsente la mossa speciale Rotazione con\nPot {Variable=0}.
-MIID_D_Suiran: {Unknown080E=03}Artiglio oscuro{Variable=0}
+MIID_D_Suiran: {Unknown0E08=03}Artiglio oscuro{Variable=0}
 MIID_H_D_Suiran1: Una malvagia ascia da lancio creata dai\nricordi dei cadaveri. Consente Rotazione.
-MIID_Ottochan: {Unknown080E=03}Babbu{Variable=0}
+MIID_Ottochan: {Unknown0E08=03}Babbu{Variable=0}
 MIID_H_Ottochan1: Un orsacchiotto di peluche dall'aria\ninquietante. Consente Oltretomba viscerale.
 MIID_H_Ottochan2: Orsacchiotto inquietante. Consente\nOltretomba viscerale. Se il nemico\nè avvelenato, l'unità attacca prima.
-MIID_RedAxe_SealBroken: {Unknown080E=03}Ascia insang. dell'odio
+MIID_RedAxe_SealBroken: {Unknown0E08=03}Ascia insang. dell'odio
 MIID_H_RedAxe_SealBroken: Un'ascia malvagia che svela la sua vera\nforma. Consente la mossa speciale\nDominazione.
 MIID_WoodBow: Arco legno{Variable=0}
 MIID_H_WoodBow1: Un arco di legno, semplice e leggero.
@@ -239,18 +239,18 @@ MIID_H_WindBow2: Arco intriso del potere degli spiriti del vento.\nSe l'unità a
 MIID_PoisonBow: Arco velenoso{Variable=0}
 MIID_H_PoisonBow1: Un arco avvelenato. Se l'attacco va a segno,\navvelena il nemico.
 MIID_H_PoisonBow2: Un arco avvelenato. Se l'attacco va a\nsegno, avvelena il nemico. Consente\nVeleno talentuoso.
-MIID_AgazeBow: {Unknown080E=03}Arco di Azaga{Variable=0}
+MIID_AgazeBow: {Unknown0E08=03}Arco di Azaga{Variable=0}
 MIID_H_AgazeBow1: Un arco intriso di potere oscuro. Consente\nla mossa speciale Colpo calamitoso.
-MIID_HedagBow: {Unknown080E=03}Arco di Hedagg{Variable=0}
+MIID_HedagBow: {Unknown0E08=03}Arco di Hedagg{Variable=0}
 MIID_H_HedagBow1: Un arco dorato intriso di potere\noscuro. Consente la mossa speciale\nStella fulminante.
-MIID_D_HedagBow: {Unknown080E=03}Arco osc. di Hedagg{Variable=0}
+MIID_D_HedagBow: {Unknown0E08=03}Arco osc. di Hedagg{Variable=0}
 MIID_H_D_HedagBow1: Un malvagio arco creato dai ricordi dei\ncadaveri. Consente Stella fulminante.
-MIID_UgouBow: {Unknown080E=03}Arco di Ugo{Variable=0}
+MIID_UgouBow: {Unknown0E08=03}Arco di Ugo{Variable=0}
 MIID_H_UgouBow1: Un arco magico dal colore rosso intenso\ne intriso di potere oscuro. Consente la\nmossa speciale Spezzadifese.
-MIID_IdeaBow: {Unknown080E=03}Arco di Idah{Variable=0}
+MIID_IdeaBow: {Unknown0E08=03}Arco di Idah{Variable=0}
 MIID_H_IdeaBow1: Uno degli Arcon tramandati tra i reali\ndell'Arago. Consente la mossa speciale\nLampo sacro.
 MIID_H_IdeaBow2: Uno degli Arcon tramandati tra i reali\ndell'Arago. Consente Lampo sacro con\nmaggiore recupero di PS.
-MIID_CarlaBow: {Unknown080E=03}Arco di Kalla{Variable=0}
+MIID_CarlaBow: {Unknown0E08=03}Arco di Kalla{Variable=0}
 MIID_H_CarlaBow1: Un Arcon supremo intriso del potere\ndel vento. Consente la mossa speciale\nVento paradisiaco.
 MIID_H_CarlaBow2: Un Arcon supremo intriso del potere\ndel vento. Consente Vento paradisiaco\ncon Clp {Variable=0}.
 MIID_WoodGautlet: Guanti d'arme legno{Variable=0}
@@ -282,136 +282,136 @@ MIID_H_Jamadahar1: Guanti dotati di lame. Consentono la mossa\nspeciale Guanto m
 MIID_Kenkonken: Anelli Qiankun{Variable=0}
 MIID_H_Kenkonken1: Armi circolari che possono essere anche\nlanciate.
 MIID_H_Kenkonken2: Armi da lancio. In scontri con nemici\na 2 o più spazi di distanza, conferiscono\nClp/Trpl/Scv {Variable=0}.
-MIID_Dondebok: {Unknown080E=03}Dondebok{Variable=0}
+MIID_Dondebok: {Unknown0E08=03}Dondebok{Variable=0}
 MIID_H_Dondebok1: Guanti ardenti intrisi di potere oscuro.\nConsentono la mossa speciale\nFiamma perforante.
-MIID_D_Dondebok: {Unknown080E=03}Dondebok oscuri{Variable=0}
+MIID_D_Dondebok: {Unknown0E08=03}Dondebok oscuri{Variable=0}
 MIID_H_D_Dondebok1: Malvagi guanti ardenti creati dai ricordi dei\ncadaveri. Consentono Fiamma perforante.
-MIID_Gazeria: {Unknown080E=03}Zagreia{Variable=0}
+MIID_Gazeria: {Unknown0E08=03}Zagreia{Variable=0}
 MIID_H_Gazeria1: Guanti illusori intrisi di potere oscuro.\nConsentono la mossa speciale Miraggio.
 MIID_H_Gazeria2: Guanti illusori. Consentono Miraggio\ne conferiscono Pot att {Variable=0} quando\nattacchi con una mossa speciale.
-MIID_D_Gazeria: {Unknown080E=03}Zagreia oscuri{Variable=0}
+MIID_D_Gazeria: {Unknown0E08=03}Zagreia oscuri{Variable=0}
 MIID_H_D_Gazeria1: Malvagi guanti illusori creati dai ricordi\ndei cadaveri. Consentono Miraggio.
 MIID_BearClaw: 
 MIID_H_BearClaw1: 
 MIID_H_BearClaw2: 
-MIID_D_BearClaw: {Unknown080E=03}Artigli oscuri di ursa{Variable=0}
+MIID_D_BearClaw: {Unknown0E08=03}Artigli oscuri di ursa{Variable=0}
 MIID_H_D_BearClaw1: Malvagi guanti ad artiglio creati dai ricordi\ndei cadaveri. Consentono Artiglio violento.
 MIID_BearClawRight: Artiglio destro di ursa
 MIID_H_BearClawRight1: Appartiene a un paio di guanti d'arme\nricoperti da artigli nefasti. Consente la\nmossa speciale Artiglio violento.
 MIID_BearClawLeft: Artiglio sinistro di ursa
 MIID_H_BearClawLeft1: Appartiene a un paio di guanti d'arme\nricoperti da artigli nefasti. Consente la\nmossa speciale Artiglio violento.
-MIID_SmirnosGautlet: {Unknown080E=03}Manopole di Smyrnos{Variable=0}
+MIID_SmirnosGautlet: {Unknown0E08=03}Manopole di Smyrnos{Variable=0}
 MIID_H_SmirnosGautlet1: Arcon supremo intriso del potere dei\nfulmini. Consente la mossa speciale\nGuanto Thoron.
-MIID_Hukarin: {Unknown080E=03}Anelli incendiari{Variable=0}
+MIID_Hukarin: {Unknown0E08=03}Anelli incendiari{Variable=0}
 MIID_H_Hukarin1: Arcon intriso del potere del fuoco. Consente\nla mossa speciale Ruota infuocata.
 MIID_H_Hukarin2: Arcon intriso del potere del fuoco. Consente\nRuota infuocata. Se l'unità attacca per prima,\nconferisce Clp {Variable=0} durante lo scontro.
 MIID_Salamander: Salamander{Variable=0}
 MIID_H_Salamander1: Potente arma da fuoco portatile.\nEquivale a un attacco magico.\nConsente Laser compresso.
 MIID_H_Salamander2: Potente arma da fuoco portatile.\nEquivale a un attacco magico.\nConsente Laser compresso.
-MIID_Zerberos: {Unknown080E=03}Zerberus{Variable=0}
+MIID_Zerberos: {Unknown0E08=03}Zerberus{Variable=0}
 MIID_H_Zerberos1: Arma da fuoco portatile creata per Troy.\nEquivale a un attacco magico. Consente\nLaser compresso.
 MIID_H_Zerberos2: Arma da fuoco portatile creata per Troy.\nEquivale a un attacco magico. Consente\nLaser compresso.
-MIID_Chiarenza: {Unknown080E=03}Chiarenza
+MIID_Chiarenza: {Unknown0E08=03}Chiarenza
 MIID_H_Chiarenza: Arma da fuoco portatile forgiata da Credna.\nEquivale a un attacco magico.
-MIID_Fire: {Unknown080E=03}Fuoco
+MIID_Fire: {Unknown0E08=03}Fuoco
 MIID_H_Fire: Magia di fuoco elementare che scatena\nuna palla infuocata.
-MIID_Bolganon: {Unknown080E=03}Bolganone
+MIID_Bolganon: {Unknown0E08=03}Bolganone
 MIID_H_Bolganon: Magia di fuoco avanzata che incenerisce\nil nemico.
-MIID_Thunder: {Unknown080E=03}Tuono
+MIID_Thunder: {Unknown0E08=03}Tuono
 MIID_H_Thunder: Magia del fulmine elementare che sferra\nuna scarica elettrica sull'obiettivo.
-MIID_Tron: {Unknown080E=03}Thoron
+MIID_Tron: {Unknown0E08=03}Thoron
 MIID_H_Tron: Magia del fulmine avanzata che trafigge\nil nemico con una potente saetta.
-MIID_Wind: {Unknown080E=03}Vento
+MIID_Wind: {Unknown0E08=03}Vento
 MIID_H_Wind: Magia del vento elementare che colpisce\nil nemico con una lama d'aria. Efficace\ncontro le unità volanti.
-MIID_Shaver: {Unknown080E=03}Sferzata
+MIID_Shaver: {Unknown0E08=03}Sferzata
 MIID_H_Shaver: Magia del vento avanzata che colpisce\nil nemico con lame d'aria. Efficace contro\nle unità volanti.
-MIID_Blizzar: {Unknown080E=03}Bufera
+MIID_Blizzar: {Unknown0E08=03}Bufera
 MIID_H_Blizzar: Magia del ghiaccio elementare che congela\nil bersaglio.
-MIID_IceBlade: {Unknown080E=03}Lame di ghiaccio
+MIID_IceBlade: {Unknown0E08=03}Lame di ghiaccio
 MIID_H_IceBlade: Magia del ghiaccio avanzata che attacca\nil nemico con lame gelide.
-MIID_Arrow: {Unknown080E=03}Sagittae
+MIID_Arrow: {Unknown0E08=03}Sagittae
 MIID_H_Arrow: Magia che attacca il nemico con frecce\nmistiche.
-MIID_AgneaArrow: {Unknown080E=03}Freccia di Agnea
+MIID_AgneaArrow: {Unknown0E08=03}Freccia di Agnea
 MIID_H_AgneaArrow: Magia del fuoco suprema che purifica con\nun dardo ardente.
-MIID_ThunderStorm: {Unknown080E=03}Tempesta
+MIID_ThunderStorm: {Unknown0E08=03}Tempesta
 MIID_H_ThunderStorm: Magia di alto livello che attacca da distanza\ncon una tempesta di fulmini. Niente attacchi\ndoppi.
-MIID_Excalibur: {Unknown080E=03}Excalibur
+MIID_Excalibur: {Unknown0E08=03}Excalibur
 MIID_H_Excalibur: Magia di alto livello che taglia il nemico\ncon due enormi lame di vento. Efficace\ncontro le unità volanti.
-MIID_FimbleNight: {Unknown080E=03}Notte del Fimbulvetr
+MIID_FimbleNight: {Unknown0E08=03}Notte del Fimbulvetr
 MIID_H_FimbleNight: Magia suprema che invoca un inverno\nperenne.
-MIID_WanderingWall: {Unknown080E=03}Barricata mobile
+MIID_WanderingWall: {Unknown0E08=03}Barricata mobile
 MIID_H_WanderingWall: Crea una barricata dove necessario.
-MIID_GlassWheel: {Unknown080E=03}Ruota di vetro
+MIID_GlassWheel: {Unknown0E08=03}Ruota di vetro
 MIID_H_GlassWheel: Attacca il nemico con frammenti di vetro\nestremamente affilati. Danni inflitti in base\nalla Prt del nemico. Efficace contro volanti.
-MIID_JudgmentSword: {Unknown080E=03}Lama del giudizio
+MIID_JudgmentSword: {Unknown0E08=03}Lama del giudizio
 MIID_H_JudgmentSword: Attacca con un'enorme spada volante.\nColpisce {Variable=0} volte. Danni inflitti in base\nalla Prt del nemico.
-MIID_EarthJaw: {Unknown080E=03}Fauci della terra
+MIID_EarthJaw: {Unknown0E08=03}Fauci della terra
 MIID_H_EarthJaw: Evoca enormi fauci di pietra che\nschiacciano il nemico. Danni inflitti\nin base alla Prt del nemico.
-MIID_GriefGravel: {Unknown080E=03}Pietra della pena
+MIID_GriefGravel: {Unknown0E08=03}Pietra della pena
 MIID_H_GriefGravel: Attacca un nemico con pietre di silicio.\nVa sempre a segno. Danni inflitti in base\nalla Prt del nemico.
-MIID_CrushingFist: {Unknown080E=03}Pugno distruttivo
+MIID_CrushingFist: {Unknown0E08=03}Pugno distruttivo
 MIID_H_CrushingFist: Evoca un braccio gigante di pietra per\nschiacciare il nemico. Danni inflitti in\nbase alla Prt del nemico.
-MIID_SolidGiant: {Unknown080E=03}Supporto maggiore
+MIID_SolidGiant: {Unknown0E08=03}Supporto maggiore
 MIID_H_SolidGiant: Evoca un titano maggiore.
-MIID_SandstormBattalion: {Unknown080E=03}Armata di sabbia
+MIID_SandstormBattalion: {Unknown0E08=03}Armata di sabbia
 MIID_H_SandstormBattalion: Evoca diversi titani minori.
-MIID_Dora: {Unknown080E=03}Miasma Δ
+MIID_Dora: {Unknown0E08=03}Miasma Δ
 MIID_H_Dora: Attacca il nemico con una sfera di materia\noscura concentrata.
-MIID_Slime: {Unknown080E=03}Pantano B
+MIID_Slime: {Unknown0E08=03}Pantano B
 MIID_H_Slime: Attacca usando i succhi gastrici di forme\ndi vita artificiali.
-MIID_Warm: {Unknown080E=03}Sciame Z
+MIID_Warm: {Unknown0E08=03}Sciame Z
 MIID_H_Warm: Avvolge il nemico in migliaia di\nmicromacchine e infligge Vel {Variable=0}\nfino alla propria fase successiva.
-MIID_Banshee: {Unknown080E=03}Banshee Θ
+MIID_Banshee: {Unknown0E08=03}Banshee Θ
 MIID_H_Banshee: Assalta il nemico con esplosioni consecutive\ndi energia oscura e infligge Immobilità.
-MIID_Death: {Unknown080E=03}Morte Γ
+MIID_Death: {Unknown0E08=03}Morte Γ
 MIID_H_Death: Evoca artificialmente il potere della morte\ne lo scatena sul nemico. Alta probabilità\ndi Trpl.
-MIID_Luna: {Unknown080E=03}Luna Λ
+MIID_Luna: {Unknown0E08=03}Luna Λ
 MIID_H_Luna: Un potente attacco che distrugge i bersagli\ndall'interno. Ignora la Res del nemico.
-MIID_DarkSpikes: {Unknown080E=03}Scaglie nere Τ
+MIID_DarkSpikes: {Unknown0E08=03}Scaglie nere Τ
 MIID_H_DarkSpikes: Magia molto efficace contro le unità\ndi cavalleria.
-MIID_Heal: {Unknown080E=03}Cura
+MIID_Heal: {Unknown0E08=03}Cura
 MIID_H_Heal: Magia sacra che cura le ferite. Ripristina\ni PS di un alleato.
-MIID_Recover: {Unknown080E=03}Recupero
+MIID_Recover: {Unknown0E08=03}Recupero
 MIID_H_Recover: Magia sacra che cura le ferite. Ripristina\nmolti PS di un alleato.
-MIID_Riblow: {Unknown080E=03}Lenimento
+MIID_Riblow: {Unknown0E08=03}Lenimento
 MIID_H_Riblow: Magia sacra che cura le ferite da lontano.\nRipristina i PS di un alleato a distanza.
-MIID_Reserve: {Unknown080E=03}Balsamo
+MIID_Reserve: {Unknown0E08=03}Balsamo
 MIID_H_Reserve: Magia sacra che cura le ferite in un'area\nvasta. Ripristina i PS degli alleati nel\nraggio d'azione.
-MIID_Laia: {Unknown080E=03}Laia
+MIID_Laia: {Unknown0E08=03}Laia
 MIID_H_Laia: Magia sacra che cura le ferite. Ripristina un\npo' di PS di un alleato. A volte, ripristina il\nquantitativo di {Variable=0} PS.
-MIID_Lizaia: {Unknown080E=03}Nosferatu
+MIID_Lizaia: {Unknown0E08=03}Nosferatu
 MIID_H_Lizaia: Magia che prosciuga la forza vitale del\nnemico. Recuperi PS pari alla metà dei\ndanni inflitti.
-MIID_Angel: {Unknown080E=03}Serafino
+MIID_Angel: {Unknown0E08=03}Serafino
 MIID_H_Angel: Magia sacra che attacca con una sfera\ndi pura luce. Efficace contro i cadaveri.
-MIID_Aura: {Unknown080E=03}Aurora
+MIID_Aura: {Unknown0E08=03}Aurora
 MIID_H_Aura: Magia sacra che incenerisce un bersaglio\ncon una luce proveniente dal terreno.
-MIID_Starlight: {Unknown080E=03}Sideratio
+MIID_Starlight: {Unknown0E08=03}Sideratio
 MIID_H_Starlight: Magia sacra che colpisce un nemico con\nun raggio concentrato di luce stellare.\nEfficace contro i cadaveri.
-MIID_Torch: {Unknown080E=03}Torcia
+MIID_Torch: {Unknown0E08=03}Torcia
 MIID_H_Torch: Magia sacra che illumina l'oscurità.\nConferisce Vis {Variable=0} fino alla propria\nfase successiva.
-MIID_Rest: {Unknown080E=03}Ripristino
+MIID_Rest: {Unknown0E08=03}Ripristino
 MIID_H_Rest: Magia sacra che riporta il corpo al suo stato\nnormale. Rimuove gli effetti di stato su un\nalleato.
-MIID_Resquia: {Unknown080E=03}Resquia
+MIID_Resquia: {Unknown0E08=03}Resquia
 MIID_H_Resquia: Magia sacra che teletrasporta un alleato\nvicino in uno spazio adiacente all'unità.
-MIID_Rescue: {Unknown080E=03}Soccorso
+MIID_Rescue: {Unknown0E08=03}Soccorso
 MIID_H_Rescue: Magia sacra che teletrasporta un alleato\nlontano in uno spazio adiacente all'unità.
-MIID_Warp: {Unknown080E=03}Teletrasporto
+MIID_Warp: {Unknown0E08=03}Teletrasporto
 MIID_H_Warp: Magia che teletrasporta un alleato fino\na {Variable=0} {SingularPlural0=spazio|spazi} più in là.
-MIID_Barrier: {Unknown080E=03}Barriera
+MIID_Barrier: {Unknown0E08=03}Barriera
 MIID_H_Barrier: Magia che protegge un alleato con una\nbarriera sacra e dimezza i danni che\nsubirà nello scontro seguente.
-MIID_MagicShield: {Unknown080E=03}Scudo magico
+MIID_MagicShield: {Unknown0E08=03}Scudo magico
 MIID_H_MagicShield: Protegge un alleato dalla magia. Conferisce\nRes {Variable=0} a un alleato fino alla propria fase\nsuccessiva.
-MIID_Emergence: {Unknown080E=03}Emergis
+MIID_Emergence: {Unknown0E08=03}Emergis
 MIID_H_Emergence: Magia che protegge un alleato da colpi letali\nconferendogli Elud {Variable=0} fino alla propria\nfase successiva.
-MIID_Regeia: {Unknown080E=03}Regenera
+MIID_Regeia: {Unknown0E08=03}Regenera
 MIID_H_Regeia: Magia che cura gradualmente. Ripristina\nabbastanza PS all'inizio della propria fase.\nDura {Variable=0} {SingularPlural0=turno|turni}.
-MIID_Silece: {Unknown080E=03}Silenzio
+MIID_Silece: {Unknown0E08=03}Silenzio
 MIID_H_Silece: Magia sacra che sopprime le abilità magiche\naltrui. Infligge Silenzio a un nemico.
-MIID_Freeze: {Unknown080E=03}Gelo
+MIID_Freeze: {Unknown0E08=03}Gelo
 MIID_H_Freeze: Magia sacra che limita i movimenti altrui.\nImmobilizza il nemico.
-MIID_Basark: {Unknown080E=03}Berserk
+MIID_Basark: {Unknown0E08=03}Berserk
 MIID_H_Basark: Magia sacra che disturba la concentrazione\ndi un nemico, infliggendo Confusione.
-MIID_Thanatos: {Unknown080E=03}Thanatos
+MIID_Thanatos: {Unknown0E08=03}Thanatos
 MIID_H_Thanatos: Magia che evoca braccia oscure dalle\nviscere della terra.
 MIID_WoodShield: Scudo legno
 MIID_H_WoodShield: Conferisce Dif {Variable=0}.
@@ -484,20 +484,20 @@ MIID_HealingWand: Bastone curativo
 MIID_H_HealingWand: Quando curi un alleato con la magia,\nripristini il normale quantitativo di PS {Variable=0}.
 MIID_GaranBangle: Bracciale di Garan
 MIID_H_GaranBangle: Un bracciale intriso di potere oscuro.\nConferisce Rgg {Variable=0} agli attacchi magici.
-MIID_DemonSkull: {Unknown080E=03}Maschera teschio
+MIID_DemonSkull: {Unknown0E08=03}Maschera teschio
 MIID_H_DemonSkull: Una maschera spaventosa intrisa di potere\noscuro. Quando l'unità effettua un attacco\nmagico, conferisce Trpl {Variable=0}.
-MIID_D_DemonSkull: {Unknown080E=03}Maschera teschio osc.
-MIID_AgonyShield: {Unknown080E=03}Scudo dell'angoscia
+MIID_D_DemonSkull: {Unknown0E08=03}Maschera teschio osc.
+MIID_AgonyShield: {Unknown0E08=03}Scudo dell'angoscia
 MIID_H_AgonyShield: Uno scudo intriso di potere oscuro. Quando\nl'unità subisce un attacco magico, i danni\nsono dimezzati. Probabilità: {Variable=0}%.
-MIID_AronWand: {Unknown080E=03}Bastone di Aaron
+MIID_AronWand: {Unknown0E08=03}Bastone di Aaron
 MIID_H_AronWand: Un bastone intriso di potere oscuro.\nConferisce Mag/Des {Variable=0}.
-MIID_JuneauShield: {Unknown080E=03}Specchio di Jurah
+MIID_JuneauShield: {Unknown0E08=03}Specchio di Jurah
 MIID_H_JuneauShield: Un Arcon supremo ricoperto di brina.\nQuando subisci un colpo triplo, i danni sono\ndimezzati.
 MIID_ZephyrusShield: Scudo di Zephyrus
 MIID_H_ZephyrusShield: Un Arcon misterioso con il potere del vento.\nNeutralizza l'efficacia contro le unità\nvolanti.
 MIID_CatMask: Maschera da gatto
 MIID_H_CatMask: Infligge Car {Variable=0}.
-MIID_YuphasMask: {Unknown080E=03}Maschera di Yu Phas
+MIID_YuphasMask: {Unknown0E08=03}Maschera di Yu Phas
 MIID_H_YuphasMask: Conferisce Pot dif {Variable=0} quando subisci\nl'attacco di un cadavere.
 MIID_LyraMask: Maschera di Lyrah
 MIID_H_LyraMask: Conferisce Mag {Variable=0}.
@@ -507,23 +507,23 @@ MIID_IsietoMask: Maschera di Eishet
 MIID_H_IsietoMask: Conferisce Car {Variable=0}.
 MIID_FortanaWand: Bacchetta di Fortuna
 MIID_H_FortanaWand: Un Arcon supremo che amplifica il potere\ndi chi usa la magia. Conferisce Rgg {Variable=0}\nalle magie curative.
-MIID_BragiBrush: {Unknown080E=03}Pennello di Bragi
+MIID_BragiBrush: {Unknown0E08=03}Pennello di Bragi
 MIID_H_BragiBrush: Un pennello intriso di potere oscuro.\nConferisce Clp {Variable=0} quando l'unità effettua\nun attacco magico.
-MIID_D_BragiBrush: {Unknown080E=03}Pennello oscuro
-MIID_SummonBranch: {Unknown080E=03}Legno invocante
+MIID_D_BragiBrush: {Unknown0E08=03}Pennello oscuro
+MIID_SummonBranch: {Unknown0E08=03}Legno invocante
 MIID_H_SummonBranch: Un flauto intriso di potere oscuro.\nEvoca i cadaveri.
-MIID_Gleipnir: {Unknown080E=03}Gleipnir
-MIID_D_Gleipnir: {Unknown080E=03}Gleipnir oscuro
+MIID_Gleipnir: {Unknown0E08=03}Gleipnir
+MIID_D_Gleipnir: {Unknown0E08=03}Gleipnir oscuro
 MIID_H_Gleipnir: Un filo fantasma intriso di potere oscuro.\nManipola le menti altrui.
-MIID_WhiteMoon: {Unknown080E=03}Pietra di luna
+MIID_WhiteMoon: {Unknown0E08=03}Pietra di luna
 MIID_H_WhiteMoon: Vihuela leggendaria usata dalla Musicista\ndel cielo e della terra. La sua melodia\nrisuona nel mondo. Conferisce Res {Variable=0}.
-MIID_D_WhiteMoon: {Unknown080E=03}Pietra di luna oscura
+MIID_D_WhiteMoon: {Unknown0E08=03}Pietra di luna oscura
 MIID_H_D_WhiteMoon: Vihuela di Maria. La sua melodia funerea\nrisuona nelle profondità dell'oltretomba.\nConferisce Res {Variable=0}.
-MIID_ParticleEmblem: {Unknown080E=03}Cavo perturbatore
+MIID_ParticleEmblem: {Unknown0E08=03}Cavo perturbatore
 MIID_H_ParticleEmblem: Un cavo di un metallo antico.\nSe il tuo attacco magico va a segno, infligge\nConfusione al nemico. Probabilità: {Variable=0}%.
-MIID_BlissTongue: {Unknown080E=03}Lingua curativa
+MIID_BlissTongue: {Unknown0E08=03}Lingua curativa
 MIID_H_BlissTongue: Una lingua intrisa di potere oscuro.\nDopo aver sconfitto un nemico, recuperi\nmoderatamente i PS.
-MIID_PoisonBone: {Unknown080E=03}Colonna velenosa
+MIID_PoisonBone: {Unknown0E08=03}Colonna velenosa
 MIID_H_PoisonBone: Una catena intrisa di potere oscuro.\nSe il tuo attacco magico va a segno, infligge\nVeleno al nemico. Probabilità: {Variable=0}%.
 MIID_SeaCharm: Amuleto marino
 MIID_H_SeaCharm: Infligge Fort {Variable=0} ai nemici adiacenti.
@@ -531,11 +531,11 @@ MIID_MonasticTalisman: Bastone dell'Ordine
 MIID_H_MonasticTalisman: Conferisce Mag {Variable=0} e Res {Variable=1}.
 MIID_HeatHazeOrder: Stemma illusorio
 MIID_H_HeatHazeOrder: Se l'attacco va a segno, infligge un minimo\ndi {Variable=0} danni, se l'unità ha una spada\no un arco equipaggiati.
-MIID_AuroraCloth: {Unknown080E=03}Stoffa di Aurora
+MIID_AuroraCloth: {Unknown0E08=03}Stoffa di Aurora
 MIID_H_AuroraCloth: Un Arcon intriso del potere delle stelle.\nConferisce Res {Variable=0} all'unità e Res {Variable=1}\nagli alleati adiacenti.
-MIID_CarlaNeedle: {Unknown080E=03}Ago di Kalla
+MIID_CarlaNeedle: {Unknown0E08=03}Ago di Kalla
 MIID_H_CarlaNeedle: Un Arcon tenuto nascosto in difesa di una\ndea. Conferisce Pot att {Variable=0} quando\neffettui un attacco doppio.
-MIID_MarsStone: {Unknown080E=03}Ginocchiere di Mars
+MIID_MarsStone: {Unknown0E08=03}Ginocchiere di Mars
 MIID_H_MarsStone: Un Arcon creato per il Foriero di guerre.\nConferiscono Pot att {Variable=0} e Trlp {Variable=1}\nquando attacchi con una mossa speciale.
 MIID_AlchemyStone: Pietra levigante
 MIID_H_AlchemyStone: Minerale comune diffuso in tutte le zone\ndel continente. Molto usato nelle fucine.
@@ -823,7 +823,7 @@ MIID_LittleDagger: Pugnale affilato
 MIID_H_LittleDagger: Un pugnale piccolo e versatile per un uso\nquotidiano. Per chi ama le armi.
 MIID_SweetsBox: Scatola di dolci
 MIID_H_SweetsBox: Dolci da forno di ottima qualità, ricoperti\ndi zucchero e spezie. Per chi ama i dolci.
-MIID_CaseFile: {Unknown080E=03}Scandalo accademico
+MIID_CaseFile: {Unknown0E08=03}Scandalo accademico
 MIID_H_CaseFile: Un libro che parla di una strana avventura\na una certa accademia per ufficiali. Per chi\nama i libri.
 MIID_BlackSilk: Seta nera d'oriente
 MIID_H_BlackSilk: Filo di seta dalle accattivanti tonalità nere.\nPer chi ama la moda.
@@ -833,11 +833,11 @@ MIID_FishKnife: Paio di lame da pesce
 MIID_H_FishKnife: Set di coltelli di varia foggia, per affettare\nqualsiasi tipo di pesce. Per chi ama\ncucinare.
 MIID_ArrowheadJewelry: Gemma di freccia
 MIID_H_ArrowheadJewelry: Una grossa gemma, il cui taglio ricorda la\npunta di una freccia. Per chi ama la moda.
-MIID_PegasusPainting: {Unknown080E=03}Pegaso in volo
+MIID_PegasusPainting: {Unknown0E08=03}Pegaso in volo
 MIID_H_PegasusPainting: Un dipinto che raffigura un paesaggio\nmaestoso e un pegaso che solca il cielo.\nPer chi ama l'arte.
 MIID_LleatherBag: Borsa robusta
 MIID_H_LleatherBag: Una borsa di cuoio molto resistente\ne capiente. Per chi ama viaggiare.
-MIID_AdventureTale: {Unknown080E=03}Avventure a sud
+MIID_AdventureTale: {Unknown0E08=03}Avventure a sud
 MIID_H_AdventureTale: Un libro che narra le vicende di\nun marinaio nel sud della Dagda.\nPer chi ama i libri.
 MIID_ArtSupplies: Set di pastelli
 MIID_H_ArtSupplies: Set di colori per dipingere, dai toni\nsplendidamente delicati. Per chi ama\ni lavori manuali.
@@ -851,13 +851,13 @@ MIID_VihuelaTools: Strumentazione vihuela
 MIID_H_VihuelaTools: Un set di attrezzi per la manutenzione degli\nstrumenti musicali. Per chi ama suonare.
 MIID_CookingTools: Set cucina da campo
 MIID_H_CookingTools: Un set di utensili da cucina creati per essere\nusati all'aperto. Per chi ama cucinare.
-MIID_LoveStory: {Unknown080E=03}Amore d'oriente
+MIID_LoveStory: {Unknown0E08=03}Amore d'oriente
 MIID_H_LoveStory: Una tragica storia d'amore dal Sai tra un\numano e una divinità. Per chi ama i libri.
 MIID_BlueRose: Mazzo di rose blu
 MIID_H_BlueRose: Un mazzo di rose che non si trova\nfacilmente al mercato. Per chi ama i fiori.
 MIID_HerbaPedia: Ricettario erborista
 MIID_H_HerbaPedia: Un libro specialistico sui medicinali e sulle\nricette curative. Per chi ama cucinare.
-MIID_TravelingHistory: {Unknown080E=03}Vita di un maestro
+MIID_TravelingHistory: {Unknown0E08=03}Vita di un maestro
 MIID_H_TravelingHistory: I proverbi di un vecchio misterioso, trascritti\nda un re in viaggio. Per chi ama i libri.
 MIID_TrainingWeight: Set di pesi
 MIID_H_TrainingWeight: Bracciali e cavigliere contenenti piombo,\nusati per l'allenamento. Per chi ama\nallenarsi.
@@ -889,7 +889,7 @@ MIID_TrainingBracelet: Bracciale da esercizio
 MIID_H_TrainingBracelet: Uno strumento per l'allenamento, bello ma\npesante. Per chi ama allenarsi.
 MIID_MealCoupon: Buono pasto
 MIID_H_MealCoupon: Un buono per mangiare gratis in alcuni\nristoranti. Per le buone forchette.
-MIID_FemaleKnight: {Unknown080E=03}La cavaliera amata
+MIID_FemaleKnight: {Unknown0E08=03}La cavaliera amata
 MIID_H_FemaleKnight: La storia di una cavaliera che sottopone\ni suoi cinque spasimanti a una serie di\nprove. Per chi ama i libri.
 MIID_ShieldsPortrait: Dipinto di guerra
 MIID_H_ShieldsPortrait: Un quadro che raffigura la guerra di Grania,\nall'origine del soprannome del Saramis di\nEgida della Dagda. Per chi ama l'arte.
@@ -921,7 +921,7 @@ MIID_CeremonialSpear: Asta cerimoniale
 MIID_H_CeremonialSpear: Un'asta dalle graziose decorazioni, non\nadatta all'uso. Per chi ama le armi.
 MIID_SpiritGame: Gioco degli spiriti
 MIID_H_SpiritGame: Un gioco da tavola delle Brigid, a tema\nspiriti. Per chi ama i giochi da tavola.
-MIID_GamesCollection: {Unknown080E=03}Strategia nei giochi
+MIID_GamesCollection: {Unknown0E08=03}Strategia nei giochi
 MIID_H_GamesCollection: Un libro di strategie per i giochi, scritto da\nmaestri del settore. Per chi ama i giochi\nda tavola.
 MIID_BeautifulRing: Anello splendido
 MIID_H_BeautifulRing: Un anello con una grossa gemma e fini\ndecorazioni. Per chi ama la moda.
@@ -1039,7 +1039,7 @@ MIID_ImitationEmblem: Copia di medaglia
 MIID_H_ImitationEmblem: Una riproduzione economica di una\nmedaglia militare antica. Un bel regalo\nper chi dà importanza ai successi militari.
 MIID_BlackFeather: Piumaggio di ornius
 MIID_H_BlackFeather: Piume di ornius nere, note per essere\ndecorazioni di alta qualità. Ideali per\ngli amanti della moda.
-MIID_CommonPeople: {Unknown080E=03}Vita quotidiana
+MIID_CommonPeople: {Unknown0E08=03}Vita quotidiana
 MIID_H_CommonPeople: Una commedia sulla vita quotidiana della\ngente comune. Per chi ama i libri.
 MIID_DyedTowel: Tessuto di Ahm Lu
 MIID_H_DyedTowel: Un tessuto, cucito ad Ahm Lu. Il motivo\nrichiama i fiori amati da Yu Phas.\nIdeale per chi apprezza la bellezza.
@@ -1087,7 +1087,7 @@ MIID_GlowDrop: Gocce scarlatte
 MIID_H_GlowDrop: Raro tè nero di Creusa, noto per il colore\ne il profumo. Portalo subito a Olympia.
 MIID_DesertRose: Rosa aurea
 MIID_H_DesertRose: Una rosa rara e dorata che sboccia alla luce\ndiretta del sole. Dovresti regalarla subito\na Olympia.
-MIID_BlueHeart: {Unknown080E=03}Cuore celeste
+MIID_BlueHeart: {Unknown0E08=03}Cuore celeste
 MIID_H_BlueHeart: Un cristallo con un'affascinante riflesso blu.\nOffrilo a Olympia.
 MIID_GoldHelmet: Elmo dorato
 MIID_H_GoldHelmet: Splendido elmo dorato, dai ricchi ornamenti,\ndi proprietà di Mars. Riportaglielo al più\npresto.
@@ -1212,19 +1212,19 @@ MIID_H_WhiteMagicBook: Migliora leggermente la competenza\nMagia bianca.
 MIID_SuperWhiteMagicBook: Trattato m. bianca
 MIID_H_SuperWhiteMagicBook: Migliora molto la competenza Magia bianca.
 MIID_Agnea: Tomo di Agnea
-MIID_H_Agnea: Insegna {Unknown080E=03}Freccia di Agnea, la magia del\nfuoco definitiva che riduce in cenere\ntutto ciò che tocca.
+MIID_H_Agnea: Insegna {Unknown0E08=03}Freccia di Agnea, la magia del\nfuoco definitiva che riduce in cenere\ntutto ciò che tocca.
 MIID_Fimbul: Tomo di Fimbulvetr
-MIID_H_Fimbul: Insegna {Unknown080E=03}Notte del Fimbulvetr, la magia\ndel ghiaccio definitiva con il potere di\ninvocare un inverno perenne.
+MIID_H_Fimbul: Insegna {Unknown0E08=03}Notte del Fimbulvetr, la magia\ndel ghiaccio definitiva con il potere di\ninvocare un inverno perenne.
 MIID_ArchiveSlime: Archivio B
-MIID_H_ArchiveSlime: Insegna {Unknown080E=03}Pantano B, magia oscura a lungo\nraggio. Indispensabile per chi pratica\nla magia nera.
+MIID_H_ArchiveSlime: Insegna {Unknown0E08=03}Pantano B, magia oscura a lungo\nraggio. Indispensabile per chi pratica\nla magia nera.
 MIID_ArchiveDeath: Archivio Γ
-MIID_H_ArchiveDeath: Insegna {Unknown080E=03}Morte Γ, una devastante magia\noscura con alta probabilità di Trpl.
+MIID_H_ArchiveDeath: Insegna {Unknown0E08=03}Morte Γ, una devastante magia\noscura con alta probabilità di Trpl.
 MIID_ArchiveWarm: Archivio Z
-MIID_H_ArchiveWarm: Insegna {Unknown080E=03}Sciame Z, una magia oscura\nche prosciuga la Vel del nemico quando\nva a segno.
+MIID_H_ArchiveWarm: Insegna {Unknown0E08=03}Sciame Z, una magia oscura\nche prosciuga la Vel del nemico quando\nva a segno.
 MIID_ArchiveBanshee: Archivio Θ
-MIID_H_ArchiveBanshee: Insegna {Unknown080E=03}Banshee Θ, una magia oscura che\nimmobilizza il nemico quando va a segno.
+MIID_H_ArchiveBanshee: Insegna {Unknown0E08=03}Banshee Θ, una magia oscura che\nimmobilizza il nemico quando va a segno.
 MIID_ArchiveDarkSpikes: Archivio T
-MIID_H_ArchiveDarkSpikes: Insegna {Unknown080E=03}Scaglie nere Τ, una magia oscura\nestremamente efficace contro la cavalleria.
+MIID_H_ArchiveDarkSpikes: Insegna {Unknown0E08=03}Scaglie nere Τ, una magia oscura\nestremamente efficace contro la cavalleria.
 MIID_PeaceDew: Rugiada di pace
 MIID_H_PeaceDew: L'unità non può subire un colpo triplo\nfino alla propria fase successiva.
 MIID_BlessingDew: Rugiada protettiva
@@ -1326,63 +1326,63 @@ MID_Arms+6: +6
 MID_Arms+7: +7
 MID_Arms+8: +8
 MID_Arms+9: +9
-MIID_SharpClaw: {Unknown080E=03}Spuntone
+MIID_SharpClaw: {Unknown0E08=03}Spuntone
 MIID_H_SharpClaw: Un attacco con artigli affilati o con la coda.
-MIID_BeastFang: {Unknown080E=03}Morso
+MIID_BeastFang: {Unknown0E08=03}Morso
 MIID_H_BeastFang: Un attacco con zanne affilate.
-MIID_BigClub: {Unknown080E=03}Grande mazzata
+MIID_BigClub: {Unknown0E08=03}Grande mazzata
 MIID_H_BigClub: Un attacco con una mazza gigante.
-MIID_Blade: {Unknown080E=03}Taglio doppio
+MIID_Blade: {Unknown0E08=03}Taglio doppio
 MIID_H_Blade: Attacchi taglienti con una spada\nin ogni mano.
-MIID_GiantAxe: {Unknown080E=03}Ascia clemente
+MIID_GiantAxe: {Unknown0E08=03}Ascia clemente
 MIID_H_GiantAxe: Un attacco che prevede l'uso di un'ascia\ngigante.
-MIID_SharpBeak: {Unknown080E=03}Grande becco
+MIID_SharpBeak: {Unknown0E08=03}Grande becco
 MIID_H_SharpBeak: Un attacco con un becco enorme.
-MIID_ShadowPunch: {Unknown080E=03}Ombrartiglio
+MIID_ShadowPunch: {Unknown0E08=03}Ombrartiglio
 MIID_H_ShadowPunch: Un frenetico attacco con gli artigli.
-MIID_BalorAttack: {Unknown080E=03}Artigli abissali
+MIID_BalorAttack: {Unknown0E08=03}Artigli abissali
 MIID_H_BalorAttack: Un attacco con enormi artigli di drago.\nPuò colpire simultaneamente tutti i nemici\nnel raggio di attacco.
-MIID_BalorCounter: {Unknown080E=03}Ruggito più tetro
+MIID_BalorCounter: {Unknown0E08=03}Ruggito più tetro
 MIID_H_BalorCounter: Attacco magico. Dopo l'attacco nemico, lo\nscontro è interrotto e l'unità contrattacca.\nColpisce anche i nemici adiacenti.
-MIID_ChargeAttack: {Unknown080E=03}Colpo di testa
+MIID_ChargeAttack: {Unknown0E08=03}Colpo di testa
 MIID_H_ChargeAttack: Un attacco che urta i nemici con\nl'imponente testa della creatura.
-MIID_BigNeedle: {Unknown080E=03}Grande aculeo
+MIID_BigNeedle: {Unknown0E08=03}Grande aculeo
 MIID_H_BigNeedle: Un attacco con l'aculeo della creatura.
-MIID_BeastClaw: {Unknown080E=03}Artiglio feroce
+MIID_BeastClaw: {Unknown0E08=03}Artiglio feroce
 MIID_H_BeastClaw: Un feroce colpo di artigli.
-MIID_WaterMagic: {Unknown080E=03}Getto d'acqua
+MIID_WaterMagic: {Unknown0E08=03}Getto d'acqua
 MIID_H_WaterMagic: Un attacco con un getto d'acqua intenso.
-MIID_BigSharpClaw: {Unknown080E=03}Grande artiglio
+MIID_BigSharpClaw: {Unknown0E08=03}Grande artiglio
 MIID_H_BigSharpClaw: Un attacco con un artiglio gigante.
-MIID_BigSweep: {Unknown080E=03}Grandi fauci
+MIID_BigSweep: {Unknown0E08=03}Grandi fauci
 MIID_H_BigSweep: Un attacco potente con fauci piene\ndi denti affilati.
-MIID_BigBlade: {Unknown080E=03}Spada gigante
+MIID_BigBlade: {Unknown0E08=03}Spada gigante
 MIID_H_BigBlade: Un potente attacco con una spada gigante.
-MIID_CetusFang: {Unknown080E=03}Zanne tiranne
+MIID_CetusFang: {Unknown0E08=03}Zanne tiranne
 MIID_H_CetusFang: Un attacco devastante con enormi zanne\ndi drago.
-MIID_Dissolution: {Unknown080E=03}Spruzzo acido
+MIID_Dissolution: {Unknown0E08=03}Spruzzo acido
 MIID_H_Dissolution: Un attacco che spruzza una soluzione acida.
-MIID_RapidDissolution: {Unknown080E=03}Spruzzo acido rapido
+MIID_RapidDissolution: {Unknown0E08=03}Spruzzo acido rapido
 MIID_H_RapidDissolution: Un attacco che spruzza rapidamente\nuna soluzione acida.
-MIID_BigWing: {Unknown080E=03}Grandi ali
+MIID_BigWing: {Unknown0E08=03}Grandi ali
 MIID_H_BigWing: Un attacco che crea un tifone sbattendo\nle enormi ali.
-MIID_DagdaClaw: {Unknown080E=03}Artigli di Dagda
+MIID_DagdaClaw: {Unknown0E08=03}Artigli di Dagda
 MIID_H_DagdaClaw: Un attacco con gli enormi artigli\ndi un drago.
-MIID_MarsClaw: {Unknown080E=03}Artigli di guerra
+MIID_MarsClaw: {Unknown0E08=03}Artigli di guerra
 MIID_H_MarsClaw: Un attacco con gli enormi artigli\ndi un drago.
-MIID_NomvedBreath: {Unknown080E=03}Respiro di drago
+MIID_NomvedBreath: {Unknown0E08=03}Respiro di drago
 MIID_H_NomvedBreath: Un'ondata magica e fragorosa del respiro\ndel drago.
-MIID_LyrahBreath: {Unknown080E=03}Respiro della terra
+MIID_LyrahBreath: {Unknown0E08=03}Respiro della terra
 MIID_H_LyrahBreath: Un'ondata magica e fragorosa del respiro\ndel drago.
-MIID_EishetBreath: {Unknown080E=03}Respiro d'acqua
+MIID_EishetBreath: {Unknown0E08=03}Respiro d'acqua
 MIID_H_EishetBreath: Un'ondata magica e fragorosa del respiro\ndel drago.
-MIID_SetethHorn: {Unknown080E=03}Corno martellante
+MIID_SetethHorn: {Unknown0E08=03}Corno martellante
 MIID_H_SetethHorn: Un attacco con un corno a forma di martello\nche spunta dalla testa del drago.
-MIID_DarkSharpClaw: {Unknown080E=03}Artigli demoniaci
+MIID_DarkSharpClaw: {Unknown0E08=03}Artigli demoniaci
 MIID_H_DarkSharpClaw: Un attacco con artigli di una bestia\ndemoniaca dell'oltretomba.
-MIID_DeathClaw: {Unknown080E=03}Artiglio dei morti
+MIID_DeathClaw: {Unknown0E08=03}Artiglio dei morti
 MIID_H_DeathClaw: Un attacco con artigli che si caricano\ndel potere dell'oltretomba.
-MIID_DeathFang: {Unknown080E=03}Zanne mortali
+MIID_DeathFang: {Unknown0E08=03}Zanne mortali
 MIID_H_DeathFang: Un attacco con le zanne di un drago\ndella morte.
 MIID_BowTurret: Balista
 MIID_H_BowTurret: Un dispositivo che scocca frecce enormi.\nPuò essere usato per attaccare nemici\ndistanti.
@@ -1390,9 +1390,9 @@ MIID_MagicTurret: Sfera di fuoco
 MIID_H_MagicTurret: Un dispositivo che irradia magia del fuoco.\nPuò essere usato per attaccare nemici\ndistanti.
 MIID_Catapult: Onagro
 MIID_H_Catapult: Un dispositivo che scaglia enormi massi.\nPuò essere usato per attaccare nemici\ndistanti.
-MIID_NoseAttack: {Unknown080E=03}Colproboscide
+MIID_NoseAttack: {Unknown0E08=03}Colproboscide
 MIID_H_NoseAttack: Un attacco che sfrutta la potente proboscide\ndell'animale per colpire i nemici.
-MIID_Stomping: {Unknown080E=03}Pestone
+MIID_Stomping: {Unknown0E08=03}Pestone
 MIID_H_Stomping: Un attacco che usa il peso dell'animale\nper schiacciare i nemici.
 MIID_AuroraJuwel: Gemma rossa
 MIID_H_AuroraJuwel: Un ricordo della madre di Cai, rubato dai\nbanditi che hanno attaccato casa sua.
@@ -1400,17 +1400,17 @@ MIID_RedGem: Gemma rossa
 MIID_H_RedGem: La gemma incastonata nella mano sinistra\ndi Cai, con il potere delle fiamme nere.\nConferisce Mag {Variable=0}.
 MIID_D_RedGem: Gemma rossa oscura
 MIID_H_D_RedGem: La gemma maledetta di Cai. Le sue fiamme\nbramano di ridurre tutto in cenere.\nConferisce Mag {Variable=0}.
-MIID_BlackGwen: {Unknown080E=03}Wen corvino
+MIID_BlackGwen: {Unknown0E08=03}Wen corvino
 MIID_H_BlackGwen: Un mantello più nero dell'oscurità stessa.\nChi lo indossa può muoversi nell'ombra.\nConferisce Des {Variable=0}.
-MIID_D_BlackGwen: {Unknown080E=03}Wen oscuro
+MIID_D_BlackGwen: {Unknown0E08=03}Wen oscuro
 MIID_H_D_BlackGwen: Il mantello di Dietrich. Brama di avvolgere\ntutto nell'ombra del dio demoniaco.\nConferisce Des {Variable=0}.
 MIID_MahamadouHand: Braccio di Mahadu
 MIID_H_MahamadouHand: Braccio del mitico Mahadu, ora fuso con\nl'eroina Theodora di Saramis. Conferisce\nForz {Variable=0}.
 MIID_D_MahamadouHand: Braccio osc. di Mahadu
 MIID_H_D_MahamadouHand: Un tempo strumento del bene, ora il braccio\ndi Theodora brama morte e distruzione.\nConferisce Forz {Variable=0}.
-MIID_BlackSun: {Unknown080E=03}Obsidian
+MIID_BlackSun: {Unknown0E08=03}Obsidian
 MIID_H_BlackSun: Una vihuela leggendaria in grado di scuotere\nla terra stessa con le sue note. Conferisce\nRes {Variable=0}.
-MIID_D_BlackSun: {Unknown080E=03}Obsidian oscura
+MIID_D_BlackSun: {Unknown0E08=03}Obsidian oscura
 MIID_H_D_BlackSun: La vihuela di Leda. A ogni nota, orribili\nsussulti echeggiano nell'oscurità. Conferisce\nRes {Variable=0}.
 MIID_H_D_BlackSun_Cohen: Obsidian, più oscura che mai. L'oltretomba\nsembra risuonare nelle sue corde. Conferisce\nRes {Variable=0}.
 MIID_RedAxeCurse: Maledizione dell'ascia
@@ -1419,9 +1419,9 @@ MIID_BloodPattern: Motivo di sangue
 MIID_H_BloodPattern: I motivi sul corpo di Bertrand che gli fanno\nribollire il sangue. Conferiscono Forz {Variable=0}.
 MIID_D_BloodPattern: Motivi oscuri
 MIID_H_D_BloodPattern: Motivi infernali sul corpo di Bertrand che gli\nriempiono le vene di rancore. Conferiscono\nForz {Variable=0}.
-MIID_DhabaCompass: {Unknown080E=03}Bussola di Dhaba
+MIID_DhabaCompass: {Unknown0E08=03}Bussola di Dhaba
 MIID_H_DhabaCompass: La leggendaria bussola di Talimun che\nguida il proprietario verso i suoi desideri.\nConferisce Mag {Variable=0}.
-MIID_D_DhabaCompass: {Unknown080E=03}Bussola di Dhaba osc.
+MIID_D_DhabaCompass: {Unknown0E08=03}Bussola di Dhaba osc.
 MIID_H_D_DhabaCompass: Strumento di navigazione che ora\nmaledice chi sfida il suo padrone.\nConferisce Mag {Variable=0}.
 MIID_SecretBody: Corpo misterioso
 MIID_H_SecretBody: Il segreto del corpo di Orchel. La verità è\navvolta nel mistero. Conferisce Dif {Variable=0}.

@@ -74,11 +74,11 @@ MID_H_BtlMenu_Terrain_Default_SC13_13_2: Activa el dispositivo. Activarlos\ntodo
 MID_H_BtlMenu_Terrain_Default_SC13_13_1: Activa las casillas de teletransporte.
 MID_H_BtlMenu_Terrain_Default_SC16_18: Detiene la producción de flamma.
 MID_H_BtlMenu_Terrain_Default_SC18_10: Activa el dispositivo que permuta\nlas mejoras enemigas de Agu y Rsl.
-MID_H_BtlMenu_Terrain_Default_SC18_03: Activa el dispositivo para potenciar\na {Unknown080E=03}Anatolia.
-MID_H_BtlMenu_Terrain_Default_SC12_03: Acciona el dispositivo. Accionar 3\nanula las mejoras de {Unknown080E=03}Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC18_03: Activa el dispositivo para potenciar\na {Unknown0E08=03}Anatolia.
+MID_H_BtlMenu_Terrain_Default_SC12_03: Acciona el dispositivo. Accionar 3\nanula las mejoras de {Unknown0E08=03}Anatolia.
 MID_H_BtlMenu_Terrain_Default_SC12_15: Manipula el dispositivo y activa\nel {LowercaseNextLetter}Titán enemigo, a la vez que\ndestruye todas sus barreras.
 MID_H_BtlMenu_Terrain_Default_SCXX_06: Activa el dispositivo. Activar\nambos en la misma fase acciona\nla {LowercaseNextLetter}Catapulta.
-MID_H_BtlMenu_Terrain_Default_SC12_12: Coloca una trampa durante\n1 turno. Si {Unknown080E=03}Cetus cae en ella,\nquedará inmovilizado.
+MID_H_BtlMenu_Terrain_Default_SC12_12: Coloca una trampa durante\n1 turno. Si {Unknown0E08=03}Cetus cae en ella,\nquedará inmovilizado.
 MID_H_BtlMenu_Terrain_Default_SC13_09: Activa el dispositivo que\ndisipa la niebla durante\nla fase del jugador.
 MID_BtlMenu_Terrain_Lightflame: Brasero
 MID_H_BtlMenu_Terrain_Lightflame: Hace brillar una llama\nazulada en el brasero.
@@ -145,6 +145,6 @@ MID_Battle_FrozenSong: {Variable=1} ha entonado {Variable=0}.\nAumentan la Def y
 MID_Battle_FrozenSong_All: {Variable=1} ha entonado {Variable=0}.\nAumentan la Def y la Res de todas las unidades enemigas.
 MID_Battle_FrenzySong: {Variable=1} ha entonado {Variable=0}.\nLos aliados situados en el radio de alcance\nsufren Confusión.
 MID_Battle_FrenzySong_All: {Variable=1} ha entonado {Variable=0}.\nTodos los aliados sufren Confusión.
-MID_Battle_PowerAwakening: {Unknown080E=03}Bertrand ha usado Despertar del rey. Su Gol aumenta\nhasta la siguiente fase del jugador.
-MID_Battle_SkillAwakening: {Unknown080E=03}Bertrand ha usado Despertar luminoso. Su Agu aumenta\nhasta la siguiente fase del jugador.
-MID_Battle_StormAwakening: {Unknown080E=03}Bertrand ha usado Despertar fulminante. Su Esq aumenta\nhasta la siguiente fase del jugador.
+MID_Battle_PowerAwakening: {Unknown0E08=03}Bertrand ha usado Despertar del rey. Su Gol aumenta\nhasta la siguiente fase del jugador.
+MID_Battle_SkillAwakening: {Unknown0E08=03}Bertrand ha usado Despertar luminoso. Su Agu aumenta\nhasta la siguiente fase del jugador.
+MID_Battle_StormAwakening: {Unknown0E08=03}Bertrand ha usado Despertar fulminante. Su Esq aumenta\nhasta la siguiente fase del jugador.

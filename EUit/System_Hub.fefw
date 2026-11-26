@@ -414,8 +414,8 @@ MID_DepositoryMenu_Legion_Help: Seleziona il battaglione da prelevare.
 MID_DepositoryMenu_TotalNum: Totale
 MID_DepositoryMenu_TotalPrice: Pietre necessarie
 MID_DepositoryMenu_Confirm: Vuoi recuperare quanto segue?
-MID_DepositoryMenu_Need_KAI_Message: Non puoi generare un animale se non hai {Unknown080E=03}Cai tra i compagni\ncon causalità fissa.
-MID_DepositoryMenu_Need_SEO_Message: Non puoi generare i battaglioni se non hai {Unknown080E=03}Theodora tra i compagni\ncon causalità fissa.
+MID_DepositoryMenu_Need_KAI_Message: Non puoi generare un animale se non hai {Unknown0E08=03}Cai tra i compagni\ncon causalità fissa.
+MID_DepositoryMenu_Need_SEO_Message: Non puoi generare i battaglioni se non hai {Unknown0E08=03}Theodora tra i compagni\ncon causalità fissa.
 MID_DepositoryMenu_Overlap_Animal_Message: Non puoi generare l'animale, poiché ne stai già usando uno identico.
 MID_DepositoryMenu_FullItem_Animal_Message: Non c'è più spazio per altri animali.
 MID_DepositoryMenu_FullItem_Legion_Message: Non c'è più spazio per altri battaglioni.

@@ -1,22 +1,22 @@
-﻿MID_GuideTemplate000_m01: Obtenez de l'expérience, des minerais et des objets dans\nles zones à explorer comme {Unknown060E=01}{Variable=1},\ndans les environs {Unknown060E=00}{Variable=0}.
-MID_GuideTemplate001_m01: Personne ne connaît mieux cette terre que les gens\ndu coin. Achetez donc des cartes aux villageois ! Je\ncrois en avoir vu à la vente {Unknown060E=00}{Variable=0}...
-MID_GuideTemplate002_m01: Connaissez-vous {Unknown060E=01}{Variable=1} ? C'est quelqu'un\nqui a vraiment du talent {Unknown060E=00}({Variable=0}) ! Mais ne comptez\npas l'approcher sous le niveau {Variable=2} de renommée.
-MID_GuideTemplate004_m01: Le {LowercaseNextLetter}Forgeron a besoin de minerai ? Quelqu'un aurait trouvé\n{Unknown060E=00}{LowercaseNextLetter}{Variable=0} et {Unknown060E=01}{LowercaseNextLetter}{Variable=1}\n{Unknown060E=02}{Variable=2} et {Unknown060E=03}{Variable=3}.
-MID_GuideTemplate005_m01: Vous cherchez {Unknown060E=01}{LowercaseNextLetter}{Variable=1} ? Le Consortium Vandahl\nen propose à l'échange, contre {Unknown060E=02}{LowercaseNextLetter}{Variable=2} entre autres,\nqu'on peut trouver {Unknown060E=03}{Variable=3}.
-MID_GuideTemplate006_m01: {Variable=3}\nLe Consortium Vandahl ou d'autres commerces vous\nvendront {Unknown060E=01}{LowercaseNextLetter}{Variable=1} ou {Unknown060E=02}{LowercaseNextLetter}{Variable=2}.
-MID_GuideTemplate007_m01: Avez-vous déjà fait des récoltes surprise ? En utilisant\nde l'{LowercaseNextLetter}Engrais {Unknown060E=00}{Variable=0}, vous pourriez\nobtenir de rares {Unknown060E=01}{LowercaseNextLetter}{Variable=1}s.
-MID_GuideTemplate008_m01: {Variable=3}\n{CapitalizeNextLetter}{Unknown060E=01}{LowercaseNextLetter}{Variable=1} ou {Unknown060E=02}{LowercaseNextLetter}{Variable=2} serait le mieux. On doit en trouver\ndans des commerces locaux.
-MID_GuideTemplate009_m01: Il paraît qu'on trouve un minerai rare appelé\n« {Unknown060E=01}{LowercaseNextLetter}{Variable=1} » {Unknown060E=00}{Variable=0}.\nQue pourrait-on {LowercaseNextLetter}Améliorer avec ce minerai ?
-MID_GuideTemplate010_m01: {Variable=3}\nVous trouverez {Unknown060E=01}{Variable=1}\n{Unknown060E=02}super {LowercaseNextLetter}{Variable=2} pour vous aider !
-MID_GuideTemplate011_m01: Si vous envoyez une escouade {Unknown060E=00}{Variable=0}\npendant que vous fouillez {Unknown060E=01}{Variable=1},\nvous pourriez {LowercaseNextLetter}Fouiller plusieurs zones à la fois !
-MID_GuideTemplate013_m01: En recrutant des {LowercaseNextLetter}Escouades, vous pourrez accéder\naux {LowercaseNextLetter}Tactiques et {LowercaseNextLetter}Déployer des unités. Vous pouvez\nen recruter {Unknown060E=00}{Variable=0} par exemple.
-MID_GuideTemplate014_m01: Vous pouvez {LowercaseNextLetter}Améliorer des armes chez le {LowercaseNextLetter}Forgeron afin\nd'augmenter leur Atq et leur Prc, et ça en vaut la peine !\nJe vais peut-être m'offrir {Unknown060E=01}{LowercaseNextLetter}{Variable=1}, tiens !
-MID_GuideTemplate015_m01: Avez-vous déjà prononcé des {LowercaseNextLetter}Discours enflammés pour\nrecruter des troupes ? Cela peut attirer des {LowercaseNextLetter}Escouades\nplus fortes. Tentez votre chance {Unknown060E=00}{Variable=0} !
-MID_GuideTemplate016_m01: Vous pouvez ordonner aux troupes de rapporter des matériaux\navec Déployer et fouiller. Pratique, non ? Essayez\n{Unknown060E=01}{Variable=1}, près de {Unknown060E=00}{Variable=0}.
-MID_GuideTemplate017_m01: Il paraît que vous donnez des représentations locales !\nAuriez-vous accepté la requête {Unknown060E=00}{Variable=0} ?\nSi ce n'est pas le cas, allez donc faire un tour à la taverne !
+﻿MID_GuideTemplate000_m01: Obtenez de l'expérience, des minerais et des objets dans\nles zones à explorer comme {Unknown0E06=01}{Variable=1},\ndans les environs {Unknown0E06=00}{Variable=0}.
+MID_GuideTemplate001_m01: Personne ne connaît mieux cette terre que les gens\ndu coin. Achetez donc des cartes aux villageois ! Je\ncrois en avoir vu à la vente {Unknown0E06=00}{Variable=0}...
+MID_GuideTemplate002_m01: Connaissez-vous {Unknown0E06=01}{Variable=1} ? C'est quelqu'un\nqui a vraiment du talent {Unknown0E06=00}({Variable=0}) ! Mais ne comptez\npas l'approcher sous le niveau {Variable=2} de renommée.
+MID_GuideTemplate004_m01: Le {LowercaseNextLetter}Forgeron a besoin de minerai ? Quelqu'un aurait trouvé\n{Unknown0E06=00}{LowercaseNextLetter}{Variable=0} et {Unknown0E06=01}{LowercaseNextLetter}{Variable=1}\n{Unknown0E06=02}{Variable=2} et {Unknown0E06=03}{Variable=3}.
+MID_GuideTemplate005_m01: Vous cherchez {Unknown0E06=01}{LowercaseNextLetter}{Variable=1} ? Le Consortium Vandahl\nen propose à l'échange, contre {Unknown0E06=02}{LowercaseNextLetter}{Variable=2} entre autres,\nqu'on peut trouver {Unknown0E06=03}{Variable=3}.
+MID_GuideTemplate006_m01: {Variable=3}\nLe Consortium Vandahl ou d'autres commerces vous\nvendront {Unknown0E06=01}{LowercaseNextLetter}{Variable=1} ou {Unknown0E06=02}{LowercaseNextLetter}{Variable=2}.
+MID_GuideTemplate007_m01: Avez-vous déjà fait des récoltes surprise ? En utilisant\nde l'{LowercaseNextLetter}Engrais {Unknown0E06=00}{Variable=0}, vous pourriez\nobtenir de rares {Unknown0E06=01}{LowercaseNextLetter}{Variable=1}s.
+MID_GuideTemplate008_m01: {Variable=3}\n{CapitalizeNextLetter}{Unknown0E06=01}{LowercaseNextLetter}{Variable=1} ou {Unknown0E06=02}{LowercaseNextLetter}{Variable=2} serait le mieux. On doit en trouver\ndans des commerces locaux.
+MID_GuideTemplate009_m01: Il paraît qu'on trouve un minerai rare appelé\n« {Unknown0E06=01}{LowercaseNextLetter}{Variable=1} » {Unknown0E06=00}{Variable=0}.\nQue pourrait-on {LowercaseNextLetter}Améliorer avec ce minerai ?
+MID_GuideTemplate010_m01: {Variable=3}\nVous trouverez {Unknown0E06=01}{Variable=1}\n{Unknown0E06=02}super {LowercaseNextLetter}{Variable=2} pour vous aider !
+MID_GuideTemplate011_m01: Si vous envoyez une escouade {Unknown0E06=00}{Variable=0}\npendant que vous fouillez {Unknown0E06=01}{Variable=1},\nvous pourriez {LowercaseNextLetter}Fouiller plusieurs zones à la fois !
+MID_GuideTemplate013_m01: En recrutant des {LowercaseNextLetter}Escouades, vous pourrez accéder\naux {LowercaseNextLetter}Tactiques et {LowercaseNextLetter}Déployer des unités. Vous pouvez\nen recruter {Unknown0E06=00}{Variable=0} par exemple.
+MID_GuideTemplate014_m01: Vous pouvez {LowercaseNextLetter}Améliorer des armes chez le {LowercaseNextLetter}Forgeron afin\nd'augmenter leur Atq et leur Prc, et ça en vaut la peine !\nJe vais peut-être m'offrir {Unknown0E06=01}{LowercaseNextLetter}{Variable=1}, tiens !
+MID_GuideTemplate015_m01: Avez-vous déjà prononcé des {LowercaseNextLetter}Discours enflammés pour\nrecruter des troupes ? Cela peut attirer des {LowercaseNextLetter}Escouades\nplus fortes. Tentez votre chance {Unknown0E06=00}{Variable=0} !
+MID_GuideTemplate016_m01: Vous pouvez ordonner aux troupes de rapporter des matériaux\navec Déployer et fouiller. Pratique, non ? Essayez\n{Unknown0E06=01}{Variable=1}, près de {Unknown0E06=00}{Variable=0}.
+MID_GuideTemplate017_m01: Il paraît que vous donnez des représentations locales !\nAuriez-vous accepté la requête {Unknown0E06=00}{Variable=0} ?\nSi ce n'est pas le cas, allez donc faire un tour à la taverne !
 MID_GuideTemplate018_m01: Le niveau {Variable=0} de renommée octroie cet avantage :\n{LowercaseNextLetter}{Variable=1}\nAlors n'attendez pas et augmentez votre renommée !
-MID_GuideTemplate020_m01: {Variable=3}\nRecruter l'{LowercaseNextLetter}Escouade {Unknown060E=02}{Variable=2} vous permettra\nd'utiliser la {LowercaseNextLetter}Tactique « {Unknown060E=01}{Variable=1} » associée.
-MID_GuideTemplate021_m01: Il vous faut un nouveau défi ? Allez faire un tour\n{Unknown060E=00}{Variable=0} ! Escarmouches et zones à\nexplorer peuplées de puissants ennemis vous y attendent !
+MID_GuideTemplate020_m01: {Variable=3}\nRecruter l'{LowercaseNextLetter}Escouade {Unknown0E06=02}{Variable=2} vous permettra\nd'utiliser la {LowercaseNextLetter}Tactique « {Unknown0E06=01}{Variable=1} » associée.
+MID_GuideTemplate021_m01: Il vous faut un nouveau défi ? Allez faire un tour\n{Unknown0E06=00}{Variable=0} ! Escarmouches et zones à\nexplorer peuplées de puissants ennemis vous y attendent !
 MID_GuideTemplate018_t: Une astuce sur le niveau de renommée !
 MID_GuideIntro001_m01: Avez-vous besoin d'aide contre les cavaliers ?
 MID_GuideIntro002_m01: Attaquez les unités volantes avec un arc !
@@ -31,11 +31,11 @@ MID_Guide002_t: Déclarez vos bonnes actions !
 MID_Guide002_m01: Votre objectif n'est pas atteint tant que vous n'avez pas\nretrouvé la personne que vous aidiez ! Certaines bonnes actions\nimpliquent de vous battre, préparez-vous donc à toute éventualité.
 MID_Guide003_t: Explorez diverses zones pour vous renforcer !
 MID_Guide004_t: Préparez-vous à combattre !
-MID_Guide004_m01: Une bataille importante approche, n'est-ce pas ? Vous devriez\nfaire le plein d'armes et d'objets. Je vous conseille d'avoir\ntoujours {Unknown060E=00}{LowercaseNextLetter}{Variable=0} sous la main.
+MID_Guide004_m01: Une bataille importante approche, n'est-ce pas ? Vous devriez\nfaire le plein d'armes et d'objets. Je vous conseille d'avoir\ntoujours {Unknown0E06=00}{LowercaseNextLetter}{Variable=0} sous la main.
 MID_Guide005_t: Ne reculez pas face aux {LowercaseNextLetter}Escarmouches !
 MID_Guide005_m01: N'évitez pas les {LowercaseNextLetter}Escarmouches sur la carte du monde.\nElles permettent d'acquérir de l'expérience et des\nniveaux. Alors préparez-vous et montez au front !
 MID_Guide006_t: Soutenez les commerces locaux !
-MID_Guide006_m01: Il y a des commerces dans de nombreux villages,\ncomme {Unknown060E=00}{Variable=0}, près de Dagsion !\nJ'ai entendu dire qu'on y trouve {Unknown060E=01}{LowercaseNextLetter}{Variable=1}.
+MID_Guide006_m01: Il y a des commerces dans de nombreux villages,\ncomme {Unknown0E06=00}{Variable=0}, près de Dagsion !\nJ'ai entendu dire qu'on y trouve {Unknown0E06=01}{LowercaseNextLetter}{Variable=1}.
 MID_Guide007_t: Vous croisez souvent des {LowercaseNextLetter}Marchands ?
 MID_Guide007_m01: Vous croiserez peut-être des {LowercaseNextLetter}Marchands sur la carte du\nmonde. Parlez-leur pour voir leur marchandise. Certains\nd'entre eux peuvent même vous échanger des articles rares !
 MID_Guide008_t: Avez-vous parlé avec l'oiseau bizarre ?
@@ -55,7 +55,7 @@ MID_Guide016_m01: Vous devez vous équiper pour un combat important ?\nLe Consor
 MID_Guide017_t: Profitez du {LowercaseNextLetter}Mentorat de Kastor !
 MID_Guide017_m01: À partir de {Variable=0} de niveau de renommée, Kastor vous\ndispensera des séances de {LowercaseNextLetter}Mentorat. Sa première\nleçon : profiter au mieux du terrain !
 MID_Guide018_t: Ne négligez pas votre équipement.
-MID_Guide018_m01: Ne laissez pas votre équipement dans vos Objets,\nutilisez-le ! {CapitalizeNextLetter}{Unknown060E=01}{LowercaseNextLetter}{Variable=1} serait utile\npour vos alliés dont {Unknown060E=00}{Variable=0} n'est pas assez élevée.
+MID_Guide018_m01: Ne laissez pas votre équipement dans vos Objets,\nutilisez-le ! {CapitalizeNextLetter}{Unknown0E06=01}{LowercaseNextLetter}{Variable=1} serait utile\npour vos alliés dont {Unknown0E06=00}{Variable=0} n'est pas assez élevée.
 MID_Guide019_t: On n'a jamais trop d'argent !
 MID_Guide019_m01: J'adore l'argent et il est important d'en avoir beaucoup !\nAlors si vous avez des armes, matériaux ou objets que\nvous n'utilisez pas, n'hésitez pas à les vendre !
 MID_Guide020_m01: Avez-vous visité la taverne de la ville basse ? Il est\npossible d'y acheter toutes sortes de {LowercaseNextLetter}Cadeaux.\nMême les enfants y sont les bienvenus !
@@ -117,7 +117,7 @@ MID_Guide058_m01: Les {LowercaseNextLetter}Champs produisent beaucoup d'ingrédi
 MID_Guide059_t: Mangez, puis allez au théâtre !
 MID_Guide059_m01: Partager un {LowercaseNextLetter}Repas avec des amis, puis aller voir une pièce\nde théâtre ensuite, c'est formidable. Et à partir du niveau {Variable=0}\nde renommée, vous pouvez inviter des gens au {LowercaseNextLetter}Théâtre !
 MID_Guide060_t: Les chasseurs veulent un arc de chasseur !
-MID_Guide060_m01: Certaines bêtes comme les {LowercaseNextLetter}Ours de l'Atla et les loups\nrayés sont coriaces. La solution ? Un arc de chasseur !\nJe crois qu'on peut en acheter {Unknown060E=00}{Variable=0}.
+MID_Guide060_m01: Certaines bêtes comme les {LowercaseNextLetter}Ours de l'Atla et les loups\nrayés sont coriaces. La solution ? Un arc de chasseur !\nJe crois qu'on peut en acheter {Unknown0E06=00}{Variable=0}.
 MID_Guide061_t: Jasmine porte une armure lourde.
 MID_Guide063_t: Cultivez des ingrédients rares !
 MID_Guide064_m01: Connaissez-vous l'équipement qui renforce la magie de soin ?\nIl paraît que le bâton de soin que vous pouvez obtenir au\nConsortium Vandahl améliore les sorts curatifs.

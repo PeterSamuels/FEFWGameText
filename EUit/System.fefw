@@ -357,7 +357,7 @@ MID_Sys_Result_Msg_Recruit_Boost_Bad: L'incoraggiamento di {Variable=0} non ha a
 MID_Sys_Result_Headline_Scout_Success: Reclutamento riuscito
 MID_Sys_Result_Headline_Scout_Failed: Reclutamento fallito
 MID_Sys_Result_Msg_Join: {Variable=0} fa ora parte del gruppo.
-MID_Sys_Result_Msg_Join_Maxim: {Unknown080E=03}Maxim ({Unknown080E=03}Jester) fa ora parte del gruppo.
+MID_Sys_Result_Msg_Join_Maxim: {Unknown0E08=03}Maxim ({Unknown0E08=03}Jester) fa ora parte del gruppo.
 MID_Sys_Result_Msg_Join_SideStory: {Variable=0} fa ora parte del gruppo, ma in maniera limitata.
 MID_Sys_Result_Msg_LevelUp: Il livello di {Variable=0} è aumentato fino a {Variable=1}.
 MID_Sys_Result_Success: Ben fatto!
@@ -379,7 +379,7 @@ MID_Sys_Result_Msg_Thermae_Acquired: {Variable=0} ha imparato temporaneamente la
 MID_Sys_Result_Msg_Temple_Contribution_Up: L'offerta per il {Variable=0} è aumentata.
 MID_Sys_Result_Msg_Miracle_LevelUp_First: Ora puoi usare la {Variable=0}.
 MID_Sys_Result_Msg_Miracle_LevelUp: Un nuovo effetto della {Variable=0} è ora attivo:
-MID_Sys_Result_Msg_Reliance_EXP_Up_Divination: I punti di sostegno con {Unknown080E=03}Anatolia sono aumentati.
+MID_Sys_Result_Msg_Reliance_EXP_Up_Divination: I punti di sostegno con {Unknown0E08=03}Anatolia sono aumentati.
 MID_Sys_Result_Causation_Established: Causalità fissa
 MID_Sys_Result_Msg_Causation_Established: I compagni della {LowercaseNextLetter}{Variable=0}\npossono prendere parte allo scontro finale.
 MID_Sys_Result_Causation_Marged: Causalità unificata
@@ -521,7 +521,7 @@ MID_Menu_Cause_NotGift: Non hai doni.
 MID_Menu_Cause_NotScout: Non puoi {LowercaseNextLetter}Reclutare questa unità ora.
 MID_Menu_Cause_UsedLesson: Non hai {LowercaseNextLetter}Insegnamenti da ricevere.
 MID_Menu_Cause_Complete_Procurement: Non hai scorte da inviare.
-MID_Menu_Cause_NotHero_Educate: {Unknown080E=03}Dietrich è assente.
+MID_Menu_Cause_NotHero_Educate: {Unknown0E08=03}Dietrich è assente.
 MID_Menu_Cause_NotMainTemple: Disponibile solo al tempio principale.
 MID_Menu_Cause_NotWatching: Non ci sono incontri al momento.
 MID_Menu_Cause_FinishedWatching: L'incontro è terminato.
@@ -900,10 +900,10 @@ MID_Restart_Hellgate: Ricomincia dalla missione dei portali
 MID_Restart_Hellgate_Help: Riparti dall'inizio della missione dei portali di\nquesta sezione.
 MID_Restart_Hellgate_Confirm: Vuoi ricominciare dall'inizio della missione dei portali?
 MID_Restart_Hellgate_Annotation: Perderai i progressi successivi all'inizio della missione\ndei portali (parametri, inventario, ecc).
-MID_Restart_Dit8Search: Ricomincia la caccia a {Unknown080E=03}Cetus
-MID_Restart_Dit8Search_Help: Ricomincia la caccia a {Unknown080E=03}Cetus dall'inizio.
-MID_Restart_Dit8Search_Confirm: Vuoi ricominciare la caccia a {Unknown080E=03}Cetus?
-MID_Restart_Dit8Search_Annotation: Ricomincia la caccia a {Unknown080E=03}Cetus dall'inizio.
+MID_Restart_Dit8Search: Ricomincia la caccia a {Unknown0E08=03}Cetus
+MID_Restart_Dit8Search_Help: Ricomincia la caccia a {Unknown0E08=03}Cetus dall'inizio.
+MID_Restart_Dit8Search_Confirm: Vuoi ricominciare la caccia a {Unknown0E08=03}Cetus?
+MID_Restart_Dit8Search_Annotation: Ricomincia la caccia a {Unknown0E08=03}Cetus dall'inizio.
 MID_Restart_UseHistory: Usa la Benedizione di Fortuna
 MID_Restart_UseHistory_Help: Riavvolgi il tempo per rifare i tuoi turni.
 MID_Restart_UseHistory_Annotation: Non hai abbastanza {LowercaseNextLetter}Sabbia divina.

@@ -1,19 +1,19 @@
-﻿MID_GuideTemplate000_m01: Nelle {LowercaseNextLetter}Rovine si ottengono esperienza, minerali e\nstrumenti. Un esempio è {Unknown060E=01}{Variable=1},\nvicino {Unknown060E=00}{Variable=0}.
-MID_GuideTemplate001_m01: I cittadini locali sono esperti di queste terre.\nComprare le loro mappe sarebbe un affare! Se non\nmi sbaglio, c'era un'offerta {Unknown060E=00}{Variable=0}.
+﻿MID_GuideTemplate000_m01: Nelle {LowercaseNextLetter}Rovine si ottengono esperienza, minerali e\nstrumenti. Un esempio è {Unknown0E06=01}{Variable=1},\nvicino {Unknown0E06=00}{Variable=0}.
+MID_GuideTemplate001_m01: I cittadini locali sono esperti di queste terre.\nComprare le loro mappe sarebbe un affare! Se non\nmi sbaglio, c'era un'offerta {Unknown0E06=00}{Variable=0}.
 MID_GuideTemplate002_m01: A quanto pare, {Variable=1} ha delle ottime\ncompetenze ({Variable=0}), ma si unirà al gruppo solo\ncon un livello di {LowercaseNextLetter}Fama pari o superiore a {Variable=2}.
-MID_GuideTemplate004_m01: Se i minerali per la {LowercaseNextLetter}Fucina non dovessero bastare,\n{Unknown060E=02}{Variable=2} e {Unknown060E=03}{Variable=3}\nsi trovano {Unknown060E=00}{LowercaseNextLetter}{Variable=0} e {Unknown060E=01}{LowercaseNextLetter}{Variable=1}.
-MID_GuideTemplate005_m01: La Vandahl offre {Unknown060E=01}{LowercaseNextLetter}{Variable=1} in cambio di\nmateriali, tra cui {Unknown060E=02}{LowercaseNextLetter}{Variable=2} reperibile in\nquesto luogo: {Variable=3}.
+MID_GuideTemplate004_m01: Se i minerali per la {LowercaseNextLetter}Fucina non dovessero bastare,\n{Unknown0E06=02}{Variable=2} e {Unknown0E06=03}{Variable=3}\nsi trovano {Unknown0E06=00}{LowercaseNextLetter}{Variable=0} e {Unknown0E06=01}{LowercaseNextLetter}{Variable=1}.
+MID_GuideTemplate005_m01: La Vandahl offre {Unknown0E06=01}{LowercaseNextLetter}{Variable=1} in cambio di\nmateriali, tra cui {Unknown0E06=02}{LowercaseNextLetter}{Variable=2} reperibile in\nquesto luogo: {Variable=3}.
 MID_GuideTemplate006_m01: {Variable=3}\nLa Vandahl e i mercanti vendono:\n{LowercaseNextLetter}{Variable=1}, {LowercaseNextLetter}{Variable=2} e altro ancora.
 MID_GuideTemplate007_m01: A volte il raccolto riserva delle sorprese! Usa del\nconcime in questo luogo: {Variable=0}.\nPotresti ottenere: {LowercaseNextLetter}{Variable=1}.
-MID_GuideTemplate008_m01: {Variable=3}\n{CapitalizeNextLetter}{Unknown060E=01}{LowercaseNextLetter}{Variable=1} o {Unknown060E=02}{LowercaseNextLetter}{Variable=2} sarebbero\nl'ideale. Sono reperibili presso i negozi locali.
+MID_GuideTemplate008_m01: {Variable=3}\n{CapitalizeNextLetter}{Unknown0E06=01}{LowercaseNextLetter}{Variable=1} o {Unknown0E06=02}{LowercaseNextLetter}{Variable=2} sarebbero\nl'ideale. Sono reperibili presso i negozi locali.
 MID_GuideTemplate009_m01: Ci sarebbe un minerale chiamato {LowercaseNextLetter}{Variable=1}\nreperibile qui: {Variable=0}. Dicono che sia\nraro, chissà che oggetti può {LowercaseNextLetter}Affinare.
-MID_GuideTemplate010_m01: {Variable=3}\nPer risolvere il problema basta {Unknown060E=02}{LowercaseNextLetter}{Variable=2}\nreperibile qui: {Variable=1}.
-MID_GuideTemplate011_m01: Se vi occupate di {LowercaseNextLetter}Esplorare {Unknown060E=01}{Variable=1}\ne inviate un battaglione {Unknown060E=00}{Variable=0},\npotrete ottenere più risorse allo stesso tempo!
-MID_GuideTemplate013_m01: Se usate il reclutamento di soldati per i battaglioni,\npotrete accedere agli stratagemmi e schierare unità.\nPotete reclutarle anche {Unknown060E=00}{Variable=0}.
-MID_GuideTemplate014_m01: È possibile {LowercaseNextLetter}Affinare armi presso la {LowercaseNextLetter}Fucina. Ciò\nne accresce la Pot att e il Clp. Vale la pena provare.\nPotrei farmi {LowercaseNextLetter}Affinare {Unknown060E=01}{LowercaseNextLetter}{Variable=1}!
+MID_GuideTemplate010_m01: {Variable=3}\nPer risolvere il problema basta {Unknown0E06=02}{LowercaseNextLetter}{Variable=2}\nreperibile qui: {Variable=1}.
+MID_GuideTemplate011_m01: Se vi occupate di {LowercaseNextLetter}Esplorare {Unknown0E06=01}{Variable=1}\ne inviate un battaglione {Unknown0E06=00}{Variable=0},\npotrete ottenere più risorse allo stesso tempo!
+MID_GuideTemplate013_m01: Se usate il reclutamento di soldati per i battaglioni,\npotrete accedere agli stratagemmi e schierare unità.\nPotete reclutarle anche {Unknown0E06=00}{Variable=0}.
+MID_GuideTemplate014_m01: È possibile {LowercaseNextLetter}Affinare armi presso la {LowercaseNextLetter}Fucina. Ciò\nne accresce la Pot att e il Clp. Vale la pena provare.\nPotrei farmi {LowercaseNextLetter}Affinare {Unknown0E06=01}{LowercaseNextLetter}{Variable=1}!
 MID_GuideTemplate015_m01: Esprimete un {LowercaseNextLetter}Incoraggiamento quando state reclutando\nsoldati e avrete un {LowercaseNextLetter}Battaglione più forte.\nProvate a farlo qui: {Variable=0}.
-MID_GuideTemplate016_m01: Schiera esploratori dà l'ordine alle truppe di\nraccogliere materiali. Comodo, no? Provate\n{Unknown060E=01}{Variable=1}, presso {Unknown060E=00}{Variable=0}.
-MID_GuideTemplate017_m01: Ho saputo che i tuoi spettacoli hanno successo!\nHai già accettato la richiesta {Unknown060E=00}{Variable=0}?\nSe non l'hai fatto, dovresti passare alla taverna!
+MID_GuideTemplate016_m01: Schiera esploratori dà l'ordine alle truppe di\nraccogliere materiali. Comodo, no? Provate\n{Unknown0E06=01}{Variable=1}, presso {Unknown0E06=00}{Variable=0}.
+MID_GuideTemplate017_m01: Ho saputo che i tuoi spettacoli hanno successo!\nHai già accettato la richiesta {Unknown0E06=00}{Variable=0}?\nSe non l'hai fatto, dovresti passare alla taverna!
 MID_GuideTemplate018_m01: Quando la {LowercaseNextLetter}Fama raggiunge il livello {Variable=0},\n{LowercaseNextLetter}{Variable=1}.\nDirei che conviene accrescerla, no?
 MID_GuideTemplate020_m01: {Variable=3}\nReclutando il {LowercaseNextLetter}Battaglione {Variable=2},\npotrete usare lo {LowercaseNextLetter}Stratagemma {Variable=1}.
 MID_GuideTemplate021_m01: Niente dà più il brivido di un tempo? Perché\nnon andare in {Variable=0}? Ci sono\npotenti nemici tra le {LowercaseNextLetter}Rovine o nelle scaramucce!
@@ -52,10 +52,10 @@ MID_Guide015_t: Ci pensa la Vandahl!
 MID_Guide015_m01: Con la Vandahl non serve il denaro: loro preferiscono\nil baratto. Esplorando la mappa del continente, si\npossono ottenere i materiali richiesti.
 MID_Guide016_t: So dove trovare merci di scambio!
 MID_Guide016_m01: Per chi cerca equipaggiamento in vista del torneo,\nla Vandahl offre armi di bronzo da barattare. Sono\nmolto più forti di quelle di legno. Un vero affare!
-MID_Guide017_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown080E=03}Castor!
-MID_Guide017_m01: Una volta raggiunta una {LowercaseNextLetter}Fama pari a {Variable=0}, {Unknown080E=03}Castor\nti offrirà i suoi {LowercaseNextLetter}Insegnamenti. Nella prima lezione\nscoprirai come trarre vantaggio dal tipo di terreno!
+MID_Guide017_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown0E08=03}Castor!
+MID_Guide017_m01: Una volta raggiunta una {LowercaseNextLetter}Fama pari a {Variable=0}, {Unknown0E08=03}Castor\nti offrirà i suoi {LowercaseNextLetter}Insegnamenti. Nella prima lezione\nscoprirai come trarre vantaggio dal tipo di terreno!
 MID_Guide018_t: Non trascurare l'{LowercaseNextLetter}Equipaggiamento.
-MID_Guide018_m01: Non lasciare l'{LowercaseNextLetter}Equipaggiamento tra gli {LowercaseNextLetter}Strumenti,\nportalo con te! Se i tuoi alleati non hanno\nabbastanza {Variable=0}, ti consiglio {Unknown060E=01}{LowercaseNextLetter}{Variable=1}.
+MID_Guide018_m01: Non lasciare l'{LowercaseNextLetter}Equipaggiamento tra gli {LowercaseNextLetter}Strumenti,\nportalo con te! Se i tuoi alleati non hanno\nabbastanza {Variable=0}, ti consiglio {Unknown0E06=01}{LowercaseNextLetter}{Variable=1}.
 MID_Guide019_t: I soldi non sono mai troppi!
 MID_Guide019_m01: Io amo il denaro! È fondamentale averne in grandi\nquantità. Se hai oggetti, armi o materiali che non usi,\nvendili senza esitazione!
 MID_Guide020_m01: Sei già stato alla taverna della città bassa? Lì puoi\nacquistare {LowercaseNextLetter}Doni di ogni tipo. L'ingresso è aperto a\ntutti, persino ai bambini!
@@ -63,7 +63,7 @@ MID_Guide022_t: Un allenamento scontato!
 MID_Guide022_m01: Tutti ci alleniamo per tenerci in forma, ma non tutti\nsanno che il fine settimana costa meno! È l'occasione\ngiusta per diventare più forti a basso prezzo!
 MID_Guide023_t: Chi ha voglia di un esame?
 MID_Guide023_m01: Svolgere un esame di certificazione è molto utile!\nConsiglierei di iniziare da quelli base, a meno che\ntutti gli alleati non abbiano già quelle classi.
-MID_Guide024_t: {Unknown080E=03}Noctula è abile con i guanti d'arme!
+MID_Guide024_t: {Unknown0E08=03}Noctula è abile con i guanti d'arme!
 MID_Guide025_t: Ti piacciono gli animali?
 MID_Guide025_m01: Io amo gli animali. Sono così carini! Puoi allevarli\nnelle {LowercaseNextLetter}Stalle. Accrescendo l'Amicizia che vi lega,\nè possibile imparare abilità specifiche!
 MID_Guide026_t: A qualcuno servono degli {LowercaseNextLetter}Ornius.
@@ -71,8 +71,8 @@ MID_Guide026_m01: Al mercato c'era qualcuno in cerca di {LowercaseNextLetter}Orn
 MID_Guide027_t: Le mummie d'argento
 MID_Guide027_m01: A tutti i partecipanti del torneo! Pare che siano\nstate avvistate delle mummie d'argento. Chi le\nsconfigge ottiene molta esperienza, ma non è facile!
 MID_Guide028_t: L'arma perfetta contro la cavalleria?
-MID_Guide029_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown080E=03}Aurora!
-MID_Guide029_m01: Con una {LowercaseNextLetter}Fama pari a {Variable=0}, {Unknown080E=03}Aurora ti concederà\ndegli allenamenti speciali. La sua prima lezione si\nconcentrerà su come evitare di farsi male!
+MID_Guide029_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown0E08=03}Aurora!
+MID_Guide029_m01: Con una {LowercaseNextLetter}Fama pari a {Variable=0}, {Unknown0E08=03}Aurora ti concederà\ndegli allenamenti speciali. La sua prima lezione si\nconcentrerà su come evitare di farsi male!
 MID_Guide030_t: Prestare {LowercaseNextLetter}Servizio fa ottenere benedizioni!
 MID_Guide030_m01: In battaglia è possibile ricevere le benedizioni degli\ndèi. Le benedizioni sono tutte piuttosto utili e\nottenibili prestando {LowercaseNextLetter}Servizio nei vari templi.
 MID_Guide032_t: Reclutare senza limiti!
@@ -90,19 +90,19 @@ MID_Guide038_m01: A tutti i partecipanti del torneo! Pare che siano state\navvis
 MID_Guide039_t: I minerali permettono di {LowercaseNextLetter}Affinare le armi!
 MID_Guide040_t: Allenarsi dà accesso a più armi!
 MID_Guide040_m01: Con un Liv competenze troppo basso, non sarà\npossibile attivare le armi più forti. La mia\nsoluzione? Tanto allenamento per aumentarlo!
-MID_Guide041_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown080E=03}Bertrand!
-MID_Guide041_m01: Con una {LowercaseNextLetter}Fama pari a {Variable=0}, {Unknown080E=03}Bertrand ti potrà insegnare\ntutto ciò che sa. La sua prima lezione riguarderà i\ndiversi tipi di nemici.
+MID_Guide041_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown0E08=03}Bertrand!
+MID_Guide041_m01: Con una {LowercaseNextLetter}Fama pari a {Variable=0}, {Unknown0E08=03}Bertrand ti potrà insegnare\ntutto ciò che sa. La sua prima lezione riguarderà i\ndiversi tipi di nemici.
 MID_Guide042_t: Ripristina i PS con un {LowercaseNextLetter}Banchetto!
 MID_Guide042_m01: Sei lontano da Dagsion e hai pochi PS? Tira fuori gli\ningredienti per un bel {LowercaseNextLetter}Banchetto! Oltre a ripristinarli,\nti farà fare amicizia con i compagni di squadra.
 MID_Guide043_t: Parla con il {LowercaseNextLetter}Mercante itinerante.
 MID_Guide044_t: La strada è bloccata?
 MID_Guide044_m01: Ho saputo di certe figure losche che stanno\nbloccando un presidio. Non conosco i dettagli,\nma potresti chiedere alla persona vicino alla bacheca.
-MID_Guide045_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown080E=03}Centurio!
-MID_Guide045_m01: Quando la tua {LowercaseNextLetter}Fama sarà pari a {Variable=0}, potrai allenarti\ncon {Unknown080E=03}Centurio. Mi chiedo come sia affrontare dei\ngiganti... La ricompensa sarà altrettanto grossa.
-MID_Guide046_t: {Unknown080E=03}Yang Jie è un ottimo guaritore.
+MID_Guide045_t: Prova gli {LowercaseNextLetter}Insegnamenti di {Unknown0E08=03}Centurio!
+MID_Guide045_m01: Quando la tua {LowercaseNextLetter}Fama sarà pari a {Variable=0}, potrai allenarti\ncon {Unknown0E08=03}Centurio. Mi chiedo come sia affrontare dei\ngiganti... La ricompensa sarà altrettanto grossa.
+MID_Guide046_t: {Unknown0E08=03}Yang Jie è un ottimo guaritore.
 MID_Guide047_t: Mai provato lo {LowercaseNextLetter}Scudo antimago?
 MID_Guide047_m01: La Dif aiuta contro l'Att fis, mentre la Res protegge\ndall'Att mag. La Res è dura da aumentare, però...\nUno {LowercaseNextLetter}Scudo antimago potrebbe risolvere il problema.
-MID_Guide049_t: {Unknown080E=03}Nydine è abile con le asce.
+MID_Guide049_t: {Unknown0E08=03}Nydine è abile con le asce.
 MID_Guide050_t: Cosa cavalca la cavalleria?
 MID_Guide050_m01: Hai assegnato i tuoi animali ai cavalieri ornius e\nalla cavalleria leggera? Ti consiglio di rafforzare\nl'Amicizia, così apprenderanno nuove abilità!
 MID_Guide052_t: Cattura un animale raro!
@@ -112,19 +112,19 @@ MID_Guide053_m01: Hai controllato le conversazioni di sostegno dei tuoi\nalleati
 MID_Guide054_m01: Con una {LowercaseNextLetter}Fama pari a {Variable=0}, è possibile ottenere più\nesperienza da un allenamento. Con lo sconto del fine\nsettimana, la motivazione non mancherà!
 MID_Guide055_m01: Una volta presa dimestichezza con una classe per\nprincipianti, consiglio di passare a una intermedia.\nPerché non provare con un esame apposito?
 MID_Guide056_t: Consiglio le armi a lungo raggio!
-MID_Guide057_m01: Quando la tua fama sarà pari a {Variable=0}, {Unknown080E=03}Castor avrà\nun compito per te. Non so in cosa consista di\npreciso, ma sono certa che ne varrà la pena.
+MID_Guide057_m01: Quando la tua fama sarà pari a {Variable=0}, {Unknown0E08=03}Castor avrà\nun compito per te. Non so in cosa consista di\npreciso, ma sono certa che ne varrà la pena.
 MID_Guide058_m01: Il {LowercaseNextLetter}Giardinaggio ti farà avere molti ingredienti e,\nquando la tua {LowercaseNextLetter}Fama sarà pari a {Variable=0}, potrai coltivare\nancora di più e ottenere un raccolto abbondante.
 MID_Guide059_t: Un {LowercaseNextLetter}Pasto e poi a teatro!
 MID_Guide059_m01: Condividere un {LowercaseNextLetter}Pasto è carino, ma andare a {LowercaseNextLetter}Teatro\ncon gli amici è meglio! Sarà possibile invitarli con\nuna {LowercaseNextLetter}Fama pari a {Variable=0}. Io? Prima conosciamoci meglio!
 MID_Guide060_t: Un arco da caccia può essere utile!
 MID_Guide060_m01: Animali come l'{LowercaseNextLetter}Orso atlas e il lupo striato sono\navversari ostici. La soluzione? Gli archi da caccia!\nLi vendono presso i negozi di {Variable=0}.
-MID_Guide061_t: {Unknown080E=03}Jasmine usa un'armatura pesante.
+MID_Guide061_t: {Unknown0E08=03}Jasmine usa un'armatura pesante.
 MID_Guide063_t: Coltiva ingredienti rari!
 MID_Guide064_m01: Sapevi che esiste {LowercaseNextLetter}Equipaggiamento che migliora\nle magie curative? Alla Vandahl puoi barattare\nqualcosa in cambio di un bastone curativo.
 MID_Guide065_t: Al cocchiere serve una mano.
 MID_Guide065_m01: I carri sono comodi, ma ai bambini non è consentito\nusarli senza un adulto. Se aiuti quel cocchiere, però,\npotrebbe chiudere un occhio.
 MID_Guide067_t: Come contrastare un'armatura?
-MID_Guide069_m01: Con una fama almeno di {Variable=0}, {Unknown080E=03}Aurora avrà una\nrichiesta per te. Qualunque cosa si aspetti\nda te, sono certa che ti ricompenserà a dovere.
+MID_Guide069_m01: Con una fama almeno di {Variable=0}, {Unknown0E08=03}Aurora avrà una\nrichiesta per te. Qualunque cosa si aspetti\nda te, sono certa che ti ricompenserà a dovere.
 MID_Guide070_t: Sono aperte le audizioni al {LowercaseNextLetter}Teatro!
 MID_Guide070_m01: Con una {LowercaseNextLetter}Fama pari a {Variable=0}, si potrà recitare a teatro.\nÈ previsto anche un compenso in denaro. Inoltre,\nè un'attività che crea forti legami con gli alleati!
 MID_Guide071_t: Le {LowercaseNextLetter}Terme sono un toccasana!
@@ -133,9 +133,9 @@ MID_Guide073_t: Cos'è un'appendice?
 MID_Guide073_m01: Alcuni concorrenti del torneo hanno dei favori da\nchiedere. Aiutarli non sembra una cattiva idea:\npotrebbero anche offrire una ricompensa.
 MID_Guide074_m01: Dicono che a Da Mina vendano armi che donano\nuna mira eccellente. Io ci farei un salto! Puoi vedere\ndove si trova dalla mappa del continente.
 MID_Guide075_t: Un alleato ferito è troppo lontano?
-MID_Guide075_m01: Alcune volte, gli alleati feriti saranno troppo lontani\nper essere curati, ma qui ci pensa la magia bianca\nLenimento! {Unknown080E=03}Sofia e {Unknown080E=03}Yang Jie possono apprenderla.
+MID_Guide075_m01: Alcune volte, gli alleati feriti saranno troppo lontani\nper essere curati, ma qui ci pensa la magia bianca\nLenimento! {Unknown0E08=03}Sofia e {Unknown0E08=03}Yang Jie possono apprenderla.
 MID_Guide076_m01: Ehi, sembra che una battaglia tosta sia alle porte!\nSe equipaggiamento, competenze, classi e mosse\nspeciali non bastano, sarà meglio {LowercaseNextLetter}Reclutare guaritori.
-MID_Guide077_m01: Quando la tua fama sarà pari a {Variable=0}, {Unknown080E=03}Bertrand ti\nsottoporrà a una nuova sfida. Non so perché lui\nvoglia proprio te, ma è una grande occasione!
+MID_Guide077_m01: Quando la tua fama sarà pari a {Variable=0}, {Unknown0E08=03}Bertrand ti\nsottoporrà a una nuova sfida. Non so perché lui\nvoglia proprio te, ma è una grande occasione!
 MID_Guide081_t: Conosci questi amuleti?
 MID_Guide081_m01: La Società Commerciale Vandahl ha appena ricevuto\nuna scorta di amuleti. Indossarli ti proteggerà da armi\nspecifiche, ma per averli devi barattare materiali rari.
 MID_Guide083_m01: Una volta presa dimestichezza con classi intermedie,\nsarebbe ottimo passare a quelle avanzate. Tuttavia,\nle licenze sono costose. Meglio pensarci su!
@@ -147,27 +147,27 @@ MID_Guide089_m01: Con una {LowercaseNextLetter}Fama pari a {Variable=0} saranno 
 MID_Guide090_t: Scova nemici nascosti!
 MID_Guide090_m01: Sconfiggi i nemici con il Lamento di Responsum e\nriceverai esperienza, ecogemme magiche e fama.\nNon dimenticare di farne uso quando sei in viaggio!
 MID_Guide091_t: Hai potenziato le mosse speciali?
-MID_Guide091_m01: {Unknown080E=03}Smyrnos ti lascia potenziare le {LowercaseNextLetter}Mosse speciali?\nIncredibile! Ora ti basta trovare tante ecogemme\nmagiche usando il Lamento di Responsum.
+MID_Guide091_m01: {Unknown0E08=03}Smyrnos ti lascia potenziare le {LowercaseNextLetter}Mosse speciali?\nIncredibile! Ora ti basta trovare tante ecogemme\nmagiche usando il Lamento di Responsum.
 MID_Guide093_t: Hai ricevuto una sfida a duello?
 MID_Guide093_m01: Ho saputo della sfida a duello che hai ricevuto!\nNon fremi dalla voglia di iniziare l'incontro? Se vinci,\npotrai apprendere una mossa speciale segreta.
-MID_Guide097_t: {Unknown080E=03}Kiroc è un ottimo arciere.
+MID_Guide097_t: {Unknown0E08=03}Kiroc è un ottimo arciere.
 MID_Guide098_t: Cos'è efficace contro le unità volanti?
 MID_Guide100_t: Hai già insegnato delle mosse?
-MID_Guide100_m01: {Unknown080E=03}Smyrnos dice che puoi insegnare le mosse segrete\nagli alleati? Così saranno più forti! Puoi recuperare le\necogemme magiche usando il Lamento di Responsum.
+MID_Guide100_m01: {Unknown0E08=03}Smyrnos dice che puoi insegnare le mosse segrete\nagli alleati? Così saranno più forti! Puoi recuperare le\necogemme magiche usando il Lamento di Responsum.
 MID_Guide102_t: Responsum tiene duro?
 MID_Guide102_m01: Sapevi che le {LowercaseNextLetter}Mosse speciali consumano la\ndurabilità delle armi? Se Responsum si danneggia,\ndovrai ripararla con i minerali della Grotta ombrosa.
 MID_Guide106_t: Puoi affrontare il tiranno dei mari?
-MID_Guide106_m01: {Unknown080E=03}Cetus, il tiranno dei mari, è una specie di drago, no?\nCiò significa che Salasso di Responsum dovrebbe\nfunzionare! Ripara la spada prima di partire.
-MID_Guide109_t: Serve un auriga? Ci pensa {Unknown080E=03}Benditz!
+MID_Guide106_m01: {Unknown0E08=03}Cetus, il tiranno dei mari, è una specie di drago, no?\nCiò significa che Salasso di Responsum dovrebbe\nfunzionare! Ripara la spada prima di partire.
+MID_Guide109_t: Serve un auriga? Ci pensa {Unknown0E08=03}Benditz!
 MID_Guide111_t: Pronto per le {LowercaseNextLetter}Rovine del deserto?
 MID_Guide111_m01: Ho saputo che stai viaggiando per il deserto!\nTra le dune si possono trovare molte {LowercaseNextLetter}Rovine.\nFossi in te, le perlustrerei a fondo.
-MID_Guide114_t: {Unknown080E=03}Catania è un'abile unità aerea.
+MID_Guide114_t: {Unknown0E08=03}Catania è un'abile unità aerea.
 MID_Guide120_t: Gli stratagemmi e i battaglioni
 MID_Guide120_m01: Schierando battaglioni potete usare stratagemmi\nper attaccare, curare o bloccare gli attacchi. Inoltre,\nusarli aumenterà anche l'esperienza nel comando!
 MID_Guide121_t: Come va con l'{LowercaseNextLetter}Invio scorte?
 MID_Guide121_m01: State svolgendo un ottimo lavoro con le truppe!\nSchierarle per {LowercaseNextLetter}Esplorare e fare scorte richiede tempo,\nma vi lascia libera di concentrarvi su altre attività.
 MID_Guide122_t: Schierate esploratori e inviate rifornimenti!
-MID_Guide123_t: {Unknown080E=03}Sofia è un'ottima guaritrice.
+MID_Guide123_t: {Unknown0E08=03}Sofia è un'ottima guaritrice.
 MID_Guide124_t: Certi battaglioni contrastano chi vola!
 MID_Guide126_t: Alcuni battaglioni rallentano i nemici.
 MID_Guide127_t: Esiste un {LowercaseNextLetter}Battaglione che cura?
@@ -175,10 +175,10 @@ MID_Guide128_t: Come procede la ricerca di soldati?
 MID_Guide129_t: Affinare le armi è utile!
 MID_Guide130_m01: La lama di grazia è una spada molto efficace\ncontro i cadaveri. Barattando i materiali giusti,\nsi può ottenere presso la Vandahl.
 MID_Guide135_t: Certi battaglioni contrastano la cavalleria!
-MID_Guide136_t: {Unknown080E=03}Zarcone è abile con le asce.
+MID_Guide136_t: {Unknown0E08=03}Zarcone è abile con le asce.
 MID_Guide138_t: Mai usato il {LowercaseNextLetter}Trasporto militare?
 MID_Guide138_m01: Inviate battaglioni in Saramis tramite un trasporto\nmilitare. Saranno onorati di difendere il regno! Dopo\nalcune spedizioni, otterrete un manuale di strategia.
-MID_Guide139_t: {Unknown080E=03}Alexandra è un'unità aerea esperta.
+MID_Guide139_t: {Unknown0E08=03}Alexandra è un'unità aerea esperta.
 MID_Guide146_t: Le armi uniche si possono {LowercaseNextLetter}Affinare!
 MID_Guide146_m01: Quella è la lancia di Mahadu? Con i materiali giusti,\npotrete affinarla. Per maggiori informazioni, chiedete\nalla {LowercaseNextLetter}Fucina.
 MID_Guide148_t: Tenete un {LowercaseNextLetter}Incoraggiamento!
@@ -189,7 +189,7 @@ MID_Guide152_t: Schierate le unità per trovare minerali!
 MID_Guide160_t: Ti sei esibita ultimamente?
 MID_Guide161_t: Hai scoperto qualche posto interessante?
 MID_Guide161_m01: Esibirti in varie aree è un ottimo modo per scoprire\nluoghi nascosti che non compaiono sulle mappe.\nI materiali reperibili lì saranno utili nella taverna!
-MID_Guide162_t: {Unknown080E=03}Catania è abile con le lance.
+MID_Guide162_t: {Unknown0E08=03}Catania è abile con le lance.
 MID_Guide163_t: Stai aiutando i cittadini?
 MID_Guide165_t: Come procede con la taverna?
 MID_Guide165_m01: All'oste serve una mano, eh? So che devi aumentare\nla tua {LowercaseNextLetter}Fama e raccogliere materiali, ma è anche un\nmodo semplice di trovare l'ispirazione!
@@ -199,8 +199,8 @@ MID_Guide167_t: Hai provato a cercare foglie rare?
 MID_Guide167_m01: Hai trovato delle foglie particolari? Possono valere\nmolto se date alla persona giusta. Dovresti provare\na {LowercaseNextLetter}Esplorare dei luoghi speciali.
 MID_Guide169_m01: Ho saputo delle tue esibizioni! Perché non provi\na visitare i negozi locali? Potresti trovare qualcosa\ndi interessante!
 MID_Guide174_t: Hai parlato con Syracusio?
-MID_Guide174_m01: Credo che Syracusio... ehm, volevo dire {Unknown080E=03}Sirocco,\nabbia qualcosa da dirti. Io sono qui solo per\ninformarti, non so altro!
+MID_Guide174_m01: Credo che Syracusio... ehm, volevo dire {Unknown0E08=03}Sirocco,\nabbia qualcosa da dirti. Io sono qui solo per\ninformarti, non so altro!
 MID_Guide178_t: Girano voci sui tesori di Drake!
 MID_Guide178_m01: Ho scoperto che si possono {LowercaseNextLetter}Affinare anche i tesori di\nDrake! Aspetta un attimo, tu ne hai uno?! Ma è\nfantastico! Dovresti fare visita alla {LowercaseNextLetter}Fucina.
-MID_Guide181_t: Parteciperai alla prova di {Unknown080E=03}Kalla?
-MID_Guide181_m01: Ti faccio le mie congratulazioni: potrai partecipare\nalla prova di {Unknown080E=03}Kalla! Se la superi, riceverai il suo Arcon\nsupremo. Non solo è un onore, ma anche un affare.
+MID_Guide181_t: Parteciperai alla prova di {Unknown0E08=03}Kalla?
+MID_Guide181_m01: Ti faccio le mie congratulazioni: potrai partecipare\nalla prova di {Unknown0E08=03}Kalla! Se la superi, riceverai il suo Arcon\nsupremo. Non solo è un onore, ma anche un affare.

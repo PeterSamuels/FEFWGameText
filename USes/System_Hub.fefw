@@ -337,7 +337,7 @@ MID_HeroMenu_Start_Part2: Pasar a la parte II: Guerra
 MID_HeroMenu_Start_Part3: Pasar a la campaña final
 MID_HeroMenu_Start_Part1_Confirm: ¿Quieres tocar este obelisco y seguir la senda de {Variable=0}?
 MID_HeroMenu_Start_Part2_Confirm: ¿Quieres acceder a la parte II: Guerra con {Variable=0}?
-MID_HeroMenu_Start_Part3_Confirm: ¿Quieres acceder a la campaña final\ncontra el dios demoniaco {Unknown080E=03}Balor?
+MID_HeroMenu_Start_Part3_Confirm: ¿Quieres acceder a la campaña final\ncontra el dios demoniaco {Unknown0E08=03}Balor?
 MID_HeroMenu_Continue_Part1: Reanudar la {LowercaseNextLetter}{Variable=0}
 MID_HeroMenu_Continue_Part2: Reanudar la parte II: Guerra
 MID_HeroMenu_Continue_Part3: Reanudar la parte III: Salvación
@@ -414,8 +414,8 @@ MID_DepositoryMenu_Legion_Help: Selecciona qué batallón quieres generar.
 MID_DepositoryMenu_TotalNum: Total
 MID_DepositoryMenu_TotalPrice: Esquirlas necesarias
 MID_DepositoryMenu_Confirm: ¿Quieres generar esto?
-MID_DepositoryMenu_Need_KAI_Message: Para generar un animal, {Unknown080E=03}Cai debe formar parte de tu grupo\ny su causalidad debe estar ya fijada.
-MID_DepositoryMenu_Need_SEO_Message: Para generar batallones, {Unknown080E=03}Theodora debe formar parte de tu grupo\ny su causalidad debe estar ya fijada.
+MID_DepositoryMenu_Need_KAI_Message: Para generar un animal, {Unknown0E08=03}Cai debe formar parte de tu grupo\ny su causalidad debe estar ya fijada.
+MID_DepositoryMenu_Need_SEO_Message: Para generar batallones, {Unknown0E08=03}Theodora debe formar parte de tu grupo\ny su causalidad debe estar ya fijada.
 MID_DepositoryMenu_Overlap_Animal_Message: No puedes recibir el animal porque ya usas uno idéntico.
 MID_DepositoryMenu_FullItem_Animal_Message: No puedes tener más animales.
 MID_DepositoryMenu_FullItem_Legion_Message: No puedes tener más batallones.
@@ -433,8 +433,8 @@ MID_MemorySoundMenu_Arrange: Cambiar arreglos
 MID_MemorySoundMenu_NowPlaying: ♪ Reproduciendo
 MID_MemorySoundMenu_Note: ♪
 MID_CrownJobInfo_Message: Duerme aquí: {LowercaseNextLetter}{Variable=0}...
-MID_Crown_OpenDoor_Confirm: ¿Quieres usar una {Unknown080E=03}Llave del Halo para abrir\nla {LowercaseNextLetter}{Variable=0}? (Llaves en tu posesión: {Variable=1})
-MID_Crown_NotOpenDoor_Message: Para abrir esta puerta hace falta una {Unknown080E=03}Llave del Halo. Es posible\nencontrarlas en zonas explorables de todo el continente.
+MID_Crown_OpenDoor_Confirm: ¿Quieres usar una {Unknown0E08=03}Llave del Halo para abrir\nla {LowercaseNextLetter}{Variable=0}? (Llaves en tu posesión: {Variable=1})
+MID_Crown_NotOpenDoor_Message: Para abrir esta puerta hace falta una {Unknown0E08=03}Llave del Halo. Es posible\nencontrarlas en zonas explorables de todo el continente.
 MID_Crown_NotOpenTemple_Message: Todavía no puedes entrar.
 MID_HubMenu_MainQuest: Misión principal
 MID_HubMenu_MainQuest_Help: Pon fin al tiempo libre y continúa\ncon la {LowercaseNextLetter}Misión principal.

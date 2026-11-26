@@ -76,7 +76,7 @@ MSID_H_EntrustWind+: Conferisce Scv {Variable=0}, {Variable=1}, {Variable=2} o {
 MSID_SoreLoser: Zelo competitivo
 MSID_H_SoreLoser: Se l'unità ha magia attivata, conferisce\nTrpl {Variable=0}.
 MSID_EmotionalLizaia: Nosferatu ardente{Variable=0}
-MSID_H_EmotionalLizaia: Quando usi {Unknown080E=03}Nosferatu, conferisce\nPot att {Variable=0} e Trpl {Variable=1} durante\nlo scontro.
+MSID_H_EmotionalLizaia: Quando usi {Unknown0E08=03}Nosferatu, conferisce\nPot att {Variable=0} e Trpl {Variable=1} durante\nlo scontro.
 MSID_GrowthSigns: Segnali di crescita
 MSID_H_GrowthSigns: Conferisce più probabilità di crescita\ndei parametri base, quando l'unità\nsale di livello.
 MSID_WarriorBlood: Sangue guerriero{Variable=0}
@@ -1640,13 +1640,13 @@ MSID_AttackChange: Inversione Forz/Mag
 MSID_H_AttackChange: Inverte Forz e Mag (finisce dopo {Variable=0} {SingularPlural0=scontro|scontri}\no {Variable=1} {SingularPlural1=turno|turni}).
 MSID_DefenseChange: Inversione Dif/Res
 MSID_H_DefenseChange: Inverte Dif e Res (finisce dopo {Variable=0} {SingularPlural0=scontro|scontri}\no {Variable=1} {SingularPlural1=turno|turni}).
-MSID_Lizaia: {Unknown080E=03}Nosferatu
-MSID_Barrier: {Unknown080E=03}Barriera
-MSID_MagicShield: {Unknown080E=03}Scudo magico
-MSID_Emergence: {Unknown080E=03}Emergis
-MSID_Regeia: {Unknown080E=03}Regenera
-MSID_Warm: {Unknown080E=03}Sciame Z
-MSID_Luna: {Unknown080E=03}Luna Λ
+MSID_Lizaia: {Unknown0E08=03}Nosferatu
+MSID_Barrier: {Unknown0E08=03}Barriera
+MSID_MagicShield: {Unknown0E08=03}Scudo magico
+MSID_Emergence: {Unknown0E08=03}Emergis
+MSID_Regeia: {Unknown0E08=03}Regenera
+MSID_Warm: {Unknown0E08=03}Sciame Z
+MSID_Luna: {Unknown0E08=03}Luna Λ
 MSID_HolyWater: Acqua pura
 MSID_PeaceDew: Rugiada di pace
 MSID_BlessingDew: Rugiada protettiva
@@ -1665,10 +1665,10 @@ MSID_ApathyAle: Succo fogliamara
 MSID_RangeAle: Succo fogliadolce
 MSID_RecoveryAle: Succo di piperita
 MSID_MoveAle: Succo di zang
-MSID_BlissTongue: {Unknown080E=03}Lingua curativa
+MSID_BlissTongue: {Unknown0E08=03}Lingua curativa
 MSID_VictoryJewel: Gemma vittoriosa
 MSID_SeaCharm: Amuleto marino
-MSID_AuroraCloth: {Unknown080E=03}Stoffa di Aurora
+MSID_AuroraCloth: {Unknown0E08=03}Stoffa di Aurora
 MSID_MiasmaLaziness: Miasma dell'accidia
 MSID_H_MiasmaLaziness: L'unità non può effettuare un attacco\ndoppio.
 MSID_MiasmaGreed: Miasma dell'avarizia
@@ -1699,8 +1699,8 @@ MSID_H_Madness: Imposta l'indicatore dell'Ardore su {Variable=0}.\nIl Superardor
 MSID_SpiritualUnity: Calma dell'oltretomba
 MSID_H_SpiritualUnity: Riporta l'indicatore dell'Ardore a 0.
 MSID_Secret: ???
-MSID_SolidGiant: {Unknown080E=03}Supporto maggiore
-MSID_SandstormBattalion: {Unknown080E=03}Armata di sabbia
+MSID_SolidGiant: {Unknown0E08=03}Supporto maggiore
+MSID_SandstormBattalion: {Unknown0E08=03}Armata di sabbia
 MSID_DragonFormDagda: 
 MSID_H_DragonFormDagda: 
 MSID_DragonFormIshieto: 

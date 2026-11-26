@@ -241,7 +241,7 @@ MID_TUT_Bmap_ReturnQualification_t: Reutilizar licencias
 MID_TUT_Bmap_ReturnQualification_m01_001: Las {SetColor=Gold}licencias de clases especiales{SetColor=Default}, que solo\nse conceden a una unidad, {SetColor=Gold}pueden devolverse{SetColor=Default}.
 MID_TUT_Bmap_ReturnQualification_m01_002: Al devolver la licencia, se entrega también el{SetColor=Gold} objeto\nespecial {SetColor=Default}correspondiente, lo que permitirá que {SetColor=Gold}otra\nunidad se presente al examen de aptitud{SetColor=Default}.
 MID_TUT_Bmap_RecoveryMagic_t: Magia de sanación
-MID_TUT_Bmap_RecoveryMagic_m01_001: La {SetColor=Gold}magia de sanación{SetColor=Default} (como {SetColor=Gold}{Unknown080E=03}Curar{SetColor=Default})\npermite restaurar los PV de tus aliados.
+MID_TUT_Bmap_RecoveryMagic_m01_001: La {SetColor=Gold}magia de sanación{SetColor=Default} (como {SetColor=Gold}{Unknown0E08=03}Curar{SetColor=Default})\npermite restaurar los PV de tus aliados.
 MID_TUT_Bmap_RecoveryMagic_m01_002: Si un {SetColor=Gold}aliado que necesite sanación{SetColor=Default} se encuentra\nen el radio de {SetColor=Gold}alcance {SetColor=Default}de dicha magia, podrás\nusarla seleccionando {SetColor=Gold}Apoyo{SetColor=Default} en el menú de órdenes.
 MID_TUT_Bmap_RecoveryMagic_m01_003: El {SetColor=Gold}número de usos{SetColor=Default} de cada magia es {SetColor=Gold}limitado{SetColor=Default},\nde modo que no los desperdicies.
 MID_TUT_Bmap_SupportingEffect_t: Mejoras de apoyo
@@ -614,91 +614,91 @@ MID_TUT_Root_SalvationSEO_m01_003: De esa manera, tendrás acceso a los mejores\
 MID_TUT_Root_SalvationLED_t: Leda, la Nereida de las Seis Cuerdas
 MID_TUT_Root_SalvationLED_m01_001: Si cuentas con {SetColor=Gold}Leda como aliada{SetColor=Default}, todas las unidades\ntendrán acceso a {SetColor=Gold}bebidas{SetColor=Default} en la taberna.
 MID_TUT_Root_SalvationLED_m01_002: Si Leda se encuentra en {SetColor=Gold}Dagsion{SetColor=Default}, también podrás\naceptar {SetColor=Gold}solicitudes {SetColor=Default}del {LowercaseNextLetter}Tabernero para {SetColor=Gold}actuar{SetColor=Default}.
-MID_TUT_Root_SalvationANH_t: Ondaladas de {Unknown080E=03}Anatolia
+MID_TUT_Root_SalvationANH_t: Ondaladas de {Unknown0E08=03}Anatolia
 MID_TUT_Root_SalvationANH_m01_001: Las {SetColor=Gold}ondaladas{SetColor=Default} de Anatolia, sus técnicas de ignición, son\n{SetColor=Gold}ataques de área{SetColor=Default} que {SetColor=Gold}dañan a rivales al alcance {SetColor=Default}y {SetColor=Gold}destruyen\nobstáculos{SetColor=Default}. El área se amplía según el nivel de la técnica.
 MID_TUT_Root_SalvationBEL_t: Despertares de Bertrand
 MID_TUT_Root_SalvationBEL_m01_001: Las distintas técnicas de ignición de Bertrand\ncon {SetColor=Gold}Despertar{SetColor=Default} en el nombre {SetColor=Gold}mejoran sus atributos{SetColor=Default}\nhasta el inicio de la siguiente fase del jugador.
 MID_TUT_Root_SalvationBEL_m01_002: Además, le permiten {SetColor=Gold}atacar {SetColor=Default}en el mismo turno\nen el que hace uso de alguna.
-MID_TUT_Root_SalvationTAL_t: Males de {Unknown080E=03}Talimun
+MID_TUT_Root_SalvationTAL_t: Males de {Unknown0E08=03}Talimun
 MID_TUT_Root_SalvationTAL_m01_001: Los {SetColor=Gold}males{SetColor=Default} de Talimun, sus técnicas de ignición,\npueden infligir {SetColor=Gold}diferentes estados{SetColor=Default} a {SetColor=Gold}múltiples\nenemigos distantes{SetColor=Default} a la vez.
 MID_TUT_Root_SalvationTAL_m01_002: Los efectos de estas técnicas de ignición\nperduran hasta que los enemigos afectados\nhayan librado un combate o transcurra un turno.
-MID_TUT_Root_SalvationORH_t: Ángel custodio de {Unknown080E=03}Orchel
+MID_TUT_Root_SalvationORH_t: Ángel custodio de {Unknown0E08=03}Orchel
 MID_TUT_Root_SalvationORH_m01_001: {SetColor=Gold}Ángel custodio{SetColor=Default}, la habilidad de ignición de Orchel, le\npermite alternar entre dos técnicas, según la situación:\n{SetColor=Gold}Strahl{SetColor=Default}, de {SetColor=Gold}área extensa{SetColor=Default}, y {SetColor=Gold}Lanze{SetColor=Default}, de {SetColor=Gold}muy largo alcance{SetColor=Default}.
-MID_TUT_Root_HelpePeople_t: Altruismo con {Unknown080E=03}Cai
+MID_TUT_Root_HelpePeople_t: Altruismo con {Unknown0E08=03}Cai
 MID_TUT_Root_HelpePeople_m01_001: Para aceptar una {SetColor=Gold}misión de altruismo{SetColor=Default}, no tienes más\nque hablar con gente que necesite ayuda. Si se la\nprestas, {SetColor=Gold}crecerá tu prestigio{SetColor=Default} y recibirás recompensas.
 MID_TUT_Root_HelpePeople_m01_002: Las personas que precisan ayuda aparecen {SetColor=Gold}señaladas\ncon un icono{SetColor=Default} y se muestran en el {LowercaseNextLetter}Mapa local.
 MID_TUT_Root_HelpePeople_m01_003: Cuanto mayor sea tu {LowercaseNextLetter}Prestigio, más posibilidades\nse te presentarán, así que trata de completar\ntodas las misiones de altruismo que puedas.
 MID_TUT_Root_HelpePeople_m01_004: Puedes consultar los detalles y el estado de las\nmisiones de altruismo en la {LowercaseNextLetter}Lista de misiones\ndel {LowercaseNextLetter}Cuaderno de aventuras
-MID_TUT_Root_Practice_t: Formación con {Unknown080E=03}Cai
+MID_TUT_Root_Practice_t: Formación con {Unknown0E08=03}Cai
 MID_TUT_Root_Practice_m01_001: A medida que {SetColor=Gold}aumente tu prestigio{SetColor=Default}, podrás\nrecibir {SetColor=Gold}formación{SetColor=Default}, que te reportará todo tipo\nde ventajas.
 MID_TUT_Root_Practice_m01_002: Los instructores aparecen {SetColor=Gold}señalados con un icono{SetColor=Default}\ny se muestran también en el {LowercaseNextLetter}Mapa local.
 MID_TUT_Root_Practice_m01_003: Las lecciones que dichos instructores ofrecen\nvariarán en función de tu prestigio, así que\ntrata de que sea lo más alto posible.
-MID_TUT_Root_Field_t: Cultivar con {Unknown080E=03}Cai
+MID_TUT_Root_Field_t: Cultivar con {Unknown0E08=03}Cai
 MID_TUT_Root_Field_m01_001: Usa la opción {SetColor=Gold}Cultivar{SetColor=Default} en los {SetColor=Gold}terrenos fértiles{SetColor=Default}\npara crear un {SetColor=Gold}cultivo{SetColor=Default}.
 MID_TUT_Root_Field_m01_002: Necesitarás{SetColor=Gold} al menos una planta{SetColor=Default} para crear el cultivo.\nPodrás {SetColor=Gold}recoger la cosecha{SetColor=Default} {SetColor=Gold}al cabo de varios turnos{SetColor=Default}.
 MID_TUT_Root_Field_m01_003: Para cosechar un cultivo, no tienes más que {SetColor=Gold}pasar\npor encima{SetColor=Default}. Por lo general, las plantas volverán\na crecer después.
 MID_TUT_Root_Field_m01_004: La única excepción tiene lugar cuando un cultivo\n{SetColor=Gold}se ha cosechado ya varias veces{SetColor=Default}. En ese caso,\npuede volver a convertirse en {SetColor=Gold}terreno fértil{SetColor=Default}.
-MID_TUT_Root_Capture_t: Colocar {LowercaseNextLetter}Cebos con {Unknown080E=03}Cai
+MID_TUT_Root_Capture_t: Colocar {LowercaseNextLetter}Cebos con {Unknown0E08=03}Cai
 MID_TUT_Root_Capture_m01_001: Utiliza la opción {SetColor=Gold}Cebo{SetColor=Default} en un {SetColor=Gold}lugar donde\nhaya animales{SetColor=Default} para colocar un {SetColor=Gold}cebo {SetColor=Default}y {SetColor=Gold}atraer\nuna montura{SetColor=Default}.
 MID_TUT_Root_Capture_m01_002: {SetColor=Gold}Varios turnos después{SetColor=Default}, un animal aparecerá\nen el lugar en cuestión. Para intentar atraparlo,\nusa la opción {SetColor=Gold}Capturar{SetColor=Default}.
 MID_TUT_Root_Capture_m01_003: Si todo {SetColor=Gold}sale bien{SetColor=Default}, {SetColor=Gold}te harás con la montura{SetColor=Default}.\nEn caso de {SetColor=Gold}fallar{SetColor=Default}, el animal huirá, y puede que\ndebas librar una {SetColor=Gold}batalla contra otras criaturas{SetColor=Default}.
 MID_TUT_Root_Capture_m01_004: Resulta {SetColor=Gold}más sencillo atrapar una montura{SetColor=Default}\nusando su{SetColor=Gold} cebo preferido{SetColor=Default}.
-MID_TUT_Root_Fertilizer_t: Alternancia de cultivos con {Unknown080E=03}Cai
+MID_TUT_Root_Fertilizer_t: Alternancia de cultivos con {Unknown0E08=03}Cai
 MID_TUT_Root_Fertilizer_m01_001: Al cosechar un cultivo, a veces hallarás\n{SetColor=Gold}alguna planta que tú no habías sembrado{SetColor=Default}.
 MID_TUT_Root_Fertilizer_m01_002: Por otro lado, al usar la opción {SetColor=Gold}Nuevo cultivo{SetColor=Default}\nen un terreno cultivado, podrás modificarlo para\nque en él {SetColor=Gold}crezcan varios tipos de plantas distintas{SetColor=Default}.
-MID_TUT_Root_Stable_t: Alimentar a las monturas con {Unknown080E=03}Cai
+MID_TUT_Root_Stable_t: Alimentar a las monturas con {Unknown0E08=03}Cai
 MID_TUT_Root_Stable_m01_001: Si {SetColor=Gold}cuidas {SetColor=Default}de tu montura {SetColor=Gold}alimentándola {SetColor=Default}en el establo,\n{SetColor=Gold}su relación contigo mejorará{SetColor=Default}.
 MID_TUT_Root_Stable_m01_002: No dejes de prestarle atención para {SetColor=Gold}estrechar\nvuestro {LowercaseNextLetter}Vínculo {SetColor=Default}y desbloquear nuevas {SetColor=Gold}habilidades\nde montura{SetColor=Default}.
 MID_TUT_Root_Stable_m01_003: Dichas habilidades proporcionan ventajas\na los aliados y {SetColor=Gold}se activan al montarse{SetColor=Default}\nen el animal correspondiente.
 MID_TUT_Root_Stable_m01_004: Para {SetColor=Gold}mejorar el {LowercaseNextLetter}Vínculo con tu montura{SetColor=Default},\nconviene consultar sus gustos y ofrecerle\nsu comida favorita.
-MID_TUT_Root_Stable2_t: Acciones en el establo con {Unknown080E=03}Cai
+MID_TUT_Root_Stable2_t: Acciones en el establo con {Unknown0E08=03}Cai
 MID_TUT_Root_Stable2_m01_001: En el {LowercaseNextLetter}Establo puedes {SetColor=Gold}darles nombre a tus monturas{SetColor=Default}\no {SetColor=Gold}cuidarlas {SetColor=Default}para que {SetColor=Gold}se estreche vuestro vínculo{SetColor=Default}.
 MID_TUT_Root_Stable2_m01_002: También puedes {SetColor=Gold}liberarlas{SetColor=Default}. Al marcharse,\nte dejarán un {SetColor=Gold}objeto{SetColor=Default}, cuya calidad variará\nen función del vínculo que te uniera a ellas.
-MID_TUT_Root_Perspective_t: Tercer Ojo de {Unknown080E=03}Cai
-MID_TUT_Root_Perspective_m01_001: Cuando estés en una {SetColor=Gold}zona explorable con {Unknown080E=03}Cai{SetColor=Default},\n{SetColor=Gold}mantén pulsado {ButtonZL} {SetColor=Default}para {SetColor=Gold}ver a los enemigos{SetColor=Default}\niluminados en rojo a través de los muros.
+MID_TUT_Root_Perspective_t: Tercer Ojo de {Unknown0E08=03}Cai
+MID_TUT_Root_Perspective_m01_001: Cuando estés en una {SetColor=Gold}zona explorable con {Unknown0E08=03}Cai{SetColor=Default},\n{SetColor=Gold}mantén pulsado {ButtonZL} {SetColor=Default}para {SetColor=Gold}ver a los enemigos{SetColor=Default}\niluminados en rojo a través de los muros.
 MID_TUT_Root_Perspective_m01_002: Pero no olvides que, {SetColor=Gold}mientras tengas este poder\nactivado, no podrás moverte{SetColor=Default}. Vigila tus alrededores\npara evitar que te ataquen.
-MID_TUT_Root_Reinforcement_t: Potenciar técnicas con {Unknown080E=03}Dietrich
+MID_TUT_Root_Reinforcement_t: Potenciar técnicas con {Unknown0E08=03}Dietrich
 MID_TUT_Root_Reinforcement_m01_001: Si quieres {SetColor=Gold}potenciar tus técnicas de combate{SetColor=Default},\nhabla con el recepcionista del {SetColor=Gold}templo de Smyrnos{SetColor=Default}.
 MID_TUT_Root_Reinforcement_m01_002: Esto te permitirá {SetColor=Gold}aumentar su potencia (Pot){SetColor=Default}\no su {SetColor=Gold}golpeo (Gol){SetColor=Default}, {SetColor=Gold}reducir su desgaste{SetColor=Default}, etcétera.
 MID_TUT_Root_Reinforcement_m01_003: El proceso requiere {SetColor=Gold}esquirlas del eco{SetColor=Default}, que puedes\nobtener al {SetColor=Gold}derrotar a los enemigos que descubras\nmediante el poder de la Respondedora{SetColor=Default}.
-MID_TUT_Root_Blade_t: La Respondedora de {Unknown080E=03}Dietrich
+MID_TUT_Root_Blade_t: La Respondedora de {Unknown0E08=03}Dietrich
 MID_TUT_Root_Blade_m01_001: Usa la opción {SetColor=Gold}La Respondedora{SetColor=Default} en el mapa\ndel mundo para {SetColor=Gold}descubrir enemigos ocultos{SetColor=Default}\ny poder desafiarlos a una {SetColor=Gold}{LowercaseNextLetter}Escaramuza{SetColor=Default}.
 MID_TUT_Root_Blade_m01_002: {SetColor=Gold}Cada vez que uses{SetColor=Default} dicho poder, su {SetColor=Gold}alcance irá\nmenguando{SetColor=Default} hasta que, llegado cierto punto,\ndeje de ser utilizable.
 MID_TUT_Root_Blade_m01_003: Afortunadamente, el poder de la Respondedora\n{SetColor=Gold}se recupera gradualmente cada turno{SetColor=Default}, y también\n{SetColor=Gold}al entrar o salir de bases{SetColor=Default} y {SetColor=Gold}zonas explorables{SetColor=Default}.
-MID_TUT_Root_SeaKing_t: En busca de {Unknown080E=03}Cetus
+MID_TUT_Root_SeaKing_t: En busca de {Unknown0E08=03}Cetus
 MID_TUT_Root_SeaKing_m01_001: El {SetColor=Gold}poder de la Respondedora{SetColor=Default} es capaz de {SetColor=Gold}detectar\na Cetus{SetColor=Default}. Cuando perciba su presencia, prueba\na {SetColor=Gold}dirigirte al lugar del que proceda la señal{SetColor=Default}.
 MID_TUT_Root_SeaKing_m01_002: Hasta que {SetColor=Gold}confirmes la identidad de la presencia\ndetectada por la Respondedora{SetColor=Default}, no podrás volver\na usar su poder.
-MID_TUT_Root_Arrangement_t: El cazatalentos con {Unknown080E=03}Dietrich
+MID_TUT_Root_Arrangement_t: El cazatalentos con {Unknown0E08=03}Dietrich
 MID_TUT_Root_Arrangement_m01_001: Si aceptas las {SetColor=Gold}cartas de desafío{SetColor=Default} del {SetColor=Gold}cazatalentos{SetColor=Default},\npodrás enfrentarte a los {SetColor=Gold}Temerarios{SetColor=Default}, enemigos\nde un poder extraordinario.
 MID_TUT_Root_Arrangement_m01_002: Cada Temerario tiene su propia {SetColor=Gold}técnica de combate\nsecreta{SetColor=Default}. En caso de que te alces con la victoria,\nDietrich {SetColor=Gold}podrá aprenderla{SetColor=Default}.
 MID_TUT_Root_Arrangement_m01_003: Se {SetColor=Gold}ocultan {SetColor=Default}siempre en {SetColor=Gold}algún lugar de la zona\nexplorable especificada{SetColor=Default}. Tendrás que buscar\nen el lugar en cuestión para encontrarlos.
 MID_TUT_Root_Arrangement_m01_004: A medida que {SetColor=Gold}aumente tu prestigio{SetColor=Default}, recibirás\n{SetColor=Gold}nuevas cartas de desafío{SetColor=Default}, así que visita\nal cazatalentos de vez en cuando.
 MID_TUT_Root_Arrangement_m01_005: Los detalles y el estado de las misiones de las\ncartas de desafío se pueden consultar en la lista\nde misiones del {LowercaseNextLetter}Cuaderno de aventuras.
-MID_TUT_Root_Initiation_t: Transmitir secretos con {Unknown080E=03}Dietrich
+MID_TUT_Root_Initiation_t: Transmitir secretos con {Unknown0E08=03}Dietrich
 MID_TUT_Root_Initiation_m01_001: Al{SetColor=Gold} transmitir secretos{SetColor=Default} mediante {SetColor=Gold}esquirlas del eco{SetColor=Default}, los\notros aliados recibirán también las {SetColor=Gold}técnicas de combate{SetColor=Default}\nque Dietrich haya {SetColor=Gold}aprendido de los Temerarios{SetColor=Default}.
 MID_TUT_Root_Initiation_m01_002: A cambio de esquirlas del eco, es posible transmitir\ncuantas técnicas secretas desees. Las {SetColor=Gold}mejoras{SetColor=Default}\nobtenidas al potenciar las técnicas {SetColor=Gold}no se transmitirán{SetColor=Default}.
-MID_TUT_Root_Legionnaire_t: Batallones con {Unknown080E=03}Theodora
+MID_TUT_Root_Legionnaire_t: Batallones con {Unknown0E08=03}Theodora
 MID_TUT_Root_Legionnaire_m01_001: Al {SetColor=Gold}asignarle {SetColor=Default}un {SetColor=Gold}{LowercaseNextLetter}Batallón {SetColor=Default}a una unidad, los {SetColor=Gold}atributos\nde esta mejorarán{SetColor=Default}. Además, podrá usar {SetColor=Gold}{LowercaseNextLetter}Tácticas{SetColor=Default}.
 MID_TUT_Root_Legionnaire_m01_002: Ciertas {LowercaseNextLetter}Tácticas tienen efectos adicionales. Podrás\nconsultar los detalles al asignarlas. No es posible\nasignar batallones a las unidades montadas.
-MID_TUT_Root_RecruitingSoldiers_t: Reclutar unidades con {Unknown080E=03}Theodora
+MID_TUT_Root_RecruitingSoldiers_t: Reclutar unidades con {Unknown0E08=03}Theodora
 MID_TUT_Root_RecruitingSoldiers_m01_001: Usa la opción {SetColor=Gold}Reclutar unidades{SetColor=Default} en {SetColor=Gold}poblaciones{SetColor=Default}\npara formar y obtener un {SetColor=Gold}{LowercaseNextLetter}Batallón al cabo\nde varios turnos{SetColor=Default}.
 MID_TUT_Root_RecruitingSoldiers_m01_002: Si gozas del {SetColor=Gold}suficiente prestigio{SetColor=Default}, podrás\nreclutar {SetColor=Gold}batallones de mayor calidad{SetColor=Default}.
-MID_TUT_Root_BigRecruitingSoldiers_t: Planes de alistamiento con {Unknown080E=03}Theodora
+MID_TUT_Root_BigRecruitingSoldiers_t: Planes de alistamiento con {Unknown0E08=03}Theodora
 MID_TUT_Root_BigRecruitingSoldiers_m01_001: Los {SetColor=Gold}planes de alistamiento{SetColor=Default} son una opción especial\nde reclutamiento que {SetColor=Gold}añaden el efecto de una arenga{SetColor=Default},\n{SetColor=Gold}facilitando reclutar batallones de mayor calidad{SetColor=Default}.
 MID_TUT_Root_BigRecruitingSoldiers_m01_002: Estarán disponibles en ciertas poblaciones.\nNo dejes pasar la oportunidad de llevarlos a cabo.
-MID_TUT_Root_Allowance_t: Enviar suministros con {Unknown080E=03}Theodora
+MID_TUT_Root_Allowance_t: Enviar suministros con {Unknown0E08=03}Theodora
 MID_TUT_Root_Allowance_m01_001: La opción {SetColor=Gold}Enviar suministros{SetColor=Default} te permite {SetColor=Gold}mandar{SetColor=Default}\na Saramis las {SetColor=Gold}provisiones {SetColor=Default}que su pueblo ha pedido.\nAsí {SetColor=Gold}aumentará tu prestigio{SetColor=Default} y ganarás {SetColor=Gold}recompensas{SetColor=Default}.
 MID_TUT_Root_Allowance_m01_002: Habla con {SetColor=Gold}Bonaventure {SetColor=Default}para que te indique\nqué provisiones solicitan los saramitas.
 MID_TUT_Root_Allowance_m01_003: Los detalles y el estado de estas solicitudes\nse pueden consultar en la {LowercaseNextLetter}Lista de misiones\ndel {LowercaseNextLetter}Cuaderno de aventuras.
-MID_TUT_Root_Deployment_t: Enviar tropas con {Unknown080E=03}Theodora
+MID_TUT_Root_Deployment_t: Enviar tropas con {Unknown0E08=03}Theodora
 MID_TUT_Root_Deployment_m01_001: Puedes enviar un {SetColor=Gold}batallón {SetColor=Default}a {SetColor=Gold}lugares específicos{SetColor=Default}\ny a {SetColor=Gold}zonas explorables{SetColor=Default} para que {SetColor=Gold}reúnan materiales{SetColor=Default}.
 MID_TUT_Root_Deployment_m01_002: El envío de tropas {SetColor=Gold}llevará varios turnos{SetColor=Default}. Una vez\ndesplegados, los batallones no pueden asignarse\na otras unidades ni {SetColor=Gold}usarse para actividades distintas{SetColor=Default}.
 MID_TUT_Root_Deployment_m01_003: Si usas batallones de mayor calidad o que tengan\nafinidad con el lugar al que los envías, podrás obtener\nmás materiales. 
 MID_TUT_Root_Deployment_m01_004: A medida que tu {SetColor=Gold}prestigio aumente{SetColor=Default}, podrás {SetColor=Gold}enviar\nmás batallones a la vez{SetColor=Default}. Puedes consultar el estado\nde un {LowercaseNextLetter}Batallón en la sección {SetColor=Gold}Información {SetColor=Default}> {SetColor=Gold}Tropas{SetColor=Default}.
-MID_TUT_Root_MercenaryUnion_t: Transporte militar con {Unknown080E=03}Theodora
+MID_TUT_Root_MercenaryUnion_t: Transporte militar con {Unknown0E08=03}Theodora
 MID_TUT_Root_MercenaryUnion_m01_001: Es posible trasladar los batallones que no necesites\nmediante el {SetColor=Gold}{LowercaseNextLetter}Transporte militar{SetColor=Default}. Al hacerlo,\n{SetColor=Gold}obtendrás puntos de tropa{SetColor=Default}.
 MID_TUT_Root_MercenaryUnion_m01_002: {SetColor=Gold}Cuando reúnas 100 puntos de tropa, se canjearán\npor un manual de estrategia.{SetColor=Default} Si te sobran batallones,\nes muy aconsejable.
-MID_TUT_Root_Speech_t: Arengas con {Unknown080E=03}Theodora
+MID_TUT_Root_Speech_t: Arengas con {Unknown0E08=03}Theodora
 MID_TUT_Root_Speech_m01_001: Cuando {SetColor=Gold}reclutes tropas{SetColor=Default} en una población, será posible\ndar una {SetColor=Gold}{LowercaseNextLetter}Arenga{SetColor=Default} para que resulte {SetColor=Gold}más sencillo{SetColor=Default}\nobtener un {SetColor=Gold}batallón de mayor calidad{SetColor=Default}.
 MID_TUT_Root_LocalEntertainment_t: Actuar en locales con Leda
 MID_TUT_Root_LocalEntertainment_m01_001: En las {SetColor=Gold}tabernas {SetColor=Default}de toda Dagda hay una gran\ndemanda de {SetColor=Gold}espectáculos de baile{SetColor=Default}.
