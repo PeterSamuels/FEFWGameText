@@ -460,8 +460,7 @@ MID_SC12_17_m08: <TH>
 MID_SC12_17_m08_001: Pousser Mars à de telles extrémités, ce n'est pas\nun mince exploit. Mais c'en est fini de lui.
 MID_SC12_17_m08_002: Un humain n'a aucune chance face à la forme\ndraconique de Mars.
 MID_SC12_17_m08_003: Pourtant, son esprit combatif brûle de plus belle.
-MID_SC12_17_m08_004: {SetColor=Gray}{Unknown0E00=01, 02, 00}[0x00][0x00]Quelle créature terrifiante. Je commence à\ncomprendre ce qui plaisait tant à Lyrah.{Unknown0E00=01, 02, 00}[0xFF][0xFF]{SetColor=Default}
-MID_SC12_17_m09: <TH>
+MID_SC12_17_m08_004: {SetColor=Gray}{Unknown0E00=0001, 0002, 0000, 0000}Quelle créature terrifiante. Je commence à\ncomprendre ce qui plaisait tant à Lyrah.{Unknown0E00=0001, 0002, 0000, FFFF}{SetColor=Default}MID_SC12_17_m09: <TH>
 MID_SC12_17_m09_001: Voir Dietrich affronter un dragon de cette taille,\nle sourire aux lèvres...
 MID_SC12_17_m09_002: Voilà qui me rappelle les Dix Braves de Fódlan.\nIls n'étaient pas différents.
 MID_SC12_17_m10: <TH>
